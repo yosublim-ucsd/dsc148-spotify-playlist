@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 196650,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw"
@@ -3224,6 +3224,28 @@
       "duration_ms": 221200,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "album": {
+        "name": "Sabes Lo Que Pasa",
+        "url": "https://open.spotify.com/album/3IYtQ9QrfzY3HxI0yT2Jem"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240370,
+      "name": "Sabes Lo Que Pasa",
+      "url": "https://open.spotify.com/track/2CeURw76k6T7PLVAQ1NoSr"
     },
     {
       "album": {

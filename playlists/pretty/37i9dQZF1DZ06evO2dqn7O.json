@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 55116,
+  "num_followers": 55120,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAABxIM/0OIa3Y/CwACFpq7c7",
+  "snapshot_id": "Zz54AAAAAACQjK/ZxyXNA1nFgzs1da+N",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "HEY CHILD",
-      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/386PuaIwJSmvEYhwgSKJoF"
       },
@@ -351,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
       "artists": [
         {
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 197933,
-      "name": "HOLD YOU DOWN",
-      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+      "duration_ms": 179666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
       "duration_ms": 207373,
       "name": "Torches",
       "url": "https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "HOLD YOU DOWN",
+      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
     },
     {
       "added_at": null,

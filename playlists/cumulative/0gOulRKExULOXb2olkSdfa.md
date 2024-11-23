@@ -4,7 +4,7 @@
 
 > feel good jams
 
-25 songs - 1 hr 12 min
+26 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2021-10-07 |  |
 | [Sociopath](https://open.spotify.com/track/0xx5CXMss5CFv2GPkg97aC) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Sociopath](https://open.spotify.com/album/1ULTtkDHtkueGlH7isNkAl) | 3:24 | 2021-10-29 |  |
 | [Strange Love](https://open.spotify.com/track/51kzBRf8LFVFybAs7n71y4) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/54YxdzALRQHJYWPrgCHmo1) | 2:31 | 2022-02-28 |  |
+| [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2024-11-22 |  |
 | [The Hearse Song](https://open.spotify.com/track/4XqmIO6Rhx158OgvDIq4Xq) | [Rusty Cage](https://open.spotify.com/artist/1OHoYWZrxs1JoT2kMLI4Uk) | [Gangstalkers, Vol\. 4](https://open.spotify.com/album/1vL0hqDk8OieeVdirZp1Rj) | 2:35 | 2021-10-07 |  |
 
 \*This playlist was first scraped on 2023-07-02. Prior content cannot be recovered.

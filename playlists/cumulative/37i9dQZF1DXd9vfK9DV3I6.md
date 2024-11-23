@@ -4,11 +4,11 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-299 songs - 21 hr 56 min
+300 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1980](https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [1980](https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC) | 4:57 | 2023-09-29 |  |
+| [1980](https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [1980](https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC) | 4:57 | 2023-09-29 | 2024-11-23 |
 | [3 to 1](https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [3 to 1](https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of) | 3:39 | 2020-10-18\* | 2023-07-04 |
 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 | 2022-12-05 | 2024-10-10 |
 | [Aftab](https://open.spotify.com/track/5Nyf64Jof5oKtgItZgr0jD) | [Ata Oztuna](https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Aftab](https://open.spotify.com/album/67qNVtQa6fM49XYGhloxQs) | 5:38 | 2022-10-14 | 2023-03-18 |
@@ -41,6 +41,7 @@
 | [Assos](https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Assos](https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3) | 4:08 | 2024-08-01 |  |
 | [Atlas](https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Atlas](https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb) | 3:04 | 2024-11-15 |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
+| [Avenoir](https://open.spotify.com/track/2oyKAGwDehS7YW9pstIlsF) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Avenoir](https://open.spotify.com/album/3FEhNJuerRSKAzmJba7tYm) | 1:52 | 2024-11-22 |  |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 | 2023-03-03 |  |

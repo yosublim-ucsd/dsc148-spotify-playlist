@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-377 songs - 20 hr 37 min
+378 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Legendary](https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK), [Vkay](https://open.spotify.com/artist/26Na9AsGDehQcRBgPMewIy), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Legendary](https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5) | 4:57 | 2021-11-19 | 2023-09-24 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 | 2022-06-20 |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-04-28 |  |
+| [Lights On](https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:49 | 2024-11-22 |  |
 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 | 2024-08-31 |  |
 | [LOADED](https://open.spotify.com/track/7w53Q075Nr0s8UbAL1Una0) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [It’s Riddim Time](https://open.spotify.com/album/52MZ9cM7DPDCrJZktsHKF0) | 2:55 | 2024-05-24 | 2024-07-13 |
 | [Love Like This \(feat\. Bella Renee\)](https://open.spotify.com/track/33K74zTIv7dTgglpAVw8ur) | [SAYMYNITTI](https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Love Like This \(feat\. Bella Renee\)](https://open.spotify.com/album/7dGzCvUToPLmopmaJoCRcn) | 3:06 | 2023-08-18 | 2023-09-10 |
@@ -317,7 +318,7 @@
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 | 2024-09-14 |
-| [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 |  |
+| [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 | 2024-11-23 |
 | [STEREOPLEIN \- Yellow Claw Remix](https://open.spotify.com/track/00Dk3QJ4P8EfNxgZRa4eQZ) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [MX2](https://open.spotify.com/artist/7dZxYHTZtPPrExuIkf6IvJ), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [STEREOPLEIN \(Yellow Claw Remix\)](https://open.spotify.com/album/5Ef276bu8Pt9ZWeJT4nNS1) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 | 2023-09-22 |  |
 | [STFU](https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA) | [G\-Buck](https://open.spotify.com/artist/4Oxbc00K1336zJYgpR01Aw), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [STFU](https://open.spotify.com/album/1nCOqWGL5YHttCIQURnmmY) | 3:00 | 2021-11-19 | 2022-07-26 |

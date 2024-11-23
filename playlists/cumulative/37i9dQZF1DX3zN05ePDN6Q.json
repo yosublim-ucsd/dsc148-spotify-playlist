@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Murica",
+  "description": "boom bap renasce todo dia. Foto: MV Bill",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182823,
       "name": "A M\u00fasica Que o Adonai Esqueceu",
       "url": "https://open.spotify.com/track/24FAiinjSl2PHyzOVdltwY"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 143340,
       "name": "Bronze",
       "url": "https://open.spotify.com/track/0lHz3l4rDghESJj6rSGQAn"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 242702,
       "name": "Dadin",
       "url": "https://open.spotify.com/track/711ui8o5SFRdaykxnSB9CN"
@@ -4889,6 +4889,32 @@
     },
     {
       "album": {
+        "name": "P\u00e1lido Ponto Azul",
+        "url": "https://open.spotify.com/album/6JUTiJBMt3ful2dyaB6SWh"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "sol na voz",
+          "url": "https://open.spotify.com/artist/6vCA2kSjaRhH1ox36SMs3H"
+        },
+        {
+          "name": "Barretinho",
+          "url": "https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5yQKXzg5Ir8tCtrRGkK3yQ"
+    },
+    {
+      "album": {
         "name": "A Melhor Hora \u00c9 Agora",
         "url": "https://open.spotify.com/album/4TNlLlo6EKvnhrqRY66a47"
       },
@@ -5032,7 +5058,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 186666,
       "name": "Forasteiro",
       "url": "https://open.spotify.com/track/0Wf7GoGeqmFaTMuV8h5GAK"
@@ -5656,6 +5682,32 @@
       "duration_ms": 162048,
       "name": "Hayabusa",
       "url": "https://open.spotify.com/track/4dPxcB0YvJ5ukMenl3bqY0"
+    },
+    {
+      "album": {
+        "name": "Hip Hop ISLAND",
+        "url": "https://open.spotify.com/album/6Clwmatu8ykI7niB5sV5AA"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "DJ Buck",
+          "url": "https://open.spotify.com/artist/7Hu6KadJL65ZvjRpB3EWfw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Hip Hop ISLAND",
+      "url": "https://open.spotify.com/track/6PRN52P2M1V8Ud2ayn31xF"
     },
     {
       "album": {
@@ -6297,6 +6349,40 @@
     },
     {
       "album": {
+        "name": "Krabi",
+        "url": "https://open.spotify.com/album/3woSsuG4bG70Ismb03ZkKR"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234418,
+      "name": "Krabi",
+      "url": "https://open.spotify.com/track/5GGnuusI42nqwYuttQGgA1"
+    },
+    {
+      "album": {
         "name": "OPROPRIO",
         "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
       },
@@ -6442,6 +6528,24 @@
       "duration_ms": 228733,
       "name": "Legitima Defesa - DJ Hum Remix",
       "url": "https://open.spotify.com/track/4RWoE0Ulx1lDiTEdpvvk6O"
+    },
+    {
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/4QTN4fieAEaUkblduPjgSI"
+      },
+      "artists": [
+        {
+          "name": "Ordem Natural",
+          "url": "https://open.spotify.com/artist/40p1IdVbcMmTQZZIu6FVkZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/0sJajRKdkcXAPVXfLpD2Ek"
     },
     {
       "album": {
@@ -6834,7 +6938,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 192000,
       "name": "Margem",
       "url": "https://open.spotify.com/track/5yo7JXGV8wjHbXRrufcz9R"
@@ -7526,7 +7630,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 261713,
       "name": "Muito Alto",
       "url": "https://open.spotify.com/track/41wDc5HjSmlwDcxjLEgK8s"
@@ -13103,6 +13207,28 @@
     },
     {
       "album": {
+        "name": "Na Vis\u00e3o do Morador",
+        "url": "https://open.spotify.com/album/6Vjh1TxAniPlCGL0XM2yaK"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Volta por Cima",
+      "url": "https://open.spotify.com/track/5g5IenKtBZJiyGYGuTFgjA"
+    },
+    {
+      "album": {
         "name": "Vontade",
         "url": "https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A"
       },
@@ -13570,7 +13696,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 204024,
       "name": "\u00c9 Normal Amar",
       "url": "https://open.spotify.com/track/4zRAL7q9r8L8jFlAiilM1X"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Fievel Is Glauque",
+  "description": "Smooth indie jazz joints from around the globe. Cover: BADBADNOTGOOD",
   "name": "Rarities",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 264133,
       "name": "b i g f e e l i n g s",
       "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 253197,
       "name": "Black Gleam",
       "url": "https://open.spotify.com/track/7evuSa4SWrFSDzR5ZXQnse"
@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/5tvEnio4mqyFoCXcSypOAe"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Hoodna Orchestra",
+          "url": "https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296186,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/65PaM2ibhg3TXAKRLjUWdt"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/73q36mrh3hRJcgf2cKSqEr"
       },
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 245546,
       "name": "Departure",
       "url": "https://open.spotify.com/track/2mS8I2Uqpg98kHGc3quqU4"
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 142417,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL"
@@ -1572,6 +1594,24 @@
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
     },
     {
       "album": {
@@ -1957,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Hypnagogic",
+        "url": "https://open.spotify.com/album/3ELHI8IOc8XpEkjAdPVAN9"
+      },
+      "artists": [
+        {
+          "name": "Intermood",
+          "url": "https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520078,
+      "name": "Hypnagogic",
+      "url": "https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA"
+    },
+    {
+      "album": {
         "name": "I DM U",
         "url": "https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd"
       },
@@ -2084,7 +2142,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 126450,
       "name": "I Need Therapy 2.4 (alt_demo)",
       "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
@@ -2672,7 +2730,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 215869,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
@@ -2712,7 +2770,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 284386,
       "name": "Marching Band (feat. Masego)",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
@@ -2956,6 +3014,24 @@
       "duration_ms": 215695,
       "name": "New Meaning",
       "url": "https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm"
+    },
+    {
+      "album": {
+        "name": "Night Charade",
+        "url": "https://open.spotify.com/album/72bKtxfFJlazTMYbOe1y6Z"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188297,
+      "name": "Night Charade",
+      "url": "https://open.spotify.com/track/7hd8t7SjAaDdcoMjUVAeEN"
     },
     {
       "album": {
@@ -3467,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
         "name": "poor man's boy",
         "url": "https://open.spotify.com/album/5jZKYpgLEzCohYyYejUD4L"
       },
@@ -3504,6 +3602,24 @@
       "duration_ms": 166287,
       "name": "Porto Leone",
       "url": "https://open.spotify.com/track/4tdl1dv3eNHOvSQ1MUqOZW"
+    },
+    {
+      "album": {
+        "name": "Mr Loverman (Original Score)",
+        "url": "https://open.spotify.com/album/6ieeIRvzRwhsxJL2aThKv4"
+      },
+      "artists": [
+        {
+          "name": "Speakers Corner Quartet",
+          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Proceed Reprise",
+      "url": "https://open.spotify.com/track/3Z3grrDVAoNcDwhTeWKJ5g"
     },
     {
       "album": {
@@ -3674,6 +3790,24 @@
       "duration_ms": 196000,
       "name": "Romance ESL",
       "url": "https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV"
+    },
+    {
+      "album": {
+        "name": "Letting Go of Forever",
+        "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143617,
+      "name": "Room of Levitation",
+      "url": "https://open.spotify.com/track/4LWCTnfQfJtE98C9LuYUOA"
     },
     {
       "album": {
@@ -4156,7 +4290,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 228220,
       "name": "Spaceships",
       "url": "https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E"
@@ -4236,6 +4370,24 @@
       "duration_ms": 199500,
       "name": "Stay Soft",
       "url": "https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt"
+    },
+    {
+      "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
       "album": {
@@ -4352,6 +4504,24 @@
       "duration_ms": 199785,
       "name": "Sunbursting",
       "url": "https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige"
+    },
+    {
+      "album": {
+        "name": "Get The Message",
+        "url": "https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Sweeter Than",
+      "url": "https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf"
     },
     {
       "album": {
@@ -4704,7 +4874,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 221226,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"

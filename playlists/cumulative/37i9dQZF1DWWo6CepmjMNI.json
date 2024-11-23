@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lost n' Found",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 242",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/16aulQnbsgdsvQAJYiEiKO"
+      },
+      "artists": [
+        {
+          "name": "Topeople",
+          "url": "https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236225,
+      "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/2BLJyyfby2e0wTY6gwSJDL"
+    },
+    {
+      "album": {
         "name": "Octave",
         "url": "https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 221777,
       "name": "Dandilion (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e44\u0e1b)",
       "url": "https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 227276,
       "name": "Skuna",
       "url": "https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 246857,
       "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ"
@@ -853,6 +871,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e32\u0e22\u0e42\u0e2d\u0e40\u0e04\u0e21\u0e31\u0e4a\u0e22?",
+        "url": "https://open.spotify.com/album/2AsXWp3dfEK7DnSHJRcaGr"
+      },
+      "artists": [
+        {
+          "name": "NINEOKMAI",
+          "url": "https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233806,
+      "name": "\u0e19\u0e32\u0e22\u0e42\u0e2d\u0e40\u0e04\u0e21\u0e31\u0e4a\u0e22?",
+      "url": "https://open.spotify.com/track/3axsUzgguRlowEKveAOskq"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e2d\u0e01\u0e25\u0e32 (So Long)",
         "url": "https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk"
       },
@@ -958,6 +994,24 @@
       "duration_ms": 325890,
       "name": "\u0e1d\u0e31\u0e19\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (Love Getaway)",
+        "url": "https://open.spotify.com/album/29nJTlNCjHfBTKRMIrl862"
+      },
+      "artists": [
+        {
+          "name": "Apollo Thirteen",
+          "url": "https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 - Love Getaway",
+      "url": "https://open.spotify.com/track/7ByZTcfU7kI04NcxCqj03J"
     },
     {
       "album": {
@@ -1084,6 +1138,24 @@
       "duration_ms": 207000,
       "name": "\u0e21\u0e32\u0e22\u0e32 (Maya)",
       "url": "https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e2d\u0e21\u0e40\u0e18\u0e2d(ahhh)",
+        "url": "https://open.spotify.com/album/3HuQtv6FggFCkTnNav87wh"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u0e22\u0e2d\u0e21\u0e40\u0e18\u0e2d(ahhh)",
+      "url": "https://open.spotify.com/track/7pMs1Te4Z2KwJbqx1j7nyl"
     },
     {
       "album": {
@@ -1416,6 +1488,24 @@
       "duration_ms": 276750,
       "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23 (Toxic)",
       "url": "https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e27\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e22 (jelly)",
+        "url": "https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA"
+      },
+      "artists": [
+        {
+          "name": "dayys",
+          "url": "https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "\u0e2b\u0e27\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e22 (jelly)",
+      "url": "https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy"
     },
     {
       "album": {
@@ -2014,7 +2104,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 242922,
       "name": "\u0e43\u0e19\u0e1d\u0e31\u0e19 (Krueger)",
       "url": "https://open.spotify.com/track/5Kt6NUklWl2rzexBr07KBC"
@@ -2158,7 +2248,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 249000,
       "name": "\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/7iTEtdRrFCy2FczyQ5HRK0"

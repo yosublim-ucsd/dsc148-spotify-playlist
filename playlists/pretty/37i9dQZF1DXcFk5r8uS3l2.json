@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 451752,
+  "num_followers": 451796,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAB9/9KPs4OvoWzKKMenyYSx",
+  "snapshot_id": "Z0AP0AAAAABQe5/xnFVYS1R8DxRdYw6F",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Pour Me Out",
+        "url": "https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 228399,
+      "name": "Pour Me Out",
+      "url": "https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
@@ -1671,26 +1687,6 @@
       "duration_ms": 209475,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        },
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "Shake! Shake! Shake!",
-      "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Monet192",
-  "num_followers": 585639,
+  "num_followers": 585635,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "Es tut mir leid",
-        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 150738,
-      "name": "Es tut mir leid",
-      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
         "name": "Ich will",
         "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 193906,
       "name": "Ich will",
       "url": "https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
+        "name": "Es tut mir leid",
+        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 150738,
+      "name": "Es tut mir leid",
+      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "Ich Liebe Dich",
-        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 155152,
-      "name": "Ich Liebe Dich",
-      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 151704,
       "name": "Was du nicht siehst (feat. ela.)",
       "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 127799,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "Selber Schuld",
-        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "Selber Schuld",
-      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
         "name": "Kopf aus",
         "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 136120,
       "name": "Kopf aus",
       "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
+        "name": "Selber Schuld",
+        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "Selber Schuld",
+      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        }
+      ],
+      "duration_ms": 164687,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO"
+    },
+    {
+      "added_at": "2024-11-18 11:31:57",
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 216421,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k"
-    },
-    {
-      "added_at": "2024-11-18 11:31:57",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        }
-      ],
-      "duration_ms": 164687,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "Bis zur Spree (feat. Juju)",
-        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
       },
       "artists": [
         {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 165219,
-      "name": "Bis zur Spree (feat. Juju)",
-      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
+      "duration_ms": 167899,
+      "name": "Abendkleider und Nadelstreifen",
+      "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
     },
     {
       "added_at": "2024-11-18 11:31:57",
@@ -1835,34 +1831,42 @@
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "ufos",
-        "url": "https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH"
+        "name": "Bis zur Spree (feat. Juju)",
+        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
       },
       "artists": [
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 134317,
-      "name": "ufos",
-      "url": "https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1"
+      "duration_ms": 165219,
+      "name": "Bis zur Spree (feat. Juju)",
+      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-11-18 11:31:57",
       "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
       },
       "artists": [
         {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
         }
       ],
-      "duration_ms": 167899,
-      "name": "Abendkleider und Nadelstreifen",
-      "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
     },
     {
       "added_at": "2024-11-18 11:31:57",

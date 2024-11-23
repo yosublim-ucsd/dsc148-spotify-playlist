@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-298 songs - 19 hr 22 min
+302 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,9 @@
 | [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 | 2022-05-27 | 2023-05-19 |
 | [Loser](https://open.spotify.com/track/5jVxMJfoWF0l7EgTjIiBzr) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 4:19 | 2023-05-13 | 2024-04-19 |
 | [Loser](https://open.spotify.com/track/5okFkhRbWOSDWp3c15ouMB) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:19 | 2021-08-20 | 2024-11-13 |
+| [Losing My Religion](https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [.](https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP) | 4:58 | 2024-11-22 |  |
 | [Love Her Madly](https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Pickin' On The Doors](https://open.spotify.com/album/4CGYV0NXAcsomCK4swjBuX) | 3:45 | 2024-07-13 |  |
+| [Love Is Alive](https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX) | [Shar Carillo](https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a), [Loke](https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw) | [Love Is Alive](https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg) | 4:03 | 2024-11-22 |  |
 | [Love Is The Seventh Wave](https://open.spotify.com/track/40gDRdKSnvuYSESfYOTLyH) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [The Duhks](https://open.spotify.com/album/67fL5oCCKrEMS7iMWh15m5) | 3:25 | 2021-08-20 | 2022-04-02 |
 | [Low](https://open.spotify.com/track/4OLKxDTU5803FNDuQijxX8) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:14 | 2022-05-27 | 2023-05-14 |
 | [Low](https://open.spotify.com/track/777LkVsyeIirHbJUjm2JHf) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:14 | 2021-08-20 | 2022-07-29 |
@@ -181,6 +183,7 @@
 | [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 | 2022-08-10 |
 | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh) | [Tompall & The Glaser Brothers](https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py) | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV) | 6:36 | 2024-05-10 |  |
 | [Misirlou](https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Misirlou](https://open.spotify.com/album/3QjwvTaEt6WBksPrs00Mb7) | 2:25 | 2022-07-15 | 2022-08-10 |
+| [Miss You](https://open.spotify.com/track/5ezfm5XJ0Wn7Kkd7Ewtu3d) | [Tommy Drinkard](https://open.spotify.com/artist/0WUnSuDkHH73JTgCuysUsR), [the Remedy](https://open.spotify.com/artist/6YgPmTwGDVLEBXtbP6pWXC) | [Miss You](https://open.spotify.com/album/1lpSWEvrJDqd18hsKGSViU) | 4:09 | 2024-11-22 |  |
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 | 2023-05-20 |
 | [My Love \(Live\)](https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK) | [Humming House Party! \(Live\)](https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k) | 4:38 | 2021-08-20 |  |
 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 | 2021-08-20 | 2023-05-14 |
@@ -284,6 +287,7 @@
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-05-27 | 2023-08-12 |
 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 | 2021-08-20 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/2dJrn376fJPUCj1f4txnRQ) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Where Is My Mind?](https://open.spotify.com/album/7vH2fXhej1rubfAOvqwECV) | 3:30 | 2021-08-20 | 2023-05-14 |
+| [While My Guitar Gently Weeps](https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [The Set](https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS) | 5:56 | 2024-11-22 |  |
 | [White Bird](https://open.spotify.com/track/2PtX9ivW736enJeAIY5G0h) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Laps In Seven](https://open.spotify.com/album/10iKg9kGMqfPquNwsXzcdm) | 6:00 | 2021-08-20 | 2022-04-02 |
 | [White Rabbit](https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [White Rabbit](https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd) | 5:15 | 2023-04-07 |  |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-08-20 | 2023-08-12 |

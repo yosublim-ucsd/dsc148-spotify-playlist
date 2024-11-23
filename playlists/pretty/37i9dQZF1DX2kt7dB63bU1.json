@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 150319,
+  "num_followers": 150355,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZztMHAAAAACA6xHvh8DK8FeApCKLjO6w",
+  "snapshot_id": "Z0AP0AAAAADdt+rLJ5Z64RP1RaRBekQs",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 346133,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "My Favorite Things (Studio Version)",
+        "url": "https://open.spotify.com/album/5YWAsFcrpofI4SiVMxIrs2"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "My Favorite Things - Studio Version",
+      "url": "https://open.spotify.com/track/6UBb22xz9sKDx6GEnjLhUH"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1835,22 +1851,6 @@
       "duration_ms": 280624,
       "name": "Wonder in the Waiting",
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Rainbow Forest",
-        "url": "https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        }
-      ],
-      "duration_ms": 290381,
-      "name": "Rainbow Forest - Single Edit",
-      "url": "https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV"
     },
     {
       "added_at": "2023-10-27 04:01:00",

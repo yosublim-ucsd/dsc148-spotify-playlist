@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Putri Ariani
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,919 likes - 102 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,920 likes - 102 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 28 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 |
 | 29 | [take me home](https://open.spotify.com/track/03CfNgeIsd5pKYidGk2pm3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [take me home](https://open.spotify.com/album/1jsjYXxocWl0MyMvpCJ19k) | 4:36 |
 | 30 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 |
-| 31 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [DEEP7](https://open.spotify.com/artist/1WfDQhaTHaVTGzVi6SiJfJ), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 |
+| 31 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 |
 | 32 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 |
 | 33 | [Life Of The Party](https://open.spotify.com/track/6XPibXdca5CWY3Zz6iNSi2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Life Of The Party](https://open.spotify.com/album/1rOcdVbjMEfs5DBSVaBcQb) | 3:20 |
 | 34 | [The Way You Look At Me](https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [The Way You Look At Me](https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5) | 4:10 |

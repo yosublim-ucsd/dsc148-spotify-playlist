@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-956 songs - 2 day 3 hr 37 min
+957 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-03-25 | 2022-05-20 |
 | [Dreams](https://open.spotify.com/track/6Ghvb6ELWbMh3b0G8IMHuV) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Medhavini](https://open.spotify.com/artist/4fGzJLb60423e3BJn1BEJJ) | [Dreams](https://open.spotify.com/album/5AVJ4YMpAWgq9fLtcFdgWd) | 2:43 | 2022-02-15 | 2022-04-06 |
 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 | 2022-02-14 | 2023-02-04 |
+| [Dua](https://open.spotify.com/track/7vd7oKrNkcIp1cy3Lo2rje) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL), [Ishan Johar](https://open.spotify.com/artist/21Nkz5eY80eZkv2DX8qnv5), [Rishab](https://open.spotify.com/artist/4sGmz5vtq7ZsiZgaDP5nj3) | [Dua](https://open.spotify.com/album/0fXiIltyTfJc3G7bm1jwOZ) | 2:25 | 2024-11-22 |  |
 | [Dua](https://open.spotify.com/track/37A483vclJKTTsZpXc7uRo) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [The Last Good Album](https://open.spotify.com/album/5VIBDz0S6RFTFbTw8GTwKS) | 4:59 | 2023-06-23 | 2023-06-27 |
 | [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 | 2022-11-25 | 2023-02-02 |
 | [Dua Mangdi](https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB) | [Karan Dhillon](https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Dua Mangdi](https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8) | 3:07 | 2022-02-08 | 2022-02-12 |
@@ -474,7 +475,7 @@
 | [Like Karda](https://open.spotify.com/track/1JuSXMxHuRiVaHFN3z380v) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:26 | 2022-08-04 | 2022-08-18 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 | 2024-02-22 |
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
-| [Loafer](https://open.spotify.com/track/1Ha1bzCgyyZbhiSHygtTKs) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Loafer](https://open.spotify.com/album/468GTdce4X0z4lrsmo81Zz) | 2:52 | 2024-11-06 |  |
+| [Loafer](https://open.spotify.com/track/1Ha1bzCgyyZbhiSHygtTKs) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Loafer](https://open.spotify.com/album/468GTdce4X0z4lrsmo81Zz) | 2:52 | 2024-11-06 | 2024-11-23 |
 | [LOML \(Sifta\)](https://open.spotify.com/track/4dCJsmrfZK6md1KM3ZK1Zk) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:16 | 2024-10-10 | 2024-11-16 |
 | [London Bridge](https://open.spotify.com/track/7iSITFbbFsBP5vfZH2BSdY) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [London Bridge](https://open.spotify.com/album/28356uvnBo5DfxR8u1hPhc) | 2:30 | 2022-12-06 | 2022-12-24 |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |

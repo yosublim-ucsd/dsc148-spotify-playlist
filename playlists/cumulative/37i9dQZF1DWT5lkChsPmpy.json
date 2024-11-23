@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 134710,
       "name": "Business Class",
       "url": "https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 148333,
       "name": "Dayjob Dreamer",
       "url": "https://open.spotify.com/track/5TXy3ox3nZkGsGRyuzWT49"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 136500,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1DCK1OSYbuD0y6UiKihULg"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 207543,
       "name": "Il Mondriano",
       "url": "https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp"
@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 127235,
       "name": "Joseph's Well",
       "url": "https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU"
@@ -4439,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "leading up",
+        "url": "https://open.spotify.com/album/2S8qduZPKk5gD1n8QqNdBv"
+      },
+      "artists": [
+        {
+          "name": "SGT DUST",
+          "url": "https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "leading up",
+      "url": "https://open.spotify.com/track/17gWxv1Nfj7H3XjPPbvXus"
+    },
+    {
+      "album": {
         "name": "let it be",
         "url": "https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF"
       },
@@ -4767,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Lost Lake",
+        "url": "https://open.spotify.com/album/13GBkcYPLPfTH69SaSZctl"
+      },
+      "artists": [
+        {
+          "name": "Nod Sina",
+          "url": "https://open.spotify.com/artist/4fXiesZ0wEdvaRJQk6GgrW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Lost Lake",
+      "url": "https://open.spotify.com/track/4UaC44wrVGK5zaFXFehYRx"
+    },
+    {
+      "album": {
         "name": "Lounges",
         "url": "https://open.spotify.com/album/2n8ETq2ybdSzRi15mGm4bt"
       },
@@ -4994,7 +5030,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 220609,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/0m3ujzAZJD5VGWOzlEPlZA"
@@ -5304,7 +5340,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 137727,
       "name": "Midnight Sessions",
       "url": "https://open.spotify.com/track/7u0N11DPQKRk2qN0zcZzAC"
@@ -5514,6 +5550,24 @@
       "duration_ms": 265522,
       "name": "More of this, Please",
       "url": "https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58"
+    },
+    {
+      "album": {
+        "name": "morning glow",
+        "url": "https://open.spotify.com/album/5hWPkeMWeRwpyy1ftvTCFH"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167541,
+      "name": "morning glow",
+      "url": "https://open.spotify.com/track/7hTwXBphptPv6oSxwX8mXA"
     },
     {
       "album": {
@@ -6691,6 +6745,24 @@
     },
     {
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/2v5DPz7fQKNZLUQTEkUvoU"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5yNx6x8AOOGT5arzHuZt4r"
+    },
+    {
+      "album": {
         "name": "Rolling Waves",
         "url": "https://open.spotify.com/album/6xxZBlJhExbVHs3qJvTkJm"
       },
@@ -6810,7 +6882,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182267,
       "name": "S.E.P Field",
       "url": "https://open.spotify.com/track/4ObvyyrbAQGDkT0cc9pOFd"
@@ -7138,7 +7210,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 133333,
       "name": "sky high",
       "url": "https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs"
@@ -7268,7 +7340,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 165071,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/0BZA9vcgNU7xsGSAHxahuG"
@@ -7326,6 +7398,24 @@
       "duration_ms": 160000,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR"
+    },
+    {
+      "album": {
+        "name": "So Nice To See You Again",
+        "url": "https://open.spotify.com/album/4Fe0GXB85cjwyXiN8jEwit"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180825,
+      "name": "So Nice To See You Again",
+      "url": "https://open.spotify.com/track/7xMzHkkzNI3ra0SCmWRGYM"
     },
     {
       "album": {
@@ -7463,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/32oPwXeectbyrFMvBZBzXV"
+      },
+      "artists": [
+        {
+          "name": "Jonga",
+          "url": "https://open.spotify.com/artist/0QORWOkQ65NRorXBdirzmy"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/66OIuJhnjydtNtUdqH6qB6"
+    },
+    {
+      "album": {
         "name": "soul serum",
         "url": "https://open.spotify.com/album/7MaUGcfvsLuWu2YYxxAUNX"
       },
@@ -7546,7 +7654,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172909,
       "name": "Spinn",
       "url": "https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv"
@@ -7846,7 +7954,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 152195,
       "name": "Take a Breather",
       "url": "https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x"
@@ -7882,7 +7990,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 154687,
       "name": "Terminus",
       "url": "https://open.spotify.com/track/0BbrZBVVUqCoTmXqVuu51Z"
@@ -8098,7 +8206,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 164571,
       "name": "The Yellow Taxi",
       "url": "https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05"
@@ -8415,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "too bright",
+        "url": "https://open.spotify.com/album/7Hdyos0LAXd6ddXj5Lydu3"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "too bright",
+      "url": "https://open.spotify.com/track/3suSesOhgUyg3nMVqqB7Yi"
+    },
+    {
+      "album": {
         "name": "Torches to the Sky",
         "url": "https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C"
       },
@@ -8606,7 +8732,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 121833,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/5hWW36eJzKuEKBDLtEra0X"
@@ -8732,7 +8858,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 163888,
       "name": "Vacay - Tropical Jazz Mix",
       "url": "https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2"

@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 271085,
+  "num_followers": 271274,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137786,
       "name": "Hasta el Sol de Hoy (En Vivo)",
       "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Adicto a Tu Piel",
-        "url": "https://open.spotify.com/album/0GaQEVzKdGyzwbw6gzVltM"
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 239796,
-      "name": "Adicto a Tu Piel",
-      "url": "https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV"
+      "duration_ms": 163800,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
     },
     {
       "added_at": "2024-11-15 12:04:19",

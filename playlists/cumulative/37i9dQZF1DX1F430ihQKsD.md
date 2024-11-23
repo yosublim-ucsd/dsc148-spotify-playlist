@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Mon Doux Saigneur
+> La scène musicale montréalaise au premier plan\. Photo: Skiifall
 
-541 songs - 1 day 7 hr 6 min
+542 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2023-05-13 |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-15 | 2023-10-28 |
 | [Corde à linge](https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Corde à linge](https://open.spotify.com/album/652iWZmNRzFWHQ45yYzznR) | 6:20 | 2024-09-20 | 2024-11-16 |
+| [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-22 |  |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-09-27 | 2024-10-19 |
 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 | 2024-08-23 | 2024-10-26 |
@@ -225,7 +226,7 @@
 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 | 2023-06-02 | 2024-04-19 |
 | [Intense City](https://open.spotify.com/track/5vkXjQhaI8zDNFytXICKdA) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 – INTENSE CITY](https://open.spotify.com/album/0GytKP6Ia9btkNkxpVmo6D) | 2:40 | 2024-04-19 | 2024-08-17 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2022-03-25 | 2022-06-11 |
-| [Invisible](https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Invisible](https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx) | 2:56 | 2023-08-18 |  |
+| [Invisible](https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Invisible](https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx) | 2:56 | 2023-08-18 | 2024-11-23 |
 | [iridescence](https://open.spotify.com/track/3urtX8ukzRA1uco5FqHpYE) | [Mada Mada](https://open.spotify.com/artist/71nppOJgBwJ7V2gjyHGtA5), [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [iridescence](https://open.spotify.com/album/3rTVNlAo7wbXkqETpKVNVN) | 3:42 | 2023-10-13 | 2024-03-23 |
 | [Isolated](https://open.spotify.com/track/5FM8xEph5A58laSAIr16ph) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF) | 1:36 | 2023-04-14 | 2023-10-21 |
 | [Isolated](https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 1:36 | 2022-08-26 | 2023-04-15 |

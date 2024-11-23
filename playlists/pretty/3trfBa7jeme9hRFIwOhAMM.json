@@ -1,13 +1,29 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4357,
+  "num_followers": 4361,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "AAAH6NlCcW/k5d9uYfsjSf+G4YBQ1b1j",
+  "snapshot_id": "AAAH7uvPhsGS19f2SqZN46AJ1PaVM6Ed",
   "tracks": [
+    {
+      "added_at": "2024-11-22 13:23:30",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/584k5yY7qB2EnnbDcT3xzT"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 233024,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/7tcqpfi5i5Mv4WWVskbFzk"
+    },
     {
       "added_at": "2024-11-14 12:54:23",
       "album": {

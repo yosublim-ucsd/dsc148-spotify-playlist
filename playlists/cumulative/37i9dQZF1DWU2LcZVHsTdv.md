@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-258 songs - 15 hr 44 min
+259 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [We All Carry Something](https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/4E9ZzEudunTKLXzj9xCYYa) | 3:26 | 2022-07-15 | 2023-11-04 |
 | [We All Carry Something](https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK) | 3:26 | 2023-10-20 | 2024-04-19 |
 | [We All Carry Something](https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ) | 3:26 | 2021-12-10 |  |
+| [We Grew Up Together](https://open.spotify.com/track/5bqMCIMmXhVzJcFDvXol6k) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [We Grew Up Together](https://open.spotify.com/album/6CesRSYsYrymjAjlFbT7CP) | 3:42 | 2024-11-22 |  |
 | [When I Get Where I'm Going \(feat\. Dolly Parton\)](https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:07 | 2021-12-10 |  |
 | [When I Meet My Maker](https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:32 | 2021-12-10 |  |
 | [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 | 2022-11-04 | 2022-11-13 |

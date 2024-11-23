@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-437 songs - 21 hr 44 min
+438 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Paper](https://open.spotify.com/track/0BR4eVpihSK7xCLuAXjI4Q) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Paper](https://open.spotify.com/album/07VfTAOGM8BUm47LGYGmJM) | 3:01 | 2021-12-20 | 2022-07-19 |
 | [Parasitic](https://open.spotify.com/track/0qXnt66PvH1riHTs9Ka5Ax) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Aftermath](https://open.spotify.com/album/4LuC278mRaXntCTakB8Z1u) | 2:53 | 2022-03-14 | 2022-08-19 |
 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 | 2023-06-20 | 2024-11-19 |
+| [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 | 2024-11-18 |  |
 | [PET WITH THE TISM](https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [PET WITH THE TISM](https://open.spotify.com/album/6Al5pUbSlNO6YW6L2iYFcB) | 2:43 | 2024-11-18 |  |
 | [Petty Enemy](https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Petty Enemy](https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f) | 3:19 | 2024-02-23 | 2024-05-12 |
 | [Picking Up the Pieces](https://open.spotify.com/track/1kIf20Xm1uoAuidKiXt2pm) | [Only the Strong](https://open.spotify.com/artist/7KN7bgSp0MvTRI0C2BQw9z) | [Picking Up the Pieces](https://open.spotify.com/album/24ZwTivUfE0tAjbacPgloY) | 3:22 | 2021-12-20 | 2022-01-15 |
@@ -375,7 +376,7 @@
 | [Sway](https://open.spotify.com/track/2pXlMS6bZTBfUNCa5CruJR) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Hello, It's You](https://open.spotify.com/album/5zFhG4Xnxmz6kJeygmWGSg) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [Sway](https://open.spotify.com/track/5NZ86YaW48jgWG0QoEujpw) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Hello, It's You](https://open.spotify.com/album/504ZsEVhEpWC0S4ZRZxdoK) | 2:55 | 2022-07-18 | 2022-10-14 |
 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 | 2024-01-12 |  |
-| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-10 |  |
+| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-10 | 2024-11-23 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-11-18 |  |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-08-10 | 2024-10-16 |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-09 | 2023-10-20 |

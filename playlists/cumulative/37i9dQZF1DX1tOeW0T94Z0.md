@@ -2,9 +2,9 @@
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Jelleestone
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Saukrates
 
-147 songs - 9 hr 38 min
+148 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [California Dreamin'](https://open.spotify.com/track/5B3YiEvNhNPGG5O0dSiev1) | [Dream Warriors](https://open.spotify.com/artist/0Hh2eQ8oBmRR5iL5NVO1Fk) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:04 | 2022-10-28 | 2024-04-19 |
 | [California Dreamin'](https://open.spotify.com/track/1xIADUASoF8HEnvH0r37Fj) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [The Great Canadian Soundtrack: Summer songs](https://open.spotify.com/album/5aqvbg8RKJWc5HMYIPxFed) | 5:04 | 2022-08-31 | 2024-02-02 |
 | [California Dreamin'](https://open.spotify.com/track/2tu6lACLcXuSoxjrGldwfw) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Subliminal Simulation](https://open.spotify.com/album/00ZL0O0EUY85DnxwlNKDkM) | 5:04 | 2024-04-18 |  |
+| [Comin Up](https://open.spotify.com/track/17gvIpJ9JeDAvqfe1bc4kS) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Comin Up](https://open.spotify.com/album/4ak746PyFi4ln7iv87W1pT) | 3:50 | 2024-11-22 |  |
 | [Crazy World \(feat\. Notch\) \- Radio version](https://open.spotify.com/track/6LwIz1SY5pyyqdAMMK7YEF) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Sazon Diamante](https://open.spotify.com/artist/6JIDBImMjrqr0kBbDsHGOJ), [Notch](https://open.spotify.com/artist/4n5qtRyigEaOpL9MFrg20g) | [Reloaded](https://open.spotify.com/album/4RRmXoHUZKq1rMjYTOkjLM) | 3:59 | 2022-08-31 |  |
 | [Dear Hip Hop](https://open.spotify.com/track/3qeao3PpYJ2YzRbXta4iE9) | [Dan\-e\-o](https://open.spotify.com/artist/5odWxeNvjPNRoL07Rv9wk6) | [Dear Hip Hop: 20 Years Later](https://open.spotify.com/album/5C9b0q9aIDmsXjk5jHXzun) | 3:27 | 2022-07-01 | 2024-06-14 |
 | [Do It](https://open.spotify.com/track/5PjUBCqb7RRIjyFFauVgdO) | [Rochester AKA Juice](https://open.spotify.com/artist/3X8MeRzhWy8d8upiMzuf7C) | [A New Day](https://open.spotify.com/album/1acqOvNGsG3S156d4pJ8OE) | 3:43 | 2022-07-01 | 2022-09-01 |
@@ -106,7 +107,7 @@
 | [Numba 1 \(Tide Is High\)](https://open.spotify.com/track/18iSiFtrQ78wWLFJi4pCF7) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 3:43 | 2022-07-01 | 2022-12-29 |
 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 | 2022-07-01 |  |
 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 | 2022-07-01 |  |
-| [On The Run](https://open.spotify.com/track/0L906KB21EDCWVhveBemQo) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Season One](https://open.spotify.com/album/0oAHKqv561o1eSW4FSmLWz) | 3:09 | 2022-07-01 |  |
+| [On The Run](https://open.spotify.com/track/0L906KB21EDCWVhveBemQo) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Season One](https://open.spotify.com/album/0oAHKqv561o1eSW4FSmLWz) | 3:09 | 2022-07-01 | 2024-11-23 |
 | [Pressure](https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Juno Awards 2008](https://open.spotify.com/album/31mShyZYlhE6zTzVGWznPu) | 4:34 | 2022-07-01 |  |
 | [Prince Of The North](https://open.spotify.com/track/7gs1uAugnKVDWPlZ6TH1Dv) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Prince Of The North](https://open.spotify.com/album/4GtMTu1fY82Y3jtWNy9M4S) | 3:22 | 2022-07-01 | 2022-11-16 |
 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 | 2022-07-01 | 2024-04-19 |

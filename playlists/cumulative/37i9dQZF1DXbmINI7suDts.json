@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Get your spirits up and manage your mood any time of the day. Cover: MAUIM\u00d8ON",
+  "description": "Get your spirits up and manage your mood any time of the day. Cover: Maurice Kirya",
   "name": "Mutima ",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170502,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU"
@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "crashout.",
+        "url": "https://open.spotify.com/album/0ru9TW5stzidg6jhOy573B"
+      },
+      "artists": [
+        {
+          "name": "itsjamer",
+          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
+        },
+        {
+          "name": "Nyende",
+          "url": "https://open.spotify.com/artist/7ChGkbKDyeFnbvGLsz3p8y"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "crashout.",
+      "url": "https://open.spotify.com/track/2Tp485UNtMoCITqA1W1WwQ"
+    },
+    {
+      "album": {
         "name": "For The Love of R&B Vol 1",
         "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
       },
@@ -320,6 +342,28 @@
       "duration_ms": 170195,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8"
+    },
+    {
+      "album": {
+        "name": "olympean",
+        "url": "https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "daisy",
+      "url": "https://open.spotify.com/track/4x64Sipuqi7sJ1PCr9UEMc"
     },
     {
       "album": {
@@ -878,7 +922,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187686,
       "name": "I'M FINE",
       "url": "https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU"
@@ -1170,7 +1214,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 201850,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf"
@@ -2244,6 +2288,28 @@
       "duration_ms": 259071,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+    },
+    {
+      "album": {
+        "name": "TEACH ME",
+        "url": "https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        },
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "TEACH ME",
+      "url": "https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF"
     },
     {
       "album": {

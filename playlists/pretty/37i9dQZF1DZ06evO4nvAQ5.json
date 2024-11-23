@@ -1,37 +1,13 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14804,
+  "num_followers": 14808,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAA7IX+3wQ5tkexoQWZjPt2F",
+  "snapshot_id": "Zz54AAAAAAD//Wq4NTXH+UJJwWQUL4fW",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire (with J Boog)",
-        "url": "https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs"
-      },
-      "artists": [
-        {
-          "name": "Hector Roots Lewis",
-          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        }
-      ],
-      "duration_ms": 241675,
-      "name": "Fire (with J Boog)",
-      "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
-    },
     {
       "added_at": null,
       "album": {
@@ -191,54 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
-        "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "Noah Cronin",
-          "url": "https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
-      "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
       },
@@ -267,6 +195,54 @@
       "duration_ms": 250105,
       "name": "Liki Tiki - Reggae Remix",
       "url": "https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
+        "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "Noah Cronin",
+          "url": "https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
+      "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
     },
     {
       "added_at": null,
@@ -463,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fire (with J Boog)",
+        "url": "https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "duration_ms": 241675,
+      "name": "Fire (with J Boog)",
+      "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 192168,
+      "name": "Hear Me Roar",
+      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Ever",
         "url": "https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 282052,
       "name": "If I Ever",
       "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Hear Me Roar",
-      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Million Stylez",
-          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
-        }
-      ],
-      "duration_ms": 197848,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose Shakas",
         "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Million Stylez",
+          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+        }
+      ],
+      "duration_ms": 197848,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 241083,
       "name": "Hawaiian Pakalolo",
       "url": "https://open.spotify.com/track/33wJTyMde69nSAreVisHlk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
       "duration_ms": 159654,
       "name": "Siva Mai (feat. Siaosi)",
       "url": "https://open.spotify.com/track/5TjrCugtOHAnRViqAmq0Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
-      },
-      "artists": [
-        {
-          "name": "Monsta Ganjah",
-          "url": "https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243218,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
     }
   ],
   "unique_name": "This Is J Boog",

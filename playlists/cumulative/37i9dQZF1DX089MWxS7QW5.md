@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jue\(주에\)\)
 
-442 songs - 1 day 0 hr 7 min
+443 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 | 2024-02-07 |
 | [I'm okay](https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [After Love](https://open.spotify.com/album/2OUaeEG9GKYOIIEZkLPdfP) | 3:23 | 2023-12-09 | 2024-05-24 |
 | [I'm Your Puppy \- 2021](https://open.spotify.com/track/3ZnK8D6A0oO6mPmg9Id4R6) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 4:54 | 2022-05-28 | 2022-06-21 |
+| [If U..](https://open.spotify.com/track/3Mat6bBmLhxscI21M3uhw1) | [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [If U..](https://open.spotify.com/album/2ZNKD7a86BQ1dVi4O3n6Hx) | 3:24 | 2024-11-22 |  |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-05-28 | 2022-08-03 |
 | [In My Place](https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [DESIRE](https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW) | 2:44 | 2024-08-05 | 2024-09-21 |
 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-13 | 2024-03-09 |

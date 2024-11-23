@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 方皓玟
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,453 likes - 418 songs - 1 day 0 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,460 likes - 418 songs - 1 day 0 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 |
-| 2 | [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/7BHqouffSZsWJH8EfFuehR) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 |
+| 2 | [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 |
 | 3 | [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 |
 | 4 | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/track/6OeqBgXjRapq5I9TwtN8ub) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08), [Sheena 陳書昕](https://open.spotify.com/artist/31l0gLWOmac7pl45vzXmvR) | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/album/35NNLFfB3ic305HsTe55h4) | 2:40 |
 | 5 | [那黑夜沒很夜 Huggies](https://open.spotify.com/track/4b87uRNyNKVX4DYIxGj6My) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [那黑夜沒很夜 Huggies](https://open.spotify.com/album/71A5dMgBJwFynVxBDDKZ3t) | 3:00 |

@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 124406,
       "name": "Tinsel Dresses",
       "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
@@ -4050,7 +4050,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 211010,
       "name": "Vegetarian Christmas",
       "url": "https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l"
@@ -4508,6 +4508,24 @@
       "duration_ms": 146520,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ"
+    },
+    {
+      "album": {
+        "name": "Xmas",
+        "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "Xmas",
+      "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"
     },
     {
       "album": {

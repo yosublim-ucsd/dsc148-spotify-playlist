@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Jack Harlow
 
-6,548 songs - 14 day 18 hr 39 min
+6,549 songs - 14 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4108,6 +4108,7 @@
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-20 | 2023-07-28 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-02 | 2024-05-10 |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-10 | 2023-08-18 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 |  |
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-10-27 |
 | [Nyun \(Brother\)](https://open.spotify.com/track/4xVdv6DiFlfGV5X9dlKitu) | [Yirinda](https://open.spotify.com/artist/1pw6eWOemOfIL00gMOr53D) | [Nyun \(Brother\)](https://open.spotify.com/album/5thkO3T7JKkmQwLWDgDaue) | 4:22 | 2024-01-25 | 2024-02-02 |
 | [OAB](https://open.spotify.com/track/0Jx4UAfXLQHifPMyQ4Ycxv) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW), [JamWayne](https://open.spotify.com/artist/3BHsFg7FtIpq3EB54et7H3) | [OAB](https://open.spotify.com/album/7faSRWjLTETYEJOSREcQDp) | 4:44 | 2024-04-11 | 2024-04-19 |

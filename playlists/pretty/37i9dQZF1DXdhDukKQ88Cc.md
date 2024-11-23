@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe 💎 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> 💎
+> dk rap og den vibe 🌪️ <a href="spotify:artist:09Tr5rMM8oP3lN24JOnBW9">Bellyyy</a>🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,473 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,496 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 |
-| 2 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
-| 3 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
-| 4 | [Mentalitet](https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Mentalitet](https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg) | 2:13 |
+| 2 | [Mentalitet](https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Mentalitet](https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg) | 2:13 |
+| 3 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
+| 4 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
 | 5 | [DIN D\*\*\*](https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [DIN D\*\*\*](https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX) | 2:30 |
 | 6 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
 | 7 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 59 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 |
 | 60 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 |
 
-Snapshot ID: `Zz+7cAAAAACsFTBm/mTQgAt2TpfyE3/K`
+Snapshot ID: `Z0BYFQAAAACjphhsNKoWvigjgbY/uoKa`

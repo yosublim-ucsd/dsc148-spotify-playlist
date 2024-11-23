@@ -2,9 +2,9 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Cachirula, El Malilla y LOOJAN en portada
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla en portada
 
-674 songs - 1 day 9 hr 9 min
+675 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [MAMI CHAKALOSA](https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [MAMI CHAKALOSA](https://open.spotify.com/album/7qNA059vQm84DreXknnuHr) | 2:16 | 2024-02-02 | 2024-07-06 |
 | [Mami Mamacita](https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Viaje](https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH) | 2:49 | 2022-01-07 | 2022-02-02 |
 | [Mami Pa Mi](https://open.spotify.com/track/7IJWvu2w3XrtRyeRgW1hOT) | [Eyle](https://open.spotify.com/artist/3ghtelqziX5LAXUmd3JR6M) | [Mami Pa Mi](https://open.spotify.com/album/5HOv8T6Pf4gBSEeZBX2wQR) | 3:39 | 2023-03-31 | 2023-04-09 |
+| [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 | 2024-11-22 |  |
 | [Mamita Rica](https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:58 | 2024-04-26 | 2024-11-02 |
 | [MANGUERÓN](https://open.spotify.com/track/0GDTCu8mts6HXd52gYijFp) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Alexis Najera](https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa) | [MANGUERÓN](https://open.spotify.com/album/6VVx1YRQWhNBaHWlVJM4Cu) | 2:34 | 2024-10-11 | 2024-10-26 |
 | [Maniaka](https://open.spotify.com/track/4V3Rey40fJS8JowOeQmpQi) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dayner "El Especialista"](https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7) | [Maniaka](https://open.spotify.com/album/3uyEAObA05tQximOWGTpOQ) | 3:09 | 2024-09-20 | 2024-10-19 |

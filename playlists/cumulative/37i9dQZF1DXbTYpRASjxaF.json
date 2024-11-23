@@ -435,6 +435,32 @@
     },
     {
       "album": {
+        "name": "African Boyz",
+        "url": "https://open.spotify.com/album/1OFaxh6SVux9x6ZPU97txD"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176696,
+      "name": "African Boyz",
+      "url": "https://open.spotify.com/track/6JECXnjMGF8RuYe3TnPXz9"
+    },
+    {
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -7830,7 +7856,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176633,
       "name": "Nosso Momento",
       "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"

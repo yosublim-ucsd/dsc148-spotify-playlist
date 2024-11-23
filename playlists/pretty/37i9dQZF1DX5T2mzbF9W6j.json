@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110473,
+  "num_followers": 110478,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-11-15 17:05:22",
       "album": {
+        "name": "Tam czeka mnie dom",
+        "url": "https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 137898,
+      "name": "Tam czeka mnie dom",
+      "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"
+    },
+    {
+      "added_at": "2024-11-15 17:05:22",
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
-    },
-    {
-      "added_at": "2024-11-15 17:05:22",
-      "album": {
-        "name": "Tam czeka mnie dom",
-        "url": "https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 137898,
-      "name": "Tam czeka mnie dom",
-      "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"
     },
     {
       "added_at": "2024-11-15 17:05:22",

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-216 songs - 12 hr 56 min
+220 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH) | [Max Brodie](https://open.spotify.com/artist/08Fba5XNvK4sXAbH68DYPf), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9) | 2:44 | 2017-12-03 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2017-12-03 | 2024-04-19 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/5ltFw9shfgX60qfErriunE) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/3ctOX1Spy9lX8HZ7EDYn4R) | 3:30 | 2017-12-03 |  |
+| [Burning](https://open.spotify.com/track/6kayVoj3yz6U4FSMRhju6X) | [Sherman](https://open.spotify.com/artist/3DOXXNXicP3b3oi91j2lWI) | [Burning](https://open.spotify.com/album/6x5vpa5foWFOOL1M2NjTPO) | 2:45 | 2024-11-22 |  |
 | [Chateau](https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/08cceZ2uTJGPx6lsHDAaiU) | 4:33 | 2017-12-03 |  |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2017-12-03 | 2024-04-19 |
 | [City Of Stars](https://open.spotify.com/track/3DrY78fwQBAuqlntINQRB4) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/3v9QR7FRm3OfNywqWX5Trw) | 2:34 | 2017-12-03 |  |
@@ -53,9 +54,9 @@
 | [Find The River](https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova) | 3:49 | 2017-12-03 |  |
 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 | 2017-12-03 | 2024-04-19 |
 | [Flowers in Your Hair](https://open.spotify.com/track/0Qi29hMhf8tIzDpa2BH9MV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq) | 1:50 | 2017-12-03 | 2022-11-13 |
-| [Flowers In Your Hair](https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7) | 1:50 | 2017-12-03 |  |
+| [Flowers In Your Hair](https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7) | 1:50 | 2017-12-03 | 2024-11-23 |
 | [For All Time](https://open.spotify.com/track/1elf0VaP9hSfBEchqqCYoj) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Lighthearted Years](https://open.spotify.com/album/2hQmGBolJaISqy4jv6UxBy) | 2:33 | 2017-12-03 | 2024-04-19 |
-| [For All Time](https://open.spotify.com/track/6AMulEevbCsGHvQA8LLNIq) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Back Of My Hand](https://open.spotify.com/album/1mCMSexvbTX8JYzRiGON7a) | 2:33 | 2017-12-03 |  |
+| [For All Time](https://open.spotify.com/track/6AMulEevbCsGHvQA8LLNIq) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Back Of My Hand](https://open.spotify.com/album/1mCMSexvbTX8JYzRiGON7a) | 2:33 | 2017-12-03 | 2024-11-23 |
 | [Fortune Cookie](https://open.spotify.com/track/3FNCYiEmLHChlMxU6ShUrP) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Fortune Cookie](https://open.spotify.com/album/1XAojLcl9rDIzBy0BGC1ha) | 3:01 | 2017-12-03 |  |
 | [Friends](https://open.spotify.com/track/4XlSTowke4Ul0J9xPGvzuY) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Friends](https://open.spotify.com/album/2kaJUzdxuVr6AQnOjqiw5W) | 3:32 | 2017-12-03 |  |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2021-04-07 |  |
@@ -67,8 +68,9 @@
 | [Grow](https://open.spotify.com/track/1Z24QIZbcufidG7K4ntWI9) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said \(Deluxe\)](https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n) | 3:59 | 2017-12-03 | 2024-04-19 |
 | [Grow](https://open.spotify.com/track/2IV8dt4W4y1G8bODDbsXVz) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Grow](https://open.spotify.com/album/5dMC2hmZ9rjf0Cyyo2d84K) | 4:00 | 2017-12-03 |  |
 | [Grow](https://open.spotify.com/track/0rdyfMLheQMaWUbuFwAQhA) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [2:22 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r6DIa6edUwUMk6RhDnQLa) | 4:01 | 2017-12-03 | 2022-11-13 |
-| [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-10 |  |
-| [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2017-12-03 |  |
+| [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 | 2024-11-22 |  |
+| [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-10 | 2024-11-23 |
+| [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2017-12-03 | 2024-11-23 |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2017-12-03 | 2024-04-19 |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/0vmNI1u7ZZOqnili1cp8w3) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Valentines Day 2021](https://open.spotify.com/album/6TggYmNhal9ODV3MqXeu3y) | 2:34 | 2017-12-03 | 2022-11-13 |
@@ -142,6 +144,7 @@
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2017-12-03 |  |
 | [Princess](https://open.spotify.com/track/7LwJc7I5YNQHRQuQ9G5dXu) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/0AqlTWixFi66g3Rtgr2O7I) | 3:56 | 2017-12-03 | 2024-04-19 |
 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2017-12-03 | 2022-12-02 |
+| [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 | 2024-11-22 |  |
 | [Rather Be with You](https://open.spotify.com/track/2lPH8YSWdxo8SbJnYnZxUG) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 | 2017-12-03 | 2024-04-19 |
 | [Rather Be with You](https://open.spotify.com/track/3AVE9qpiII7fyKjENTN8YI) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2017-12-03 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2017-12-03 | 2024-04-19 |
@@ -217,6 +220,7 @@
 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 | 2017-12-03 | 2022-11-13 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2017-12-03 | 2024-04-19 |
 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2017-12-03 |  |
+| [Wings](https://open.spotify.com/track/2GfSI35lY8p6tr9IUqiwKo) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Wings](https://open.spotify.com/album/02dDDinLmvyM5fc8z7MQ1n) | 3:16 | 2024-11-22 |  |
 | [Work](https://open.spotify.com/track/1YzjKrBdWheeI2nBKmUvQn) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Late Night Tales: Badbadnotgood](https://open.spotify.com/album/1J3enVyckc2vOR0xOK1jZX) | 3:44 | 2017-12-03 | 2022-11-13 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2017-12-03 | 2024-04-19 |
 | [Work](https://open.spotify.com/track/42YrWn7KYjhJ2GfjTJ3HSY) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/2q4teFR48HGFpkgjCPbXBi) | 3:44 | 2017-12-03 |  |

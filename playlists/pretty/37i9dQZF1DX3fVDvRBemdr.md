@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Jeffrey Heesen & Mike Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,134 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,152 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dief In De Nacht](https://open.spotify.com/track/6HY6WLiVgGg5uBGZDcmBtg) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dief In De Nacht](https://open.spotify.com/album/0z73vLb2gCA3auTRAMclej) | 2:50 |
-| 2 | [Wegenwacht](https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wegenwacht](https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn) | 2:34 |
+| 2 | [Zeg Ja, Geen Nee](https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Zeg Ja, Geen Nee](https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb) | 2:51 |
 | 3 | [Vergeef Me](https://open.spotify.com/track/2kxH1XMnceTTSNQLexMxnb) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Vergeef Me](https://open.spotify.com/album/4YiGU14kyBhle7EwUD5fv0) | 3:17 |
-| 4 | [Zeg Ja, Geen Nee](https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Zeg Ja, Geen Nee](https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb) | 2:51 |
+| 4 | [Wegenwacht](https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wegenwacht](https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn) | 2:34 |
 | 5 | [Venten Voor Me Centen](https://open.spotify.com/track/63dE87uLfQbiA1lwNq880B) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Venten Voor Me Centen](https://open.spotify.com/album/5X6H2BTSqGNL2JXuoMTp9b) | 2:38 |
 | 6 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
 | 7 | [Voordat Ik Nog Wat Zeggen Kon](https://open.spotify.com/track/31IueZAqrXobsJbIpYRMSJ) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/77NALxQBSUO2mIg6ICj26u) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Op De Vijfde Rij](https://open.spotify.com/track/1hKqHdaqJk3RqZ64P9xNHc) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Op De Vijfde Rij](https://open.spotify.com/album/1KjWGmfsM9vFUlW4GHFdde) | 2:51 |
 | 80 | [Alleen Voor Jou](https://open.spotify.com/track/6EdPaa3SnUuHRPZz1gsunZ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Alleen Voor Jou](https://open.spotify.com/album/06wadVvM0mzgu4dSvClxy1) | 3:15 |
 
-Snapshot ID: `Zz+7cAAAAAAgQl9OIfGALp+Yaz5jJWh8`
+Snapshot ID: `Z0Dk5wAAAAAnuRQu6FT+m59OpDqaefP5`

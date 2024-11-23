@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:6y7frW1RUq3XBBXbYowVpk"> Chandler Moore </a>
+> New songs from some of the latest and greatest Gospel music artists\. Cover: Jordin Sparks and Maverick City Music
 
-607 songs - 2 day 4 hr 9 min
+608 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2022-11-04 | 2023-12-09 |
 | [I Remember \- Radio Version](https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [I Remember \(Radio Version\)](https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU) | 3:29 | 2023-07-07 | 2023-08-12 |
 | [I See Good](https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/5gV5rh660Bi8NPBc5a0766) | 6:07 | 2023-12-15 | 2024-04-19 |
-| [I See Good](https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2) | 6:07 | 2023-11-03 |  |
+| [I See Good](https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2) | 6:07 | 2023-11-03 | 2024-11-23 |
 | [I See Good \- Radio Edit](https://open.spotify.com/track/3McbAhHwjCfAMplxzf2Hu2) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [I See Good \(Radio Edit\)](https://open.spotify.com/album/5SracZvQhCM2tfXqDCrVZa) | 3:58 | 2023-04-07 | 2023-11-04 |
 | [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2022-10-21 | 2023-09-30 |
 | [I Will Not Fail \- Unplugged](https://open.spotify.com/track/5a5dCgdLPITGYK3hPlWVPR) | [Volney Morgan & New\-Ye](https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN) | [I Will Not Fail \(Unplugged\)](https://open.spotify.com/album/2ZjDGzSQPM4OGOMvZ9QbuM) | 4:44 | 2024-03-08 | 2024-08-17 |
@@ -574,6 +574,7 @@
 | [When I Pray](https://open.spotify.com/track/3Qqeh1ZLOJ1jjB43R2blpZ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:41 | 2023-08-04 | 2023-09-23 |
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-18 | 2023-03-25 |
 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 | 2023-12-01 | 2024-01-13 |
+| [Who Do You Love](https://open.spotify.com/track/2V7EY8WTG5Z3pxT7RbZtC1) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Who Do You Love](https://open.spotify.com/album/1nBzuAVRJNEKPHUvZ8YO17) | 2:28 | 2024-11-22 |  |
 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 | 2022-06-03 | 2022-10-08 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-02 | 2024-01-27 |
 | [With My Hands](https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [With My Hands](https://open.spotify.com/album/3f4uAnNYCz9xizRrqhjvDZ) | 5:50 | 2022-02-18 | 2022-03-26 |

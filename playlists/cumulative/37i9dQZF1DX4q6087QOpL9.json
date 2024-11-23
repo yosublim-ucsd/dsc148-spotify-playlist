@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 718048,
       "name": "African Spirits - Fred P Interpretation",
       "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
@@ -2133,6 +2133,32 @@
     },
     {
       "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/2N61YAPSGmGeVLv2WdjueA"
+      },
+      "artists": [
+        {
+          "name": "Ruben Vidal",
+          "url": "https://open.spotify.com/artist/70fiKBQTJHcmF98tZamcmW"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        },
+        {
+          "name": "Stephanie Cooke",
+          "url": "https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418080,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0gKAbcsG3BZK8qZkrB39NB"
+    },
+    {
+      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/6naxk0MtAT5YJawdeNeUaC"
       },
@@ -2962,7 +2988,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 424113,
       "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
       "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
@@ -4116,7 +4142,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
@@ -5677,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/7ypvOMWqFOfMVWH6hkd2Ny"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Brian Temba",
+          "url": "https://open.spotify.com/artist/4AZ1cwMMACbUJCp0gNiplV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404293,
+      "name": "Thank You - Vocal Dub",
+      "url": "https://open.spotify.com/track/5IfCYxqmHkbMpQSHNZikp8"
+    },
+    {
+      "album": {
         "name": "That's Right (Edit)",
         "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
       },
@@ -6376,6 +6424,58 @@
       "duration_ms": 335506,
       "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
       "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
+    },
+    {
+      "album": {
+        "name": "We Are One (feat. Bobby Pruitt) [Art of Tones Remix]",
+        "url": "https://open.spotify.com/album/78U1X2E8fCMyV0Lxvejpjo"
+      },
+      "artists": [
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        },
+        {
+          "name": "Bobby Pruitt",
+          "url": "https://open.spotify.com/artist/0Ac1kdJ9cdCHvc2AEilWLs"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399090,
+      "name": "We Are One (feat. Bobby Pruitt) - Art of Tones Extended Remix",
+      "url": "https://open.spotify.com/track/0gtoJb9czS2v5pMEovREzk"
+    },
+    {
+      "album": {
+        "name": "We Move (Kg Sunset Remix)",
+        "url": "https://open.spotify.com/album/1DS5DDY6ER9Jyd63FctyEj"
+      },
+      "artists": [
+        {
+          "name": "Wez Whynt",
+          "url": "https://open.spotify.com/artist/2E3GFTBu7zz4dL2A7eVGtm"
+        },
+        {
+          "name": "Hannah Khemoh",
+          "url": "https://open.spotify.com/artist/0I2kjxFQfKN3h34FA2CLZg"
+        },
+        {
+          "name": "Kg Sunset",
+          "url": "https://open.spotify.com/artist/0XWUUmEhBpLAcgeIUz1nns"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468292,
+      "name": "We Move - Kg Sunset Remix",
+      "url": "https://open.spotify.com/track/5s9pOfZbBu7NXAtcCn9Xc2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Tom\u00e1s Ballardo en portada.",
-  "num_followers": 236616,
+  "num_followers": 236670,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Mente Activa",
-        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 169216,
-      "name": "Mente Activa",
-      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 205077,
       "name": "Se Nos Fue El 2",
       "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Mente Activa",
+        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 169216,
+      "name": "Mente Activa",
+      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
+        "name": "Alumno Y Maestro",
+        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179786,
+      "name": "Alumno Y Maestro",
+      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
         "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 208405,
       "name": "El R\u00e1pido - En vivo",
       "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
-        "name": "El Sr. Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        },
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
-        }
-      ],
-      "duration_ms": 153377,
-      "name": "El Sr. Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Alumno Y Maestro",
-        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
+        "name": "El Sr. Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         },
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
         }
       ],
-      "duration_ms": 179786,
-      "name": "Alumno Y Maestro",
-      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+      "duration_ms": 153377,
+      "name": "El Sr. Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "El Buck",
-        "url": "https://open.spotify.com/album/6J7ESQzAAucuKIi6ILRr8C"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "El Buck",
-      "url": "https://open.spotify.com/track/7xSJMtMJx4Sbifjj7qSgQU"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Traficantes Michoacanos",
         "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 199038,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "El Buck",
+        "url": "https://open.spotify.com/album/6J7ESQzAAucuKIi6ILRr8C"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "El Buck",
+      "url": "https://open.spotify.com/track/7xSJMtMJx4Sbifjj7qSgQU"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 130363,
-      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 116958,
       "name": "R1",
       "url": "https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 130363,
+      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
     },
     {
       "added_at": "2024-11-15 19:30:22",

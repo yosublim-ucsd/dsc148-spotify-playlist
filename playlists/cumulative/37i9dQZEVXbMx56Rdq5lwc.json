@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -4476,6 +4476,24 @@
       "duration_ms": 168763,
       "name": "c l o s e",
       "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5lrLpu7EM3I9gRByjg71YZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Pressner",
+          "url": "https://open.spotify.com/artist/2zY0g18VpVG1dpJJyW1biE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221040,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3C0qPP1WGafiP35QEc56il"
     },
     {
       "album": {
@@ -8036,7 +8054,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -14103,6 +14121,24 @@
     },
     {
       "album": {
+        "name": "Presenting Bobby Helms",
+        "url": "https://open.spotify.com/album/6rxEZkfRTatrDUm4MCyJqm"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133426,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
@@ -17198,7 +17234,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179156,
       "name": "L\u016bp\u0173 Saldumo",
       "url": "https://open.spotify.com/track/5fRoxExnHugrODR2AA9L5P"
@@ -24882,7 +24918,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -25224,6 +25260,24 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
       "album": {
@@ -26140,7 +26194,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -32538,7 +32592,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173261,
       "name": "Viskas K\u0105 Turiu",
       "url": "https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq"

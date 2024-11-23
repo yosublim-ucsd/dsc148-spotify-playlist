@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl?si=XEH6M4R3T8KJC8sYlYzWoA">Goldmax</a>, <a href="https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ?si=BIWdOSVERUmY28MdLhKYxg">Blacks Jnr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,368 likes - 74 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,424 likes - 74 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

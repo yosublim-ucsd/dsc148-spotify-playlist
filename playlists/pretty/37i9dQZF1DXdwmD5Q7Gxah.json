@@ -1,12 +1,12 @@
 {
   "description": "sam austins its your time",
-  "num_followers": 1172923,
+  "num_followers": 1172987,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+E1gAAAAD5SdxNRf32b6ksBE0q16mT",
+  "snapshot_id": "Z0AT/QAAAADlgceg903/acVEx7aT5k/0",
   "tracks": [
     {
       "added_at": "2024-11-15 00:36:59",
@@ -41,40 +41,20 @@
       "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
     },
     {
-      "added_at": "2024-11-14 19:19:39",
+      "added_at": "2024-11-22 05:17:49",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
       },
       "artists": [
         {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+      "duration_ms": 197866,
+      "name": "Windows XP",
+      "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -97,6 +77,58 @@
       "url": "https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q"
     },
     {
+      "added_at": "2024-11-22 05:17:49",
+      "album": {
+        "name": "BLUE SUPER LOVE",
+        "url": "https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 144725,
+      "name": "Throes",
+      "url": "https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+    },
+    {
+      "added_at": "2024-11-14 19:19:39",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "The Jester",
@@ -113,20 +145,20 @@
       "url": "https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-22 05:17:49",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
+        "name": "PINK LEMONADE",
+        "url": "https://open.spotify.com/album/6nNpkdAwMNLXq5k8kbqxLJ"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 232290,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
+      "duration_ms": 142157,
+      "name": "PINK LEMONADE",
+      "url": "https://open.spotify.com/track/0RKIMdppII9toNNpqY8tWF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -161,6 +193,42 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
+      "added_at": "2024-11-22 05:17:49",
+      "album": {
+        "name": "Te Maldigo (From \"Queer\")",
+        "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Te Maldigo (From \"Queer\")",
+      "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
+    },
+    {
+      "added_at": "2024-11-22 05:17:49",
+      "album": {
+        "name": "Winter Hat",
+        "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "duration_ms": 174830,
+      "name": "Winter Hat",
+      "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
+    },
+    {
       "added_at": "2024-11-21 19:07:02",
       "album": {
         "name": "Chill Out",
@@ -191,6 +259,22 @@
       "duration_ms": 189000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
+    },
+    {
+      "added_at": "2024-11-22 05:17:49",
+      "album": {
+        "name": "Ginkgo",
+        "url": "https://open.spotify.com/album/7jnqB6h2Ctvm2dpT91oyRR"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "Ginkgo",
+      "url": "https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP"
     },
     {
       "added_at": "2024-11-13 18:49:27",
@@ -275,6 +359,22 @@
       "duration_ms": 195968,
       "name": "I remember how your hands felt on mine",
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 232290,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
     },
     {
       "added_at": "2024-11-14 19:19:39",
@@ -1835,22 +1935,6 @@
       "duration_ms": 206295,
       "name": "Don\u2019t Smile",
       "url": "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR"
-    },
-    {
-      "added_at": "2024-08-21 19:52:02",
-      "album": {
-        "name": "Pest",
-        "url": "https://open.spotify.com/album/4ANln4Sj8b5Anhb7RKnGXw"
-      },
-      "artists": [
-        {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
-        }
-      ],
-      "duration_ms": 119891,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/7m0v1FnyMd3CzZi5RYzMPa"
     },
     {
       "added_at": "2024-07-31 21:18:49",

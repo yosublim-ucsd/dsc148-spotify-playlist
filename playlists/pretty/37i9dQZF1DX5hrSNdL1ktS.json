@@ -1,13 +1,33 @@
 {
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Cachirula, El Malilla y LOOJAN en portada ",
-  "num_followers": 369072,
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Malilla en portada ",
+  "num_followers": 370043,
   "original_name": "Reggaet\u00f3n Mexa ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbjYAAAAACGprQZfPbMO25HZgDCWiU9",
+  "snapshot_id": "Z0Ad4AAAAAC9O0Y8STkuU4tZiOubQKjr",
   "tracks": [
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Mami T\u00fa",
+        "url": "https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Mami T\u00fa",
+      "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
+    },
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {

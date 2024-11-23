@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-758 songs - 1 day 14 hr 2 min
+760 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 | 2023-08-25 | 2023-12-23 |
 | [Let Me Love You](https://open.spotify.com/track/1wuLKsmd4e8UwKb5T1Ss2n) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Let Me Love You](https://open.spotify.com/album/3tFfD8hmcjfKCjfFZjR3Lp) | 2:27 | 2023-09-22 | 2023-12-23 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-08 | 2023-12-23 |
+| [Let's Dance](https://open.spotify.com/track/118MYBERoB3wyLSYakVW1T) | [GR3GOR](https://open.spotify.com/artist/4hpw24HgRxuqRkotu0TKfV) | [Let's Dance](https://open.spotify.com/album/4mp34ENUCHOY8kMa6lctVH) | 2:08 | 2024-11-22 |  |
 | [Let's Get Jack](https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Let's Get Jack](https://open.spotify.com/album/6WH9b8YDdMxFwXTFqpaqIL) | 3:22 | 2024-04-12 | 2024-04-26 |
 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 | 2024-10-04 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/0YKEHiqRlU6347BTqofCni) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Let's Go Dancing](https://open.spotify.com/album/7yomCnMwuxDBz7a9Zv9ekM) | 3:08 | 2023-10-26 |  |
@@ -559,6 +560,7 @@
 | [Remedy](https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Helvig](https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Remedy](https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB) | 3:06 | 2024-02-05 | 2024-10-11 |
 | [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 | 2024-09-06 |  |
 | [Rhythm Of The House](https://open.spotify.com/track/1HdE5rgE6uELjZdBavnVea) | [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo), [MagiK](https://open.spotify.com/artist/4lHCGfS7hfmctzOHRZ4TZh) | [Rhythm Of The House](https://open.spotify.com/album/1tcZs1bmF6XEYGQOTYSRGG) | 3:01 | 2023-08-25 | 2023-09-26 |
+| [RIGHT](https://open.spotify.com/track/0dCkJJaLp9zPjmYAaLH1nh) | [HYPR](https://open.spotify.com/artist/4VA9GBxuTExnqbsFeBuPpz), [M!NTɆX](https://open.spotify.com/artist/7q4I8MPHx2vtdaDuEwHmFT) | [RIGHT](https://open.spotify.com/album/6jzrhlT7X3ZmlQrPATMdfw) | 2:10 | 2024-11-22 |  |
 | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz](https://open.spotify.com/track/6C8xhn5SiPe7kDBM3rjawX) | [Vessbroz](https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt) | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz](https://open.spotify.com/album/5Lr5BH4c3ilG5JJ562zsRW) | 2:48 | 2023-06-08 | 2023-12-14 |
 | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz \(Hyper Techno Mix\)](https://open.spotify.com/track/3hqAbVDWMR62ylTI5LNQ98) | [Vessbroz](https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt) | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz \(Hyper Techno Mix\)](https://open.spotify.com/album/1gTdJfxsDeH1ipPmvvKXV5) | 2:06 | 2023-12-22 | 2024-09-26 |
 | [RITE](https://open.spotify.com/track/1FbHbL75bXCnSYBchhcwgd) | [TARISH](https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0) | [RITE](https://open.spotify.com/album/4aPkV7ngJlQzjPINdIi8Ud) | 3:16 | 2023-09-25 | 2023-12-14 |

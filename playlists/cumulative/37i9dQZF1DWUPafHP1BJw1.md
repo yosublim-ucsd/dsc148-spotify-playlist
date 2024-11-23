@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-224 songs - 13 hr 13 min
+225 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:25 | 2022-12-02 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-11-19 |  |
+| [Popular \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/1BQ19fLD2JPJWqajm7dq21) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Popular \(Arr\. piano\) \[from "Wicked"\]](https://open.spotify.com/album/1diGiKgzfjEOiNyVzTa4Do) | 2:14 | 2024-11-22 |  |
 | [positions \- Bonus Track](https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 2:52 | 2021-11-19 |  |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 | 2021-11-19 |  |
 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 | 2021-11-19 |  |

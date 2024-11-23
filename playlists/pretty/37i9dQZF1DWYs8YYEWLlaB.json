@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Burak Bulut",
-  "num_followers": 500975,
+  "num_followers": 501281,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-21 21:00:00",
       "album": {
-        "name": "Gitme",
-        "url": "https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW"
-      },
-      "artists": [
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "Gitme",
-      "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
-    },
-    {
-      "added_at": "2024-11-21 21:00:00",
-      "album": {
         "name": "\u0130kinci Hal",
         "url": "https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207400,
       "name": "Sahici",
       "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
+    },
+    {
+      "added_at": "2024-11-21 21:00:00",
+      "album": {
+        "name": "Gitme",
+        "url": "https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 170613,
+      "name": "Gitme",
+      "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
     },
     {
       "added_at": "2024-11-21 21:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-11-21 21:00:00",
       "album": {
+        "name": "Cennet",
+        "url": "https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 140315,
+      "name": "Cennet",
+      "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
+    },
+    {
+      "added_at": "2024-11-21 21:00:00",
+      "album": {
         "name": "Kapak Olsun",
         "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
       },
@@ -839,26 +855,6 @@
       "duration_ms": 256777,
       "name": "Numarac\u0131",
       "url": "https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL"
-    },
-    {
-      "added_at": "2024-11-21 21:00:00",
-      "album": {
-        "name": "Benden Uzak Dur",
-        "url": "https://open.spotify.com/album/7lfzD9WCAmBrLxIkSKu8xm"
-      },
-      "artists": [
-        {
-          "name": "Bedo",
-          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
-        },
-        {
-          "name": "Tekir",
-          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Benden Uzak Dur",
-      "url": "https://open.spotify.com/track/2IAPQ0akP6TSqPUguuVkfn"
     }
   ],
   "unique_name": "trend 2024",

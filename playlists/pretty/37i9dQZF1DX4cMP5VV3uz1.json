@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160657,
+  "num_followers": 160671,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Beamin\u2019",
-        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 140724,
-      "name": "Beamin\u2019",
-      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Pon Di Bill",
         "url": "https://open.spotify.com/album/49I7wRDjGNocN5R2jIHFQ9"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 222171,
       "name": "Pon Di Bill",
       "url": "https://open.spotify.com/track/0BMVmNzlAXSjrJGk2VcEYr"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Beamin\u2019",
+        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 140724,
+      "name": "Beamin\u2019",
+      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "In The Echo / Change",
+        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "In The Echo",
+      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "FORWARDS",
         "url": "https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 253371,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "In The Echo / Change",
-        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "In The Echo",
-      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Stay In Your Lane",
         "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 167973,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Inner Untitled EP",
-        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
-      },
-      "artists": [
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        },
-        {
-          "name": "Chy Cartier",
-          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
-        }
-      ],
-      "duration_ms": 125138,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "RAW!",
         "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Inner Untitled EP",
+        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "duration_ms": 125138,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Big Fi Dem",
         "url": "https://open.spotify.com/album/5eQ1dxfitzQG3SX4p0tXCe"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 232567,
       "name": "Big Fi Dem",
       "url": "https://open.spotify.com/track/3hAODoyUQ34xzoiKMgVbgH"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Autonomy",
+        "url": "https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        }
+      ],
+      "duration_ms": 232579,
+      "name": "Autonomy",
+      "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Ain't No Way 2024 (Badger Remix)",
         "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Autonomy",
-        "url": "https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N"
-      },
-      "artists": [
-        {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
-        }
-      ],
-      "duration_ms": 232579,
-      "name": "Autonomy",
-      "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Killamanjaro",
         "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
       },
@@ -1555,22 +1555,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Rudeboy",
-        "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
+        "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
+        "url": "https://open.spotify.com/album/3F6S5cU7BDdYZ82mgRPP66"
       },
       "artists": [
         {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
         },
         {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+          "name": "Jessee",
+          "url": "https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ"
+        },
+        {
+          "name": "Aresta",
+          "url": "https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4"
         }
       ],
-      "duration_ms": 174171,
-      "name": "Rudeboy",
-      "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
+      "duration_ms": 188965,
+      "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
+      "url": "https://open.spotify.com/track/0mvry4vm6Xyhjxl3EcqY4o"
     }
   ],
   "unique_name": "Proper Naughty ",

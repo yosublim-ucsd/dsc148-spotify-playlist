@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,248 likes - 570 songs - 1 day 10 hr 3 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,252 likes - 570 songs - 1 day 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Blue](https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [So Blue](https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo) | 4:31 |
-| 2 | [Real Sugar](https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/1VPmvMPZtM18DShIQdoLoO) | 2:41 |
+| 1 | [Real Sugar](https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/1VPmvMPZtM18DShIQdoLoO) | 2:41 |
+| 2 | [So Blue](https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [So Blue](https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo) | 4:31 |
 | 3 | [Twitchin'](https://open.spotify.com/track/13fZLuB9JOPrMZofbd6aCF) | [Tamasene](https://open.spotify.com/artist/3An7eBBOli7vKqSGCTnjLA) | [Twitchin'](https://open.spotify.com/album/24mP1jtcxfqjoskJaUrWHD) | 4:50 |
 | 4 | [Used To](https://open.spotify.com/track/4yYrtrVvfEoIopwt2hD2Dw) | [j.paul](https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO) | [Used To](https://open.spotify.com/album/6Vuy3IGCcNQLn2wcMqEE8u) | 2:16 |
 | 5 | [Elevator Pitch](https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA) | [Cole Anyway](https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd) | [Elevator Pitch](https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT) | 2:22 |
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 10 | [90's Girl](https://open.spotify.com/track/2VlLVvToaKsPcKi8hJy60H) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [90's Girl](https://open.spotify.com/album/2zBZGPnA8i2VEifngsFKTR) | 2:42 |
 | 11 | [Citrus](https://open.spotify.com/track/3nand3cxcEc7X2yyiCf3U8) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 2:24 |
 | 12 | [Chasing Tales](https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 4:35 |
-| 13 | [Closing That Door](https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f) | [Beach for Tiger](https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F) | [Closing That Door](https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd) | 3:11 |
-| 14 | [Round Trip](https://open.spotify.com/track/3BGwYTYlECOA5yT3EuBPPT) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4), [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Round Trip](https://open.spotify.com/album/6wtwr5ORQqKUHdCLCoWIxY) | 4:00 |
-| 15 | [Run It Back](https://open.spotify.com/track/3EezgM3a6bseghVvVEXzkT) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/59Lg6bJ3GokJjcpRdFCEdh) | 3:54 |
+| 13 | [Round Trip](https://open.spotify.com/track/3BGwYTYlECOA5yT3EuBPPT) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4), [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Round Trip](https://open.spotify.com/album/6wtwr5ORQqKUHdCLCoWIxY) | 4:00 |
+| 14 | [Run It Back](https://open.spotify.com/track/3EezgM3a6bseghVvVEXzkT) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/59Lg6bJ3GokJjcpRdFCEdh) | 3:54 |
+| 15 | [Closing That Door](https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f) | [Beach for Tiger](https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F) | [Closing That Door](https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd) | 3:11 |
 | 16 | [Lonesome](https://open.spotify.com/track/2HxDUSyGDG4gLooxMEBPGw) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Lonesome](https://open.spotify.com/album/1mGnEdskS0HQKxAGK64Xcy) | 3:32 |
 | 17 | [Rose Tint](https://open.spotify.com/track/5JsHXKmwoHu0AnaOJR4yqz) | [Billy Sharp](https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5) | [Rose Tint](https://open.spotify.com/album/3FO30UCOkgozXidwBRVsd3) | 3:28 |
 | 18 | [Midnight Dive](https://open.spotify.com/track/4PtDUgO054ZAtTQ31iYrwV) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Midnight Dive](https://open.spotify.com/album/1xPse5slQTZbR5txwXnKI3) | 3:38 |
@@ -579,4 +579,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 569 | [In the Morning](https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF) | [Santa Selva](https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG) | [In the Morning](https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu) | 2:57 |
 | 570 | [Is It Easy](https://open.spotify.com/track/4SrQ3ckBtE3lbnu2Y1HWXP) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [Is It Easy](https://open.spotify.com/album/5zrGQDYD3KBJx8xE5xrxtz) | 3:25 |
 
-Snapshot ID: `AAALsWg68aZe+BLB56rySaPOf4lPRRbX`
+Snapshot ID: `AAALs97+UFbfY35vFbMkSHHr8jZk1L4n`

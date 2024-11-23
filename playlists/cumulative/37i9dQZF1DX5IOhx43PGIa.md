@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\.  Cover: grentperez
+> Illuminating Asian artists everywhere\.  Cover: SAILORR
 
-957 songs - 2 day 1 hr 19 min
+960 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-04 | 2023-08-12 |
 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 | 2024-01-05 | 2024-07-13 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2022-05-27 | 2023-05-06 |
-| [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 | 2024-05-24 |  |
+| [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 | 2024-05-24 | 2024-11-23 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 |  |
 | [3 new words](https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [3 new words](https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm) | 2:54 | 2024-03-22 | 2024-09-21 |
 | [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-04 |  |
@@ -43,7 +43,8 @@
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-04 | 2023-02-18 |
 | [air ride](https://open.spotify.com/track/2BzLIQZxTl2Kp3rbhwlROS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [air ride + ❥attack](https://open.spotify.com/album/389Zme1SiJEVzjpMKGRrjj) | 2:48 | 2024-07-19 | 2024-10-12 |
 | [Alaska](https://open.spotify.com/track/46Vo3Oxtc4aV4y1yf6ZTrt) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Dreamt that I Was](https://open.spotify.com/album/0CpjUrS5cOkB8HCHRYgDDX) | 2:51 | 2024-07-26 |  |
-| [All For You](https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [All For You](https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v) | 2:21 | 2024-05-03 |  |
+| [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 |  |
+| [All For You](https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [All For You](https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v) | 2:21 | 2024-05-03 | 2024-11-23 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-19 |  |
 | [all of you](https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [all of you](https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ) | 2:38 | 2023-09-22 | 2024-07-13 |
 | [All Over Again](https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [All Over Again](https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim) | 2:58 | 2023-09-01 | 2024-08-03 |
@@ -258,7 +259,7 @@
 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-26 | 2024-08-03 |
 | [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-11 | 2023-11-30 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-05-27 | 2022-11-12 |
-| [election year](https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [election year](https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd) | 3:25 | 2024-10-11 |  |
+| [election year](https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [election year](https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd) | 3:25 | 2024-10-11 | 2024-11-23 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2022-05-27 | 2023-04-01 |
 | [Emotion](https://open.spotify.com/track/68mCWJL6JLgiL1yc80Kx2N) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/4gvbVGjDrPt4Y51tmGpjy1) | 2:37 | 2022-08-19 | 2022-09-13 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-10-07 | 2023-08-12 |
@@ -475,6 +476,7 @@
 | [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 | 2024-01-26 | 2024-05-11 |
 | [Ladybug](https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Ladybug](https://open.spotify.com/album/43AUX3S660O7gGKeZqGUsk) | 3:40 | 2022-05-27 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr), [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Landslide](https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD) | 2:54 | 2024-09-06 |  |
+| [LASSO THE MOON](https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [LASSO THE MOON](https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp) | 2:53 | 2024-11-22 |  |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 |  |
 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 | 2024-08-31 |
 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-10-13 | 2024-06-15 |
@@ -707,6 +709,7 @@
 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 | 2022-09-16 | 2023-08-12 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-04 | 2023-09-02 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 | 2024-01-27 |
+| [Seventeen](https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Seventeen](https://open.spotify.com/album/69RbJjVaNSYD8zEtA8M9J1) | 2:58 | 2024-11-22 |  |
 | [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-19 | 2024-08-03 |
 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 | 2024-03-29 | 2024-09-21 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 | 2024-11-16 |

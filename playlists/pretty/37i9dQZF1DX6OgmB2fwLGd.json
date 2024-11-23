@@ -1,28 +1,60 @@
 {
   "description": "2hollis. Born and raised on the internet.",
-  "num_followers": 1388422,
+  "num_followers": 1388345,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzelcwAAAACnEBO7Gcfsf0UrnLLAogW8",
+  "snapshot_id": "Z0CnDwAAAACN3vP5/95wuMss9MIdLmSJ",
   "tracks": [
     {
-      "added_at": "2024-11-15 19:48:03",
+      "added_at": "2024-11-22 15:45:19",
       "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+        "name": "song for when the bar closes",
+        "url": "https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 187613,
-      "name": "No Pole",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+      "duration_ms": 104897,
+      "name": "song for when the bar closes",
+      "url": "https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO"
+    },
+    {
+      "added_at": "2024-10-04 05:00:00",
+      "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 126988,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "added_at": "2024-09-18 21:00:15",
+      "album": {
+        "name": "OMG XD",
+        "url": "https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 123808,
+      "name": "OMG XD",
+      "url": "https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph"
     },
     {
       "added_at": "2024-10-25 18:57:02",
@@ -55,22 +87,6 @@
       "duration_ms": 150997,
       "name": "The Viper",
       "url": "https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C"
-    },
-    {
-      "added_at": "2024-10-04 05:00:00",
-      "album": {
-        "name": "gold",
-        "url": "https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 126988,
-      "name": "gold",
-      "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
     },
     {
       "added_at": "2024-10-25 18:57:02",
@@ -117,20 +133,20 @@
       "url": "https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz"
     },
     {
-      "added_at": "2024-09-18 21:00:15",
+      "added_at": "2024-11-15 19:48:03",
       "album": {
-        "name": "OMG XD",
-        "url": "https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK"
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 123808,
-      "name": "OMG XD",
-      "url": "https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph"
+      "duration_ms": 187613,
+      "name": "No Pole",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
     },
     {
       "added_at": "2024-10-25 18:57:02",

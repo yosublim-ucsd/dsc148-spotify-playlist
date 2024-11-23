@@ -3829,6 +3829,32 @@
     },
     {
       "album": {
+        "name": "Acr\u00f4nico",
+        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156082,
+      "name": "Ela \u00e9 Tipo",
+      "url": "https://open.spotify.com/track/7xvS7CszxIOfK2FxQJ5LXb"
+    },
+    {
+      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/3ZGFB9XjUMvlqWTPhFRhLU"
       },
@@ -12784,6 +12810,32 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
+    },
+    {
+      "album": {
+        "name": "Acr\u00f4nico",
+        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180092,
+      "name": "S\u00f3 se fu\u2026",
+      "url": "https://open.spotify.com/track/6TBy61xoJ6hvMEXAw9z2Nb"
     },
     {
       "album": {

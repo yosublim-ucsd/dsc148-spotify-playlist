@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: DeMasters, Pedro Cap\u00f3, LiL CaKe.",
+  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Becky G ",
   "name": "Super Cumbias",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172485,
       "name": "AMOR PROPIO",
       "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 199520,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ"
@@ -708,6 +708,24 @@
       "duration_ms": 177533,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/08zqP5uyM0kRt3o1ZZGYVv"
+    },
+    {
+      "album": {
+        "name": "Balada Pop",
+        "url": "https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142081,
+      "name": "Balada Pop",
+      "url": "https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH"
     },
     {
       "album": {
@@ -997,6 +1015,46 @@
     },
     {
       "album": {
+        "name": "CHIRIPADA",
+        "url": "https://open.spotify.com/album/7sSsgy9uMWg1NO5948red1"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "CHIRIPADA",
+      "url": "https://open.spotify.com/track/5G4ln7Qkwk1Kspjwfecl0P"
+    },
+    {
+      "album": {
+        "name": "Cokita De Vidrio",
+        "url": "https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177482,
+      "name": "Cokita De Vidrio",
+      "url": "https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL"
+    },
+    {
+      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -1033,6 +1091,36 @@
     },
     {
       "album": {
+        "name": "Como si no nos am\u00e1ramos",
+        "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Como si no nos am\u00e1ramos",
+      "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
+    },
+    {
+      "album": {
         "name": "COMO TE LLAMAS",
         "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
       },
@@ -1066,6 +1154,28 @@
       "duration_ms": 219559,
       "name": "Conga Y Timbal",
       "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
+    },
+    {
+      "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123136,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
     },
     {
       "album": {
@@ -1402,7 +1512,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169738,
       "name": "Cumbia Del Clavi",
       "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
@@ -2220,7 +2330,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 121476,
       "name": "El Humo Del Cigarrillo - En Vivo",
       "url": "https://open.spotify.com/track/269oxRs2kMDnAJGkWie7oy"
@@ -2336,6 +2446,24 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "album": {
+        "name": "El Paso Del Gigante (Remix)",
+        "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "El Paso Del Gigante - Remix",
+      "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
     },
     {
       "album": {
@@ -3271,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "La Colombiana",
+        "url": "https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "La Colombiana",
+      "url": "https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos Originales",
         "url": "https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP"
       },
@@ -3481,6 +3627,36 @@
     },
     {
       "album": {
+        "name": "La Influencer Remix (feat. Briella)",
+        "url": "https://open.spotify.com/album/20Pb2cZlvOn3lp3dw8Yrtn"
+      },
+      "artists": [
+        {
+          "name": "HeyBroders",
+          "url": "https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207271,
+      "name": "La Influencer Remix (feat. Briella)",
+      "url": "https://open.spotify.com/track/67VP8CBffZhguBERckdiJx"
+    },
+    {
+      "album": {
         "name": "La Monjita Voladora - Cumbia Sonidera",
         "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
       },
@@ -3660,7 +3836,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 177994,
       "name": "LADRONA - con Mario Luis",
       "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
@@ -4160,6 +4336,28 @@
       "duration_ms": 187929,
       "name": "Mas Que Amigos - En Vivo",
       "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "album": {
+        "name": "Matame De A Poquito",
+        "url": "https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229225,
+      "name": "Matame De A Poquito",
+      "url": "https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU"
     },
     {
       "album": {
@@ -5404,7 +5602,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 236703,
       "name": "Pedazo de papel",
       "url": "https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs"
@@ -5844,7 +6042,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168510,
       "name": "Quien",
       "url": "https://open.spotify.com/track/6bhCQBkTEsQZewNPPbIi31"
@@ -5906,7 +6104,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 286813,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
@@ -5960,7 +6158,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169060,
       "name": "Qu\u00e9 Duro fue Tu Amor",
       "url": "https://open.spotify.com/track/5Amo6WRljl3Sss9OqjimqU"
@@ -6880,7 +7078,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145920,
       "name": "Tengo Que Hablarte",
       "url": "https://open.spotify.com/track/0vWv9I3D4ZI0lTXDIQptaY"
@@ -7122,7 +7320,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173887,
       "name": "Tuyo Siempre",
       "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
@@ -7534,6 +7732,28 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "album": {

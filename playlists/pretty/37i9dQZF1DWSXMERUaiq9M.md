@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > the sound of a new generation
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,034 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,196 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 |
 | 50 | [Escape From Planet Monday](https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Escape From Planet Monday](https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD) | 3:14 |
 | 51 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
-| 52 | [Uh Na Na](https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Uh Na Na](https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE) | 2:00 |
-| 53 | [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 |
+| 52 | [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 |
+| 53 | [Uh Na Na](https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Uh Na Na](https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE) | 2:00 |
 | 54 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 55 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
 | 56 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |

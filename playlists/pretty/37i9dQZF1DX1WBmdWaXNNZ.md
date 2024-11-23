@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,990 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,997 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 15 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 |
 | 16 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
 | 17 | [仲間はずれ \(Live Session\)](https://open.spotify.com/track/1ntXyakVwav6cNBJRmYpH1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 1:56 |
-| 18 | [うちで踊ろう \(大晦日\)](https://open.spotify.com/track/2zyFTHMJZNTH2pqjxo48kE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議/創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 3:48 |
+| 18 | [うちで踊ろう \(大晦日\)](https://open.spotify.com/track/2zyFTHMJZNTH2pqjxo48kE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議／創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 3:48 |
 | 19 | [Same Thing \(feat\. Superorganism\)](https://open.spotify.com/track/0NZNtJar3qon6oVIR6XjIA) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Same Thing](https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3) | 3:20 |
 | 20 | [創造](https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [創造](https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM) | 3:54 |
 | 21 | [SUN](https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:01 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 63 | [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 |
 | 64 | [The Shower](https://open.spotify.com/track/3LtQtp24SRMuymIrQmQfKW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ドラえもん](https://open.spotify.com/album/1LdrgeXgpJkelkirMtgFxq) | 3:53 |
 | 65 | [日常](https://open.spotify.com/track/2ZQMD01H60aj1qC3jz0KG1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 4:39 |
-| 66 | [そしたら](https://open.spotify.com/track/2puoZAkFbPOwHpi0YyaQUJ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議/創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 2:48 |
+| 66 | [そしたら](https://open.spotify.com/track/2puoZAkFbPOwHpi0YyaQUJ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議／創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 2:48 |
 | 67 | [ステップ](https://open.spotify.com/track/06QZEmhNR7QdWsQxDzgtHa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 2:58 |
 | 68 | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/episode/1zQZIMixATUl1sHH5ZN9nf) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/album/7nW6YMuNBl9gG5IMlYNrur) | 4:10 |
 | 69 | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/album/0BLVSv3WdigtRGaZwaWnM9) | 5:15 |

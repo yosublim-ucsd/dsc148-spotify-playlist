@@ -4,7 +4,7 @@
 
 > 2hollis\. Born and raised on the internet.
 
-1,080 songs - 1 day 19 hr 58 min
+1,081 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Solutions](https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Pray 4 Shakewell](https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF) | 3:37 | 2022-04-29 | 2022-05-27 |
 | [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 | 2023-12-01 | 2023-12-22 |
 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-11-10 | 2023-12-04 |
+| [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-22 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-07 | 2022-02-19 |
 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-10-21 | 2023-03-21 |
 | [Special K](https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Special K](https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG) | 2:27 | 2023-06-23 | 2023-12-12 |

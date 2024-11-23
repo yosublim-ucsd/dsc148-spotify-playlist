@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 175313,
       "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
       "url": "https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5"
@@ -2000,6 +2000,28 @@
       "duration_ms": 306419,
       "name": "\u05de\u05d4 \u05e7\u05d5\u05e8\u05d4",
       "url": "https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7"
+      },
+      "artists": [
+        {
+          "name": "Zizi Trippo",
+          "url": "https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci"
+        },
+        {
+          "name": "\u05d2\u05d9\u05d0\u05d2\u05d9\u05d0",
+          "url": "https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
     },
     {
       "album": {

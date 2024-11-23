@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160590,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
+    },
+    {
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -891,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181122,
+      "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
+      "url": "https://open.spotify.com/track/42PQRRTtzKuuhYLmoniLuT"
+    },
+    {
+      "album": {
         "name": "The Boy Who Cried Freedom",
         "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
       },
@@ -1365,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128364,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/4H9p6vy930al2phntMu19N"
+    },
+    {
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
       },
@@ -1550,7 +1604,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 84800,
       "name": "Take My Hand Precious Lord - Intro",
       "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
@@ -1704,7 +1758,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 174905,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/3SorhVpZkjyqRQJKJ4zM1g"

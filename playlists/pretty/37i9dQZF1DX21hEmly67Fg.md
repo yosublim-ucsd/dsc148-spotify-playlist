@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,573 likes - 131 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,806 likes - 131 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 97 | [When She Loved Me](https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [When She Loved Me](https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j) | 2:57 |
 | 98 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2) | 2:40 |
 | 99 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 |
-| 100 | [Sour Times \(arr\. Metcalfe, Assad\)](https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sour Times](https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef) | 3:17 |
+| 100 | [Sour Times \(Arr\. Metcalfe, Assad\)](https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sour Times](https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef) | 3:17 |
 | 101 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 |
 | 102 | [She](https://open.spotify.com/track/31Eo4x87vMeuwWisGXWjIi) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [She](https://open.spotify.com/album/7B2u3XVEjBTonvm1shnpGy) | 2:45 |
 | 103 | [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 |

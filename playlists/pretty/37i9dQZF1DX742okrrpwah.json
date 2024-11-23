@@ -1,6 +1,6 @@
 {
   "description": "Pierre Garnier au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 353817,
+  "num_followers": 354060,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -515,7 +531,7 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Asking For More",
+        "name": "Asking for More",
         "url": "https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn"
       },
       "artists": [
@@ -529,7 +545,7 @@
         }
       ],
       "duration_ms": 172013,
-      "name": "Asking For More",
+      "name": "Asking for More",
       "url": "https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq"
     },
     {
@@ -1043,6 +1059,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+        "url": "https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+      "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
       },
@@ -1075,7 +1111,7 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "MARJINAL",
+        "name": "(Le d\u00e9fil\u00e9.)",
         "url": "https://open.spotify.com/album/3js5sk5c9TAP1CDxV1saw9"
       },
       "artists": [

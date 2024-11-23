@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-632 songs - 1 day 8 hr 1 min
+634 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cereb](https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Cereb](https://open.spotify.com/album/201kszqcsGij86IBeZvFnj) | 4:36 | 2023-08-03 | 2023-08-10 |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 | 2023-04-28 |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 | 2023-08-10 |
+| [Citadel](https://open.spotify.com/track/0EXrVB7WHXOnVjegjcgIPu) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waterflame](https://open.spotify.com/artist/7biIlpW0y5KqYIehTQz1wz) | [Citadel](https://open.spotify.com/album/29xwUf0mStw4SKxxKxSxcG) | 3:27 | 2024-11-22 |  |
 | [Clockwork](https://open.spotify.com/track/4zczcRcIdlg0YLFzQjdmPR) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk), [Bryan Andrew Medina](https://open.spotify.com/artist/1AXCXAe9tTUVCTxgZzaYfI) | [Clockwork](https://open.spotify.com/album/0M9vqRe4AV89rYORJcmAbp) | 4:21 | 2023-12-13 | 2024-07-19 |
 | [Clown Around](https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Clown Around](https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47) | 2:43 | 2023-06-16 | 2023-08-20 |
 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 | 2024-04-02 | 2024-09-29 |
@@ -221,6 +222,7 @@
 | [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 | 2024-03-22 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
+| [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
 | [Flutter](https://open.spotify.com/track/7cVEshyrawmEYmtqYtwoPy) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Flutter](https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6) | 4:00 | 2023-08-08 | 2023-12-14 |
 | [Fly](https://open.spotify.com/track/0AvkdeWPdMqjhGsYTwwo21) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [Fly](https://open.spotify.com/album/0aAbSb3VaYpnGozXxfh2zy) | 3:44 | 2023-07-06 | 2023-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,333 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,337 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 36 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
 | 37 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 |
 | 38 | [Fill This House](https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 6:12 |
-| 39 | [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 |
+| 39 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
 | 40 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 |
-| 41 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
-| 42 | [Sweeping Through the City \(Live\)](https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE), [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI), [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS), [Dr\. Bobby Jones](https://open.spotify.com/artist/170IwFb5hhPEvgwMDLBq6t), [New Life](https://open.spotify.com/artist/4M0bqq6d5Pwx7KXCRrU1Qu) | [Black Gospel Explosion: Recorded Live](https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I) | 5:03 |
-| 43 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 |
+| 41 | [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 |
+| 42 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 |
+| 43 | [Sweeping Through the City \(Live\)](https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE), [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI), [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS), [Dr\. Bobby Jones](https://open.spotify.com/artist/170IwFb5hhPEvgwMDLBq6t), [New Life](https://open.spotify.com/artist/4M0bqq6d5Pwx7KXCRrU1Qu) | [Black Gospel Explosion: Recorded Live](https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I) | 5:03 |
 | 44 | [Reign Jesus Reign](https://open.spotify.com/track/4b7L4jXCp8lUEEsqvzNFv0) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 3:27 |
 | 45 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
 | 46 | [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [So Satisfied](https://open.spotify.com/track/4YojWdG5mZdMR5hEPgGeuv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 4:06 |
 | 50 | [Worship Him](https://open.spotify.com/track/380MtcBJp0UhQyu9yNgngb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 7:46 |
 
-Snapshot ID: `Zz0mgAAAAABM5XZAEfDs0AAMYqGLtWCx`
+Snapshot ID: `Zz54AAAAAAAjtTMwwCSqQCMoeZwgqOXR`

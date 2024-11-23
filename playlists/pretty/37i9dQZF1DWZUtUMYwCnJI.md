@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 
 > Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,632 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,640 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 | 31 | [希望ノ灯火](https://open.spotify.com/track/0k6FovT9OsIVDhWZ2rA83F) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 5:28 |
 | 32 | [第8特殊消防隊\-アウトブレイク\-](https://open.spotify.com/track/261fiVBE1ipLIe742QAKk5) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊2〜TVアニメ「炎炎ノ消防隊 弐ノ章」オリジナルサウンドトラック〜](https://open.spotify.com/album/04ohqSd63me1YvQ87SQjXW) | 4:17 |
 | 33 | [炎炎ノ消防隊\-MainTheme\-](https://open.spotify.com/track/7ubXJ8efgqn0q7Dmg2f9EG) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 3:29 |
-| 34 | [第8特殊消防隊](https://open.spotify.com/track/0ZIBMnDs27L5RbzC2kV9PD) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:53 |
+| 34 | [第８特殊消防隊](https://open.spotify.com/track/0ZIBMnDs27L5RbzC2kV9PD) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:53 |
 | 35 | [出動要請](https://open.spotify.com/track/3cDTo4oH3adA7Kh0s4eZCT) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:10 |
 | 36 | [魂ノ呼声](https://open.spotify.com/track/5JeiYBuB5KTZO8Ucj2LmzU) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 3:07 |
-| 37 | [アラウンド8](https://open.spotify.com/track/0PjkeIcFaLG1glNdHvJHlU) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:40 |
+| 37 | [アラウンド８](https://open.spotify.com/track/0PjkeIcFaLG1glNdHvJHlU) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:40 |
 | 38 | [トラフィック](https://open.spotify.com/track/0g6zZCGJQQpIDYsqvjmvW8) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 1:59 |
 | 39 | [青線デイズ](https://open.spotify.com/track/5O0cbIakfYIUXBIYtPTN4l) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:17 |
 | 40 | [始動](https://open.spotify.com/track/4Tz1jLjdd2sIMN8pRZXAGI) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:38 |

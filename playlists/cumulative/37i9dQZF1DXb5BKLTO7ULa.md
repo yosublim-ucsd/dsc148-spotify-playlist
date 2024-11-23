@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Donnie,  Robert van Hemert & Trobi
 
-8,798 songs - 19 day 4 hr 52 min
+8,800 songs - 19 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4713,6 +4713,7 @@
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-22 | 2023-06-30 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-05-24 |
 | [Lush \(feat\. Kirsa Moonlight\)](https://open.spotify.com/track/6r9K0C73fqNcQZcpegrKe8) | [Mocean](https://open.spotify.com/artist/0N3NtS1Bz5067gYWWKhO6q), [Kirsa Moonlight](https://open.spotify.com/artist/0VY27a9gVcECmUF1x3zmry) | [Are We Stardust \(feat\. Kirsa Moonlight\)](https://open.spotify.com/album/3rJ7WtbjFT38upDsrR0m52) | 3:07 | 2024-03-21 | 2024-03-29 |
+| [luther](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-22 |  |
 | [LUV](https://open.spotify.com/track/0xnttNgKqryVAbQXbGlGRO) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [LUV](https://open.spotify.com/album/35EVYlPHG90tTTq4tWf18U) | 2:22 | 2023-10-20 | 2023-10-27 |
 | [luv](https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [luv](https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx) | 2:46 | 2024-08-29 | 2024-09-06 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-06 | 2024-06-14 |
@@ -5484,6 +5485,7 @@
 | [Nuchter](https://open.spotify.com/track/3E23yXTpBZzg76SdeUwgsK) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Nuchter](https://open.spotify.com/album/5asQDvu3S8EHcMQQYJijWA) | 2:38 | 2024-09-05 | 2024-09-13 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-02 | 2024-05-10 |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-10 | 2023-08-18 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Numbin' My Feelings](https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [Numbin' My Feelings](https://open.spotify.com/album/5HPBGMfxTV1PbNyrxi4ZaT) | 3:06 | 2024-03-28 | 2024-04-05 |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-01 | 2023-06-09 |
 | [Nyash \(P.Y.T.\)](https://open.spotify.com/track/4pnsQXXSRkmIUHNrSczban) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Nachten Als Dit](https://open.spotify.com/album/3K80h08IOac28tWClZlOJu) | 1:53 | 2023-09-28 | 2023-10-06 |

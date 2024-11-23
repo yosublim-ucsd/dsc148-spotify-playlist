@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 201773,
       "name": "Back To Love [Feat. SiR & Alex Isley]",
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185026,
       "name": "Cake",
       "url": "https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 265142,
       "name": "CALM",
       "url": "https://open.spotify.com/track/12VPP012wzcbfcAQWp92rV"
@@ -2902,6 +2902,24 @@
       "duration_ms": 198321,
       "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
       "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
+    },
+    {
+      "album": {
+        "name": "D\u00d8N'T WANNA FALL",
+        "url": "https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250316,
+      "name": "D\u00d8N'T WANNA FALL",
+      "url": "https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA"
     },
     {
       "album": {
@@ -6270,7 +6288,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 166665,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
@@ -10469,6 +10487,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5LLH6hAqcdP4GnH4wgwpEP"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221111,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3OwSWbCJ4wlCTCLhlIUjea"
+    },
+    {
+      "album": {
         "name": "Take Me Away (feat. EARTHGANG)",
         "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
@@ -11731,6 +11767,28 @@
     },
     {
       "album": {
+        "name": "Waiting On You (feat. Tone Stith)",
+        "url": "https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Waiting On You (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
+    },
+    {
+      "album": {
         "name": "Wake Up (feat. Sa-Roc)",
         "url": "https://open.spotify.com/album/21gFrBvha5DfY41rFYRFoQ"
       },
@@ -12246,6 +12304,28 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "album": {
+        "name": "WHY (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/3jrL60zlPaQZ0QDbrbg8RM"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "WHY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
     },
     {
       "album": {

@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 217150,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/55IEHJw75OMJpNIXQ9iiZe"
@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/5kbwu062qXld4Lohof92JA"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173089,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/4GXomWQ6gM35tkNSLDyyGs"
+    },
+    {
+      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP"
       },
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153846,
       "name": "LEANING",
       "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
@@ -2589,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "Ashika & Agyarko: A Poet's Love Story",
+        "url": "https://open.spotify.com/album/1iPAfQX2PkcAme2u6ZvPz0"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Shant\u00e9",
+          "url": "https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255714,
+      "name": "Spirit (Intro)",
+      "url": "https://open.spotify.com/track/7baQFDa0IYvOQLGaX3I0Y8"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3msMmhEXtXVXfoUruwLyCH"
       },
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 115822,
       "name": "SUJIE",
       "url": "https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy"

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-411 songs - 1 day 1 hr 42 min
+412 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bring It on Home to Me](https://open.spotify.com/track/2T3Zh0xxfmiFqTiniywESU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:33 | 2021-12-10 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/2fCpWoMuAumaULLfzxBC6l) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Boats, Beaches, Bars & Ballads](https://open.spotify.com/album/5QUmbsTCBquw4lvFc45oqC) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/4iHhYWKW5MlzREZ6ApLqFU) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:38 | 2021-12-10 | 2022-07-29 |
+| [Burning House](https://open.spotify.com/track/4HAyDKMXsCaDJBvIDZgyfU) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Burning House](https://open.spotify.com/album/01ZEoHKJeNLdnJapCEN7R4) | 3:43 | 2024-11-22 |  |
 | [But You Know I Love You](https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 3:16 | 2021-12-10 | 2022-07-26 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2022-06-24 |  |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2022-02-25 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [Flower Shops](https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Flower Shops](https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW) | 3:34 | 2022-04-08 | 2022-10-07 |
 | [Flowers \- Country Version](https://open.spotify.com/track/0QaCLt0Zgkuadn0seBouFh) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Flowers \(Country Version\)](https://open.spotify.com/album/5v4cqsC4ClbfO04ZeJLJhF) | 3:18 | 2023-02-17 | 2023-11-18 |
 | [Flying High Again \(feat\. Cody Jinks\)](https://open.spotify.com/track/5VRYOiXSnh8d4VNdaafLPr) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl), [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Flying High Again \(feat\. Cody Jinks\)](https://open.spotify.com/album/2R6wzyBxtmJqJ279S3cBts) | 4:39 | 2024-07-26 |  |
-| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 |  |
+| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 | 2024-11-23 |
 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 | 2021-12-10 |  |
 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 | 2022-03-25 | 2024-08-03 |
 | [For the Last Time](https://open.spotify.com/track/5raZrp6kafrmhNuYMGcUoM) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:51 | 2021-12-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Baaba J
 
-220 songs - 13 hr 12 min
+221 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Moses](https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Moses](https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq) | 2:41 | 2023-10-13 | 2024-05-10 |
 | [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 | 2023-11-17 | 2024-11-16 |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 | 2023-01-13 |
-| [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
+| [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-11-23 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 | 2024-02-16 |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
 | [Ndavuka](https://open.spotify.com/track/5eIvMbO3C9f86NeQCJ1Lbc) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Moving Away](https://open.spotify.com/album/0n3DZvKeyztyrzVHE7Dem9) | 3:16 | 2023-09-09 | 2023-09-15 |
@@ -206,6 +206,7 @@
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 | 2023-03-18 |
 | [Under The Strikes](https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Under The Strikes](https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn) | 4:30 | 2024-06-07 | 2024-07-06 |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 | 2023-05-12 |
+| [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 | 2024-11-22 |  |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2023-05-12 |
 | [wave \(that's me\)](https://open.spotify.com/track/26BJHjtPjFBGGvFRpr3ipa) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 3:15 | 2023-09-29 | 2024-05-10 |
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2023-02-27 |

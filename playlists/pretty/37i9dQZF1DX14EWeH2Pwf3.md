@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Baby Gang in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,764 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,936 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 26 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 27 | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd) | 2:40 |
 | 28 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 |
-| 29 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe), [D\-Ross](https://open.spotify.com/artist/3AJSAtfY4qkm7DfGdCK9ne) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
+| 29 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
 | 30 | [VERGINE MARIA](https://open.spotify.com/track/4QxvX0QHRWK10WfuOUiuMp) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [VERGINE MARIA](https://open.spotify.com/album/67iNHtyQUxt4eWZJBlbrVa) | 2:32 |
 | 31 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 |
 | 32 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 |

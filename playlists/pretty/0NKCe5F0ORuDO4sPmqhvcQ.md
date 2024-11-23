@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,638 likes - 124 songs - 7 hr 8 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,638 likes - 126 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 122 | [FIYA SELECTA \(feat\. Toya Delazy\)](https://open.spotify.com/track/0CkYrIQRRCQKxV1EmN6JxK) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [FIYA SELECTA \(feat\. Toya Delazy\)](https://open.spotify.com/album/14ptodXF2R41xxDgNvloV4) | 2:36 |
 | 123 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 |
 | 124 | [it's all happening \(feat\. Daniel Allan & Evalyn\)](https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [what is life?](https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9) | 2:54 |
+| 125 | [Wish I Knew](https://open.spotify.com/track/6xEterOgHQcyiChE5CODKQ) | [MEDZ](https://open.spotify.com/artist/61c8McUZCtrU9WOjvFkyiL), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Wish I Knew](https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP) | 4:01 |
+| 126 | [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 7:22 |
 
-Snapshot ID: `AAAqP788tzlGnTwrG4NqiZqbAbo2kYj2`
+Snapshot ID: `AAAqQVhQZCpOetScW5vJ4wnLYFZeYMuv`

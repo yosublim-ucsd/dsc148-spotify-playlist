@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 189689,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 310601,
       "name": "Groove Theory",
       "url": "https://open.spotify.com/track/6c9pmpXwhAJAbEpwvOmgA2"
@@ -2963,6 +2963,28 @@
     },
     {
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7"
+      },
+      "artists": [
+        {
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
+        },
+        {
+          "name": "Mattia Scolaro",
+          "url": "https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF"
+    },
+    {
+      "album": {
         "name": "Highway Freedom EP",
         "url": "https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh"
       },
@@ -3068,7 +3090,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 198750,
       "name": "Hooky - LDN Dub Mix",
       "url": "https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg"
@@ -4018,7 +4040,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 381068,
       "name": "Loving Touch",
       "url": "https://open.spotify.com/track/3XA9NgjRNSrpTB0g1S1Y3U"
@@ -4638,6 +4660,24 @@
       "duration_ms": 365714,
       "name": "No More - Original Mix",
       "url": "https://open.spotify.com/track/5Q9WUuPzfsUYEbDp63vHfG"
+    },
+    {
+      "album": {
+        "name": "Space Invaders EP",
+        "url": "https://open.spotify.com/album/2IEOuS7h1ZaHyX1Tn9PniT"
+      },
+      "artists": [
+        {
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424379,
+      "name": "No Stoppin' That Rockin'",
+      "url": "https://open.spotify.com/track/7doFdCLd8J7Nx7b2DwSRSj"
     },
     {
       "album": {
@@ -5782,6 +5822,24 @@
       "duration_ms": 354461,
       "name": "Same Thing",
       "url": "https://open.spotify.com/track/0U5CW5IS0KsPKyZr5Wek5a"
+    },
+    {
+      "album": {
+        "name": "Sample Inspector",
+        "url": "https://open.spotify.com/album/1NEN6bWbdgfp4ONkbPU1IK"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "Sample Inspector",
+      "url": "https://open.spotify.com/track/0o7rsjC9mkIMGitGsCV8h9"
     },
     {
       "album": {
@@ -7592,10 +7650,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 225029,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+    },
+    {
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/4Lp9PdaeEAqBt8a2tGV7Mk"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331958,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2YAPGKvFL0PrMrIL7McdMU"
     },
     {
       "album": {
@@ -8086,6 +8162,24 @@
       "duration_ms": 336350,
       "name": "without you",
       "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
+    },
+    {
+      "album": {
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "album": {

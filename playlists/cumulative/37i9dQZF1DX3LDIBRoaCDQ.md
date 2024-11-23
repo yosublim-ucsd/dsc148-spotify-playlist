@@ -2,7 +2,7 @@
 
 ### [Classic Punk](https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ)
 
-> Classic songs that built the foundations of punk\. Cover: Sid Vicious from DB Burkeman's <a href="https://www.kickstarter.com/projects/blurringbooks/crash\-bang\-pictures\-from\-a\-punk"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
+> Classic songs that built the foundations of punk\.  Cover: Patti Palladin from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
 187 songs - 8 hr 53 min
 

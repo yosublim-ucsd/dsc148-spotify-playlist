@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-530 songs - 1 day 9 hr 18 min
+531 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2020-12-22 | 2022-04-19 |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 | 2023-12-11 |
 | [Pizza Guy](https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz) | 5:49 | 2024-01-05 | 2024-03-02 |
-| [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 |  |
+| [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2024-11-23 |
 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 | 2024-04-26 |  |
 | [Pool Party](https://open.spotify.com/track/43ArUDXPIOqF4R3w2TjfxZ) | [nite swim](https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju) | [Pool Party](https://open.spotify.com/album/3FoihGlEHr7U6IKp1NyGlF) | 3:26 | 2020-12-22 | 2022-07-23 |
 | [Pressure](https://open.spotify.com/track/1T80qAVK3nXJAsEdnuppbp) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/0ZJ8jsAUo8z3d8nVjNl3aN) | 5:18 | 2020-12-22 | 2022-07-29 |
@@ -385,6 +385,7 @@
 | [Rehearsal](https://open.spotify.com/track/6HUlgmxTiwmTxQN1tVMT9y) | [Klubbhuset](https://open.spotify.com/artist/4A9Wj9aRvLGGuNqsd3ak5v) | [Rehearsal](https://open.spotify.com/album/6GMt3lGcFyWHuI5REHHdjc) | 4:41 | 2020-12-22 | 2022-04-21 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-16 | 2024-02-14 |
 | [Reservations](https://open.spotify.com/track/2Jn5B2ewyH4YfCWKKJEhF9) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0), [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Good Time Hotel](https://open.spotify.com/album/1rc72kgv4W11vCUHfbEEym) | 4:13 | 2024-05-10 |  |
+| [Rhythm Is Right](https://open.spotify.com/track/40WdPDahbul3yexvSiGTf0) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Rhythm Is Right](https://open.spotify.com/album/19x81guzMDRaOV5byARIxj) | 4:05 | 2024-11-22 |  |
 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 | 2024-01-12 |  |
 | [Right Down the Line](https://open.spotify.com/track/4UbBr8ZQB26757ah0zeRDU) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/5IsjExzFUDtEx7EyGeZBe0) | 4:27 | 2020-12-22 | 2022-07-29 |
 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 | 2020-12-22 | 2024-04-19 |

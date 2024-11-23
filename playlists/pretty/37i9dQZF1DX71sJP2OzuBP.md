@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,041 likes - 135 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,046 likes - 135 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 131 | [不苦](https://open.spotify.com/track/0EtgQwqxU0rTF3Fuj1hCyH) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [不苦](https://open.spotify.com/album/62nQQZylwOiyTqEIzXDrLc) | 3:34 |
 | 132 | [介质](https://open.spotify.com/track/67IEgoowJgpCGT0a4Ya9W7) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF), [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4) | [介质](https://open.spotify.com/album/2vjyjme0P7S1C5pZDLUVeF) | 4:03 |
 | 133 | [Bounce](https://open.spotify.com/track/4jJPhs2ZBxAIsBkoKrX6BP) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [V](https://open.spotify.com/album/3rVyVUQuk526UoFKz6IQLQ) | 3:01 |
-| 134 | [這樣很好 \- 《英雄聯盟:雙城之戰》動畫第二季原聲](https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [英雄聯盟](https://open.spotify.com/artist/1YVx18QeBJGKPPPSP0c5iN) | [這樣很好 \(《英雄聯盟:雙城之戰》動畫第二季原聲\)](https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ) | 4:24 |
+| 134 | [這樣很好 \- 《英雄聯盟:雙城之戰》動畫第二季原聲](https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [這樣很好 \(《英雄聯盟:雙城之戰》動畫第二季原聲\)](https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ) | 4:24 |
 | 135 | [My Bad](https://open.spotify.com/track/5GqYtR4XdsefHpOPy6HUe0) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 2:16 |
 
 Snapshot ID: `Zzq1dAAAAADyF/VeMaZfd908IANIyRyD`

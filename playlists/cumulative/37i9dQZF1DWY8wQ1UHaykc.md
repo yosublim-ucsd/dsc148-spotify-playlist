@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-180 songs - 12 hr 21 min
+188 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2Hj56hnZ8aAFxxkh7HMfsE) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 3:26 | 2024-01-05 | 2024-04-19 |
 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 | 2024-04-19 |  |
 | [Aku Cuma Punya Hati](https://open.spotify.com/track/4I4LKp1QNlO6Hdlev5ANPR) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Aku Cuma Punya Hati](https://open.spotify.com/album/4JM9NL2TojvvMb2q14ASMb) | 3:36 | 2024-07-19 |  |
+| [Aku Memilih Setia \( X Factor Indonesia \)](https://open.spotify.com/track/7fe8Off9JgOBJYTxCGQQTZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:37 | 2024-11-22 |  |
 | [Aku Tahu](https://open.spotify.com/track/43PBTtn9p1NSktxsO0lxoz) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Mozaik](https://open.spotify.com/album/3hZ1dgdfowr1MnptxWgVuG) | 3:26 | 2024-01-05 |  |
 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 | 2024-01-05 |  |
 | [Akulah Dia](https://open.spotify.com/track/1REjtRSFuT2iWod0vABJSP) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [Bintang Yang B3rsinar](https://open.spotify.com/album/7ATum5JLe0NNIegMJ0ItOI) | 3:16 | 2024-01-05 |  |
@@ -82,6 +83,7 @@
 | [Jodoh Pasti Bertemu](https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:05 | 2024-01-05 |  |
 | [Kamu](https://open.spotify.com/track/4kMQVpke2L9tlWOINuAo07) | [Coboy Junior](https://open.spotify.com/artist/1fw9jZ1duJbRsYjugzA0TW) | [Coboy Junior](https://open.spotify.com/album/1qc0sadKhvsDc8w9uu7r69) | 3:49 | 2024-01-05 |  |
 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 | 2024-01-05 |  |
+| [Karena Aku Tlah Denganmu \(feat\. Ariel Tatum\)](https://open.spotify.com/track/71OJVBHhKbSTbjcTTv6tIF) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr), [Ariel Tatum](https://open.spotify.com/artist/0dycqOerM3RKuAFLARysza) | [Yang Terbaik](https://open.spotify.com/album/2MFPiwsRfJJ8PG3QnPGdGD) | 3:38 | 2024-11-22 |  |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-05 |  |
 | [Karena Ku Sanggup](https://open.spotify.com/track/0YRkfp6SGt3Pd0cEtIOABg) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:45 | 2024-01-05 |  |
 | [Karena Kucinta Kau](https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 4:52 | 2024-01-05 |  |
@@ -92,13 +94,17 @@
 | [Kau 3Kan Cinta](https://open.spotify.com/track/0jE7cEdQ7Qv2KDFT8Ekl0Y) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/015WH0ZHTqrlJohsZv6KB3) | 3:34 | 2024-04-19 |  |
 | [Kau Adalah \(feat\. Rayi Putra\)](https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 4:02 | 2024-01-05 |  |
 | [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2024-01-05 | 2024-04-19 |
+| [Kau Yang Memilih Aku](https://open.spotify.com/track/11pHfMjhABy0jBZYdQORuX) | [Syahrini](https://open.spotify.com/artist/1m4Yv3TVgz8GZG7OAMK7mA) | [Kau Yang Memilih Aku](https://open.spotify.com/album/4wZohsQVTFQAU7xCbkQgyp) | 4:25 | 2024-11-22 |  |
 | [Kekasih Bayangan](https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ) | 4:43 | 2024-01-05 |  |
 | [Kepompong](https://open.spotify.com/track/7orcUlTZrNNph2bF3bihrG) | [sind3ntosca](https://open.spotify.com/artist/5u5fTfK2EBGx3PbEHIEiqd) | [8 Menit Lalu](https://open.spotify.com/album/1XnMKW4MDd1oAnurHGuqBI) | 3:51 | 2024-07-19 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 | 2024-01-05 | 2024-04-19 |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/5WmeAm8HXWRnUTFNTlzpBL) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U) | 3:36 | 2024-04-19 |  |
+| [Ku Curi Lagi Hatimu](https://open.spotify.com/track/7hq08K6YBaTaDzkaEnDyBa) | [Ada Band](https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f) | [Chemistry](https://open.spotify.com/album/1WI9GtqtXpooiBA9Ckm0YM) | 3:43 | 2024-11-22 |  |
 | [Ku Dengannya Kau Dengan Dia](https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:28 | 2024-03-14 |  |
 | [Ku Menunggu](https://open.spotify.com/track/2O74dFcLEImQdwv6u3Zjer) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Harmoni: Jalinan Nada Cerita](https://open.spotify.com/album/2OIGarkXqPjwJQxN6IsJOn) | 3:50 | 2024-01-05 |  |
 | [Lagu Untuk Matahari](https://open.spotify.com/track/3SNrsMw5sX2HiCorPA5JXZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:41 | 2024-01-05 |  |
+| [Lagu Untukmu](https://open.spotify.com/track/5EyLFqmInSBWtVA2auM42i) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Lagu Untukmu](https://open.spotify.com/album/6yaWMG0zJLd0pXhw1Wi7BP) | 3:58 | 2024-11-22 |  |
+| [LDR](https://open.spotify.com/track/6WIgm0evaMly8GH6VzdAo8) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 4:54 | 2024-11-22 |  |
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2024-01-05 |  |
 | [Lekas](https://open.spotify.com/track/76dalAQTO59VXaVmOHeLV7) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:14 | 2024-08-22 |  |
 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 | 2024-01-05 |  |
@@ -127,6 +133,7 @@
 | [Rahasia Hati](https://open.spotify.com/track/3t5Zxy3PFLD1lvKR9YOdBh) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [OST\. 5 CM](https://open.spotify.com/album/0RJPZrRDqTohoFBcPQrm8b) | 4:10 | 2024-04-19 |  |
 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 | 2024-04-04 |  |
 | [Rindu](https://open.spotify.com/track/5gfV3clsxxJpYkpPEGgXg4) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Rindu](https://open.spotify.com/album/6BNnA4UVpYCV2afvTuI61H) | 4:20 | 2024-04-04 |  |
+| [Rindu Hati](https://open.spotify.com/track/5OFUMbOo0F8OU4qgyqmzI9) | [Mitha Talahatu](https://open.spotify.com/artist/3dj3jORpS3Y3GyzlmriQgt) | [Mitharmoni](https://open.spotify.com/album/1mp5KKhpfpj0Bt1dUH7ebz) | 4:41 | 2024-11-22 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2024-01-05 |  |
 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 | 2024-01-05 |  |
 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 | 2024-09-13 |  |
@@ -181,6 +188,7 @@
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/0UmeNfgZMk7ZSDodkkcTwH) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/0GB76JaYDPhZJK5hvXGicY) | 4:01 | 2024-03-14 | 2024-03-30 |
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 4:01 | 2024-01-05 | 2024-04-19 |
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2UWxRkWLpzuxkr67LxPpad) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/2ilx7t8uE5s0Ra3ZyJvnH9) | 4:01 | 2024-04-19 |  |
+| [Untuk Apa](https://open.spotify.com/track/4ZUsF6nwTh8OAmo6ckwIWd) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 4:00 | 2024-11-22 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2024-01-05 |  |
 | [Utuh](https://open.spotify.com/track/34KmUVWvZ4Gm60d4bRZBEu) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 3:22 | 2024-04-03 |  |
 | [Wajahmu Mengalihkan Duniaku](https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:09 | 2024-01-05 |  |

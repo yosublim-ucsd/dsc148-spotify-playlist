@@ -1,13 +1,29 @@
 {
-  "description": " Your new favorite pop star \u2b50 cover: Kenzie Cait",
-  "num_followers": 1549370,
+  "description": " Your new favorite pop star \u2b50 cover: Mercer Henderson",
+  "num_followers": 1549585,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzqZfwAAAADaoOi+ZLHjcq5nPDusCmAU",
+  "snapshot_id": "Z0AP0AAAAACsvfrDB0t2OUkZig2HAr9H",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Kissing A Ghost",
+        "url": "https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 199830,
+      "name": "Kissing A Ghost",
+      "url": "https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ"
+    },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
@@ -25,22 +41,6 @@
       "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 227792,
-      "name": "El Camino High",
-      "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "RABBITHOLE",
@@ -55,6 +55,38 @@
       "duration_ms": 150270,
       "name": "SUGARCOAT",
       "url": "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Matriarchy (Queen Edition)",
+        "url": "https://open.spotify.com/album/1SzLeWwWjyqYukZSohGLNj"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/6brAdlfcmGeb3lhrTnTyct"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 227792,
+      "name": "El Camino High",
+      "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
     },
     {
       "added_at": "2024-08-23 04:37:51",
@@ -173,22 +205,6 @@
       "url": "https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
       "added_at": "2024-10-25 04:10:39",
       "album": {
         "name": "breaking news",
@@ -219,22 +235,6 @@
       "duration_ms": 164175,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2024-11-18 01:33:51",
-      "album": {
-        "name": "Daydreamer",
-        "url": "https://open.spotify.com/album/7qWs0rEbw6ZHP0UuRLCPbq"
-      },
-      "artists": [
-        {
-          "name": "Dani Marchio",
-          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
-        }
-      ],
-      "duration_ms": 216261,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/16v7MKE8cy4EfHJ4ZgDSlG"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -283,6 +283,22 @@
       "duration_ms": 198680,
       "name": "in for the kill",
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -693,22 +709,6 @@
       "url": "https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX"
-    },
-    {
       "added_at": "2024-08-26 15:21:13",
       "album": {
         "name": "Short n' Sweet",
@@ -723,6 +723,22 @@
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
+    },
+    {
+      "added_at": "2024-11-18 01:33:51",
+      "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/7qWs0rEbw6ZHP0UuRLCPbq"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "duration_ms": 216261,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/16v7MKE8cy4EfHJ4ZgDSlG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1197,22 +1213,6 @@
       "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
     },
     {
-      "added_at": "2024-09-13 15:06:48",
-      "album": {
-        "name": "Think I Wanna See You Again",
-        "url": "https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 148541,
-      "name": "Think I Wanna See You Again",
-      "url": "https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO"
-    },
-    {
       "added_at": "2024-08-23 04:37:51",
       "album": {
         "name": "Everything To Everyone",
@@ -1355,26 +1355,6 @@
       "duration_ms": 124137,
       "name": "who's who",
       "url": "https://open.spotify.com/track/4cFQOpz1CeO31VHCjWa69Y"
-    },
-    {
-      "added_at": "2024-08-23 04:37:51",
-      "album": {
-        "name": "burn",
-        "url": "https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 149690,
-      "name": "burn",
-      "url": "https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu"
     },
     {
       "added_at": "2024-08-23 04:37:51",
@@ -1715,6 +1695,22 @@
       "duration_ms": 156090,
       "name": "Lost Cowboy",
       "url": "https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Coming Of Age",
+      "url": "https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p"
     },
     {
       "added_at": "2024-08-23 04:37:51",

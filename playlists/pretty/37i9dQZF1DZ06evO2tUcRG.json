@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 264524,
+  "num_followers": 264526,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAAxv+4zstgOWCEZo4bSR0V3",
+  "snapshot_id": "Zz54AAAAAAA+YChyJhK9GH3hYIPFZfYh",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 621079,
+      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrela da Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 621079,
-      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 244521,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/37NMRgokLpTpnaVaoZnZob"
+      "duration_ms": 246309,
+      "name": "Meu Respirar",
+      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 302878,
-      "name": "Vim Para Adorar-Te",
-      "url": "https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr"
+      "duration_ms": 244521,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/37NMRgokLpTpnaVaoZnZob"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 302878,
+      "name": "Vim Para Adorar-Te",
+      "url": "https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 436613,
       "name": "Teu Santo Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/60xlTAgIuBNdZxaCbPkjZt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1E4SbVflqQFJFRSOrLWU7J"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

@@ -3495,6 +3495,28 @@
     },
     {
       "album": {
+        "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377246,
+      "name": "O C\u00e9u Responde Diferente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
+    },
+    {
+      "album": {
         "name": "O C\u00e9u Se Abre",
         "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
       },
@@ -3880,6 +3902,24 @@
       "duration_ms": 304400,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "album": {
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
     },
     {
       "album": {
@@ -5068,7 +5108,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 518306,
       "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
       "url": "https://open.spotify.com/track/65pnJicrWp5hDUG8vMZhvT"
@@ -5602,7 +5642,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 230519,
       "name": "Viver O Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD"

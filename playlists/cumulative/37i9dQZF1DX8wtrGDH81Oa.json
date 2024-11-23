@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161454,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/4D2Es54UxjwYiIxVk4wqTm"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 183214,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/0YX3lvsJWCYtoWqTxmMHd6"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 252371,
       "name": "Doja Dojo",
       "url": "https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Falling Faster",
+        "url": "https://open.spotify.com/album/1EygKKUfTXpn2rkF93OvoM"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Falling Faster",
+      "url": "https://open.spotify.com/track/3YWosF4fKAHglIoSaWUvFy"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172680,
       "name": "Float",
       "url": "https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB"
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "leading up",
+        "url": "https://open.spotify.com/album/2S8qduZPKk5gD1n8QqNdBv"
+      },
+      "artists": [
+        {
+          "name": "SGT DUST",
+          "url": "https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "leading up",
+      "url": "https://open.spotify.com/track/17gWxv1Nfj7H3XjPPbvXus"
+    },
+    {
+      "album": {
         "name": "Les Tropiques",
         "url": "https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86"
       },
@@ -2936,7 +2972,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 137744,
       "name": "Magic Island",
       "url": "https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH"
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 227171,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
@@ -3300,6 +3336,24 @@
       "duration_ms": 126055,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6Jok0mHBq3efCQv3QhdZtY"
+    },
+    {
+      "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/7f9xFvcnWYuZGyqbllOcN2"
+      },
+      "artists": [
+        {
+          "name": "Kris Karrey",
+          "url": "https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202531,
+      "name": "Ocean Breeze",
+      "url": "https://open.spotify.com/track/6rpx7mSA0rAtv6CJKoDE6B"
     },
     {
       "album": {
@@ -4347,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Solar System",
+        "url": "https://open.spotify.com/album/5v8zszq3uqPc484a8thsIq"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206714,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/1GnA35bCMuUttum4dCaAJZ"
+    },
+    {
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/1pAtxE7L0XO70T3RWwtrO3"
       },
@@ -4448,7 +4520,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172909,
       "name": "Spinn",
       "url": "https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv"
@@ -4772,7 +4844,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
@@ -5096,7 +5168,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 124285,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/15HntUgJrBgxcM19YHweix"
@@ -5276,7 +5348,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 158969,
       "name": "Watchtower",
       "url": "https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT"

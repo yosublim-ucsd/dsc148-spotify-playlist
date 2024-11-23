@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-100 songs - 6 hr 9 min
+101 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [No Longer Mine](https://open.spotify.com/track/1yFdsXTdIIRG92zmnUIioH) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Somebody](https://open.spotify.com/album/5xftBgxyioSxBqJ8e2yzaV) | 4:35 | 2023-02-10 |  |
 | [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 | 2023-05-26 | 2024-04-19 |
 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 | 2021-02-17 |  |
+| [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 | 2024-11-22 |  |
 | [Pushin' Against a Stone](https://open.spotify.com/track/7meaVP9XohwubW6TqvxP4Q) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against a Stone](https://open.spotify.com/album/2ce5ND89nKxicash0FzBYq) | 5:14 | 2021-02-17 |  |
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2021-02-17 | 2024-04-19 |
 | [Put The Gun Down](https://open.spotify.com/track/06MVDvmfrxQgZAXdw3TfVM) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Put The Gun Down](https://open.spotify.com/album/6mIrUvkAULzaMWm7h7RzKJ) | 2:51 | 2023-02-10 | 2024-04-19 |

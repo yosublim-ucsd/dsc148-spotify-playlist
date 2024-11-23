@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "True South",
+        "url": "https://open.spotify.com/album/2w9KfN9d1mPSzaH2x7WmEe"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200645,
+      "name": "True South",
+      "url": "https://open.spotify.com/track/3a6aKepwy5TFF74ENib8SI"
+    },
+    {
+      "album": {
         "name": "Act Of Valor",
         "url": "https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn"
       },

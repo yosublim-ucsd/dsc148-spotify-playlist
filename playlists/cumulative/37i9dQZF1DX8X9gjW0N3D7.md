@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-117 songs - 6 hr 15 min
+119 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 | 2024-06-28 | 2024-11-16 |
 | [Coffee](https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Dub Silence](https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr), [Adamo](https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:47 | 2024-07-26 |  |
 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
-| [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 |  |
+| [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 | 2024-11-23 |
 | [Coup de poing](https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Coup de poing](https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf) | 2:53 | 2024-09-27 | 2024-11-09 |
 | [Croire en nous](https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Science humaine](https://open.spotify.com/album/0chebHv4zEUnUwycIJEfgD) | 3:30 | 2024-11-15 |  |
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-06-28 | 2024-08-31 |
@@ -97,10 +97,11 @@
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 | 2024-11-09 |
 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 | 2024-11-15 |  |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
-| [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 |  |
+| [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 |  |
 | [Révolution \(la chanson\) \- Radio Édith](https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Révolution \(la chanson\) \[Radio Édith\]](https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 | 2024-06-28 |  |
+| [Ses dents](https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:47 | 2024-11-22 |  |
 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 | 2024-06-28 |  |
 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-06-28 |  |
 | [Sous terre](https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Sous terre](https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO) | 3:21 | 2024-06-28 | 2024-08-24 |
@@ -114,6 +115,7 @@
 | [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-08-30 |  |
 | [Tout passe](https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Quatorze](https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m) | 2:58 | 2024-06-28 |  |
 | [Tout pour plaire](https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Pour tout vous dire](https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa) | 3:37 | 2024-06-28 |  |
+| [Toutes tes idoles](https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Toutes tes idoles](https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2) | 3:53 | 2024-11-22 |  |
 | [Tshitatau](https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:23 | 2024-06-28 |  |
 | [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 | 2024-09-21 |
 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 | 2024-06-28 |  |

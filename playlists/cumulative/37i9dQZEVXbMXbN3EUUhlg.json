@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 216710,
       "name": "A Morte do Autotune",
       "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 81230,
       "name": "Amantes da Foda",
       "url": "https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 166838,
       "name": "Aquela Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/5asabafNzfAzjUecDvuNES"
@@ -3924,6 +3924,28 @@
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "album": {
+        "name": "Carta Aberta (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/6wDpJDekjVBFXXHdLSmZkj"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154727,
+      "name": "Body Splash - Ao Vivo",
+      "url": "https://open.spotify.com/track/1AM8pZn5uY89vkItAH5bm3"
     },
     {
       "album": {
@@ -6028,7 +6050,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 154418,
       "name": "Crack com Mussilon",
       "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
@@ -8532,7 +8554,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -12994,7 +13016,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -16606,7 +16628,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 123692,
       "name": "MTG QUEM N\u00c3O QUER SOU EU",
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
@@ -17624,7 +17646,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172727,
       "name": "Novinha do TKT",
       "url": "https://open.spotify.com/track/6SfcAUMXsi6eW6vZki5tC5"
@@ -19770,7 +19792,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188823,
       "name": "Pilantra e Meio",
       "url": "https://open.spotify.com/track/2k7EhDUKXApmeYVew9xeDf"
@@ -19904,7 +19926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 138466,
       "name": "Pinxad\u00e3o",
       "url": "https://open.spotify.com/track/4t4V2ptzeV94uXjUS1X18F"
@@ -20890,7 +20912,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149323,
       "name": "Pula Fora - Ao Vivo",
       "url": "https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK"
@@ -23812,7 +23834,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 155132,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/1lflD04lIdgV10sCMwFYOu"
@@ -25060,7 +25082,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -27654,7 +27676,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -28226,6 +28248,24 @@
       "duration_ms": 184149,
       "name": "\u00c9 Problema",
       "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Que Eu Sofri Demais",
+        "url": "https://open.spotify.com/album/4syWsB5Z8JBvM3ftwGWMBX"
+      },
+      "artists": [
+        {
+          "name": "Kleyton Souza",
+          "url": "https://open.spotify.com/artist/4gikWg6CUo6uwHkGMXFPuf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190380,
+      "name": "\u00c9 Que Eu Sofri Demais",
+      "url": "https://open.spotify.com/track/6Hp39ODlBU7yusKfv3s0zP"
     },
     {
       "album": {

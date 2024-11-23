@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,110 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,166 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 5 | [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 |
 | 6 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
 | 7 | [CRIR A ME](https://open.spotify.com/track/0kDRpvIZ2TVu3O93zCULmD) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [CRIR A ME](https://open.spotify.com/album/57M3PAoHMQhnT1wtRSD54N) | 2:29 |
-| 8 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe), [D\-Ross](https://open.spotify.com/artist/3AJSAtfY4qkm7DfGdCK9ne) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
+| 8 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
 | 9 | [JET PRIVATO \(feat\. Luchè\)](https://open.spotify.com/track/3aB5SuXdCdibhAFpjqrJ0c) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [JET PRIVATO \(feat\. Luchè\)](https://open.spotify.com/album/3BqSfkcTRosNZQ4LrJHQ48) | 3:03 |
 | 10 | [NU PARL, NU SENT, NU VEC](https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:14 |
 | 11 | [SHOTGUN \(Red Bull 64 Bars\)](https://open.spotify.com/track/2EKhvDiIAhUVOQx0bM1zR6) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB) | [CON I MIEI OCCHI](https://open.spotify.com/album/0YB6tfcu3Te6wO80NCubtQ) | 3:04 |

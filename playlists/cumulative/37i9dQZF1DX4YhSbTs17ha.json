@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. RENEE en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Kenia OS en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 156800,
       "name": "Dame Tu Amor",
       "url": "https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix"
@@ -3523,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
+    },
+    {
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -3856,6 +3874,24 @@
       "duration_ms": 198607,
       "name": "Ese Vato No Te Queda",
       "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
+    },
+    {
+      "album": {
+        "name": "Esta noche",
+        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
     },
     {
       "album": {
@@ -8152,7 +8188,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 180786,
       "name": "OTRO CAP\u00cdTULO",
       "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
@@ -8170,7 +8206,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170241,
       "name": "Otro Mood",
       "url": "https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v"
@@ -9569,6 +9605,28 @@
     },
     {
       "album": {
+        "name": "Sabes Lo Que Pasa",
+        "url": "https://open.spotify.com/album/3IYtQ9QrfzY3HxI0yT2Jem"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240370,
+      "name": "Sabes Lo Que Pasa",
+      "url": "https://open.spotify.com/track/2CeURw76k6T7PLVAQ1NoSr"
+    },
+    {
+      "album": {
         "name": "Salir Con Vida",
         "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
       },
@@ -10536,7 +10594,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 239377,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
@@ -10838,6 +10896,24 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "album": {
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "album": {
@@ -12144,6 +12220,28 @@
       "duration_ms": 184399,
       "name": "\u00bfPor Qu\u00e9 No Te Olvido?",
       "url": "https://open.spotify.com/track/7zIWLLW4YfQkPMCxyLUK54"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "album": {

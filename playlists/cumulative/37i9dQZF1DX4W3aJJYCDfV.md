@@ -4,7 +4,7 @@
 
 > Brand new music from Jazzy \(pictured\), Jack Harlow, Michael Kiwanuka and more!
 
-13,566 songs - 30 day 12 hr 21 min
+13,567 songs - 30 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8523,6 +8523,7 @@
 | [Number 74](https://open.spotify.com/track/71D0AZo5ruQEdGsLRb4lnQ) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Number 74](https://open.spotify.com/album/4s3U6WpURunf0H6IFIbFyP) | 2:52 | 2023-05-11 | 2023-05-19 |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-10 | 2023-08-18 |
 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 | 2023-01-13 | 2023-01-20 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 |  |
 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 | 2024-03-22 | 2024-03-29 |
 | [nw10](https://open.spotify.com/track/6ECruQCa7cvQhzX8MXDXxb) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [nw10](https://open.spotify.com/album/474BAYoUgweXnxM95lRU43) | 3:50 | 2022-11-11 | 2022-11-18 |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-01 | 2023-06-09 |
@@ -12176,7 +12177,7 @@
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2024-11-22 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-29 | 2023-07-07 |
 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 | 2023-11-10 | 2023-11-17 |
-| [Tough](https://open.spotify.com/track/16sEX15eFx7cpHh04rmaVG) | [koldblok](https://open.spotify.com/artist/0orkqD7CrFbiDHSYD7zUWT), [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Tough](https://open.spotify.com/album/6kIvc8PSzAli7o60BGhjsa) | 2:10 | 2024-11-22 |  |
+| [Tough](https://open.spotify.com/track/16sEX15eFx7cpHh04rmaVG) | [koldblok](https://open.spotify.com/artist/2UEzZ7uQGaHlpjN6VtgstK), [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Tough](https://open.spotify.com/album/6kIvc8PSzAli7o60BGhjsa) | 2:10 | 2024-11-22 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-07-12 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-20 | 2023-07-28 |
 | [Tough Love](https://open.spotify.com/track/7L7kH4V1gWSx75p22MTG8f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Tough Love](https://open.spotify.com/album/5o5vodKBdq97yTAjkLgelr) | 4:04 | 2023-02-10 | 2023-02-17 |

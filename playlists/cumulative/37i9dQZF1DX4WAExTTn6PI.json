@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Devil Bent",
+        "url": "https://open.spotify.com/album/7MID2OeMPD86rIC77bU33K"
+      },
+      "artists": [
+        {
+          "name": "Tori Miller",
+          "url": "https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Devil Bent",
+      "url": "https://open.spotify.com/track/5RmdFziXzizy6O7ErWKrVP"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x"
       },
@@ -888,6 +906,24 @@
       "duration_ms": 269582,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/0wvZqIlytT107FSU3uY6O5"
+    },
+    {
+      "album": {
+        "name": "Sleuthed/Full Cuts EP",
+        "url": "https://open.spotify.com/album/4BWjZuU8rWPK3dVGmY7OXe"
+      },
+      "artists": [
+        {
+          "name": "Will Johnson",
+          "url": "https://open.spotify.com/artist/0GkLlslI4LMVTTuUkyQp57"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234526,
+      "name": "Frame It",
+      "url": "https://open.spotify.com/track/1ans3xmz7CPzZb9e3PJbGK"
     },
     {
       "album": {
@@ -2174,7 +2210,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
@@ -3812,7 +3848,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 212506,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE"

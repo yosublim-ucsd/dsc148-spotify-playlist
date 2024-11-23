@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq?si=\_S6151ZwQC6uCN003oYmtw">Sam Deep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,936 likes - 65 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,924 likes - 65 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 64 | [Cishe Nga Posta](https://open.spotify.com/track/32BO8PBNFVDWh2Fwzs4izZ) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Cishe Nga Posta](https://open.spotify.com/album/0aSWwyOt1FNJhNTBn8ja77) | 5:45 |
 | 65 | [Tshika Ti Small Boys](https://open.spotify.com/track/4NbCOa10LTKAz4ZaJAAYa8) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV) | [Tshika Ti Small Boys](https://open.spotify.com/album/4uZMlYNkTUKoeHNsQ3bIyQ) | 4:50 |
 
-Snapshot ID: `Zz+tYAAAAAC2QuL9S4S1fzolQXSPBWQl`
+Snapshot ID: `Z0BE0gAAAABriONpSb+fi6VP6Y3DBPqh`

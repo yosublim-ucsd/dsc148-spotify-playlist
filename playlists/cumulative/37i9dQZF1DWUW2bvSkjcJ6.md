@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Jack Harlow
 
-2,799 songs - 5 day 17 hr 35 min
+2,800 songs - 5 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1820,6 +1820,7 @@
 | [Nu Lova](https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Nu Lova](https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj) | 3:22 | 2024-09-26 | 2024-10-04 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-02 | 2024-05-10 |
 | [Number One](https://open.spotify.com/track/0gb6KfibP8ehI8JSjScGpc) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Number One](https://open.spotify.com/album/2VUF1kPLKLvgWgnxrX8If3) | 3:00 | 2024-09-05 | 2024-09-13 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Nur an dich](https://open.spotify.com/track/7E8n65tGe4jDTs8PTHcIBj) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Nur an dich](https://open.spotify.com/album/597r6Ompc4e44UVZpf6H8s) | 2:35 | 2024-09-26 | 2024-10-04 |
 | [Nur Berliner \(feat\. CANEY030 & Pashanim\)](https://open.spotify.com/track/0BA9YjmzPBp2z4WYMmQInl) | [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Doktor](https://open.spotify.com/album/3avQQSmmC0w55iYwHfcp3O) | 2:59 | 2024-10-17 | 2024-10-25 |
 | [Nur ein Herz](https://open.spotify.com/track/6Crp4xqSisJ6F07x3fXoY6) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Nur ein Herz](https://open.spotify.com/album/1ewdiBZjzmmrARdO9urtL5) | 2:39 | 2024-09-05 | 2024-09-13 |
@@ -2577,7 +2578,7 @@
 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 | 2024-08-29 | 2024-09-06 |
 | [Voices In My Head \(ft\. Teddy Bee\)](https://open.spotify.com/track/67IluCSppOPrLyfWonaGGv) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Voices In My Head / Flashing Lights](https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ) | 2:55 | 2024-05-30 | 2024-06-07 |
 | [Volume](https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Volume](https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc) | 3:58 | 2024-08-01 | 2024-08-09 |
-| [Von Rot nach Weiß](https://open.spotify.com/track/0G4p0LVHtLoYjnPf3em8CQ) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Problemzone Mensch](https://open.spotify.com/album/5hUUNwVLkYq2G9lQp1LtPa) | 2:27 | 2024-11-21 |  |
+| [Von Rot nach Weiß](https://open.spotify.com/track/0G4p0LVHtLoYjnPf3em8CQ) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Problemzone Mensch](https://open.spotify.com/album/5hUUNwVLkYq2G9lQp1LtPa) | 2:27 | 2024-11-21 |  |
 | [Vorbei](https://open.spotify.com/track/6VBvfF2jREXbCSxqqqtM1c) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [Vorbei](https://open.spotify.com/album/2DOr3y69HMcSpl406Q2WSV) | 2:25 | 2024-07-11 | 2024-07-19 |
 | [Vorgestern Abend](https://open.spotify.com/track/7hQR8PHtWkBWTK9neaYRrl) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Vorgestern Abend](https://open.spotify.com/album/3bwC5K0zpqEObsYznllYDe) | 2:03 | 2024-09-19 | 2024-09-27 |
 | [Wachgeküsst](https://open.spotify.com/track/1drqxfVuxGwcKamPxsXKsz) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Wachgeküsst](https://open.spotify.com/album/5PcVek3cRbseNpR2lAGjiF) | 3:05 | 2024-05-16 | 2024-05-24 |

@@ -1,13 +1,37 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 576998,
+  "num_followers": 577014,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAC22ps8uZhOHRVyYqPTjcmh",
+  "snapshot_id": "Z0AP0AAAAAD/ID8upDZJT1uYLuEMyQ5V",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Together Tomorrow",
+        "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
+      },
+      "artists": [
+        {
+          "name": "takoda",
+          "url": "https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME"
+        },
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Hubie",
+          "url": "https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM"
+        }
+      ],
+      "duration_ms": 137831,
+      "name": "Always Late",
+      "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -2455,42 +2479,6 @@
       "duration_ms": 193182,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
-    },
-    {
-      "added_at": "2022-05-16 15:07:06",
-      "album": {
-        "name": "Database",
-        "url": "https://open.spotify.com/album/3Wd3eSggmgWFmO0N6yuIq4"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Benjamin Francis",
-          "url": "https://open.spotify.com/artist/06ZjGUPQ57XGGjh4Gjqzpz"
-        },
-        {
-          "name": "Moto Fukushima",
-          "url": "https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF"
-        },
-        {
-          "name": "Magro",
-          "url": "https://open.spotify.com/artist/76cRnLzHkspLjeNgFmDn87"
-        }
-      ],
-      "duration_ms": 272955,
-      "name": "Timeline-100",
-      "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
     },
     {
       "added_at": "2022-05-16 15:07:06",

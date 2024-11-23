@@ -19,7 +19,7 @@
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2023-08-29 |  |
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2023-08-29 |  |
 | [Oh!クラウディア](https://open.spotify.com/track/3P3rZBtohKIs5fFlz0Od3N) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 3:27 | 2023-08-29 |  |
-| [OH, GIRL\(悲しい胸のスクリーン\)](https://open.spotify.com/track/0pVXLR4mPbwhLxjvOZ2FAw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:57 | 2023-08-29 |  |
+| [OH, GIRL（悲しい胸のスクリーン）](https://open.spotify.com/track/0pVXLR4mPbwhLxjvOZ2FAw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:57 | 2023-08-29 |  |
 | [Soul Bomber\(21世紀の精神爆破魔\)](https://open.spotify.com/track/6WtgTDlYeK5D0Dyxy6K3dY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:35 | 2023-08-29 |  |
 | [Tarako](https://open.spotify.com/track/6jgH5KGjS6DVCBI52xath3) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Tarako](https://open.spotify.com/album/0Z2DqRSH89MZjth2SSPwcH) | 4:10 | 2023-08-29 |  |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-08-29 |  |
@@ -51,7 +51,7 @@
 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2023-08-29 |  |
 | [素敵なバーディー（NO NO BIRDY）](https://open.spotify.com/track/3N6iNG7d9dx8ozDCzoO9Fh) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [素敵なバーディー（NO NO BIRDY）](https://open.spotify.com/album/4v8sG8PuwqSjO9Scuctisp) | 5:11 | 2023-08-29 |  |
 | [素顔で踊らせて](https://open.spotify.com/track/0dIrA5S10gcPI0F1hBedKk) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ステレオ太陽族](https://open.spotify.com/album/3MF1xptTSght1fcewndp7D) | 4:23 | 2023-08-29 |  |
-| [逢いたくなった時に 君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 | 2023-08-29 |  |
+| [逢いたくなった時に　君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 | 2023-08-29 |  |
 | [逢いたさ見たさ 病める My Mind](https://open.spotify.com/track/0pIqDIRSfOiajavlbK4B9q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 3:48 | 2023-08-29 |  |
 
 \*This playlist was first scraped on 2023-11-25. Prior content cannot be recovered.

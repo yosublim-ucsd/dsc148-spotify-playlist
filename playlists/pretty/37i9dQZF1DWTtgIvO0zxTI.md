@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Flow Morati, Junior Caldera y Louis BPM
+> Aquí está el sonido urbano de Venezuela\. Cover: Apache
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,789 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,810 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No se pica torta](https://open.spotify.com/track/3WVqwQjKQvC15983z1Jgxe) | [Flow Morati](https://open.spotify.com/artist/2SHH3i2VerGwmbgivxGxd4), [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [No se pica torta](https://open.spotify.com/album/6wOCZWVVXAw4gCYRQ0L94n) | 3:51 |
-| 2 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
-| 3 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
-| 4 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 1 | [GANGSTA PARTY](https://open.spotify.com/track/4F3BxJgLz2pn9Mrcm539Qc) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [TERRITORIO: APACHE VOL.2 \- CHAMPION SOUND](https://open.spotify.com/album/5Q46fbyEp3Y9q7Y1vWn49J) | 3:20 |
+| 2 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
+| 3 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 4 | [No se pica torta](https://open.spotify.com/track/3WVqwQjKQvC15983z1Jgxe) | [Flow Morati](https://open.spotify.com/artist/2SHH3i2VerGwmbgivxGxd4), [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [No se pica torta](https://open.spotify.com/album/6wOCZWVVXAw4gCYRQ0L94n) | 3:51 |
 | 5 | [pantera rosa](https://open.spotify.com/track/7eEo5NXy050ybMaQPAPw1Y) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [Angelo Reeves](https://open.spotify.com/artist/69PtiuIXUHBwxTaRDLsli7) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:20 |
-| 6 | [Panadero](https://open.spotify.com/track/6aqc9ytWqOylMfC2hO8DwF) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Panadero](https://open.spotify.com/album/25JWRu97sltFATDQwOqqOy) | 4:02 |
+| 6 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 |
 | 7 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 |
 | 8 | [Cero condiciones](https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Cero condiciones](https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1) | 3:30 |
 | 9 | [XQ TAN DIFERENTE? \(≠\)](https://open.spotify.com/track/1N1YQPsLuEP2k6bZEmNWew) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [XQ TAN DIFERENTE? \(≠\)](https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `ZwWYBQAAAACfYIAly7g1a7oEPNhE2Pb9`
+Snapshot ID: `Z0APlAAAAABKfrI/k7sv5pvVdYmjtwCq`

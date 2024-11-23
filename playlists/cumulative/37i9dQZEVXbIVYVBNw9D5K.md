@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,059 songs - 2 day 4 hr 46 min
+1,060 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [GEÇMİŞİ SİL](https://open.spotify.com/track/4K7lVYPJxi8RpXRe5aU31A) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [GEÇMİŞİ SİL](https://open.spotify.com/album/7CGkq5YGahSU6MIA1lWJNd) | 3:08 | 2021-11-28 | 2021-12-06 |
 | [Geççek](https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Geççek](https://open.spotify.com/album/7vbykiNDCY72e48gKcNsf4) | 3:14 | 2022-02-18 | 2023-05-17 |
 | [Ghetto](https://open.spotify.com/track/1AU0gqFQ1sWXT2c84yBDvw) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ghetto](https://open.spotify.com/album/2pERxA6Rq3GWyRkT71DEPF) | 2:42 | 2021-11-14 | 2021-12-02 |
-| [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 | 2024-11-17 |
+| [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 |  |
 | [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2023-09-10 | 2024-05-03 |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2022-12-17 | 2022-12-26 |
 | [Gitti](https://open.spotify.com/track/50kQ5ot5Lwtl7aT4hNwIH5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Gitti](https://open.spotify.com/album/2l3qhaOwDQauRXRSEZJeaq) | 3:07 | 2022-10-29 | 2022-11-06 |
@@ -588,7 +588,7 @@
 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 | 2024-03-02 | 2024-05-20 |
 | [Keskin](https://open.spotify.com/track/4cziPzONppT5Wmdsj1SVlf) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Keskin](https://open.spotify.com/album/42MQd5f4luxqeDq7VlkFwx) | 3:21 | 2022-12-18 | 2023-02-12 |
 | [KHRBR](https://open.spotify.com/track/5GKPjeEbJOiV28JLtCe5hN) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [KHRBR](https://open.spotify.com/album/4NxhH37smnjnfEs0Cesdk5) | 4:44 | 2021-08-08 | 2021-11-14 |
-| [Ki Sen](https://open.spotify.com/track/1HcbuJlFXlXaYw1S1M04KG) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ben Bugün](https://open.spotify.com/album/2DSJUoBRmGMWjyVNEIhJ9U) | 4:07 | 2024-10-30 |  |
+| [Ki Sen](https://open.spotify.com/track/1HcbuJlFXlXaYw1S1M04KG) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ben Bugün](https://open.spotify.com/album/2DSJUoBRmGMWjyVNEIhJ9U) | 4:07 | 2024-10-30 | 2024-11-23 |
 | [Kim](https://open.spotify.com/track/1YwRyNs61T8oPFyAmLbLCS) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kim](https://open.spotify.com/album/0MMYCbunVdOBW3A2BLDEIz) | 2:56 | 2021-07-04 | 2021-07-11 |
 | [KISASA KISAS](https://open.spotify.com/track/1cZxbvFejxE6vIotQAy5Wc) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [KISASA KISAS](https://open.spotify.com/album/2AmjFQINqTZyZY60kpfhhq) | 3:20 | 2021-06-06 | 2021-06-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
@@ -666,6 +666,7 @@
 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 | 2023-04-22 | 2023-04-24 |
 | [Maybach](https://open.spotify.com/track/2j7M9A1Ko4LHi46sAmgLSF) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:47 | 2024-10-12 |  |
 | [Mayrig](https://open.spotify.com/track/4vKiDUH9yQnnDdD793DeNM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Mayrig](https://open.spotify.com/album/5mDOnIXSh37ZZFU33BgKNB) | 3:15 | 2021-09-19 | 2021-11-26 |
+| [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2024-11-22 |  |
 | [Mayıs 6](https://open.spotify.com/track/6n4nlEt4CXqo7q3r1UUGvq) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 6](https://open.spotify.com/album/2kNPTtwreyqFswlj41lgN4) | 4:03 | 2021-05-10 | 2021-05-11 |
 | [Mayıs 7](https://open.spotify.com/track/4Hsx0LzMyn69Pd6ncNbJql) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 7](https://open.spotify.com/album/3u8JtcAEo0M7SMgDvnvaEd) | 3:43 | 2021-05-10 | 2021-05-13 |
 | [Mayıs 9](https://open.spotify.com/track/4zgPNp1Pp139Mv9dCVJE6m) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 9](https://open.spotify.com/album/4WIBAD2q66CZDVqAuoUBTC) | 3:45 | 2023-05-11 | 2023-05-13 |
@@ -943,7 +944,7 @@
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2022-11-05 | 2022-11-07 |
 | [Tutsak](https://open.spotify.com/track/33eHMRTXayncWkfj72BI3U) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Tutsak](https://open.spotify.com/album/5HpUVb0Hodj7W7RJqF9LIK) | 3:02 | 2022-04-30 | 2022-10-16 |
 | [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-08-20 | 2024-01-15 |
-| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 |  |
+| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 | 2024-11-23 |
 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 | 2024-11-02 |  |
 | [Umrumda Değil](https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:05 | 2021-03-27\* | 2022-06-03 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 | 2022-11-25 |

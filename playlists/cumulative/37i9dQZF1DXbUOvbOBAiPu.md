@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Warhaus
 
-2,728 songs - 6 day 1 hr 7 min
+2,730 songs - 6 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1450,6 +1450,7 @@
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-26 | 2024-05-03 |
 | [Luna](https://open.spotify.com/track/5Bcjc3ffkeBpbEtbvIajoi) | [Naomi Aguilera](https://open.spotify.com/artist/1C9JdiobtnE0jht0I6g9uI) | [Mosaïques](https://open.spotify.com/album/0BvyCOhn9oAgsEjHQ7wM6k) | 3:41 | 2024-11-21 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-05-24 |
+| [luther](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-22 |  |
 | [luv](https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [luv](https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx) | 2:46 | 2024-08-29 | 2024-09-06 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-06 | 2024-06-14 |
 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 | 2024-11-07 | 2024-11-15 |
@@ -1712,6 +1713,7 @@
 | [Nu](https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Nu](https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi) | 2:26 | 2024-08-01 | 2024-08-09 |
 | [Numb](https://open.spotify.com/track/2QVRAuHOUYyNkei4wgqMLv) | [Suber Oaks](https://open.spotify.com/artist/3xYBRB4RTaAHgLhNUKDqvL) | [FEELS](https://open.spotify.com/album/7af0Jh6ELafETEAblclIKQ) | 4:06 | 2024-10-17 | 2024-10-25 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-02 | 2024-05-10 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Numbers](https://open.spotify.com/track/5lBWMBgXSSakXOWJ436kIS) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Numbers](https://open.spotify.com/album/5uSbrHoopSEnZBXZkKJjRp) | 3:22 | 2024-11-15 | 2024-11-22 |
 | [Oblivion](https://open.spotify.com/track/6socUaH5qv4grpfhWx3Ju1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Oblivion](https://open.spotify.com/album/3E2KUcjW4ejO0JoWGlWli6) | 4:08 | 2024-05-16 | 2024-05-24 |
 | [Oblivion Eyes](https://open.spotify.com/track/7ipUh3ks6qz821ZBwR7BG8) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Oblivion Eyes](https://open.spotify.com/album/39OcH8qmLHG9cWKzyq3jGU) | 3:32 | 2024-10-17 | 2024-10-25 |

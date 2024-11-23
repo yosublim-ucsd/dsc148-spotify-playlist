@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,574 likes - 100 songs - 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,579 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stella By Starlight \- Live at Paris, Salle Pleyel, France \- October 1, 1964 \[1st Concert\]](https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles in France 1963 & 1964 \- Miles Davis Quintet: The Bootleg Series, Vol\. 8](https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo) | 11:03 |
-| 2 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:07 |
-| 3 | [Isotope \- Live](https://open.spotify.com/track/7u7yYw9nNUfGl9ax63rVLV) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Henry Grimes](https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Isotope \(Live\)](https://open.spotify.com/album/2xII9ItURggn4o709YPigf) | 7:03 |
+| 1 | [The Believer \- Live](https://open.spotify.com/track/6U2clV4WPUsY1REm271GL4) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Henry Grimes](https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Forces of Nature: Live at Slugs'](https://open.spotify.com/album/3chmmA509fybGQ6ZYWzjsA) | 10:05 |
+| 2 | [Stella By Starlight \- Live at Paris, Salle Pleyel, France \- October 1, 1964 \[1st Concert\]](https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles in France 1963 & 1964 \- Miles Davis Quintet: The Bootleg Series, Vol\. 8](https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo) | 11:03 |
+| 3 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:07 |
 | 4 | [A Life Unfolds](https://open.spotify.com/track/7omftElKPPGipgMysWSmkE) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [A Life Unfolds](https://open.spotify.com/album/1Hx47u9CzXWmYkxSyNnJKn) | 9:03 |
 | 5 | [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 |
 | 6 | [Beneath The Mask \- Live](https://open.spotify.com/track/0PfI6iHSTiGfrOTLaH6mhs) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Beneath The Mask \(Live\)](https://open.spotify.com/album/20OaI5j8oaEr7AGQeJIC3u) | 6:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `Zy2gPwAAAAA0fw+wZTjbXDpmhjd0920A`
+Snapshot ID: `Z0AP0AAAAACLU8U0SXZEtqyTgzCwaFX+`

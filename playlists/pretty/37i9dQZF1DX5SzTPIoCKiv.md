@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,345 likes - 85 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,423 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 81 | [Springtime](https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let The Ground Rest](https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c) | 4:14 |
 | 82 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 |
 | 83 | [Symphony](https://open.spotify.com/track/4psxhrMFCo4FeQeAWTPFhr) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5xlQ1oXfwSMtImBVVZTS11) | 4:02 |
-| 84 | [Peace Be Still](https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/6DijVs6K0pynequruoG3o2) | 5:20 |
-| 85 | [Come To the Table](https://open.spotify.com/track/1Y5YioVHxFvkyGlryt0x6O) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different](https://open.spotify.com/album/0qkC3g81DvOqLeUkKlICMF) | 4:15 |
+| 84 | [Church \(Take Me Back\)](https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Church \(Take Me Back\) / Grave](https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE) | 2:56 |
+| 85 | [Peace Be Still](https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/6DijVs6K0pynequruoG3o2) | 5:20 |
 
 Snapshot ID: `ZnYuKAAAAACRyzX5FZCVJ9DeMTXD8NB2`

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,345 songs - 3 day 15 hr 1 min
+1,346 songs - 3 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Nothing's going my way](https://open.spotify.com/track/0PEMrxscyb93cQ0X6QFAlP) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Nothing's going my way](https://open.spotify.com/album/1OYxGc5j8LN7bcrDnCR3nz) | 4:03 | 2023-04-26 | 2023-09-12 |
 | [Now running to you](https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Now running to you](https://open.spotify.com/album/4uCUkLnuQRwN2wtcjaL0TH) | 3:32 | 2023-02-24 | 2023-05-16 |
 | [now, us, here](https://open.spotify.com/track/37dLt5hX0JjgZ4XLia6zgK) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [outbox](https://open.spotify.com/album/4D4mtUMEScdPlGHsacmCYt) | 3:03 | 2022-03-24 | 2022-04-13 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 |  |
 | [O\-NE GUY \(Prod By D\-Hack\)](https://open.spotify.com/track/50Wle7GEmqvCOqZlDVNwdW) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [O\-NE GUY \(Prod By D\-Hack\)](https://open.spotify.com/album/4uMguv4pJbGFO2bBDwFmm9) | 3:21 | 2023-07-06 | 2023-09-13 |
 | [Ocean Waves \(feat\. NIve\)](https://open.spotify.com/track/2e9V2bWaUFg9vnBa9q4tzu) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ocean Waves with KozyPop](https://open.spotify.com/album/7dt7lfkqQjGx7T8tIoJdaK) | 3:59 | 2022-01-27 | 2022-06-07 |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-04 | 2022-09-30 |

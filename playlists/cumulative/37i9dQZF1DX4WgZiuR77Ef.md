@@ -4,12 +4,12 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-235 songs - 16 hr 30 min
+236 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 | 2020-10-30 | 2022-04-09 |
-| [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 | 2023-02-17 |  |
+| [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 | 2023-02-17 | 2024-11-23 |
 | [A Message from the Meters](https://open.spotify.com/track/0uV4hoKCnJIlveeJZKhgux) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Jeannie's Getdown](https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn) | 3:06 | 2020-10-30 | 2022-04-09 |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 |  |
 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 | 2022-07-01 | 2024-04-19 |
@@ -226,6 +226,7 @@
 | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO) | [Uché](https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/album/1wkdRyItSsjQbh8oz9j1YG) | 3:35 | 2020-10-30 | 2023-05-27 |
 | [Where Do We Go From Here](https://open.spotify.com/track/1ax95j7TLkNoP6UeQFlU22) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/5PVTLcwmvKzPE4gY5ca8db) | 8:35 | 2020-10-30 | 2022-07-29 |
 | [Where Do We Go From Here](https://open.spotify.com/track/55RNNV9kBwX8rxwnpEWHkK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 8:35 | 2020-10-30 | 2023-08-26 |
+| [Why So Serious?](https://open.spotify.com/track/1De4SmmQ81AzPP04NNSCR6) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Why So Serious?](https://open.spotify.com/album/6hMQzwRRj0OkUSCd98QOxO) | 3:03 | 2024-11-22 |  |
 | [Wicked Karma](https://open.spotify.com/track/1euxBryXMch8Oq4OD4GbWt) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:53 | 2022-03-25 | 2024-04-19 |
 | [Wicked Karma](https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Wicked Karma](https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX) | 3:53 | 2022-03-25 |  |
 | [Wildman](https://open.spotify.com/track/0CgmMmdisUyp72qfEEUtbw) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 4:31 | 2021-02-12 | 2024-04-19 |

@@ -2,7 +2,7 @@
 
 ### [Maldita Hamburguesa](https://open.spotify.com/playlist/37i9dQZF1DWVtFO27AQ6dF)
 
-> Música motivacional para quemar esa hamburguesa que comiste el finde.
+> Música motivacional para ir a darlo todo al gym.
 
 124 songs - 8 hr 48 min
 

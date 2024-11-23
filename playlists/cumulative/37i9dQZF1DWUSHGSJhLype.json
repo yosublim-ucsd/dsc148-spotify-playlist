@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: LUDMILLA, WIU, MC Kevin O Chris\n",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Felipe Amorim, NATTAN, Pedro Sampaio\n",
   "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
@@ -2177,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Do Job",
+        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Do Job",
+      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
+    },
+    {
+      "album": {
         "name": "Cintilante (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
       },
@@ -3798,6 +3820,36 @@
       "duration_ms": 127310,
       "name": "L\u00edngua Doce - Ao Vivo",
       "url": "https://open.spotify.com/track/7mCrapVz3qXQ74XiRrbEVU"
+    },
+    {
+      "album": {
+        "name": "Macei\u00f3 at\u00e9 Jeri",
+        "url": "https://open.spotify.com/album/2p8p5t53aVliazrl4riUxK"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "EDNOBEAT",
+          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "Macei\u00f3 at\u00e9 Jeri",
+      "url": "https://open.spotify.com/track/4v7kZiQYM0nt197CNGsbfZ"
     },
     {
       "album": {
@@ -7670,7 +7722,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 143625,
       "name": "Vetinha",
       "url": "https://open.spotify.com/track/6v2A7aNs7dx7PPLqWC0QPl"

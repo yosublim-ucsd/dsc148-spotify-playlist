@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Rainy Morning \~Main Title\~](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 | 2022-09-30 |  |
+| [A Rainy Morning ～Main Title～](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 | 2022-09-30 |  |
 | [Abandoned Resort](https://open.spotify.com/track/3N8thLimHT9gKmmJHiROyD) | [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i), [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:57 | 2022-11-11 | 2024-04-19 |
 | [Abandoned School](https://open.spotify.com/track/3m5V72fX8VNquONB7ZbKdB) | [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:11 | 2022-11-11 | 2024-04-19 |
 | [Aftermath](https://open.spotify.com/track/5W7XShf7rQwwsmg5Tfi1QG) | [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 1:43 | 2022-11-10 | 2024-04-19 |

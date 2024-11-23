@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Nikos Oikonomopoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,732 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,772 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kataramenos](https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Myron](https://open.spotify.com/artist/6t8g09JsKLSlxaMNfFWYap) | [Kataramenos](https://open.spotify.com/album/2CyKGjthvLOU6h9iAhKhnQ) | 3:27 |
+| 1 | [Kataramenos](https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Kataramenos](https://open.spotify.com/album/2CyKGjthvLOU6h9iAhKhnQ) | 3:27 |
 | 2 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 |
 | 3 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 |
 | 4 | [SILLY BOY](https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:50 |

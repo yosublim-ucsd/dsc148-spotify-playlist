@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrate Ausmusic Month with Missy Higgins' picks of great Aussie songwriters\. Cover: Missy Higgins
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,958 likes - 49 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,014 likes - 49 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

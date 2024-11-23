@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,900 songs - 3 day 1 hr 36 min
+1,904 songs - 3 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1332,6 +1332,7 @@
 | [Quench](https://open.spotify.com/track/4BVLqvnrBw8SwSDQ1sINgN) | [Jerry Izo](https://open.spotify.com/artist/4LbJlOrH7Vt2oCMdTLq6Aq) | [Quench](https://open.spotify.com/album/2f8kAfndHfmrQmNDuGpPpe) | 2:07 | 2021-12-07 | 2022-07-01 |
 | [questa terra](https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [questa terra](https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx) | 2:27 | 2023-12-08 |  |
 | [quiet](https://open.spotify.com/track/08vuEOCKcpO6zH5g20Iidg) | [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [quiet](https://open.spotify.com/album/6hPUiZ29SufPYDYQ3U4896) | 1:39 | 2021-12-07 | 2022-04-22 |
+| [Quiet Pulse](https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Quiet Pulse](https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT) | 2:00 | 2024-11-22 |  |
 | [Quietude](https://open.spotify.com/track/3AWnr9QfEbEI7zfKTRmK7i) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW) | [Quietude](https://open.spotify.com/album/6f2vv18fPIs91xXC9q2ZQ9) | 2:32 | 2022-12-09 | 2023-04-12 |
 | [radiance](https://open.spotify.com/track/5iarqXiQifQaYOQwlTJQoO) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [radiance](https://open.spotify.com/album/2y3gpgpIREI735flBpCsLk) | 2:17 | 2022-09-30 | 2022-12-17 |
 | [Rain Flares](https://open.spotify.com/track/4MxWLiDZXwKdaAapL48S4C) | [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [Rain Flares](https://open.spotify.com/album/4zWdeS7FsXiTvePY5Lk1gA) | 2:11 | 2022-11-25 | 2023-10-06 |
@@ -1604,6 +1605,7 @@
 | [sundaythefirstofaugust](https://open.spotify.com/track/2X7P7uAfV5MLqz4tXUttXO) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/3BzM89d666UZerVmu2gwyG) | 2:37 | 2022-04-22 | 2022-10-14 |
 | [Sundayz](https://open.spotify.com/track/21lO5APQxUVgJmS5ixKM9s) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Sundayz](https://open.spotify.com/album/4ZO9A4n9Y7qrX2hdUyK2dy) | 2:08 | 2022-07-29 | 2022-10-14 |
 | [Sunfair](https://open.spotify.com/track/3FCRP6SZL4bWbDoa5x5E32) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [lo\-fido](https://open.spotify.com/artist/08pbX4XuBFQiAmsmRgiKpX), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Sunfair](https://open.spotify.com/album/5e26PtQLNxdyjFDTIrzvXk) | 2:20 | 2022-11-25 | 2023-09-22 |
+| [Sunny Afternoon](https://open.spotify.com/track/1rALEWQrG74zTa0FI7beYI) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Sunny Afternoon](https://open.spotify.com/album/15hFvBJlfe2phFq69PVGYi) | 1:53 | 2024-11-22 |  |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [Sunny Day Inside](https://open.spotify.com/track/1BIsAZOGS9pBgAX0fMToQS) | [Kamden Kids](https://open.spotify.com/artist/1fYoFQk1JknPQfbNP7L7j8) | [Hand Me Your Honey](https://open.spotify.com/album/0GxXZyyiBNfFAcAezHkm0B) | 2:47 | 2023-03-08 | 2023-08-22 |
 | [Sunny Disposition](https://open.spotify.com/track/7CX7qLKeVyrq0ZHMHDce5Z) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Sunny Disposition](https://open.spotify.com/album/1dshJRPcKcWD91qRMeSeGm) | 2:13 | 2022-08-05 | 2022-10-14 |
@@ -1898,6 +1900,7 @@
 | [Yikes](https://open.spotify.com/track/4We4R5F2Axh8titY8cPUU0) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Yikes](https://open.spotify.com/album/4thgS8huBkhBFxwixdYwza) | 1:42 | 2022-09-30 | 2024-04-13 |
 | [Yolofi](https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S) | [Digga Mindz](https://open.spotify.com/artist/3Lv7ncqaGnKo3E1z81unqU) | [Yolofi](https://open.spotify.com/album/0KAzECmokbzDwfQCYidVPk) | 2:06 | 2021-12-07 | 2022-05-20 |
 | [You](https://open.spotify.com/track/3XRCQEEbMTDb6w41x2BXNn) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [You](https://open.spotify.com/album/6RXXi4q2BVlsaM3iIEVIGj) | 2:22 | 2022-06-10 | 2022-10-29 |
+| [you & i](https://open.spotify.com/track/7N3szolYk64aEQ4enlKxNa) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2) | [you & i](https://open.spotify.com/album/6UZ1shy6P3naPu83eEI4u4) | 1:55 | 2024-11-22 |  |
 | [You & I](https://open.spotify.com/track/4b47QMnjbhrx8l7BVmUFZp) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [You & I](https://open.spotify.com/album/3KrU4nM6A8vQ4ab7cn9pA3) | 2:25 | 2024-05-13 | 2024-09-28 |
 | [You Can't Take The Sky From Me](https://open.spotify.com/track/72CtfEwQmkwyE1T2zZJs8z) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [You Can't Take The Sky From Me](https://open.spotify.com/album/7cbt2IGeVuahcEh2RinflP) | 1:55 | 2024-04-12 |  |
 | [You Inspire Me](https://open.spotify.com/track/6eKjFdAM6omGCEqWgB4dM8) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [You Inspire Me](https://open.spotify.com/album/45WMRyFnGvT8bPlS22zJb8) | 2:36 | 2022-09-16 | 2022-12-24 |
@@ -1908,5 +1911,6 @@
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2021-12-07 | 2022-07-01 |
 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 | 2022-11-26 |
 | [zuriel](https://open.spotify.com/track/3V2OHUAvBcaXyF2D7GCERq) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [ballaton & zuriel](https://open.spotify.com/album/7cujZGj0lzqZx8Ehv5jTPR) | 2:13 | 2023-03-08 | 2024-08-24 |
+| [énouement](https://open.spotify.com/track/2NWAI9czEGyyB9WZvMgFkI) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [énouement](https://open.spotify.com/album/0lteQYcob7SA7hu6uy2G7u) | 2:13 | 2024-11-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

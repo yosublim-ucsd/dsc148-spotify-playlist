@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: la loye",
+  "description": "All new music with an Indie twist. Cover: Sarah Julia",
   "name": "Indie Update",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
+    },
+    {
+      "album": {
+        "name": "7/11",
+        "url": "https://open.spotify.com/album/6sSpeN8gADIKPG64GpnRsm"
+      },
+      "artists": [
+        {
+          "name": "45ACIDBABIES",
+          "url": "https://open.spotify.com/artist/2mTXtWA6MHFws93KAA5rVt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "7/11",
+      "url": "https://open.spotify.com/track/77NPodmclbqJ1uJTZI651s"
     },
     {
       "album": {
@@ -185,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/3HZgyRARQloNzM1MygO9UY"
+      },
+      "artists": [
+        {
+          "name": "The Feather",
+          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/1ffSWF1hxT8u2SEk5BxwCK"
+    },
+    {
+      "album": {
         "name": "Amin",
         "url": "https://open.spotify.com/album/3ucf3U4xtZKXVPnksCSBjd"
       },
@@ -196,7 +250,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 250410,
       "name": "Amin",
       "url": "https://open.spotify.com/track/7H4UN1gSpckToDdGgt3GZY"
@@ -395,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/74Xm1OCeXU4aTvttarsimr"
+      },
+      "artists": [
+        {
+          "name": "Sunday Charmers",
+          "url": "https://open.spotify.com/artist/6GNNJxe0h0xpiUfN7Jk0r8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198927,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7DYlUGFJlToBPgdhO7BqF0"
+    },
+    {
+      "album": {
         "name": "Boom Boom Back",
         "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
       },
@@ -570,6 +642,24 @@
       "duration_ms": 161168,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "album": {
+        "name": "Call You",
+        "url": "https://open.spotify.com/album/6LNhnTGgAFuDtYOTz4W6Tn"
+      },
+      "artists": [
+        {
+          "name": "Close to Fire",
+          "url": "https://open.spotify.com/artist/659oLAkAQQTvYQR9zr98jA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157389,
+      "name": "Call You",
+      "url": "https://open.spotify.com/track/26AZuSaL6LmCnnm95whm6p"
     },
     {
       "album": {
@@ -805,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Dollhouse",
+        "url": "https://open.spotify.com/album/5g9RW87l5rtU3qYgoU9vLE"
+      },
+      "artists": [
+        {
+          "name": "KIND HUMAN",
+          "url": "https://open.spotify.com/artist/5LiAxF7Px6i7yypahrFrZV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Dollhouse",
+      "url": "https://open.spotify.com/track/72Bzv39mrLOf0VMNoOX62S"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm"
       },
@@ -913,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Ennui",
+        "url": "https://open.spotify.com/album/3ROdRlNpnEVoYTPe93f9n3"
+      },
+      "artists": [
+        {
+          "name": "Josephine Odhil",
+          "url": "https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "Ennui",
+      "url": "https://open.spotify.com/track/4rs0cJpY12vAzXgic7xxDE"
+    },
+    {
+      "album": {
         "name": "Ever Seen",
         "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
       },
@@ -978,7 +1104,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187500,
       "name": "F*cked Again",
       "url": "https://open.spotify.com/track/35I3cNM0DHj0sCSuL6PYlm"
@@ -1036,6 +1162,24 @@
       "duration_ms": 296904,
       "name": "Flip The Switch",
       "url": "https://open.spotify.com/track/3l8rZA9CwuIpCDd9u0UQt0"
+    },
+    {
+      "album": {
+        "name": "Flowers Grow In The Saddest Parts",
+        "url": "https://open.spotify.com/album/4fVmTL6baDtBeZokzEULTU"
+      },
+      "artists": [
+        {
+          "name": "Silver Lake",
+          "url": "https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Flowers Grow in the Saddest Parts",
+      "url": "https://open.spotify.com/track/6g3ZkK2Rkn1Nhbyf0uUCte"
     },
     {
       "album": {
@@ -1169,6 +1313,28 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/0Q1cLCrdqNt9SohBQrIQzm"
+      },
+      "artists": [
+        {
+          "name": "Halehan",
+          "url": "https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p"
+        },
+        {
+          "name": "Camille Camille",
+          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/45Ecm2SaKOncU2CqriDrmt"
+    },
+    {
+      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6xmnuWE9Di6wwQydEgZQiU"
       },
@@ -1259,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "I Dream of An Island",
+        "url": "https://open.spotify.com/album/1XKOOMZRIN7hCbwm1hwDRs"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198225,
+      "name": "I Dream of An Island",
+      "url": "https://open.spotify.com/track/2t0qGhf56y8gJ3fz60JpDN"
+    },
+    {
+      "album": {
         "name": "I Feel Tired (feat. Fontanez)",
         "url": "https://open.spotify.com/album/5WToARrVKPiJzdVTgwCgHU"
       },
@@ -1274,7 +1458,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 230800,
       "name": "I Feel Tired (feat. Fontanez)",
       "url": "https://open.spotify.com/track/56EEBKM5657M3GU1og2SSG"
@@ -1645,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Like The End",
+        "url": "https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319561,
+      "name": "Like The End",
+      "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
+    },
+    {
+      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
@@ -1789,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Morris",
+          "url": "https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41"
+    },
+    {
+      "album": {
         "name": "the side-effects of living in a fantasy",
         "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
       },
@@ -1822,6 +2042,24 @@
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
+      "album": {
+        "name": "Mendeleev",
+        "url": "https://open.spotify.com/album/5cP4oqBDAjA28ouF7akCbe"
+      },
+      "artists": [
+        {
+          "name": "Arsenal",
+          "url": "https://open.spotify.com/artist/6dZdcowBonykRqLdlfb7qR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235940,
+      "name": "Mendeleev",
+      "url": "https://open.spotify.com/track/69IxxGIdluxAbPNVFSzo2v"
     },
     {
       "album": {
@@ -1912,7 +2150,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 155788,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM"
@@ -2189,6 +2427,42 @@
     },
     {
       "album": {
+        "name": "Not Yet",
+        "url": "https://open.spotify.com/album/3lnfqcBuVSVJMo3zkfSco0"
+      },
+      "artists": [
+        {
+          "name": "Monrad",
+          "url": "https://open.spotify.com/artist/1A8AexeVNBFLpkCe447RoY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284701,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/00E0eihaJIRmZ9QVxvzhsg"
+    },
+    {
+      "album": {
+        "name": "O Fortune Teller",
+        "url": "https://open.spotify.com/album/6LGu4xuwrRbTXYUxSHv4cN"
+      },
+      "artists": [
+        {
+          "name": "The Veils",
+          "url": "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "O Fortune Teller",
+      "url": "https://open.spotify.com/track/5MfuqlEjswxqnkwqyJ9B40"
+    },
+    {
+      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/2ykUyBsX93ruS03b21aZpT"
       },
@@ -2200,7 +2474,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 180919,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/0w041cVb5GvPmrMZG1gJN7"
@@ -2384,10 +2658,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229346,
       "name": "Ready for You",
       "url": "https://open.spotify.com/track/1DfBi72sHWOVjAK9euaoPF"
+    },
+    {
+      "album": {
+        "name": "Real Love (soft version)",
+        "url": "https://open.spotify.com/album/3duy8w1ktRY8AhwptiPfz0"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182485,
+      "name": "Real Love - soft version",
+      "url": "https://open.spotify.com/track/64ozqpB6L2aB7tqWXxTtu5"
     },
     {
       "album": {
@@ -2582,7 +2874,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 200506,
       "name": "Something In My Room",
       "url": "https://open.spotify.com/track/5CSWTPWy2JC0VOoqbnNq38"
@@ -2618,7 +2910,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 171479,
       "name": "Sounds Like You",
       "url": "https://open.spotify.com/track/7JFsiIjRm0jwq90I6GW7dF"
@@ -3213,6 +3505,46 @@
     },
     {
       "album": {
+        "name": "We Tried",
+        "url": "https://open.spotify.com/album/69IhLswBPVjFm52fjf19Yo"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "We Tried",
+      "url": "https://open.spotify.com/track/5u9CgqgURzVWLQM1dqVG2t"
+    },
+    {
+      "album": {
+        "name": "Where I Want To Be (feat. Robin Kester)",
+        "url": "https://open.spotify.com/album/7u3489f7okSennse7mlidB"
+      },
+      "artists": [
+        {
+          "name": "Remy Van Kesteren",
+          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
+        },
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Where I Want To Be (feat. Robin Kester)",
+      "url": "https://open.spotify.com/track/22CR6anlnB0Pq5KP7O9EyN"
+    },
+    {
+      "album": {
         "name": "Where The Names Are Real",
         "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
       },
@@ -3224,7 +3556,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 321047,
       "name": "Where The Names Are Real",
       "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
@@ -3282,6 +3614,24 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0zYeQOfJJ5AdoDNdsrcrEF"
+      },
+      "artists": [
+        {
+          "name": "Aghogho",
+          "url": "https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247276,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2G383N1zsKkzIPz2utIAUw"
     },
     {
       "album": {

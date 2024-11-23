@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 265999,
       "name": "COLMILLO",
       "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
@@ -3125,6 +3125,32 @@
     },
     {
       "album": {
+        "name": "Going On",
+        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Going On",
+      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
+    },
+    {
+      "album": {
         "name": "GOODTIME",
         "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
       },
@@ -3762,6 +3788,28 @@
       "duration_ms": 137704,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/7Fa4P7koWXkVs5ZUIWvAD3"
+    },
+    {
+      "album": {
+        "name": "In The Rain",
+        "url": "https://open.spotify.com/album/6sMpx5uNhG6EPNqRhMwxCV"
+      },
+      "artists": [
+        {
+          "name": "The Kount",
+          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/4UGBZOfhpyFGu62NqXVZAQ"
     },
     {
       "album": {
@@ -6468,7 +6516,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 110769,
       "name": "rosa",
       "url": "https://open.spotify.com/track/6zC0YD7pqW2mxaPRVmZUsV"
@@ -6702,6 +6750,28 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
       "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+    },
+    {
+      "album": {
+        "name": "She Ride The Wind",
+        "url": "https://open.spotify.com/album/76cucuTaNRAGT3zHwIAWQd"
+      },
+      "artists": [
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        },
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "She Ride The Wind",
+      "url": "https://open.spotify.com/track/4JkCvBOYKBifUiO0eDgHAX"
     },
     {
       "album": {
@@ -7280,7 +7350,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 166774,
       "name": "Stunt Like This",
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"

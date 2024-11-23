@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Anakena en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con ha$lopablito en portada.
 
-162 songs - 8 hr 56 min
+163 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-10 | 2024-08-31 |
 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 | 2024-02-09 | 2024-11-16 |
 | [Con la vida al centro](https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Con la vida al centro](https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm) | 2:52 | 2024-06-14 |  |
+| [CON TU TÍA EN EL CLUB](https://open.spotify.com/track/6l0JFV3Tuhn2eLNvnMZEFM) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [CON TU TÍA EN EL CLUB](https://open.spotify.com/album/6GUaxCCSSh0ObbbzUmXU6I) | 4:24 | 2024-11-22 |  |
 | [Cuando Te Tengo Cerca \- Sesión en Vivo](https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuando Te Tengo Cerca \(Sesión en Vivo\)](https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN) | 5:30 | 2024-04-12 | 2024-08-03 |
 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 | 2023-09-22 | 2023-10-14 |
 | [Cómo Te Hago Entender](https://open.spotify.com/track/0uPbJDwoDa065Os4rxUNRj) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Cómo Te Hago Entender](https://open.spotify.com/album/2Cj7bkDQI88H1TmrBaL3Km) | 3:45 | 2024-02-02 | 2024-08-03 |
@@ -48,7 +49,7 @@
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2023-09-22 |  |
 | [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
-| [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 | 2024-08-30 |  |
+| [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 | 2024-08-30 | 2024-11-23 |
 | [el Alquimista \- versión piano](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista \(versión piano\)](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 | 2024-08-16 |  |
 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 | 2024-07-19 |
 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 | 2023-10-20 | 2024-03-02 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Denise Julia",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Rob Deniel",
   "name": "OPM Rising",
   "tracks": [
+    {
+      "album": {
+        "name": "\"I'm Okay\"",
+        "url": "https://open.spotify.com/album/2USL86C6OjT7HtoZctGJ9W"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302142,
+      "name": "\"I'm Okay\"",
+      "url": "https://open.spotify.com/track/7aOEt5pZbsgtuL2GXTibJD"
+    },
     {
       "album": {
         "name": "'Di Bale Na Lang",
@@ -351,6 +369,28 @@
     },
     {
       "album": {
+        "name": "balik",
+        "url": "https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm"
+      },
+      "artists": [
+        {
+          "name": "Dom Guyot",
+          "url": "https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0"
+        },
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200274,
+      "name": "balik",
+      "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
+    },
+    {
+      "album": {
         "name": "Basta\u2019t Alam Kong Tayo 1",
         "url": "https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz"
       },
@@ -402,6 +442,24 @@
       "duration_ms": 153374,
       "name": "better than he does",
       "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
+    },
+    {
+      "album": {
+        "name": "Bighani",
+        "url": "https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235470,
+      "name": "Bighani",
+      "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
     },
     {
       "album": {
@@ -550,7 +608,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 235026,
       "name": "Comets (with Petra Sihombing)",
       "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
@@ -626,6 +684,24 @@
       "duration_ms": 205217,
       "name": "Delikado, Baby",
       "url": "https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne"
+    },
+    {
+      "album": {
+        "name": "Di Mapakali",
+        "url": "https://open.spotify.com/album/6sJYwdvd3qvopepHz1111k"
+      },
+      "artists": [
+        {
+          "name": "Pattia",
+          "url": "https://open.spotify.com/artist/5lsGsDuEgkJJVIupE3kupJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "Di Mapakali",
+      "url": "https://open.spotify.com/track/1AqyT79FxsN0PhqSty5BS2"
     },
     {
       "album": {
@@ -1013,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281907,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre"
+    },
+    {
+      "album": {
         "name": "hardest part",
         "url": "https://open.spotify.com/album/3lnwhZrqett24YdC1Yl2pA"
       },
@@ -1046,7 +1140,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 349746,
       "name": "Hayaan",
       "url": "https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa"
@@ -1104,6 +1198,24 @@
       "duration_ms": 173500,
       "name": "Hirap Kalimutan",
       "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+    },
+    {
+      "album": {
+        "name": "Hiraya",
+        "url": "https://open.spotify.com/album/7tEI48ifzaMHKjdBrHux6t"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Hiraya",
+      "url": "https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5"
     },
     {
       "album": {
@@ -1256,7 +1368,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 276000,
       "name": "Isa Dalawa Tatlo",
       "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
@@ -1866,6 +1978,24 @@
       "duration_ms": 175573,
       "name": "Lumayo",
       "url": "https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz"
+    },
+    {
+      "album": {
+        "name": "M.I.N.O.Y.",
+        "url": "https://open.spotify.com/album/78F8Zvv1TZRSlugLNjlnMd"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "M.I.N.O.Y.",
+      "url": "https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A"
     },
     {
       "album": {
@@ -2590,7 +2720,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 241000,
       "name": "Palagi - TJxKZ Version",
       "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
@@ -3078,7 +3208,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 226421,
       "name": "Sandal",
       "url": "https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P"
@@ -3288,7 +3418,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 193000,
       "name": "Silent Cries",
       "url": "https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg"
@@ -3672,7 +3802,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 238363,
       "name": "Through The Years - From \u201cLolo and the Kid\"",
       "url": "https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y"

@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Triple Fire",
+        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
+      },
+      "artists": [
+        {
+          "name": "Geneva Jacuzzi",
+          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
+    },
+    {
+      "album": {
         "name": "Dry Fantasy",
         "url": "https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 257273,
       "name": "Get Real - Sounds Right Mix (feat. NATURE)",
       "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"

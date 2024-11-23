@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Bils
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,309 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,332 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 36 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
 | 37 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 |
 | 38 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 |
-| 39 | [Taya](https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Taya](https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0) | 2:02 |
-| 40 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
+| 39 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
+| 40 | [Taya](https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Taya](https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0) | 2:02 |
 | 41 | [Easy](https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ) | [Niyi](https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Easy](https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr) | 2:54 |
 | 42 | [Yolo](https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp) | [Freezy](https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Yolo](https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A) | 3:04 |
 | 43 | [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 52 | [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 |
 | 53 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
 | 54 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
-| 55 | [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 |
-| 56 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 |
+| 55 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 |
+| 56 | [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 |
 | 57 | [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 |
 | 58 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 | 59 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |

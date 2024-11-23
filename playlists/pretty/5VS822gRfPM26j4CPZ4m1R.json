@@ -1,29 +1,13 @@
 {
   "description": "Playlist",
-  "num_followers": 17248,
+  "num_followers": 17252,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALsWg68aZe+BLB56rySaPOf4lPRRbX",
+  "snapshot_id": "AAALs97+UFbfY35vFbMkSHHr8jZk1L4n",
   "tracks": [
-    {
-      "added_at": "2024-11-02 09:39:57",
-      "album": {
-        "name": "So Blue",
-        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
-      },
-      "artists": [
-        {
-          "name": "Blacktop",
-          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "So Blue",
-      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
-    },
     {
       "added_at": "2024-07-16 10:27:49",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 161366,
       "name": "Real Sugar",
       "url": "https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru"
+    },
+    {
+      "added_at": "2024-11-02 09:39:57",
+      "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
     },
     {
       "added_at": "2024-11-12 16:49:54",
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6"
     },
     {
-      "added_at": "2024-07-16 14:29:35",
-      "album": {
-        "name": "Closing That Door",
-        "url": "https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd"
-      },
-      "artists": [
-        {
-          "name": "Beach for Tiger",
-          "url": "https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F"
-        }
-      ],
-      "duration_ms": 191864,
-      "name": "Closing That Door",
-      "url": "https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f"
-    },
-    {
       "added_at": "2024-06-10 15:15:34",
       "album": {
         "name": "Round Trip",
@@ -263,6 +247,22 @@
       "duration_ms": 234098,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/3EezgM3a6bseghVvVEXzkT"
+    },
+    {
+      "added_at": "2024-07-16 14:29:35",
+      "album": {
+        "name": "Closing That Door",
+        "url": "https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd"
+      },
+      "artists": [
+        {
+          "name": "Beach for Tiger",
+          "url": "https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F"
+        }
+      ],
+      "duration_ms": 191864,
+      "name": "Closing That Door",
+      "url": "https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f"
     },
     {
       "added_at": "2024-08-02 07:38:57",

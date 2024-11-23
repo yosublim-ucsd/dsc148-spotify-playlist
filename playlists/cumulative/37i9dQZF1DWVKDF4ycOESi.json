@@ -9363,6 +9363,24 @@
     },
     {
       "album": {
+        "name": "Donne e Motori",
+        "url": "https://open.spotify.com/album/5DaX3zMkPtadMxKXM6d8PV"
+      },
+      "artists": [
+        {
+          "name": "Mediterraneo",
+          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166739,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/2m9wQyHEqfZGbWymQ18uNT"
+    },
+    {
+      "album": {
         "name": "Circumnavigating Georgia",
         "url": "https://open.spotify.com/album/0NifH8uAv89mMo97MnOenG"
       },
@@ -23325,6 +23343,24 @@
     },
     {
       "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/3f4xN7DVAH8Qak6JVYjQ8a"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312326,
+      "name": "Josh Tillman and the Accidental Dose",
+      "url": "https://open.spotify.com/track/4z435sYvVQUQvPigimFynt"
+    },
+    {
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
       },
@@ -33275,6 +33311,24 @@
     },
     {
       "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "album": {
         "name": "New Fears",
         "url": "https://open.spotify.com/album/4GD8YM9AWxA8x4nZzBQanK"
       },
@@ -40330,10 +40384,6 @@
         {
           "name": "4m",
           "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
-        },
-        {
-          "name": "EMDI",
-          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
         }
       ],
       "date_added": "2024-11-21",

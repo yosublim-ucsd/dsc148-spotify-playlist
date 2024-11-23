@@ -2,9 +2,9 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> Experience the lastest and the greatest Worship music right here, right now\. Cover:  Victor Thompson
+> Experience the lastest and the greatest Worship music right here, right now\. Cover:  Brandon Lake
 
-711 songs - 2 day 19 hr 11 min
+712 songs - 2 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 | 2023-10-20 | 2024-04-06 |
 | [Bless God \- Live From Passion 2024](https://open.spotify.com/track/55891kIDHcEGReUrpD461w) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God](https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O) | 5:14 | 2024-04-05 | 2024-05-11 |
 | [Bless His Name / To Him Who Sits On the Throne \- Live](https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [Bless His Name \(Live from Urbana\)](https://open.spotify.com/album/6Paas7aU7k5o05Q1yL4JP2) | 9:42 | 2023-03-10 | 2024-02-17 |
-| [Bless The Lord](https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Bless The Lord](https://open.spotify.com/album/5RiIEZcWk9PN68CWuk1pvU) | 3:16 | 2024-08-09 |  |
+| [Bless The Lord](https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Bless The Lord](https://open.spotify.com/album/5RiIEZcWk9PN68CWuk1pvU) | 3:16 | 2024-08-09 | 2024-11-23 |
 | [Blessed](https://open.spotify.com/track/0Me2VvbdQoSVn9YaVqWUKg) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Blessed](https://open.spotify.com/album/0UhDdx4FunkOEOMDbp0jBY) | 5:24 | 2022-02-25 | 2022-11-05 |
 | [Blessed Hope](https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Blessed Hope](https://open.spotify.com/album/2op3eogwOF5fW5PlpokiNn) | 6:14 | 2023-01-13 | 2023-10-28 |
 | [Bloom \- Live](https://open.spotify.com/track/7ebNynWIxv70Dnkqfyc3rm) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective \(Live\)](https://open.spotify.com/album/0GRiESh2EmEqqIYFIbDdcv) | 6:44 | 2022-08-05 | 2022-10-08 |
@@ -636,6 +636,7 @@
 | [Thunder In The Desert](https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [TIME](https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5) | 5:10 | 2023-06-30 | 2024-05-04 |
 | [Time and Time Again](https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Time and Time Again](https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc) | 5:16 | 2022-04-15 | 2022-08-06 |
 | [Time And Time Again](https://open.spotify.com/track/6TGeYkxj1y93ik3pqCX2b0) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Time And Time Again](https://open.spotify.com/album/5865KAEneVcx09kCewvvAT) | 3:17 | 2024-04-26 | 2024-07-13 |
+| [Time And Time Again](https://open.spotify.com/track/42PFZkVtgmqj3u3481ZY2L) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Time And Time Again](https://open.spotify.com/album/5XNspQit6bgYqM7o4khgLC) | 3:17 | 2024-11-22 |  |
 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 | 2022-08-05 | 2023-12-02 |
 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 | 2023-02-24 | 2024-04-19 |
 | [To The Lamb](https://open.spotify.com/track/5IILKBAHeBrZyyrdYq8FwA) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life is Hard\. God is Good.](https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp) | 5:30 | 2024-03-01 | 2024-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Jamie Jones at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,243 likes - 110 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,486 likes - 110 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "mistletoe",
+        "url": "https://open.spotify.com/album/2VUu5LnWlpyzhCzpSXKPdK"
+      },
+      "artists": [
+        {
+          "name": "mellowa",
+          "url": "https://open.spotify.com/artist/2F6kCaf55t8Tyf8g4xIoGa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156992,
+      "name": "mistletoe",
+      "url": "https://open.spotify.com/track/649zUUkzjAEJ3CeemBeKRZ"
+    },
+    {
+      "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/0CFV9ymitdztEb9HcJsGhx"
       },

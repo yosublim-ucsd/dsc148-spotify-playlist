@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,255 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,389 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [24ora](https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [G.T.K.](https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la) | 2:57 |
 | 2 | [Ergo \(The Beginning\)](https://open.spotify.com/track/1ZG8uXRoWqnfhCpZuCmyZT) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Ergo \(The Beginning\)](https://open.spotify.com/album/7zKFwNhETQkU8AEfNUCfWb) | 3:14 |
 | 3 | [Once In A Lifetime](https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Once In A Lifetime](https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ) | 3:52 |
-| 4 | [Kataramenos](https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Myron](https://open.spotify.com/artist/6t8g09JsKLSlxaMNfFWYap) | [Kataramenos](https://open.spotify.com/album/2CyKGjthvLOU6h9iAhKhnQ) | 3:27 |
+| 4 | [Kataramenos](https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Kataramenos](https://open.spotify.com/album/2CyKGjthvLOU6h9iAhKhnQ) | 3:27 |
 | 5 | [SA POULIA STON AERA](https://open.spotify.com/track/1Koas8a5gP2au0Jgbb8YUY) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997) | [SA POULIA STON AERA](https://open.spotify.com/album/1QGWeWtCJihWgDkOH8LWAy) | 3:05 |
 | 6 | [PASARELA](https://open.spotify.com/track/19zZ6CFn39KaEgwlnxEtEa) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [PASARELA](https://open.spotify.com/album/5uHQoNwkyfCqndwYuX37WB) | 2:17 |
 | 7 | [Mesanyxta](https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Mesanyxta](https://open.spotify.com/album/1cn6aLJqqHF4jZtLwOsTR6) | 3:02 |

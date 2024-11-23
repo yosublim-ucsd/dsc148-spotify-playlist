@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,719 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,742 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 28 | [Lovely music～三週間前までは白かった～](https://open.spotify.com/track/4qfOkZAA93DYXVtoX3HvQq) | [中野三玖\(CV:伊藤美来\)](https://open.spotify.com/artist/2CU55XU7mofonirPsjjWPw) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 4:02 |
 | 29 | [ハートのカタチ～四つ葉のClover～](https://open.spotify.com/track/10J5KGwRDHG2lzc0oHaO2e) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 4:40 |
 | 30 | [素直にOpen heart～五つ数えて～](https://open.spotify.com/track/54Hi7PjFXgzKUdEyX2lydK) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 3:56 |
-| 31 | [きづいてよ \~One Love\~](https://open.spotify.com/track/3Vwk52rpGNFy84ui1IbCJs) | [中野一花\(CV:花澤香菜\)](https://open.spotify.com/artist/4iK6g2iaN8lRRuYhZnrpdA) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:14 |
-| 32 | [好きよ \~Two Hearts\~](https://open.spotify.com/track/6sca0eXXbetvZO4HLbSifu) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:36 |
-| 33 | [君が好き \~Three Feelings\~](https://open.spotify.com/track/3kft3Cy6KmGXkE6cyf4hus) | [中野三玖\(CV:伊藤美来\)](https://open.spotify.com/artist/2CU55XU7mofonirPsjjWPw) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:08 |
-| 34 | [内緒の恋 \~Love Four U\~](https://open.spotify.com/track/0zr5fxZma42At5ON5Lajf6) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:54 |
-| 35 | [トクベツなひと \~Lesson Five\~](https://open.spotify.com/track/4uA7ggo3b4tFYZJyL948Xg) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:26 |
+| 31 | [きづいてよ ～One Love～](https://open.spotify.com/track/3Vwk52rpGNFy84ui1IbCJs) | [中野一花\(CV:花澤香菜\)](https://open.spotify.com/artist/4iK6g2iaN8lRRuYhZnrpdA) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:14 |
+| 32 | [好きよ ～Two Hearts～](https://open.spotify.com/track/6sca0eXXbetvZO4HLbSifu) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:36 |
+| 33 | [君が好き ～Three Feelings～](https://open.spotify.com/track/3kft3Cy6KmGXkE6cyf4hus) | [中野三玖\(CV:伊藤美来\)](https://open.spotify.com/artist/2CU55XU7mofonirPsjjWPw) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:08 |
+| 34 | [内緒の恋 ～Love Four U～](https://open.spotify.com/track/0zr5fxZma42At5ON5Lajf6) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:54 |
+| 35 | [トクベツなひと ～Lesson Five～](https://open.spotify.com/track/4uA7ggo3b4tFYZJyL948Xg) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:26 |
 | 36 | [五等分の花嫁](https://open.spotify.com/track/19E614FaNGBXrQ1EuEmB8m) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 2:03 |
 | 37 | [五つ子のテーマ](https://open.spotify.com/track/770khA1CgkIwfD045sYyl1) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:26 |
 | 38 | [一花のテーマ](https://open.spotify.com/track/2ml60gglsXtyHMGaoVTcIa) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:07 |

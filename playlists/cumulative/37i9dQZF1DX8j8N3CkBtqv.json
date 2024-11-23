@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - Raghav Meattle, Mali",
+  "description": "Naye Indie gaano ka khazana! Cover - Swanand Kirkire, Chinmayi Tripathi, Joell",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 213837,
       "name": "Aashiyan",
       "url": "https://open.spotify.com/track/6nZeVsSoV8sMgrvnsPqxE4"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 234008,
       "name": "ahar atbooD",
       "url": "https://open.spotify.com/track/47p9K7Cj7Dke2luwJpKXTM"
@@ -3297,6 +3297,32 @@
     },
     {
       "album": {
+        "name": "Chameli",
+        "url": "https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16"
+      },
+      "artists": [
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        },
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "Chameli",
+      "url": "https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT"
+    },
+    {
+      "album": {
         "name": "Chandni Raat",
         "url": "https://open.spotify.com/album/37fimO5ahI9qtvEN7OqlME"
       },
@@ -4191,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Dil Mera Hai Awara",
+        "url": "https://open.spotify.com/album/59g5dtmlECW7SWQWvHWsRl"
+      },
+      "artists": [
+        {
+          "name": "Aayush Jain",
+          "url": "https://open.spotify.com/artist/5B52AQGhlrLIgAggn9diT3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "Dil Mera Hai Awara",
+      "url": "https://open.spotify.com/track/4xrEkMa5xRigJYM2ocRlzs"
+    },
+    {
+      "album": {
         "name": "Dil Na Laage",
         "url": "https://open.spotify.com/album/707iJF1SzEcGPytosRmLJD"
       },
@@ -4632,6 +4676,36 @@
       "duration_ms": 285357,
       "name": "Duur Hai Wo",
       "url": "https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt"
+    },
+    {
+      "album": {
+        "name": "Ek Aur Nadiya",
+        "url": "https://open.spotify.com/album/0CEXBigwli6EFoYqMvGf6k"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Ek Aur Nadiya",
+      "url": "https://open.spotify.com/track/1f22h4QWIhU9SjEaxkxj1q"
     },
     {
       "album": {
@@ -7144,7 +7218,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 249696,
       "name": "Jheelon Pe Shaam",
       "url": "https://open.spotify.com/track/6uT0YnvjK2AgqctOoJAuvX"
@@ -7562,6 +7636,24 @@
       "duration_ms": 165500,
       "name": "Kaha Mera",
       "url": "https://open.spotify.com/track/5Gaem0vsKpfOGKSr6ytTTC"
+    },
+    {
+      "album": {
+        "name": "Kahaan",
+        "url": "https://open.spotify.com/album/5dfkx6NXRIpIcPBNFBN5mC"
+      },
+      "artists": [
+        {
+          "name": "Rachel Singh",
+          "url": "https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293334,
+      "name": "Kahaan",
+      "url": "https://open.spotify.com/track/14fpXuSjBNF3Zmh3i7bteU"
     },
     {
       "album": {
@@ -12122,7 +12214,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 189160,
       "name": "O Baalam",
       "url": "https://open.spotify.com/track/6mmysz9VDxzdzjZhFhxGMK"
@@ -13228,7 +13320,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 131162,
       "name": "Rakh Loon",
       "url": "https://open.spotify.com/track/1p4XQx96xoS1HSMnVqoeMH"
@@ -13596,6 +13688,36 @@
       "duration_ms": 204324,
       "name": "Roya Tha!",
       "url": "https://open.spotify.com/track/2XR2zint0bHYy6lzF524Xa"
+    },
+    {
+      "album": {
+        "name": "Rozana",
+        "url": "https://open.spotify.com/album/60oSlQMsD8VdJLgv8UiVvi"
+      },
+      "artists": [
+        {
+          "name": "Sahil",
+          "url": "https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9"
+        },
+        {
+          "name": "Harshvardhan Gadhvi",
+          "url": "https://open.spotify.com/artist/4vqHtxsxPXsEQEwkE7QzeC"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "Rozana",
+      "url": "https://open.spotify.com/track/1C2V2Y06UX5V0UQfTWmmcc"
     },
     {
       "album": {
@@ -17952,7 +18074,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 186444,
       "name": "Zeest",
       "url": "https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe"
@@ -18036,6 +18158,28 @@
       "duration_ms": 181236,
       "name": "zindagi apni film hai",
       "url": "https://open.spotify.com/track/1MqtCYorCqoLRuTu0gzha3"
+    },
+    {
+      "album": {
+        "name": "Zindagi Kharab",
+        "url": "https://open.spotify.com/album/57cpj4V2RgT6kAxGYf72zH"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180744,
+      "name": "Zindagi Kharab",
+      "url": "https://open.spotify.com/track/3NwMH4616tYCujH7O4f3tk"
     },
     {
       "album": {

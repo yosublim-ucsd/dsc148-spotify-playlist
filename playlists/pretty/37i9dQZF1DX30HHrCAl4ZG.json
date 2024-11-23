@@ -1,12 +1,12 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Medium Build",
-  "num_followers": 834133,
+  "description": "Explore all things indie rock right now. Featuring music from The Kilans",
+  "num_followers": 834168,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAABmOQZ65uznkdqC7mdYpbL5",
+  "snapshot_id": "Z0AP0AAAAABIjfx6nfn5l75EU4y/YmBk",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -25,6 +25,118 @@
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 312326,
+      "name": "Josh Tillman and the Accidental Dose",
+      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Mr. Smith",
+        "url": "https://open.spotify.com/album/7iBeqm0CwLcoQzPOpnJbtl"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Mr. Smith",
+      "url": "https://open.spotify.com/track/5G3DokUenWPvRjKoOSMWrZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "If u know u know",
+        "url": "https://open.spotify.com/album/6iaxRc3lAky6xmgFNpBTAz"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "If u know u know",
+      "url": "https://open.spotify.com/track/7J2WvkgtqyC2IJUEUiIu2r"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/79kiwS8SnWG6qHqJXEX0Z6"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 161179,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Marietta",
@@ -41,6 +153,26 @@
       "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wearing Pants Again",
+        "url": "https://open.spotify.com/album/4k6awfAj4WUxoRy6wXWanO"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wearing Pants Again",
+      "url": "https://open.spotify.com/track/27xQwQ3WYvmafoUiWPMJHS"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "ROCKMAN",
@@ -55,6 +187,54 @@
       "duration_ms": 179370,
       "name": "ROCKMAN",
       "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Blood On The Hospital Floor",
+        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Blood On The Hospital Floor",
+      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -295,38 +475,6 @@
       "duration_ms": 204688,
       "name": "Dinner @ Brasserie Z\u00e9del",
       "url": "https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 163264,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 183318,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -947,22 +1095,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Screamland",
-        "url": "https://open.spotify.com/album/1cWcuem4swWjrTCPnga6Wd"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 411742,
-      "name": "Screamland",
-      "url": "https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "How did you learn to love?",
         "url": "https://open.spotify.com/album/5Xvy66SMkFA6kLPC8xuYzB"
       },
@@ -1111,22 +1243,6 @@
       "duration_ms": 360592,
       "name": "Lullaby for the Lost",
       "url": "https://open.spotify.com/track/6RiAFP0fZXb3Kobl90Tjoz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1361,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Old Tape (feat. Adam Granduciel)",
-        "url": "https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Old Tape (feat. Adam Granduciel) - Single Edit",
-      "url": "https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Kinky",
@@ -1391,22 +1491,6 @@
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
-    },
-    {
-      "added_at": "2024-08-16 04:03:08",
-      "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237213,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1489,22 +1573,6 @@
       "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Just Like Sunday",
-        "url": "https://open.spotify.com/album/5kPlc6pA23jWDAc3xSIWNn"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Just Like Sunday",
-      "url": "https://open.spotify.com/track/7F9E8G4iLUz3eJ1kZrdqZ3"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "The Sweater Club",
@@ -1519,54 +1587,6 @@
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "To the Ghosts",
-        "url": "https://open.spotify.com/album/41L2pfxvjyMRse8MVyRX7j"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 250135,
-      "name": "Onions",
-      "url": "https://open.spotify.com/track/3XxZzksa9YpoYJX27YbggN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Chasing Low Vibrations",
-        "url": "https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 204111,
-      "name": "Chasing Low Vibrations",
-      "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "California Rain",
-        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "California Rain",
-      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1585,54 +1605,6 @@
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Song and Dance",
-        "url": "https://open.spotify.com/album/3pXl7bC879gCm2cLIZjDP2"
-      },
-      "artists": [
-        {
-          "name": "Joy Again",
-          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
-        }
-      ],
-      "duration_ms": 136191,
-      "name": "Pennsylvania Queen",
-      "url": "https://open.spotify.com/track/4QSeEyFOfCt9H7YAE7igFO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Today's Iconoclast",
-        "url": "https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec"
-      },
-      "artists": [
-        {
-          "name": "Horse Jumper of Love",
-          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "Today\u2019s Iconoclast",
-      "url": "https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Capricorn / Gen-X Cops",
@@ -1647,54 +1619,6 @@
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "TV Car Chase",
-        "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 284848,
-      "name": "TV Car Chase",
-      "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Monica Gives Me Lockjaw",
-        "url": "https://open.spotify.com/album/3O51T0cvsgJ2AWNrSBpxgL"
-      },
-      "artists": [
-        {
-          "name": "Frances Forever",
-          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Monica Gives Me Lockjaw",
-      "url": "https://open.spotify.com/track/3kvNjvINquYao4837FYoBW"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Honeycrash",
-        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "Honeycrash",
-      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "added_at": "2024-06-11 17:41:52",

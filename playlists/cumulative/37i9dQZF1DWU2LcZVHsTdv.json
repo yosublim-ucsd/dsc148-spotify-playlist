@@ -4639,6 +4639,28 @@
     },
     {
       "album": {
+        "name": "We Grew Up Together",
+        "url": "https://open.spotify.com/album/6CesRSYsYrymjAjlFbT7CP"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "We Grew Up Together",
+      "url": "https://open.spotify.com/track/5bqMCIMmXhVzJcFDvXol6k"
+    },
+    {
+      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },

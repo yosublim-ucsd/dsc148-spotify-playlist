@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Fresku
 
-166 songs - 8 hr 55 min
+167 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 SCHORPIOENEN](https://open.spotify.com/track/18jXrwLtijGhDIu3pykVTu) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [2 SCHORPIOENEN / MENSEN ZOALS WIJ](https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t) | 0:56 | 2024-05-31 | 2024-06-22 |
 | [220](https://open.spotify.com/track/6XOjW4o65uMwEhQTreISpU) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [220](https://open.spotify.com/album/3WH90hL7AUK8lbPsQ4yTYp) | 3:47 | 2023-02-23 | 2023-03-18 |
 | [24/7](https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [24/7](https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt) | 3:13 | 2023-08-24 | 2024-10-04 |
-| [500KG](https://open.spotify.com/track/0hze0MR3gxkWaCSMx7wYYN) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [RAFTING GOODS VOLUME 3: C](https://open.spotify.com/album/5P7UtbJRaDlXvBX8jdTi55) | 2:25 | 2024-10-24 |  |
+| [500KG](https://open.spotify.com/track/0hze0MR3gxkWaCSMx7wYYN) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [RAFTING GOODS VOLUME 3: C](https://open.spotify.com/album/5P7UtbJRaDlXvBX8jdTi55) | 2:25 | 2024-10-24 | 2024-11-23 |
 | [Adult](https://open.spotify.com/track/63XfIeYZsChaaky8oIXmE4) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [Adult](https://open.spotify.com/album/78OTuh1gO0a8Y1nPMOVps2) | 4:02 | 2023-02-23 | 2023-03-18 |
 | [Afstand](https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Afstand](https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9) | 3:32 | 2023-02-23 | 2023-10-13 |
 | [Alleen In Bed](https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ) | [Véras](https://open.spotify.com/artist/4xXJqw435dtoVF6WsncUcn), [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Het Niets](https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL) | 3:03 | 2023-02-23 | 2024-04-26 |
@@ -69,6 +69,7 @@
 | [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 | 2024-06-26 |
 | [Ik Geloof In Ons](https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH) | [Amèl](https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG) | [Ik Geloof In Ons](https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk) | 2:10 | 2024-05-31 |  |
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2023-11-01 |  |
+| [IK MAG JE NIET](https://open.spotify.com/track/6Ug8Cv3ISNL20Hx8TbyBPe) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Sneadr](https://open.spotify.com/artist/48UYwLP3Rr0RnfaeA1Ne2g), [Opium Lotus](https://open.spotify.com/artist/1hdlDnJu1jX9mLpR2XiTQm) | [RAFTING GOODS VOLUME 3: D](https://open.spotify.com/album/12TeaGRqNcDbYbZoYJVcvk) | 3:02 | 2024-11-22 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 | 2023-06-09 |
 | [In Mijn Ritme](https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [In Mijn Ritme](https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky) | 3:20 | 2023-11-23 |  |

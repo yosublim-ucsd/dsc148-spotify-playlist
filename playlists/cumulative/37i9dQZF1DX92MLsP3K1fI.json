@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Piso 21 en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jesse Baez en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179626,
       "name": "John Travolta Flow",
       "url": "https://open.spotify.com/track/47acvbWSF9jaycIC2tm3cV"
@@ -4331,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "\u00bfY Qu\u00e9 Si Todo Acaba Mal?",
+        "url": "https://open.spotify.com/album/0RDFuUVX699HW92X4JHFGS"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/4wGQKXcBM4Nb37gzDKPYCJ"
+    },
+    {
+      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -4828,7 +4846,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182225,
       "name": "No Me Parece",
       "url": "https://open.spotify.com/track/1nEExEkpTBE1cOqH0llXKN"
@@ -5463,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "HENRY",
+        "url": "https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207150,
+      "name": "Persona Favorita",
+      "url": "https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J"
+    },
+    {
+      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -5702,6 +5742,28 @@
       "duration_ms": 146408,
       "name": "Que PASE y YA",
       "url": "https://open.spotify.com/track/5znAcI91hov7U28bpvycXr"
+    },
+    {
+      "album": {
+        "name": "QUEBRANTO",
+        "url": "https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "QUEBRANTO",
+      "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
     },
     {
       "album": {
@@ -6000,7 +6062,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185200,
       "name": "SECUELAS",
       "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
@@ -6495,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/2iQRRDvZp3FkvxTBfZ4i0J"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206996,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/2D6rZLVtadxhOuX79Y5jDS"
+    },
+    {
+      "album": {
         "name": "Stalker",
         "url": "https://open.spotify.com/album/4UfV5ja04U72hdVWM0hbk9"
       },
@@ -6882,7 +6962,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162600,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5ps0vrEsWCQQUDp0wUzvME"
@@ -7082,6 +7162,24 @@
       "duration_ms": 177506,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU"
+    },
+    {
+      "album": {
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems from artists carving their own path. cover: Planet Giza",
+  "description": "gems from artists carving their own path. cover: Saya Gray",
   "name": "outliers",
   "tracks": [
     {
@@ -376,6 +376,24 @@
       "duration_ms": 202289,
       "name": "9AM IN LONDON",
       "url": "https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj"
+    },
+    {
+      "album": {
+        "name": "Bip / 9volt",
+        "url": "https://open.spotify.com/album/2PjwycUpCjf04r7ikWgmao"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165136,
+      "name": "9volt",
+      "url": "https://open.spotify.com/track/5jh6yjHTLHetlk96lKLAL4"
     },
     {
       "album": {
@@ -3631,6 +3649,28 @@
     },
     {
       "album": {
+        "name": "C.R.U.S.H.",
+        "url": "https://open.spotify.com/album/2GDuHM5p9ZtlsUFJhzrQoB"
+      },
+      "artists": [
+        {
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341955,
+      "name": "C.R.U.S.H.",
+      "url": "https://open.spotify.com/track/36lrFRfMH2SWBag141DLkB"
+    },
+    {
+      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ"
       },
@@ -4292,6 +4332,24 @@
       "duration_ms": 173840,
       "name": "CHOICE COWBOY",
       "url": "https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp"
+    },
+    {
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240094,
+      "name": "choke enough",
+      "url": "https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541"
     },
     {
       "album": {
@@ -6416,7 +6474,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
@@ -8364,7 +8422,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
@@ -9456,7 +9514,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 137600,
       "name": "GiNGA",
       "url": "https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh"
@@ -9807,6 +9865,24 @@
     },
     {
       "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
+    },
+    {
+      "album": {
         "name": "Got Em (Sango Remix)",
         "url": "https://open.spotify.com/album/5OukqaLZOrocuTI29rBiuO"
       },
@@ -10032,6 +10108,24 @@
       "duration_ms": 136888,
       "name": "Gyal Clown",
       "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "album": {
+        "name": "H.B.W",
+        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292355,
+      "name": "H.B.W.",
+      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
     },
     {
       "album": {
@@ -10824,7 +10918,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
@@ -11784,7 +11878,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 269247,
       "name": "I Never Knew You Well",
       "url": "https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh"
@@ -15774,7 +15868,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169460,
       "name": "Monkey Madness",
       "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
@@ -16494,7 +16588,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 136666,
       "name": "New Black History (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
@@ -16964,6 +17058,24 @@
       "duration_ms": 196270,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA"
+    },
+    {
+      "album": {
+        "name": "honey,",
+        "url": "https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165365,
+      "name": "not far from home",
+      "url": "https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6"
     },
     {
       "album": {
@@ -18110,7 +18222,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145137,
       "name": "Overture",
       "url": "https://open.spotify.com/track/2t7Or37PuqRmCCePr0Beqo"
@@ -18296,7 +18408,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 150902,
       "name": "para siempre(\uff61>\ufe4f<)",
       "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
@@ -20985,6 +21097,24 @@
     },
     {
       "album": {
+        "name": "Sexy Clown",
+        "url": "https://open.spotify.com/album/13U02N6Nc8A9J0jCC6dEgA"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294440,
+      "name": "Sexy Clown",
+      "url": "https://open.spotify.com/track/4ZqE4DkbeO1JMJ9tLslkVJ"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
       },
@@ -23000,7 +23130,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
@@ -25143,6 +25273,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218740,
+      "name": "U",
+      "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
+    },
+    {
+      "album": {
         "name": "U CANT STOP ME NOW",
         "url": "https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu"
       },
@@ -26823,6 +26971,24 @@
     },
     {
       "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Windows XP",
+      "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
+    },
+    {
+      "album": {
         "name": "Winner",
         "url": "https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk"
       },
@@ -27508,6 +27674,28 @@
       "duration_ms": 218733,
       "name": "\u00bfQUI\u00c9N TE MANDA?",
       "url": "https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m"
+    },
+    {
+      "album": {
+        "name": "\u043a\u0438\u0441\u0430",
+        "url": "https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6"
+      },
+      "artists": [
+        {
+          "name": "Antoniya",
+          "url": "https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE"
+        },
+        {
+          "name": "ruski sixx",
+          "url": "https://open.spotify.com/artist/6qW0VYpyZGmwdBt9UgHLNa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "\u043a\u0438\u0441\u0430",
+      "url": "https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ"
     },
     {
       "album": {

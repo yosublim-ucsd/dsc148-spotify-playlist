@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9032,
+  "num_followers": 9033,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAFGPHqNdsXpxGB+poo47QZaHTudRB2",
+  "snapshot_id": "AAAFGcph9tPvNNBwmuW4wO1hNSjbLNRL",
   "tracks": [
     {
       "added_at": "2024-07-26 20:16:22",
@@ -199,6 +199,22 @@
       "duration_ms": 157037,
       "name": "The Way You Make Me Feel - Acoustic",
       "url": "https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI"
+    },
+    {
+      "added_at": "2024-11-22 18:37:40",
+      "album": {
+        "name": "I'm Yours (Acoustic)",
+        "url": "https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh"
+      },
+      "artists": [
+        {
+          "name": "Gavern",
+          "url": "https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt"
+        }
+      ],
+      "duration_ms": 142321,
+      "name": "I'm Yours - Acoustic",
+      "url": "https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle"
     },
     {
       "added_at": "2024-05-31 09:47:33",

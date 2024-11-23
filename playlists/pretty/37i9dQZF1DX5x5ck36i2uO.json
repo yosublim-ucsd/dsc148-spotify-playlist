@@ -559,6 +559,26 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "duration_ms": 179925,
+      "name": "Fake Flower (feat. Nucksal)",
+      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
         "name": "Flower Cafe",
         "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 187250,
       "name": "Flower Cafe (feat.Sam Ock, I.M)",
       "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
-        "name": "THE SOLOEST",
-        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        }
-      ],
-      "duration_ms": 179925,
-      "name": "Fake Flower (feat. Nucksal)",
-      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
     },
     {
       "added_at": "2024-10-10 09:26:02",

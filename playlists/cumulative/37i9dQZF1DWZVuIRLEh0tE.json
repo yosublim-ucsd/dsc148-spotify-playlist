@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 144166,
       "name": "Curiana",
       "url": "https://open.spotify.com/track/3NjH9UJrvi0M0hydvA8h93"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 137925,
       "name": "CUTE",
       "url": "https://open.spotify.com/track/7czFXN8JchsKPcBrG12JMO"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 261818,
       "name": "DINERO Y PACA",
       "url": "https://open.spotify.com/track/3Fdu6yPkOK3fZ3AOgXJJzs"
@@ -3974,6 +3974,32 @@
       "duration_ms": 216013,
       "name": "El Dembow",
       "url": "https://open.spotify.com/track/4xtgafRxEKOeoCKJPEKVJx"
+    },
+    {
+      "album": {
+        "name": "El Draco",
+        "url": "https://open.spotify.com/album/6RY7VHtDiy7wLp7qxBiwZm"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Coper El Final",
+          "url": "https://open.spotify.com/artist/4Zqr2lluSND1tmA37IvNjs"
+        },
+        {
+          "name": "Figura Entertainment",
+          "url": "https://open.spotify.com/artist/4MSuU1ZUWO3zpy0ZfACmU9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "El Draco",
+      "url": "https://open.spotify.com/track/2vR8x6gTOzJeBH2sYZxxES"
     },
     {
       "album": {
@@ -5833,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "JOCEO",
+        "url": "https://open.spotify.com/album/3I15QTh6MIMBdfRCnTW5YX"
+      },
+      "artists": [
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "JOCEO",
+      "url": "https://open.spotify.com/track/2xgSLimeZ7XcMyA3n8GPlE"
+    },
+    {
+      "album": {
         "name": "Jovensito",
         "url": "https://open.spotify.com/album/3maRKa7EnzwZ7gob6X1mRh"
       },
@@ -5903,6 +5947,32 @@
     },
     {
       "album": {
+        "name": "Juguete",
+        "url": "https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Juguete",
+      "url": "https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze"
+    },
+    {
+      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/3q4IaAfmfYZLrUdoWvbuOI"
       },
@@ -5944,7 +6014,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169911,
       "name": "Klk Tu Dice",
       "url": "https://open.spotify.com/track/4msDg5amsLuK0BMKOPuJGV"
@@ -9124,7 +9194,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 117600,
       "name": "No Te Quilles",
       "url": "https://open.spotify.com/track/6HYBRarjRP8VKzF6wMeWab"
@@ -9438,7 +9508,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 147668,
       "name": "P#TA",
       "url": "https://open.spotify.com/track/2tyhKsMJdQgbU5K0cp0wvC"
@@ -9482,6 +9552,24 @@
       "duration_ms": 133669,
       "name": "Pa Tripea",
       "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
+    },
+    {
+      "album": {
+        "name": "Pa\u00b4 Llegame",
+        "url": "https://open.spotify.com/album/5VAk35ftso63HhkAvWMs9l"
+      },
+      "artists": [
+        {
+          "name": "Rolex Quintana",
+          "url": "https://open.spotify.com/artist/5HKzczhROf6I9BfTPiv0y6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170357,
+      "name": "Pa' Llegame",
+      "url": "https://open.spotify.com/track/0OVF4XcIkgCWgNhPpzP4YB"
     },
     {
       "album": {
@@ -9578,6 +9666,28 @@
       "duration_ms": 168912,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/4wSQhQIY7Ot9siowpPPgNZ"
+    },
+    {
+      "album": {
+        "name": "Paranormal (Deluxe)",
+        "url": "https://open.spotify.com/album/7L45hSboxeCqodYnk8yuwM"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Marcel Audio",
+          "url": "https://open.spotify.com/artist/0jaSO7IGsBCqVeJ6cwGgEE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Paranormal - Deluxe",
+      "url": "https://open.spotify.com/track/29C7M0AaBj1SnwOMEdZgBi"
     },
     {
       "album": {
@@ -9947,6 +10057,24 @@
     },
     {
       "album": {
+        "name": "Ponle el W",
+        "url": "https://open.spotify.com/album/3L4L72Bd1JLiOUVYrZbBNj"
+      },
+      "artists": [
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Ponle el W",
+      "url": "https://open.spotify.com/track/3IGIauhYntCojw8ufDx2kq"
+    },
+    {
+      "album": {
         "name": "Ponte Linda",
         "url": "https://open.spotify.com/album/15IPDipfRj9j5Q2gDGjcTf"
       },
@@ -9976,7 +10104,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 139258,
       "name": "Popola",
       "url": "https://open.spotify.com/track/25lTzOPApkS1TriuQWKqkW"
@@ -11939,6 +12067,36 @@
     },
     {
       "album": {
+        "name": "TIMIDA (feat. Jowell)",
+        "url": "https://open.spotify.com/album/6SnH0nFX78zZ92GKXk7bk5"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230774,
+      "name": "TIMIDA (feat. Jowell)",
+      "url": "https://open.spotify.com/track/27u5RlcTPYpR39OAGsvY7w"
+    },
+    {
+      "album": {
         "name": "Tira A Matar",
         "url": "https://open.spotify.com/album/5EsSidKpJspliyolpw4aey"
       },
@@ -12150,6 +12308,32 @@
       "duration_ms": 185568,
       "name": "Tranquilo - Remix",
       "url": "https://open.spotify.com/track/2Ont9PWeHm97QNrVwnvVt1"
+    },
+    {
+      "album": {
+        "name": "Tranza",
+        "url": "https://open.spotify.com/album/3vVZN7fBGUJBqC4mQs88Nh"
+      },
+      "artists": [
+        {
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Tranza",
+      "url": "https://open.spotify.com/track/7qAehqiCuEbexrDJCbfI8F"
     },
     {
       "album": {
@@ -12682,7 +12866,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 124957,
       "name": "Uno",
       "url": "https://open.spotify.com/track/7BMCt0JsZty7vPlmXyL97q"
@@ -12734,6 +12918,28 @@
       "duration_ms": 192000,
       "name": "Vaina Cara",
       "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"
+    },
+    {
+      "album": {
+        "name": "Vakana",
+        "url": "https://open.spotify.com/album/6KxEEwvMaOiqPvh1ZDwxIO"
+      },
+      "artists": [
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "El mejor de Marte",
+          "url": "https://open.spotify.com/artist/7aA5ugm8TZs27prfLwrC9u"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Vakana",
+      "url": "https://open.spotify.com/track/7GWwkANxVGg6FZ6mpO8ICG"
     },
     {
       "album": {
@@ -13342,7 +13548,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 263529,
       "name": "\u00bfy tu que?",
       "url": "https://open.spotify.com/track/3X2vszA1WaiKGQTVKfibYS"

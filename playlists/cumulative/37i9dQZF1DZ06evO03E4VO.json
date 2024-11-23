@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
+    },
+    {
+      "album": {
         "name": "running water",
         "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,678 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,684 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

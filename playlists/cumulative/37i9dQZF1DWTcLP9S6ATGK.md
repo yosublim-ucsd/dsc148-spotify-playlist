@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Putu Maydea
 
-280 songs - 18 hr 16 min
+281 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-07-25 | 2024-09-27 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 | 2024-07-12 |
 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 | 2024-07-25 | 2024-09-27 |
+| [Gelora Api Cinta](https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc) | [Dian Piesesha](https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY) | [Cinta dan Waktu](https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP) | 4:30 | 2024-11-22 |  |
 | [Gini Gini Aja](https://open.spotify.com/track/16Hf4fDGmXDCpvMxjStDsh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Gini Gini Aja](https://open.spotify.com/album/0zK0hZ6PBP0RBizTXK4CJZ) | 2:02 | 2024-07-25 | 2024-09-13 |
 | [Gontai](https://open.spotify.com/track/7q4pOr7RZPB8zC6Ojok6GH) | [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3), [Awra Putri](https://open.spotify.com/artist/6X2gPeIJz689q0nvgVI6bI) | [Gontai](https://open.spotify.com/album/05T6m2Uhv2464Q7I06rIzr) | 4:35 | 2024-09-12 |  |
 | [Habis](https://open.spotify.com/track/7tKSapEjEMTPeNbsOgcMY1) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Habis](https://open.spotify.com/album/0h0vKApJDA6J76nFoZyJdh) | 3:57 | 2024-11-21 |  |
@@ -120,7 +121,7 @@
 | [Kamulah Orangnya](https://open.spotify.com/track/0EML5Zo6PD2Sr3KRvdM6Lv) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Kamulah Orangnya](https://open.spotify.com/album/0frT8PPxoLbbP8jKR6RVdU) | 3:54 | 2024-06-27 | 2024-10-11 |
 | [Kasitau](https://open.spotify.com/track/6c4otFV32G19l71LPRI3Fb) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/2haCsDbkeeOoYCFRGNqMSj) | 3:09 | 2024-06-27 | 2024-08-02 |
 | [Katakan Padanya](https://open.spotify.com/track/60Taeqfhkk3I0mIt4L4bfo) | [Plato Ginting](https://open.spotify.com/artist/2224NGvU7QXIooiFBYnBAE) | [Katakan Padanya](https://open.spotify.com/album/5XXLi0KZYmPZLTqWI8Whr0) | 3:55 | 2024-06-27 | 2024-08-02 |
-| [Kau](https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO), [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3) | [Kau](https://open.spotify.com/album/7bPh7AzLkDHE2PoivVddF5) | 4:51 | 2024-06-27 |  |
+| [Kau](https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO), [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3) | [Kau](https://open.spotify.com/album/7bPh7AzLkDHE2PoivVddF5) | 4:51 | 2024-06-27 | 2024-11-23 |
 | [Kau Ada](https://open.spotify.com/track/1CQIzDAWvawFRHm6b13pc4) | [Titik Hamzah](https://open.spotify.com/artist/4mg24v8BP717RVt23a9MBk) | [Kau Ada](https://open.spotify.com/album/5mAsKHMgb00BHVwO63JqyP) | 4:02 | 2024-06-27 | 2024-08-30 |
 | [Ke Rumah](https://open.spotify.com/track/7I8jG5NjWJWEczkYb6XfFl) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Ke Rumah](https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox) | 2:56 | 2024-08-29 |  |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-10-24 |  |

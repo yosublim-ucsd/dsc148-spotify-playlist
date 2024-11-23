@@ -734,7 +734,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 222000,
       "name": "Dech The Hall Boughs Of Holly",
       "url": "https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O"
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Christmas Stories",
+        "url": "https://open.spotify.com/album/2wMYTG2NDzVnYjQvBJpYDT"
+      },
+      "artists": [
+        {
+          "name": "Christian Sands",
+          "url": "https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288518,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3AezIDa97X6FdMzORsujNE"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas / Marshmallow World",
         "url": "https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 225640,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
@@ -1182,6 +1200,24 @@
       "duration_ms": 215533,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/5hafgzgjmA7p5iFPUMPyex"
+    },
+    {
+      "album": {
+        "name": "Three Christmas Songs \u2013 An Abbey Road Live To Vinyl Cut",
+        "url": "https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282536,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
     },
     {
       "album": {
@@ -1778,6 +1814,24 @@
       "duration_ms": 206816,
       "name": "Perfect Time Of Year",
       "url": "https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p"
+    },
+    {
+      "album": {
+        "name": "Present Enough For Me",
+        "url": "https://open.spotify.com/album/1DfrTUXWQ899xWQSJRe1nb"
+      },
+      "artists": [
+        {
+          "name": "Hayley Sales",
+          "url": "https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Present Enough for Me",
+      "url": "https://open.spotify.com/track/3GOCbr4G6alv9ivzbJ5t63"
     },
     {
       "album": {

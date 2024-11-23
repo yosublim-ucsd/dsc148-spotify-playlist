@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,855 likes - 201 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,473 likes - 201 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

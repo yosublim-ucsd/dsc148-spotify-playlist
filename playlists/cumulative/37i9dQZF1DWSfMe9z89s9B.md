@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Chase Shakur
+> Leaders of the new school...Alternative R&B\. Cover: Miguel
 
-1,336 songs - 2 day 22 hr 27 min
+1,338 songs - 2 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-06-10 | 2022-07-28 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2022-07-23 |
 | [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 | 2023-06-23 | 2023-07-09 |
+| [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 |  |
 | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/track/1n0XdG69mCrBG4ssLAFe1S) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/album/40e6KofbEaCqosHBg0Saag) | 4:45 | 2023-06-23 | 2023-10-18 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2021-03-19 | 2022-07-23 |
 | [AMERICAN GURL](https://open.spotify.com/track/4wYmgjrDbHprid8pODwPq4) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/1onm247Cd6CExLh8CcnhVy) | 3:48 | 2022-04-01 | 2022-04-09 |
@@ -210,7 +211,7 @@
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 | 2023-11-11 |
 | [career day](https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:19 | 2024-05-10 |  |
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-07-15 | 2023-03-04 |
-| [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO) | 3:09 | 2024-02-09 |  |
+| [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO) | 3:09 | 2024-02-09 | 2024-11-23 |
 | [cascade road](https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:00 | 2023-06-23 | 2024-06-29 |
 | [Cashmere](https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/7x32TKnMbuS6pALWFn4DFW) | 3:03 | 2021-06-11 | 2022-07-29 |
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-08-09 |  |
@@ -250,6 +251,7 @@
 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 | 2023-09-01 | 2024-02-24 |
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-05-19 | 2023-09-02 |
 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 | 2023-11-19 | 2024-09-18 |
+| [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 | 2024-11-22 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-13 | 2022-07-16 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2022-04-01 | 2022-04-16 |
 | [Coffee Bean](https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa) | [Zaniah](https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH) | [Coffee Bean](https://open.spotify.com/album/74rQ5m43jTqx4GTbQkjiMd) | 2:39 | 2021-03-19 | 2022-01-13 |
@@ -969,7 +971,7 @@
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-16 |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-04-01 | 2022-04-15 |
-| [SAFE4ME](https://open.spotify.com/track/5qaJRdSDMaMCo7FBueLkpM) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [xotic](https://open.spotify.com/album/2Qt7L9YosoZEQjgmb1Mmrv) | 3:38 | 2024-11-15 |  |
+| [SAFE4ME](https://open.spotify.com/track/5qaJRdSDMaMCo7FBueLkpM) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [xotic](https://open.spotify.com/album/2Qt7L9YosoZEQjgmb1Mmrv) | 3:38 | 2024-11-15 | 2024-11-23 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-07-29 | 2023-07-01 |
 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 | 2023-02-24 | 2023-04-01 |
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2021-03-19 | 2022-01-06 |

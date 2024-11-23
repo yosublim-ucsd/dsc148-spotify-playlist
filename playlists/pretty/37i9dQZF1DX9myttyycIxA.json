@@ -1,28 +1,60 @@
 {
-  "description": "Underground indie rock gems. Cover: Hank Heaven",
-  "num_followers": 298126,
+  "description": "Underground indie rock gems. Cover: Horsegirl",
+  "num_followers": 298148,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzeMnwAAAACq4iklpxn6Zq2X55b9C87Q",
+  "snapshot_id": "Z0AP0AAAAADvJNOb37qw3IekCVzEyS0M",
   "tracks": [
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/6ToD4RofYRJf81ClqgKqwV"
+        "name": "2468",
+        "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
       },
       "artists": [
         {
-          "name": "The Sewing Club",
-          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
         }
       ],
-      "duration_ms": 207449,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/1F2Be353eI0YTwGJ1SLY7H"
+      "duration_ms": 197688,
+      "name": "2468",
+      "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Capital C",
+        "url": "https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "Capital C",
+      "url": "https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "ON/OFF",
+        "url": "https://open.spotify.com/album/1072mKrmf76Y40cUxHte9x"
+      },
+      "artists": [
+        {
+          "name": "Fake Dad",
+          "url": "https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk"
+        }
+      ],
+      "duration_ms": 201989,
+      "name": "ON/OFF",
+      "url": "https://open.spotify.com/track/0e0YwrdqDLtIBf8ffFPv9R"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/71a7mrWgM7SfDjBUlUIU5Y"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "The Story",
@@ -75,6 +123,90 @@
       "duration_ms": 198876,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4kcvT4Fe3igO27vjVF4Jd8"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "headbanger",
+        "url": "https://open.spotify.com/album/2NRjwUmXWZgUCJf84fPulM"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "emo is good",
+      "url": "https://open.spotify.com/track/7DO020rZXOyCue7HCmY3kF"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "baby bye bye",
+        "url": "https://open.spotify.com/album/7F496nPn7R9KA5Cz4oWTjy"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "duration_ms": 114831,
+      "name": "baby bye bye",
+      "url": "https://open.spotify.com/track/0PmWqF3kWiBPhQQ6Y9CGX1"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hand In Hand (feat. Baseball Game)",
+        "url": "https://open.spotify.com/album/0HEzBnugBCH4jm6xaMNSSw"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        },
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 229590,
+      "name": "Hand In Hand (feat. Baseball Game)",
+      "url": "https://open.spotify.com/track/6gyV0V6KNrBRZtP5atmJz5"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/6ToD4RofYRJf81ClqgKqwV"
+      },
+      "artists": [
+        {
+          "name": "The Sewing Club",
+          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
+        }
+      ],
+      "duration_ms": 207449,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/1F2Be353eI0YTwGJ1SLY7H"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -159,22 +291,6 @@
       "duration_ms": 201746,
       "name": "Together",
       "url": "https://open.spotify.com/track/3WfIymJJ0IzjtpOI7eLzdq"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -795,7 +911,7 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Don't Fall Back So Easily",
+        "name": "don't fall back so easily",
         "url": "https://open.spotify.com/album/7MJV57idD9vzzzwiiU98eU"
       },
       "artists": [
@@ -805,7 +921,7 @@
         }
       ],
       "duration_ms": 190609,
-      "name": "Don't Fall Back So Easily",
+      "name": "don't fall back so easily",
       "url": "https://open.spotify.com/track/0ThdoKmComU8pjuODaOxhH"
     },
     {
@@ -905,38 +1021,6 @@
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "Bread Believer",
-      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Not This Time",
-        "url": "https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 201702,
-      "name": "Not This Time",
-      "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Illuminator",
@@ -983,54 +1067,6 @@
       "duration_ms": 270226,
       "name": "Love's Changing",
       "url": "https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5wm6RLQG7S7L8GuJrD3Mzs"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Low Low",
-        "url": "https://open.spotify.com/album/33s3zSbtRQEhE7QPGQIMYi"
-      },
-      "artists": [
-        {
-          "name": "Cal in Red",
-          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
-        }
-      ],
-      "duration_ms": 197919,
-      "name": "Flagstaff",
-      "url": "https://open.spotify.com/track/4dcX9kPAfmQih6XOA0iQis"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Ragdoll",
-        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Ragdoll",
-      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1577,22 +1613,6 @@
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Zen Maiden",
-        "url": "https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR"
-      },
-      "artists": [
-        {
-          "name": "YULLOLA",
-          "url": "https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg"
-        }
-      ],
-      "duration_ms": 168598,
-      "name": "Sweet Lilac",
-      "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Picture It",
@@ -1607,54 +1627,6 @@
       "duration_ms": 211093,
       "name": "Picture It",
       "url": "https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Keeper of the Shepherd",
-        "url": "https://open.spotify.com/album/24oy0YkUTo0OmEw40ACdCR"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        }
-      ],
-      "duration_ms": 386040,
-      "name": "Keeper of the Shepherd",
-      "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Pop Star",
-        "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "Pop Star",
-      "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     }
   ],
   "unique_name": "undercurrents",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: BEACHPEOPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,925 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,990 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 12 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
 | 13 | [Emily's Dance](https://open.spotify.com/track/3VVbTGUde4h5rIS0RS8HJP) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Emily's Dance](https://open.spotify.com/album/1E2xd45XNRt5PaIWFphRzc) | 3:13 |
 | 14 | [Keep On Falling](https://open.spotify.com/track/56K6vH432qp185ZcH8PTtD) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Keep On Falling](https://open.spotify.com/album/4ObMa5qHI3L3OqIN7y0u2h) | 3:18 |
-| 15 | [Von Rot nach Weiß](https://open.spotify.com/track/0G4p0LVHtLoYjnPf3em8CQ) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Problemzone Mensch](https://open.spotify.com/album/5hUUNwVLkYq2G9lQp1LtPa) | 2:27 |
+| 15 | [Von Rot nach Weiß](https://open.spotify.com/track/0G4p0LVHtLoYjnPf3em8CQ) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Problemzone Mensch](https://open.spotify.com/album/5hUUNwVLkYq2G9lQp1LtPa) | 2:27 |
 | 16 | [Fake A Smile](https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:39 |
 | 17 | [Your Beautiful Mind](https://open.spotify.com/track/3mBpccRAOZqGcERuhkWNuW) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [Your Beautiful Mind](https://open.spotify.com/album/2LVaNFieM0RQIgkBB0q2nL) | 3:16 |
 | 18 | [Kintsugi](https://open.spotify.com/track/5mbu8LkUU57QpLvYTQXGqp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Kintsugi](https://open.spotify.com/album/3BzEv0TmfUxXskg3bUTCTb) | 3:19 |

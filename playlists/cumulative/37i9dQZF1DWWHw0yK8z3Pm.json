@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181333,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/0IVWcNAMBqFKMoFL1dpefN"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 193274,
       "name": "Concrete And Barbed Wire",
       "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "East Wind",
+        "url": "https://open.spotify.com/album/0VNAd70EMJvdCMzwTkGH0c"
+      },
+      "artists": [
+        {
+          "name": "Caley Watts",
+          "url": "https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341173,
+      "name": "East Wind",
+      "url": "https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm"
+    },
+    {
+      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -3390,6 +3408,24 @@
       "duration_ms": 255294,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1lIydjc4cvMVytPC6kBXdu"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/1Ux0HxLYv01rjlFWqdzOOK"
     },
     {
       "album": {
@@ -4372,7 +4408,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168645,
       "name": "Into The Unknown",
       "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
@@ -5916,7 +5952,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 268622,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"

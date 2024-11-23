@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-2,431 songs - 5 day 3 hr 13 min
+2,432 songs - 5 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,6 +930,7 @@
 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 | 2024-06-28 | 2024-08-16 |
 | [Holy Toast](https://open.spotify.com/track/3DBPSo3h99XWiVrIJ8GNXD) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Holy Toast](https://open.spotify.com/album/7sa0Q70GxJXv8iIRmu37cw) | 3:02 | 2023-09-21 | 2023-11-11 |
 | [Home](https://open.spotify.com/track/7jsO0c5SFIVHRY0fafblup) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Home](https://open.spotify.com/album/7xLpTxm7A7q9Y1kia1PDiQ) | 2:39 | 2022-12-15 | 2023-02-03 |
+| [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-21 |  |
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-06-23 |
 | [Homegurl 2.0](https://open.spotify.com/track/2TU1ftfPzJksJi62aXJpKs) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Homegurl 2.0](https://open.spotify.com/album/5FCr4x8iO8ugPfIXPcbdrC) | 4:39 | 2022-09-08 | 2022-10-28 |
 | [Homesick](https://open.spotify.com/track/2Mh1JHlvCLtUiMH0YkkMBP) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Homesick](https://open.spotify.com/album/6jA9fU91iednBgWrmAqZJW) | 3:26 | 2024-05-24 | 2024-08-16 |

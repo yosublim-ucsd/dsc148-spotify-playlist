@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Neo Pistea en la casa del Trap Argentino.
+> YSY A en la casa del Trap Argentino.
 
-360 songs - 17 hr 9 min
+363 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [En Mi Cama](https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [En Mi Cama](https://open.spotify.com/album/1Cykk8jHHi6X75vHGBixeb) | 2:22 | 2024-03-29 |  |
 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 | 2022-01-21 | 2022-06-18 |
 | [ESTO YA LO SABIAS](https://open.spotify.com/track/1lvQxJBDt8YIc6XsqVbt1A) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ESTO YA LO SABIAS](https://open.spotify.com/album/54EFcRu9vGXxvH66ekAouA) | 2:32 | 2024-08-30 |  |
+| [ESTRELLAS](https://open.spotify.com/track/6Lzc35RPYQJqlB3XHLbUIq) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ESTRELLAS](https://open.spotify.com/album/1a5TSo9xjcZcB7QgCsj7Gh) | 2:37 | 2024-11-22 |  |
 | [eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 | 2022-10-06 | 2023-01-14 |
 | [Explicitas Tech](https://open.spotify.com/track/5an9ASTiJjkdxdUQDZnR6i) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6) | [Explicitas Tech](https://open.spotify.com/album/4XoHKa6s9nE8ngM05CBJjX) | 2:32 | 2024-09-06 |  |
 | [Factos](https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE) | [Factos](https://open.spotify.com/album/4GAfjkvxRN1ZvGvUnOEavK) | 2:02 | 2024-05-03 | 2024-06-29 |
@@ -189,6 +190,7 @@
 | [Malefica](https://open.spotify.com/track/3qndLTLwrrb0ZkpZMgHtQk) | [El Villano](https://open.spotify.com/artist/6vxN6dBaU6byl27qMzK65q) | [Malefica](https://open.spotify.com/album/7zF00vvLMCXsWvnEGrpcg6) | 2:41 | 2024-03-22 | 2024-06-29 |
 | [Mami Lo Siento](https://open.spotify.com/track/3QI0dCmyNujFycD1le2zk4) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Mami Lo Siento](https://open.spotify.com/album/69OFUHi0ccQbkD6ArPJ4jX) | 2:53 | 2022-01-21 | 2023-02-18 |
 | [Mariposas](https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Mariposas](https://open.spotify.com/album/6qWcAaLQJXuh4ZEGzOqNCV) | 2:12 | 2022-06-17 | 2022-07-16 |
+| [MASCARA](https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:25 | 2024-11-22 |  |
 | [Mayday](https://open.spotify.com/track/7s6zXKtzP45A6MHFgX43Oh) | [Sautu](https://open.spotify.com/artist/1uhbSZzf1a3lwdRzlX302B) | [Mayday](https://open.spotify.com/album/0GLms8i380EAZq0TY3VC56) | 2:44 | 2024-11-08 | 2024-11-16 |
 | [ME CONVIENE](https://open.spotify.com/track/6f2gN0m9L9SOlw0Y0ZLPCt) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ME CONVIENE](https://open.spotify.com/album/472Rqdk26bvUO36E4ltzfU) | 2:27 | 2023-09-01 | 2024-09-28 |
 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 | 2022-01-21 | 2024-06-15 |
@@ -360,6 +362,7 @@
 | [Waso](https://open.spotify.com/track/5SY9rsZRAbcGKTpoSq6z7b) | [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5), [El Fénix](https://open.spotify.com/artist/6gzlN8JzimeG2QV4Q8ElOE) | [Waso](https://open.spotify.com/album/2fN6aCwIsAgoU6YLNQoAb7) | 3:03 | 2022-08-05 | 2022-08-20 |
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-07-21 | 2023-06-24 |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2022-01-21 | 2022-07-29 |
+| [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 | 2024-11-22 |  |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2022-01-21 |  |
 | [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 | 2023-03-24 | 2024-09-28 |
 | [x interes](https://open.spotify.com/track/0TGwFfD6OQAIDRw4Tsf49R) | [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [x interes](https://open.spotify.com/album/1oT1mP23ScPhKirJLUe6ar) | 2:39 | 2024-04-26 | 2024-07-27 |

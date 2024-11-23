@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Kali Claire",
-  "num_followers": 152006,
+  "num_followers": 152029,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "BAD4U",
-        "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
-      },
-      "artists": [
-        {
-          "name": "H33RA",
-          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
-        }
-      ],
-      "duration_ms": 217757,
-      "name": "BAD4U",
-      "url": "https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 158713,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "BAD4U",
+        "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 217757,
+      "name": "BAD4U",
+      "url": "https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "I TRIED.",
-        "url": "https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Lose Myself",
-      "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "I TRIED.",
+        "url": "https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Tell Jimmy I'm fine",
         "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG"
+        "name": "Let it Go",
+        "url": "https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p"
       },
       "artists": [
         {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
         }
       ],
-      "duration_ms": 189441,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"
+      "duration_ms": 156428,
+      "name": "Let it Go",
+      "url": "https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Let it Go",
-        "url": "https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p"
-      },
-      "artists": [
-        {
-          "name": "Reuben Aziz",
-          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Let it Go",
-      "url": "https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "SAFE FLIGHT",
         "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Unplanned",
-        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG"
       },
       "artists": [
         {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Unplanned",
-      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
+      "duration_ms": 189441,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Where Have You Been All My Life?",
-        "url": "https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 183264,
-      "name": "Where Have You Been All My Life?",
-      "url": "https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 169228,
       "name": "vinland",
       "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Where Have You Been All My Life?",
+        "url": "https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 183264,
+      "name": "Where Have You Been All My Life?",
+      "url": "https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Life Size",
-        "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Life Size",
-      "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -963,18 +959,42 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+        "name": "Life Size",
+        "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
         }
       ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+      "duration_ms": 151306,
+      "name": "Life Size",
+      "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1011,22 +1031,6 @@
       "duration_ms": 200329,
       "name": "Stone (feat. Bakar)",
       "url": "https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
-      },
-      "artists": [
-        {
-          "name": "Ruthven",
-          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
     }
   ],
   "unique_name": "R&B UK",

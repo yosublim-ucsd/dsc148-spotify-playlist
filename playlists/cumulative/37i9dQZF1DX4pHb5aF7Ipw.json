@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153707,
       "name": "Colt Buntlines",
       "url": "https://open.spotify.com/track/50UofRUiC8RvGh32B7CLrI"
@@ -1526,6 +1526,24 @@
       "duration_ms": 123726,
       "name": "Das Kon",
       "url": "https://open.spotify.com/track/1AbiSrDcgzcgQTFWhjwbwm"
+    },
+    {
+      "album": {
+        "name": "DATE GONE WRONG",
+        "url": "https://open.spotify.com/album/1y0nZ5GigPkT5PZb8gtf3b"
+      },
+      "artists": [
+        {
+          "name": "Ammy Gill",
+          "url": "https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183411,
+      "name": "DATE GONE WRONG",
+      "url": "https://open.spotify.com/track/0rs2alMOGlmYt4DOK80SU0"
     },
     {
       "album": {
@@ -3473,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "Mere Wallon",
+        "url": "https://open.spotify.com/album/6BN9wFU6czz81EShkSGJhj"
+      },
+      "artists": [
+        {
+          "name": "Romey Maan",
+          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
+        },
+        {
+          "name": "Sulfa",
+          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174468,
+      "name": "Mere Wallon",
+      "url": "https://open.spotify.com/track/7fBTt5sTxWAFlT6LlCrocn"
+    },
+    {
+      "album": {
         "name": "Mere Yaar",
         "url": "https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG"
       },
@@ -3882,7 +3922,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 117934,
       "name": "New Era",
       "url": "https://open.spotify.com/track/153SAswNdu6wCV9HYPN755"
@@ -4778,7 +4818,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 135584,
       "name": "She",
       "url": "https://open.spotify.com/track/2n0F6hno9WUlcmS4Xg0vFa"
@@ -5316,6 +5356,32 @@
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"
+    },
+    {
+      "album": {
+        "name": "Toofaan",
+        "url": "https://open.spotify.com/album/6YGdpOGBWKRxIcx1va7NQd"
+      },
+      "artists": [
+        {
+          "name": "G-Vaarr",
+          "url": "https://open.spotify.com/artist/67Mut0F2ciiwzinCLr3oXw"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Toofaan",
+      "url": "https://open.spotify.com/track/6dnx7oTZYuXMzxWGsDof08"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,042 likes - 90 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,277 likes - 90 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 36 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 |
 | 37 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 |
 | 38 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
-| 39 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 |
+| 39 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック　ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 |
 | 40 | [We'll Meet Again](https://open.spotify.com/track/6WdcvzQADmrL8nucimUV6r) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS), [Sailors, Soldiers & Airmen of Her Majesty's Forces](https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [Silver Memories: Our Vera](https://open.spotify.com/album/79w6b4DZnsVFbHELqs04Do) | 3:03 |
 | 41 | [sense](https://open.spotify.com/track/1LkzYDYD1KWxxH8ncdygYK) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD) | [sense EP](https://open.spotify.com/album/01VzttcNrDYvplbb5Q0v3Z) | 1:35 |
 | 42 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 |

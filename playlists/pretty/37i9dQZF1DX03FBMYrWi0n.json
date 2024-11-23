@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: La S\u00e9curit\u00e9",
-  "num_followers": 5762,
+  "num_followers": 5773,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 286826,
       "name": "La hi\u00e9rarchill",
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Attaque \u00e0 cinq",
-        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
-      },
-      "artists": [
-        {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
-        }
-      ],
-      "duration_ms": 162613,
-      "name": "Megastar",
-      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+        "name": "Attaque \u00e0 cinq",
+        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
       },
       "artists": [
         {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
         }
       ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
+      "duration_ms": 162613,
+      "name": "Megastar",
+      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Une autre vie",
-        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "Une autre vie",
-      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Une autre vie",
+        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Une autre vie",
+      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Choses Sauvages II",
-        "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
+        "name": "Totalement Sublime",
+        "url": "https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Chambre d'\u00e9cho",
-      "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
+      "duration_ms": 243950,
+      "name": "OMG (oiseau)",
+      "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
     }
   ],
   "unique_name": "ALT_QC",

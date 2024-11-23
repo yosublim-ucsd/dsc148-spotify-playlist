@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,774 likes - 152 songs - 7 hr 46 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,773 likes - 152 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

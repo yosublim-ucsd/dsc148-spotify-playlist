@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-285 songs - 17 hr 55 min
+286 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Legends Never Die](https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Legends Never Die](https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW) | 2:57 | 2023-08-18 |  |
 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 | 2023-08-25 |  |
 | [Let The Dead Take Me](https://open.spotify.com/track/2VG8O5SMVY2pndesJGCVub) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:44 | 2023-08-25 |  |
+| [Let’s Bust The Trust](https://open.spotify.com/track/2K4JEQV6jxa9wswvKfU30T) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine](https://open.spotify.com/album/2Iu8SBkkSG6YOeuxuqleX6) | 3:42 | 2024-11-22 |  |
 | [Lifeline](https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Lifeline](https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv) | 3:13 | 2021-09-08 | 2023-01-04 |
 | [Lightning Strike](https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Chemical Warfare](https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca) | 2:46 | 2021-08-20 |  |
 | [Living Dangerous \(feat\. Dorothy\)](https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk), [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:58 | 2022-09-21 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Major Lazer and Devon Again, plus the latest cuts from Blaketheman1000, Kito, and MRD.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,850 likes - 100 songs - 5 hr 38 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,854 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

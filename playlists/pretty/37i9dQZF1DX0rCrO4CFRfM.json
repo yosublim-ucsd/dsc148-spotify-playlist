@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 993874,
+  "num_followers": 993989,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Aeroplane Flies High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "1979 - Acoustic",
-      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 235800,
       "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
       "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Aeroplane Flies High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "1979 - Acoustic",
+      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
     },
     {
       "added_at": "2024-10-25 07:41:44",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
     },
     {
       "added_at": "2024-10-25 07:41:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Free (Deluxe)",
         "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 237369,
       "name": "Crash Land",
       "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2024-10-25 07:41:44",

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Traditional Christmas Carol Collection, Vol. II",
+        "url": "https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81666,
+      "name": "Adam Lay Ybounden",
+      "url": "https://open.spotify.com/track/2Joa1vzPsN00z8SzkTPFNc"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 155546,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX"
@@ -110,10 +128,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 82500,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/53yOxDMXJzt78YH6WE8Tp9"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/0wOvwuCZv2yXmRVqgbyYrp"
     },
     {
       "album": {
@@ -243,6 +283,54 @@
     },
     {
       "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104880,
+      "name": "Deck the Hall (Arr. J. Rutter)",
+      "url": "https://open.spotify.com/track/4KPSeMRe8fL1jJTX2Nek4f"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73440,
+      "name": "Deck the Hall with Boughs of Holly",
+      "url": "https://open.spotify.com/track/6C73WCeQq2yOg0zZnpNhKQ"
+    },
+    {
+      "album": {
         "name": "Deck The Halls",
         "url": "https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu"
       },
@@ -261,6 +349,32 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Charles Wood",
+          "url": "https://open.spotify.com/artist/2uEZLTKbjB91a6V1xw65Xn"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94120,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/4DyWEUQ6UilOq0HERiJl0S"
+    },
+    {
+      "album": {
         "name": "Ding Dong Merrily On High",
         "url": "https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk"
       },
@@ -272,10 +386,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 102074,
       "name": "Ding Dong Merrily On High",
       "url": "https://open.spotify.com/track/6uxtsYeGygwrhmobg96Hkq"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115866,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/7vsArWb1VxmBL15UrWAEgp"
     },
     {
       "album": {
@@ -298,6 +434,24 @@
       "duration_ms": 155200,
       "name": "Es ist ein Ros\u2019 entsprungen",
       "url": "https://open.spotify.com/track/0r5JI9ZsG495DXCtnqYp9A"
+    },
+    {
+      "album": {
+        "name": "A Traditional Christmas Carol Collection, Vol. II",
+        "url": "https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Gabriel's Message",
+      "url": "https://open.spotify.com/track/1ej2KGj74mFyQo94ceTalI"
     },
     {
       "album": {
@@ -360,7 +514,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 97996,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/1Vo6iMsQECNmLbuayuLTe9"
@@ -414,7 +568,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 167000,
       "name": "Hark The Herald Angels Sing",
       "url": "https://open.spotify.com/track/11DnrwrDAEiHP7NSh3ZKeL"
@@ -432,10 +586,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162853,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d"
+    },
+    {
+      "album": {
+        "name": "Harmonious Voices: An Acapella Christmas",
+        "url": "https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q"
+      },
+      "artists": [
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169733,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1eQENMeGyluVA7O0ykCrBN"
     },
     {
       "album": {
@@ -462,6 +634,36 @@
       "duration_ms": 290053,
       "name": "Holst: 3 Hymns for the English Hymnal: No. 1, In the Bleak Mid-Winter",
       "url": "https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        },
+        {
+          "name": "Ruth Dean",
+          "url": "https://open.spotify.com/artist/6VWxz1oRqBLCmXnJLSifU1"
+        },
+        {
+          "name": "David Roy",
+          "url": "https://open.spotify.com/artist/6jeAUEuVqgyhr6mqqBasgD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94493,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/6Pqpq6EXZtQODRlJL3BNk3"
     },
     {
       "album": {
@@ -517,6 +719,28 @@
     },
     {
       "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231866,
+      "name": "In Dulci Jubilo",
+      "url": "https://open.spotify.com/track/5WWRWV9k4RbZBzpbGt5XVB"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4"
       },
@@ -540,6 +764,84 @@
       "duration_ms": 166480,
       "name": "In Dulci Jubilo",
       "url": "https://open.spotify.com/track/1VaSpQqQzZqcZd7jmTPujm"
+    },
+    {
+      "album": {
+        "name": "Christmas: A Cappella Carols and Hymns",
+        "url": "https://open.spotify.com/album/7hFCs7k5xCiuuxPbvJe9Sy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "The Gesualdo Six",
+          "url": "https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X"
+        },
+        {
+          "name": "Owain Park",
+          "url": "https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "In dulci jubilo (Arr. Bach)",
+      "url": "https://open.spotify.com/track/6OpZlfzW5UypTPmwT4QMaO"
+    },
+    {
+      "album": {
+        "name": "A Choral Christmas",
+        "url": "https://open.spotify.com/album/66x8S2k72QnySL6nlHI3kQ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "In dulci jubilo (Arr. Pearsall)",
+      "url": "https://open.spotify.com/track/7gHOWYFnhNUJDZbDASrE4B"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        },
+        {
+          "name": "Robin Jeffrey",
+          "url": "https://open.spotify.com/artist/60cp9072zfLqjaa2F3rYts"
+        },
+        {
+          "name": "David Roy",
+          "url": "https://open.spotify.com/artist/6jeAUEuVqgyhr6mqqBasgD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/1CVyYND2PuLilV962Hy3Pp"
     },
     {
       "album": {
@@ -608,7 +910,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 140000,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/666PAGBm6Qc5nXrIiYCyYH"
@@ -644,10 +946,54 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 108506,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/1t75I28JVFBPJ8Zzc15kbY"
+    },
+    {
+      "album": {
+        "name": "A Capella Christmas Favourites",
+        "url": "https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk"
+      },
+      "artists": [
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89946,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/25PqkhPZtMOUOrtYkAiNf7"
+    },
+    {
+      "album": {
+        "name": "Christmas: A Cappella Carols and Hymns",
+        "url": "https://open.spotify.com/album/7hFCs7k5xCiuuxPbvJe9Sy"
+      },
+      "artists": [
+        {
+          "name": "James Lord Pierpont",
+          "url": "https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb"
+        },
+        {
+          "name": "The Gesualdo Six",
+          "url": "https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X"
+        },
+        {
+          "name": "Owain Park",
+          "url": "https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111746,
+      "name": "Jingle Bells (Arr. Langford)",
+      "url": "https://open.spotify.com/track/6PH7M86XnVy8FaS8tYtvDb"
     },
     {
       "album": {
@@ -800,7 +1146,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 270751,
       "name": "O Holy Night - Acapella",
       "url": "https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6"
@@ -930,6 +1276,72 @@
       "duration_ms": 148989,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/5OS20K9GSq5BmD8VVQx1cw"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252066,
+      "name": "Once in Royal David's City",
+      "url": "https://open.spotify.com/track/7D3eweLQWl9ET6eqeJg0eN"
+    },
+    {
+      "album": {
+        "name": "Harmonious Voices: An Acapella Christmas",
+        "url": "https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q"
+      },
+      "artists": [
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263320,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2uiFS1m2JzcQGezOt5vpEv"
+    },
+    {
+      "album": {
+        "name": "The Complete Traditional Christmas Carols Collection",
+        "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        },
+        {
+          "name": "Robin Jeffrey",
+          "url": "https://open.spotify.com/artist/60cp9072zfLqjaa2F3rYts"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/5WsFX2BbojH4ctWgtfP1BR"
     },
     {
       "album": {
@@ -1126,10 +1538,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 109059,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/64LKCeijm5ydFSO62qJnUp"
+    },
+    {
+      "album": {
+        "name": "A Traditional Christmas Carol Collection, Vol. II",
+        "url": "https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y"
+      },
+      "artists": [
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "Wexford Carol",
+      "url": "https://open.spotify.com/track/6y5d4BS8yqlckEAzl2VmWC"
     },
     {
       "album": {
@@ -1166,6 +1596,50 @@
       "duration_ms": 85042,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/03hoxhb9QTw2jMyxlC05fM"
+    },
+    {
+      "album": {
+        "name": "Harmonious Voices: An Acapella Christmas",
+        "url": "https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q"
+      },
+      "artists": [
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/0Pk12bzTnJwaZLm2fMYpG4"
+    },
+    {
+      "album": {
+        "name": "Christmas At King's",
+        "url": "https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe"
+      },
+      "artists": [
+        {
+          "name": "Charles Wood",
+          "url": "https://open.spotify.com/artist/1qYK0Da6QkgbijP0d6FuCx"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123813,
+      "name": "Wood: Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/4WIxnzrGhZxFXHsAiIMJqR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jxmdWGk453"

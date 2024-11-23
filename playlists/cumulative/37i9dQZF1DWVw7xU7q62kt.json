@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 153811,
       "name": "4:16am (45)",
       "url": "https://open.spotify.com/track/5GYgzN1P8vDy7BoqPOeQAi"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "Ava",
       "url": "https://open.spotify.com/track/3r9TewyQOI18hx7A6kBaHE"
@@ -3165,6 +3165,36 @@
     },
     {
       "album": {
+        "name": "Laminar",
+        "url": "https://open.spotify.com/album/2IpmiuingrjKA53aL03GE5"
+      },
+      "artists": [
+        {
+          "name": "MrAnthony",
+          "url": "https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Porcel",
+          "url": "https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Laminar",
+      "url": "https://open.spotify.com/track/11WO4NEL8X56PGQi0F2LqD"
+    },
+    {
+      "album": {
         "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
         "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
       },
@@ -4124,7 +4154,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 201600,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4"
@@ -5028,7 +5058,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
@@ -6800,7 +6830,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 199500,
       "name": "Wonderment",
       "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"

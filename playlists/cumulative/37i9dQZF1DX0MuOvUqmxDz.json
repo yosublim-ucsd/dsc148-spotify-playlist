@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 234890,
       "name": "Christmas Just Us Two",
       "url": "https://open.spotify.com/track/4w9aTg5zBHjUk6BjARqBOZ"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 231388,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229450,
       "name": "Home At Christmas",
       "url": "https://open.spotify.com/track/2tKqGOZgr4qOZDFBSoNfbO"
@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/1p8ECOiRrH5JRW0I1AYlru"
+      },
+      "artists": [
+        {
+          "name": "Belle Frantz",
+          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189847,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/5OMXC7Jl9HiQkQf2A3ZTTw"
+    },
+    {
+      "album": {
         "name": "It Must Be Christmas",
         "url": "https://open.spotify.com/album/5qOU1WzKaITOYxjtwZAgaZ"
       },
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153200,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 277552,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/24u4rA8edrSR9atuzyh91Q"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176893,
       "name": "Santa Claus Was My Uber Driver",
       "url": "https://open.spotify.com/track/4iniNHgR9dG5mJnKARozoB"

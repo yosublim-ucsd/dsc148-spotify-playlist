@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Jeffrey Heesen & Mike Peterson",
-  "num_followers": 149134,
+  "num_followers": 149152,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+7cAAAAAAgQl9OIfGALp+Yaz5jJWh8",
+  "snapshot_id": "Z0Dk5wAAAAAnuRQu6FT+m59OpDqaefP5",
   "tracks": [
     {
       "added_at": "2024-11-21 23:00:00",
@@ -31,26 +31,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Wegenwacht",
-        "url": "https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn"
+        "name": "Zeg Ja, Geen Nee",
+        "url": "https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Gerard Palts",
+          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
         },
         {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+          "name": "Trafassi",
+          "url": "https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O"
         }
       ],
-      "duration_ms": 154108,
-      "name": "Wegenwacht",
-      "url": "https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB"
+      "duration_ms": 171428,
+      "name": "Zeg Ja, Geen Nee",
+      "url": "https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -71,22 +67,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Zeg Ja, Geen Nee",
-        "url": "https://open.spotify.com/album/6zy0CJNJZXrApj6Xn77Crb"
+        "name": "Wegenwacht",
+        "url": "https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn"
       },
       "artists": [
         {
-          "name": "Gerard Palts",
-          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Trafassi",
-          "url": "https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O"
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Zeg Ja, Geen Nee",
-      "url": "https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG"
+      "duration_ms": 154108,
+      "name": "Wegenwacht",
+      "url": "https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB"
     },
     {
       "added_at": "2024-11-21 23:00:00",

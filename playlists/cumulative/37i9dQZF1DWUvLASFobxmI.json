@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Victor Garc\u00eda, Eden Mu\u00f1oz en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Jorge Morales El Jilguero y Janet Uribe en portada.",
   "name": "Norte\u00f1o 2024",
   "tracks": [
     {
@@ -314,6 +314,24 @@
       "duration_ms": 215763,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/0M7w6W5Z6Zk1PmG4mnsa9Z"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1Ww0uFkYDM9nZvU6DfrVsq"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167390,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/5Vhq0b1JaHv6KBrbXtCOdb"
     },
     {
       "album": {
@@ -736,7 +754,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 135960,
       "name": "Arriba Las Manos",
       "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
@@ -1678,6 +1696,28 @@
       "duration_ms": 190870,
       "name": "Coincidencia",
       "url": "https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu"
+    },
+    {
+      "album": {
+        "name": "Cokita De Vidrio",
+        "url": "https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177482,
+      "name": "Cokita De Vidrio",
+      "url": "https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL"
     },
     {
       "album": {
@@ -3520,7 +3560,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 159917,
       "name": "EL PLACOSITO",
       "url": "https://open.spotify.com/track/17WD8Ckj7wzPDAH05DGcwq"
@@ -4587,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/1bxFCFSq2Z4EScg7ACahEA"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Fuera De Serie",
+      "url": "https://open.spotify.com/track/3rAW7i1PrBsrY1q2Wb4JgM"
+    },
+    {
+      "album": {
         "name": "Contrato A La Vida",
         "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
@@ -5102,7 +5160,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188836,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/6M6iOW9OFmC0HbXUY1OkLJ"
@@ -5602,7 +5660,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 184165,
       "name": "La Guerita",
       "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
@@ -5964,7 +6022,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170706,
       "name": "La Venganza",
       "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
@@ -6178,7 +6236,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153645,
       "name": "LE VA DOLER",
       "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
@@ -6308,6 +6366,32 @@
       "duration_ms": 151705,
       "name": "Lleg\u00f3 El Desmadre",
       "url": "https://open.spotify.com/track/2HaW3DigtcJOAde5ZjozRF"
+    },
+    {
+      "album": {
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
     },
     {
       "album": {
@@ -6476,6 +6560,24 @@
       "duration_ms": 194226,
       "name": "Loco Tu Forma De Ser",
       "url": "https://open.spotify.com/track/30vGAyncjru9ifVcFQGAy0"
+    },
+    {
+      "album": {
+        "name": "Los Brothers 2",
+        "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238464,
+      "name": "Los Brothers 2",
+      "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
     },
     {
       "album": {
@@ -7004,6 +7106,24 @@
       "duration_ms": 234592,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
+    },
+    {
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/5AHJZYmVYdzIXBu2Rz5Iil"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167824,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3OtnCO9oKOhdZcHiFkXkrj"
     },
     {
       "album": {
@@ -8441,6 +8561,24 @@
     },
     {
       "album": {
+        "name": "Pel\u00edculas de Miedo",
+        "url": "https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm"
+      },
+      "artists": [
+        {
+          "name": "Los HH",
+          "url": "https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Pel\u00edculas de Miedo",
+      "url": "https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn"
+    },
+    {
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5wn18PD40QMoq03QNy5777"
       },
@@ -9248,7 +9386,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 194688,
       "name": "Regalo de Dios",
       "url": "https://open.spotify.com/track/1b6BrGekgZ7EDyAILwgD2A"
@@ -10668,10 +10806,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153647,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/1JQfkZedTZnrudWt104FEt"
+    },
+    {
+      "album": {
+        "name": "Un Mal Entendido",
+        "url": "https://open.spotify.com/album/6KXX8stfg3svn58YGbWUOp"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Janet Uribe",
+          "url": "https://open.spotify.com/artist/43BfI0MnfyaOnjLseHzmjt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185167,
+      "name": "Un Mal Entendido",
+      "url": "https://open.spotify.com/track/5xIz5hvwLaxO0CX8t9QPIs"
     },
     {
       "album": {
@@ -10690,7 +10850,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173793,
       "name": "Un Meme",
       "url": "https://open.spotify.com/track/6cpiHKnHbZibJhZxSMYTXH"
@@ -11414,6 +11574,28 @@
       "duration_ms": 188171,
       "name": "\u00a1Hey!",
       "url": "https://open.spotify.com/track/3PRwPh22ki2c7QNxlr120N"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,346 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,367 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 2 | [サテライト](https://open.spotify.com/track/142nSIc5y8DXVfWmxQhQ4b) | [YUNOWA](https://open.spotify.com/artist/1Oi9jYhqRQffDoihkzMon8) | [Phantom](https://open.spotify.com/album/2fyaATeWHevI5dOgQ79oMX) | 4:08 |
 | 3 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 |
 | 4 | [Not Bad](https://open.spotify.com/track/4lgb0ZbGN8cme2W8bDV10B) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [Not Bad](https://open.spotify.com/album/1Ohx16zY1YX3fc0zd5b4Vf) | 4:45 |
-| 5 | [きっとね!](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 |
+| 5 | [きっとね！](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 |
 | 6 | [Who](https://open.spotify.com/track/5yzQiMQD2Fei3CiXb849MX) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [CATCH](https://open.spotify.com/album/5TtAe1l8OIoCikcgrWhLxV) | 4:49 |
 | 7 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 |
 | 8 | [marten](https://open.spotify.com/track/1mwYEtbr18qJPL3ls9hZXx) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [marten](https://open.spotify.com/album/4UnvgaZBThF0bH4J7LGlBq) | 4:27 |

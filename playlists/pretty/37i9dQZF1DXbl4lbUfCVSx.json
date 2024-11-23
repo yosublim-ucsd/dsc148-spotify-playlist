@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 33066,
+  "num_followers": 33074,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Time To Shine",
         "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 285346,
       "name": "Bif",
       "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "F\u00e8'l Vini Avan",
-        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
-      },
-      "artists": [
-        {
-          "name": "Klass",
-          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Pitit deyo",
-      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "PJDK",
+      "url": "https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE"
-      },
-      "artists": [
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "PJDK",
-      "url": "https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -487,26 +487,6 @@
       "duration_ms": 325906,
       "name": "Chokola",
       "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -571,6 +551,26 @@
       "duration_ms": 263414,
       "name": "Kenbe'l La",
       "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2024-10-25 04:00:00",

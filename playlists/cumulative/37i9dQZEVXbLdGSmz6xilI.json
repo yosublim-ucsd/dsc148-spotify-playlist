@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 206162,
       "name": "B\u0103ng Qua C\u1ea7u Gi\u1ea5y",
       "url": "https://open.spotify.com/track/12rIwDpMKwx77nV5O998nB"
@@ -9960,7 +9960,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif"
@@ -13282,7 +13282,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/1J12HjUuXfJnaUdubTEzSR"
@@ -13830,7 +13830,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -14324,7 +14324,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -16264,7 +16264,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
@@ -16532,6 +16532,32 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Khu V\u01b0\u1eddn T\u00ecnh",
+        "url": "https://open.spotify.com/album/1NnHOgh9AdskLHBTjIFuC6"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        },
+        {
+          "name": "Drum7",
+          "url": "https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Say S\u00f3ng",
+      "url": "https://open.spotify.com/track/4rIBbB1vt0lEKDG2UTmfP0"
     },
     {
       "album": {
@@ -16956,7 +16982,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 230675,
       "name": "shhhhhhh..",
       "url": "https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x"
@@ -17100,7 +17126,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -20652,7 +20678,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -23114,7 +23140,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 239307,
       "name": "\u1eea Th\u00ec Chia Tay (feat. RHYDER)",
       "url": "https://open.spotify.com/track/0HAfl1uPBf5qTMiuAi6Ym7"

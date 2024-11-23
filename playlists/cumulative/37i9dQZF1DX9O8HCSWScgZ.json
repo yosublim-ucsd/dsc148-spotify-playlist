@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
+      },
+      "artists": [
+        {
+          "name": "frid",
+          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2"
       },
@@ -732,7 +750,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 160941,
       "name": "Golden Spices",
       "url": "https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162580,
       "name": "rainfall",
       "url": "https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd"
@@ -1602,6 +1620,24 @@
       "duration_ms": 113000,
       "name": "triple sun",
       "url": "https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I"
+    },
+    {
+      "album": {
+        "name": "Couch Potato",
+        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146781,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
     },
     {
       "album": {

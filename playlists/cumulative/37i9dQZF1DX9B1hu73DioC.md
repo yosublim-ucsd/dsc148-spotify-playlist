@@ -4,7 +4,7 @@
 
 > put it on and let it play\. cover: jessica pratt
 
-845 songs - 2 day 2 hr 8 min
+846 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Delete Forever](https://open.spotify.com/track/6pBaH4u4WIFDxzwDaazekR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 3:57 | 2020-10-16 | 2022-04-21 |
 | [Deliverance](https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN) | [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Deliverance](https://open.spotify.com/album/4n31uRezdDxre4a1WN9Mp0) | 2:44 | 2021-04-15 | 2022-07-28 |
 | [Deserve You](https://open.spotify.com/track/0SYvQ4QBVJhsAEUPonXh63) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Deserve You](https://open.spotify.com/album/4GJLgga05CwlkBSHrR4eIp) | 2:31 | 2021-05-04 | 2022-04-20 |
+| [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 | 2024-11-22 |  |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2020-10-16 | 2022-04-10 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-26 | 2023-07-31 |
 | [Diamond](https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Diamond](https://open.spotify.com/album/0RaRzSkUXCPA56uuhYcMuR) | 3:48 | 2021-05-08 | 2022-07-28 |
@@ -393,7 +394,7 @@
 | [In Camera](https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:24 | 2022-09-02 | 2024-04-19 |
 | [In Camera](https://open.spotify.com/track/4vcyK8QHE6WsqiSnaBOtOS) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [In Camera](https://open.spotify.com/album/6m3FWihId7SPqUaSyEo7hm) | 3:24 | 2020-10-20 | 2022-04-18 |
 | [In Deeper](https://open.spotify.com/track/45jeNRG06xA62cKSkAfP7l) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [A Force Majeure](https://open.spotify.com/album/3JQs8Qu80vtIekyP8JIrDH) | 2:56 | 2021-09-10 | 2022-07-28 |
-| [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-15 |  |
+| [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-15 | 2024-11-23 |
 | [In My Body](https://open.spotify.com/track/6IMpChUNroKqFsyj2jh92h) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Ia Öberg](https://open.spotify.com/artist/24XGvTclseHwpiDiZUzrdQ) | [In My Body](https://open.spotify.com/album/1OI6U275mlnGm5QMCc9Xoy) | 2:57 | 2020-10-05\* | 2022-04-13 |
 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 | 2023-02-03 |  |
 | [In The Flowers](https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In The Flowers](https://open.spotify.com/album/1hwqPMEVPbXdyPNOQq29h7) | 4:41 | 2022-03-07 | 2022-07-29 |
@@ -814,7 +815,7 @@
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2020-12-08 | 2022-04-17 |
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-09-15 | 2024-04-19 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2020-10-05\* | 2022-04-18 |
-| [Wasting Your Love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Wasting Your Love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 | 2024-06-17 |  |
+| [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 | 2024-06-17 |  |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-10-16 | 2022-11-12 |
 | [Weight in Gold](https://open.spotify.com/track/1gXBi2I04CLJkTQnhNfEJT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:23 | 2020-10-16 | 2022-04-18 |
 | [Wet Dreams](https://open.spotify.com/track/6TO72fq3wZajWVpXR83bO7) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Wet Dreams](https://open.spotify.com/album/7HOKM6aTC7eA8z0J2PdoEL) | 2:52 | 2020-10-05\* | 2022-04-21 |

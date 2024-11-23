@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195533,
+  "num_followers": 195541,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
+      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "I natt \u00e9 hela staden v\u00e5r",
         "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
-      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Heathrow",
         "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 235287,
       "name": "Heathrow",
       "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "SAD ROMANCE",
-        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "Tiden l\u00e4ker alla s\u00e5r",
-      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "SAD ROMANCE",
+        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "Tiden l\u00e4ker alla s\u00e5r",
+      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Bortom M\u00e5nen Och Mars",
         "url": "https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 185600,
       "name": "Bortom M\u00e5nen Och Mars",
       "url": "https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Dandelion Kids",
+        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "Dandelion Kids",
+      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -859,38 +875,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Zoey",
-        "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
+        "name": "D\u00e5 \u00e4r det inte jag",
+        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
       },
       "artists": [
         {
-          "name": "Josef Slunge",
-          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
-        },
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
         }
       ],
-      "duration_ms": 183054,
-      "name": "Zoey",
-      "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Adrian",
-        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Adrian",
-      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
+      "duration_ms": 207532,
+      "name": "D\u00e5 \u00e4r det inte jag",
+      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -907,6 +903,26 @@
       "duration_ms": 168188,
       "name": "The Player",
       "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Zoey",
+        "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
+      },
+      "artists": [
+        {
+          "name": "Josef Slunge",
+          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
+        },
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 183054,
+      "name": "Zoey",
+      "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -959,6 +975,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Adrian",
+        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Adrian",
+      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Other Girls",
         "url": "https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD"
       },
@@ -971,22 +1003,6 @@
       "duration_ms": 198334,
       "name": "Other Girls",
       "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "D\u00e5 \u00e4r det inte jag",
-        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "D\u00e5 \u00e4r det inte jag",
-      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Desperate Guy",
+        "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Desperate Guy",
+      "url": "https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Discomforts",
         "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
       },
@@ -1023,22 +1055,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Dandelion Kids",
-        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "Dandelion Kids",
-      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Persienner",
         "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 196640,
       "name": "Persienner",
       "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Desperate Guy",
-        "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Desperate Guy",
-      "url": "https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1119,6 +1119,38 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 128657,
+      "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna"
       },
@@ -1155,34 +1187,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Ljuger f\u00f6r mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP"
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
         }
       ],
-      "duration_ms": 128657,
-      "name": "Ljuger f\u00f6r mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Fakta: Fucked Up",
-        "url": "https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Fakta: Fucked Up",
-      "url": "https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "KALLAX CARGO",
         "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Fakta: Fucked Up",
+        "url": "https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Fakta: Fucked Up",
+      "url": "https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 210077,
-      "name": "Wasted Years",
-      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Vita Boots",
         "url": "https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 136161,
       "name": "Vita Boots",
       "url": "https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 210077,
+      "name": "Wasted Years",
+      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "APTIT",
-        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168047,
-      "name": "APTIT",
-      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "V\u00e5r f\u00f6rsta g\u00e5ng en sista g\u00e5ng",
         "url": "https://open.spotify.com/album/35pQQw9DTlsALNOrkBwUp8"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "APTIT",
+        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168047,
+      "name": "APTIT",
+      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -1531,6 +1531,38 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Just Like That (I Like It) [feat. Annikafiore, Lina Hedlund & Tess Merkel]",
+        "url": "https://open.spotify.com/album/0Y7wIP1MZvZFieQH96uVU7"
+      },
+      "artists": [
+        {
+          "name": "Andreas Lundstedt",
+          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
+        },
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        },
+        {
+          "name": "Annikafiore",
+          "url": "https://open.spotify.com/artist/5kWGI2rxrWlS88MsAGHkZ4"
+        },
+        {
+          "name": "Lina Hedlund",
+          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
+        },
+        {
+          "name": "Tess Merkel",
+          "url": "https://open.spotify.com/artist/4iPkqclIFrMh42rUVgT1zR"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "Just Like That (I Like It) [feat. Annikafiore, Lina Hedlund & Tess Merkel]",
+      "url": "https://open.spotify.com/track/1VOeLVZSd4tEcNlB4fQNwY"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1567,22 +1599,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 166043,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "30 grader",
         "url": "https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK"
       },
@@ -1599,6 +1615,22 @@
       "duration_ms": 183718,
       "name": "30 grader",
       "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1647,38 +1679,6 @@
       "duration_ms": 195954,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Just Like That (I Like It) [feat. Annikafiore, Lina Hedlund & Tess Merkel]",
-        "url": "https://open.spotify.com/album/0Y7wIP1MZvZFieQH96uVU7"
-      },
-      "artists": [
-        {
-          "name": "Andreas Lundstedt",
-          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
-        },
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        },
-        {
-          "name": "Annikafiore",
-          "url": "https://open.spotify.com/artist/5kWGI2rxrWlS88MsAGHkZ4"
-        },
-        {
-          "name": "Lina Hedlund",
-          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
-        },
-        {
-          "name": "Tess Merkel",
-          "url": "https://open.spotify.com/artist/4iPkqclIFrMh42rUVgT1zR"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Just Like That (I Like It) [feat. Annikafiore, Lina Hedlund & Tess Merkel]",
-      "url": "https://open.spotify.com/track/1VOeLVZSd4tEcNlB4fQNwY"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Milkshakes",
-        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Milkshakes",
-      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "MIN DROG",
         "url": "https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs"
       },
@@ -1775,34 +1759,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "just wanna feel you",
-        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
+        "name": "Milkshakes",
+        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
         }
       ],
-      "duration_ms": 220952,
-      "name": "just wanna feel you",
-      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Ingenting",
-        "url": "https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr"
-      },
-      "artists": [
-        {
-          "name": "Nardn",
-          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Ingenting",
-      "url": "https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS"
+      "duration_ms": 147000,
+      "name": "Milkshakes",
+      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1823,6 +1791,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Ingenting",
+        "url": "https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ingenting",
+      "url": "https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Dying Light",
         "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 173694,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "just wanna feel you",
+        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "just wanna feel you",
+      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
     }
   ],
   "unique_name": "Made in Sweden",

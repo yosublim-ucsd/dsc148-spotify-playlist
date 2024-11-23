@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Shantel May from Scarborough, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Zenesoul from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Airport Song",
+        "url": "https://open.spotify.com/album/7ug4Llh6SHieRIKq5ymXC5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154342,
+      "name": "Airport Song",
+      "url": "https://open.spotify.com/track/2x52t53NewTViAzWA056bA"
+    },
+    {
+      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
       },
@@ -996,6 +1014,24 @@
       "duration_ms": 195882,
       "name": "ALL EARS",
       "url": "https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o"
+    },
+    {
+      "album": {
+        "name": "all for you",
+        "url": "https://open.spotify.com/album/195zWVS2ywArtagBSsCi88"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "all for you",
+      "url": "https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi"
     },
     {
       "album": {
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188280,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2oiYwCA2XB26ISvhKxWLU1"
@@ -5186,7 +5222,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 210666,
       "name": "Don't Lose The Plot",
       "url": "https://open.spotify.com/track/5NqXSf0CFAd9oZHUpljQwL"
@@ -8287,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "hey cinderella",
+        "url": "https://open.spotify.com/album/54faiWodB3OiRvKjH5zQzE"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122420,
+      "name": "hey cinderella",
+      "url": "https://open.spotify.com/track/58VbwpkRwzTyK43hIYkrZP"
+    },
+    {
+      "album": {
         "name": "THINGS WE SAY",
         "url": "https://open.spotify.com/album/2daI7RpVMrubBDub3czxjC"
       },
@@ -9898,6 +9952,24 @@
       "duration_ms": 190300,
       "name": "Involved",
       "url": "https://open.spotify.com/track/57C4OutyKeljuyqGxuHokR"
+    },
+    {
+      "album": {
+        "name": "Is it fun for you?",
+        "url": "https://open.spotify.com/album/6Q6kH5zoYQq3F7rYMcuAHK"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172227,
+      "name": "Is it fun for you?",
+      "url": "https://open.spotify.com/track/6vgQ5R04b4pbPk0TxlPIP2"
     },
     {
       "album": {
@@ -13654,7 +13726,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 127594,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
@@ -14770,7 +14842,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 150135,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0aT0gaRAcmd4A4gWmFodHo"
@@ -16156,7 +16228,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161057,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH"
@@ -16718,6 +16790,28 @@
       "duration_ms": 250407,
       "name": "Resist",
       "url": "https://open.spotify.com/track/4fZIIyvsVjges8sgivPak2"
+    },
+    {
+      "album": {
+        "name": "The Sky Is Recording Me: 100 Years Later, Vol. 2",
+        "url": "https://open.spotify.com/album/4gxh0RuP5wCl7QzWuPRHQX"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "RESPECT",
+      "url": "https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ"
     },
     {
       "album": {
@@ -17499,6 +17593,24 @@
     },
     {
       "album": {
+        "name": "Sex With My Ex",
+        "url": "https://open.spotify.com/album/20ZE7oCCLIZozrBzO2ChnJ"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128438,
+      "name": "Sex With My Ex",
+      "url": "https://open.spotify.com/track/60wUa3fbCc0IGmiT3Sycaw"
+    },
+    {
+      "album": {
         "name": "Sexy Lady (Remix)",
         "url": "https://open.spotify.com/album/1SxKnUKEoooT5gRfnxMFBE"
       },
@@ -18084,6 +18196,28 @@
       "duration_ms": 169608,
       "name": "Slow",
       "url": "https://open.spotify.com/track/529UbUitoTJqEO5do3znnW"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "album": {
@@ -19049,6 +19183,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5t4xuID7Gv3eNX8qmsh2En"
+      },
+      "artists": [
+        {
+          "name": "Naja",
+          "url": "https://open.spotify.com/artist/2Vlp1Yhd2umgmn4pitGXHR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180183,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2KJ3RAYKZcGw8U5BI159Ll"
+    },
+    {
+      "album": {
         "name": "MAN FROM EAST",
         "url": "https://open.spotify.com/album/3PW9sSmAwoPcgS7quFZJ0f"
       },
@@ -19368,7 +19520,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 174715,
       "name": "Sublimation",
       "url": "https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4"
@@ -20897,6 +21049,24 @@
     },
     {
       "album": {
+        "name": "TIME MACHINE",
+        "url": "https://open.spotify.com/album/1HZSzpjnFlzeBkwrMEPWCr"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197619,
+      "name": "TIME MACHINE",
+      "url": "https://open.spotify.com/track/4V1zv7F26JrUVIi5CcujWa"
+    },
+    {
+      "album": {
         "name": "Time Takes Time",
         "url": "https://open.spotify.com/album/2JaEdiZ1Wal9hp9tUuGw7F"
       },
@@ -20908,7 +21078,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 206856,
       "name": "Time Takes Time",
       "url": "https://open.spotify.com/track/0uThwHV1oVOkmukuMqBzyk"
@@ -21114,7 +21284,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 167756,
       "name": "Too Often",
       "url": "https://open.spotify.com/track/03GAUqifa6bI0mFcYyz1DS"
@@ -22142,7 +22312,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 146420,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2wQhuufN2P1q0LL2byheM0"

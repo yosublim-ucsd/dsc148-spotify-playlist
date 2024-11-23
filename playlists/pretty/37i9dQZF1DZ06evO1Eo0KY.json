@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 503,
+  "num_followers": 504,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAA7GbtyczR4R/9Eg4rU6BsX",
+  "snapshot_id": "Zz54AAAAAAAeGH1vLvcIhYAzmRfj2p21",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OV3\u00b2",
-        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
-      },
-      "artists": [
-        {
-          "name": "Di-Meh",
-          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        }
-      ],
-      "duration_ms": 155516,
-      "name": "True Religion",
-      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -875,6 +851,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+      },
+      "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "duration_ms": 155516,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 168922,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Bandit",
-      "url": "https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N 2",
         "url": "https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI"
       },
@@ -1019,26 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directors Cut 4",
-        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
       "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+          "name": "Johnny Hustle",
+          "url": "https://open.spotify.com/artist/2lJOAh01542sdMBj46rhp2"
+        },
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/1dtyNgIL58QHr40j3skRyS"
         }
       ],
-      "duration_ms": 196555,
-      "name": "Across 110 Street (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/34u4ZDgELm7pQ3Z3etm5QS"
+      "duration_ms": 183848,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/4W9PYIaKHOofGDiMw8ltTS"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

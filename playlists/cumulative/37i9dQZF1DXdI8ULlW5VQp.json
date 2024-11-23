@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Alejandro Sanz en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Paloma Morphy en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
+    },
+    {
+      "album": {
         "name": "El Mejor Lugar",
         "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
       },
@@ -2256,6 +2274,24 @@
       "duration_ms": 210243,
       "name": "Espacio Infinito",
       "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
+    },
+    {
+      "album": {
+        "name": "Esta noche",
+        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
     },
     {
       "album": {
@@ -2768,7 +2804,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 274601,
       "name": "La Calle de las Sirenas",
       "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
@@ -3166,7 +3202,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
@@ -4075,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Nunca Fuimos Al Mar",
+        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133411,
+      "name": "Nunca Fuimos Al Mar",
+      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
+    },
+    {
+      "album": {
         "name": "Nunca Volvieron",
         "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
       },
@@ -4452,7 +4506,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
@@ -5872,7 +5926,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 214133,
       "name": "Una Playa En Nayarit",
       "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
@@ -6184,6 +6238,24 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9"
+    },
+    {
+      "album": {
+        "name": "yo creo que todxs estamos mal",
+        "url": "https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196204,
+      "name": "yo creo que todxs estamos mal",
+      "url": "https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO"
     },
     {
       "album": {

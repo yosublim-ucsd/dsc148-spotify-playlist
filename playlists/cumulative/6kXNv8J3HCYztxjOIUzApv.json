@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Evil World Machine",
+        "url": "https://open.spotify.com/album/2Iu8SBkkSG6YOeuxuqleX6"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222138,
+      "name": "Let\u2019s Bust The Trust",
+      "url": "https://open.spotify.com/track/2K4JEQV6jxa9wswvKfU30T"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv"
       },

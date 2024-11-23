@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Pour Me Out",
+        "url": "https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228399,
+      "name": "Pour Me Out",
+      "url": "https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM"
+    },
+    {
+      "album": {
         "name": "Pushin' Against a Stone",
         "url": "https://open.spotify.com/album/2ce5ND89nKxicash0FzBYq"
       },

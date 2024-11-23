@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149500,
       "name": "40",
       "url": "https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 144500,
       "name": "Above all",
       "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168000,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 158490,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 159709,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Estebania Se Acurruca",
       "url": "https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Final Step",
       "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185426,
       "name": "Harp For The Forest",
       "url": "https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 146500,
       "name": "Hygrometer",
       "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 130807,
       "name": "New Roads",
       "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 151480,
       "name": "Nota Placidit\u00e0",
       "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 166000,
       "name": "On the Cottage Floor",
       "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 135000,
       "name": "Ra\u00f0lj\u00f3st",
       "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 281904,
       "name": "Relaxing Dreams",
       "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Winding Path",
+        "url": "https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182038,
+      "name": "Winding Path",
+      "url": "https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE"
+    },
+    {
+      "album": {
         "name": "Winter Lake",
         "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"

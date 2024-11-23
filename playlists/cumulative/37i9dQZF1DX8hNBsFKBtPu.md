@@ -4,7 +4,7 @@
 
 > Det bedste nye pop 💛 Mina Okabe💛
 
-279 songs - 14 hr 13 min
+280 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-06-27 | 2024-07-30 |
 | [Noget Si'r Mig](https://open.spotify.com/track/0VKpZJPkO2PcvwiSOwOvEc) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Noget Si'r Mig](https://open.spotify.com/album/5MkJ9dIJBM7BNJFgtLgmfN) | 3:19 | 2024-06-27 | 2024-11-08 |
 | [Nu Hvor Jeg](https://open.spotify.com/track/07ZLTfOkXeaenf6bVX00nI) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:54 | 2024-10-24 |  |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Når Du Smiler](https://open.spotify.com/track/6aY99btUb4GzOmqjVOcN13) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Når Du Smiler](https://open.spotify.com/album/1S8tqXtdJ4e8vp8fGgow9C) | 2:17 | 2024-10-24 | 2024-11-08 |
 | [Når Jeg Vågner II](https://open.spotify.com/track/3DWixpLy6fxCf79Lxcp76q) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Når Jeg Vågner II](https://open.spotify.com/album/4UG8Uf9sK2m94ymQ0yBMLw) | 2:58 | 2024-09-19 |  |
 | [Næste Bølge](https://open.spotify.com/track/48e6f9GNCUswGP4s1WyUz4) | [KRYD](https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb) | [Næste Bølge](https://open.spotify.com/album/7f5l0CFX0Ajmf9z5Kw4JWX) | 2:49 | 2024-06-27 | 2024-10-04 |

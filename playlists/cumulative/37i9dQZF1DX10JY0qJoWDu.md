@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-133 songs - 6 hr 5 min
+134 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Matt Cornett](https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:18 | 2022-11-05 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/6ca5oWPPv6nXVjeFUyucvA) | 2:30 | 2021-12-03 |  |
 | [Christmas Again](https://open.spotify.com/track/5wVIYvdUYoL8cPhf5erVTx) | [Scarlett Estevez](https://open.spotify.com/artist/7vtaa3f6pG08gYqAs2l9fk) | [Christmas Again \(Original Soundtrack\)](https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT) | 3:04 | 2021-12-03 |  |
+| [Christmas All Over Again](https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey and the Very Many Christmases \(Original Soundtrack\)](https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L) | 1:51 | 2024-11-22 |  |
 | [Christmas Eve Montage](https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 4:43 | 2021-12-03 |  |
 | [Christmas Is Coming](https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb) | [Ross Lynch and R5](https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:08 | 2021-12-03 |  |
 | [Christmas Is Nearly Here](https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx) | [Mickey Saves Christmas \- Cast](https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh) | [Mickey Saves Christmas \(Original Soundtrack\)](https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu) | 2:19 | 2022-12-13 |  |

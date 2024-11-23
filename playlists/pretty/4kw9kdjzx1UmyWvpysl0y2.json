@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125712,
+  "num_followers": 125713,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATWMr5wBERZso8Mqks5v+ERKX9Km5/",
+  "snapshot_id": "AAATWgNfJOVMDtH+dnG9ZB/QpgEqbmGJ",
   "tracks": [
+    {
+      "added_at": "2024-11-22 12:42:59",
+      "album": {
+        "name": "SWEAT!",
+        "url": "https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "SWEAT!",
+      "url": "https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q"
+    },
     {
       "added_at": "2024-11-21 13:37:43",
       "album": {
@@ -1151,22 +1171,6 @@
       "duration_ms": 202622,
       "name": "Through The Inversion",
       "url": "https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0"
-    },
-    {
-      "added_at": "2024-09-03 13:36:00",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK"
-      },
-      "artists": [
-        {
-          "name": "More Plastic",
-          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
-        }
-      ],
-      "duration_ms": 171379,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

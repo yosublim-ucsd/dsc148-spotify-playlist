@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Red Christmas (From \"Descendants: The Rise of Red\")",
+        "url": "https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163925,
+      "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L"
+    },
+    {
+      "album": {
         "name": "Descendants (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
       },

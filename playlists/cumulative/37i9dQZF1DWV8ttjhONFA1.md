@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera
+> El nuevo sonido argentino lo encontrás acá\. Foto: lisandro skar & ¿Juan Julian?
 
-313 songs - 17 hr 13 min
+315 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Charuto](https://open.spotify.com/track/0nij12ZRN179u8Jsi73C8V) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Charuto](https://open.spotify.com/album/6ucHipZ9QY8FmQ5X1kvX1r) | 2:52 | 2024-06-07 | 2024-08-24 |
 | [Cicuta \- Remix](https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cicuta \(Remix\)](https://open.spotify.com/album/5d10y3nytevf7kBa4xEHpi) | 2:49 | 2024-04-05 | 2024-10-05 |
 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 | 2024-04-26 | 2024-09-14 |
+| [cindor](https://open.spotify.com/track/1wMU9GAJK9R7uJLnzqxF38) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Las Rueditas de la Bici](https://open.spotify.com/artist/6kKtxXcuw2gn5q03ymTebF) | [Las Rueditas de la Bici](https://open.spotify.com/album/1zYKHqNOYPIszkAKFrqi3f) | 2:16 | 2024-11-22 |  |
 | [Colorá](https://open.spotify.com/track/3hL7qjD8Mdcrjc5t1BFcHE) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Colorá](https://open.spotify.com/album/19MnZqlVTv2v1ZXKFLGhFQ) | 3:17 | 2023-12-15 | 2024-02-24 |
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-15 | 2024-09-07 |
 | [Conocerte más](https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [A veces está bien](https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR) | 2:50 | 2024-06-07 | 2024-07-06 |
@@ -225,7 +226,7 @@
 | [Nueva forma](https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Nueva forma](https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF) | 3:14 | 2023-12-15 | 2024-08-13 |
 | [Nuevo Comienzo](https://open.spotify.com/track/6b2Dw4kSKnmWMyiBXyRX2e) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:06 | 2024-04-05 | 2024-05-25 |
 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 | 2023-12-15 | 2024-04-06 |
-| [Oh my goth](https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Creo que necesito ir a dar una vuelta](https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee) | 3:12 | 2024-08-12 |  |
+| [Oh my goth](https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Creo que necesito ir a dar una vuelta](https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee) | 3:12 | 2024-08-12 | 2024-11-23 |
 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 | 2024-03-01 | 2024-11-09 |
 | [Otro Día +](https://open.spotify.com/track/4HNFl3MYMT66JxtIGRDCCg) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [Otro Día +](https://open.spotify.com/album/374Vy9hEfXobyxWgwvHFCj) | 2:03 | 2024-07-26 | 2024-08-31 |
 | [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 | 2024-03-08 | 2024-04-06 |
@@ -285,6 +286,7 @@
 | [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-05 | 2024-10-05 |
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-04-05 |  |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 | 2024-04-06 |
+| [Te vi](https://open.spotify.com/track/6Gio20biKmJWb7tPJXDgRS) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY) | [Te vi](https://open.spotify.com/album/2wNysotC6ih2dyCUgS3y3n) | 2:54 | 2024-11-22 |  |
 | [Telepatía Animal](https://open.spotify.com/track/67fm3w8yfTXVwIYb06U3Js) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Telepatía Animal](https://open.spotify.com/album/5U3A9qKOYbyXDkfDze7PAB) | 3:56 | 2024-05-24 | 2024-10-05 |
 | [Texto](https://open.spotify.com/track/6uNhKL6VOWNxyA0GO82kId) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Texto](https://open.spotify.com/album/3segVWdI8FZGGGiDJogPEV) | 2:37 | 2024-07-19 | 2024-08-17 |
 | [tiré](https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [tiré](https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx) | 2:30 | 2024-08-23 |  |
@@ -296,7 +298,7 @@
 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 | 2024-05-10 | 2024-07-13 |
 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 | 2023-12-15 | 2024-08-03 |
 | [Tu Calor](https://open.spotify.com/track/4qqnfffDtMMt58Zw2NIffu) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Tu Calor](https://open.spotify.com/album/0rnWUuYhemV5cbU69dMi7C) | 3:16 | 2024-02-16 | 2024-08-17 |
-| [Tu Enemiga](https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Tu Enemiga](https://open.spotify.com/album/6tOyx4khgLtYy34qVhzBLY) | 3:47 | 2024-08-23 |  |
+| [Tu Enemiga](https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Tu Enemiga](https://open.spotify.com/album/6tOyx4khgLtYy34qVhzBLY) | 3:47 | 2024-08-23 | 2024-11-23 |
 | [tu mejor pesadilla](https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [tu mejor pesadilla](https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa) | 3:32 | 2024-04-05 | 2024-06-29 |
 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 | 2023-12-15 | 2024-03-02 |
 | [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-12-15 | 2024-01-13 |

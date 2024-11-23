@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: BabyChiefDoIt",
+  "description": "Strictly for the streets. Cover: EST Gee",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 196309,
       "name": "All White",
       "url": "https://open.spotify.com/track/2iNjRC5g9DH6VEl9K6WTKy"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179560,
       "name": "Bigg Azz Bands",
       "url": "https://open.spotify.com/track/57wgDkavSqa3HZ6dyTX069"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179433,
       "name": "Bird Business (feat. Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/0cN4LkGzfWtfJtIo4WHuuf"
@@ -4923,6 +4923,28 @@
     },
     {
       "album": {
+        "name": "Candlewick",
+        "url": "https://open.spotify.com/album/5ZBLs9gVLSXPYNPixRoy00"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161980,
+      "name": "Candlewick",
+      "url": "https://open.spotify.com/track/0x5dG3UdrkRfClVWje4OfG"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Go To Jail",
         "url": "https://open.spotify.com/album/45sHVXRiTHH5o4KkIGiQld"
       },
@@ -5080,6 +5102,24 @@
       "duration_ms": 133474,
       "name": "Catch A B",
       "url": "https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx"
+    },
+    {
+      "album": {
+        "name": "Real Striker Music",
+        "url": "https://open.spotify.com/album/4dG1FVEjZZA838N0bndVT8"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168037,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/355e9KgMvW8TIWWN2xSVeI"
     },
     {
       "album": {
@@ -5444,7 +5484,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 100587,
       "name": "Cheeto",
       "url": "https://open.spotify.com/track/49fCZX9I7ZPxyMh6oj6zGI"
@@ -5962,6 +6002,28 @@
       "duration_ms": 167671,
       "name": "Conspiracy V2",
       "url": "https://open.spotify.com/track/7vHST6OyzmuCAHTpqu7LAr"
+    },
+    {
+      "album": {
+        "name": "Crack Music 3",
+        "url": "https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Controversy 2 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH"
     },
     {
       "album": {
@@ -9436,7 +9498,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 192216,
       "name": "FREE SMURK, BIG EDDIE & CAM",
       "url": "https://open.spotify.com/track/3Gr7dbIvWFsiqrnyJWaFcC"
@@ -10649,6 +10711,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/63of79pbozPDzkcFvrnZGf"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126164,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1HQFiEOMA4k4lPCnUMFwDm"
+    },
+    {
+      "album": {
         "name": "Hood Bible 2",
         "url": "https://open.spotify.com/album/3B21T4ldEEBgPCyXfESc0z"
       },
@@ -10690,7 +10770,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 189544,
       "name": "Go (feat. Skilla Baby & Peso Peso)",
       "url": "https://open.spotify.com/track/487JtimmqCMcrgfmDzlQhC"
@@ -12660,7 +12740,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 202666,
       "name": "Hot Boy (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6TLBN54dRxVtSbCfe3Uo7K"
@@ -13578,7 +13658,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 157666,
       "name": "I'm Big Dawg",
       "url": "https://open.spotify.com/track/7pGJa5IeJF8djxw4Kf61Np"
@@ -13994,7 +14074,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 219788,
       "name": "In The Air (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
@@ -14708,7 +14788,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 164606,
       "name": "Jwett",
       "url": "https://open.spotify.com/track/6kEMoHRKZWc0JZKLijIjVh"
@@ -15695,6 +15775,28 @@
     },
     {
       "album": {
+        "name": "Tribe",
+        "url": "https://open.spotify.com/album/0HgEpLKGfhlIzVW4Woh4kK"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Made Men Mafia",
+          "url": "https://open.spotify.com/artist/2lxIytxNJ4XC5tKUVjx1ee"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155178,
+      "name": "Let's Slide",
+      "url": "https://open.spotify.com/track/2snBPBWNqb6tqJB8im7F27"
+    },
+    {
+      "album": {
         "name": "Let's Talk Facts (feat. Rowdy Rebel)",
         "url": "https://open.spotify.com/album/7vOjPrUXX5vEqy34TeYRF6"
       },
@@ -15786,6 +15888,24 @@
       "duration_ms": 141604,
       "name": "Lick Or Sum",
       "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Won't Stop 2",
+        "url": "https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Life Of A Hot Nigga",
+      "url": "https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK"
     },
     {
       "album": {
@@ -15928,7 +16048,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 236496,
       "name": "Like Mike 2",
       "url": "https://open.spotify.com/track/5fkRxAAscMIm3cOgDq4aBe"
@@ -17368,6 +17488,32 @@
       "duration_ms": 122718,
       "name": "MIA",
       "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
+    },
+    {
+      "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/23eua6uVSevlpuWsN7JoiM"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "Miami with the Heat (feat. Kodak Black & Luh Tyler)",
+      "url": "https://open.spotify.com/track/1kDB0U0wsGSqIJzlsdnUOR"
     },
     {
       "album": {
@@ -19327,6 +19473,28 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149767,
+      "name": "No Love (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU"
+    },
+    {
+      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2"
       },
@@ -19396,7 +19564,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 216787,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/3aFFQ84vIxWHILwmgsUzNF"
@@ -21822,7 +21990,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178359,
       "name": "PJ (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
@@ -21942,7 +22110,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179222,
       "name": "Pleads (feat. Chief Keef & Nardo Wick)",
       "url": "https://open.spotify.com/track/72nY8ePnCkQfWJEVzQNkT1"
@@ -24424,7 +24592,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 139989,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/2qRg52SDWzUNeSYRxBnMEV"
@@ -27689,6 +27857,24 @@
     },
     {
       "album": {
+        "name": "Legend (Deluxe)",
+        "url": "https://open.spotify.com/album/5xKCH7qY4mEXKXGA3N4xss"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276942,
+      "name": "Struggle",
+      "url": "https://open.spotify.com/track/1MToddlXYArPP0AdSzR51j"
+    },
+    {
+      "album": {
         "name": "STUCK",
         "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
       },
@@ -28521,6 +28707,24 @@
     },
     {
       "album": {
+        "name": "The Biggest Pt. 2",
+        "url": "https://open.spotify.com/album/3eUutraxnRY36Wnmp61feO"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152220,
+      "name": "The Biggest Pt. 2",
+      "url": "https://open.spotify.com/track/3Dw9lMKAtrorXeW0wec1dr"
+    },
+    {
+      "album": {
         "name": "The Block",
         "url": "https://open.spotify.com/album/5uoTPaN1d4o0TZfTlhWV0J"
       },
@@ -29114,6 +29318,28 @@
       "duration_ms": 180250,
       "name": "Thug Letter",
       "url": "https://open.spotify.com/track/4iWQTda5CDlF70LoByOR0r"
+    },
+    {
+      "album": {
+        "name": "Crack Music 3",
+        "url": "https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155005,
+      "name": "Thug Life (with Peezy)",
+      "url": "https://open.spotify.com/track/2riBhqARIm1t9QzzsO6Mdy"
     },
     {
       "album": {
@@ -30894,7 +31120,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 119172,
       "name": "WAIT A MINUTE",
       "url": "https://open.spotify.com/track/5yWgjNOSGAWRkhbXvrc7S6"
@@ -31527,6 +31753,24 @@
     },
     {
       "album": {
+        "name": "The Richest Foxx",
+        "url": "https://open.spotify.com/album/4op6wPhRqIaVPZ73c277nL"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "WEST MEMPHIS",
+      "url": "https://open.spotify.com/track/0HqAqJCNH9e2sKE91MkTSr"
+    },
+    {
+      "album": {
         "name": "On Zai",
         "url": "https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1"
       },
@@ -31622,7 +31866,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 134483,
       "name": "What You Sayin (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3BSKuEGd4nQIyotCI2vQZC"
@@ -31750,6 +31994,28 @@
       "duration_ms": 148735,
       "name": "Whatever Come With It (feat. Future)",
       "url": "https://open.spotify.com/track/1vkBk8GslqBkxaGGJsAvFT"
+    },
+    {
+      "album": {
+        "name": "The Richest Foxx",
+        "url": "https://open.spotify.com/album/4op6wPhRqIaVPZ73c277nL"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "WHEN DEY COME (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0dON3yBhNtDAzuapR9o0Td"
     },
     {
       "album": {

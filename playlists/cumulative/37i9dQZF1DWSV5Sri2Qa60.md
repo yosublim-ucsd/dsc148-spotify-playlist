@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: Man/Woman/Chainsaw
+> Where your new favourite bands are discovered\. Cover: Getdown Services
 
-112 songs - 6 hr 39 min
+117 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,14 @@
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-06-14 | 2024-09-14 |
 | [colour photo](https://open.spotify.com/track/3lSarTYqSK7A9bnNwz1P61) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [colour photo](https://open.spotify.com/album/68q75hsPYIehvIar3lI9E0) | 2:53 | 2024-07-12 |  |
 | [Constantly](https://open.spotify.com/track/5aS0lhnoreY5qphG7C90am) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Constantly](https://open.spotify.com/album/2QmEscO87UBIOXNH1wiQyX) | 3:52 | 2024-07-12 | 2024-09-07 |
+| [Cranium](https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Cranium](https://open.spotify.com/album/6GLvAOeCOr1KK2O6S59KHU) | 2:28 | 2024-11-22 |  |
 | [Davey Says](https://open.spotify.com/track/0taAI29AhzNRcrnWhGPMwZ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Davey Says](https://open.spotify.com/album/6vQVPgqVMU51qDxJnAm3dC) | 2:47 | 2024-06-14 | 2024-10-07 |
 | [Dead Ocean Swimmer](https://open.spotify.com/track/3UpaBM4jiBcs5ERfFMfJSq) | [Solis](https://open.spotify.com/artist/0K3Fj6AQuFF0wggXjejSZS) | [Dead Ocean Swimmer](https://open.spotify.com/album/2c7s79EZUrj34wz6d3tXF3) | 4:22 | 2024-10-06 |  |
 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-06-14 | 2024-07-27 |
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-14 | 2024-10-07 |
 | [DIRTY COWBOY](https://open.spotify.com/track/1QqErLNmKBcxPubANPKKDu) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [DIRTY COWBOY](https://open.spotify.com/album/2JLksU0tEK4Uaa013rvyMB) | 2:40 | 2024-07-12 |  |
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-06-14 | 2024-07-13 |
+| [Dog Dribble](https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Dog Dribble](https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23) | 4:15 | 2024-11-22 |  |
 | [Driftin](https://open.spotify.com/track/7n6yD2gOCqlxawjUBaGcGD) | [Hermitage Green](https://open.spotify.com/artist/4ffShaM6djxpd5LiJX2MW4) | [Driftin'](https://open.spotify.com/album/4YTgy42U0Jnw7VtEuha3ch) | 4:16 | 2024-06-14 | 2024-10-07 |
 | [DYLM](https://open.spotify.com/track/6sINksp0eE9N704kiauZJs) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [DYLM](https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ) | 3:54 | 2024-08-16 |  |
 | [Exactly As It Seems](https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 2:57 | 2024-06-14 | 2024-08-17 |
@@ -66,7 +68,9 @@
 | [Its not deep](https://open.spotify.com/track/56nO8TNRfTQT2ZfwNNwmyf) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [witchescrew](https://open.spotify.com/album/4thHMKP08QEIYSyuMQz6Z6) | 2:04 | 2024-06-14 | 2024-10-07 |
 | [Jeremiah](https://open.spotify.com/track/238NHYxrU8GXkDNNr7s9Ox) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Jeremiah](https://open.spotify.com/album/410lTpDhzFkeJ0YBUZdaeQ) | 4:19 | 2024-06-14 | 2024-07-27 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-14 | 2024-07-13 |
+| [Killing It](https://open.spotify.com/track/3JwKYXKyBKJeWJs4c7uFrH) | [Disgusting Sisters](https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe) | [Killing It](https://open.spotify.com/album/0W7ffeXzEIXrdPYV9dlr3P) | 3:34 | 2024-11-22 |  |
 | [King Cnut](https://open.spotify.com/track/4m0cUQ0fKhdHA0iBx9XCuk) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [King Cnut](https://open.spotify.com/album/5JTiEmHBkvYLAlSk1FGmNO) | 4:46 | 2024-10-06 | 2024-11-09 |
+| [Kiss Me Like You Miss Her](https://open.spotify.com/track/2Hy2atXIzk7l6fbYfCejIm) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Kiss Me Like You Miss Her](https://open.spotify.com/album/2tC0PnJAdst2WrZ3nd72o0) | 3:40 | 2024-11-22 |  |
 | [Know It All](https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Heaven's A Lonely Place](https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm) | 2:40 | 2024-11-08 |  |
 | [Lightbulb Moment](https://open.spotify.com/track/3eCSG6GiW6ldZ9sCNApLBl) | [Adult Play](https://open.spotify.com/artist/0qAWgmNrJU4yfHMCMnEnOl) | [Deep Recess Dial Up Despair](https://open.spotify.com/album/3WeWOz5wpbGwK9YWqTAaNo) | 3:47 | 2024-06-14 | 2024-09-14 |
 | [Like Best Friends](https://open.spotify.com/track/0g95vn2Szj5apK4CIOcyAZ) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Like Best Friends / Fine For Now](https://open.spotify.com/album/469c6WV6LEt6AjZv4QqYxG) | 3:09 | 2024-06-14 | 2024-10-07 |
@@ -82,6 +86,7 @@
 | [Paith Own](https://open.spotify.com/track/59BSXqdDDiNnt79NuG5mIM) | [a Lesser Version](https://open.spotify.com/artist/7gJ9ES0nqI44kB8b0S8mQC) | [Paith Own](https://open.spotify.com/album/3yOyHF7k7gt1n6vMs77Swu) | 3:44 | 2024-10-06 |  |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-06-14 | 2024-09-14 |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-06-14 | 2024-07-27 |
+| [Promised Land](https://open.spotify.com/track/1xQTzvTyMCURn6q8sMSGHY) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Promised Land](https://open.spotify.com/album/0hkvGrNxsav5II7SOs3RHh) | 4:30 | 2024-11-22 |  |
 | [Puppet Show](https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Puppet Show](https://open.spotify.com/album/6MxS4cvWu4MD9v9nLORaKv) | 2:55 | 2024-06-14 | 2024-09-14 |
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2024-06-14 | 2024-08-17 |
 | [rosie](https://open.spotify.com/track/00xit1IKzGivuMXn6FZNUw) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [rosie](https://open.spotify.com/album/3XvF6gVnLNIWPvImkgZb3G) | 3:08 | 2024-07-12 | 2024-08-17 |

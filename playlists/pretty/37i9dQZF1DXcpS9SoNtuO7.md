@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,286 likes - 96 songs - 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,293 likes - 96 songs - 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 60 | [\#55 内田真礼デビュー10周年を祝おう＆語ろう／「創傷イノセンス」と「Rising Hope」と10周年の名曲たち](https://open.spotify.com/episode/3oEGl7tgRBX6zB4QMcF7cf) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 45:13 |
 | 61 | [創傷イノセンス](https://open.spotify.com/track/2uXPRnLsbA5MWXUpNaYAUJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [PENKI【通常盤】](https://open.spotify.com/album/1S3RsyQL3xrzs4BYZlu2DZ) | 3:45 |
 | 62 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 |
-| 63 | [Daze\(Re Ver.\)](https://open.spotify.com/track/1J8P5gi2rwToqVyBZyCuOr) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:53 |
+| 63 | [Daze（Re Ver.）](https://open.spotify.com/track/1J8P5gi2rwToqVyBZyCuOr) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:53 |
 | 64 | [black bullet](https://open.spotify.com/track/5hkkuASzdfvILi15yUvPgK) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [black bullet](https://open.spotify.com/album/09IpXbWmxPBiygIkWZFmpy) | 4:23 |
 | 65 | [\#54 ClariSニューアルバム『Iris』を徹底分析／超豪華！TM NETWORKトリビュート／番組始まって以来の大ハプニング!?](https://open.spotify.com/episode/2by2IStvpJ1VMZ0vRQWw7O) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:42 |
 | 66 | [ルネッサンス情熱](https://open.spotify.com/track/1fbLn7jZlbZnmqgYAsUqEa) | [国安わたる](https://open.spotify.com/artist/5zX3uaSHfsq0uC9GsWBFNX) | [ミスター味っ子 満腹定食 \(オリジナルサウンドトラック\)](https://open.spotify.com/album/3L4NLZL1Fa9C29RoKKmfla) | 3:04 |

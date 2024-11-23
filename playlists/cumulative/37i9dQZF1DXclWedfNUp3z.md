@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-430 songs - 1 day 5 hr 26 min
+431 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Mi Sala](https://open.spotify.com/track/5rkhg6jdycRGfFcM9pECuH) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 2:22 | 2023-10-23 | 2024-02-12 |
 | [Mira Et Ten](https://open.spotify.com/track/3Hs7d8WFLxwZWVb7dzbDVC) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 0:44 | 2021-10-20 | 2022-07-20 |
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2021-10-20 |  |
-| [Moon](https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu) | [Andres Alborok](https://open.spotify.com/artist/7zkqJ8J6yAlrBzDwbIMEEB), [Lamat 8](https://open.spotify.com/artist/6SCo5wTXf6Zab3LG4QZ1fW) | [Moon](https://open.spotify.com/album/17K33CjV7hiOzERXPhyshv) | 4:41 | 2022-03-30 |  |
+| [Moon](https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu) | [Andres Alborok](https://open.spotify.com/artist/7zkqJ8J6yAlrBzDwbIMEEB), [Lamat 8](https://open.spotify.com/artist/6SCo5wTXf6Zab3LG4QZ1fW) | [Moon](https://open.spotify.com/album/17K33CjV7hiOzERXPhyshv) | 4:41 | 2022-03-30 | 2024-11-23 |
 | [Moondust](https://open.spotify.com/track/07iYIlLUadhc2BDCoSck5W) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Moondust](https://open.spotify.com/album/2KsPxlCq5ohM8mBQfaJyvy) | 2:13 | 2022-01-20 | 2022-07-17 |
 | [Moonlit Whispers](https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Whispering Ln](https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951) | 5:20 | 2024-08-16 | 2024-11-04 |
 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 | 2022-05-18 | 2023-10-03 |
@@ -284,6 +284,7 @@
 | [Perspex](https://open.spotify.com/track/5dQN5ayZKt9QEwTDCQhVXv) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:02 | 2022-11-12 | 2023-07-12 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3) | 11:18 | 2021-10-20 | 2024-01-05 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2021-10-20 | 2022-12-13 |
+| [PHANTOM BRICKWORKS VI](https://open.spotify.com/track/6sK7W3ud44yoIjkyu0SPO0) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 10:07 | 2024-11-22 |  |
 | [Photosynesthesia](https://open.spotify.com/track/0Re28d5ry1y6p7QV2KQB1z) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:54 | 2021-10-20 |  |
 | [Piano Improvisation No\. 7](https://open.spotify.com/track/5IqFZqj0rKubZoznHlENuG) | [Ángel Sánchez Bórges](https://open.spotify.com/artist/634XXXVQvyWqM5K0IwREcq), [Antiguo Automata Mexicano](https://open.spotify.com/artist/1DrRtaVEJaulXd9SelnyTh) | [Piano Improvisation No\. 7](https://open.spotify.com/album/4uYBcgokGD0f8ZCHzoHpyW) | 2:51 | 2021-10-20 | 2022-07-20 |
 | [Piedras Encantadas](https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 2:58 | 2021-10-20 | 2023-04-06 |

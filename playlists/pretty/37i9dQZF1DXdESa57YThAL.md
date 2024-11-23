@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,272 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,289 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 | 13 | [継承の唄](https://open.spotify.com/track/2oLOXEzFIS5z9BC8q4mJGV) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [継承の唄](https://open.spotify.com/album/4QVq2tbFIGhGxFcNRHSoT4) | 5:11 |
 | 14 | [祈りの唄](https://open.spotify.com/track/1bdukq5Iu0S63kxAz5sAaU) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [祈りの唄](https://open.spotify.com/album/69GvKOEbjLN0SPQIxw3py0) | 4:29 |
 | 15 | [遠くの子守の唄](https://open.spotify.com/track/3iRm4NjmMKO9JUie6UT00e) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [遠くの子守の唄](https://open.spotify.com/album/0dAXys6ZmPRNQ49uKj3xMu) | 4:17 |
-| 16 | [旅人の唄\~帰郷\~](https://open.spotify.com/track/3clo8z3o9pLpjWXxMtFqpa) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [旅人の唄\~帰郷\~](https://open.spotify.com/album/4Ts6IZl29i6H48858Fu19u) | 4:43 |
+| 16 | [旅人の唄～帰郷～](https://open.spotify.com/track/3clo8z3o9pLpjWXxMtFqpa) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [旅人の唄～帰郷～](https://open.spotify.com/album/4Ts6IZl29i6H48858Fu19u) | 4:43 |
 | 17 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 |
 | 18 | [風と行く道](https://open.spotify.com/track/28A3XZwUvTS7dex8SPwIIW) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風と行く道](https://open.spotify.com/album/10Q04SBLiMQnpnA9xG5tkz) | 5:00 |
 | 19 | [魔術の授業](https://open.spotify.com/track/5iVeLIR31mGTaL09tdvXVr) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:54 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 | 28 | [剣術指導](https://open.spotify.com/track/4vXEowCkl8qFMDuMBETvfy) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:00 |
 | 29 | [5年後の約束!](https://open.spotify.com/track/70WvqyD7O8zcDw63kbquxm) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:46 |
 | 30 | [大切な仲間](https://open.spotify.com/track/4P3mtFtQLMp7u4mSDoTHbq) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:02 |
-| 31 | [冒険](https://open.spotify.com/track/25oxTC4Cy4g7Q0hsLgJEDc) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:21 |
-| 32 | [ギレーヌのこと](https://open.spotify.com/track/7opbymX6r3IqDsgF05HFwE) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:16 |
-| 33 | [慰め](https://open.spotify.com/track/13V8LUhoCK4UdSwlaCHhds) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:23 |
-| 34 | [待ってる](https://open.spotify.com/track/3ROSPXyb83VrxKVZWr7I4x) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:33 |
-| 35 | [圧倒的力との遭遇](https://open.spotify.com/track/5HokGgTcX9GiwTb9Z4IUcX) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 3:16 |
+| 31 | [冒険](https://open.spotify.com/track/25oxTC4Cy4g7Q0hsLgJEDc) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:21 |
+| 32 | [ギレーヌのこと](https://open.spotify.com/track/7opbymX6r3IqDsgF05HFwE) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:16 |
+| 33 | [慰め](https://open.spotify.com/track/13V8LUhoCK4UdSwlaCHhds) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:23 |
+| 34 | [待ってる](https://open.spotify.com/track/3ROSPXyb83VrxKVZWr7I4x) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 2:33 |
+| 35 | [圧倒的力との遭遇](https://open.spotify.com/track/5HokGgTcX9GiwTb9Z4IUcX) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 オリジナル・サウンドトラック2](https://open.spotify.com/album/2uSX1DITgDuFtdmJHMKPnb) | 3:16 |
 | 36 | [無詠唱魔術](https://open.spotify.com/track/1OvyIyFXiPf0bLj1qdObtt) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:32 |
 | 37 | [アリエルの言葉](https://open.spotify.com/track/2oKkU1W31f4KrF0kN6ORFR) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 1:59 |
 | 38 | [凛として](https://open.spotify.com/track/4CriRJy0LdJdzr4Kt47DoX) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:22 |

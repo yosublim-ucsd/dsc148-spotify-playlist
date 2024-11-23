@@ -1495,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "Colors (Feat. Nic Hanson)",
+        "url": "https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Colors (Feat. Nic Hanson)",
+      "url": "https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw"
+    },
+    {
+      "album": {
         "name": "Come and Get It - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb"
       },
@@ -3776,7 +3798,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187003,
       "name": "Honey Imastar",
       "url": "https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5"

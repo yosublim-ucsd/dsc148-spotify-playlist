@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,569 likes - 104 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,602 likes - 104 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 24 | [みんなのうた](https://open.spotify.com/track/7LereEsMqMJzSNfmKZZvKE) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [みんなのうた](https://open.spotify.com/album/67kqLzZDNLjeyTWrpmO3pb) | 4:18 |
 | 25 | [あなただけを \~Summer Heartbreak\~](https://open.spotify.com/track/1lEcNMnqk05TMXxLnVCwe1) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [あなただけを \~Summer Heartbreak\~](https://open.spotify.com/album/2WUhddTMlfQ1uHzOP14aOa) | 5:15 |
 | 26 | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/track/3AW6V9Xcq9IeOzSCjWA7EA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/album/5ooWZW26JBhu9rrSczdJ59) | 4:45 |
-| 27 | [逢いたくなった時に 君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 |
+| 27 | [逢いたくなった時に　君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 |
 | 28 | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/track/1QGfRnNztw3SKr8Kx8Qw1M) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/album/0ifpETJ4tDC49s3EhHrEe3) | 3:57 |
 | 29 | [匂艶 THE NIGHT CLUB](https://open.spotify.com/track/09MsYVn3pSSCFPZQXDwHLF) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [匂艶\(にじいろ\) THE NIGHT CLUB](https://open.spotify.com/album/7Bs11VdTj0SxEFlI3UQMG2) | 4:11 |
 | 30 | [雨上がりにもう一度キスをして](https://open.spotify.com/track/0NV1bxew5vvW1iX0RdjZA1) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:16 |

@@ -1,12 +1,12 @@
 {
   "description": "featuring new music from Babymorocco & Frost Children",
-  "num_followers": 465012,
+  "num_followers": 465029,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy5e3gAAAACSIlLa7ooKmP/+tIfkjD66",
+  "snapshot_id": "Z0CnJAAAAAA9e/Y2sGU8etvUkXTDcZyt",
   "tracks": [
     {
       "added_at": "2024-11-08 18:47:26",
@@ -67,6 +67,22 @@
       "duration_ms": 137165,
       "name": "if u cant change i wont either",
       "url": "https://open.spotify.com/track/3ytrBMN8PMbHeT7VEcvKlv"
+    },
+    {
+      "added_at": "2024-11-22 15:45:40",
+      "album": {
+        "name": "song for when the bar closes",
+        "url": "https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 104897,
+      "name": "song for when the bar closes",
+      "url": "https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO"
     },
     {
       "added_at": "2024-11-08 18:47:26",

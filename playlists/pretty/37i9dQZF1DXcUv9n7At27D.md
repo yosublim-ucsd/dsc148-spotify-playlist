@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,720 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,718 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 34 | [Distanced](https://open.spotify.com/track/5eqGoer83zw0xzEpubE5yq) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Distanced](https://open.spotify.com/album/503DZK0JhP10bcQT1BCltY) | 3:10 |
 | 35 | [美しき夕暮れ（チェロとハープ編）](https://open.spotify.com/track/6jNeHhrtL9lPcsQSNWU8so) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR～ドビュッシー＆フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 2:23 |
 | 36 | [Fennel](https://open.spotify.com/track/2e2wZKOWBKMEJ2runWJ4ge) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Fennel](https://open.spotify.com/album/2lBiJ66eSBVuXIopL75qoa) | 2:59 |
-| 37 | [コルドバの午後](https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 4:18 |
+| 37 | [コルドバの午後](https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia～Kiyomizu～](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 4:18 |
 | 38 | [Piano Sonata No\. 17 in D Minor, Op\. 31 No\. 2 "Tempest": II\. Adagio](https://open.spotify.com/track/26p6uHgec5vDmPM8mur2Dc) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Beethoven: Piano Sonatas](https://open.spotify.com/album/0YeC5cmca8EfE3YGfX8L1X) | 8:02 |
 | 39 | [Drawing \- transcription ver.](https://open.spotify.com/track/7g2W5rKkGCv1B4FqlXTVNC) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [Transcription](https://open.spotify.com/album/0QrWidFtuVUPvxl2Mq8tqu) | 3:31 |
 | 40 | [tsuru\-tsuki](https://open.spotify.com/track/272lDV6SxVrgLy4EKRXCLn) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Four Noctunes](https://open.spotify.com/album/6FuZevBn4jc5p0q6GlcUOn) | 13:37 |

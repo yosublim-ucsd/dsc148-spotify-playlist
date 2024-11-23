@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-666 songs - 2 day 3 hr 56 min
+667 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Flowing](https://open.spotify.com/track/3VSye7jZrMaYRpI3EA64Ru) | [evala](https://open.spotify.com/artist/6EewOOOCbXlmonZeSG5bbd) | [Acoustic Bend](https://open.spotify.com/album/5sUHb2FbgLxbpzpDHtgJZg) | 2:20 | 2022-04-07 | 2022-07-10 |
 | [Focus](https://open.spotify.com/track/0nYzTuQYAyHrjLGykDAOYv) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Towako's Diary \(「大豆田とわ子と三人の元夫」オリジナル・サウンドトラック\)](https://open.spotify.com/album/0X41ZR7MGRV5pJfHhdtbo4) | 2:44 | 2022-03-31 | 2022-07-29 |
 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 | 2024-08-09 |  |
+| [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/track/399FYmfl4OxB7WaBtvLSE0) | [Ben Inui](https://open.spotify.com/artist/6nImy4rxQdr49blY4x32hu), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/album/5LZT84DiB70F5EBD07kGCo) | 3:30 | 2024-11-15 |  |
 | [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-29 | 2022-11-18 |
 | [Forgetful Angel](https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/4W16Uthzgh95U97862c8bg) | 2:57 | 2022-09-29 | 2022-10-01 |
 | [Forgotten River](https://open.spotify.com/track/1fXB8yow8kzrhjjwfypL7U) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [More Beautiful Than Silence](https://open.spotify.com/album/0wwDxX0rvd3PhjPzapZUFU) | 4:52 | 2022-03-31 | 2022-07-05 |
@@ -303,7 +304,7 @@
 | [Levitate](https://open.spotify.com/track/7EMteO0dlSLubgeYbTplsO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [made in bebe.](https://open.spotify.com/album/3qD9pj02W8jjatkBXnpLX6) | 4:10 | 2022-04-26 | 2022-07-27 |
 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 | 2024-02-08 | 2024-08-23 |
 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 | 2022-04-07 | 2024-02-09 |
-| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 |  |
+| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 | 2024-11-23 |
 | [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 | 2023-11-24 |
 | [Lipsynch](https://open.spotify.com/track/1FOyi1kvs83OApHPPtPlqv) | [Kazumichi Komatsu](https://open.spotify.com/artist/3yUHV7CvOnKXqZ3D4KB0C9) | [Emboss Star](https://open.spotify.com/album/1M3z7GjsBnhtk1wfIUTK96) | 2:34 | 2022-03-31 | 2022-07-08 |
 | [Little Song at Little Time](https://open.spotify.com/track/42Syy15FClLY4OIb9EW6DV) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Light in August, Later](https://open.spotify.com/album/5DC0TO8peA6IGhux6OMyCz) | 4:41 | 2022-04-07 | 2022-04-19 |

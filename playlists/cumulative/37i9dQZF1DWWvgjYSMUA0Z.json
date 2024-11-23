@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175423,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
+    },
+    {
+      "album": {
         "name": "Bowed Dreams",
         "url": "https://open.spotify.com/album/7LxRLS1b61xDOR8ESPWCFq"
       },
@@ -578,6 +596,24 @@
       "duration_ms": 166200,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh"
+    },
+    {
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4OUvGPlwYygHMD18fFqyxE"
+      },
+      "artists": [
+        {
+          "name": "Restful Minds",
+          "url": "https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/6wyHRwdblNea8of4VdmviM"
     },
     {
       "album": {
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176878,
       "name": "In the Far Away Distance",
       "url": "https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 236374,
       "name": "O\u0308zgu\u0308rlu\u0308k",
       "url": "https://open.spotify.com/track/4qQPBDDn5KAPjxvpYDGNsR"
@@ -2984,6 +3020,24 @@
       "duration_ms": 163444,
       "name": "Perpetuality",
       "url": "https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx"
+    },
+    {
+      "album": {
+        "name": "Petal",
+        "url": "https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI"
+      },
+      "artists": [
+        {
+          "name": "Dhyana",
+          "url": "https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159807,
+      "name": "Petal",
+      "url": "https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe"
     },
     {
       "album": {
@@ -3208,6 +3262,24 @@
       "duration_ms": 153920,
       "name": "Raise Me Up",
       "url": "https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ"
+    },
+    {
+      "album": {
+        "name": "Rare Astra",
+        "url": "https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Rare Astra",
+      "url": "https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3"
     },
     {
       "album": {
@@ -3618,7 +3690,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 142630,
       "name": "Seiza",
       "url": "https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr"
@@ -3690,7 +3762,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 156740,
       "name": "Serene Lake",
       "url": "https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj"
@@ -3888,7 +3960,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 233333,
       "name": "Sol River",
       "url": "https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34"
@@ -4122,7 +4194,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145585,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/2RiekE9sRSvM52bkY6A4Dc"
@@ -4140,10 +4212,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 140829,
       "name": "Stills",
       "url": "https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz"
+    },
+    {
+      "album": {
+        "name": "Sun Is Rising",
+        "url": "https://open.spotify.com/album/1pciN6j0Ex2w26il7GGxcl"
+      },
+      "artists": [
+        {
+          "name": "Ellisar Dalana",
+          "url": "https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sun Is Rising",
+      "url": "https://open.spotify.com/track/3a2cOAm7IIpbzzAZDTSego"
     },
     {
       "album": {
@@ -4320,7 +4410,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 226666,
       "name": "The Last Raindrop",
       "url": "https://open.spotify.com/track/122nfGTV3hCL0xchNbtbgH"
@@ -4356,7 +4446,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 364043,
       "name": "The Note of Comfort",
       "url": "https://open.spotify.com/track/6ewCIo6kSfhMivU6EtAzpg"
@@ -4896,7 +4986,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"

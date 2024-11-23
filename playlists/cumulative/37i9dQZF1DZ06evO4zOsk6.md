@@ -4,7 +4,7 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 6 min
+54 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [No Voy a Verte Más](https://open.spotify.com/track/5ILyT6kcx0NpBp7QTGWvml) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:50 | 2023-08-25 |  |
 | [Octubre](https://open.spotify.com/track/3KlpVNhI3ofN0i4qYQp0Ss) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:43 | 2023-08-25 |  |
 | [Ojos de Ángel](https://open.spotify.com/track/3ucX0vTy8Zy95OwalNgu4D) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 2:50 | 2023-08-25 |  |
-| [Pero Aún Sigo Viéndote](https://open.spotify.com/track/5rkxLIdDPy22cbs0NJZLLd) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 4:24 | 2023-08-25 |  |
+| [Pero Aún Sigo Viéndote](https://open.spotify.com/track/5qvGPVVa2uEGUNMFy3GSND) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 4:24 | 2024-11-23 |  |
+| [Pero Aún Sigo Viéndote](https://open.spotify.com/track/5rkxLIdDPy22cbs0NJZLLd) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 4:24 | 2023-08-25 | 2024-11-23 |
 | [Por Si Tratas de Volver](https://open.spotify.com/track/23dmsItzqhsXLssh6bquTZ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Por Si Tratas de Volver](https://open.spotify.com/album/3o4o40CkLE2l3QtuILhAWn) | 4:38 | 2023-08-25 |  |
 | [Respirando](https://open.spotify.com/track/2l3qedm1MaxGzFC9CmYXXx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 2:54 | 2023-08-25 |  |
 | [Salvaciones \(En Vivo\)](https://open.spotify.com/track/2Mkc4hDegyejz9zobFxXkr) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 3:36 | 2023-08-25 |  |

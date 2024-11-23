@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-183 songs - 8 hr 43 min
+185 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 | 2022-11-08 |  |
 | [Faith in You](https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Faith in You](https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW) | 3:18 | 2022-08-05 | 2022-11-09 |
 | [Fantasía for Cello and Orchestra](https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Fantasía for Cello and Orchestra](https://open.spotify.com/album/03AwBwflLN1q8y6DtuL0oz) | 4:01 | 2024-11-15 |  |
+| [Farewell](https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z) | [Johannes Lehniger](https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8), [Sebastian Damerius](https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Empress: II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2) | 3:02 | 2024-11-22 |  |
 | [Feast of Starlight](https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 2:48 | 2022-11-08 | 2024-04-19 |
 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 | 2023-12-21 |  |
 | [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 | 2024-10-21 |  |
@@ -123,6 +124,7 @@
 | [Opening Titles](https://open.spotify.com/track/6eX3c7lUFeXAX0CFWOkLAB) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [The Chronicles of Narnia: The Voyage of the Dawn Treader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L2WN9LAyXX4ESG8BcDmPc) | 1:07 | 2022-11-08 |  |
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-03-09 | 2022-11-09 |
 | [Path Solo](https://open.spotify.com/track/79QLJF7s9rE7M5QX5vtixF) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Richter: Path Solo](https://open.spotify.com/album/0Nzs77VFhfpiIzPrxOl8UY) | 4:10 | 2024-11-15 |  |
+| [Pathos](https://open.spotify.com/track/3xtZEGTqd4vlcVZn9XP7uI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos](https://open.spotify.com/album/4DmcATr0IItDrDAbccsrvZ) | 7:06 | 2024-11-22 |  |
 | [Peter \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/5yrUw3CtVT8BQuhsDdniW1) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 2:20 | 2022-11-08 |  |
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 | 2022-11-09 |
 | [Première Lumière](https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Première Lumière](https://open.spotify.com/album/637ZAa38xb2KJ4oWPy4goX) | 2:38 | 2022-03-09 | 2022-11-09 |

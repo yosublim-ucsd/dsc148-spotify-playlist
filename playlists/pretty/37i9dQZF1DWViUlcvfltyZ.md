@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Mondaze in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,466 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,482 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 10 | [Not a Song for U](https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL) | [Hardcore Tamburo](https://open.spotify.com/artist/7LQPw5C8KFKcwO9g6XWCBH) | [Not a Song for U](https://open.spotify.com/album/5DrQcWGXrSFuuJaO78DVn8) | 4:26 |
 | 11 | [Come sbagliare di meno](https://open.spotify.com/track/42lOfUFZyMM2tOknHWnR5B) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Come sbagliare di meno](https://open.spotify.com/album/1BOczgJCqmQVGc1pTXhRHa) | 2:22 |
 | 12 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 |
-| 13 | [Shoegera](https://open.spotify.com/track/3YjNJ9TA70c6nSS6tQso1C) | [Taistoi](https://open.spotify.com/artist/0DLA2Quu9XLc0ivFIHhihF) | [Shoegera](https://open.spotify.com/album/04geTYlId05kqq8VN7oPcp) | 2:01 |
+| 13 | [Shoeghera](https://open.spotify.com/track/3YjNJ9TA70c6nSS6tQso1C) | [Taistoi](https://open.spotify.com/artist/0DLA2Quu9XLc0ivFIHhihF) | [Shoeghera](https://open.spotify.com/album/04geTYlId05kqq8VN7oPcp) | 2:01 |
 | 14 | [Piramide](https://open.spotify.com/track/5gTJGgKeFbcJvaqmZXMdpS) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Piramide](https://open.spotify.com/album/0FqLMTGIFn0kwNa26mMaF0) | 3:40 |
 | 15 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
 | 16 | [gloom](https://open.spotify.com/track/3LDN8d2SzarrAJCm9swqT6) | [PUNKCAKE](https://open.spotify.com/artist/6APLj5QmyOtIOVG15SETvR) | [gloom](https://open.spotify.com/album/6kXcjTkSNRrisC8C5QSmUO) | 1:57 |

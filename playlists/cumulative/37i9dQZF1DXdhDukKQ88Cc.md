@@ -2,7 +2,7 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe 💎 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> 💎
+> dk rap og den vibe 🌪️ <a href="spotify:artist:09Tr5rMM8oP3lN24JOnBW9">Bellyyy</a>🌪️
 
 259 songs - 11 hr 8 min
 

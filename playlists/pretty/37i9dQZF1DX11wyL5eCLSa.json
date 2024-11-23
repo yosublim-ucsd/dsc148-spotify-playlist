@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Reyno en Portada. ",
-  "num_followers": 169747,
+  "num_followers": 169765,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbjYAAAAACm51NULhJ9exxkAby8R8h+",
+  "snapshot_id": "Z0CsxwAAAAA3JTXPB81MMvgEgjNUFWXy",
   "tracks": [
     {
       "added_at": "2024-11-15 06:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 232360,
       "name": "Metamorfosis",
       "url": "https://open.spotify.com/track/4gWdo9SrB6B28NwOme0HLZ"
+    },
+    {
+      "added_at": "2024-11-22 16:09:43",
+      "album": {
+        "name": "Esta noche",
+        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 276613,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
     },
     {
       "added_at": "2024-11-15 06:00:00",

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-262 songs - 13 hr 29 min
+263 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I'm Outta Love \- Acoustic](https://open.spotify.com/track/5jUYDbQYp5rkU9f10EK0KX) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I'm Outta Love \(Acoustic\)](https://open.spotify.com/album/1CaneGSTgnqGrGAKDj5SVd) | 2:45 | 2024-03-08 |  |
 | [I'm Still Standing \- Acoustic](https://open.spotify.com/track/58qyn3EztQitvZIOhE8u66) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm Still Standing \(Acoustic\)](https://open.spotify.com/album/42X06RmupweTB9QHr0coFa) | 2:28 | 2024-01-12 | 2024-02-10 |
 | [I'm Still Standing \- Acoustic](https://open.spotify.com/track/69gLcsa9KD5AHqktD1HLp7) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [I'm Still Standing \(Acoustic\)](https://open.spotify.com/album/4l062jVe6A8bkpdlbxpLmM) | 2:56 | 2024-03-08 |  |
+| [I'm Yours \- Acoustic](https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [I'm Yours \(Acoustic\)](https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh) | 2:22 | 2024-11-22 |  |
 | [In Too Deep \- Acoustic](https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [In Too Deep \(Acoustic\)](https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7) | 2:19 | 2024-07-26 |  |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |
 | [Iris \- Acoustic](https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Iris \(Acoustic\)](https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU) | 3:02 | 2023-08-21 | 2023-12-16 |

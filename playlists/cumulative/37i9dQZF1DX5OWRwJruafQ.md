@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-515 songs - 1 day 0 hr 36 min
+516 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Jazbaat](https://open.spotify.com/track/1U0u9WZIshSJoUxxtBfdat) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Jazbaat](https://open.spotify.com/album/64qpkJf1ndfxiSDXpykzxi) | 3:37 | 2024-10-03 | 2024-10-23 |
 | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/track/1KmyApvwFh2hlka9tRtOAQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ) | 3:22 | 2023-06-13 | 2023-11-08 |
 | [Jhoonte](https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Jhoonte](https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT) | 2:30 | 2023-04-03 | 2023-04-21 |
+| [Jigre](https://open.spotify.com/track/6su3PzBYLu6375XwUf9xry) | [Armaan Bhullar](https://open.spotify.com/artist/6g24MQXt7eR4oVKsMTNcT3), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK), [Jot Virk](https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2) | [Jigre](https://open.spotify.com/album/0JN8QajFGk8WVXz7viZ4Fl) | 2:38 | 2024-11-22 |  |
 | [Jithon Marji Puchli](https://open.spotify.com/track/3CUCtrH1gxtvdlHVBoS2A2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Luxury](https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle) | 4:23 | 2023-06-13 | 2023-09-30 |
 | [JOURNEY](https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:54 | 2023-07-31 | 2024-04-19 |
 | [JOURNEY](https://open.spotify.com/track/1SYgmpUc80vRIXbxEzVLBi) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg) | 2:54 | 2024-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 
 > <a href="https://cityhunter\-movie.com/">劇場版シティーハンター</a>公開記念！20年の時を経て、伝説のアニメの記憶がプレイリストで甦る！\(C\)T.HOJO/N,C
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,525 likes - 42 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,529 likes - 42 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 | 11 | [WHAT'S GOIN' ON](https://open.spotify.com/track/1XYMr2lY1fLFLHqxaIfBji) | [Kahoru Kohiruimaki](https://open.spotify.com/artist/25AlSzLodlCYZrjU8je4pJ) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 4:23 |
 | 12 | [PARTY DOWN](https://open.spotify.com/track/1KRhfXaMNw8xXTwxr9wKIa) | [北代 桃子](https://open.spotify.com/artist/5KbLZKIR9fwiImSxaRTMwA) | [劇場版シティーハンター <新宿プライベート・アイズ> \-VOCAL COLLECTION\-](https://open.spotify.com/album/3MNeZoUXNN07LB4pmhZihs) | 3:49 |
 | 13 | [EARTH ～木の上の方舟～](https://open.spotify.com/track/6PAWnGlv9eSOODnrjcr2xN) | [PSY・S［saiz］](https://open.spotify.com/artist/3zntsh5zPf73xyMnRi91jv) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 5:26 |
-| 14 | [MR\. PRIVATE EYE](https://open.spotify.com/track/6Oxp299H95S4xI1pOi1QWM) | [大滝裕子](https://open.spotify.com/artist/1Y6DkPD9DKboG8xOhWJCcD) | [CITY HUNTER オリジナル・アニメーション・サウンドトラック](https://open.spotify.com/album/37Woao10XemGw8a4f1CHi4) | 4:51 |
-| 15 | [ROCK MY LOVE](https://open.spotify.com/track/3czltHuQYYiJMG8usFLptR) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [シティーハンター ベイシティウォーズ/百万ドルの陰謀 オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:31 |
-| 16 | [TAKE ME BACK](https://open.spotify.com/track/55exBTn9jce9ykw0gPUma6) | [中村裕介](https://open.spotify.com/artist/4g4IJ7koDD6qgyWKnlesDp), [山内洋子](https://open.spotify.com/artist/2AtrgNxUQXGvtGG50sgpCt), [神谷明](https://open.spotify.com/artist/0ocRgIUPDNvdGxV862qx3R) | [シティーハンター ベイシティウォーズ/百万ドルの陰謀 オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:10 |
-| 17 | [MORE MORE しあわせ](https://open.spotify.com/track/0q2ZX2SQlPUqaSzlbGw8HY) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [シティーハンター ベイシティウォーズ/百万ドルの陰謀 オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:58 |
+| 14 | [MR\. PRIVATE EYE](https://open.spotify.com/track/6Oxp299H95S4xI1pOi1QWM) | [大滝裕子](https://open.spotify.com/artist/1Y6DkPD9DKboG8xOhWJCcD) | [CITY HUNTER　オリジナル・アニメーション・サウンドトラック](https://open.spotify.com/album/37Woao10XemGw8a4f1CHi4) | 4:51 |
+| 15 | [ROCK MY LOVE](https://open.spotify.com/track/3czltHuQYYiJMG8usFLptR) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [シティーハンター ベイシティウォーズ／百万ドルの陰謀　オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:31 |
+| 16 | [TAKE ME BACK](https://open.spotify.com/track/55exBTn9jce9ykw0gPUma6) | [中村裕介](https://open.spotify.com/artist/4g4IJ7koDD6qgyWKnlesDp), [山内洋子](https://open.spotify.com/artist/2AtrgNxUQXGvtGG50sgpCt), [神谷明](https://open.spotify.com/artist/0ocRgIUPDNvdGxV862qx3R) | [シティーハンター ベイシティウォーズ／百万ドルの陰謀　オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:10 |
+| 17 | [MORE MORE しあわせ](https://open.spotify.com/track/0q2ZX2SQlPUqaSzlbGw8HY) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [シティーハンター ベイシティウォーズ／百万ドルの陰謀　オリジナルサウンドトラック](https://open.spotify.com/album/1i8Y9NhPsPYpMHiV39hZO8) | 4:58 |
 | 18 | [illusion city](https://open.spotify.com/track/26e5xlYIKRjuUfJnLUFj89) | [SEX MACHINEGUNS](https://open.spotify.com/artist/7ryhULNX7RLDr2sAwJa2wO) | [みかんのうた，ＩＬＬＵＳＩＯＮ　ＣＩＴＹ](https://open.spotify.com/album/5AzmF52uUCtyndmbquqC3C) | 3:44 |
 | 19 | [FOREVER IN MY HEART](https://open.spotify.com/track/7nTuilAnKwXQvQV2Ds0v0H) | [KIRSTEN STEINHAUER](https://open.spotify.com/artist/5JVoXAtXvsPN4uTAjYiq8E) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 5:24 |
 | 20 | [GIVE ME YOUR LOVE TONIGHT](https://open.spotify.com/track/6mkIMcHBXKco3TDDDITurY) | [Kiyomi Suzuki](https://open.spotify.com/artist/6NfGvkKjc6XuhjRNP5lACn) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 5:50 |

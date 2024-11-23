@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6758,
+  "num_followers": 6764,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAD2+bKyTRkvCutuTZGk7sNL",
+  "snapshot_id": "Zz54AAAAAAByl9udIs66L//df9qBA5qU",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "E.P.A.M.",
-      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "E.P.A.M.",
+      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 136624,
       "name": "Trem Bala",
       "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,
@@ -464,33 +464,25 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Dorly",
-          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Malvatrem",
-      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
+        },
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "Baby Perigosa",
+          "url": "https://open.spotify.com/artist/7jegLlnaC9LdWEhxYJUvzH"
         }
       ],
-      "duration_ms": 140108,
-      "name": "Eu Gosto",
-      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
+      "duration_ms": 170961,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/63emOzAQmK9uZCXtCQjf8y"
     },
     {
       "added_at": null,
@@ -515,6 +507,22 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
     },
     {
       "added_at": null,
@@ -556,41 +564,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "Baby Perigosa",
-          "url": "https://open.spotify.com/artist/7jegLlnaC9LdWEhxYJUvzH"
         }
       ],
-      "duration_ms": 170961,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/63emOzAQmK9uZCXtCQjf8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+      "duration_ms": 109500,
+      "name": "Malvatrem",
+      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 195600,
       "name": "Novinho",
       "url": "https://open.spotify.com/track/4Sb6JzypvlH5V8DBQ6alMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 140108,
+      "name": "Eu Gosto",
+      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "Cruzadas",
-      "url": "https://open.spotify.com/track/1aCV3ELeetm1pgdSOiDoeO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147428,
       "name": "Rainha do Vinho",
       "url": "https://open.spotify.com/track/6LxX60FmC112LphNhmprc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "Cruzadas",
+      "url": "https://open.spotify.com/track/1aCV3ELeetm1pgdSOiDoeO"
     },
     {
       "added_at": null,

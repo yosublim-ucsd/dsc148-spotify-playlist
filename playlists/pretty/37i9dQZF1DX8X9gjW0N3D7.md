@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,830 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,843 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Croire en nous](https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Science humaine](https://open.spotify.com/album/0chebHv4zEUnUwycIJEfgD) | 3:30 |
 | 2 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 |
 | 3 | [Ensemble](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 |
-| 4 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 |
-| 5 | [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 |
+| 4 | [Toutes tes idoles](https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Toutes tes idoles](https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2) | 3:53 |
+| 5 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 |
 | 6 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 |
 | 7 | [La plus belle fille du moshpit](https://open.spotify.com/track/3Lsgo4IPjVYp6jh93y473Y) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La plus belle fille du moshpit](https://open.spotify.com/album/0prLo3kYXuKpH1JavYa0Vz) | 4:24 |
-| 8 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
-| 9 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
-| 10 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 |
-| 11 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 |
+| 8 | [Ses dents](https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:47 |
+| 9 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
+| 10 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
+| 11 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 |
 | 12 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 |
 | 13 | [Le poids](https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Le poids](https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U) | 3:14 |
 | 14 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 |
 | 75 | [Tout passe](https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Quatorze](https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m) | 2:58 |
 
-Snapshot ID: `ZzbVUAAAAACWoybQO+onj7ho9PCi/gu3`
+Snapshot ID: `Z0AP0AAAAAAb1CNWeelz7DdmFfAYsj+R`

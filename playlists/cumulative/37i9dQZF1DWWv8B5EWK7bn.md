@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-436 songs - 1 day 6 hr 50 min
+437 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 | 2024-08-23 |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2021-10-06 | 2024-04-19 |
 | [Dreams](https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:28 | 2023-01-20 | 2023-03-18 |
+| [Dry](https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Triple Fire](https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3) | 3:37 | 2024-11-22 |  |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-06 | 2022-11-13 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-06 | 2023-06-27 |
@@ -136,7 +137,7 @@
 | [Frozen Warnings](https://open.spotify.com/track/5gRCeSo5sdTDHRm2zjpOEZ) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Marble Index](https://open.spotify.com/album/48KVIwAePhzIDqv2pURFMY) | 4:02 | 2023-01-20 | 2023-03-18 |
 | [fuck yeah no please](https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [fuck yeah no please](https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc) | 2:25 | 2022-08-13 | 2022-09-12 |
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
-| [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm) | 4:17 | 2024-04-22 |  |
+| [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm) | 4:17 | 2024-04-22 | 2024-11-23 |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 | 2023-06-06 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-11 | 2024-03-22 |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |

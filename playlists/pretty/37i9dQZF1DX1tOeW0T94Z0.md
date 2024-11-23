@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Jelleestone
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Saukrates
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,412 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,422 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Give It To Me Right](https://open.spotify.com/track/51nhSIsg5G8hjhV4kja0Oz) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 3:43 |
-| 2 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
-| 3 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
-| 4 | [On The Run](https://open.spotify.com/track/0L906KB21EDCWVhveBemQo) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Season One](https://open.spotify.com/album/0oAHKqv561o1eSW4FSmLWz) | 3:09 |
+| 1 | [Comin Up](https://open.spotify.com/track/17gvIpJ9JeDAvqfe1bc4kS) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Comin Up](https://open.spotify.com/album/4ak746PyFi4ln7iv87W1pT) | 3:50 |
+| 2 | [Give It To Me Right](https://open.spotify.com/track/51nhSIsg5G8hjhV4kja0Oz) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 3:43 |
+| 3 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
+| 4 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
 | 5 | [Fakin' The Funk \- Sound Track Version](https://open.spotify.com/track/3Z3H0nC21PLinRbUbJlMGN) | [Main Source](https://open.spotify.com/artist/0zi2OowIfzNqUQiuUVyGLs) | [The Science](https://open.spotify.com/album/2ghPaVly0Hh1w1bEjH0IXF) | 3:40 |
 | 6 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
 | 7 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 59 | [Ninety Nine \(Flash the Message\)](https://open.spotify.com/track/1shRBEykFXAQFgnAF02nZ7) | [John Forte](https://open.spotify.com/artist/1damanY48OjG8KZHLdsSNo) | [Poly Sci](https://open.spotify.com/album/7qoINiypl437qPXXGjykGe) | 3:43 |
 | 60 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 |
 
-Snapshot ID: `ZzPlhgAAAACxAWgqcB+KBFA68iNKOfU/`
+Snapshot ID: `Z0AP0AAAAAAOFIXMA/j1SSWCccOoDG9U`

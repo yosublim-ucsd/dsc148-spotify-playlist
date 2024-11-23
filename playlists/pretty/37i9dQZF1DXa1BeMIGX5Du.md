@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,002 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,107 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 42 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 |
 | 43 | [Blue Dreams](https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Blue Dreams](https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV) | 4:28 |
 | 44 | [Smokescreen \(Shadow King\)](https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Smokescreen \(Shadow King\)](https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U) | 3:29 |
-| 45 | [Wasting Your Love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Wasting Your Love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
+| 45 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
 | 46 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 |
 | 47 | [Muse and Musician](https://open.spotify.com/track/6WmWETQGodNfVUEJhLgbJD) | [Just Janie](https://open.spotify.com/artist/31PqvQpFzvCQdmVABjU2kF) | [Muse and Musician](https://open.spotify.com/album/2X1M6QpwCdHWvnOzE1GSai) | 3:41 |
 | 48 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 |

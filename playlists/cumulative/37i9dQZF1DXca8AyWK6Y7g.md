@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Your new favorite pop star ⭐ cover: Kenzie Cait
+> Your new favorite pop star ⭐ cover: Mercer Henderson
 
-2,248 songs - 4 day 17 hr 7 min
+2,250 songs - 4 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,8 +287,9 @@
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-02-15 | 2022-01-08 |
 | [Bubble Braids](https://open.spotify.com/track/0sNYL7VlSHoyMq9hw9eQSo) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Bubble Braids](https://open.spotify.com/album/3yybBVzoxYaUWu5mto0jjs) | 2:34 | 2023-06-30 | 2023-07-02 |
 | [bug](https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [bug](https://open.spotify.com/album/7v6BsEI6lQeLqzGXsI4Wjs) | 2:22 | 2023-10-20 | 2023-11-11 |
+| [Bulldozer](https://open.spotify.com/track/6brAdlfcmGeb3lhrTnTyct) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy \(Queen Edition\)](https://open.spotify.com/album/1SzLeWwWjyqYukZSohGLNj) | 2:53 | 2024-11-22 |  |
 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2022-08-12 | 2022-09-17 |
-| [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-16 |  |
+| [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-16 | 2024-11-23 |
 | [Burn](https://open.spotify.com/track/0fK8FLKlFMNkTzIng9EQmI) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Burn](https://open.spotify.com/album/5KcuOcXkmO0zv1n7rkAQIs) | 3:13 | 2019-05-26\* | 2019-06-15 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-07-31 |
 | [Burning Up](https://open.spotify.com/track/1PMEK2UidGM6vR7ZvEqXQR) | [Harlo](https://open.spotify.com/artist/2BTTRieaquJC8M6b3WdsT5), [Holden Le Dinh](https://open.spotify.com/artist/5ip0l0E25zziwqZdOO1guY), [MP Crown](https://open.spotify.com/artist/1cUYtVsz3BxrGyDnN7ifnb) | [Burning Up](https://open.spotify.com/album/6WTMNU1vgcCD2fJMex0B2k) | 3:40 | 2019-05-26\* | 2020-04-16 |
@@ -398,7 +399,7 @@
 | [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 | 2022-09-23 | 2023-07-01 |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2021-11-26 | 2022-06-07 |
 | [Comedown](https://open.spotify.com/track/33JmBA77g0BCoNGh5CzY4X) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Comedown](https://open.spotify.com/album/12KjVdfkbYlSmTyBQ6rXKY) | 2:38 | 2024-06-28 | 2024-09-13 |
-| [Coming Of Age](https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:40 | 2024-02-28 | 2024-11-18 |
+| [Coming Of Age](https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:40 | 2024-02-28 |  |
 | [Comingback \- Single Version](https://open.spotify.com/track/5gw6D0cBSEBGlv68liOrne) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Comingback](https://open.spotify.com/album/0EszwSv58sj1RPucFPI9Xa) | 3:36 | 2021-07-31 | 2021-10-16 |
 | [Conceited](https://open.spotify.com/track/0uDI12DDNM6PVH1DpdokNk) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Conceited](https://open.spotify.com/album/5w9x6Z7BQQ6wbqE7AwFVl1) | 2:01 | 2021-02-28 | 2021-11-19 |
 | [Concrete](https://open.spotify.com/track/0IX0wJhC4YKzQIluzeaIgY) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Concrete](https://open.spotify.com/album/5u9QWNmLMfopDTmAPLLaRs) | 3:19 | 2024-08-30 | 2024-11-16 |
@@ -475,7 +476,7 @@
 | [dancinwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 | 2023-11-10 | 2024-01-05 |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-08-06 |
 | [Danger](https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Danger](https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj) | 2:55 | 2022-10-28 | 2022-11-12 |
-| [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-18 |  |
+| [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-18 | 2024-11-23 |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-01-26 | 2024-05-11 |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-02-25 | 2022-03-26 |
 | [Date Your Dad](https://open.spotify.com/track/0ZkkZYLcjdPv2XnJtfGRzL) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Date Your Dad](https://open.spotify.com/album/4zuYtVKxNBcifjGC1z7pEZ) | 2:16 | 2023-05-12 | 2023-10-10 |
@@ -1112,6 +1113,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-20 | 2022-01-08 |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-05-06 | 2022-07-29 |
 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2022-11-25 | 2023-01-21 |
+| [Kissing A Ghost](https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Kissing A Ghost](https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es) | 3:19 | 2024-11-22 |  |
 | [Know This Love \(feat\. Litens\)](https://open.spotify.com/track/5miQGFoYZPv5JCNzSoEbWt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Litens](https://open.spotify.com/artist/2UPXaOMAUoDejs8gwvElii) | [Know This Love \(feat\. Litens\)](https://open.spotify.com/album/1qMYj1vvj1qspuBqUmP33o) | 3:45 | 2019-05-26\* | 2019-08-13 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2020-06-12 | 2021-03-22 |
 | [LA COMBI VERSACE \(feat\. Tokischa\)](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2022-03-18 | 2022-04-21 |
@@ -2012,7 +2014,7 @@
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-03 | 2024-02-29 |
 | [There's only so much a soul can take](https://open.spotify.com/track/3vkRCANVVZF0aWTL00VvRt) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [There's only so much a soul can take](https://open.spotify.com/album/1gKcySeP1BMTyKnvx1DGOQ) | 2:48 | 2021-04-21 | 2021-10-12 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-04-19 | 2021-11-06 |
-| [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 | 2024-09-06 |  |
+| [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 | 2024-09-06 | 2024-11-23 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-07-14 | 2024-01-05 |
 | [This Is How U Feel](https://open.spotify.com/track/0yeOBIkI3whpk4n223Lpuo) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [This Is How U Feel](https://open.spotify.com/album/0b1qo3QvrVMd8tNdvJutX3) | 3:04 | 2020-04-18 | 2021-04-17 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-15 | 2024-01-05 |

@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqP788tzlGnTwrG4NqiZqbAbo2kYj2",
+  "snapshot_id": "AAAqQVhQZCpOetScW5vJ4wnLYFZeYMuv",
   "tracks": [
     {
       "added_at": "2024-10-28 23:42:32",
@@ -2407,6 +2407,46 @@
       "duration_ms": 174545,
       "name": "it's all happening (feat. Daniel Allan & Evalyn)",
       "url": "https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb"
+    },
+    {
+      "added_at": "2024-11-22 23:24:53",
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP"
+      },
+      "artists": [
+        {
+          "name": "MEDZ",
+          "url": "https://open.spotify.com/artist/61c8McUZCtrU9WOjvFkyiL"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "Wish I Knew",
+      "url": "https://open.spotify.com/track/6xEterOgHQcyiChE5CODKQ"
+    },
+    {
+      "added_at": "2024-11-22 23:25:09",
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "duration_ms": 442868,
+      "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
+      "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     }
   ],
   "unique_name": "Moving Castle Monthly",

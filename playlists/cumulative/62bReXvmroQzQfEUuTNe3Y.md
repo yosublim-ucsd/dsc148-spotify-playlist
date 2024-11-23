@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-455 songs - 1 day 1 hr 39 min
+456 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 | 2021-08-14 | 2021-10-23 |
 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 | 2021-11-11 | 2021-11-27 |
 | [Nightcrawler](https://open.spotify.com/track/5v6eZ0jEqgmffx0qGha0yr) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:17 | 2020-09-13\* | 2021-03-06 |
+| [No Man's Land](https://open.spotify.com/track/6Ugr3Xsm1eeHxliKuEeWaW) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [No Man's Land](https://open.spotify.com/album/1F3K7n1aOOQgxR1Diqcqul) | 2:17 | 2024-11-22 |  |
 | [No One Even Knows My Name](https://open.spotify.com/track/5JoLi0mrYKRxY3hYFhPP7F) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [No One Even Knows My Name](https://open.spotify.com/album/0YIRQTM1wNAl6rdPfswQGt) | 3:41 | 2021-03-06 | 2024-02-24 |
 | [No One Knows My Face \- Radio Edit](https://open.spotify.com/track/2I85TmRz1QB7PNXGPVDsMp) | [Rozell](https://open.spotify.com/artist/4Mk8AFx2Dvp5IrqCSbl8NL), [Sebastian Perez](https://open.spotify.com/artist/13p5aUAH1SN0lorSUOoI7L), [Sir Jeremy Green](https://open.spotify.com/artist/2Lr3HWvErbdYYZFKMiAwU1) | [No One Knows My Face](https://open.spotify.com/album/12F4pDJ7HEoQSsJ4lX2I61) | 2:27 | 2021-10-09 | 2021-10-30 |
 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 | 2020-09-13\* | 2021-03-06 |
@@ -304,7 +305,7 @@
 | [Over The Edge](https://open.spotify.com/track/2CpJixMi6A00UWxzLiHh1Q) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Over The Edge](https://open.spotify.com/album/1pQpnHJS5cHXGgQZgUuMge) | 3:54 | 2024-09-27 |  |
 | [Overdose](https://open.spotify.com/track/3naob59kPRRxTV12jhIU68) | [Pascal Junior](https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w) | [Overdose](https://open.spotify.com/album/46pbfEVTqzFnjIWk1NnHy4) | 5:54 | 2020-09-13\* | 2021-03-06 |
 | [Overthinking](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Overthinking](https://open.spotify.com/album/4WW15b27U7dmRi92xGjtDh) | 2:40 | 2022-02-25 |  |
-| [Pain](https://open.spotify.com/track/7zsjp5WelstlzIIOkLIJQh) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Pain](https://open.spotify.com/album/6oiIQeKfMvVDsAcP6bsTGc) | 2:15 | 2024-09-20 |  |
+| [Pain](https://open.spotify.com/track/7zsjp5WelstlzIIOkLIJQh) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Pain](https://open.spotify.com/album/6oiIQeKfMvVDsAcP6bsTGc) | 2:15 | 2024-09-20 | 2024-11-23 |
 | [Paralyzed](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Paralyzed](https://open.spotify.com/album/2g1R9kNBhCFih34KqUN3J4) | 2:38 | 2021-09-04 | 2021-11-11 |
 | [Particles](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Particles](https://open.spotify.com/album/7wRWEQGKnOdSRvqxRO9uDU) | 3:20 | 2022-09-02 | 2023-02-04 |
 | [Pound Cake](https://open.spotify.com/track/5YamuejZEXkcPMGMy0OPTi) | [DEVI](https://open.spotify.com/artist/0MjRae1b4bhNsm6msUcgaL) | [Pound Cake](https://open.spotify.com/album/1kwFRVRvcOBKyi2NuGEwbp) | 4:14 | 2020-09-13\* | 2021-03-06 |

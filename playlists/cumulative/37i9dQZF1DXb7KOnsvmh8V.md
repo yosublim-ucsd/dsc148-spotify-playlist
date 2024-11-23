@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-162 songs - 8 hr 27 min
+163 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Merry Christmas Everyone \(Snow Is Falling\) \- Acoustic Cover](https://open.spotify.com/track/26YCOq8RYz8Qsx75rWa3kZ) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Acoustic Christmas 2020 \- Xmas Chill Acustic](https://open.spotify.com/album/54KyGOuJWHAWGKUHQHJLUJ) | 2:14 | 2022-09-23 |  |
 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 | 2021-12-17 |  |
 | [Merry Xmas Everybody](https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Merry Xmas Everybody](https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt) | 3:21 | 2021-12-17 | 2023-09-29 |
+| [mistletoe](https://open.spotify.com/track/649zUUkzjAEJ3CeemBeKRZ) | [mellowa](https://open.spotify.com/artist/2F6kCaf55t8Tyf8g4xIoGa) | [mistletoe](https://open.spotify.com/album/2VUu5LnWlpyzhCzpSXKPdK) | 2:36 | 2024-11-22 |  |
 | [Mistletoe And Holly](https://open.spotify.com/track/2hL5cuZFFKQWwNZvxGaUq4) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Mistletoe And Holly](https://open.spotify.com/album/0CFV9ymitdztEb9HcJsGhx) | 1:32 | 2021-12-17 |  |
 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 | 2022-09-23 |  |
 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 | 2022-09-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. : \u05d0\u05d4\u05d5\u05d3 \u05d1\u05e0\u05d0\u05d9",
-  "num_followers": 30806,
+  "num_followers": 30815,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
         "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
         "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 248146,
       "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
-        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
       "artists": [
         {
-          "name": "Aya Korem",
-          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
         }
       ],
-      "duration_ms": 257663,
-      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
-      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
+        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
+      },
+      "artists": [
+        {
+          "name": "Aya Korem",
+          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
+        }
+      ],
+      "duration_ms": 257663,
+      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
+      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
         "name": "Write About You",
         "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 174208,
       "name": "Write About You",
       "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
+        "name": "Goodbye Mary",
+        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Goodbye Mary",
+      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
         "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
         "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "Goodbye Mary",
-        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
-      },
-      "artists": [
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 183331,
-      "name": "Goodbye Mary",
-      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
         "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4"
+        "name": "31",
+        "url": "https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Zizi Trippo",
+          "url": "https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci"
+        },
+        {
+          "name": "\u05d2\u05d9\u05d0\u05d2\u05d9\u05d0",
+          "url": "https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ"
         }
       ],
-      "duration_ms": 175313,
-      "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5"
+      "duration_ms": 197866,
+      "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

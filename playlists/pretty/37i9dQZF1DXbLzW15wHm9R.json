@@ -1,13 +1,129 @@
 {
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Anora",
-  "num_followers": 157510,
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Wicked",
+  "num_followers": 157513,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzP/vQAAAAByMkMwCA9sKGDlS8jpQzFc",
+  "snapshot_id": "Z0ArJAAAAAB94ft7h/mjf/A+Stq1JgJ/",
   "tracks": [
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "Beyond (End Credit Version) [From \"Moana 2\"]",
+        "url": "https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Moana 2\"",
+      "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
+    },
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 114600,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2c9E3uZP7NJGIPhEuwFVsH"
+    },
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "Gladiator II (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Strength And Honor",
+      "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"
+    },
+    {
+      "added_at": "2024-11-22 06:56:36",
+      "album": {
+        "name": "The Way It Was Before (End Credits Version) [From the Netflix film by Skydance Animation \"Spellbound\"]",
+        "url": "https://open.spotify.com/album/60hiESggNyRXv4japokeyn"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 226277,
+      "name": "The Way It Was Before (End Credits Version)",
+      "url": "https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB"
+    },
     {
       "added_at": "2024-11-13 01:01:44",
       "album": {
@@ -607,26 +723,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
         "url": "https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu"
       },
@@ -735,74 +831,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Starburned and Unkissed",
-        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 220148,
-      "name": "Starburned and Unkissed",
-      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "The Fall Guy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rUyvuK18HiuH5L2jJAtZH"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Dominic Lewis",
-          "url": "https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U"
-        }
-      ],
-      "duration_ms": 287917,
-      "name": "I Was Made For Lovin\u2019 You (from The Fall Guy) [Orchestral Version]",
-      "url": "https://open.spotify.com/track/26oE6AJXIqCSBnyxd9pjwI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Taste (From \u201cThe Idea of You\u201d)",
-        "url": "https://open.spotify.com/album/7ISDxN6cKgtvq7PgewTmfJ"
-      },
-      "artists": [
-        {
-          "name": "August Moon",
-          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
-        }
-      ],
-      "duration_ms": 183945,
-      "name": "Taste (From \u201cThe Idea of You\u201d)",
-      "url": "https://open.spotify.com/track/54cMd5EQYz1Fq7NUUvSdUr"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Challengers (Original Score)",
-        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 302424,
-      "name": "Challengers: Match Point",
-      "url": "https://open.spotify.com/track/7kSmQCEQHvSYrUUyPpAz8n"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -831,38 +859,6 @@
       "duration_ms": 167080,
       "name": "Closer (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/0MUt629ACWlm5ncrqlRlTv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -907,6 +903,22 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 302424,
+      "name": "Challengers: Match Point",
+      "url": "https://open.spotify.com/track/7kSmQCEQHvSYrUUyPpAz8n"
     }
   ],
   "unique_name": "needle drop",

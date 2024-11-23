@@ -138,7 +138,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153383,
       "name": "007 (OG Mix)",
       "url": "https://open.spotify.com/track/2DW3A3W3ADxqtLzLgvQWrx"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 223803,
       "name": "ACT A DAMN FOOL (with Duke Deuce & Slim Guerilla)",
       "url": "https://open.spotify.com/track/4OUSf2tqMGciL1g0iiK30l"
@@ -3674,7 +3674,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178253,
       "name": "CAN YOU BREATHE?",
       "url": "https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n"
@@ -6276,7 +6276,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178293,
       "name": "DRACULA",
       "url": "https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO"
@@ -6726,6 +6726,24 @@
       "duration_ms": 112198,
       "name": "Everybody Ate",
       "url": "https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/6uwVdwC6WlqNqp7NzgSDWb"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232450,
+      "name": "EVERYBODY KNOWS",
+      "url": "https://open.spotify.com/track/1j0rSF5bo7ypyil6d9Y8XF"
     },
     {
       "album": {
@@ -11003,6 +11021,24 @@
     },
     {
       "album": {
+        "name": "Before T.L.Y.",
+        "url": "https://open.spotify.com/album/3wV5E9WGyu3VmETlYsHovz"
+      },
+      "artists": [
+        {
+          "name": "Yhapojj",
+          "url": "https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162873,
+      "name": "Jeepers Creepers",
+      "url": "https://open.spotify.com/track/5N4yFl7kv9LeWKxRUoU15f"
+    },
+    {
+      "album": {
         "name": "It's Us Vol. 1",
         "url": "https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm"
       },
@@ -14995,6 +15031,42 @@
     },
     {
       "album": {
+        "name": "Cease & Disintegrate",
+        "url": "https://open.spotify.com/album/0hvWOlqronpK8WVku6ADa4"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107058,
+      "name": "ON THE NEWS",
+      "url": "https://open.spotify.com/track/2F7QnNWmwJ4Sv3iW7nrv7a"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/6uwVdwC6WlqNqp7NzgSDWb"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194662,
+      "name": "ON THE WAY",
+      "url": "https://open.spotify.com/track/2C7bWT8cdhoUF9w724OwNp"
+    },
+    {
+      "album": {
         "name": "OOGA BOOGA!",
         "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
       },
@@ -15094,10 +15166,28 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 243356,
       "name": "Osbatt",
       "url": "https://open.spotify.com/track/34TDuxdtzyt6U4d61RGs0O"
+    },
+    {
+      "album": {
+        "name": "Osborn Park",
+        "url": "https://open.spotify.com/album/1lcTNHMjrgYEY1utV20Nnh"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165284,
+      "name": "Osborn Park",
+      "url": "https://open.spotify.com/track/3je0iEUruiCfGonKaYLSr7"
     },
     {
       "album": {
@@ -17384,7 +17474,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162019,
       "name": "Roll That Weed Up",
       "url": "https://open.spotify.com/track/6MXCDzuLxdhBRbiGWPXybX"
@@ -17748,6 +17838,24 @@
       "duration_ms": 232498,
       "name": "R\u00f6kKOut",
       "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
+    },
+    {
+      "album": {
+        "name": ".mp3s",
+        "url": "https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167154,
+      "name": "s2wik",
+      "url": "https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs"
     },
     {
       "album": {
@@ -18490,7 +18598,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
@@ -19148,7 +19256,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 197437,
       "name": "Speed It Up (feat. DC The Don)",
       "url": "https://open.spotify.com/track/0Qj5KxN5JECxt9p3ml3KMX"
@@ -20434,7 +20542,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 143994,
       "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
       "url": "https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk"
@@ -20950,6 +21058,24 @@
       "duration_ms": 121600,
       "name": "Toddlerz",
       "url": "https://open.spotify.com/track/0VFsde8J1rzWAWgJfAEpcA"
+    },
+    {
+      "album": {
+        "name": "ToeJam & Earl",
+        "url": "https://open.spotify.com/album/443oJv4f0voWjdWeWFEpnC"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126742,
+      "name": "ToeJam & Earl",
+      "url": "https://open.spotify.com/track/5qWjXcm1L3zPgDjpDZZvgv"
     },
     {
       "album": {
@@ -21693,6 +21819,24 @@
     },
     {
       "album": {
+        "name": "VICODIN",
+        "url": "https://open.spotify.com/album/7qtu6qTqRj3ONaP7eaPtPN"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "VICODIN",
+      "url": "https://open.spotify.com/track/1k6NRe4Vh0vjcEJiVARB4Q"
+    },
+    {
+      "album": {
         "name": "when angels cry",
         "url": "https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA"
       },
@@ -22132,6 +22276,24 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Iamdoechii & Kal Banx)",
       "url": "https://open.spotify.com/track/2pxTrFJzMSqo6OmHFeiwJ6"
+    },
+    {
+      "album": {
+        "name": "watch it all fall",
+        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "watch it all fall",
+      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
     },
     {
       "album": {
@@ -23508,7 +23670,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 123250,
       "name": "young n turnt",
       "url": "https://open.spotify.com/track/1MFwpZSenlxbCeF6sqXzam"

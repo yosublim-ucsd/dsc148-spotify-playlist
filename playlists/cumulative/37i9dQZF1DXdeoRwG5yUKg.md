@@ -2,9 +2,9 @@
 
 ### [Blue Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg)
 
-> Soulful, bluesy ballads\. Cover: Jeremie Albino
+> Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-173 songs - 12 hr 2 min
+174 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 | 2020-11-05 | 2023-05-01 |
 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 | 2020-11-05 | 2024-04-19 |
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2020-11-05 |  |
-| [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2020-11-05 |  |
+| [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2020-11-05 | 2024-11-23 |
 | [Closer](https://open.spotify.com/track/5QqFQFSVdUeTY0xb7uehR5) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [Things You Leave Behind](https://open.spotify.com/album/34XDSyI2Yfa28pGUWQiIq0) | 3:53 | 2020-11-05 |  |
 | [Cryin In The Rain](https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA) | 3:30 | 2022-09-02 | 2024-04-19 |
 | [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 |  |
@@ -119,6 +119,7 @@
 | [Pictures on the Wall](https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp) | 4:17 | 2020-11-05 | 2024-01-29 |
 | [Pictures on the Wall](https://open.spotify.com/track/2wVjp4OxakImce78cTHun8) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4qXRbe3hN9vrSPcJwra6TQ) | 4:17 | 2020-11-05 | 2024-04-19 |
 | [Pictures on the Wall](https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb) | 4:17 | 2020-11-05 |  |
+| [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 | 2024-11-22 |  |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/0aBjG35bcty7tOM917tVL6) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/5mSDSfm25FGQZVuxKi6Gvo) | 3:29 | 2020-11-05 |  |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 3:29 | 2020-11-05 | 2024-04-19 |
 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 | 2020-11-05 |  |

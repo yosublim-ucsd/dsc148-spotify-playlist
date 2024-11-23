@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Zach Hood & Sasha Alex Sloan",
-  "num_followers": 944867,
+  "num_followers": 945000,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzd1wgAAAADWCVolHp/a4GGMS5XLKXVC",
+  "snapshot_id": "Z0AP0AAAAACbtI0dF+ekTQsMBO4mjYeA",
   "tracks": [
     {
       "added_at": "2024-11-15 16:23:10",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "san marino",
+        "url": "https://open.spotify.com/album/64FhCcwZeQHckx4Dug0Et4"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "radio tower",
+      "url": "https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH"
+    },
+    {
       "added_at": "2024-11-08 14:45:57",
       "album": {
         "name": "Days On End",
@@ -107,22 +123,6 @@
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "all I know",
-        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 194166,
-      "name": "all I know",
-      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "all I know",
+        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "all I know",
+      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Thought of You",
         "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 177146,
       "name": "I Hate Springsteen",
       "url": "https://open.spotify.com/track/1E839ULmgiydsiDqzmyk9a"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "baggy t-shirt",
-        "url": "https://open.spotify.com/album/263pkWunlv7F0dd5uh5saT"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "baggy t-shirt",
-      "url": "https://open.spotify.com/track/6P6y5Sn1hqBiGK8dfhuDjK"
     },
     {
       "added_at": "2024-10-18 04:00:00",

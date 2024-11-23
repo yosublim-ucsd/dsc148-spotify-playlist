@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 268275,
+  "num_followers": 268306,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAABv7/cEvQJrWAqZf/cDjtWY",
+  "snapshot_id": "Zz54AAAAAADeMBbjRB1+nk3y7dFVwEfh",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 263826,
-      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bionic (Deluxe Version)",
         "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 257252,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Particles",
-        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 262820,
-      "name": "Fall On Me",
-      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 246146,
       "name": "Tell Me (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 262820,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

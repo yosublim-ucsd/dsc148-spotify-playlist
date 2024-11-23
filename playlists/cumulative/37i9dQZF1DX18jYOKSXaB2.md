@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-156 songs - 7 hr 56 min
+159 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Daberechi](https://open.spotify.com/track/1crExoYD5sOsGOr1CLkYND) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:24 | 2023-12-01 | 2024-07-19 |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 | 2022-11-25 |
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-11 | 2022-10-15 |
+| [Emergency](https://open.spotify.com/track/5ab2hiVCC2fHQzc8nOa4JV) | [Toiner](https://open.spotify.com/artist/0qKplH0yrvOyQq0Vfs0iPT), [Bima](https://open.spotify.com/artist/3ezYivBdhfcqN44xLps8Kf) | [Emergency](https://open.spotify.com/album/3M2oZFtUNB8xEFVAUF0Lj9) | 3:03 | 2024-11-22 |  |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-11 | 2022-09-02 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-02-11 | 2024-06-01 |
 | [Facetime](https://open.spotify.com/track/6tsY2AuNy68FWW6maO3lNg) | [Lussh](https://open.spotify.com/artist/7dcgOecKFZRRu4ypD4Yruy) | [Facetime & I AM](https://open.spotify.com/album/4XRy6il98qAt68ybqXIgHJ) | 3:04 | 2024-10-18 |  |
@@ -59,6 +60,7 @@
 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 | 2024-02-15 |
 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-03-01 |
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-07-06 |
+| [FOREVER](https://open.spotify.com/track/3rRzR7seHCDOU92oDYop8n) | [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [FOREVER](https://open.spotify.com/album/5yFZAZi0WSKmogH5xZOcp8) | 2:54 | 2024-11-22 |  |
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-22 | 2023-03-25 |
 | [Forever](https://open.spotify.com/track/4wJBGQs7MtAdPuLHUaE40v) | [Sam Adeniji](https://open.spotify.com/artist/69eRJTkl9WP8JbovaqCRta) | [PAPI](https://open.spotify.com/album/7iG4WYvT5WP28y2KFcdOTq) | 3:06 | 2024-10-04 |  |
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 |  |
@@ -112,6 +114,7 @@
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |
 | [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 |  |
 | [One & Only](https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt) | [Kiyagi](https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj) | [One & Only](https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue) | 3:03 | 2024-10-25 |  |
+| [One And Only](https://open.spotify.com/track/7wKjjHpcu0XT8xvW5rE8PU) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [One And Only](https://open.spotify.com/album/3IHJ9ZVzVTnbClgxFTT3E1) | 2:44 | 2024-11-22 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2022-02-11 | 2024-04-19 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2022-02-11 | 2022-11-13 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:22 | 2024-04-19 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 62160,
+  "description": "The best newly released songs of the week. Cover: ROS\u00c9",
+  "num_followers": 62205,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz9ZAAAAAACKOGtQacIMwlJcvIO1B1uV",
+  "snapshot_id": "Z0AQpwAAAAAVT4vIkpYNKkSyFxnJ+jXU",
   "tracks": [
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
     {
       "added_at": "2024-11-21 16:00:00",
       "album": {
@@ -123,6 +139,30 @@
     {
       "added_at": "2024-11-21 16:00:00",
       "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
         "name": "Letter To Myself - The 6th Mini Album",
         "url": "https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM"
       },
@@ -151,6 +191,26 @@
       "duration_ms": 190187,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/1H9C0PyfQAxiMBKvvDZK9N"
+    },
+    {
+      "added_at": "2024-11-22 05:03:35",
+      "album": {
+        "name": "Oceania 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5fyFAx24ghyUdK7PEICY52"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/3XEwD6pyVdCBHNrZ7nPs0H"
     },
     {
       "added_at": "2024-11-21 16:00:00",
@@ -1141,6 +1201,22 @@
       "url": "https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs"
     },
     {
+      "added_at": "2024-11-22 05:03:35",
+      "album": {
+        "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
+        "url": "https://open.spotify.com/album/052jurik7u7naYKyLCL8n0"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
+      "url": "https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz"
+    },
+    {
       "added_at": "2024-11-21 16:00:00",
       "album": {
         "name": "Bunny Girl (English)",
@@ -1407,6 +1483,22 @@
       "duration_ms": 176786,
       "name": "Stitching",
       "url": "https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI"
+    },
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
+        "name": "What Would You Do",
+        "url": "https://open.spotify.com/album/6LhyeuCcGZJ5cZ6CxNZ8di"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "duration_ms": 179182,
+      "name": "What Would You Do",
+      "url": "https://open.spotify.com/track/3o2O6F7QfoEwhmUyAZfk9h"
     },
     {
       "added_at": "2024-11-21 16:00:00",

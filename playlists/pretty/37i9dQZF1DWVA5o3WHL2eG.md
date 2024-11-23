@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,513 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,514 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Brenne](https://open.spotify.com/track/2fv5ZNriD458IXRR9qffTu) | [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Brenne](https://open.spotify.com/album/7vMoDNGKcNbriWELFzZZV5) | 2:51 |
 | 14 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 15 | [Pberg](https://open.spotify.com/track/3fUuGfJmvc4p8NXlLgWI5o) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Pberg](https://open.spotify.com/album/0J7CtWfxGVROwIDi8ARBd3) | 1:39 |
-| 16 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
-| 17 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
+| 16 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
+| 17 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
 | 19 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
 | 20 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |

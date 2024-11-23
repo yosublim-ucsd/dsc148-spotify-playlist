@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 303260,
       "name": "Muse - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
@@ -3866,6 +3866,32 @@
       "duration_ms": 153402,
       "name": "Very Simple",
       "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
+    },
+    {
+      "album": {
+        "name": "Musow Danse (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q"
+      },
+      "artists": [
+        {
+          "name": "Les Amazones d'Afrique",
+          "url": "https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo"
+        },
+        {
+          "name": "Jemiriye",
+          "url": "https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD"
+        },
+        {
+          "name": "Mamani Ke\u00efta",
+          "url": "https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Wa Jo",
+      "url": "https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW"
     },
     {
       "album": {

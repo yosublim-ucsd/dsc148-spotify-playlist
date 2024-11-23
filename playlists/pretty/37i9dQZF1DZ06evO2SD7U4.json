@@ -1,12 +1,12 @@
 {
   "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
-  "num_followers": 3957,
+  "num_followers": 3961,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAABKFXeS+KwhUq8/VMV8xeMc",
+  "snapshot_id": "Zz54AAAAAAASeQVyQaVVKd3z5NORpA/5",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00daltimo Guacarrock (En Vivo)",
-        "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 250906,
-      "name": "El Ropavejero - En Vivo",
-      "url": "https://open.spotify.com/track/4V8nGYcSfYSYepkCklI7lq"
+      "duration_ms": 180306,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+        "name": "El \u00daltimo Guacarrock (En Vivo)",
+        "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
+      "duration_ms": 250906,
+      "name": "El Ropavejero - En Vivo",
+      "url": "https://open.spotify.com/track/4V8nGYcSfYSYepkCklI7lq"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Nopinchesmames",
-        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Te Quiero Mucho, Pero Ya No Te Soporto",
-      "url": "https://open.spotify.com/track/30TZX7UiJunHYKByAQKqCj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naco Es Chido",
         "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 247253,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Nopinchesmames",
+        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Te Quiero Mucho, Pero Ya No Te Soporto",
+      "url": "https://open.spotify.com/track/30TZX7UiJunHYKByAQKqCj"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Todos Tienen Tortita",
+      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#Nopinchesmames",
         "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naco Es Chido",
-        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Todos Tienen Tortita",
-      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
+      "duration_ms": 257946,
+      "name": "Vete Al Averno",
+      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+        "name": "Ni\u00f1a De Mis Ojos",
+        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 257946,
-      "name": "Vete Al Averno",
-      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
+      "duration_ms": 186053,
+      "name": "\u00a1Que Se Acaben Los Guapos!",
+      "url": "https://open.spotify.com/track/4OMF4unx7V16o87gijklQd"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a De Mis Ojos",
-        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "\u00a1Que Se Acaben Los Guapos!",
-      "url": "https://open.spotify.com/track/4OMF4unx7V16o87gijklQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 185840,
       "name": "Tibur\u00f3n A La Vista",
       "url": "https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#Nopinchesmames",
-        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 91853,
-      "name": "Chichis Pa la Banda",
-      "url": "https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "#Nopinchesmames",
+        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 91853,
+      "name": "Chichis Pa la Banda",
+      "url": "https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Venganza Del Hijo Del Guacarock",
         "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+        "name": "El \u00daltimo Guacarrock (En Vivo)",
+        "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Esta Noche Cena Pancho",
-      "url": "https://open.spotify.com/track/5pUgf3qgaZdWvIga1VfR1E"
+      "duration_ms": 217853,
+      "name": "El Guacarock Del Santo - En Vivo",
+      "url": "https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN"
     }
   ],
   "unique_name": "This Is Botellita De Jerez",

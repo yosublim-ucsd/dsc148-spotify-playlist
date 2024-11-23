@@ -4,7 +4,7 @@
 
 > featuring new music from Babymorocco & Frost Children
 
-2,182 songs - 4 day 3 hr 21 min
+2,183 songs - 4 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1787,6 +1787,7 @@
 | [Something bad](https://open.spotify.com/track/6n5lG9tQssEHV5Z5zmaWhR) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Something bad](https://open.spotify.com/album/7uaXo6DwzXzhrNFwrMU2XR) | 3:14 | 2023-12-08 | 2024-03-30 |
 | [something real](https://open.spotify.com/track/4i2eL6hAvu6R02Qu2lBQp0) | [nimbustwokay](https://open.spotify.com/artist/3d8xkw6hQY4NrUFUJW9u21) | [something real](https://open.spotify.com/album/5IWNLsvJbWQTA8WOYTHNmX) | 2:44 | 2021-12-03 | 2022-02-26 |
 | [something you hate](https://open.spotify.com/track/3TMgokxBv7lYf80t0jFbqV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [something you hate](https://open.spotify.com/album/4ldRC2aPeTB8tkeL3fu1JJ) | 1:45 | 2021-11-19 | 2022-02-26 |
+| [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-22 |  |
 | [SONGS ONLINE](https://open.spotify.com/track/22TZopmNyCqGVVikA49JME) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [SONGS ONLINE](https://open.spotify.com/album/3tBKt7nLYR2c6XfPKtp8fM) | 1:35 | 2022-01-12 | 2022-02-26 |
 | [sophia](https://open.spotify.com/track/0w9MYjghtcR4vP5nzf9B3X) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [sophia](https://open.spotify.com/album/0wecErV7Y2UxY9eIPGn6Bz) | 2:10 | 2021-07-05 | 2021-09-12 |
 | [sore eyes](https://open.spotify.com/track/4mpxGxcp6lmlMY3GIuM4Gg) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore eyes](https://open.spotify.com/album/74xkm9jydfnOkuK0mWELWl) | 2:13 | 2023-09-29 | 2024-01-06 |

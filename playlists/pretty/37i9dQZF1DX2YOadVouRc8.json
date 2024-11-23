@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 29990,
+  "num_followers": 30032,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -359,18 +359,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Temptress",
-        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
+      "duration_ms": 147169,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -395,26 +403,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 147169,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -603,18 +603,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+        "name": "Mohobbat (Love)",
+        "url": "https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+      "duration_ms": 208699,
+      "name": "Mohobbat - Love",
+      "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -655,6 +663,22 @@
       "duration_ms": 165972,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/5R9nzCz233Wh8BKfk0u8NI"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -715,30 +739,6 @@
       "duration_ms": 134187,
       "name": "Fire on Me",
       "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Mohobbat (Love)",
-        "url": "https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN"
-      },
-      "artists": [
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 208699,
-      "name": "Mohobbat - Love",
-      "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 129576,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Sweet For Joy",
         "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 165159,
       "name": "Sweet For Joy",
       "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 129576,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Instantly",
-        "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Kold AF",
-          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
-        }
-      ],
-      "duration_ms": 188387,
-      "name": "Instantly",
-      "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "If I Dey Lie (with Crayon)",
         "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Instantly",
+        "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "duration_ms": 188387,
+      "name": "Instantly",
+      "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "FaceCard (Only Me)",
         "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 175200,
       "name": "FaceCard (Only Me)",
       "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Finding Nimo Series: The Capsule",
-        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 162843,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Finding Nimo Series: The Capsule",
+        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "It'll All Make Sense Later",
         "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 194000,
       "name": "Shooting Star (feat. Oxlade)",
       "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     }
   ],
   "unique_name": "Afro Chill",

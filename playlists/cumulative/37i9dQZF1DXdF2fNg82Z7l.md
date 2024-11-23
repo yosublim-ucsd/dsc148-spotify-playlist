@@ -4,11 +4,12 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-192 songs - 9 hr 56 min
+193 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$TONED](https://open.spotify.com/track/2saTLE5Opsybv6OfYx3AYk) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [$TONED](https://open.spotify.com/album/0jlD0Wgw5y9P7VYpLcbSxZ) | 2:55 | 2024-03-14 | 2024-10-05 |
+| [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 | 2024-10-24 |  |
 | [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [737](https://open.spotify.com/track/6AS9eFRFKCbzySHljxjspE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [737](https://open.spotify.com/album/1BXvwn6HlOu6gcVG7gVq6C) | 2:32 | 2024-03-14 | 2024-07-30 |
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-10-17 | 2024-11-08 |
@@ -60,7 +61,7 @@
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2024-03-14 | 2024-10-05 |
 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-07-29 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2024-10-04 |  |
-| [Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [B4 I Breakdown](https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU) | 2:58 | 2024-10-24 |  |
+| [Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [B4 I Breakdown](https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU) | 2:58 | 2024-10-24 | 2024-11-23 |
 | [GOD CALLS](https://open.spotify.com/track/20vIk5NNFjn2EHWJNpYmVP) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [GOD CALLS/HEAVY FREESTYLE](https://open.spotify.com/album/5s0BRtii6dzwJzPsYXbC7e) | 1:45 | 2024-07-29 | 2024-11-08 |
 | [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-03-14 | 2024-10-05 |
 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 | 2024-03-14 | 2024-07-30 |
@@ -78,7 +79,7 @@
 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 | 2024-03-14 | 2024-10-05 |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2024-03-14 | 2024-10-05 |
 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 | 2024-10-04 |  |
-| [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2024-10-24 | 2024-11-17 |
+| [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2024-10-24 |  |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [IDK](https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR) | [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [IDK](https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh) | 2:54 | 2024-10-04 | 2024-10-18 |
 | [if u want](https://open.spotify.com/track/4I9aaXvrNGgyQ9hU42FBzF) | [LIL JA$](https://open.spotify.com/artist/0m1KRoAfjPv3trHhHB0V9M) | [if u want](https://open.spotify.com/album/7gdU7pUsauBquXPYIRIhQF) | 2:16 | 2024-03-14 | 2024-10-05 |
@@ -165,7 +166,7 @@
 | [Sunday Service](https://open.spotify.com/track/0WnbXuprB91mCTyzaNaes0) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sunday Service](https://open.spotify.com/album/3NesbDv2ByqBw7eUAzZTlu) | 2:39 | 2024-03-14 | 2024-10-05 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-07-29 |  |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-07-29 | 2024-10-05 |
-| [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 | 2024-10-24 |  |
+| [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 | 2024-10-24 | 2024-11-23 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-10-04 |  |
 | [Take That](https://open.spotify.com/track/5fnQi8JNcn8XkdQrK3RtkL) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Take That](https://open.spotify.com/album/07JTFdoqehzty75bXYpdZS) | 3:13 | 2024-10-04 | 2024-11-08 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2024-03-14 | 2024-07-30 |

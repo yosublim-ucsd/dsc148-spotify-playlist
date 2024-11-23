@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Penthouse
 
-461 songs - 1 day 3 hr 2 min
+462 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Closer](https://open.spotify.com/track/6x6cHK0rqhlBI8majXkXEd) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Giacomo Turra](https://open.spotify.com/artist/7FZ7QjjU3oULdlzZr6GJCw) | [Closer](https://open.spotify.com/album/2Bg43PYGoh1o6VL7tiRGfN) | 2:31 | 2023-04-28 | 2024-05-18 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2021-09-03 | 2022-07-29 |
 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 | 2021-09-03 | 2022-10-08 |
+| [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH) | 3:38 | 2024-11-22 |  |
 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 | 2023-03-24 |  |
 | [Come Back \- Radio Edit](https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Come Back](https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA) | 2:59 | 2022-02-18 | 2022-04-02 |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2020-11-20 | 2022-04-09 |
@@ -188,7 +189,7 @@
 | [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 | 2022-07-23 |
 | [Hit Man](https://open.spotify.com/track/72w7lsGmb61HaFkXahpwGo) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ) | [Hit Man](https://open.spotify.com/album/1gfzAzi7KZOpVd5RVmW65M) | 4:00 | 2024-05-17 |  |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 | 2024-05-18 |
-| [Honey Imastar](https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Honey Imastar](https://open.spotify.com/album/3iuveO3vYNqvD7Wze0ubLc) | 3:07 | 2023-05-26 |  |
+| [Honey Imastar](https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Honey Imastar](https://open.spotify.com/album/3iuveO3vYNqvD7Wze0ubLc) | 3:07 | 2023-05-26 | 2024-11-23 |
 | [Hotel](https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb) | [Stevie Matthew](https://open.spotify.com/artist/5SOrNyoEsMC5gHnP7FYLOo), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Hotel](https://open.spotify.com/album/1ZcoiFSaI8ttDTlIG4i4CF) | 2:34 | 2024-02-16 | 2024-08-17 |
 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-03 |  |
 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 | 2023-04-15 |

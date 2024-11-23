@@ -2465,6 +2465,32 @@
     },
     {
       "album": {
+        "name": "Amore Mio",
+        "url": "https://open.spotify.com/album/2VPScjPQGCcGwzA41Xwx8J"
+      },
+      "artists": [
+        {
+          "name": "Boski Heniek",
+          "url": "https://open.spotify.com/artist/7J9KyOmHMSnBDRAeUI6l8y"
+        },
+        {
+          "name": "Malos",
+          "url": "https://open.spotify.com/artist/3OdmlGMulK5p79loAQaCEr"
+        },
+        {
+          "name": "Nerus",
+          "url": "https://open.spotify.com/artist/5GrBKeE919oi9ffTU5HyUt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161595,
+      "name": "Amore Mio",
+      "url": "https://open.spotify.com/track/6xJVH9QPDH1dyS6P3xkPXO"
+    },
+    {
+      "album": {
         "name": "Janusz Walczuk",
         "url": "https://open.spotify.com/album/7mMFix0pVTqJuroFYry2nT"
       },
@@ -4990,7 +5016,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -12809,6 +12835,24 @@
     },
     {
       "album": {
+        "name": "Futurama 3 (fanserwis)",
+        "url": "https://open.spotify.com/album/3SO1Pzy8RRa66qGR5yAhBt"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276240,
+      "name": "Futurama 3 (fanserwis)",
+      "url": "https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -14396,6 +14440,24 @@
       "duration_ms": 147333,
       "name": "Hellcat Redeye",
       "url": "https://open.spotify.com/track/5HD2G9oEvsL8JGxBU0PZul"
+    },
+    {
+      "album": {
+        "name": "hellstar",
+        "url": "https://open.spotify.com/album/5v6HNBzISkweTBWw6nHdvz"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "hellstar",
+      "url": "https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O"
     },
     {
       "album": {
@@ -19600,7 +19662,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -25932,7 +25994,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -34400,7 +34462,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -36268,7 +36330,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -36426,7 +36488,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162061,
       "name": "tak niewiele brakowa\u0142o",
       "url": "https://open.spotify.com/track/42ne2nV520gPANRs2rGYmP"
@@ -36664,7 +36726,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -37384,7 +37446,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -37522,7 +37584,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -38388,7 +38450,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 149323,
       "name": "Troch\u0119 Za Blisko",
       "url": "https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz"
@@ -39332,7 +39394,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 202506,
       "name": "VHS",
       "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
@@ -39538,7 +39600,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 166038,
       "name": "W GOR\u0104CEJ WODZIE COMPANY",
       "url": "https://open.spotify.com/track/6RL09jLWzXpMaWUKU0aenO"
@@ -40792,7 +40854,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"

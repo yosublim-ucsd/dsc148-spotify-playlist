@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "I'm Yours (Acoustic)",
+        "url": "https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh"
+      },
+      "artists": [
+        {
+          "name": "Gavern",
+          "url": "https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142321,
+      "name": "I'm Yours - Acoustic",
+      "url": "https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle"
+    },
+    {
+      "album": {
         "name": "In Too Deep (Acoustic)",
         "url": "https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7"
       },

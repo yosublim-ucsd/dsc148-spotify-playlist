@@ -2,7 +2,7 @@
 
 ### [Electronic Christmas](https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI)
 
-> Jolly dance and electronic tracks for the season <3
+> Baby, it's cold outside..\. but the EDM will keep you warm 🎄🎁
 
 122 songs - 6 hr 24 min
 

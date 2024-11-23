@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-238 songs - 20 hr 38 min
+239 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Destiny](https://open.spotify.com/track/222opzC3cyboeyO6KrK6L7) | [Monsieur Warradi](https://open.spotify.com/artist/5gARJT3niBXARYHtHWB1eA) | [Destiny](https://open.spotify.com/album/2wwDX8cXpomw1eEiQk2cPU) | 4:56 | 2022-07-05 | 2022-07-29 |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 |  |
 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 | 2022-12-16 | 2023-02-13 |
+| [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-22 |  |
 | [Dirty Dicer \- Hk:22 Remix](https://open.spotify.com/track/5iiw4eOqKAhOygedGT2zqr) | [Rachel Raw](https://open.spotify.com/artist/2oCsW72XwqwBxv1NMUeaqv), [HK:22](https://open.spotify.com/artist/6PPBbNiP2tQRhEbO8p4YpO) | [Dirty Dicer](https://open.spotify.com/album/0Bmu8kAjCfpVFrBg3i08Xj) | 7:12 | 2022-07-11 | 2022-07-29 |
 | [Divine](https://open.spotify.com/track/26MH4z7yzxzbyIXASQzgcE) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Divine](https://open.spotify.com/album/2KGYL2E38AnuuueSzu5gaV) | 6:14 | 2022-07-05 | 2022-07-28 |
 | [Division \- Radio\-Edit](https://open.spotify.com/track/1ynZUjXYKCpeMyUpGxtHcS) | [Phoenix Movement](https://open.spotify.com/artist/7ffYTOTu3Z0t4a2A7515cL), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Division \(Radio\-Edit\)](https://open.spotify.com/album/0gESiltZOVYsFpXdedET9Y) | 5:40 | 2022-07-11 | 2022-07-13 |
@@ -245,6 +246,6 @@
 | [You Look at Me](https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [You Look at Me](https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0) | 6:07 | 2022-07-05 | 2023-03-29 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-07-05 |  |
 | [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2024-03-20 | 2024-07-30 |
-| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 |  |
+| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 | 2024-11-23 |
 
 \*This playlist was first scraped on 2022-07-07. Prior content cannot be recovered.

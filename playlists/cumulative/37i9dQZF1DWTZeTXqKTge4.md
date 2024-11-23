@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: FouKi
 
-745 songs - 1 day 14 hr 5 min
+746 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 | 2023-11-03 | 2023-11-13 |
 | [Bienvenue dans ma vie](https://open.spotify.com/track/6492iA3gQgrh0KsTOwI06S) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Poupée Russe](https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD) | 2:35 | 2022-01-07 | 2022-04-19 |
 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 | 2023-07-07 | 2023-11-04 |
+| [Big Bang](https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Big Bang](https://open.spotify.com/album/39xP7d2eHjiZrrSNYyzhvp) | 2:45 | 2024-11-22 |  |
 | [Big boy](https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Big boy](https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7) | 2:29 | 2022-10-14 | 2022-12-10 |
 | [Big Boy Things](https://open.spotify.com/track/6N19wBDJfylFojLYJ7hNfe) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Big Boy Things](https://open.spotify.com/album/44hF4hdSHeGdP5Tpz2FIQR) | 2:59 | 2022-01-07 | 2022-02-19 |
 | [BIG BUSINESS](https://open.spotify.com/track/6hul4BXqmAW1YLde5XT37t) | [Remastered](https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r), [Baby Neelou](https://open.spotify.com/artist/5bpO0XTVIGNUnClzfHHQUz), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q) | [BIG BUSINESS](https://open.spotify.com/album/3ruYrP0e2e5ePa88Yy980D) | 2:24 | 2024-11-08 | 2024-11-16 |
@@ -362,7 +363,7 @@
 | [Jle fais bien](https://open.spotify.com/track/7qp8YEvi08gvsYVUlgo6gu) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Bitches & Blicks](https://open.spotify.com/album/1davrWDpX2BmcFZvslyhKa) | 2:09 | 2024-01-19 | 2024-10-26 |
 | [John Wick](https://open.spotify.com/track/5pSaAGkBadTUWGVdhfYxQz) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [John Wick](https://open.spotify.com/album/4cqEmnt3hBroCnutiCPNoJ) | 3:27 | 2022-01-07 | 2022-03-12 |
 | [JOLIE](https://open.spotify.com/track/3k12fBG7wbMpAvDgOdoDll) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [JOLIE](https://open.spotify.com/album/5Qd20porNImdqUen8N5z6x) | 3:08 | 2022-11-11 | 2023-04-01 |
-| [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 | 2024-09-13 |  |
+| [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 | 2024-09-13 | 2024-11-23 |
 | [JUSQU'À LA FIN](https://open.spotify.com/track/6pS5r2V8QYSpG5s3GqvRU3) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [JUSQU'À LA FIN](https://open.spotify.com/album/2YfEUXT4DOx1MsEdFzDciL) | 5:22 | 2023-11-03 | 2023-11-13 |
 | [Kanye West](https://open.spotify.com/track/0Exj4hL7PquqwVrohrD7hj) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Kanye West](https://open.spotify.com/album/4vBSXrZUXvNe7QiYy1A8Ia) | 2:00 | 2024-07-26 | 2024-09-28 |
 | [KDB](https://open.spotify.com/track/1zoeNqSeajXpBKLn7qU87E) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [KDB](https://open.spotify.com/album/1ir88ihGyKw8RjTBqBf36H) | 2:31 | 2023-09-01 | 2023-11-25 |

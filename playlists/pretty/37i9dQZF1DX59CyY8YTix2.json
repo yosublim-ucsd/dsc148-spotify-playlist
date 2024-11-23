@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: GLIM SPANKY",
-  "num_followers": 52917,
+  "num_followers": 52924,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "yesterday",
-        "url": "https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 226262,
-      "name": "yesterday",
-      "url": "https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 183413,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "yesterday",
+        "url": "https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 226262,
+      "name": "yesterday",
+      "url": "https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "cyber",
+        "url": "https://open.spotify.com/album/4GWGXVMZekqE6qLyuWqs98"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 153257,
+      "name": "cyber",
+      "url": "https://open.spotify.com/track/693HhHvefKWGnMSoyoYlZs"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
         "url": "https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE"
       },
@@ -831,38 +847,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "cyber",
-        "url": "https://open.spotify.com/album/4GWGXVMZekqE6qLyuWqs98"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 153257,
-      "name": "cyber",
-      "url": "https://open.spotify.com/track/693HhHvefKWGnMSoyoYlZs"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
-        "url": "https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 343144,
-      "name": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
-      "url": "https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "\u6c42\u4e16\u4e3b",
         "url": "https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 233442,
       "name": "\u30b7\u30ca\u30e2\u30f3",
       "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
+        "url": "https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "duration_ms": 343144,
+      "name": "\u3044\u3063\u305d\u3053\u306e\u5fc3\u81d3\u306e\u97f3\u304c\u541b\u306b\u805e\u3053\u3048\u305f\u3089",
+      "url": "https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -991,34 +991,18 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "jabber",
-        "url": "https://open.spotify.com/album/2QgP71TV3kI5l1IY4B5hxK"
+        "name": "TOYS",
+        "url": "https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4"
       },
       "artists": [
         {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
         }
       ],
-      "duration_ms": 183200,
-      "name": "jabber",
-      "url": "https://open.spotify.com/track/5ucYLXCSafpbzkaPKeXmWX"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "Epic Narratives",
-        "url": "https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 274878,
-      "name": "Forbidden tale",
-      "url": "https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm"
+      "duration_ms": 276713,
+      "name": "\u82b1\u4e00\u5301",
+      "url": "https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1039,18 +1023,34 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u8d64\u3044\u8f4d",
-        "url": "https://open.spotify.com/album/3Jyg9NB0N8vDBSKSKIpfkz"
+        "name": "Epic Narratives",
+        "url": "https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO"
       },
       "artists": [
         {
-          "name": "GLIM SPANKY",
-          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
         }
       ],
-      "duration_ms": 246000,
-      "name": "\u8d64\u3044\u8f4d",
-      "url": "https://open.spotify.com/track/5b6ynKSmNmJKCBPHFNGN1J"
+      "duration_ms": 274878,
+      "name": "Forbidden tale",
+      "url": "https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "jabber",
+        "url": "https://open.spotify.com/album/2QgP71TV3kI5l1IY4B5hxK"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "jabber",
+      "url": "https://open.spotify.com/track/5ucYLXCSafpbzkaPKeXmWX"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1067,22 +1067,6 @@
       "duration_ms": 199000,
       "name": "\u30a2\u30a6\u30c8",
       "url": "https://open.spotify.com/track/0YMfHLifgez6XrLKrUfo1k"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "TOYS",
-        "url": "https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 276713,
-      "name": "\u82b1\u4e00\u5301",
-      "url": "https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 230417,
       "name": "Amber blue",
       "url": "https://open.spotify.com/track/6sli2ivzjDhuswcxoqG4zf"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "\u8d64\u3044\u8f4d",
+        "url": "https://open.spotify.com/album/3Jyg9NB0N8vDBSKSKIpfkz"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u8d64\u3044\u8f4d",
+      "url": "https://open.spotify.com/track/5b6ynKSmNmJKCBPHFNGN1J"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "PSIREN",
+        "url": "https://open.spotify.com/album/2MNkPpXAdut8fzmfrdWeOG"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "PSIREN",
+      "url": "https://open.spotify.com/track/47dUVCUrkd4TKLD64qmArY"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "realize",
         "url": "https://open.spotify.com/album/5OyXlqVzqZO0NdSFN82ST3"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 258133,
       "name": "\u5acc\u3044\u306b\u306a\u3063\u3061\u3083\u3046\u3088",
       "url": "https://open.spotify.com/track/55Omjk9mCRO6X3DrhQRYAJ"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "NEW ERROR!!",
-        "url": "https://open.spotify.com/album/0P2RGaiXEkZk8Oyyj9j7XO"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 182364,
-      "name": "NEW ERROR!!",
-      "url": "https://open.spotify.com/track/2BPJ1WlS8CUHWNCCzo8CL3"
     }
   ],
   "unique_name": "She Rocks",

@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "HYPERSEXUAL",
+        "url": "https://open.spotify.com/album/2pUOkgYuYPb9dBnQBNeR1N"
+      },
+      "artists": [
+        {
+          "name": "Davion",
+          "url": "https://open.spotify.com/artist/50k274l0FANtaQFzkWzh2a"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131944,
+      "name": "Act Like",
+      "url": "https://open.spotify.com/track/01vPw1LCucZoo21GX2uHqZ"
+    },
+    {
+      "album": {
         "name": "Activated",
         "url": "https://open.spotify.com/album/2eLFMt1FohHbCNMUN7jBRl"
       },
@@ -9699,6 +9717,24 @@
     },
     {
       "album": {
+        "name": "BRIGHTER DAY",
+        "url": "https://open.spotify.com/album/7MM4IZJQ0mZmAnFgjLouYy"
+      },
+      "artists": [
+        {
+          "name": "Brian Loyde",
+          "url": "https://open.spotify.com/artist/3YChbpxtV506Tup3EwFbJH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "BRIGHTER DAY",
+      "url": "https://open.spotify.com/track/4G5pwamHl8oO31tPX4cF9j"
+    },
+    {
+      "album": {
         "name": "Bring On The Rain",
         "url": "https://open.spotify.com/album/4YhFg9BuYVOVrrYFxVfYe2"
       },
@@ -11253,6 +11289,24 @@
     },
     {
       "album": {
+        "name": "Stuck In LA",
+        "url": "https://open.spotify.com/album/1Ihv3k42Livf5NCbWOIIxm"
+      },
+      "artists": [
+        {
+          "name": "James Tonic",
+          "url": "https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125831,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/3sl6k2aUbrbv9gl8cQxzxN"
+    },
+    {
+      "album": {
         "name": "Can't Have It",
         "url": "https://open.spotify.com/album/5NLuVuZJ9ZoTgocHGSf0t2"
       },
@@ -11574,7 +11628,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 142125,
       "name": "Cards",
       "url": "https://open.spotify.com/track/7LvE1XCJitEmVfk9kXoowz"
@@ -13200,7 +13254,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 184032,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/3Cnm6nlYa1lbkPbkEsIYlu"
@@ -17212,6 +17266,24 @@
       "duration_ms": 210909,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6DTHRCD8RHkZlE7qhLinjB"
+    },
+    {
+      "album": {
+        "name": "Detached",
+        "url": "https://open.spotify.com/album/4FTdIYWsPzWPoFGfvaa1dq"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172383,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/4UbxTmnY9Nq3qkrUL20H3V"
     },
     {
       "album": {
@@ -25316,7 +25388,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 226011,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/4fHkxQ4v7t2M7r6b6uvb8Z"
@@ -25666,7 +25738,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 224876,
       "name": "Further",
       "url": "https://open.spotify.com/track/5smeYjQ6i8SSKdbW2Hknrp"
@@ -32997,6 +33069,24 @@
     },
     {
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/2GOATossBuMPSg0rE8jMAt"
+      },
+      "artists": [
+        {
+          "name": "BeY",
+          "url": "https://open.spotify.com/artist/1VCRHiu34SnjIuo96k2JvW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/5KoI2AX8E4qHb2z0GiuqfG"
+    },
+    {
+      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/0fkp4oHJJTbcewmxjAGXNO"
       },
@@ -34096,6 +34186,32 @@
       "duration_ms": 335490,
       "name": "If You Double Frown",
       "url": "https://open.spotify.com/track/3r7qXhbEbEv8Oj05CV5RWJ"
+    },
+    {
+      "album": {
+        "name": "If You Let Me",
+        "url": "https://open.spotify.com/album/61SttJ4Ql7gHCEr4ahVrAR"
+      },
+      "artists": [
+        {
+          "name": "THISISSHEBA",
+          "url": "https://open.spotify.com/artist/44xPGzMyi8bqqdglO7LSRC"
+        },
+        {
+          "name": "Neak",
+          "url": "https://open.spotify.com/artist/4QSOG2wDqDPm2BdgnNr3KM"
+        },
+        {
+          "name": "Cam Be",
+          "url": "https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/0oGZwDpj8Yw1F3ZCEDDgzx"
     },
     {
       "album": {
@@ -35876,7 +35992,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187731,
       "name": "It\u2019s a Vibe! (Ain\u2019t It?)",
       "url": "https://open.spotify.com/track/4piHIEC1C2JCAqpTDTfdTd"
@@ -41820,7 +41936,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 144159,
       "name": "Love Love",
       "url": "https://open.spotify.com/track/2980j0HEONoxDkzGoTYueY"
@@ -42384,7 +42500,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 222537,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6YIfOoyMoyTodzUGwA2ZOU"
@@ -49634,6 +49750,24 @@
       "duration_ms": 235741,
       "name": "Nothing But A Smile",
       "url": "https://open.spotify.com/track/0PMMB4J1eYN8x2grckDi44"
+    },
+    {
+      "album": {
+        "name": "Nothing But Us",
+        "url": "https://open.spotify.com/album/64TUFeo3MNaE2sBaCRb0jG"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137145,
+      "name": "Nothing But Us",
+      "url": "https://open.spotify.com/track/3MGZqpmoMwFnaysQylGDM7"
     },
     {
       "album": {
@@ -60363,6 +60497,24 @@
     },
     {
       "album": {
+        "name": "Shallow Games",
+        "url": "https://open.spotify.com/album/1HP9VZGvzuUV67aq3yl2XX"
+      },
+      "artists": [
+        {
+          "name": "Limage",
+          "url": "https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234963,
+      "name": "Shallow Games",
+      "url": "https://open.spotify.com/track/0sZJwdGLsbFNl8xBGfZzy8"
+    },
+    {
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/3meoCpS5Z33sdieqeUnmzy"
       },
@@ -61660,7 +61812,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 218560,
       "name": "Smoke In My Lungs",
       "url": "https://open.spotify.com/track/71t4WiR13EVHl4RODNvqJy"
@@ -72389,6 +72541,24 @@
     },
     {
       "album": {
+        "name": "Two Sticks (Dynamite)",
+        "url": "https://open.spotify.com/album/6muSps9G0hi8INjJko3vzz"
+      },
+      "artists": [
+        {
+          "name": "Jesus Chrysler Supercar",
+          "url": "https://open.spotify.com/artist/4ySg1svO2GzQeWkKkt3uPW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230634,
+      "name": "Two Sticks (Dynamite)",
+      "url": "https://open.spotify.com/track/3cuzJTeou5lCgpit1ebSYg"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2RpNIBUoTDNK9pKzc7XNu7"
       },
@@ -72640,7 +72810,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 219554,
       "name": "Unanswered",
       "url": "https://open.spotify.com/track/0tfqaujsjUExihc2saPJfJ"
@@ -73850,6 +74020,24 @@
       "duration_ms": 169000,
       "name": "Violet",
       "url": "https://open.spotify.com/track/33J8Q1t1u01gSQzZUibxFb"
+    },
+    {
+      "album": {
+        "name": "Virginia Slim",
+        "url": "https://open.spotify.com/album/4wbOnYuLsQIPKIRESaXQxv"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150645,
+      "name": "Virginia Slim",
+      "url": "https://open.spotify.com/track/1G1o7tnBz5TdMPAo1EYe0f"
     },
     {
       "album": {
@@ -79796,6 +79984,32 @@
       "duration_ms": 198843,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/5g3LVsOumXRzzrz5GBzojB"
+    },
+    {
+      "album": {
+        "name": "Zuly (Remix)",
+        "url": "https://open.spotify.com/album/76b3texQrbmSRUev8rnRYZ"
+      },
+      "artists": [
+        {
+          "name": "Eldo VR",
+          "url": "https://open.spotify.com/artist/6yzFWiGL6EnUjGhyYEwj5L"
+        },
+        {
+          "name": "Bryzan",
+          "url": "https://open.spotify.com/artist/57qLKO4FzuBmZPLqsNxVHH"
+        },
+        {
+          "name": "Ulyss",
+          "url": "https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240827,
+      "name": "Zuly - Remix",
+      "url": "https://open.spotify.com/track/3fuYhvcRNX5Y9ryUO8ixNA"
     },
     {
       "album": {

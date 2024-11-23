@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024!
 
-266 songs - 12 hr 51 min
+267 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Everynight](https://open.spotify.com/track/06EWUJBiD16WAyhJdv6PHu) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Brad Pearce](https://open.spotify.com/artist/0oU5QHDNNfNucziBwyFtH2) | [Everynight](https://open.spotify.com/album/4E4wqnCX6mPC4PHYiTKwMQ) | 2:45 | 2023-11-03 | 2023-12-02 |
 | [Everything \(feat\. ALLKNIGHT\)](https://open.spotify.com/track/2N6ybgZJj33vh6Xx4dpLYj) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Everything \(feat\. ALLKNIGHT\)](https://open.spotify.com/album/1axRvitwEm1DYSLcllzyh2) | 3:25 | 2023-11-03 | 2024-08-24 |
 | [Exhale](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1) | [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Exhale](https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v) | 2:30 | 2023-11-03 | 2024-04-10 |
+| [EYES ON ME](https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [EYES ON ME](https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx) | 3:43 | 2024-11-22 |  |
 | [Feel Your Lovin'](https://open.spotify.com/track/0lwYzmHvA5RVKWYsNnKQ48) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Feel Your Lovin'](https://open.spotify.com/album/6itlnneZqTTW0LWjl9AUlf) | 2:50 | 2023-11-03 | 2024-03-09 |
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-05-31 | 2024-06-11 |
 | [Feelings For You](https://open.spotify.com/track/1QjyTgDJlacwLKUGfTJBt4) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh) | [Feelings For You](https://open.spotify.com/album/0M25iLXgZzbdce8dcWQ9Yp) | 1:58 | 2024-10-11 |  |

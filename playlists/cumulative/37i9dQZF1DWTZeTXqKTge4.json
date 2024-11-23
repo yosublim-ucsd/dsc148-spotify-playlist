@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/39xP7d2eHjiZrrSNYyzhvp"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ"
+    },
+    {
+      "album": {
         "name": "Big boy",
         "url": "https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7"
       },
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 138666,
       "name": "June",
       "url": "https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7"

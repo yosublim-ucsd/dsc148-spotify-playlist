@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-769 songs - 2 day 3 hr 45 min
+772 songs - 2 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [I'd Have You Anytime \- 2014 Remaster](https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:57 | 2023-08-17 |  |
 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 | 2024-03-15 |  |
 | [I'm Dancing in the Show Tonight](https://open.spotify.com/track/06R4sYdNYKfeulAP4ebbI3) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 1:55 | 2024-01-15 |  |
+| [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 | 2024-11-22 |  |
 | [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 | 2024-10-14 |  |
 | [If Not Now, Then When?](https://open.spotify.com/track/1nkMRXPRGtwWGIfWaXt3na) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:50 | 2024-01-15 |  |
 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 | 2024-01-18 |  |
@@ -426,6 +427,7 @@
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2023-11-19 |  |
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2023-04-30 | 2023-12-14 |
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2024-01-23 | 2024-10-24 |
+| [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 | 2024-11-22 |  |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
 | [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 | 2024-03-25 | 2024-06-10 |
 | [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 | 2024-09-09 |  |
@@ -592,6 +594,7 @@
 | [Silent Resolve](https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV) | [Circa](https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly) | [Valley of the Windmill](https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp) | 14:41 | 2024-05-27 |  |
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sillycone Valley](https://open.spotify.com/track/23R59LUKKvATvII3orFxCS) | [Lene Alexandra](https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex) | [Welcome to Sillycone Valley](https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv) | 3:01 | 2024-02-06 | 2024-02-17 |
+| [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 | 2024-11-22 |  |
 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-02-15 |  |

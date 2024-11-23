@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Airport Song",
+        "url": "https://open.spotify.com/album/7ug4Llh6SHieRIKq5ymXC5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154342,
+      "name": "Airport Song",
+      "url": "https://open.spotify.com/track/2x52t53NewTViAzWA056bA"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169804,
       "name": "Beautiful Eyes",
       "url": "https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6"
@@ -380,6 +398,24 @@
       "duration_ms": 155761,
       "name": "Betting on Us",
       "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "album": {
+        "name": "Bird on a Wire",
+        "url": "https://open.spotify.com/album/0UcKdze8ZNnCQllfrIHcbG"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268204,
+      "name": "Bird on a Wire",
+      "url": "https://open.spotify.com/track/3g0pbhTq5pyQmMPMUTWBtO"
     },
     {
       "album": {
@@ -777,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "Don't You Give Up On Me Yet",
+      "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
+    },
+    {
+      "album": {
         "name": "Drown in My Own Tears (The Circle Session, 2023)",
         "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
       },
@@ -943,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Everybody Hurts",
+        "url": "https://open.spotify.com/album/0AKWuGnuXTxCC7vrdpyW6c"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290585,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/43y7ax8AhUk035FqJPXcdK"
+    },
+    {
+      "album": {
         "name": "Fabrics",
         "url": "https://open.spotify.com/album/2lemypYT4ph9G1wOe7wAxn"
       },
@@ -1084,7 +1156,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 208360,
       "name": "Flowers on the Moon",
       "url": "https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo"
@@ -1138,7 +1210,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173400,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
@@ -1250,7 +1322,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -1637,6 +1709,46 @@
     },
     {
       "album": {
+        "name": "Sprig",
+        "url": "https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        },
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s"
+    },
+    {
+      "album": {
+        "name": "Is it fun for you?",
+        "url": "https://open.spotify.com/album/6Q6kH5zoYQq3F7rYMcuAHK"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172227,
+      "name": "Is it fun for you?",
+      "url": "https://open.spotify.com/track/6vgQ5R04b4pbPk0TxlPIP2"
+    },
+    {
+      "album": {
         "name": "Is This What Love Is?",
         "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
       },
@@ -1756,7 +1868,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168608,
       "name": "Kill Bill - Acoustic",
       "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
@@ -2533,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0L4li5hzdRBcrRyaa5FfGL"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211930,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/7dj3yeU3pzcmFnGXo8cLsi"
+    },
+    {
+      "album": {
         "name": "amy allen",
         "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
       },
@@ -2678,7 +2808,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
@@ -3284,7 +3414,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx"

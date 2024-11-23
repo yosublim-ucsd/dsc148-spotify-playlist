@@ -1311,6 +1311,28 @@
     },
     {
       "album": {
+        "name": "Break Your Mind",
+        "url": "https://open.spotify.com/album/1pw2fWEsKkq4Ar9TAlFAcD"
+      },
+      "artists": [
+        {
+          "name": "Onhell",
+          "url": "https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t"
+        },
+        {
+          "name": "Hypho",
+          "url": "https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Break Your Mind",
+      "url": "https://open.spotify.com/track/0NN8tWD32XU8ilwxRDFejb"
+    },
+    {
+      "album": {
         "name": "Triple It / Breath Work",
         "url": "https://open.spotify.com/album/429ekJC6yJCyizBtszJHkm"
       },
@@ -1575,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "C.R.U.S.H.",
+        "url": "https://open.spotify.com/album/2GDuHM5p9ZtlsUFJhzrQoB"
+      },
+      "artists": [
+        {
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341955,
+      "name": "C.R.U.S.H.",
+      "url": "https://open.spotify.com/track/36lrFRfMH2SWBag141DLkB"
+    },
+    {
+      "album": {
         "name": "Cafe Racer",
         "url": "https://open.spotify.com/album/71pOhDRYyDDP0XQXduI6ce"
       },
@@ -1806,7 +1850,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 406249,
       "name": "Codex",
       "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
@@ -1824,7 +1868,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 295384,
       "name": "Cold Star",
       "url": "https://open.spotify.com/track/0LivimTjIRa4K0e05WpAcE"
@@ -2488,7 +2532,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 226203,
       "name": "Esquites",
       "url": "https://open.spotify.com/track/4AKIDYX6LtaZmVLwpMkXL5"
@@ -2747,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Fires",
+        "url": "https://open.spotify.com/album/1mPrBYkNTyZGXVYC1mLDAe"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219357,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/2pdFa51EWCjhzHMKMSniUb"
+    },
+    {
+      "album": {
         "name": "Flangelic",
         "url": "https://open.spotify.com/album/15JbcK9q5TUL8pPH6RSYcU"
       },
@@ -2986,10 +3048,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 390000,
       "name": "Ganzfeld - Piezo Remix",
       "url": "https://open.spotify.com/track/0z0AWs9zLhkg7xKYrqjaYf"
+    },
+    {
+      "album": {
+        "name": "Gas Station",
+        "url": "https://open.spotify.com/album/0zsArxwKE4Hp2Z5Nas7f02"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Martyn Bootyspoon",
+          "url": "https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Gas Station",
+      "url": "https://open.spotify.com/track/1oqMRoryDMYaWDpUmLiHPa"
     },
     {
       "album": {
@@ -3533,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaka",
+        "url": "https://open.spotify.com/album/49nKa7qfHd0F4m4ypFGSSP"
+      },
+      "artists": [
+        {
+          "name": "Breaka",
+          "url": "https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353513,
+      "name": "Heartbreaka",
+      "url": "https://open.spotify.com/track/68QFIXvUv1nTEau6i9R5dJ"
+    },
+    {
+      "album": {
         "name": "Heartbroken Twenty Twenty",
         "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
       },
@@ -3872,7 +3974,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 210000,
       "name": "Hot 10 Times",
       "url": "https://open.spotify.com/track/77SYGXtVrRN8W5RwAqu2Du"
@@ -4112,7 +4214,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229380,
       "name": "I Need A Modem",
       "url": "https://open.spotify.com/track/2BK6cFk1utC4ZI3BnQC3eH"
@@ -4188,6 +4290,28 @@
       "duration_ms": 240000,
       "name": "I'm Tired",
       "url": "https://open.spotify.com/track/0el0XT1npokAS5QLYpUQ8c"
+    },
+    {
+      "album": {
+        "name": "Acid Latino",
+        "url": "https://open.spotify.com/album/5ixX6g6MeenyE1LlAjjdBL"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        },
+        {
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Ibis (feat. Caravan)",
+      "url": "https://open.spotify.com/track/1Fu2ySdDwZ2t5NmzBkSRXP"
     },
     {
       "album": {
@@ -4943,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Loon Call",
+        "url": "https://open.spotify.com/album/436GHDsQhgBxYAyk77X3P8"
+      },
+      "artists": [
+        {
+          "name": "Kilbourne",
+          "url": "https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322176,
+      "name": "Loon Call",
+      "url": "https://open.spotify.com/track/7y4Ipx5htF0J5sTMgQK4md"
+    },
+    {
+      "album": {
         "name": "Name It",
         "url": "https://open.spotify.com/album/5hWHm4vyqYpKKOZaMv558j"
       },
@@ -5086,7 +5228,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 212415,
       "name": "Miso",
       "url": "https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6"
@@ -5580,7 +5722,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 159250,
       "name": "One Fly Tune",
       "url": "https://open.spotify.com/track/19XwRbjSXR6b4U7Eprgih3"
@@ -5970,7 +6112,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153600,
       "name": "Pressure Cumbia",
       "url": "https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp"
@@ -6686,7 +6828,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 282504,
       "name": "Sea Slugs",
       "url": "https://open.spotify.com/track/1JMB4vTM7gSHwlRsMDt4ZA"
@@ -6740,7 +6882,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 224214,
       "name": "SENSOR DATA",
       "url": "https://open.spotify.com/track/77OKRwzLGSQUtaYdlrIRlf"
@@ -6758,7 +6900,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 426867,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
@@ -6860,7 +7002,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 336363,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/1kGHxO9XHZcZx6XsEtLPBu"
@@ -7072,7 +7214,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 245413,
       "name": "SLB",
       "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"
@@ -7178,7 +7320,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 163263,
       "name": "SPANK!",
       "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
@@ -8063,6 +8205,32 @@
     },
     {
       "album": {
+        "name": "Twin Cities",
+        "url": "https://open.spotify.com/album/1oenhC9FiwWSHgughIZBce"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        },
+        {
+          "name": "FaltyDL",
+          "url": "https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk"
+        },
+        {
+          "name": "Twin Cities",
+          "url": "https://open.spotify.com/artist/4uD6y1wAjWtg9bigs0UoPH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Twin Cities - Edit",
+      "url": "https://open.spotify.com/track/3bMhLbLk1iB77Z8wmv1ZNW"
+    },
+    {
+      "album": {
         "name": "TWITCH",
         "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
       },
@@ -8814,7 +8982,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 351060,
       "name": "Y Me",
       "url": "https://open.spotify.com/track/2YurHTgoMqCtX9Gkh5bjza"
@@ -8930,7 +9098,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 332126,
       "name": "You Know How",
       "url": "https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ"
@@ -8948,7 +9116,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 305518,
       "name": "Zaga",
       "url": "https://open.spotify.com/track/66vYCvUT2aMhIrkQwOSI0D"

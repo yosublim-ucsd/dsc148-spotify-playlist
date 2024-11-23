@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-150 songs - 9 hr 2 min
+151 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Three Favorite Colors](https://open.spotify.com/track/3OW44UgVC9RrayjcEBcqWY) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Three Favorite Colors](https://open.spotify.com/album/0GIqtIr42UugCSX4DK63Vf) | 3:11 | 2023-02-03 | 2023-08-21 |
 | [Til The Last Shot's Fired](https://open.spotify.com/track/5NA5FmzfDQPl6HWX4cYrh7) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Trace Adkins "X"](https://open.spotify.com/album/6aCFYxUYpZuhh6nXHSUerx) | 4:59 | 2021-11-12 |  |
 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 | 2021-11-12 |  |
+| [True South](https://open.spotify.com/track/3a6aKepwy5TFF74ENib8SI) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [True South](https://open.spotify.com/album/2w9KfN9d1mPSzaH2x7WmEe) | 3:20 | 2024-11-22 |  |
 | [Two Soldiers Coming Home](https://open.spotify.com/track/1izEIegmClpoKR5fYvjWJL) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 3:26 | 2021-11-12 |  |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-11-12 |  |
 | [Unsung Heroes](https://open.spotify.com/track/2MZ3g4ISokDM6nVGxrCOFe) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Unsung Heroes](https://open.spotify.com/album/2fv3mG9eGbc7lpCEUKaTbB) | 3:47 | 2021-11-12 | 2023-08-21 |

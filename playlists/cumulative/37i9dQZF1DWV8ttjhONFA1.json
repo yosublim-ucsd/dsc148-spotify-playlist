@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mica Sotera",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: lisandro skar & \u00bfJuan Julian?",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -1134,6 +1134,32 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "album": {
+        "name": "Las Rueditas de la Bici",
+        "url": "https://open.spotify.com/album/1zYKHqNOYPIszkAKFrqi3f"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        },
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Las Rueditas de la Bici",
+          "url": "https://open.spotify.com/artist/6kKtxXcuw2gn5q03ymTebF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136296,
+      "name": "cindor",
+      "url": "https://open.spotify.com/track/1wMU9GAJK9R7uJLnzqxF38"
     },
     {
       "album": {
@@ -4202,7 +4228,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 192137,
       "name": "Oh my goth",
       "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
@@ -5375,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "Te vi",
+        "url": "https://open.spotify.com/album/2wNysotC6ih2dyCUgS3y3n"
+      },
+      "artists": [
+        {
+          "name": "Uma German",
+          "url": "https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Te vi",
+      "url": "https://open.spotify.com/track/6Gio20biKmJWb7tPJXDgRS"
+    },
+    {
+      "album": {
         "name": "Telepat\u00eda Animal",
         "url": "https://open.spotify.com/album/5U3A9qKOYbyXDkfDze7PAB"
       },
@@ -5604,7 +5648,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 227203,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK"

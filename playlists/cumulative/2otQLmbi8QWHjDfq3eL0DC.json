@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223851,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF"
+    },
+    {
+      "album": {
         "name": "Feel Your Lovin'",
         "url": "https://open.spotify.com/album/6itlnneZqTTW0LWjl9AUlf"
       },

@@ -2,7 +2,7 @@
 
 ### [Global X](https://open.spotify.com/playlist/37i9dQZF1DWUxHPh2rEiHr)
 
-> Discover rhythmic crossover hits from cultures around the world\. Cover: Sevdaliza & KAROL G
+> Discover rhythmic crossover hits from cultures around the world\. Cover: Ela Taubert & Joe Jonas
 
 622 songs - 1 day 8 hr 21 min
 

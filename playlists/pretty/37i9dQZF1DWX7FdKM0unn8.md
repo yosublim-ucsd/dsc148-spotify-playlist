@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,135 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,145 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 18 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 |
 | 19 | [못다핀 꽃한송이](https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:09 |
 | 20 | [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/6KF4FS8RygWKc3vESndYe1) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:44 |
-| 21 | [그 아픔까지 사랑한거야](https://open.spotify.com/track/2ghebdwe2pNXT4eL34T7pW) | [Jo Jung Hyun](https://open.spotify.com/artist/5pGIThF8jQKXCNkr9u8632) | [그 아픔까지 사랑한거야](https://open.spotify.com/album/55UfHK7SkjcooSkHtougQf) | 3:57 |
+| 21 | [그 아픔까지 사랑한거야](https://open.spotify.com/track/2ghebdwe2pNXT4eL34T7pW) | [조정현](https://open.spotify.com/artist/2WTpsPucygbYRnCnoEUkJQ) | [그 아픔까지 사랑한거야](https://open.spotify.com/album/55UfHK7SkjcooSkHtougQf) | 3:57 |
 | 22 | [일어나](https://open.spotify.com/track/7DFOuHb86LlnLnQYQeCpTT) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 4:28 |
 | 23 | [내 마음에 주단을 깔고 Spread Silk On My Heart](https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제2집 Volume 2](https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38) | 5:57 |
 | 24 | [섬소년](https://open.spotify.com/track/1wa0k35WmDhsNJv3jELfHK) | [이정선](https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV) | [이정선 베스트](https://open.spotify.com/album/0mUMsxy7sVoBxa6oLJDXtk) | 4:26 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 85 | [Child Of The Winter](https://open.spotify.com/track/4EI3o8ZxBZITf1Y12tcVEI) | [Lee Jongyong](https://open.spotify.com/artist/7a6u6RfJPVQHl5N7lIk8Wt) | [Lee Jongyong](https://open.spotify.com/album/5HFUe5GPpjmX6umcBlPYkt) | 4:22 |
 | 86 | [Changing Seasons](https://open.spotify.com/track/7hV1RYCYJjXChKSrhHaamj) | [Lee Yong](https://open.spotify.com/artist/23S2B8TUv56DUXF7kpfi1h) | [Lee Yong 1.](https://open.spotify.com/album/78rjwQxUD7eGQtwIYO5fae) | 3:47 |
 | 87 | [내마음의 보석상자](https://open.spotify.com/track/5nSBcnvB8fbgu0xJLPYdkl) | [해바라기](https://open.spotify.com/artist/1d0JcDAe4qjqpNzPJuf9uB) | [사랑은 언제나 그자리에](https://open.spotify.com/album/78lqaBjh6s38tBSwghSuon) | 4:05 |
-| 88 | [Let's Meet in the Sad Season](https://open.spotify.com/track/5anOeudFztkcy0XnV1VptC) | [Baek YeongGyu](https://open.spotify.com/artist/2xIiStpZbh6uT0ZH5ujTgv) | [Golden Best](https://open.spotify.com/album/4qYudcauy6OergWMZN7rL0) | 3:58 |
+| 88 | [Let's Meet in the Sad Season](https://open.spotify.com/track/5anOeudFztkcy0XnV1VptC) | [백영규](https://open.spotify.com/artist/6d4AeVitN7PmGjpw9RyYqm) | [Golden Best](https://open.spotify.com/album/4qYudcauy6OergWMZN7rL0) | 3:58 |
 | 89 | [사랑의 미로](https://open.spotify.com/track/3u1C6nWVRoP5F0w8gGrDL3) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 3:42 |
 | 90 | [꿈의 대화](https://open.spotify.com/track/1oHP3Z1Rb7JUbcZyg0FTSz) | [이범용](https://open.spotify.com/artist/00Ej9IBAAdWLGEjApDsHWI), [한명훈](https://open.spotify.com/artist/2DiwlZotoyv4Bj4uFNfXde) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:00 |
 | 91 | [카페에서](https://open.spotify.com/track/3cSpvBYVWzZTYpVP3WNu3y) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 2:47 |

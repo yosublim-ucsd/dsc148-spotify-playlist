@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,393 likes - 87 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,398 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 29 | [春夏秋冬☆Blooming!](https://open.spotify.com/track/45RpTPKeWsGGRkX5onDCf4) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [春夏秋冬☆Blooming!](https://open.spotify.com/album/4FG9dxPiMVyvZTiANQGLI6) | 3:21 |
 | 30 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 |
 | 31 | [おばけずかんのうた](https://open.spotify.com/track/1TgvXxbnXszwGROJiqODZO) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [おばけずかんのうた](https://open.spotify.com/album/6lCRhA93rO04PNEXL6W9AN) | 3:13 |
-| 32 | [The Show Must Go On!](https://open.spotify.com/track/2TqPbikfiJUB6BcaIlnnVJ) | [MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~オールキャスト](https://open.spotify.com/artist/6GjVqZPNAGuZN13WoTyOcF) | [「MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~」MUSIC Collection](https://open.spotify.com/album/7m9rX4FJTMpj8QGaVg8ayP) | 4:35 |
+| 32 | [The Show Must Go On!](https://open.spotify.com/track/2TqPbikfiJUB6BcaIlnnVJ) | [MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~オールキャスト](https://open.spotify.com/artist/6GjVqZPNAGuZN13WoTyOcF) | [「MANKAI STAGE『A3!』～AUTUMN & WINTER 2019～」MUSIC Collection](https://open.spotify.com/album/7m9rX4FJTMpj8QGaVg8ayP) | 4:35 |
 | 33 | [The Show Must Go On!\(Four Seasons Medley\)](https://open.spotify.com/track/2lzQ4cVAPJn7A47ZmPg0Tx) | [Mankai Company](https://open.spotify.com/artist/3iobaafFTMXhL9oAR13dFw) | [MANKAI STAGE『A3!』MANKAI Selection Vol\. 1](https://open.spotify.com/album/1DCkWDYCBus0MONVEHkNDi) | 4:06 |
 | 34 | [Hands](https://open.spotify.com/track/5FZajvwwwvNWlir4tRGJm2) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ウルトラマンR/B オープニング主題歌 Hands](https://open.spotify.com/album/3buYEfufCsJ2ABhZ2zpddB) | 3:49 |
 | 35 | [インパーフェクト](https://open.spotify.com/track/5mqvPARzMkKIO06ZBvq0wu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [インパーフェクト](https://open.spotify.com/album/458ubOzK10el0DaV1Ud7Qp) | 3:47 |

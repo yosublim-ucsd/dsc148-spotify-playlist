@@ -5981,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/5P1jgzyavdPhtGzY1VucG8"
+      },
+      "artists": [
+        {
+          "name": "Nevada",
+          "url": "https://open.spotify.com/artist/3Pjx4uqUIWaqsgSAfwhZCq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102248,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/6zhr4V8bj8KXzx2JJyhtQq"
+    },
+    {
+      "album": {
         "name": "Amiezavj",
         "url": "https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x"
       },
@@ -32458,8 +32476,8 @@
           "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
         },
         {
-          "name": "Hoodini",
-          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+          "name": "HOODINi",
+          "url": "https://open.spotify.com/artist/0xHcTfDoefJ0M04UZyX901"
         }
       ],
       "date_added": "2024-11-14",
@@ -75390,10 +75408,6 @@
         {
           "name": "4m",
           "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
-        },
-        {
-          "name": "EMDI",
-          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
         }
       ],
       "date_added": "2024-11-22",
@@ -92179,7 +92193,7 @@
         },
         {
           "name": "D-Ross",
-          "url": "https://open.spotify.com/artist/3AJSAtfY4qkm7DfGdCK9ne"
+          "url": "https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T"
         }
       ],
       "date_added": "2024-11-08",

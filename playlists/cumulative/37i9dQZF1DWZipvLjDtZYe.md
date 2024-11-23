@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\*ハロー、プラネット。](https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [ボーカロイドは終末鳥の夢を見るか?](https://open.spotify.com/album/6xLb6DYNftzLt6pgGGOJSM) | 5:01 | 2021-09-23 |  |
 | [39](https://open.spotify.com/track/3wmmuJJ1G9Ykkhp3NAqk8u) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5YX7NCGvKobJjYjmbs1maK) | 3:39 | 2022-08-07 | 2024-04-19 |
 | [39 \(feat\. 初音ミク\)](https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 \(feat\. 初音ミク\)](https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf) | 3:39 | 2021-09-23 |  |
 | [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 | 2021-09-23 | 2024-04-19 |
@@ -143,5 +142,6 @@
 | [透明水彩](https://open.spotify.com/track/0WFb5FY1w7jV1DnDmwXpbd) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 4:05 | 2021-09-23 | 2022-07-03 |
 | [電気予報 \(feat\. 初音ミク\)](https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [電気予報](https://open.spotify.com/album/0rxIQEIM9GkmhegoOORAJy) | 3:51 | 2024-01-05 |  |
 | [魔法みたいなミュージック！ \(feat\. 初音ミク\)](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [魔法みたいなミュージック！](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 | 2021-09-23 |  |
+| [＊ハロー、プラネット。](https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [ボーカロイドは終末鳥の夢を見るか？](https://open.spotify.com/album/6xLb6DYNftzLt6pgGGOJSM) | 5:01 | 2021-09-23 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

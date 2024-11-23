@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-921 songs - 1 day 3 hr 46 min
+924 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Cradle of Comfort](https://open.spotify.com/track/60BrRLaI447qMQoqbZYGLj) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Cradle of Comfort](https://open.spotify.com/album/6LzqKaWjFQPcsD7t3xqTwf) | 1:46 | 2022-05-12 | 2023-11-17 |
 | [Cradle on a Cloud](https://open.spotify.com/track/0jvItpH5ytYGRhrg6Yvbmb) | [Misha Leonard](https://open.spotify.com/artist/034npS5AaTTSoye5Nzqtnt) | [Stroll Through the Zoo](https://open.spotify.com/album/5FFjkXB5XFymxwubDOExf6) | 2:36 | 2021-10-05 | 2022-10-29 |
 | [Creature Comforts](https://open.spotify.com/track/4YCnbgl9lcIb4OiP5n2Joe) | [Tristan Hertzog](https://open.spotify.com/artist/1Ht23O9cVMdYKdJFXZ6RDb) | [Creature Comforts](https://open.spotify.com/album/3w7vN69EdzTkpaKvvWYJ0l) | 2:03 | 2021-10-05 | 2022-10-29 |
+| [Crooning Birds](https://open.spotify.com/track/4G0Ls7VK5eOxBUaTFWYSfO) | [Ellis Harlow](https://open.spotify.com/artist/3VlWaeB4C2rs53K30272vX) | [Crooning Birds](https://open.spotify.com/album/6hgbgXPvT8yl1UnUlvrZNt) | 2:03 | 2024-11-22 |  |
 | [Daisy Bell](https://open.spotify.com/track/7xi61nBse03WExOIo8Wlxp) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Daisy Bell](https://open.spotify.com/album/1vnzTXBCpj9y0Ndd5lX3PM) | 2:26 | 2022-11-18 | 2024-04-17 |
 | [Daisy Bell \(Bicycle Built for Two\)](https://open.spotify.com/track/4gyBcXuZe5VGOijSvq7O47) | [Isla Davies](https://open.spotify.com/artist/3QRPLB7WqkgjAGicuDMBIH) | [Daisy Bell](https://open.spotify.com/album/7tZXnUN0mZtUJx0jplFXzp) | 1:25 | 2021-10-05 | 2022-09-03 |
 | [Dalmatian](https://open.spotify.com/track/0sw8cZnGkmKtOEgzZW6iYo) | [Holy Day](https://open.spotify.com/artist/12LJaMYFHXueUiln6R32eD) | [Dalmatian](https://open.spotify.com/album/15EuOiLD2wZsinODuLbJnG) | 1:48 | 2024-05-03 |  |
@@ -232,6 +233,7 @@
 | [Everytime I sleep](https://open.spotify.com/track/0L0RDiDft9D5IRLzxTuGRh) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [Everytime I sleep](https://open.spotify.com/album/4clt6pgzIPDseXZpW7Xd4W) | 1:15 | 2021-10-05 | 2022-11-19 |
 | [È ora di andare a dormire](https://open.spotify.com/track/0mGk1SJsQcAw4Vr3YPQ63Y) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [È ora di andare a dormire](https://open.spotify.com/album/7tTXoQwrhoG7laIxSwIJBs) | 1:58 | 2021-10-05 | 2022-10-29 |
 | [Faeri Frolic](https://open.spotify.com/track/1UjCyFfbMw6YhxlYBYgZ8w) | [Heiki Mäkinen](https://open.spotify.com/artist/4EXYjG9myBoKjrzUuIyHwQ) | [Faeri Frolic](https://open.spotify.com/album/0XeCCnRmhnwp3wzXPSJRu1) | 2:06 | 2024-05-24 |  |
+| [Fairy Dust](https://open.spotify.com/track/3bJK8GugWTUGa9cDXioatC) | [Naomi Nora](https://open.spotify.com/artist/0YNOeiHmQFjfYhfSU8TOq7) | [Fairy Dust](https://open.spotify.com/album/6IU9I01l4WeGTg6pwOke7V) | 2:04 | 2024-11-22 |  |
 | [Farmer Star](https://open.spotify.com/track/2fCsfNGldSE9OUTi2aK3TE) | [Candy Dreamer](https://open.spotify.com/artist/0Hi8wmLjJz0yRhwPsy807q) | [Goodnight One, Two, Three](https://open.spotify.com/album/1wuFzY5aq1lhlbbWxfQMEk) | 1:43 | 2021-10-05 | 2022-11-19 |
 | [Fast Asleep](https://open.spotify.com/track/71j4WYjkHc24oZGrur3QlZ) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [Fast Asleep](https://open.spotify.com/album/6HgJJ7aZtyyxb2IdtSqLj1) | 1:41 | 2022-06-08 | 2023-01-27 |
 | [Faster than Fairies](https://open.spotify.com/track/6kgiFNyG4GQqaK1LoPHySV) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Faster than Fairies](https://open.spotify.com/album/12Qpv0c9aGPBQDbt1fg5ZH) | 1:45 | 2022-10-28 | 2024-04-17 |
@@ -357,7 +359,7 @@
 | [I Ett Hus Vid Skogens Slut](https://open.spotify.com/track/04FI1E17qnSiqO54mxH6Ah) | [Pontus Holt](https://open.spotify.com/artist/1RlTiQLa9gLES77OPf1ymC) | [Vaggvisor För De Små](https://open.spotify.com/album/5ZLBT2cIEDEPBS5hbLMCeD) | 1:49 | 2021-10-05 | 2022-10-29 |
 | [I Had a Rooster](https://open.spotify.com/track/4PQwVsOmgZWxYYd1YEJQGK) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [I Had a Rooster](https://open.spotify.com/album/6YdhkmnDXglu6K3DiWn3i5) | 1:27 | 2024-02-09 |  |
 | [I Love The Mountains](https://open.spotify.com/track/5sXKgtNFEzKRIFmOwIPE9e) | [Victoria Hall](https://open.spotify.com/artist/7lXNgd3DBtJa3cPVDvWWYM) | [I Love The Mountains](https://open.spotify.com/album/187mh5KfV5JLnbd1dSaWnk) | 1:33 | 2021-10-05 | 2023-02-18 |
-| [I Love You, My Button](https://open.spotify.com/track/0ZWjtqFCVRqi1TjlAJWooB) | [Lucian Gatsby](https://open.spotify.com/artist/5jUHdOBLfn77KCY2G3gBfZ) | [I Love You, My Button](https://open.spotify.com/album/4L6Nl5JFKeKogKechpqq3x) | 1:06 | 2022-06-08 |  |
+| [I Love You, My Button](https://open.spotify.com/track/0ZWjtqFCVRqi1TjlAJWooB) | [Lucian Gatsby](https://open.spotify.com/artist/5jUHdOBLfn77KCY2G3gBfZ) | [I Love You, My Button](https://open.spotify.com/album/4L6Nl5JFKeKogKechpqq3x) | 1:06 | 2022-06-08 | 2024-11-23 |
 | [I Will Wait](https://open.spotify.com/track/3EdJmKrXc43qoyCdTQxp6h) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [I Will Wait](https://open.spotify.com/album/4dXhT1cSUCwh5zzAG06lj7) | 2:33 | 2022-10-07 | 2023-02-25 |
 | [I Woke Up One Morning](https://open.spotify.com/track/2ppgdfYjrsGPPgdMlfOgVe) | [Jamie Milford](https://open.spotify.com/artist/1pOqbevY6sXz577mYh0GUM) | [I Woke Up One Morning](https://open.spotify.com/album/4zpwLxP04f67RibEtD0lSZ) | 1:24 | 2022-04-20 | 2024-05-24 |
 | [I'm A Little Teapot](https://open.spotify.com/track/5XGHsneZdR6o5RIGuWRfoj) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [I'm A Little Teapot](https://open.spotify.com/album/2CB5tQ4QOHZ67YFdbU4zNd) | 1:22 | 2022-12-23 | 2024-05-04 |
@@ -678,7 +680,7 @@
 | [Sleep Well](https://open.spotify.com/track/4JKK7V182MKyKjU1ZCifCV) | [David Langoster](https://open.spotify.com/artist/7hdAkFmni0yw1T5Yo1aIdP) | [Sleep Well](https://open.spotify.com/album/6UK4hyo7OVyOdjT9zhkmbK) | 1:16 | 2023-01-27 |  |
 | [Sleep, Everyone](https://open.spotify.com/track/5et4YeFJHUnWWu1HwcAOTt) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Sleep, Everyone](https://open.spotify.com/album/66bqqYWUvLsLD9w0v4KtSs) | 1:24 | 2023-12-08 |  |
 | [Sleep, My Little Friend](https://open.spotify.com/track/3qfyU34tCYJ4IJD1H8Qtxh) | [Gennie Voltera](https://open.spotify.com/artist/36B4hA2eDLLjGqOXncPXHw) | [Sleep, My Little Friend](https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC) | 1:05 | 2021-10-05 | 2022-10-29 |
-| [Sleepiness](https://open.spotify.com/track/0imByR0RuV7z2L0HuagzkW) | [Katinka Overman](https://open.spotify.com/artist/774hf31XZL9jyrwZMpLRiU) | [Sleepiness](https://open.spotify.com/album/4YF07YOzkn6NJp0vkqY9VO) | 2:02 | 2023-01-27 |  |
+| [Sleepiness](https://open.spotify.com/track/0imByR0RuV7z2L0HuagzkW) | [Katinka Overman](https://open.spotify.com/artist/774hf31XZL9jyrwZMpLRiU) | [Sleepiness](https://open.spotify.com/album/4YF07YOzkn6NJp0vkqY9VO) | 2:02 | 2023-01-27 | 2024-11-23 |
 | [Sleeping Angels](https://open.spotify.com/track/1LADjg5lDLdXfHwtZQeBCg) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Sleeping Angels](https://open.spotify.com/album/1y5xEE11FljXQpPeAhWRNN) | 1:25 | 2023-05-05 |  |
 | [Sleeping Bunnies \(Hop Little Bunnies\)](https://open.spotify.com/track/7HiZfnYY3llpVTf8rouVBa) | [Edoardo Velera](https://open.spotify.com/artist/5v6s80uMhmQesbeVd5uw6H) | [Sleeping Bunnies \(Hop Little Bunnies\)](https://open.spotify.com/album/4EC4eYmHeJg7Gcwri02TPJ) | 1:44 | 2022-12-16 | 2023-03-10 |
 | [Sleeping Bunnies \(Hop Little Bunnies\)](https://open.spotify.com/track/5Agkj72gXpyGC2QWNPBUbA) | [Nemo Jaymes](https://open.spotify.com/artist/0aZCH5KbYUZ69UWNjp0FZe) | [Sleeping Bunnies \(Hop Little Bunnies\)](https://open.spotify.com/album/6sPKuHddM9ufV3L0NyHpQq) | 1:40 | 2022-12-16 | 2023-05-05 |
@@ -690,7 +692,7 @@
 | [Sleepy Eyes](https://open.spotify.com/track/5283YmH40jwKUwMHKhaQ9H) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Sleepy Eyes](https://open.spotify.com/album/3fOjCd8xAkWzvnKeU1hzHl) | 1:56 | 2022-04-20 | 2024-06-22 |
 | [Sleepy Pony](https://open.spotify.com/track/0cLapA0ATrXkW2fj3QKqm2) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Sleepy Pony](https://open.spotify.com/album/4JJpNL8MTDjiWVSh8eb8nL) | 1:22 | 2021-10-05 | 2023-03-10 |
 | [Sleepy Sails and Dreamy Trails](https://open.spotify.com/track/4q2BSCV9zbfqvjcg2mUu90) | [Nerseh Soul](https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI) | [Sleepy Sails and Dreamy Trails](https://open.spotify.com/album/6a8fpBjySVbEsz01LaCq46) | 1:45 | 2024-01-05 |  |
-| [Sleepy Sweetheart](https://open.spotify.com/track/2eJMyfvSXBrukjb56VkTrZ) | [Juliette Noèle](https://open.spotify.com/artist/2ERsp4SxnTsMZVbe7so4EY) | [Sleepy Sweetheart](https://open.spotify.com/album/3521CDtJT2c4ErbvEbB52D) | 1:27 | 2023-02-17 |  |
+| [Sleepy Sweetheart](https://open.spotify.com/track/2eJMyfvSXBrukjb56VkTrZ) | [Juliette Noèle](https://open.spotify.com/artist/2ERsp4SxnTsMZVbe7so4EY) | [Sleepy Sweetheart](https://open.spotify.com/album/3521CDtJT2c4ErbvEbB52D) | 1:27 | 2023-02-17 | 2024-11-23 |
 | [Sleepy Teddy](https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3) | [Little Zoe](https://open.spotify.com/artist/510fJjKBitxDiqFinCi6F3) | [Sleepy Teddy](https://open.spotify.com/album/4hAvXaFLGquvpKnqPAodgN) | 2:21 | 2023-05-05 | 2023-06-16 |
 | [Sleepy Teddy's Tale](https://open.spotify.com/track/45LzgmtpD3LqOfzi4bKBOr) | [Jordan Avery](https://open.spotify.com/artist/1LXnzItmTIO6wBobBHHj7a) | [Sleepy Teddy's Tale](https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK) | 1:22 | 2023-11-17 |  |
 | [Sleepytime](https://open.spotify.com/track/13h7I9dNHkzu7JlKKZFShm) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [Sleepytime](https://open.spotify.com/album/78LjH7ANZqP6mxD1DwOEWs) | 1:10 | 2022-11-18 | 2024-04-17 |
@@ -730,6 +732,7 @@
 | [Sprinkletoad](https://open.spotify.com/track/6oFS9anQViHKvwO80TO171) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Sprinkletoad](https://open.spotify.com/album/6b7sa9WVvqNJMihcXsonsy) | 1:30 | 2024-10-18 |  |
 | [Stardust Slumber](https://open.spotify.com/track/3bnTraHF13rOOzEQK7jsWm) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [Stardust Slumber](https://open.spotify.com/album/21wwSR0ToJoUuEKOdOkzbC) | 1:28 | 2024-08-23 |  |
 | [Starlight](https://open.spotify.com/track/3JyF7MNrvf7BBogjWG0uuK) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Winter blossom](https://open.spotify.com/album/6aXnfd6IpY4rl7ElnLiBIV) | 2:38 | 2022-12-16 | 2024-05-24 |
+| [Starry Night](https://open.spotify.com/track/4NyzalkdVRsQeXGQbxuH3A) | [Snugglesnooze](https://open.spotify.com/artist/53tyuFj1nXxKIBJLoExGVB) | [Starry Night](https://open.spotify.com/album/34GF65BfTztcPOKSep7T4K) | 1:53 | 2024-11-22 |  |
 | [Starry Night Slumber](https://open.spotify.com/track/4zbTQZpwqntYlrruZRiTCz) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [Starry Night Slumber](https://open.spotify.com/album/3OT5HQ6ey4l9kM8ODz7UHt) | 1:41 | 2023-05-05 |  |
 | [Starshine](https://open.spotify.com/track/0ydmt6SKCUjmP70qq35UJO) | [Mary Willowfeather](https://open.spotify.com/artist/0mtgBfJTZfPCuMZ08HxCtS) | [Starshine](https://open.spotify.com/album/0lj282KZeVV2sxiwzRzLmp) | 1:41 | 2022-04-20 | 2024-05-24 |
 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 | 2024-04-16 |  |

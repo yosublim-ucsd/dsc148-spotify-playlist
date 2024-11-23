@@ -1,6 +1,6 @@
 {
   "description": "Von Ischgl bis Obertauern. Apr\u00e8s-Ski ist nur einmal im Jahr!",
-  "num_followers": 431986,
+  "num_followers": 432146,
   "original_name": "Apr\u00e8s Ski Party 2024",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gabalier",
-          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Hulapalu",
-      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
         "name": "Mille Grazie",
         "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -183,26 +183,6 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
-      },
-      "artists": [
-        {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 240761,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -283,42 +283,6 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
-      },
-      "artists": [
-        {
-          "name": "Kings of G\u00fcnter",
-          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
-        },
-        {
-          "name": "Reis Against The Sp\u00fclmachine",
-          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
-        "name": "Oben ohne",
-        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "Oben ohne",
-      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Reis Against The Sp\u00fclmachine",
+          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
+        "name": "Zwischenlandung",
+        "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
+      },
+      "artists": [
+        {
+          "name": "Haindling",
+          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Bayern",
+      "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 172034,
       "name": "Bock auf Bier",
       "url": "https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
-        "name": "Zwischenlandung",
-        "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
-      },
-      "artists": [
-        {
-          "name": "Haindling",
-          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Bayern",
-      "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
         "name": "Biertornado",
         "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 218417,
       "name": "Biertornado",
       "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
-      },
-      "artists": [
-        {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
-        }
-      ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2024-11-07 11:18:25",
-      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2024-11-07 11:18:25",
+      "album": {
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+      },
+      "artists": [
+        {
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+        }
+      ],
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
       "artists": [
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2024-11-07 11:18:25",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2024-11-07 11:18:25",
       "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
       "artists": [
         {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-11-07 11:18:25",

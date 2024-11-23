@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,751 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,748 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 28 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 | 29 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
 | 30 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 |
-| 31 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 |
-| 32 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 31 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 32 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 |
 | 33 | [choirs](https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [The Heavy\. The Healing\. The Holding.](https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M) | 3:30 |
 | 34 | [Sold](https://open.spotify.com/track/6SvOaMxOZGqSt9qjnZPlo7) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 2:44 |
 | 35 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/6JFTSegaXKew18hlNJiCmS"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8sk Skriner",
+          "url": "https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202291,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/61is4CXU5I4JvEm6riCEMD"
+    },
+    {
+      "album": {
         "name": "Handmade Life",
         "url": "https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY"
       },
@@ -344,6 +362,24 @@
       "duration_ms": 229373,
       "name": "Asparagus",
       "url": "https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd"
+    },
+    {
+      "album": {
+        "name": "Astral Winds",
+        "url": "https://open.spotify.com/album/23B4rpolPALUvOvM7G8bbl"
+      },
+      "artists": [
+        {
+          "name": "Eucalyptic",
+          "url": "https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Astral Winds",
+      "url": "https://open.spotify.com/track/1Tn3gza73aoSVxocpBLsrC"
     },
     {
       "album": {
@@ -419,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Autonomous",
+        "url": "https://open.spotify.com/album/226CgNHZEc4otxJKCQ4mUm"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133342,
+      "name": "Autonomous",
+      "url": "https://open.spotify.com/track/3SwD0d9X4WKDNbBCrf0GZE"
+    },
+    {
+      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/3a1bEBIopXiTDWHbn9oiin"
       },
@@ -452,6 +506,42 @@
       "duration_ms": 148301,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
+    },
+    {
+      "album": {
+        "name": "Awash",
+        "url": "https://open.spotify.com/album/7LS1m9rdGcc0oyRUnDfnny"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8sk Skriner",
+          "url": "https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Awash",
+      "url": "https://open.spotify.com/track/0pmOD9EqymNZWEQBqi9H0Q"
+    },
+    {
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/45JThTsoSUWB3jXMC2u6Me"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121859,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/56K3O5ll53zW9G3xQfiPUK"
     },
     {
       "album": {
@@ -802,7 +892,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178000,
       "name": "Change Of Tides",
       "url": "https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE"
@@ -982,7 +1072,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170079,
       "name": "Color",
       "url": "https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ"
@@ -1036,7 +1126,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 130024,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p"
@@ -1184,6 +1274,24 @@
       "duration_ms": 140934,
       "name": "Displace",
       "url": "https://open.spotify.com/track/4PSh6Xs1SIXT6JEAz8QGYk"
+    },
+    {
+      "album": {
+        "name": "Display",
+        "url": "https://open.spotify.com/album/3vhOnEjTegpjgr3Yx3N8tS"
+      },
+      "artists": [
+        {
+          "name": "Theo Ember",
+          "url": "https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129524,
+      "name": "Display",
+      "url": "https://open.spotify.com/track/2zQQDwkqV1PdM7nBtMMpC7"
     },
     {
       "album": {
@@ -1630,7 +1738,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 131071,
       "name": "Exit",
       "url": "https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0"
@@ -2182,6 +2290,24 @@
       "duration_ms": 145116,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/7mVts0s26dcB926oonXeoT"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/7CyRUeWFLFpDhb5aOuEBJa"
+      },
+      "artists": [
+        {
+          "name": "Gajaka",
+          "url": "https://open.spotify.com/artist/1pTns3zLC3U3F8LjY4y5rO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1W2safDH6nXkN8AbcxCkzg"
     },
     {
       "album": {
@@ -3204,7 +3330,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 153230,
       "name": "lost in motions",
       "url": "https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP"
@@ -3352,7 +3478,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 243987,
       "name": "Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?",
       "url": "https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2"
@@ -3514,7 +3640,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 136956,
       "name": "Molesk",
       "url": "https://open.spotify.com/track/2Xbv0iAI6Irz0MbzIoA8qv"
@@ -4023,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/73dP7XqqLWjwvYB1LSRiyY"
+      },
+      "artists": [
+        {
+          "name": "Stellar Luminous",
+          "url": "https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141255,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/07To1wtrrBWQEPZyCP5LL3"
+    },
+    {
+      "album": {
         "name": "ouma",
         "url": "https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ"
       },
@@ -4038,6 +4182,24 @@
       "duration_ms": 177957,
       "name": "ouma",
       "url": "https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS"
+    },
+    {
+      "album": {
+        "name": "Out of this World",
+        "url": "https://open.spotify.com/album/46IN6kCCMP1ix8gIdmOSQF"
+      },
+      "artists": [
+        {
+          "name": "Yume",
+          "url": "https://open.spotify.com/artist/4BgMskNNvTm3R0amoQs2eD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168014,
+      "name": "Out of this World",
+      "url": "https://open.spotify.com/track/4PmX7b7S3EiMVpXKyxyAvs"
     },
     {
       "album": {
@@ -4340,7 +4502,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 152500,
       "name": "Rectifier",
       "url": "https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO"
@@ -4528,7 +4690,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179104,
       "name": "Rings",
       "url": "https://open.spotify.com/track/2O16b4CiYRidoYlTFT8iom"
@@ -5073,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Standing on a Mountain Top",
+        "url": "https://open.spotify.com/album/5URaSm7GbVibJhR2ygdHqe"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Standing on a Mountain Top",
+      "url": "https://open.spotify.com/track/6aIEM3qc6zvTyeL1yGCYH5"
+    },
+    {
+      "album": {
         "name": "Standing Room",
         "url": "https://open.spotify.com/album/1eCvGwYCYkqFxQ0iAyf2Of"
       },
@@ -5192,7 +5372,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 128000,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4HFsdkbBXreHBwhfdn1SuK"
@@ -5300,7 +5480,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 175776,
       "name": "summer silence",
       "url": "https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS"
@@ -5523,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/0myTCrpBNhFkDqlN4cGEuy"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155781,
+      "name": "The Collapse",
+      "url": "https://open.spotify.com/track/0zYQ10pifjIs6OcQo6xuQm"
+    },
+    {
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/3aE5W4L8nurRgcvUIgvNUj"
       },
@@ -5588,7 +5786,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 230750,
       "name": "The Ghosts we keep Inside Ourselves",
       "url": "https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi"
@@ -5811,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "Through A Lense",
+        "url": "https://open.spotify.com/album/17Yd3d6PMoIDboIEWW0UjF"
+      },
+      "artists": [
+        {
+          "name": "William Reed",
+          "url": "https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147677,
+      "name": "Through A Lense",
+      "url": "https://open.spotify.com/track/3QZxMvy2I9piClpA7FDaGI"
+    },
+    {
+      "album": {
         "name": "through the lens",
         "url": "https://open.spotify.com/album/1eaLoF0Ue2waqmgsydIZD8"
       },
@@ -6006,6 +6222,24 @@
       "duration_ms": 207600,
       "name": "Tranquillity Coast",
       "url": "https://open.spotify.com/track/4pNApe3zxo7l2iv7ryP5t0"
+    },
+    {
+      "album": {
+        "name": "Transit of Venus",
+        "url": "https://open.spotify.com/album/77KzjevlXUQeBnlcv7dEGb"
+      },
+      "artists": [
+        {
+          "name": "Icarus Lost",
+          "url": "https://open.spotify.com/artist/3Qa3b4M89t9VWBDXfiS8Gb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Transit of Venus",
+      "url": "https://open.spotify.com/track/4ufuWGDajkAc479LZ6uVTH"
     },
     {
       "album": {
@@ -6488,7 +6722,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 207500,
       "name": "When we go",
       "url": "https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP"
@@ -6578,7 +6812,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 166461,
       "name": "Wings",
       "url": "https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo"
@@ -6618,6 +6852,24 @@
       "duration_ms": 212928,
       "name": "within spaces",
       "url": "https://open.spotify.com/track/5LIQk4IG19KbqS7ZtfVJ8Z"
+    },
+    {
+      "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/4G4Ls4pN6Nj5ouFwtSB8UD"
+      },
+      "artists": [
+        {
+          "name": "Eden",
+          "url": "https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0zMRLgAv7POwRpgtAZbtvj"
     },
     {
       "album": {

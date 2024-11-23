@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,066 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,139 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 24 | [Azhagana Rakshasiyea](https://open.spotify.com/track/22ES2cn1sUsVMn53YIjw57) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:07 |
 | 25 | [Telephone Mani Pol](https://open.spotify.com/track/6gGfcvpyTSM8G1Vf5xUGYW) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indian](https://open.spotify.com/album/7IIRC6m8rRU0qQUHo0BmR4) | 6:14 |
 | 26 | [Narumugaiyeh Narumugaiyeh](https://open.spotify.com/track/0TzbduxzsPOf3Ar7lErQF6) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:27 |
-| 27 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
+| 27 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |
 | 28 | [Veerapandi Kotayyile](https://open.spotify.com/track/20GvRntcVUf2iB9yuN5jZ3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 6:29 |
-| 29 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |
+| 29 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
 | 30 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
 | 31 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
 | 32 | [Kaadhal Rojave](https://open.spotify.com/track/2ppIxEsahAYSLp4XXFcKFi) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 4:59 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 72 | [Rukkumani Rukkumani](https://open.spotify.com/track/7HHNlCp1VXGqu960Z7ECcu) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 5:53 |
 | 73 | [Odakaara](https://open.spotify.com/track/4dU3raXOoNoQE8wPlksNbb) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 4:21 |
 | 74 | [Minnalea En Vazhvin](https://open.spotify.com/track/6078vTOfNPOHZDuyzzsMLx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:36 |
-| 75 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
+| 75 | [Thirakkaatha](https://open.spotify.com/track/3OErux8QBSsBcmD9eT8oWP) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 7:09 |
 
 Snapshot ID: `Zv+DxQAAAADOFTFBX5CP44uXynzO9zO3`

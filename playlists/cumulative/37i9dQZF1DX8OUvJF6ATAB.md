@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-341 songs - 1 day 5 hr 54 min
+342 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [dlp 2.1](https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 10:50 | 2023-04-21 | 2024-04-19 |
 | [dlp 2.1](https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 10:50 | 2022-07-06 | 2023-04-24 |
 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 | 2022-11-17 |  |
+| [DOROTHEA’S BED](https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 5:25 | 2024-11-22 |  |
 | [dovetail](https://open.spotify.com/track/1RUB5NeA811WtkwswpnozG) | [Ahnnu](https://open.spotify.com/artist/6wftqTAUFLgINZAsEng8D4) | [Parallax](https://open.spotify.com/album/5wNvbaaPcZOp60Po7tKSHB) | 1:37 | 2021-10-06 | 2022-07-14 |
 | [DRAHTKURBEL](https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE) | [Eckert & Hagen](https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq), [No Bloom Now](https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH) | [DRAHTKURBEL](https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9) | 4:48 | 2022-02-18 | 2024-10-09 |
 | [Dreams of Sand and Snow \- And the Horse\-Sized Cat](https://open.spotify.com/track/0HrD2QFHbDDGTCqUH89wCR) | [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V), [Urbex](https://open.spotify.com/artist/21RMSKlqWz4duELO6nByCd), [Ben van Gelder](https://open.spotify.com/artist/3oF2KEIn3rBRaGktWCwKdg) | [Sketches of Nowhere](https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2) | 2:31 | 2021-10-06 |  |
@@ -258,7 +259,7 @@
 | [Sep 11th](https://open.spotify.com/track/19vWwOL1w8crdrgFEbrEaG) | [Matthew Cardinal](https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp) | [Asterisms](https://open.spotify.com/album/3B2Zd9kIYg8ET4l1txZfTw) | 2:28 | 2021-10-06 | 2022-07-24 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-06 |  |
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-06 |  |
-| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 |  |
+| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 | 2024-11-23 |
 | [Silver](https://open.spotify.com/track/5bAXwSGe8VudUcZCQs8avp) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Silver](https://open.spotify.com/album/1ACYcJOkXukOYC1hVwLnFq) | 2:50 | 2024-10-23 |  |
 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 | 2024-08-12 |  |
 | [Snowflakes](https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt) | [Zabala](https://open.spotify.com/artist/1XsGvEIqRwfXb3iZ8Jq5cr) | [Vik](https://open.spotify.com/album/09VRYoZ63rZQujaRMwJO1w) | 2:54 | 2021-10-06 | 2022-07-22 |

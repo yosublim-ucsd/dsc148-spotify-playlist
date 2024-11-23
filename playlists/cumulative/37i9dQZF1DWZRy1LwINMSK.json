@@ -1415,6 +1415,28 @@
     },
     {
       "album": {
+        "name": "ESTRELLAS",
+        "url": "https://open.spotify.com/album/1a5TSo9xjcZcB7QgCsj7Gh"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157511,
+      "name": "ESTRELLAS",
+      "url": "https://open.spotify.com/track/6Lzc35RPYQJqlB3XHLbUIq"
+    },
+    {
+      "album": {
         "name": "EXARTE PA TRA",
         "url": "https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7"
       },
@@ -2024,7 +2046,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 154794,
       "name": "Haciendo Billete",
       "url": "https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg"
@@ -3391,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "Movistar",
+        "url": "https://open.spotify.com/album/3OWOBMBX72FiGYI73DH2t0"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Movistar",
+      "url": "https://open.spotify.com/track/42FHOHMX3la24GiJHyB7Ym"
+    },
+    {
+      "album": {
         "name": "My Blood Remix (feat. Julianno Sosa)",
         "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
       },
@@ -4718,7 +4762,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190115,
       "name": "SO HIGH",
       "url": "https://open.spotify.com/track/452vnm4c6cCo9EZCJoOAWq"

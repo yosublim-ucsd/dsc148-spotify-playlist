@@ -4,7 +4,7 @@
 
 > No es cumbia, tampoco reggaetón\. Foto: Kenia OS & La Joaqui.
 
-238 songs - 11 hr 3 min
+239 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BM \| Mission 18](https://open.spotify.com/track/2UIiJWTPP2BLPZKHbe4nhP) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| Mission 18](https://open.spotify.com/album/16jEh2XoL253AFYGCjzN16) | 2:57 | 2023-12-15 | 2024-05-11 |
 | [Bombona](https://open.spotify.com/track/6vqO2NWRSUBEFMXDeUoztc) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Bombona](https://open.spotify.com/album/0UYtU4ZOz3i5CywsZDcZwB) | 2:26 | 2024-11-01 |  |
 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 | 2023-12-15 | 2024-02-17 |
+| [C PEGÓ](https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [C PEGÓ](https://open.spotify.com/album/43Y21ZkWMQo93MSFIZXBsz) | 2:19 | 2024-11-22 |  |
 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 | 2023-12-15 |  |
 | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB) | 2:48 | 2023-12-15 |  |
 | [Capaz No Vuelvo](https://open.spotify.com/track/5GG8A3wZF3U26f14MqnWf3) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M) | [Capaz No Vuelvo](https://open.spotify.com/album/46pMDXRGQ426sS69tms8QH) | 2:03 | 2023-12-15 | 2024-11-02 |

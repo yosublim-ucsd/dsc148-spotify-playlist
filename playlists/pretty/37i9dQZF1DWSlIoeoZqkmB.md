@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト！2日間のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,210 likes - 95 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,214 likes - 95 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 | 5 | [インフィニット](https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 4:13 |
 | 6 | [WILL](https://open.spotify.com/track/6K6bHvaufLwtlY6ISK5B7W) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [25 YEARS AFTER ～All Time Best～](https://open.spotify.com/album/2rLAVu5MHjRFXR3pWzzC3S) | 4:35 |
 | 7 | [嵐の中で輝いて](https://open.spotify.com/track/7wNP6adsYPuAfE6kpVrCP9) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [25 YEARS AFTER ～All Time Best～](https://open.spotify.com/album/2rLAVu5MHjRFXR3pWzzC3S) | 4:16 |
-| 8 | [不安定な神様](https://open.spotify.com/track/6AMKKgiJVmYQ3OHY1R5y9U) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [うたわれるもの 偽りの仮面 & 二人の白皇 歌集](https://open.spotify.com/album/5k73r6vSGTy35ARwc2gxNa) | 4:00 |
+| 8 | [不安定な神様](https://open.spotify.com/track/6AMKKgiJVmYQ3OHY1R5y9U) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [うたわれるもの 偽りの仮面 & 二人の白皇　歌集](https://open.spotify.com/album/5k73r6vSGTy35ARwc2gxNa) | 4:00 |
 | 9 | [夢想歌](https://open.spotify.com/track/7yv8pgdxtPaqOshqunGUdP) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [The Best〜タイアップコレクション〜](https://open.spotify.com/album/6wlC5al4ymX8Xkxq7unGTF) | 4:06 |
 | 10 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
 | 11 | [メリトクラシー](https://open.spotify.com/track/58YNC52MIqpH5l4p1cDF2R) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [メリトクラシー](https://open.spotify.com/album/72kKMvW8r7t3sS1z3txjVn) | 3:30 |

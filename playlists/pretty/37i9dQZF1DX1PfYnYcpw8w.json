@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 3617357,
+  "num_followers": 3617972,
   "original_name": "This Is Ariana Grande",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeqbjAAAAAB9lACV3pTrfxHZIQEjoEZP",
+  "snapshot_id": "Z0AP0AAAAABeBAb99vztH5zKdEwMj6U/",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -23,6 +23,38 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2022-10-14 10:00:06",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Dangerous Woman",
+      "url": "https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -55,22 +87,6 @@
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Dangerous Woman",
-      "url": "https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -237,6 +253,26 @@
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
+      "added_at": "2022-10-14 10:00:06",
+      "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "eternal sunshine",
@@ -379,26 +415,6 @@
       "duration_ms": 193893,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7fYbFYt7X4FZvuJJC90EX0"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2022-10-14 10:00:06",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-10-14 10:00:06",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 234426,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
         "name": "MONOPOLY",
         "url": "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 204631,
       "name": "Met Him Last Night (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
-    },
-    {
-      "added_at": "2022-10-14 10:00:06",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 140693,
-      "name": "make up",
-      "url": "https://open.spotify.com/track/27356GVuMPFWiJSZCragoM"
     },
     {
       "added_at": "2022-10-14 10:00:06",

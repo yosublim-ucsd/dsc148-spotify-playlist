@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0HRGx78eQaMqoHoopLfi2h">Chuckyy</a>
 
-1,494 songs - 2 day 16 hr 39 min
+1,496 songs - 2 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Highest](https://open.spotify.com/track/7u67mIFOxmyRXC0AoA8qSz) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Highest](https://open.spotify.com/album/4mmkr3avUy6hzxtA69l6aN) | 3:06 | 2022-09-07 | 2022-11-13 |
 | [Highs & Lows](https://open.spotify.com/track/6JojBzIBCp1PIaSQYWPVg3) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [Highs & Lows](https://open.spotify.com/album/3uzQuAgBSmkx2Ub5G6BbZy) | 2:54 | 2022-03-16 | 2022-04-14 |
 | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo) | [DEADonMARRS](https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ) | 3:03 | 2024-06-28 | 2024-07-04 |
+| [HIM](https://open.spotify.com/track/3LtHfk5aSey4Mq3uS3cyCz) | [Kay Boogie](https://open.spotify.com/artist/1m0lBXBQtim948mrNIiWlk) | [HIM](https://open.spotify.com/album/1nNpjNBMX6C4jStlNlmDj0) | 2:13 | 2024-11-22 |  |
 | [Him](https://open.spotify.com/track/1s6PsH37YYMli0jsKSrUm8) | [Playboy Fresh](https://open.spotify.com/artist/38ehnnDky8g3OFQjo7YLjA) | [Him](https://open.spotify.com/album/7cJ13WTsRq7DfO1Jew2e5C) | 3:11 | 2023-08-24 | 2023-09-14 |
 | [Himalayan Salt](https://open.spotify.com/track/2hVl8NQPC2YqTlcTP5BCZn) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [droppedmilk](https://open.spotify.com/artist/6uigNrFuftOdvRs9boXTwT) | [Himalayan Salt](https://open.spotify.com/album/4PwWtlzoEKwdOoctoPlbOj) | 1:33 | 2024-09-18 | 2024-09-27 |
 | [Hit My Cup](https://open.spotify.com/track/5M2Y4A2VH3cqO60dUbt2TW) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [Hit My Cup](https://open.spotify.com/album/2hsNGSCaN95O4IOtQBc0vC) | 2:09 | 2022-01-26 | 2022-02-04 |
@@ -978,6 +979,7 @@
 | [Only Fan](https://open.spotify.com/track/3AUVniB4svOqazqrcBpIiA) | [3Breezy](https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG) | [Only Fan](https://open.spotify.com/album/7aGicceGGsqCAkYqz4QXwr) | 2:56 | 2024-07-24 | 2024-08-22 |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-11-29 | 2024-01-25 |
 | [OOTAZ](https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp), [TG Crippy](https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps), [Jay Da Chaser](https://open.spotify.com/artist/0JylLcrOkiUSkBMbDoiWYl) | [OOTAZ](https://open.spotify.com/album/5s0FhQROk8RQ9jLb4nD2ZQ) | 3:40 | 2022-07-06 | 2022-08-25 |
+| [Osborn Park](https://open.spotify.com/track/3je0iEUruiCfGonKaYLSr7) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Osborn Park](https://open.spotify.com/album/1lcTNHMjrgYEY1utV20Nnh) | 2:45 | 2024-11-22 |  |
 | [our daily bread](https://open.spotify.com/track/2BZfFTse4OSlBkOFDxfaJe) | [MESSIAH!](https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [our daily bread](https://open.spotify.com/album/3jjXaAYWsS7wCFZBtVGxZt) | 2:06 | 2024-07-10 |  |
 | [Out The Mud \(Bar Wars Cypher \#5\) \[feat\. Bla$ta, D' Barbie, WayMoBandzz, & JLR Delly\]](https://open.spotify.com/track/58S4l6CPdvCa1tyXG9REob) | [Thizzler On The Roof](https://open.spotify.com/artist/7MzVbMozPCJRYjXq7pilQQ), [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ), [D' Barbie](https://open.spotify.com/artist/1HgccHjln4GWMT7MuvVrid), [Waymobandzz](https://open.spotify.com/artist/2pddMZZfek5YysYY99OOFz), [JLR Delly](https://open.spotify.com/artist/41nrXyYbhh5CyoKUqKAtCn) | [Out The Mud \(Bar Wars Cypher \#5\) \[feat\. Bla$ta, D' Barbie, WayMoBandzz, & JLR Delly\]](https://open.spotify.com/album/6122JXw66ZiyAgCV3FltZD) | 3:36 | 2024-03-13 | 2024-03-21 |
 | [Out The Park](https://open.spotify.com/track/6ZLXpxRiSETjNZQXmHPeyG) | [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [Out The Park](https://open.spotify.com/album/5wopu01teACczCOoDmNpmf) | 2:09 | 2024-06-05 | 2024-06-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 532 songs - 1 day 11 hr 50 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -540,5 +540,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 530 | [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 |
 | 531 | [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 |
 | 532 | [Introduction \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 0:47 |
+| 533 | [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 |
+| 534 | [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 |
+| 535 | [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 |
 
-Snapshot ID: `AAAGuKmgbYcZ9UFfPkx7zX34AOTlwm3L`
+Snapshot ID: `AAAGu5xF7xrQK0ZImXg4liWzPyI7R3MO`

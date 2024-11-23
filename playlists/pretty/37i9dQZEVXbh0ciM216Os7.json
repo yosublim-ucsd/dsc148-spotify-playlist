@@ -6,30 +6,234 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAgP0Yss3P6ToX5WttNlZSh",
+  "snapshot_id": "AAAAAAAAAAAV1lMOnDcqbFTBWkX19XjC",
   "tracks": [
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Crossroads",
-        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
+        "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
+        "url": "https://open.spotify.com/album/40vIutKw2lpTnF5V7oLLlV"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 152013,
-      "name": "No Bad News (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
+      "duration_ms": 319912,
+      "name": "HIGH & HOLY - WARRYN\u2019S GROOVE",
+      "url": "https://open.spotify.com/track/5tSAiGJ7in3P3S0LiYwHsv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "100 percent",
+        "url": "https://open.spotify.com/album/59P7dZxEXA8ThBOonMGhb6"
+      },
+      "artists": [
+        {
+          "name": "Paully Thunda",
+          "url": "https://open.spotify.com/artist/2aD5xeudX7vtPNPilqcqMR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "100 percent",
+      "url": "https://open.spotify.com/track/0qb2rG3zRyNgwc3mgmCD67"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "If God Could Rap 2",
+        "url": "https://open.spotify.com/album/7jnva2AtZLX3piZtd59EDp"
+      },
+      "artists": [
+        {
+          "name": "Kingpen Slim",
+          "url": "https://open.spotify.com/artist/4u6vvNXjuFEkdX0lhYdsEK"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 248052,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1qO0SsxSIAci19iMbyr8lS"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": ".mp3s",
+        "url": "https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 167154,
+      "name": "s2wik",
+      "url": "https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Extreme Ways",
+        "url": "https://open.spotify.com/album/4A7kuAkbAMPlz96TbXfrxu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 197157,
+      "name": "Extreme Ways",
+      "url": "https://open.spotify.com/track/2qigRZvq9yAwT2VDwnUkIT"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Av\u00e0 e preferite",
+        "url": "https://open.spotify.com/album/0yKxYunrnKY9mRjaCa6iSF"
+      },
+      "artists": [
+        {
+          "name": "I Muvrini",
+          "url": "https://open.spotify.com/artist/6F0Plr9cZQ71ExSA4PGX7r"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "A Jalalabad - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/030UNvG9GyBZrDZjVegPTM"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 138323,
+      "name": "Chill Bae",
+      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Merci, Non Merci",
+        "url": "https://open.spotify.com/album/5VTOqmPJrJw9M3Ykvwyf7q"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/22YySOeu9uwkYPEwabYoi7"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "JUST LIKE THAT (with Ari Lennox)",
         "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
@@ -49,7 +253,7 @@
       "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Do Enough",
         "url": "https://open.spotify.com/album/3Owm6j7mCYQlAQQxBgyIiL"
@@ -69,7 +273,27 @@
       "url": "https://open.spotify.com/track/4LMeZK7Fs2iO84ZA89iLJP"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/25pjClAltlYBQpntwGXUw6"
@@ -89,7 +313,27 @@
       "url": "https://open.spotify.com/track/7cwcweCOo8UfCW5OzsLpDD"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Workload",
+        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
+      },
+      "artists": [
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "The Workload",
+      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Sunshine (My Girl) [Galantis Reshine]",
         "url": "https://open.spotify.com/album/6HiP9cKhki1PlP0Czfm6vH"
@@ -109,7 +353,7 @@
       "url": "https://open.spotify.com/track/4upxdPRXgbUxTQ5yDPHueZ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Bohemian Rhapsody",
         "url": "https://open.spotify.com/album/73Td5oIMISZDGAvzGvEpbC"
@@ -149,27 +393,7 @@
       "url": "https://open.spotify.com/track/4fTYrpUdPYdzl0eMdC7Ayv"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "I Had Known",
-        "url": "https://open.spotify.com/album/09drthJgiLWLCccxZuZGcL"
-      },
-      "artists": [
-        {
-          "name": "Kinger Bell",
-          "url": "https://open.spotify.com/artist/6rN4iXySzTQrZQXk7XmhXb"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 210191,
-      "name": "I Had Known",
-      "url": "https://open.spotify.com/track/05JsY2QsHdTGdnyf7b7mX7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Satisfied Soul EP",
         "url": "https://open.spotify.com/album/60IcrtB8SgqNdUg5P8kvHU"
@@ -184,12 +408,48 @@
           "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Head Heart Hands",
-      "url": "https://open.spotify.com/track/3idb9XVxEhADgzJA6YjYwh"
+      "duration_ms": 187192,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/3Pp7oNLlILdmCm83VZQa9J"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Original Sin (Ian Green Mix)",
+        "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Ian Green",
+          "url": "https://open.spotify.com/artist/5HnoheFb1wDJa7xQfnfJ4Y"
+        }
+      ],
+      "duration_ms": 253560,
+      "name": "Original Sin - Ian Green Mix",
+      "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Gretel (Bonus Version)",
         "url": "https://open.spotify.com/album/5kjCi2TvM0tT9CZ5o4CyJl"
@@ -205,7 +465,7 @@
       "url": "https://open.spotify.com/track/01zK7kTBxFjN3wKQjqXF6A"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Ram (Deluxe Edition)",
         "url": "https://open.spotify.com/album/728aLt8gy8OM8nn4kt1XdT"
@@ -225,7 +485,7 @@
       "url": "https://open.spotify.com/track/3LncqjwK95Lky7HQlrPBtK"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "michelinman",
         "url": "https://open.spotify.com/album/7DGfUX14MNucTUYGIYGyz4"
@@ -249,30 +509,10 @@
       "url": "https://open.spotify.com/track/78GbBcbn7Ne5Gl91ea2GXm"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Year of The Dragon",
-        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
-      },
-      "artists": [
-        {
-          "name": "Juke Drastik",
-          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 175604,
-      "name": "Verbal Swords - Remix",
-      "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "DIAMONDZ",
-        "url": "https://open.spotify.com/album/4GjYmVVrZZlpwm45LteEt0"
+        "name": "Never Be (Hold Of Me)",
+        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
       },
       "artists": [
         {
@@ -282,270 +522,14 @@
         {
           "name": "Unusual Demont",
           "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        },
-        {
-          "name": "B La B",
-          "url": "https://open.spotify.com/artist/0k4pFokUZ3NgnaFKSkfVp1"
         }
       ],
-      "duration_ms": 190531,
-      "name": "DIAMONDZ",
-      "url": "https://open.spotify.com/track/67dS3GEvL4RlAdgt4LksdM"
+      "duration_ms": 210120,
+      "name": "Never Be (Hold Of Me)",
+      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "HOFFA",
-        "url": "https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 259750,
-      "name": "The Source",
-      "url": "https://open.spotify.com/track/5HDOKsCfllv5gOfJAOd9Z7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 269704,
-      "name": "I Hope You Find Your Way Home",
-      "url": "https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 138323,
-      "name": "Chill Bae",
-      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Ego Maniacs",
-        "url": "https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 218111,
-      "name": "Ego Maniacs",
-      "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Merci, Non Merci",
-        "url": "https://open.spotify.com/album/5VTOqmPJrJw9M3Ykvwyf7q"
-      },
-      "artists": [
-        {
-          "name": "El Cousteau",
-          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 136874,
-      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/22YySOeu9uwkYPEwabYoi7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Poeira Cosmica",
-        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Poeira Cosmica",
-      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Workload",
-        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
-      },
-      "artists": [
-        {
-          "name": "Skyzoo",
-          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "The Workload",
-      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Original Sin (Ian Green Mix)",
-        "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Ian Green",
-          "url": "https://open.spotify.com/artist/5HnoheFb1wDJa7xQfnfJ4Y"
-        }
-      ],
-      "duration_ms": 253560,
-      "name": "Original Sin - Ian Green Mix",
-      "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Feeling So Real 2024",
-        "url": "https://open.spotify.com/album/5ooyW11I1KrkzS2nE3ZPCY"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Feeling So Real 2024",
-      "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "No More Costumes",
         "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
@@ -565,7 +549,67 @@
       "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
+        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 663217,
+      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
+      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Year of The Dragon",
+        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
+      },
+      "artists": [
+        {
+          "name": "Juke Drastik",
+          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 175604,
+      "name": "Verbal Swords - Remix",
+      "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Quatri\u00e8me mur",
+        "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 311070,
+      "name": "Quatri\u00e8me mur",
+      "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Like A Tree It Grows",
         "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
@@ -593,47 +637,35 @@
       "url": "https://open.spotify.com/track/6iIm2TCtfNPXODSL3P0z96"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
-        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+        "name": "HOFFA",
+        "url": "https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 663217,
-      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
-      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Quatri\u00e8me mur",
-        "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
         },
         {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 311070,
-      "name": "Quatri\u00e8me mur",
-      "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
+      "duration_ms": 259750,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/5HDOKsCfllv5gOfJAOd9Z7"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "The Essential Melody Gardot",
         "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Merci",
         "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
@@ -673,27 +705,7 @@
       "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Helen's Theme (Electric Guitar Version)",
-        "url": "https://open.spotify.com/album/2OmPt3bNutz6nMeEjBD7Fv"
-      },
-      "artists": [
-        {
-          "name": "Sergio Sorrentino",
-          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
-        },
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 80136,
-      "name": "Helen's Theme - Electric Guitar Version",
-      "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Hey Rudy",
         "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
@@ -711,6 +723,30 @@
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Aguas da Amazonia: Negro River",
+        "url": "https://open.spotify.com/album/0axFeQPLNfBW2hSE57PKKK"
+      },
+      "artists": [
+        {
+          "name": "Third Coast Percussion",
+          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Constance Volk",
+          "url": "https://open.spotify.com/artist/7GDIzLPD6Fo9JJNWcWcRzY"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Aguas da Amazonia: Negro River",
+      "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

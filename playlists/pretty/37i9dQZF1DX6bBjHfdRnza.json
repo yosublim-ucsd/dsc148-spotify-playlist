@@ -1,13 +1,65 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: dublon. Artwork by Rewina Beshue.",
-  "num_followers": 187840,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Austin Ato. Artwork by Rewina Beshue.",
+  "num_followers": 187912,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz4eMgAAAABBoW5Tx6LgzemBBQ1iKNeQ",
+  "snapshot_id": "Z0AP0AAAAADQv7KwBQwkodyVSHs/6B/t",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Doctor Of Love",
+        "url": "https://open.spotify.com/album/5LhsUHiVNHZ7bTJAYh2wLh"
+      },
+      "artists": [
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "duration_ms": 206651,
+      "name": "Doctor Of Love",
+      "url": "https://open.spotify.com/track/5OwLg5uzdyWADI4eY2s41S"
+    },
+    {
+      "added_at": "2024-11-20 17:36:50",
+      "album": {
+        "name": "Tresor",
+        "url": "https://open.spotify.com/album/4cObYukahaqO3gsAxQfCWy"
+      },
+      "artists": [
+        {
+          "name": "Magic Flowers",
+          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
+        },
+        {
+          "name": "Beni Hana",
+          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Tresor",
+      "url": "https://open.spotify.com/track/6BaTxltQI0xrizMIVpkXs2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+    },
     {
       "added_at": "2024-11-13 19:38:55",
       "album": {
@@ -29,36 +81,20 @@
       "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
-      "added_at": "2024-11-20 17:36:50",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "GOAL!",
-        "url": "https://open.spotify.com/album/4OJW2jHIP2o623RPfiabQo"
+        "name": "Know Ur Down",
+        "url": "https://open.spotify.com/album/2q9Aeewf3VfSsQyNkf7heF"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "HAI-LIFE",
+          "url": "https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2"
         }
       ],
-      "duration_ms": 181874,
-      "name": "GOAL!",
-      "url": "https://open.spotify.com/track/40nCabIvegGlW6YMOh1VHm"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+      "duration_ms": 220394,
+      "name": "Know Ur Down",
+      "url": "https://open.spotify.com/track/5zl5pRRbKSTituTyjqihT0"
     },
     {
       "added_at": "2024-11-13 19:38:55",
@@ -149,24 +185,36 @@
       "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
     },
     {
-      "added_at": "2024-11-20 17:36:50",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Tresor",
-        "url": "https://open.spotify.com/album/4cObYukahaqO3gsAxQfCWy"
+        "name": "As I Do",
+        "url": "https://open.spotify.com/album/7yXPJHiJ1Yx8S3g3McodDK"
       },
       "artists": [
         {
-          "name": "Magic Flowers",
-          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
-        },
-        {
-          "name": "Beni Hana",
-          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+          "name": "Julian Hall",
+          "url": "https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Tresor",
-      "url": "https://open.spotify.com/track/6BaTxltQI0xrizMIVpkXs2"
+      "duration_ms": 133746,
+      "name": "As I Do",
+      "url": "https://open.spotify.com/track/1FjvoTI8zCgCyMyh0W3mOB"
+    },
+    {
+      "added_at": "2024-11-20 17:36:50",
+      "album": {
+        "name": "GOAL!",
+        "url": "https://open.spotify.com/album/4OJW2jHIP2o623RPfiabQo"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "GOAL!",
+      "url": "https://open.spotify.com/track/40nCabIvegGlW6YMOh1VHm"
     },
     {
       "added_at": "2024-11-08 19:34:09",
@@ -257,6 +305,22 @@
       "url": "https://open.spotify.com/track/0eEjGpRpg4JJt7kcQ75s7y"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "WHERE R U?",
+        "url": "https://open.spotify.com/album/42N1tN1DGqclzFJpAZNjaz"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "duration_ms": 180909,
+      "name": "WHERE R U?",
+      "url": "https://open.spotify.com/track/5e2HsWURQAWKCehRGc9cJy"
+    },
+    {
       "added_at": "2024-11-20 17:36:50",
       "album": {
         "name": "unleaded. x",
@@ -305,6 +369,26 @@
       "url": "https://open.spotify.com/track/5U6Og9OE4rpXyX9Ira4O4d"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1BjZ8LU0tz6InnLLPTy01p"
+      },
+      "artists": [
+        {
+          "name": "Moontalk",
+          "url": "https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN"
+        },
+        {
+          "name": "SE\u00cfTOU",
+          "url": "https://open.spotify.com/artist/6u1xKpENLDr6n23EFcerpT"
+        }
+      ],
+      "duration_ms": 254409,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV"
+    },
+    {
       "added_at": "2024-11-20 17:36:50",
       "album": {
         "name": "Obsessed",
@@ -335,6 +419,22 @@
       "duration_ms": 206865,
       "name": "Sthlm In My <3",
       "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "From Ear To Ear",
+        "url": "https://open.spotify.com/album/71xxtsJO8a1Om4rTf6Hp30"
+      },
+      "artists": [
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "duration_ms": 302208,
+      "name": "Dancerz",
+      "url": "https://open.spotify.com/track/2RnCef0OYPt4A6ljWFb0ia"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -435,6 +535,26 @@
       "duration_ms": 352727,
       "name": "You'll Know Me",
       "url": "https://open.spotify.com/track/184kXsrybegaXIK5rWsW31"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "\u043a\u0438\u0441\u0430",
+        "url": "https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6"
+      },
+      "artists": [
+        {
+          "name": "Antoniya",
+          "url": "https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE"
+        },
+        {
+          "name": "ruski sixx",
+          "url": "https://open.spotify.com/artist/6qW0VYpyZGmwdBt9UgHLNa"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "\u043a\u0438\u0441\u0430",
+      "url": "https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1129,26 +1249,6 @@
       "url": "https://open.spotify.com/track/2Sfm20Y0yDJxAQ57Dfs9pb"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "SAMESAME",
-        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
-      },
-      "artists": [
-        {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        },
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "SAMESAME",
-      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
-    },
-    {
       "added_at": "2024-10-18 17:21:46",
       "album": {
         "name": "Turn Me On",
@@ -1293,22 +1393,6 @@
       "url": "https://open.spotify.com/track/3ejYHvB1mOw6YuA8tEkVkh"
     },
     {
-      "added_at": "2024-10-10 04:44:17",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV"
-    },
-    {
       "added_at": "2024-10-23 16:55:20",
       "album": {
         "name": "Mega Drive",
@@ -1323,42 +1407,6 @@
       "duration_ms": 234074,
       "name": "Mega Drive",
       "url": "https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "BAND4BAND",
-        "url": "https://open.spotify.com/album/5BwO95meODLYBe4NffRrMZ"
-      },
-      "artists": [
-        {
-          "name": "Magic Flowers",
-          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "BAND4BAND",
-      "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Bass Is Pumping",
-        "url": "https://open.spotify.com/album/5kb149u7fhLhNU8eE6s9Ko"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Ostas",
-          "url": "https://open.spotify.com/artist/15DowSkC7pW2MEZhlEFvj1"
-        },
-        {
-          "name": "Josh Christian",
-          "url": "https://open.spotify.com/artist/31CIBQuWl2D0nlouQB2S1b"
-        }
-      ],
-      "duration_ms": 231884,
-      "name": "Bass Is Pumping",
-      "url": "https://open.spotify.com/track/7A38q6OZ1vjy84t3H8O9Ub"
     },
     {
       "added_at": "2024-10-18 17:21:46",
@@ -1449,30 +1497,6 @@
       "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "SIDES",
-        "url": "https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb"
-      },
-      "artists": [
-        {
-          "name": "1NN3R53LF",
-          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
-        },
-        {
-          "name": "ENERGY11",
-          "url": "https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv"
-        },
-        {
-          "name": "NYNE",
-          "url": "https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem"
-        }
-      ],
-      "duration_ms": 237050,
-      "name": "SIDES",
-      "url": "https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj"
-    },
-    {
       "added_at": "2024-10-02 18:02:38",
       "album": {
         "name": "Focus",
@@ -1537,22 +1561,6 @@
       "url": "https://open.spotify.com/track/3fQPjg4j9p90UURYa0HPNH"
     },
     {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Come To Me",
-        "url": "https://open.spotify.com/album/5Dk9H3SU6MRetdLpzxyKTL"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 159858,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/0oACHtiXrn3ByF1b0V5JvQ"
-    },
-    {
       "added_at": "2024-08-28 16:35:01",
       "album": {
         "name": "FREAKY HORNS",
@@ -1599,22 +1607,6 @@
       "duration_ms": 177313,
       "name": "New Kind of Soft (feat. Neon Priest)",
       "url": "https://open.spotify.com/track/4gLmqdOZLGw81pgfHebFWE"
-    },
-    {
-      "added_at": "2024-09-18 17:42:41",
-      "album": {
-        "name": "Talkin' 'bout U",
-        "url": "https://open.spotify.com/album/0VTNScEkUamOQFjHf1dYOy"
-      },
-      "artists": [
-        {
-          "name": "Flat Earth Mafia",
-          "url": "https://open.spotify.com/artist/4SGGY71WbCxCo2AIEplLjf"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Talkin' 'bout U",
-      "url": "https://open.spotify.com/track/3bSRttTtn43SMeNwZBPWtt"
     },
     {
       "added_at": "2024-09-13 04:00:00",

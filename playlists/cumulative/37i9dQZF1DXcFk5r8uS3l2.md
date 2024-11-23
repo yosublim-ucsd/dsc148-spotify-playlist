@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-409 songs - 1 day 1 hr 38 min
+410 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Plenty of Time, None to Waste \- Acoustic](https://open.spotify.com/track/6Ao8Tw3aT5PxddiWWU7YyK) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Plenty of Time, None to Waste \(Acoustic\)](https://open.spotify.com/album/4GTqucW2wjwuv8SUYXvMGt) | 3:06 | 2024-01-12 |  |
 | [Pound Cake](https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK) | 2:59 | 2022-12-09 | 2023-02-15 |
 | [Pound Cake](https://open.spotify.com/track/6J0kxjKPLJSRZ81CPlG3Jq) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/6l6MA9ed4Z6uBf362VjMrW) | 2:59 | 2022-12-16 | 2023-03-25 |
+| [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 | 2024-11-22 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2021-12-17 | 2022-07-28 |
 | [Profit](https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:13 | 2022-08-12 | 2022-10-23 |
 | [Put Your Hand Up](https://open.spotify.com/track/7wsNOaMLXYcJXSrKJupSEB) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [Put Your Hand Up](https://open.spotify.com/album/0AXruhIxdOMJnMuivekJ4c) | 3:22 | 2024-01-19 | 2024-08-03 |
@@ -306,7 +307,7 @@
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-12-17 | 2023-02-25 |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 | 2022-01-28 | 2024-01-20 |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
-| [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 | 2022-11-11 |  |
+| [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 | 2022-11-11 | 2024-11-23 |
 | [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 | 2022-12-10 |
 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 | 2023-08-25 |  |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 |  |

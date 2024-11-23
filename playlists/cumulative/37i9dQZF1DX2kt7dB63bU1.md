@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-792 songs - 2 day 7 hr 12 min
+793 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [My Boy](https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [My Boy](https://open.spotify.com/album/65UnTcy15RkjNnPGQXpx7u) | 2:39 | 2023-03-24 | 2024-07-13 |
 | [My Cardiologist](https://open.spotify.com/track/2LSmGjGYWKPHKhzZSCrE4i) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [My Cardiologist](https://open.spotify.com/album/63UkG5pD5GJyWACqQ1BVR1) | 4:47 | 2022-07-01 | 2022-07-09 |
 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 | 2021-12-10 | 2022-10-08 |
+| [My Favorite Things \- Studio Version](https://open.spotify.com/track/6UBb22xz9sKDx6GEnjLhUH) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [My Favorite Things \(Studio Version\)](https://open.spotify.com/album/5YWAsFcrpofI4SiVMxIrs2) | 4:30 | 2024-11-22 |  |
 | [My Foolish Heart](https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Alexa Tarantino](https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh) | [My Foolish Heart](https://open.spotify.com/album/0w0pgJhk04uc0e7SklDhlM) | 7:37 | 2023-05-19 | 2024-10-05 |
 | [My Future](https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole](https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx) | 3:21 | 2024-08-30 |  |
 | [My Love](https://open.spotify.com/track/28qG0oRPrJZFnbJwfJc9BN) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [My Love](https://open.spotify.com/album/7eVutr6kxKpRTsCS9Q12pE) | 3:33 | 2022-03-25 | 2023-02-25 |
@@ -547,7 +548,7 @@
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-16 | 2023-08-26 |
 | [Put Your Head on My Shoulder](https://open.spotify.com/track/3MRjc814zG32JiSNQ2tYvo) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Star City Symphony](https://open.spotify.com/artist/4rIS4hOr1AMWFS3YbGpq4i), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Put Your Head on My Shoulder](https://open.spotify.com/album/0zTG69rJsp5Ue1uDqaNGMh) | 4:24 | 2022-03-11 | 2023-02-25 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/album/3XEsqJB8H4SdOXD2ceOonl) | 3:04 | 2022-08-19 | 2023-02-25 |
-| [Rainbow Forest \- Single Edit](https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Rainbow Forest](https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi) | 4:50 | 2023-07-07 |  |
+| [Rainbow Forest \- Single Edit](https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Rainbow Forest](https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi) | 4:50 | 2023-07-07 | 2024-11-23 |
 | [Release me](https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP) | [Amanda Martinez](https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG) | [Recuerdo](https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY) | 3:33 | 2024-07-05 |  |
 | [Reste un peu \- Radio Edit](https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG) | [Caloé](https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL) | [Reste un peu \(Radio Edit\)](https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ) | 3:05 | 2024-08-23 |  |
 | [Retro Kind of Love](https://open.spotify.com/track/0ccnF7JHBUewZYWNXrut2y) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Retro Kind of Love](https://open.spotify.com/album/60ad6yYVwd1Ed0RQgc4QTg) | 3:26 | 2023-02-10 | 2023-02-25 |

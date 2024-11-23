@@ -4,7 +4,7 @@
 
 > Quevedo y el resto de novedades más importantes de la semana.
 
-440 songs - 22 hr 39 min
+442 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 | 2024-11-21 |  |
 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 | 2024-10-11 | 2024-10-25 |
 | [Nueva York](https://open.spotify.com/track/5imeygVVtH4R3HeeZB1CLI) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Bailando Bajo La Tormenta](https://open.spotify.com/album/1WuerLRzevPFmrb7MmrXPr) | 3:08 | 2024-11-08 | 2024-11-15 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Nunca mas](https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Vanpiro Esiten](https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX) | 3:41 | 2024-11-01 | 2024-11-08 |
 | [OH MAMÁ](https://open.spotify.com/track/2Le4TpO8PS1DwXkgEkG4sa) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [OH MAMÁ \(feat\. DFZM\)](https://open.spotify.com/album/7rEDQOW9OCsb6MLl60Insc) | 3:17 | 2024-11-21 |  |
 | [Ojalá](https://open.spotify.com/track/6Sg4krwBSmwL3oSusCSUja) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Ojalá](https://open.spotify.com/album/6pAKQ3ZMIf6HVseqPPqbN1) | 3:40 | 2024-11-14 | 2024-11-22 |
@@ -359,6 +360,7 @@
 | [Siempre Vuelve](https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Bailódromo, Vol\. 1](https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL) | 4:28 | 2024-10-17 | 2024-10-25 |
 | [Siento que merezco más](https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:45 | 2024-10-24 | 2024-11-01 |
 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 | 2024-11-21 |  |
+| [Sin Panty Maria](https://open.spotify.com/track/2MM8KVLGV6oHwuTmOWQg5Y) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Mazorkeo.com](https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId) | 3:12 | 2024-11-21 |  |
 | [Sin tu amor](https://open.spotify.com/track/3aZpC5u9m6qFwsGrtkgRk3) | [B10](https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK) | [Sin tu amor](https://open.spotify.com/album/7DIFXUUkTwvrW9av9yCdqt) | 3:21 | 2024-10-24 | 2024-11-01 |
 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 | 2024-10-17 | 2024-10-25 |
 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 | 2024-10-17 | 2024-10-25 |

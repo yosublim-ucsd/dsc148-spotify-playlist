@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 458381,
+  "num_followers": 458659,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Baby, I'm For Real",
@@ -1067,6 +1051,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Then Was Then Now Is Now!",
-        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
         }
       ],
-      "duration_ms": 122120,
-      "name": "I Go To Sleep",
-      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
+      "duration_ms": 204493,
+      "name": "Its Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Its Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "A Date with The Everly Brothers",
         "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 142306,
       "name": "Love Hurts - 2007 Remaster",
       "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Then Was Then Now Is Now!",
+        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "I Go To Sleep",
+      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
     },
     {
       "added_at": "2022-05-30 13:00:37",

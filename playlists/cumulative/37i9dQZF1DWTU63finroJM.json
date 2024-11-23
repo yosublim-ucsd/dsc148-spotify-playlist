@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "numbers",
+        "url": "https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "bait",
+      "url": "https://open.spotify.com/track/5JZrT17IzA9x7WLv0ReiPi"
+    },
+    {
+      "album": {
         "name": "bajek deszcz",
         "url": "https://open.spotify.com/album/1pcpF9L9NwTxOTSv1OBi4U"
       },
@@ -11802,7 +11820,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 148714,
       "name": "HOUDINI",
       "url": "https://open.spotify.com/track/4Yx6A5PBSMzAt9yOb1B6lA"

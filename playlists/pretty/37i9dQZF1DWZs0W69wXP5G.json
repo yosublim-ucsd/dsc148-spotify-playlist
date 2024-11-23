@@ -1,13 +1,53 @@
 {
-  "description": "Everything Broadway-adjacent. Cover:  Eisa Davis & Lin-Manuel Miranda ",
-  "num_followers": 4241,
+  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande & Cynthia Erivo",
+  "num_followers": 4353,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAAA3Vsh2FHLT7puE4jEcsLQ3",
+  "snapshot_id": "Z0AP0AAAAAAO/BNaLSoqFRwpDLhfY7O7",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Can I Get A Chee Hoo?",
+      "url": "https://open.spotify.com/track/09002VzEaxqBuwzdY2KQv2"
+    },
     {
       "added_at": "2024-10-18 04:04:10",
       "album": {
@@ -55,6 +95,38 @@
       "duration_ms": 187997,
       "name": "Pure Imagination (from \"Wonka\")",
       "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Ethan Slater",
+          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+        },
+        {
+          "name": "Marissa Bode",
+          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 587364,
+      "name": "Dancing Through Life",
+      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -547,22 +619,6 @@
     {
       "added_at": "2024-07-15 18:36:21",
       "album": {
-        "name": "Beast",
-        "url": "https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 140959,
-      "name": "Beast",
-      "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
         "name": "Wish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
       },
@@ -635,50 +691,6 @@
       "duration_ms": 200601,
       "name": "Gay Old Life - Radio Edit",
       "url": "https://open.spotify.com/track/7gbPVLwpcgYsRRTWNYJde0"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
-        "name": "Theater Camp (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7iy71k9m1tiYvU4cE06DK3"
-      },
-      "artists": [
-        {
-          "name": "Donovan Colan",
-          "url": "https://open.spotify.com/artist/1ModSouxutdiFgo6N8ithg"
-        },
-        {
-          "name": "Bailee Bonick",
-          "url": "https://open.spotify.com/artist/4uqWxoibsqOlP7VtGugBtm"
-        },
-        {
-          "name": "Alexander Bello",
-          "url": "https://open.spotify.com/artist/0D3AD81qUws4033ERedTZ7"
-        },
-        {
-          "name": "Jack Sobolewski",
-          "url": "https://open.spotify.com/artist/6hLLbgMU3ZvrDa1RPOsZpG"
-        },
-        {
-          "name": "Kyndra Sanchez",
-          "url": "https://open.spotify.com/artist/2MCQzD48xRZTxndiTJRyPa"
-        },
-        {
-          "name": "Luke Islam",
-          "url": "https://open.spotify.com/artist/3bQOjE2GVFsifPJB8W9TXE"
-        },
-        {
-          "name": "Madisen Lora",
-          "url": "https://open.spotify.com/artist/7Du6Wox9tLMhR1oB5DAY5r"
-        },
-        {
-          "name": "Quinn Titcomb",
-          "url": "https://open.spotify.com/artist/38JDuJGHY1IC0YLmDFdZbv"
-        }
-      ],
-      "duration_ms": 223553,
-      "name": "Women Cannot Read",
-      "url": "https://open.spotify.com/track/7hXu8jQCeK3ywSEMzIfLu5"
     },
     {
       "added_at": "2024-07-15 18:36:21",
@@ -1759,26 +1771,6 @@
       "duration_ms": 225720,
       "name": "Love Me for an Hour",
       "url": "https://open.spotify.com/track/3SyqGwrw1VZjKSe8V1JP5b"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ"
     },
     {
       "added_at": "2024-07-15 18:36:21",

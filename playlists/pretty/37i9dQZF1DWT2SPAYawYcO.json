@@ -1,13 +1,29 @@
 {
   "description": "The best new songs of the week! Cover: Jack Harlow",
-  "num_followers": 384215,
+  "num_followers": 384326,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+5xgAAAABEw8DG4LqLVxxmJ1dsCiEZ",
+  "snapshot_id": "Z0AP0AAAAACt+kCadcSvJJnv/pY3SN9C",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
     {
       "added_at": "2024-11-21 18:00:00",
       "album": {

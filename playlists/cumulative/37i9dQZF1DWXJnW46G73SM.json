@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170640,
       "name": "Ah Ya Alby - Tweak Remix",
       "url": "https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6"
@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Never At Home",
+        "url": "https://open.spotify.com/album/6ZFtRRWVL94yktM7zePDdO"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194414,
+      "name": "Arrab",
+      "url": "https://open.spotify.com/track/73ijIAcvNREesyFkXT1cDn"
+    },
+    {
+      "album": {
         "name": "ARRB - \u0642\u0631\u0628",
         "url": "https://open.spotify.com/album/3yfMjN5m1lT78xgIEpUhXh"
       },
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182379,
       "name": "Attal",
       "url": "https://open.spotify.com/track/6fTDj1mDJRQLJFvHx5sah7"
@@ -6270,7 +6288,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 205926,
       "name": "Gheby",
       "url": "https://open.spotify.com/track/2MvnQMHsPBTLFLTpQtinSD"
@@ -9902,6 +9920,32 @@
       "duration_ms": 193866,
       "name": "Malnash Gher Ba3dna",
       "url": "https://open.spotify.com/track/1rxBgFaKG1X27in26OEC2c"
+    },
+    {
+      "album": {
+        "name": "Red Bull Mazzika Salonat",
+        "url": "https://open.spotify.com/album/7mglCJlpiCwUfMzBZDJs5K"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
+        },
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Manalohash",
+      "url": "https://open.spotify.com/track/2TkBSrbGw5rxcudMMlF33S"
     },
     {
       "album": {
@@ -19494,7 +19538,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188150,
       "name": "\u0638\u0627\u0644\u0645\u0629",
       "url": "https://open.spotify.com/track/3SYKhXkqIYobmtq1DBwI9r"
@@ -20268,6 +20312,24 @@
       "duration_ms": 206250,
       "name": "\u0641\u064a\u0647\u0627 \u0625\u064a\u0647",
       "url": "https://open.spotify.com/track/33fpkOti6JPNktMxWabYlc"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0627\u062f\u0631\u064a\u0646 \u064a\u0627 \u062d\u0628",
+        "url": "https://open.spotify.com/album/1gcgTeMsTY05EAKeD2923b"
+      },
+      "artists": [
+        {
+          "name": "bassma boussel",
+          "url": "https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256125,
+      "name": "\u0642\u0627\u062f\u0631\u064a\u0646 \u064a\u0627 \u062d\u0628",
+      "url": "https://open.spotify.com/track/4zrYrL1VFAkbsWXDTen23b"
     },
     {
       "album": {

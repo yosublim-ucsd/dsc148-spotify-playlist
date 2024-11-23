@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-157 songs - 7 hr 22 min
+158 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 | 2024-01-31 |
 | [Contradict \- Hip Hop Remix](https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Nick Jr\. Mix It Up! Vol\. 10: Hip Hop Playground \(The Remixes\)](https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx) | 2:03 | 2024-04-26 | 2024-07-27 |
 | [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
+| [Count by Tens](https://open.spotify.com/track/5v8loPu4al8Bmh4ULursLu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Count by Tens](https://open.spotify.com/album/3AGc0QyvcC5Lauy486WI0T) | 1:58 | 2024-11-22 |  |
 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2024-01-30 |  |
 | [Dance Full Out](https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [We Dance Full Out](https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC) | 2:21 | 2024-01-30 |  |
 | [Dance in the Playroom](https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Kids Dance Jams](https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1) | 2:34 | 2024-01-30 |  |
@@ -83,7 +84,7 @@
 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 | 2022-02-04 | 2024-01-31 |
 | [Joy to the World](https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 2:37 | 2023-10-10 | 2024-01-31 |
 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 | 2021-11-19 | 2023-11-03 |
-| [Jumping Jacks \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:10 | 2021-11-19 |  |
+| [Jumping Jacks \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:10 | 2021-11-19 | 2024-11-23 |
 | [Just Be Brave](https://open.spotify.com/track/77qcquRxiKXVyZGA2ev6gu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Just Be Brave](https://open.spotify.com/album/3kg2E3Mgy7n3TjuVnvF0Kx) | 2:34 | 2024-01-30 | 2024-06-01 |
 | [Just When You Think \- Kidz Version](https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:16 | 2021-11-19 | 2024-01-31 |
 | [Kids That Rock](https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:30 | 2021-11-19 | 2024-01-31 |

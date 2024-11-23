@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Tyler, The Creator",
+  "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
   "name": "Westside Story",
   "tracks": [
     {
@@ -234,6 +234,28 @@
       "duration_ms": 150588,
       "name": "1st Day of School",
       "url": "https://open.spotify.com/track/0GQ4pqjCYn5WTENwjb7eCJ"
+    },
+    {
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205190,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64"
     },
     {
       "album": {
@@ -1381,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You (Deluxe)",
+        "url": "https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204749,
+      "name": "At Least You Know",
+      "url": "https://open.spotify.com/track/766Q7c2jK0VZSj5RLMMRdx"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
       },
@@ -1816,6 +1856,24 @@
       "duration_ms": 143814,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/4pOjseBCEPjRUt9UGF0MMr"
+    },
+    {
+      "album": {
+        "name": "Ms Everything",
+        "url": "https://open.spotify.com/album/5X2haycHT2PrQklCUE9eDz"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah QuakeBeatz",
+          "url": "https://open.spotify.com/artist/4slTTddhpdDsPdwsFByrkN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169098,
+      "name": "Beamers And Bentayga's",
+      "url": "https://open.spotify.com/track/4Gpt0YVe0KuL7HXMKjnyPB"
     },
     {
       "album": {
@@ -2730,7 +2788,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185077,
       "name": "Brackin On This Side",
       "url": "https://open.spotify.com/track/3ypdL7GYxHUo66FlCnGB8s"
@@ -4863,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131240,
+      "name": "dodger blue",
+      "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
+    },
+    {
+      "album": {
         "name": "Doin Numbers",
         "url": "https://open.spotify.com/album/56N5ctWJ7W2S9BzUwLV1p2"
       },
@@ -4904,7 +4980,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 156030,
       "name": "Doin Yo Stuff",
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
@@ -5322,6 +5398,32 @@
       "duration_ms": 172458,
       "name": "Drop Down (feat. KenTheMan)",
       "url": "https://open.spotify.com/track/2ZzhfMgeBjOkjFv5SXdFjz"
+    },
+    {
+      "album": {
+        "name": "DRUMLINE",
+        "url": "https://open.spotify.com/album/2NLY2Z2pjUbVj0ZmOp2rND"
+      },
+      "artists": [
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "ASM Bopster",
+          "url": "https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202369,
+      "name": "DRUMLINE",
+      "url": "https://open.spotify.com/track/5KjkEibHnMqzVa43lP3B67"
     },
     {
       "album": {
@@ -7538,7 +7640,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176923,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/3nFeH41QA2BOU6Gce4mGyT"
@@ -8814,6 +8916,24 @@
       "duration_ms": 178688,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/6VedgheUzpD7cVQD4Zy1Ge"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "hey now",
+      "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
     },
     {
       "album": {
@@ -11145,6 +11265,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop Won't Stop 2",
+        "url": "https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Life Of A Hot Nigga",
+      "url": "https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK"
+    },
+    {
+      "album": {
         "name": "Life of the Party",
         "url": "https://open.spotify.com/album/2o0XNHxZQoR4vMXLpOQjx2"
       },
@@ -11776,7 +11914,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 129215,
       "name": "Loose Cannon",
       "url": "https://open.spotify.com/track/4BomF4qHwEDXGi4uAABv4A"
@@ -14517,6 +14655,28 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You (Deluxe)",
+        "url": "https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149231,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/2kDkuiazqO3hYNXGvtQmnJ"
+    },
+    {
+      "album": {
         "name": "G Way 3",
         "url": "https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS"
       },
@@ -14700,6 +14860,32 @@
       "duration_ms": 102989,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/06KQ4k7nAuhWj3nr5Dk7MS"
+    },
+    {
+      "album": {
+        "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+        "url": "https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Alus",
+          "url": "https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+      "url": "https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl"
     },
     {
       "album": {
@@ -16579,6 +16765,36 @@
     },
     {
       "album": {
+        "name": "S.A.D. (Shit Ain't Deep)",
+        "url": "https://open.spotify.com/album/0t8IRBkkltXHBBZqO87hsT"
+      },
+      "artists": [
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Osbe Chill",
+          "url": "https://open.spotify.com/artist/5uR85BiASPMWtdV8UwYXSD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267335,
+      "name": "S.A.D. (Shit Ain't Deep)",
+      "url": "https://open.spotify.com/track/2tb1WG56z94mRBRh9DXH9u"
+    },
+    {
+      "album": {
         "name": "Same Struggle",
         "url": "https://open.spotify.com/album/6s3nLNb4B0vEMUs7SC3rf1"
       },
@@ -16678,7 +16894,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 140074,
       "name": "Say Luv",
       "url": "https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1"
@@ -17150,6 +17366,40 @@
       "duration_ms": 160256,
       "name": "Sheikh Talk",
       "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
+    },
+    {
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257706,
+      "name": "She\u2019s Sanctified",
+      "url": "https://open.spotify.com/track/0eAw61rPd1ZU4fOmpxxKWo"
     },
     {
       "album": {
@@ -17887,6 +18137,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "album": {
         "name": "Squeeze 1St 2",
         "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
       },
@@ -17932,7 +18200,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 234519,
       "name": "Stand On It (feat. Philthy Rich, Mac J & 4 rAx)",
       "url": "https://open.spotify.com/track/6apHoG0pxkO5UFCZIpTmN7"
@@ -18258,7 +18526,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 124752,
       "name": "Stomp",
       "url": "https://open.spotify.com/track/4iiWGeuGiYM5kr1c8P6wIW"
@@ -18524,7 +18792,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 105000,
       "name": "Stuntman",
       "url": "https://open.spotify.com/track/0E3zDQBZ15TkPE2f4OZfMp"
@@ -20083,6 +20351,28 @@
     },
     {
       "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/07SVtJh7EtSPqOcYEyYXRn"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/0OMF9iLsSu8i2NOhPyOO1W"
+    },
+    {
+      "album": {
         "name": "Tradeline",
         "url": "https://open.spotify.com/album/16PMPx5G0MTsrjFVbkUsKR"
       },
@@ -20159,6 +20449,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "tv off",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/19i3q2ZR7m8wAqpBodN6IR"
       },
@@ -20174,7 +20482,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 133248,
       "name": "Typa",
       "url": "https://open.spotify.com/track/3HYyYI3aG9zM7meu1xUsdu"
@@ -20800,7 +21108,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168904,
       "name": "Want You To Know",
       "url": "https://open.spotify.com/track/6IVLiauRmCuD8m3po0iIgN"
@@ -20972,6 +21280,28 @@
       "duration_ms": 165600,
       "name": "What It Iz",
       "url": "https://open.spotify.com/track/2X77wo27HXr3A69G2xqAPB"
+    },
+    {
+      "album": {
+        "name": "Most Valuable Gangbanger",
+        "url": "https://open.spotify.com/album/6gDp92lZ4xSQou6vUnt5ax"
+      },
+      "artists": [
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74336,
+      "name": "What The West Bout (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/286I2NcDnqpX6RueXpaoIh"
     },
     {
       "album": {

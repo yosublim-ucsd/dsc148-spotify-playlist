@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lyodra
 
-1,076 songs - 2 day 14 hr 38 min
+1,078 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 | 2024-10-17 |  |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-17 | 2024-11-15 |
 | [Home](https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Home](https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv) | 3:04 | 2024-10-17 | 2024-11-22 |
+| [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-22 |  |
 | [Honest Too](https://open.spotify.com/track/1nUx5AqC1d4TeBeEnCcKds) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Honest Too](https://open.spotify.com/album/0Yfsf2Vd8WnehbneDsZxoC) | 3:05 | 2024-01-18 | 2024-03-15 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-20 | 2024-10-26 |
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-08-30 | 2024-10-04 |
@@ -654,6 +655,7 @@
 | [Nothing To Miss](https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Nothing To Miss](https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP) | 3:14 | 2024-06-20 | 2024-07-19 |
 | [Notifikasi \- From "Viu Original Bad Boys Vs Crazy Girls 2"](https://open.spotify.com/track/6hMBZVSH2WlCOUNzNiai75) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi), [Davina](https://open.spotify.com/artist/4lDqhkjinlemuL2POkvbKZ) | [Notifikasi \(From "Viu Original Bad Boys Vs Crazy Girls 2"\)](https://open.spotify.com/album/3CeApdNXyJ95mPrgsZFnTn) | 4:01 | 2024-01-18 | 2024-02-10 |
 | [Numb](https://open.spotify.com/track/7pLUMN0EExPXxan8pCOYBa) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Undelivered](https://open.spotify.com/album/2ahZl7AMUbRB0asDAxCJaZ) | 4:14 | 2024-02-09 | 2024-04-26 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 |  |
 | [NYU](https://open.spotify.com/track/3pps57TSzbTt1y40XPwzlj) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [NYU](https://open.spotify.com/album/6p1B0lcRQidpYdgw3gkYTL) | 2:59 | 2024-09-20 | 2024-10-26 |
 | [O Allah](https://open.spotify.com/track/4iyjQOCqNjRpBxvT5fRRJ6) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [O Allah](https://open.spotify.com/album/5zrTRzeCHAGG7U4dU0C65L) | 3:26 | 2024-03-07 | 2024-04-09 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-25 | 2024-08-09 |

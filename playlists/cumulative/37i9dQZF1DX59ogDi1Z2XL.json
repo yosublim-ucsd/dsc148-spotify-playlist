@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: ARDN",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: YSN Fab",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -2393,6 +2393,32 @@
     },
     {
       "album": {
+        "name": "Assholes",
+        "url": "https://open.spotify.com/album/1B2OxbztCwMLaenM11ZFkV"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Chris Webby",
+          "url": "https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM"
+        },
+        {
+          "name": "C-Lance",
+          "url": "https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189381,
+      "name": "Assholes",
+      "url": "https://open.spotify.com/track/0w9QPmXPYQUcsZdumOybm3"
+    },
+    {
+      "album": {
         "name": "ONWARD WE MARCH",
         "url": "https://open.spotify.com/album/09KiEmt74ranKIjayr2wUE"
       },
@@ -2908,7 +2934,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 203380,
       "name": "Ball 4ever",
       "url": "https://open.spotify.com/track/2C6xLfhl6YmDuagHjq7cRK"
@@ -7629,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "Cease & Disintegrate",
+        "url": "https://open.spotify.com/album/0hvWOlqronpK8WVku6ADa4"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92658,
+      "name": "DIE WITHOUT A FIGHT",
+      "url": "https://open.spotify.com/track/3lv7UjcqkwZ13V5pqQTrRj"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/0sinoQGGNhYxDBzu1qyQsH"
       },
@@ -8034,7 +8078,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149333,
       "name": "DOMINO (feat. Ghostface600)",
       "url": "https://open.spotify.com/track/0y1kNaaRThC7wencU6s0Og"
@@ -10084,7 +10128,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 158662,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/4YXBnv9WCRhnYd8irETyyw"
@@ -11456,6 +11500,24 @@
       "duration_ms": 140626,
       "name": "Gentleman's Sweep",
       "url": "https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd"
+    },
+    {
+      "album": {
+        "name": "Georges",
+        "url": "https://open.spotify.com/album/5sIy40Ytcj188f76cYX8Zb"
+      },
+      "artists": [
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142992,
+      "name": "Georges",
+      "url": "https://open.spotify.com/track/3uS5xNIgwh6bvYGu4eBeKz"
     },
     {
       "album": {
@@ -15124,7 +15186,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 128000,
       "name": "jane baby (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp"
@@ -15596,7 +15658,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 130226,
       "name": "Keep It Coming",
       "url": "https://open.spotify.com/track/1T0oUGwy3CAv9X2GxLlz0O"
@@ -16586,6 +16648,32 @@
       "duration_ms": 143673,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/1sJTBjpd2dAUwaJchh61bW"
+    },
+    {
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/5hqGv1jksrSyoTZDEY9gIf"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        },
+        {
+          "name": "Kwazii",
+          "url": "https://open.spotify.com/artist/6pL2YwV6bUmB8wxbfkvUoa"
+        },
+        {
+          "name": "Eestbound",
+          "url": "https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/5j3xrprQOHefpvAiwj8MCy"
     },
     {
       "album": {
@@ -17792,7 +17880,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 138857,
       "name": "Main Component",
       "url": "https://open.spotify.com/track/5B5ZjQeXRnpW3LAKgxQ6J7"
@@ -20857,6 +20945,24 @@
     },
     {
       "album": {
+        "name": "Northside",
+        "url": "https://open.spotify.com/album/65AYxqDKbggNHEolje1FN8"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Northside",
+      "url": "https://open.spotify.com/track/649LCm0bod2z19lYGYSc9Q"
+    },
+    {
+      "album": {
         "name": "NORWAY",
         "url": "https://open.spotify.com/album/4d6IDrSTmQXy2boSn5jWOC"
       },
@@ -20926,7 +21032,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 177413,
       "name": "NOT AGAIN",
       "url": "https://open.spotify.com/track/3cmNx9h3F3JiWd6L4L8IOB"
@@ -22062,7 +22168,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
@@ -22590,6 +22696,24 @@
       "duration_ms": 135720,
       "name": "PALM TREES & ANGELS",
       "url": "https://open.spotify.com/track/14mbpFeVYQrnrzM6NJU7b7"
+    },
+    {
+      "album": {
+        "name": "Parked On Front Street",
+        "url": "https://open.spotify.com/album/16X5LhEQXKKlZSvsd4lrrv"
+      },
+      "artists": [
+        {
+          "name": "Derin Falana",
+          "url": "https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Panic At The Disco",
+      "url": "https://open.spotify.com/track/2z7rHsRXJYVXBUDi8uE97s"
     },
     {
       "album": {
@@ -27393,6 +27517,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Music (The Ruined Version)",
+        "url": "https://open.spotify.com/album/4JGT8iIK2fO9IIEPLjx0Bm"
+      },
+      "artists": [
+        {
+          "name": "Danny Miles",
+          "url": "https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi"
+        },
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "Carleigh Aikins",
+          "url": "https://open.spotify.com/artist/2IVOJXZNanV3JwYenIOFYo"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/2d4PmRWJejtsr6qjl0LVle"
+    },
+    {
+      "album": {
         "name": "Starin' At The Clock",
         "url": "https://open.spotify.com/album/02F9FM9qTbEIpEedderNrg"
       },
@@ -31326,7 +31476,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 106329,
       "name": "Under the Rug",
       "url": "https://open.spotify.com/track/7ulGOXpTEBTcLROuPDdBYP"
@@ -32133,6 +32283,24 @@
     },
     {
       "album": {
+        "name": "watch it all fall",
+        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "watch it all fall",
+      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
+    },
+    {
+      "album": {
         "name": "Watch Your Mouth",
         "url": "https://open.spotify.com/album/5ATGoa3gwhajTJR6ZE26o6"
       },
@@ -32266,6 +32434,24 @@
       "duration_ms": 132400,
       "name": "WAVE TO SEA",
       "url": "https://open.spotify.com/track/74NHjT7HPdJWVL5LaaumnL"
+    },
+    {
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa LEYLA .
 
-611 songs - 1 day 6 hr 20 min
+612 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 | 2024-09-27 |
 | [Basso](https://open.spotify.com/track/0Vbh2MYNevljIrqeNKn36q) | [Thelise](https://open.spotify.com/artist/3FpcoMbYBmVX0xUW9NecUm) | [Basso](https://open.spotify.com/album/7w9rI09GehvbLz3ORJwN4C) | 3:07 | 2024-09-19 | 2024-09-27 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 | 2024-10-25 |
-| [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-15 | 2024-11-22 |
+| [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-15 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 | 2024-09-27 |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-15 | 2024-11-22 |
 | [Big Love](https://open.spotify.com/track/2NwhnLbGudUmHVNIUqZ3IM) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Big Love](https://open.spotify.com/album/1XLeAVNFwtytHMwLW4gzhO) | 2:44 | 2024-11-15 | 2024-11-22 |
@@ -394,6 +394,7 @@
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-20 |
 | [Nousee](https://open.spotify.com/track/0mdhOHecy9rvAQ5lUfK7A8) | [TCT](https://open.spotify.com/artist/7AfDbA1rEHwRhzPH6jHSUE) | [Nousee](https://open.spotify.com/album/226QCjOLW9yph87I8OfvDk) | 2:30 | 2024-08-15 | 2024-08-23 |
 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-15 |  |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-08-23 |
 | [Nyt tai ei koskaan](https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Nyt tai ei koskaan](https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc) | 2:52 | 2024-08-08 | 2024-08-16 |
 | [oh my](https://open.spotify.com/track/19YAER1hIyQPFngZ3feF9D) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [oh my](https://open.spotify.com/album/7Fe5vgIQdAkOJNgwxHzv40) | 3:07 | 2024-09-05 | 2024-09-13 |
@@ -402,7 +403,7 @@
 | [ole mun virheeni](https://open.spotify.com/track/1aNLknT5chf2AhfRWjNRYf) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [ole mun virheeni](https://open.spotify.com/album/4zCrAjERqUwqlpOFJrE9oS) | 2:25 | 2024-09-19 | 2024-09-27 |
 | [Olga](https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Olga](https://open.spotify.com/album/3Z7O7ZGG62ZIHSxqt6MHv0) | 2:42 | 2024-07-25 | 2024-08-02 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 |  |
-| [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 |  |
+| [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-11-23 |
 | [One Day](https://open.spotify.com/track/7vKs4BM73eX4IXbYofTjYO) | [Thnked](https://open.spotify.com/artist/2D2p1P0jMo3OhCcx0PoNNJ) | [One Day](https://open.spotify.com/album/2nRROc1eaBM1b6CDysUpyY) | 1:57 | 2024-07-18 | 2024-08-02 |
 | [Oo mulle koti](https://open.spotify.com/track/1XTvn5QbHLoH1OGadmOwDb) | [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Oo mulle koti](https://open.spotify.com/album/72wb956b2iiBdy0hO2W3u2) | 3:02 | 2024-10-31 | 2024-11-08 |
 | [Oon täs](https://open.spotify.com/track/7spD08RHxtUpgV1kNA0G5D) | [Lore](https://open.spotify.com/artist/1vCDG4xpqfH2k0Gm29MyrB) | [Oon täs](https://open.spotify.com/album/4X4pd03YAbbKgqxygePkYP) | 2:44 | 2024-10-31 | 2024-11-08 |

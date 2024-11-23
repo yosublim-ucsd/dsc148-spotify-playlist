@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,948 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,003 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 22 | [The Smile of Rita](https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [The Smile of Rita](https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ) | 5:01 |
 | 23 | [What a Wonderful World](https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr) | [Bob Thiele](https://open.spotify.com/artist/1wYPhZg9lFjhOWiCXd9023), [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL), [Pierre Génisson](https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2), [Bruno Fontaine](https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp), [Benoît Dunoyer de Segonzac](https://open.spotify.com/artist/3mbRNmlcVU32pfZmkA5tDN), [Fabrice Moreau](https://open.spotify.com/artist/1Tj9jgsZ1tynAuVwXDh1Yo) | [What a Wonderful World](https://open.spotify.com/album/6RGwaZntDOG1Gpbgj3sDng) | 6:39 |
 | 24 | [Welcome to 8H](https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Saturday Night \(Original Score\)](https://open.spotify.com/album/2U0xxgEpclqdq4dUZ1M7uf) | 3:31 |
-| 25 | [Childhood](https://open.spotify.com/track/6VevLCbLoayn1QtBILFKJ5) | [Rhoda Scott](https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl), [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Julie Saury](https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt) | [Childhood](https://open.spotify.com/album/0QnCdCgh8FaP0V3RKBYkre) | 6:53 |
+| 25 | [Childhood](https://open.spotify.com/track/6VevLCbLoayn1QtBILFKJ5) | [Rhoda Scott](https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl), [David Linx](https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL), [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Julie Saury](https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt) | [Childhood](https://open.spotify.com/album/0QnCdCgh8FaP0V3RKBYkre) | 6:53 |
 | 26 | [I Don't Mind](https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [I Don’t Mind](https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d) | 4:12 |
 | 27 | [Come Sunday](https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe), [NDR Bigband](https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91) | [Ellington](https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0) | 4:24 |
 | 28 | [That's Life](https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href=\"spotify:artist:1zK4ACgLi1lVPpfmmcwOTh\">DC Talk</a>",
-  "num_followers": 115689,
+  "num_followers": 115727,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
-      },
-      "artists": [
-        {
-          "name": "Jump5",
-          "url": "https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Why Do I Do",
-      "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "The Best Of Plumb",
         "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 246106,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
+      },
+      "artists": [
+        {
+          "name": "Jump5",
+          "url": "https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Why Do I Do",
+      "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
     },
     {
       "added_at": "2024-07-04 20:41:02",

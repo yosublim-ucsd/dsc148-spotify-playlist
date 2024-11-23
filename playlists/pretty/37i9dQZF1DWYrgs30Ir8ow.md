@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,574 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,623 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 |
 | 40 | [Vaag \- REMIX](https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Vaag \(REMIX\)](https://open.spotify.com/album/70Z3IiTGPIXykQLl93dyJl) | 2:46 |
 
-Snapshot ID: `Zz+7cAAAAADMZX0xRC/g8WP66E+kkyl5`
+Snapshot ID: `Z0DiZAAAAACrGyG6/mgQcSyd5O83Pn6y`

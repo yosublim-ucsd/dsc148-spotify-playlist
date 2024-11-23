@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Victor Ruz",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Maurice Kirya",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181224,
       "name": "Bingabire",
       "url": "https://open.spotify.com/track/2p7wI5RiQ57kUeGPAIlxYW"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145293,
       "name": "Embaga Ya Isma Na\u2019mina",
       "url": "https://open.spotify.com/track/2boSNe9SlveKjsVTSvueHA"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173949,
       "name": "Fancida",
       "url": "https://open.spotify.com/track/2JLJ44jLjJ0N9EyyujMz9l"
@@ -3967,6 +3967,32 @@
     },
     {
       "album": {
+        "name": "olympean",
+        "url": "https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Hurricane Dan Fischer",
+          "url": "https://open.spotify.com/artist/6FBvTqUW5FkfopSN89CGtP"
+        },
+        {
+          "name": "Ridym",
+          "url": "https://open.spotify.com/artist/0oHKQJYVEgW3r3NzOX0YyY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153625,
+      "name": "moonblush",
+      "url": "https://open.spotify.com/track/5vopOwOC7OSmxGBqNf8aRa"
+    },
+    {
+      "album": {
         "name": "More Love",
         "url": "https://open.spotify.com/album/5Tw7909lweMrp0K45iqYOQ"
       },
@@ -4144,6 +4170,24 @@
       "duration_ms": 189000,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "album": {
+        "name": "Muntu Wange",
+        "url": "https://open.spotify.com/album/3am9ICPhUXW2iobYTud7ZC"
+      },
+      "artists": [
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Muntu Wange",
+      "url": "https://open.spotify.com/track/1MzK3QdKmYJGJRHEZEIU80"
     },
     {
       "album": {
@@ -4384,6 +4428,28 @@
       "duration_ms": 175670,
       "name": "Ndi Bibyo",
       "url": "https://open.spotify.com/track/26HAQIyUkP8SWOOH3nikni"
+    },
+    {
+      "album": {
+        "name": "Ndibyange",
+        "url": "https://open.spotify.com/album/0ZIqLyzQhVCAYjHAk3RPVe"
+      },
+      "artists": [
+        {
+          "name": "Ratigan Era",
+          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
+        },
+        {
+          "name": "King Toppa",
+          "url": "https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183405,
+      "name": "Ndibyange",
+      "url": "https://open.spotify.com/track/5T5drObETBplasLya0qCOZ"
     },
     {
       "album": {
@@ -6579,6 +6645,28 @@
     },
     {
       "album": {
+        "name": "TEACH ME",
+        "url": "https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        },
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "TEACH ME",
+      "url": "https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF"
+    },
+    {
+      "album": {
         "name": "Tebali Ready",
         "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
       },
@@ -6736,7 +6824,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 159839,
       "name": "Time",
       "url": "https://open.spotify.com/track/2tFGCKW58iD8WK8J9e3G2I"
@@ -6961,6 +7049,24 @@
     },
     {
       "album": {
+        "name": "Tumusiinze",
+        "url": "https://open.spotify.com/album/0jGyg66Wmm4EqAj6ZgZCFT"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228328,
+      "name": "Tumusiinze",
+      "url": "https://open.spotify.com/track/0E7S3WX552Y005RMbvmOZn"
+    },
+    {
+      "album": {
         "name": "Tupaate (Remix)",
         "url": "https://open.spotify.com/album/70DVUbaES5FmVkKmEO5dfy"
       },
@@ -7104,7 +7210,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 163184,
       "name": "UG Party",
       "url": "https://open.spotify.com/track/3h8qB9c9T5cwkgiwIrvRjF"

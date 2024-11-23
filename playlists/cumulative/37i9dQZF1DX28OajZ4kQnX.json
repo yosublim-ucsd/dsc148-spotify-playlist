@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Atanalabuka",
+        "url": "https://open.spotify.com/album/4HHiNDJFNtF7bbKWYZSZeM"
+      },
+      "artists": [
+        {
+          "name": "Bad Sparksy",
+          "url": "https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125675,
+      "name": "Atanalabuka",
+      "url": "https://open.spotify.com/track/1mL7kI2weOhs6IKvbeDYHC"
+    },
+    {
+      "album": {
         "name": "Omungi Atiibwa",
         "url": "https://open.spotify.com/album/4fR3oI5K1Y8FssSqZh3XYE"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188444,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
@@ -1270,6 +1288,24 @@
       "duration_ms": 278804,
       "name": "I Give Her Love",
       "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
+    },
+    {
+      "album": {
+        "name": "I Wish Samusaanga",
+        "url": "https://open.spotify.com/album/2MvFMO4CqoDi36GJ1MDtKu"
+      },
+      "artists": [
+        {
+          "name": "Thesecond",
+          "url": "https://open.spotify.com/artist/5JIgYf3Lr4AM4Zsw1WHnmW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121302,
+      "name": "I Wish Samusaanga",
+      "url": "https://open.spotify.com/track/1om62MwPUzrlDcsBNhg9pe"
     },
     {
       "album": {
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 223891,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH"
@@ -2334,6 +2370,28 @@
       "duration_ms": 159973,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1fsXR9y56hVIl5pfjB3fm2"
+    },
+    {
+      "album": {
+        "name": "Situka",
+        "url": "https://open.spotify.com/album/4zNC3L9j6oOtQpFfFs3XiF"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "P.R.O.F.E.T",
+          "url": "https://open.spotify.com/artist/3EdKoNRldCK2yI7hqZRera"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Situka",
+      "url": "https://open.spotify.com/track/1fricYTDkMvjMVtp7LeMRK"
     },
     {
       "album": {
@@ -2604,7 +2662,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 429179,
       "name": "The Force cypher",
       "url": "https://open.spotify.com/track/61tNZ0wYPXtsDgfOuJGcGE"

@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -1346,6 +1346,24 @@
       "duration_ms": 356640,
       "name": "Solo un Cari\u00f1o",
       "url": "https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259937,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/3Yv51AJMdJqf7aoGdUy9KZ"
     },
     {
       "album": {

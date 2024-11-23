@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-201 songs - 11 hr 29 min
+202 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2024-04-18 | 2024-06-07 |
 | [Hard Act To Follow](https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Hard Act To Follow](https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh) | 3:14 | 2022-12-22 | 2023-12-15 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-12-22 |  |
-| [Have A Little Faith In Me](https://open.spotify.com/track/1QQUZeG6qa90sPHIAuHbgj) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/6lDz7nj2wH0vLKpbSi4ZYp) | 4:01 | 2024-04-18 |  |
+| [Have A Little Faith In Me](https://open.spotify.com/track/1QQUZeG6qa90sPHIAuHbgj) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/6lDz7nj2wH0vLKpbSi4ZYp) | 4:01 | 2024-04-18 | 2024-11-23 |
 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 | 2022-12-22 | 2024-04-19 |
 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 | 2024-04-18 |  |
 | [Hello](https://open.spotify.com/track/2azg1vhiwyS2FYt6Dsttr6) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/3QZvLrz3mo5OPAzmsejoYN) | 3:14 | 2024-04-18 |  |
@@ -189,6 +189,7 @@
 | [Throw Me a Line](https://open.spotify.com/track/6A9KO1xgzkx7hNNJwPSGr8) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/2jHV1P9ncsBcChh5p8sZc1) | 5:15 | 2024-04-18 | 2024-07-16 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 | 2024-05-17 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 | 2023-07-14 |
+| [Time To Talk](https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Time To Talk](https://open.spotify.com/album/4uJTZ5NqiavcZcWTi3JvUK) | 3:23 | 2024-11-22 |  |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2022-12-22 |  |
 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 | 2024-07-25 |  |
 | [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 |  |

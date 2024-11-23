@@ -2021,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Citadel",
+        "url": "https://open.spotify.com/album/29xwUf0mStw4SKxxKxSxcG"
+      },
+      "artists": [
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        },
+        {
+          "name": "Waterflame",
+          "url": "https://open.spotify.com/artist/7biIlpW0y5KqYIehTQz1wz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Citadel",
+      "url": "https://open.spotify.com/track/0EXrVB7WHXOnVjegjcgIPu"
+    },
+    {
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/0M9vqRe4AV89rYORJcmAbp"
       },
@@ -4476,6 +4498,32 @@
       "duration_ms": 256620,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Lack D",
+          "url": "https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Manu Beker en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Kendall Pe\u00f1a en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 221108,
       "name": "Desvelado - Cover",
       "url": "https://open.spotify.com/track/31BwAHdXcpSGfPOzDLEqbv"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178588,
       "name": "disfraz",
       "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
@@ -2923,7 +2923,7 @@
     },
     {
       "album": {
-        "name": "DUALIDAD",
+        "name": "DUALIDAD (feat. Esteman)",
         "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
       "artists": [
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 177736,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU"
@@ -3457,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Esta noche",
+        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
+    },
+    {
+      "album": {
         "name": "Estar Mejor",
         "url": "https://open.spotify.com/album/0MxWi4WRhsfE2p2lMdGCac"
       },
@@ -3624,6 +3642,32 @@
       "duration_ms": 160213,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp"
+    },
+    {
+      "album": {
+        "name": "Fall\u00e9",
+        "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135874,
+      "name": "Fall\u00e9",
+      "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
     },
     {
       "album": {
@@ -4620,7 +4664,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 219080,
       "name": "lagunas",
       "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
@@ -5069,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas de Oro",
+        "url": "https://open.spotify.com/album/1VHV2NUVzgNVL6ENq0zZ6d"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163776,
+      "name": "L\u00e1grimas de Oro",
+      "url": "https://open.spotify.com/track/4On7o3GG2Ng9AWgbLqKGED"
+    },
+    {
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS"
       },
@@ -5272,6 +5334,28 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+    },
+    {
+      "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0zeS8UozIgTkyhKGm91g18"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140146,
+      "name": "Marat\u00f3n (feat. Ivana)",
+      "url": "https://open.spotify.com/track/4aRz65OFpTTwHaWDK0GcOe"
     },
     {
       "album": {
@@ -5612,6 +5696,24 @@
       "duration_ms": 162391,
       "name": "Mi Fantasma",
       "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Si Todo Acaba Mal?",
+        "url": "https://open.spotify.com/album/0RDFuUVX699HW92X4JHFGS"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/4wGQKXcBM4Nb37gzDKPYCJ"
     },
     {
       "album": {
@@ -7750,7 +7852,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"

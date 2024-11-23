@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- Heeriye by Jasleen Royal feat. Arijit Singh",
-  "num_followers": 115987,
+  "num_followers": 116052,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,30 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
+        "name": "Bewafa Tera Masoom Chehra",
+        "url": "https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "duration_ms": 242149,
+      "name": "Bewafa Tera Masoom Chehra",
+      "url": "https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
         "name": "Yaad Piya Ki Aane Lagi",
         "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
       },
@@ -779,30 +803,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Bewafa Tera Masoom Chehra",
-        "url": "https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Rashmi Virag",
-          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
-        }
-      ],
-      "duration_ms": 242149,
-      "name": "Bewafa Tera Masoom Chehra",
-      "url": "https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Naach Meri Rani",
         "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
       },
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Chale Jaana Phir (Humko Tere Bina)",
-        "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
-      },
-      "artists": [
-        {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
-        },
-        {
-          "name": "Rahul Mishra",
-          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Chale Jaana Phir (Humko Tere Bina)",
-      "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Filhaal2 Mohabbat",
         "url": "https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 243870,
       "name": "Qismat",
       "url": "https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Chale Jaana Phir (Humko Tere Bina)",
+        "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Rahul Mishra",
+          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Chale Jaana Phir (Humko Tere Bina)",
+      "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
     },
     {
       "added_at": "2024-11-20 05:22:08",

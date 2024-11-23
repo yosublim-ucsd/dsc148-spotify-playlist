@@ -2,9 +2,9 @@
 
 ### [crying on the dance floor](https://open.spotify.com/playlist/37i9dQZF1DXayr1BrK1OaY)
 
-> let the dj set u free 💔
+> let the dj set u free ❤️‍🩹
 
-416 songs - 1 day 1 hr 22 min
+417 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 | 2021-04-16 | 2024-08-17 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2024-03-29 | 2024-04-09 |
 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 | 2024-04-19 |  |
+| [Choices \(We Made\)](https://open.spotify.com/track/2Q8YkqxwL8hOUHQ2uve0nK) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [U Know Me?](https://open.spotify.com/album/2eLIrXEoeCoSPG1sEQrvK0) | 3:38 | 2024-11-22 |  |
 | [Cigarette](https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [Cigarette](https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f) | 3:30 | 2024-05-10 | 2024-08-17 |
 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 | 2024-05-17 | 2024-06-18 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-08-27 | 2022-10-05 |
@@ -312,7 +313,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2021-04-02 | 2022-04-13 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2021-10-22 | 2023-02-08 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-22 | 2024-08-03 |
-| [Sabotage](https://open.spotify.com/track/4Ljh1IJawcThzlcCkDCtPf) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T) | [Sabotage](https://open.spotify.com/album/5cOfOgTa5sRRjCXXhAeKaS) | 3:16 | 2024-11-15 |  |
+| [Sabotage](https://open.spotify.com/track/4Ljh1IJawcThzlcCkDCtPf) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T) | [Sabotage](https://open.spotify.com/album/5cOfOgTa5sRRjCXXhAeKaS) | 3:16 | 2024-11-15 | 2024-11-23 |
 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 | 2023-03-06 | 2024-08-17 |
 | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH) | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe) | 3:46 | 2024-04-05 |  |
 | [Satisfied \- Edit](https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 3:43 | 2021-09-24 | 2024-08-17 |

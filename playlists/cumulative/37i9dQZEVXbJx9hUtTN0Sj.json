@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -6148,7 +6148,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 89808,
       "name": "Funk Secreto - Ultra Slowed",
       "url": "https://open.spotify.com/track/0Rfgf07P8G5XqdnMXTZe4k"
@@ -6374,6 +6374,24 @@
       "duration_ms": 149361,
       "name": "GEKKE GUNZ",
       "url": "https://open.spotify.com/track/6JvL9BzIXDriCYYBrRuEkk"
+    },
+    {
+      "album": {
+        "name": "GELME \u0130STEMEM",
+        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "GELME \u0130STEMEM",
+      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
     },
     {
       "album": {
@@ -7174,10 +7192,28 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "album": {
+        "name": "Speak For Yourself",
+        "url": "https://open.spotify.com/album/7sJMiEjWDtUg3ccvn2QsUC"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
     },
     {
       "album": {
@@ -7506,7 +7542,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
@@ -12428,7 +12464,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 223106,
       "name": "Niets Nog Wat Het Was",
       "url": "https://open.spotify.com/track/3V9vBVps8TbamOdG6ZPMyV"
@@ -17588,6 +17624,24 @@
       "duration_ms": 176078,
       "name": "Tous les matins",
       "url": "https://open.spotify.com/track/6bWBDJNvnragZZqKKFaAFl"
+    },
+    {
+      "album": {
+        "name": "Mon sang",
+        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Tout pour moi",
+      "url": "https://open.spotify.com/track/2DFMYRYFopddiYTjF7eQta"
     },
     {
       "album": {

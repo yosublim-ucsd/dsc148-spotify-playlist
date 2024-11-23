@@ -112,7 +112,7 @@
 | [素敵な夢を叶えましょう](https://open.spotify.com/track/0ZvD5T4M5xR09faA7WZpwS) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 5:09 | 2023-09-18 |  |
 | [茅ケ崎に背を向けて](https://open.spotify.com/track/70mlw1bVhI30jLUa58KldG) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 3:23 | 2023-09-18 |  |
 | [赤い炎の女](https://open.spotify.com/track/6Xnx9LDUBaeeMVMlVPHFjA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:39 | 2023-09-18 |  |
-| [逢いたくなった時に 君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 | 2023-09-18 |  |
+| [逢いたくなった時に　君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 | 2023-09-18 |  |
 | [鎌倉物語](https://open.spotify.com/track/1v5DkaqxqZW81EuegNzALP) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:55 | 2023-09-18 |  |
 | [雨上がりにもう一度キスをして](https://open.spotify.com/track/0NV1bxew5vvW1iX0RdjZA1) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:16 | 2023-09-18 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4900342,
+  "num_followers": 4900594,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAADhJygQAKIQC6gIi5eK/o/T",
+  "snapshot_id": "Zz54AAAAAAAh+VIOhIkXueOH0MKOp3lN",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 264253,
       "name": "A Kind Of Magic - Remastered 2011",
       "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen I (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2vSW70hwFzUyFd4Mlgap0J"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Keep Yourself Alive - 2024 Mix",
-      "url": "https://open.spotify.com/track/5HeF5toxWMeKaYbVa9EEs5"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+        "name": "Queen I",
+        "url": "https://open.spotify.com/album/763x2B8AWacqWDjP9KjM5l"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 67400,
-      "name": "Lazing On A Sunday Afternoon - Remastered 2011",
-      "url": "https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c"
+      "duration_ms": 225813,
+      "name": "Keep Yourself Alive - 2024 Mix",
+      "url": "https://open.spotify.com/track/4cwJL1Q1SjrPDJdHE8apeh"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Stone Cold Crazy - Remastered 2011",
-      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
+      "duration_ms": 67400,
+      "name": "Lazing On A Sunday Afternoon - Remastered 2011",
+      "url": "https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 210800,
-      "name": "'39 - Remastered 2011",
-      "url": "https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0"
+      "duration_ms": 133813,
+      "name": "Stone Cold Crazy - Remastered 2011",
+      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 232120,
       "name": "Don't Try Suicide - Remastered 2011",
       "url": "https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "'39 - Remastered 2011",
+      "url": "https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Heaven (2011 Remaster)",
-        "url": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 336160,
-      "name": "Heaven For Everyone - Remastered 2011",
-      "url": "https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV"
     }
   ],
   "unique_name": "This Is Queen",

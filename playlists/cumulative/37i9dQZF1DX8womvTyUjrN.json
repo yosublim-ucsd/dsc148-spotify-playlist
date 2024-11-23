@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Ela Taubert & Joe Jonas",
+  "description": "Fresh Latin pop on the rise. Cover: Samura\u00ef",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -168,6 +168,28 @@
       "duration_ms": 203149,
       "name": "26 - ni tarde ni temprano",
       "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "album": {
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 214552,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
@@ -4146,7 +4168,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
@@ -4244,7 +4266,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172920,
       "name": "El Canto Del Olvido",
       "url": "https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe"
@@ -4808,7 +4830,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 132336,
       "name": "escala en Panam\u00e1",
       "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
@@ -4870,7 +4892,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 171272,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
@@ -5418,7 +5440,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181651,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/6y7VcPr6syvvwKPF2Obs5B"
@@ -6676,7 +6698,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
@@ -7850,6 +7872,24 @@
       "duration_ms": 170958,
       "name": "Luz Azul",
       "url": "https://open.spotify.com/track/6vvS5fgoOS3kjrH8Pyc8d5"
+    },
+    {
+      "album": {
+        "name": "Mabel",
+        "url": "https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160296,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
     },
     {
       "album": {
@@ -9170,7 +9210,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 206494,
       "name": "m\u00e1ndame un beso",
       "url": "https://open.spotify.com/track/46fedM2fTd59tUabilqlUk"
@@ -9442,6 +9482,24 @@
       "duration_ms": 140826,
       "name": "Ni\u00f1o de 10",
       "url": "https://open.spotify.com/track/4i8R5jXt58zpwwCybJn6cD"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1o Yo Te Am\u00e9",
+        "url": "https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8"
+      },
+      "artists": [
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187865,
+      "name": "Ni\u00f1o Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc"
     },
     {
       "album": {
@@ -11557,6 +11615,24 @@
     },
     {
       "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186813,
+      "name": "Que Nadie Nos Entienda",
+      "url": "https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb"
+    },
+    {
+      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -11590,6 +11666,28 @@
       "duration_ms": 170400,
       "name": "Que Todo Sea Probar",
       "url": "https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt"
+    },
+    {
+      "album": {
+        "name": "QUEBRANTO",
+        "url": "https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "QUEBRANTO",
+      "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
     },
     {
       "album": {
@@ -11772,6 +11870,24 @@
       "duration_ms": 206546,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
+    },
+    {
+      "album": {
+        "name": "qu\u00edtenme el cel",
+        "url": "https://open.spotify.com/album/6uRrO107nKeY8taVGjDiGI"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152316,
+      "name": "qu\u00edtenme el cel",
+      "url": "https://open.spotify.com/track/1TaGR2Jq33ojvjNEwgoy7v"
     },
     {
       "album": {
@@ -12990,6 +13106,24 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "album": {
+        "name": "sorry es que soy intenso (Apocalipsis)",
+        "url": "https://open.spotify.com/album/6mWvo7zh1faAF8tbRhZLW7"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188995,
+      "name": "sorry es que soy intenso (Apocalipsis)",
+      "url": "https://open.spotify.com/track/0TfFHo5XD5iiP5IajKqYQw"
     },
     {
       "album": {
@@ -15312,7 +15446,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"

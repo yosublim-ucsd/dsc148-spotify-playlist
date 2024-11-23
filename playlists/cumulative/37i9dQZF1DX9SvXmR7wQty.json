@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clara Luciani ",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161079,
       "name": "'Ndrangheta",
       "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 239684,
       "name": "Apr\u00e8s l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 195000,
       "name": "Ap\u00e9ro",
       "url": "https://open.spotify.com/track/3ZcE0ZaLI6G0Ip5tNFilYC"
@@ -5365,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/39xP7d2eHjiZrrSNYyzhvp"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ"
+    },
+    {
+      "album": {
         "name": "BIG BOSS",
         "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
       },
@@ -6426,7 +6444,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 200453,
       "name": "BPM",
       "url": "https://open.spotify.com/track/6fZh6vpC8gIax8ILjPEb6E"
@@ -10951,6 +10969,24 @@
     },
     {
       "album": {
+        "name": "Cours, Cora, cours / Journal d'un loup-garou",
+        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Cours, Cora, cours",
+      "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
+    },
+    {
+      "album": {
         "name": "Couteau",
         "url": "https://open.spotify.com/album/42iEBpSWn6T0N02jRCEvN3"
       },
@@ -11208,7 +11244,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 210626,
       "name": "Croire en nous",
       "url": "https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob"
@@ -13531,6 +13567,24 @@
     },
     {
       "album": {
+        "name": "Time Is A Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/6dE9XKETDrORiJvwGrweZI"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213525,
+      "name": "Discoth\u00e8que Dans Ma T\u00eate",
+      "url": "https://open.spotify.com/track/5Jdaw7Q0McUIvjJ4vPdBrw"
+    },
+    {
+      "album": {
         "name": "Dispara\u00eetre / Terre",
         "url": "https://open.spotify.com/album/6qr1fqyMsZQvh2xsHErh0a"
       },
@@ -15422,7 +15476,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 199799,
       "name": "En joue",
       "url": "https://open.spotify.com/track/1VaVDSQ9il8WQe9npBUWm0"
@@ -15846,7 +15900,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
@@ -19824,7 +19878,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 180893,
       "name": "Habiba",
       "url": "https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB"
@@ -20798,7 +20852,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 152411,
       "name": "HWMB",
       "url": "https://open.spotify.com/track/6vl6Do3EvEys2PPbWGWzr9"
@@ -26028,7 +26082,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 163704,
       "name": "La 17",
       "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
@@ -28884,7 +28938,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 194480,
       "name": "Le poids",
       "url": "https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2"
@@ -31812,7 +31866,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "L\u2019envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
@@ -33052,7 +33106,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 266226,
       "name": "Marcher dans le noir",
       "url": "https://open.spotify.com/track/4dbzBB68rMKHHTGRO3F5rh"
@@ -33378,6 +33432,24 @@
       "duration_ms": 255232,
       "name": "Mathilde",
       "url": "https://open.spotify.com/track/0HAnT8aym7IKQ0Swayvoh3"
+    },
+    {
+      "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "album": {
@@ -34888,7 +34960,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
@@ -34906,7 +34978,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"
@@ -40088,7 +40160,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 144985,
       "name": "Petit chaton",
       "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
@@ -41290,7 +41362,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 246978,
       "name": "PONA NINI",
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
@@ -42054,6 +42126,28 @@
       "duration_ms": 160588,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3T0j18B548ErQk12YqVeaM"
+    },
+    {
+      "album": {
+        "name": "Pretty Baby (French Version) [feat. John Nathaniel]",
+        "url": "https://open.spotify.com/album/0rrmorPrvdXfHQft5GsSh5"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        },
+        {
+          "name": "John Nathaniel",
+          "url": "https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203522,
+      "name": "Pretty Baby (French Version) [feat. John Nathaniel]",
+      "url": "https://open.spotify.com/track/6w7unaa0LqBsx5mRpe5YyY"
     },
     {
       "album": {
@@ -43342,7 +43436,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 158778,
       "name": "Qu\u00e9bec Blues",
       "url": "https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h"
@@ -43680,7 +43774,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Rater une rupture pour les nuls",
       "url": "https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD"
@@ -46656,6 +46750,28 @@
       "duration_ms": 230933,
       "name": "Serpent & \u00c9chelle",
       "url": "https://open.spotify.com/track/2MzCbFlcQ8npw83nPFtt5Q"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Ses dents",
+      "url": "https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI"
     },
     {
       "album": {
@@ -51473,6 +51589,24 @@
     },
     {
       "album": {
+        "name": "Tour du Monde",
+        "url": "https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Tour du Monde",
+      "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
+    },
+    {
+      "album": {
         "name": "Tour \u00e0 tour",
         "url": "https://open.spotify.com/album/6uHRnW7m0xWOKaOotcRote"
       },
@@ -51850,7 +51984,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 214400,
       "name": "Tout pour moi",
       "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
@@ -52062,6 +52196,24 @@
       "duration_ms": 209800,
       "name": "Toutes les filles sont belles",
       "url": "https://open.spotify.com/track/1ZliLkP38q7adhN8UdMGHX"
+    },
+    {
+      "album": {
+        "name": "Toutes tes idoles",
+        "url": "https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Toutes tes idoles",
+      "url": "https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L"
     },
     {
       "album": {
@@ -56158,7 +56310,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 118626,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK"

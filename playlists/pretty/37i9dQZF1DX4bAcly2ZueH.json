@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52322,
+  "num_followers": 52327,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Nujabes PRAY Reflections",
+        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 275195,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Nujabes PRAY Reflections",
-        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 275195,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Late Summer",
         "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Chroma Velocity",
         "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 158117,
       "name": "Human Related Accident",
       "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -363,22 +379,6 @@
       "duration_ms": 132274,
       "name": "The Perks of Being a Wallflower",
       "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "three",
+      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
-      },
-      "artists": [
-        {
-          "name": "ILIVEHERE.",
-          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "three",
-      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Seaglow",
-        "url": "https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD"
-      },
-      "artists": [
-        {
-          "name": "[.que]",
-          "url": "https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7"
-        }
-      ],
-      "duration_ms": 132203,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 167543,
       "name": "Walk (Interlude)",
       "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Seaglow",
+        "url": "https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD"
+      },
+      "artists": [
+        {
+          "name": "[.que]",
+          "url": "https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7"
+        }
+      ],
+      "duration_ms": 132203,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "The Color and the Light",
         "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 295058,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -743,6 +743,22 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -779,38 +795,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
-      },
-      "artists": [
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
-      },
-      "artists": [
-        {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+      },
+      "artists": [
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Higashi no Sora",
         "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 175774,
       "name": "Higashi no Sora",
       "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+      },
+      "artists": [
+        {
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -891,22 +907,6 @@
       "duration_ms": 189723,
       "name": "Resting Place",
       "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
-      },
-      "artists": [
-        {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "see",
-        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
-      },
-      "artists": [
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "see",
-      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "see",
+        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
+      },
+      "artists": [
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "see",
+      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
     },
     {
       "added_at": "2024-11-20 01:19:42",

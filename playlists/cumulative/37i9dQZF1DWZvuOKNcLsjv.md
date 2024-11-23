@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Shawn Mendes
 
-4,302 songs - 10 day 9 hr 35 min
+4,303 songs - 10 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2150,6 +2150,7 @@
 | [NTM](https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-11 | 2024-02-19 |
 | [Nukui](https://open.spotify.com/track/4WzotMbiarPo9fnLs54fIF) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [Nukui](https://open.spotify.com/album/6gqQ7JZUsWmYl9OxU8gHzZ) | 3:50 | 2024-08-15 | 2024-11-08 |
 | [Numb Brain](https://open.spotify.com/track/5Livz4o0bMHptCvP8vrqIy) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [Make My Name](https://open.spotify.com/album/4xz847XImjpQFUFhp0vmdj) | 3:05 | 2023-06-04 | 2023-06-12 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/track/6TRGgeiIXwMCvvCt3VLWC9) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Taro Abe](https://open.spotify.com/artist/4YLBaTVzsuVsjCbRASMCyC) | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/album/0kVLCalVjtj9V3UIYRBC0t) | 3:06 | 2023-02-26 | 2023-03-13 |
 | [O.G\. Summer](https://open.spotify.com/track/6WBbXiyOIWLAqlUcNpbzlf) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG), [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [O.G\. Summer](https://open.spotify.com/album/36zWGG5L4eOIhyQv4r9nmR) | 3:50 | 2024-06-20 | 2024-07-12 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-15 | 2023-11-06 |

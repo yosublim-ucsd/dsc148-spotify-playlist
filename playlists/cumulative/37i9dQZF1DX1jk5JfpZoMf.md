@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 | 2024-11-19 |
+| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 |  |
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2023-06-16 |  |
 | [A Relaxing View](https://open.spotify.com/track/63Yy8FYoqW8XZXRRbjSO8J) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [A Relaxing View](https://open.spotify.com/album/5I6htfiNbnj4qyqztQrXKw) | 2:31 | 2023-06-16 |  |
 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 | 2023-06-16 |  |
@@ -158,7 +158,7 @@
 | [Oddly Comforting Rain](https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1) | [Muggy Forecast](https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9) | [Current Affairs](https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv) | 2:00 | 2023-06-16 |  |
 | [On This Rainy Night](https://open.spotify.com/track/6sXo2YImpCkfEH9XIOzc6X) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [On This Rainy Night](https://open.spotify.com/album/1GAf7Y6fak1aqaOEPLD8Lj) | 3:36 | 2023-06-16 |  |
 | [Organic Rain](https://open.spotify.com/track/0TxH8hmkh7vJNTVxcl3J8V) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Organic Rain](https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN) | 3:20 | 2023-06-16 |  |
-| [Over the Fields \- Approaching...](https://open.spotify.com/track/0pxhuhOSHm2QxIWpu0vlCt) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Autumn Rains](https://open.spotify.com/album/7DTbEBe6bJoKeZgfW7nqdZ) | 5:02 | 2023-06-16 |  |
+| [Over the Fields \- Approaching...](https://open.spotify.com/track/0pxhuhOSHm2QxIWpu0vlCt) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Autumn Rains](https://open.spotify.com/album/7DTbEBe6bJoKeZgfW7nqdZ) | 5:02 | 2023-06-16 | 2024-11-23 |
 | [Park Rain, Pt 3](https://open.spotify.com/track/6B3LSqUplxRJAuw08I1a2z) | [8k Sound Library](https://open.spotify.com/artist/6sRNUITxFooMYE0SjJU4Wf) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:32 | 2023-06-16 |  |
 | [Peaceful Rain](https://open.spotify.com/track/1gkY5sTXhdFhfUM1YpIZ4V) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Rainy Forest](https://open.spotify.com/album/1X5iSi20cFGKvdYLG8MFWG) | 3:08 | 2023-06-16 |  |
 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [L'acqua Cade](https://open.spotify.com/artist/6LvjboIMlXnreAptglx2SP) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 | 2023-06-16 |  |

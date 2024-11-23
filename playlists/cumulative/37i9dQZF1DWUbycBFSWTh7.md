@@ -4,7 +4,7 @@
 
 > get into the groove
 
-388 songs - 1 day 11 hr 59 min
+389 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Rescue Me \- DJ Island Remix](https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Rescue Me](https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU) | 5:44 | 2023-04-07 | 2024-03-01 |
 | [Revival](https://open.spotify.com/track/2fKi4l56EdQLupwQdCJfah) | [Keith Lorraine](https://open.spotify.com/artist/60sCDlQ235xaIC5gU1HNdR) | [Revival](https://open.spotify.com/album/6oMDyiYueO2DbAjsTerpMw) | 5:58 | 2024-04-09 |  |
 | [Right On](https://open.spotify.com/track/0WGkkmvZmN9GeW69onzxkg) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [The Gryphon EP](https://open.spotify.com/album/0nl8GggovL4QtWuHtgcbw1) | 3:27 | 2023-04-07 | 2024-03-01 |
-| [Ring for Rhemi](https://open.spotify.com/track/1fjDUwlyeVgOfM1breMTFI) | [Neil Pierce](https://open.spotify.com/artist/4kzzUjtdcnnCtpKBjsJKPI) | [Ring for Rhemi](https://open.spotify.com/album/4UVKFUPji334g7KG6uVD5w) | 5:56 | 2024-04-18 |  |
+| [Ring for Rhemi](https://open.spotify.com/track/1fjDUwlyeVgOfM1breMTFI) | [Neil Pierce](https://open.spotify.com/artist/4kzzUjtdcnnCtpKBjsJKPI) | [Ring for Rhemi](https://open.spotify.com/album/4UVKFUPji334g7KG6uVD5w) | 5:56 | 2024-04-18 | 2024-11-23 |
 | [Roaring 20's \- Robbie Doherty Remix](https://open.spotify.com/track/6QEMyGMHFqVlizUPqIEvDF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Roaring 20's \(Robbie Doherty Remix\)](https://open.spotify.com/album/0kwufJCU9RS4FOQjELh4uB) | 6:01 | 2022-09-15 | 2023-07-08 |
 | [Roko \- Edit](https://open.spotify.com/track/6a4lAFv2nr3ZIgBKOG2XIh) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh), [Anton](https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII), [antraum](https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr) | [Roko \(Edit\)](https://open.spotify.com/album/2hFzrnaZiCrjzNQKQ7M2Yw) | 4:12 | 2024-04-13 |  |
 | [Roots](https://open.spotify.com/track/4vWWE2y8Gk7KgXtewmTFLg) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Roots EP](https://open.spotify.com/album/7jFbWeLO0pIO6ZHV16Dsx4) | 5:43 | 2022-09-15 | 2023-04-09 |
@@ -325,6 +325,7 @@
 | [The Passion \- Atjazz Remix](https://open.spotify.com/track/3XhMUmTFJSCB5YfNP0YZ6E) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [KingCrowney](https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [The Passion EP](https://open.spotify.com/album/4aF2HKqIcWeWnp282yXsSW) | 7:13 | 2024-04-09 |  |
 | [The Personality](https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [The Personality](https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0) | 5:52 | 2023-10-12 | 2024-06-04 |
 | [The Piano Fix](https://open.spotify.com/track/55nywSOIMylX4RHrsK5yPf) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V) | [Blaque Katt \- EP](https://open.spotify.com/album/5u1liL4XlRb2RlPqtZKHDR) | 6:27 | 2023-11-04 | 2024-06-07 |
+| [The Rabbit Hole \- Radio Edit](https://open.spotify.com/track/0aTQfc26cIPHsnctMuF2Y5) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [The Rabbit Hole](https://open.spotify.com/album/4ijsCxeTirOVsrnVSDNsHv) | 4:36 | 2024-11-22 |  |
 | [The Serpent](https://open.spotify.com/track/4hME6a2Dagbguwz5YwUnyb) | [Alex O'Rion](https://open.spotify.com/artist/6ZDAtrOeGuhubj5aeRpt95) | [Echium](https://open.spotify.com/album/7MGt2rQ6fHVUarIlNVkTeK) | 7:33 | 2022-09-15 | 2023-01-13 |
 | [The Soul of a City](https://open.spotify.com/track/2kEkWwRUIle74rarjTL0fW) | [Legowelt](https://open.spotify.com/artist/0cG9dZ6X8YfLeGe24QWMwM) | [TEAC Life](https://open.spotify.com/album/7I1Y5mQeMgsIprxqs79LIW) | 8:28 | 2022-09-15 | 2023-04-09 |
 | [The Sound Exchange](https://open.spotify.com/track/2Gsvem4ThIXvyZRymCBEAx) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Preserving EP](https://open.spotify.com/album/2j4DjmXtyReSh67eq1Vr9N) | 6:40 | 2024-04-13 |  |

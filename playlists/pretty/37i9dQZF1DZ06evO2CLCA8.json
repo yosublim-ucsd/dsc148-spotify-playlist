@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 852,
+  "num_followers": 854,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAAc9DaEkwiywE2qQ5eOjzvO",
+  "snapshot_id": "Zz54AAAAAAB8PUANImjsDyH3oM/WBkFm",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -775,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
-        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "Between Two Worlds - French TV",
-      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "Straight Into Darkness",
-      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 207067,
       "name": "Handle With Care - Live",
       "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
+        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Between Two Worlds - French TV",
+      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

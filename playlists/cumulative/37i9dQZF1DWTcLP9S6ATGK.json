@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Cinta dan Waktu",
+        "url": "https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP"
+      },
+      "artists": [
+        {
+          "name": "Dian Piesesha",
+          "url": "https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270790,
+      "name": "Gelora Api Cinta",
+      "url": "https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc"
+    },
+    {
+      "album": {
         "name": "Gini Gini Aja",
         "url": "https://open.spotify.com/album/0zK0hZ6PBP0RBizTXK4CJZ"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 291625,
       "name": "Kau",
       "url": "https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw"

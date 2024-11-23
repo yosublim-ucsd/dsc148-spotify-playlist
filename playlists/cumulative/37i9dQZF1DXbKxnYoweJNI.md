@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 椅子樂團  \(The Chairs\)
 
-1,125 songs - 2 day 17 hr 18 min
+1,127 songs - 2 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,9 @@
 | [心愛的](https://open.spotify.com/track/0GyaHgss6TkT9o5I4VE9Kt) | [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i), [VincentWan9](https://open.spotify.com/artist/6otpcIPOpVwubOmgYCUY5p) | [心愛的](https://open.spotify.com/album/6aoHMKZ08ajfEQlls4sdxm) | 3:00 | 2024-11-07 | 2024-11-15 |
 | [心理作用 \- Demo](https://open.spotify.com/track/16O7iE2UoAJR0XtnlboamI) | [MopeAndHope](https://open.spotify.com/artist/1pMixCWjpmegyt4aW9Q6Jf) | [心理作用 \(Demo\)](https://open.spotify.com/album/4I2HAq3RGi0CdkVSU5r3VB) | 5:03 | 2024-10-24 | 2024-11-01 |
 | [心痛無聲](https://open.spotify.com/track/2ANovZDuowh2Ra0Fm1m8aF) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [沉](https://open.spotify.com/album/0lfZWn6SsXQTxKXvKzBOKv) | 3:49 | 2024-10-24 | 2024-11-01 |
+| [心碎](https://open.spotify.com/track/2lwnkqkSBRM8hRIVfNYjyv) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [心碎](https://open.spotify.com/album/0vXcOGYNj0kktWAdy2qUn2) | 3:59 | 2024-11-21 |  |
 | [心與你的距離](https://open.spotify.com/track/5AXM6cB0cXGLUi8mNHEuO5) | [劉心語](https://open.spotify.com/artist/30tmHMyWtJ7MlmkTPYdJMB), [Lucas 盧子翔](https://open.spotify.com/artist/4xzJhLwj8iD6dnNLM1NUVe) | [心與你的距離](https://open.spotify.com/album/07VjSslrXPXWFveBh2AgTg) | 4:26 | 2024-09-12 | 2024-09-20 |
+| [心電感應 \- album ver](https://open.spotify.com/track/27ioBE4ow37eSEAc5hUh7C) | [王喬尹](https://open.spotify.com/artist/5GBsSWJAqh8ZU16AO8L6ns), [J.Quan](https://open.spotify.com/artist/0koOfz7VAnl99P0hBMbF3q) | [又係王喬尹](https://open.spotify.com/album/277NbzouUEabjmJRivQ8z5) | 3:23 | 2024-11-21 |  |
 | [忘了把奇蹟帶來](https://open.spotify.com/track/39wwpROjfg2jdKonvPTjmq) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [忘了把奇蹟帶來](https://open.spotify.com/album/5fkksbUcQqnEo756Ewbp5T) | 4:22 | 2024-10-17 | 2024-11-08 |
 | [快要不能](https://open.spotify.com/track/7vTfksQhup9oFe5TUp4Dr4) | [MopeAndHope](https://open.spotify.com/artist/1pMixCWjpmegyt4aW9Q6Jf) | [當我和你睡了](https://open.spotify.com/album/5A2vbo1Kxo5fKZh2LEBKK4) | 3:14 | 2024-06-27 | 2024-07-12 |
 | [怎麼會是你](https://open.spotify.com/track/06upzvDsPIvmHnrFVKvTS7) | [莫禮 MёrLёk](https://open.spotify.com/artist/0vkJziDBby2JpZ6CbQWQGG) | [怎麼會是你](https://open.spotify.com/album/1tZrkBBvfSUHClN2wElMAs) | 2:43 | 2024-11-21 |  |

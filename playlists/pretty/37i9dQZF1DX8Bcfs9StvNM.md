@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,670 likes - 45 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,681 likes - 45 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 | 4 | [涙のキッス](https://open.spotify.com/track/5XhqWow7MNpWsXRsg1mUl5) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のキッス](https://open.spotify.com/album/5ZrFiZltJoN8cyoLtNDTQc) | 4:44 |
 | 5 | [愛する女性とのすれ違い](https://open.spotify.com/track/099631AOgjCSzArD03TdRn) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:01 |
 | 6 | [サラ・ジェーン](https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:04 |
-| 7 | [逢いたくなった時に 君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 |
+| 7 | [逢いたくなった時に　君はここにいない](https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:40 |
 | 8 | [Just A Little Bit](https://open.spotify.com/track/3a1vfZIdgamMsTIF1KFYQP) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 4:21 |
 | 9 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 |
 | 10 | [別離\(わかれ\)](https://open.spotify.com/track/1WjuZoEZHKAkSryOR18ZB9) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:04 |
 | 11 | [EMANON](https://open.spotify.com/track/7s5aCe3T27yeg800fkYgHp) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:45 |
-| 12 | [OH, GIRL\(悲しい胸のスクリーン\)](https://open.spotify.com/track/0pVXLR4mPbwhLxjvOZ2FAw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:57 |
+| 12 | [OH, GIRL（悲しい胸のスクリーン）](https://open.spotify.com/track/0pVXLR4mPbwhLxjvOZ2FAw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:57 |
 | 13 | [流れる雲を追いかけて](https://open.spotify.com/track/6nips7uaLEjXaw9C9XkaXw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 4:02 |
 | 14 | [悲しみはメリーゴーランド](https://open.spotify.com/track/51u7aAKOT5f5jLueNVp7AW) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 2:35 |
 | 15 | [素敵なバーディー（NO NO BIRDY）](https://open.spotify.com/track/3N6iNG7d9dx8ozDCzoO9Fh) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [素敵なバーディー（NO NO BIRDY）](https://open.spotify.com/album/4v8sG8PuwqSjO9Scuctisp) | 5:11 |

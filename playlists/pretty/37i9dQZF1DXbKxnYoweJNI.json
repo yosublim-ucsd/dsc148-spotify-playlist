@@ -1,6 +1,6 @@
 {
   "description": "\u7368\u7acb\u5c31\u662f\u786c\u5730\u81ea\u4e3b\uff0c\u97f3\u6a02\u5c31\u8981\u5c55\u73fe\u98a8\u683c\uff0c\u52a0\u8d77\u4f86\u5c31\u662f\u75db\u5feb\uff01Cover: \u6905\u5b50\u6a02\u5718  (The Chairs)",
-  "num_followers": 61114,
+  "num_followers": 61129,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
       "duration_ms": 252736,
       "name": "\u611b\u60c5\u7684\u540d\u5b57",
       "url": "https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ"
+    },
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
+        "name": "\u5fc3\u788e",
+        "url": "https://open.spotify.com/album/0vXcOGYNj0kktWAdy2qUn2"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 239605,
+      "name": "\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/2lwnkqkSBRM8hRIVfNYjyv"
     },
     {
       "added_at": "2024-11-21 16:00:00",
@@ -731,6 +747,26 @@
       "duration_ms": 235489,
       "name": "\u6211\u5011\u90fd\u662f\u5916\u661f\u4eba",
       "url": "https://open.spotify.com/track/4tiTaI5SKN5GlLRUINJ7ou"
+    },
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
+        "name": "\u53c8\u4fc2\u738b\u55ac\u5c39",
+        "url": "https://open.spotify.com/album/277NbzouUEabjmJRivQ8z5"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u55ac\u5c39",
+          "url": "https://open.spotify.com/artist/5GBsSWJAqh8ZU16AO8L6ns"
+        },
+        {
+          "name": "J.Quan",
+          "url": "https://open.spotify.com/artist/0koOfz7VAnl99P0hBMbF3q"
+        }
+      ],
+      "duration_ms": 203095,
+      "name": "\u5fc3\u96fb\u611f\u61c9 - album ver",
+      "url": "https://open.spotify.com/track/27ioBE4ow37eSEAc5hUh7C"
     },
     {
       "added_at": "2024-11-21 16:00:00",

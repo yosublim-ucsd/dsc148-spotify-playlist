@@ -1,13 +1,77 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44245,
+  "num_followers": 44243,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZvg0qIM/1SeNFA0C7macdoawdLxGR",
+  "snapshot_id": "AAAZwbdlV36fgWD2y4bnhJz1NibWZtPe",
   "tracks": [
+    {
+      "added_at": "2024-11-22 15:12:29",
+      "album": {
+        "name": "Something 2 Believe In (feat. Bella Renee)",
+        "url": "https://open.spotify.com/album/5SkxH8h7JKulRmT9Rbj7Cx"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Something 2 Believe In (feat. Bella Renee)",
+      "url": "https://open.spotify.com/track/0MKm4kyCdLHz1rzN2BJm5N"
+    },
+    {
+      "added_at": "2024-11-22 15:12:41",
+      "album": {
+        "name": "Reasonable (feat. Reo Cragun)",
+        "url": "https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "shotgunknights",
+          "url": "https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Reasonable (feat. Reo Cragun)",
+      "url": "https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53"
+    },
+    {
+      "added_at": "2024-11-22 15:13:42",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/17DTZRbt1LCoNMeHTWuKK9"
+      },
+      "artists": [
+        {
+          "name": "Shelco",
+          "url": "https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD"
+        },
+        {
+          "name": "STRBLAST",
+          "url": "https://open.spotify.com/artist/7waCeZR7phX8e6XMbijhiT"
+        }
+      ],
+      "duration_ms": 137574,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/3dGFEUTGK8gTQHrsmJrlrW"
+    },
     {
       "added_at": "2024-11-15 15:39:19",
       "album": {

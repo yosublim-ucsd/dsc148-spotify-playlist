@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,741 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,776 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 52 | [ふたりの異変](https://open.spotify.com/track/25NYRBvtC1fh2mii9WRn8W) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:36 |
 | 53 | [Rain](https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 4:53 |
 | 54 | [言ノ葉](https://open.spotify.com/track/6ktyTmXjfehtEO5wWFyjkP) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 5:02 |
-| 55 | [A Rainy Morning \~Main Title\~](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 |
+| 55 | [A Rainy Morning ～Main Title～](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 |
 | 56 | [Hello Goodbye & Hello \(For Movie\)](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 |
 | 57 | [One more time，One more chance](https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [One more time，One more chance](https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z) | 5:30 |
 | 58 | [空と海の詩](https://open.spotify.com/track/0KJiMu4yueVH0gIgpCnYfU) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 2:00 |

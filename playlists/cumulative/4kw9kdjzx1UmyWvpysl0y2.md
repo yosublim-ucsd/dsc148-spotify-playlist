@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-866 songs - 2 day 1 hr 20 min
+867 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Overdrive](https://open.spotify.com/track/2tImUAHJJ57AlEqcONzWFQ) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Overdrive](https://open.spotify.com/album/2oxKfXeIbwKJLraAfZfRQS) | 2:55 | 2023-09-19 | 2024-01-11 |
 | [Overstimulated](https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Overstimulated](https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT) | 3:23 | 2024-10-25 |  |
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
-| [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 |  |
+| [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 | 2024-11-22 |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
@@ -721,6 +721,7 @@
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
+| [SWEAT!](https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu) | 2:39 | 2024-11-22 |  |
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 |  |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 | 2024-02-28 |

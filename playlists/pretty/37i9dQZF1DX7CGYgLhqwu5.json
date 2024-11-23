@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 379145,
+  "num_followers": 379160,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "All-American Cowboy",
         "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
       "artists": [
         {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -483,6 +467,22 @@
       "duration_ms": 150093,
       "name": "It's Such A Pretty World Today",
       "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+      },
+      "artists": [
+        {
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+        "name": "The Very Best of\u2026",
+        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
       },
       "artists": [
         {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+      "duration_ms": 123360,
+      "name": "Chug-A-Lug",
+      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Very Best of\u2026",
-        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
         }
       ],
-      "duration_ms": 123360,
-      "name": "Chug-A-Lug",
-      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
     },
     {
       "added_at": "2024-07-05 21:22:46",

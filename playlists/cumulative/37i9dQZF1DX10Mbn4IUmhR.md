@@ -4,7 +4,7 @@
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk?si=gJkMWfPZRMeqmWlSzlzetw">Ava like Lava</a>
 
-200 songs - 10 hr 6 min
+202 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-06-27 | 2024-07-12 |
 | [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:35 | 2024-11-21 |  |
 | [Dancing Alone](https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u) | [Tannah](https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8) | [Dancing Alone](https://open.spotify.com/album/2yKzcsmcXuiarCQCIls9Cw) | 2:59 | 2024-08-09 | 2024-08-16 |
-| [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-11-21 |  |
+| [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-11-21 | 2024-11-23 |
 | [Delight](https://open.spotify.com/track/3GS2240j6d9HtUPx4U53lt) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Delight](https://open.spotify.com/album/36oCf3aHSt25YSHGSfLxFZ) | 3:41 | 2024-07-04 | 2024-07-12 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-29 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-10 | 2024-11-22 |
@@ -131,6 +131,7 @@
 | [Mistakes](https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t) | [Higgo](https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn), [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [Mistakes](https://open.spotify.com/album/5DDEY0ta0DWlaLEAMn0tTd) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 | 2024-06-27 |  |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |
+| [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 | 2024-11-22 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-15 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-11-07 | 2024-11-22 |
 | [Nobody Knows](https://open.spotify.com/track/1JpAOBxF5pwxd3SqkcX7BD) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Nobody Knows](https://open.spotify.com/album/0eUVqTxFN57calcxdfKOEr) | 3:11 | 2024-06-27 | 2024-08-03 |
@@ -207,6 +208,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-08-03 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-06-27 | 2024-07-12 |
 | [You Don’t Know Me](https://open.spotify.com/track/2hRIkSVcG4ORSKtxL5jnmo) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx) | [You Don’t Know Me](https://open.spotify.com/album/1umPw2JtACEyyQpvdYPZCH) | 2:14 | 2024-07-11 | 2024-07-19 |
+| [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:27 | 2024-11-22 |  |
 | [Your radio](https://open.spotify.com/track/5C1bGLQwlfupoENa5CO36O) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Your radio](https://open.spotify.com/album/00AeYHhy3S13gKEXHLrZ72) | 3:07 | 2024-11-21 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

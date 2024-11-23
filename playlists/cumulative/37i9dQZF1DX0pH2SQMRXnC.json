@@ -7544,7 +7544,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 183622,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/41vLVJwmDpzDofpbpZowac"
@@ -10429,6 +10429,28 @@
     },
     {
       "album": {
+        "name": "New Perspective",
+        "url": "https://open.spotify.com/album/6C2YhbY9uFaR3ImduCYljs"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152399,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK"
+    },
+    {
+      "album": {
         "name": "Nightmare Nirvana",
         "url": "https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1"
       },
@@ -10920,6 +10942,40 @@
       "duration_ms": 217500,
       "name": "Ode To My Body",
       "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
+    },
+    {
+      "album": {
+        "name": "Off My Face",
+        "url": "https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Colin Hennerz",
+          "url": "https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF"
+        },
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "3Blokes",
+          "url": "https://open.spotify.com/artist/6ZwMox7xjnCiXvMYEDCiHb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv"
     },
     {
       "album": {
@@ -17308,7 +17364,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 210750,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"

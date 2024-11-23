@@ -1,13 +1,65 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: RIMON",
-  "num_followers": 52992,
+  "description": "R&B of the moment by the artists of the future. Cover: Sailorr",
+  "num_followers": 53004,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzb43QAAAAAmmqjubL0WHL/YEJGklZXF",
+  "snapshot_id": "Z0AqNwAAAAA081g/zQshHeiFojzWwi5l",
   "tracks": [
+    {
+      "added_at": "2024-11-15 07:31:41",
+      "album": {
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 108791,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+    },
+    {
+      "added_at": "2024-11-15 07:31:41",
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 226835,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
+    },
+    {
+      "added_at": "2024-11-15 07:31:41",
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "You're Stuck (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
+    },
     {
       "added_at": "2024-11-15 07:31:41",
       "album": {
@@ -29,6 +81,42 @@
       "url": "https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY"
     },
     {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Hit a Wall",
+        "url": "https://open.spotify.com/album/4s07kCH6AwFdyU5SpJ4iZk"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 164167,
+      "name": "Hit a Wall",
+      "url": "https://open.spotify.com/track/0JysufYyd8ev6wHWZOVC4Q"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Fry Plantain (with Joey Bada$$)",
+        "url": "https://open.spotify.com/album/34FbQTA8MX6dNQKyTSZPMy"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 252381,
+      "name": "Fry Plantain (with Joey Bada$$)",
+      "url": "https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE"
+    },
+    {
       "added_at": "2024-11-15 07:31:41",
       "album": {
         "name": "NOSEBLEED",
@@ -47,22 +135,6 @@
     {
       "added_at": "2024-11-15 07:31:41",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
-    },
-    {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
         "name": "Drive Me Crazy",
         "url": "https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2"
       },
@@ -75,42 +147,6 @@
       "duration_ms": 162500,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7"
-    },
-    {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
-        "name": "POOKIE'S REQUIEM",
-        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 108791,
-      "name": "POOKIE'S REQUIEM",
-      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
-    },
-    {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "You're Stuck (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
     },
     {
       "added_at": "2024-11-08 15:11:01",
@@ -147,6 +183,42 @@
       "duration_ms": 214488,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Waiting On You (feat. Tone Stith)",
+        "url": "https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "Waiting On You (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/1kQuecJMDKkBGP0VL7vqaT"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 171758,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/2WOc45yQVu44GSQWI7QLrH"
     },
     {
       "added_at": "2024-11-08 15:11:01",
@@ -219,6 +291,54 @@
       "duration_ms": 225696,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7GMXtSyoJ2xAs9abge7E1s"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 169499,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Say Yeah",
+        "url": "https://open.spotify.com/album/7sGxH6Agx6Zv96lpaiqyMF"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 165732,
+      "name": "Say Yeah",
+      "url": "https://open.spotify.com/track/5xT90JPRFT1JZLCNSnpNLe"
+    },
+    {
+      "added_at": "2024-11-22 06:52:39",
+      "album": {
+        "name": "Look What You've Done",
+        "url": "https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/3d4rg0hbUdGKJDiAoBUdwm"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -921,22 +1041,6 @@
       "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 154729,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C"
-    },
-    {
       "added_at": "2024-10-04 07:31:04",
       "album": {
         "name": "Mi Amor",
@@ -1597,22 +1701,6 @@
       "url": "https://open.spotify.com/track/5OGo4XiomAu2eI2Pc1oZvX"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Starsigns",
-        "url": "https://open.spotify.com/album/2DmZp1CRU6YQkmkJdMDKHW"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        }
-      ],
-      "duration_ms": 183260,
-      "name": "Starsigns",
-      "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Fields",
@@ -1731,22 +1819,6 @@
       "duration_ms": 140722,
       "name": "Only For Your Eyes",
       "url": "https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "cum again?",
-        "url": "https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 185876,
-      "name": "cum again?",
-      "url": "https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1901,26 +1973,6 @@
       "url": "https://open.spotify.com/track/4Vc9FIyNyy45Svu6TNpoL3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Luv 4 U",
-        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
-    },
-    {
       "added_at": "2024-06-28 17:53:44",
       "album": {
         "name": "AUCTION",
@@ -1959,22 +2011,6 @@
       "duration_ms": 217283,
       "name": "CARPINTERIA (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/70W3zEXIxCdMv8l8XfbhoG"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Proud To Be Your Girl",
-        "url": "https://open.spotify.com/album/4UgJXyr99XbHnWgWjIHA5A"
-      },
-      "artists": [
-        {
-          "name": "Lehla Samia",
-          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Proud To Be Your Girl",
-      "url": "https://open.spotify.com/track/0GPRBlBktvmM5IUmc9Gtm9"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2281,26 +2317,6 @@
       "url": "https://open.spotify.com/track/2EpxQyOEKiqQ7KRnN5mlnT"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "carla's revenge (feat. Shantel May)",
-        "url": "https://open.spotify.com/album/7wxgEC7JL2A5UZnxW2f4Mv"
-      },
-      "artists": [
-        {
-          "name": "IX WULF",
-          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
-        },
-        {
-          "name": "Shantel May",
-          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "carla's revenge (feat. Shantel May)",
-      "url": "https://open.spotify.com/track/4siTPKthioqW6tOBC0l7AS"
-    },
-    {
       "added_at": "2024-06-21 07:14:56",
       "album": {
         "name": "Something/Someone New",
@@ -2483,22 +2499,6 @@
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
-    },
-    {
-      "added_at": "2024-06-07 12:03:07",
-      "album": {
-        "name": "Are We There Yet?",
-        "url": "https://open.spotify.com/album/6Ir3uu7xn7LAgH0YSjGi5x"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Fae",
-          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "You're Always On My Mind",
-      "url": "https://open.spotify.com/track/0uxZZQzJr8peyn0QyxGlIA"
     },
     {
       "added_at": "2024-05-17 04:00:00",

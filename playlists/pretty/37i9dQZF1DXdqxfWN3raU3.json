@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256372,
+  "num_followers": 256388,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "1 OF 1",
-        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "1000 cartas / dsps de un faje",
-        "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 145479,
-      "name": "1000 cartas",
-      "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 156013,
       "name": "Hablas",
       "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "1000 cartas / dsps de un faje",
+        "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 145479,
+      "name": "1000 cartas",
+      "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "t\u00fanosabes",
         "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1487,26 +1503,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
-      },
-      "artists": [
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
-        },
-        {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        }
-      ],
-      "duration_ms": 89791,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
       },
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
         }
       ],
-      "duration_ms": 181463,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
+      "duration_ms": 89791,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
       "artists": [
         {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1631,6 +1631,22 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Le hac\u00e9s falta vos",
         "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
       },
@@ -1683,26 +1683,6 @@
       "duration_ms": 167668,
       "name": "Le hac\u00e9s falta vos",
       "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Baby Love",
-        "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
-      },
-      "artists": [
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
-        },
-        {
-          "name": "Keen Levy",
-          "url": "https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H"
-        }
-      ],
-      "duration_ms": 190736,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1731,6 +1711,46 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Baby Love",
+        "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
+      },
+      "artists": [
+        {
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
+        },
+        {
+          "name": "Keen Levy",
+          "url": "https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H"
+        }
+      ],
+      "duration_ms": 190736,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Trufas",
+        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "Shroom",
+          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
+        }
+      ],
+      "duration_ms": 149999,
+      "name": "Tinta de Tu Piel",
+      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1843,26 +1863,6 @@
       "duration_ms": 131200,
       "name": "SIN PERDER, NUNK CUENTA",
       "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Trufas",
-        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "Shroom",
-          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
-        }
-      ],
-      "duration_ms": 149999,
-      "name": "Tinta de Tu Piel",
-      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "added_at": "2024-11-15 06:00:00",

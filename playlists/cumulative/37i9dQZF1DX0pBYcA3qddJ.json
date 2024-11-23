@@ -12020,28 +12020,6 @@
     {
       "album": {
         "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4hOR560L2Klp5NHBmCulsS"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Ami Inoi",
-          "url": "https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd"
-        }
-      ],
-      "date_added": "2024-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249613,
-      "name": "\u30ae\u30bf\u30fc\u72ec\u594f\u306e\u305f\u3081\u306e6\u3064\u306e\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u6b4c\u66f2(\u30e1\u30eb\u30c4\u7de8)\u3088\u308a: \u30bb\u30ec\u30ca\u30fc\u30c7",
-      "url": "https://open.spotify.com/track/2V8SRNNYEBl97imI7DXvBX"
-    },
-    {
-      "album": {
-        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/5wI1cCs9574YHcRK9Se8a9"
       },
       "artists": [
@@ -12060,6 +12038,28 @@
       "duration_ms": 249613,
       "name": "\u30ae\u30bf\u30fc\u72ec\u594f\u306e\u305f\u3081\u306e6\u3064\u306e\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u6b4c\u66f2(\u30e1\u30eb\u30c4\u7de8)\u3088\u308a: \u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/78krJSkQpCruKbw8yrd1uQ"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4hOR560L2Klp5NHBmCulsS"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ami Inoi",
+          "url": "https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "\u30ae\u30bf\u30fc\u72ec\u594f\u306e\u305f\u3081\u306e6\u3064\u306e\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u6b4c\u66f2\uff08\u30e1\u30eb\u30c4\u7de8\uff09\u3088\u308a: \u30bb\u30ec\u30ca\u30fc\u30c7",
+      "url": "https://open.spotify.com/track/2V8SRNNYEBl97imI7DXvBX"
     },
     {
       "album": {
@@ -13623,7 +13623,7 @@
     },
     {
       "album": {
-        "name": "Nostalghia~Kiyomizu~",
+        "name": "Nostalghia\uff5eKiyomizu\uff5e",
         "url": "https://open.spotify.com/album/0ZN8L3q8BETNERhgCAl8oI"
       },
       "artists": [

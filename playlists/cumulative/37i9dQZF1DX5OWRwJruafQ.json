@@ -5373,6 +5373,32 @@
     },
     {
       "album": {
+        "name": "Jigre",
+        "url": "https://open.spotify.com/album/0JN8QajFGk8WVXz7viZ4Fl"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bhullar",
+          "url": "https://open.spotify.com/artist/6g24MQXt7eR4oVKsMTNcT3"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        },
+        {
+          "name": "Jot Virk",
+          "url": "https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Jigre",
+      "url": "https://open.spotify.com/track/6su3PzBYLu6375XwUf9xry"
+    },
+    {
+      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle"
       },

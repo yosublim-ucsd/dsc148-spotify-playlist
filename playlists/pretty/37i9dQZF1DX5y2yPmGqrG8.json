@@ -1,13 +1,29 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 394458,
+  "num_followers": 394522,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzYv7AAAAAAahB89A7s96kwdOp1B3bV1",
+  "snapshot_id": "Z0DCaQAAAACwiIANwiZSA14TEH/UOlni",
   "tracks": [
+    {
+      "added_at": "2024-11-22 17:42:01",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
     {
       "added_at": "2024-10-23 05:27:47",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2024-09-04 14:51:21",
-      "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
     },
     {
       "added_at": "2024-09-01 14:50:56",
@@ -125,24 +125,20 @@
       "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
     },
     {
-      "added_at": "2024-08-12 18:05:58",
+      "added_at": "2024-09-04 14:51:21",
       "album": {
-        "name": "Car Alarm, Turn Signal",
-        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
       },
       "artists": [
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 287030,
-      "name": "Car Alarm, Turn Signal",
-      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
     },
     {
       "added_at": "2024-07-02 23:59:09",
@@ -272,8 +268,8 @@
           "url": "https://open.spotify.com/artist/2lktSq1VE3OezchJvi3D8X"
         },
         {
-          "name": "Julia Reidy",
-          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
+          "name": "Jules Reidy",
+          "url": "https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac"
         }
       ],
       "duration_ms": 334839,
@@ -473,6 +469,26 @@
       "url": "https://open.spotify.com/track/0rPolyYcE1EFWfyHp9OxlT"
     },
     {
+      "added_at": "2024-08-12 18:05:58",
+      "album": {
+        "name": "Car Alarm, Turn Signal",
+        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
+    },
+    {
       "added_at": "2023-12-20 05:39:30",
       "album": {
         "name": "Everywhere at the End of Time (Stage 1)",
@@ -573,6 +589,22 @@
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
+      "added_at": "2024-04-15 14:39:48",
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -591,22 +623,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2024-04-15 14:39:48",
-      "album": {
-        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
-        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        }
-      ],
-      "duration_ms": 291002,
-      "name": "Gurek",
-      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Existenzmaximum - EP",
-        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 121856,
-      "name": "Mechanical Advantage",
-      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Crush",
@@ -719,6 +719,22 @@
       "duration_ms": 143080,
       "name": "Requiem for CS70 and Strings",
       "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Existenzmaximum - EP",
+        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 121856,
+      "name": "Mechanical Advantage",
+      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Gallery Love",
-        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     }
   ],
   "unique_name": "Deep Listening",

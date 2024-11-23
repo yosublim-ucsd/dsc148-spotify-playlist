@@ -33225,6 +33225,24 @@
     },
     {
       "album": {
+        "name": "Good on You",
+        "url": "https://open.spotify.com/album/1TxnqjeZ3uqMB1kRJS9WNo"
+      },
+      "artists": [
+        {
+          "name": "Ava like Lava",
+          "url": "https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182835,
+      "name": "Good on You",
+      "url": "https://open.spotify.com/track/6f1hiblEBpzXj5mK53C8sr"
+    },
+    {
+      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3"
       },
@@ -41948,7 +41966,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 392542,
       "name": "Impakamo",
       "url": "https://open.spotify.com/track/00ug9BzytmHc7cDSREDxlD"
@@ -81341,6 +81359,24 @@
     },
     {
       "album": {
+        "name": "Sexy Genoeg",
+        "url": "https://open.spotify.com/album/4doNc8JCRxhdEdY6X839XW"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196711,
+      "name": "Sexy Genoeg",
+      "url": "https://open.spotify.com/track/5tuqD3Uh55pniRsoQECfAK"
+    },
+    {
+      "album": {
         "name": "Sgafro Landlords",
         "url": "https://open.spotify.com/album/4dqhQe4exquH7my7JQ8JFF"
       },
@@ -86636,12 +86672,12 @@
           "url": "https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX"
         },
         {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
           "name": "Brightness",
           "url": "https://open.spotify.com/artist/6lP1TZWvL5uDrfdd6Ltsh2"
+        },
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
         }
       ],
       "date_added": "2024-11-21",

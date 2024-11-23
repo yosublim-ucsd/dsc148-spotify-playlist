@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 150402,
+  "num_followers": 150403,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAABeafNudXDWNCxXoF8ZGMiT",
+  "snapshot_id": "Z0AP0AAAAAB74IX4ZLhNuh/9Yf7130Mp",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg"
+    },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
@@ -639,22 +655,6 @@
       "duration_ms": 213077,
       "name": "Spiritual Warrior",
       "url": "https://open.spotify.com/track/1PLVmQc9U0agrKJv0ljR3G"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "What I'm Made Of",
-        "url": "https://open.spotify.com/album/4Qe99uFINH6xrWLoRm04oo"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 222534,
-      "name": "What I'm Made Of",
-      "url": "https://open.spotify.com/track/1Op8GRaEDkFfuOQaRIjXJ9"
     },
     {
       "added_at": "2024-04-19 04:01:00",

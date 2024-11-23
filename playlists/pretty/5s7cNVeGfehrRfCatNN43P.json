@@ -1,328 +1,312 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10848,
+  "num_followers": 10849,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALB/aCNhWqasE+kmJpk6tlp01VLmLI",
+  "snapshot_id": "AAALCbbcFTUzD9giJInoWs4Hkc+H9Yb3",
   "tracks": [
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
+        "name": "Polari",
+        "url": "https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 87454,
+      "name": "Polari",
+      "url": "https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Back To Then",
+        "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Back To Then",
+      "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Poppy",
+        "url": "https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 193489,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Kissing A Ghost",
+        "url": "https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 199830,
+      "name": "Kissing A Ghost",
+      "url": "https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/6S6ndCkhAnIoZeBYSTDaUx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1QpGadlPm0KceCsjNX1CXs"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "LOST SEASONS",
+        "url": "https://open.spotify.com/album/3oB74ZoXkpm2elQ62IjUmT"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
         },
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+      "duration_ms": 249800,
+      "name": "LOST SEASONS",
+      "url": "https://open.spotify.com/track/2kYAp4JSXQ6YrcfMJshenj"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f"
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/2bzPZhmgsIB8N6h2UoKgrU"
       },
       "artists": [
         {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
         }
       ],
-      "duration_ms": 251768,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
+      "duration_ms": 202030,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/0HXyqMQjAPbvhQDiCStf7n"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/0W7ODmyAtlwYQB6pkY4iwb"
+        "name": "Matriarchy (Queen Edition)",
+        "url": "https://open.spotify.com/album/1SzLeWwWjyqYukZSohGLNj"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
         }
       ],
-      "duration_ms": 179609,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo"
+      "duration_ms": 173433,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/6brAdlfcmGeb3lhrTnTyct"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Much About Love",
-        "url": "https://open.spotify.com/album/4pEPzi1oapOSAJqYRWVoNW"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
       },
       "artists": [
         {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "The Energiser",
+        "url": "https://open.spotify.com/album/6iDMk2c4HkGc5hS93bCtSx"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "The Energiser",
+      "url": "https://open.spotify.com/track/5pnQtywOCWO5yVG0ijAzt3"
+    },
+    {
+      "added_at": "2024-11-22 09:17:09",
+      "album": {
+        "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+        "url": "https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         },
         {
-          "name": "redridinghoodldn",
-          "url": "https://open.spotify.com/artist/54eIhwHHRhMQubiPEiJsd1"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 195211,
-      "name": "Much About Love",
-      "url": "https://open.spotify.com/track/63Xu7Ldr2FPLxpRbqZF63f"
+      "duration_ms": 193253,
+      "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+      "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/2fynNLBiie2vj7eTehr5SR"
+        "name": "Heroes & Heroines",
+        "url": "https://open.spotify.com/album/2PSbAXuBtDcWcEWI8b0t6E"
       },
       "artists": [
         {
-          "name": "Cara Hart",
-          "url": "https://open.spotify.com/artist/2XE5X8vzmnOqbWBBIinCrM"
+          "name": "The Brides of the Black Room",
+          "url": "https://open.spotify.com/artist/35fafKhcshJbUYbBnM6PW1"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/0qflkWSoSMH3ZMrjtq4f1s"
+      "duration_ms": 219506,
+      "name": "Heroes & Heroines",
+      "url": "https://open.spotify.com/track/30ckrEXEgKF7PhDRPBPdCx"
     },
     {
-      "added_at": "2024-11-15 11:12:33",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "LIGHT AGAIN!",
-        "url": "https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL"
+        "name": "Made it Awkward",
+        "url": "https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 177252,
-      "name": "LIGHT AGAIN!",
-      "url": "https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3"
+      "duration_ms": 184428,
+      "name": "Made it Awkward",
+      "url": "https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
         }
       ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
+      "duration_ms": 250293,
+      "name": "Blue Ruin",
+      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/2A43FrrF9yQ5nONlBtHkqs"
+        "name": "Rinse & Repeat / See Ya Later",
+        "url": "https://open.spotify.com/album/3V0D354PkeylO9fMGy5f37"
       },
       "artists": [
         {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
         }
       ],
-      "duration_ms": 163561,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/12ZOYB6ALfoVZcCHza89al"
+      "duration_ms": 152890,
+      "name": "Rinse & Repeat",
+      "url": "https://open.spotify.com/track/3tRKHCjHvLEo5xdfnuRa0Q"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+        "name": "Touching Heaven",
+        "url": "https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
         }
       ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+      "duration_ms": 158869,
+      "name": "Touching Heaven",
+      "url": "https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo"
     },
     {
-      "added_at": "2024-11-15 08:53:52",
+      "added_at": "2024-11-22 09:17:09",
       "album": {
-        "name": "2 hands",
-        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+        "name": "just call me",
+        "url": "https://open.spotify.com/album/2GszWaLbnHGy7LhBBwSfD9"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
         }
       ],
-      "duration_ms": 181820,
-      "name": "2 hands",
-      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "take it offff",
-        "url": "https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "take it offff",
-      "url": "https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        },
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "MUSTANG BABY (FT. ARTEMAS)",
-      "url": "https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "everywhere i go, there i am",
-        "url": "https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "memory lane",
-      "url": "https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 188678,
-      "name": "How Does It Feel?",
-      "url": "https://open.spotify.com/track/5Lv7pqgeEudN7KhqP2M7oV"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2024-11-15 08:53:52",
-      "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 171165,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
+      "duration_ms": 191635,
+      "name": "just call me",
+      "url": "https://open.spotify.com/track/64fAqe3CUYYipu3o9ymb5d"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

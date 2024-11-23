@@ -1,13 +1,37 @@
 {
   "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from Moana 2.",
-  "num_followers": 1061126,
+  "num_followers": 1061384,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKMyQAAAABca/rnueWc8p0v9IO6nk3p",
+  "snapshot_id": "Z0AP0AAAAAASoUfgwRwOiTXOkhkk127G",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {

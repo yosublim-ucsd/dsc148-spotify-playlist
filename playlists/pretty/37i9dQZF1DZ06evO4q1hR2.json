@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 60510,
+  "num_followers": 60553,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAAOD7Pm4pWI9Dq8x5xDDPCm",
+  "snapshot_id": "Zz54AAAAAADR8ZrPeFYHtpQGbpzIAiO1",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
       "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 179258,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY"
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": null,
@@ -603,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe"
       },
       "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
+      "duration_ms": 179258,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
       "duration_ms": 137887,
       "name": "Alguien Dijo",
       "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Me Dicen El Coyote",
+      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 160533,
       "name": "No volver\u00e9",
       "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Me Dicen El Coyote",
-      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "Vida Mafiosa",
+      "url": "https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 1187749,
       "name": "Mi Ranchito / La Feria De Las Flores / Los P\u00e1jaros / La Vaquilla / Mi Gusto Es / \u00c1rboles De La Barranca - En Vivo",
       "url": "https://open.spotify.com/track/4M6DBE4zEgc0r4i3lMBXpr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "Vida Mafiosa",
-      "url": "https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU"
     },
     {
       "added_at": null,

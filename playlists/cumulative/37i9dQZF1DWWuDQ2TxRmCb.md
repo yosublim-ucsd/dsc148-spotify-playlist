@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-101 songs - 7 hr 12 min
+102 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hukus Bukus](https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Hukus Bukus](https://open.spotify.com/album/4bkhNqNkG5hIFVrDglvNCQ) | 4:06 | 2023-11-15 |  |
 | [Iya Kaye Hajaari \| Mere Jaisa Hi](https://open.spotify.com/track/2FzWQwS1lzBnwSLmYuRQyQ) | [Daira](https://open.spotify.com/artist/5zve5gonOuNzWd2yKZJiJO), [Lakheshwar Khudaram](https://open.spotify.com/artist/30j1ZGcnDZ9HZZiZhUsN8V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Jaadoo Bastar](https://open.spotify.com/album/5AA7yyK7eaxx63E9aTvoXK) | 4:47 | 2024-07-26 | 2024-08-31 |
 | [Jaag Uthi Usha \- From "Songs Of The River \- Ganga"](https://open.spotify.com/track/4IMOTtavuplugtakpEyTVU) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Jaag Uthi Usha \(From "Songs Of The River \- Ganga"\)](https://open.spotify.com/album/7tQ69K3DWUvjy99o7BimzA) | 4:28 | 2023-11-15 | 2024-05-28 |
-| [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 | 2023-03-10 |  |
+| [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 | 2024-11-22 |  |
+| [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 | 2023-03-10 | 2024-11-23 |
 | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/track/4DSJNXH2FaOGFGBaAY8e3B) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4) | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/album/3F2JCrV7g0lKjurBAw9mpw) | 4:15 | 2024-06-26 | 2024-09-11 |
 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 | 2023-03-10 | 2024-11-04 |
 | [Kaash](https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Raah\-e\-Fakira](https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v) | 3:53 | 2023-03-10 |  |

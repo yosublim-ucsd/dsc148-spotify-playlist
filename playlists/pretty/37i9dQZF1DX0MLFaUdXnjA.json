@@ -1,13 +1,97 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: SIENNA SPIRO",
-  "num_followers": 1824699,
+  "description": "Sit back and relax to the chillest pop.  Cover: Tyla",
+  "num_followers": 1824668,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAACMy4epZk70e5w1M6jusFiQ",
+  "snapshot_id": "Z0AP0AAAAAC+N/Hd1TEu8T9FA1CqQ6TP",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "next to you",
+        "url": "https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 154255,
+      "name": "next to you",
+      "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 127342,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
+    },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
@@ -45,52 +129,20 @@
       "url": "https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+        "name": "Back To Then",
+        "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 127342,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "next to you",
-        "url": "https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 154255,
-      "name": "next to you",
-      "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+      "duration_ms": 169960,
+      "name": "Back To Then",
+      "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -109,22 +161,6 @@
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC"
-      },
-      "artists": [
-        {
-          "name": "Christian Hayes",
-          "url": "https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu"
-        }
-      ],
-      "duration_ms": 184948,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO"
-    },
-    {
       "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "2DK",
@@ -141,52 +177,20 @@
       "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
-      "added_at": "2024-11-08 04:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heaven II",
-        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+        "name": "LASSO THE MOON",
+        "url": "https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
         }
       ],
-      "duration_ms": 147461,
-      "name": "Heaven II",
-      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "i wish",
-        "url": "https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX"
-      },
-      "artists": [
-        {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
-        }
-      ],
-      "duration_ms": 190540,
-      "name": "i wish",
-      "url": "https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm"
+      "duration_ms": 173416,
+      "name": "LASSO THE MOON",
+      "url": "https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -225,6 +229,38 @@
       "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
     },
     {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Requiem",
@@ -239,6 +275,62 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "tell me your feelings and i won\u2019t tell you mine, Pt. 3",
+        "url": "https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Daniel Saint",
+          "url": "https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8"
+        },
+        {
+          "name": "Chill Sebs",
+          "url": "https://open.spotify.com/artist/5OFwbKLjzMBNVRFnck0fKK"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "death bed, Pt. 2",
+      "url": "https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "85",
+        "url": "https://open.spotify.com/album/3599vXgXsLKvYD8d7SBKXF"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "85",
+      "url": "https://open.spotify.com/track/0TExB3rbWBgk5TUlH3Aei9"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -257,20 +349,68 @@
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC"
+      },
+      "artists": [
+        {
+          "name": "Christian Hayes",
+          "url": "https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu"
+        }
+      ],
+      "duration_ms": 184948,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 139830,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "i wish",
+        "url": "https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 190540,
+      "name": "i wish",
+      "url": "https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -319,46 +459,6 @@
       "duration_ms": 213080,
       "name": "Cats on the Ceiling",
       "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "tell me your feelings and i won\u2019t tell you mine, Pt. 3",
-        "url": "https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Daniel Saint",
-          "url": "https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8"
-        },
-        {
-          "name": "Chill Sebs",
-          "url": "https://open.spotify.com/artist/5OFwbKLjzMBNVRFnck0fKK"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "death bed, Pt. 2",
-      "url": "https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1093,22 +1193,6 @@
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 217618,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Two Star & The Dream Police",
@@ -1141,42 +1225,6 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "A-frame",
-        "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "A-frame",
-      "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/6XdkP8ys72LuKrUkMyYpeu"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 170841,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/3dVpXsROb2OtDf7MA1UgVc"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Senses",
@@ -1193,22 +1241,6 @@
       "url": "https://open.spotify.com/track/1JetH4krYbWJNZenvTOC4D"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "We Both Smoke Again",
-        "url": "https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV"
-      },
-      "artists": [
-        {
-          "name": "2AM-DM",
-          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "We Both Smoke Again",
-      "url": "https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g"
-    },
-    {
       "added_at": "2024-08-31 03:39:11",
       "album": {
         "name": "Saturn",
@@ -1223,22 +1255,6 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "lower",
-        "url": "https://open.spotify.com/album/3su4g4uYeEPRCKlOyaAZIo"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 238962,
-      "name": "lower",
-      "url": "https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
     },
     {
-      "added_at": "2024-09-20 17:16:26",
-      "album": {
-        "name": "What's Left Of Me",
-        "url": "https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "What's Left Of Me",
-      "url": "https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Pushing It Down and Praying",
@@ -1355,26 +1355,6 @@
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "black & white",
-        "url": "https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "black & white",
-      "url": "https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr"
     },
     {
       "added_at": "2024-08-31 03:39:11",

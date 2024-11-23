@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-119 songs - 6 hr 15 min
+123 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [E Tron](https://open.spotify.com/track/086PhXSS2W1pyVCdxUAZOA) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [E Tron](https://open.spotify.com/album/7zzfQgNPmhqGTxZYCc6KBD) | 3:43 | 2024-09-13 |  |
 | [Echoes](https://open.spotify.com/track/1sY1DdJYF00a0K5cRm41Zj) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [Echoes](https://open.spotify.com/album/27QCm8YwHWILiXFyrp5S4f) | 2:16 | 2024-09-13 |  |
 | [Echoes](https://open.spotify.com/track/2UloubV0VmWeY9MT1Pnv06) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Echoes](https://open.spotify.com/album/2uh5TWemNU1MmoFyOFvtZl) | 2:53 | 2024-06-06 |  |
+| [eclipse](https://open.spotify.com/track/1nTipTdwJGSWpYrDNmcxJ8) | [n3on\-horizon](https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe) | [eclipse](https://open.spotify.com/album/6YMYVrEruFN9LLuE00eTre) | 2:44 | 2024-11-22 |  |
+| [Eden](https://open.spotify.com/track/39imDV5zpT6YOOgm3LyAmx) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Eden](https://open.spotify.com/album/2dBrpkd94JiHDe8k6QbWLG) | 3:51 | 2024-11-22 |  |
 | [Elysian Echoes](https://open.spotify.com/track/0KlLfMXfofptTSJt3Z6pMY) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Elysian Echoes](https://open.spotify.com/album/7jhIi3tarngZFO4f948jaD) | 2:52 | 2024-06-06 |  |
 | [Enough time to think](https://open.spotify.com/track/2j4PAHfX5Buu75RXeTO59l) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Enough time to think](https://open.spotify.com/album/0SgHt11DeylKWRqDBHIwOZ) | 2:43 | 2024-06-06 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6ubtpZG99JxA9NQYsfgzkZ) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Eternal Sunshine](https://open.spotify.com/album/1yGJdpnJ0LpgRHHw7wbbFp) | 2:52 | 2024-06-06 | 2024-07-24 |
@@ -68,10 +70,11 @@
 | [Knowledge Is Power](https://open.spotify.com/track/0xQ2KcWgthQfNyegtRZZcJ) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Knowledge Is Power](https://open.spotify.com/album/2a1oVmD9eGnNFAS0Ov1qmZ) | 2:57 | 2024-06-06 |  |
 | [L.I.F.E](https://open.spotify.com/track/5wzeFcggirDME8oygi4rJS) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [L.I.F.E](https://open.spotify.com/album/7M7bCYbGwExoCSGnsjKIy0) | 3:46 | 2024-10-18 |  |
 | [Last Call](https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4) | [Airglow](https://open.spotify.com/artist/0347X29GtMWksQFdN7xpg6) | [Stratford Ct\. \| Iterum](https://open.spotify.com/album/3fpiSLxyUVMc3HP0zpZktm) | 4:10 | 2024-06-06 | 2024-07-17 |
-| [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 | 2024-06-06 |  |
+| [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 | 2024-06-06 | 2024-11-23 |
 | [Light Shift](https://open.spotify.com/track/2o5g4pvgKEB1nKsmROugVK) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Light Shift](https://open.spotify.com/album/1Db7jNdGRzyIlK9zD3VQeQ) | 3:47 | 2024-09-05 |  |
 | [Like Math and Science](https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [You Get What You Give](https://open.spotify.com/album/5Kh55x2m4Vfm5ab5q2r2Mw) | 2:19 | 2024-06-06 | 2024-08-11 |
 | [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 | 2024-06-06 |  |
+| [Lunar Cry \- Slowed](https://open.spotify.com/track/3zfXgVWQRQm1uUQcEeLNRs) | [auritni](https://open.spotify.com/artist/6S7iMNv0pzmmXn7nrZ2ggS), [DX7F](https://open.spotify.com/artist/757n4nNEQvSAHKh4MAnfm0) | [Lunar Cry](https://open.spotify.com/album/30P6birWfCZV15wT4plClf) | 2:18 | 2024-11-22 |  |
 | [Malibu](https://open.spotify.com/track/2Xr6SGuF6e6oOrSmqrNsbb) | [Reggi Bennett](https://open.spotify.com/artist/6I6oXTnFjRncAh2G4D0ehQ) | [Malibu](https://open.spotify.com/album/7rHA13O3Oj2iKAwIDPlbYB) | 3:09 | 2024-06-06 | 2024-07-19 |
 | [Meteora](https://open.spotify.com/track/440DUQsi26Bs7AiLEVFUTx) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Meteora](https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw) | 3:38 | 2024-06-06 |  |
 | [Metro](https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Evenings, Vol\. 1](https://open.spotify.com/album/10UNH2oeQQas3dRWzqODeX) | 2:46 | 2024-06-06 |  |
@@ -106,13 +109,14 @@
 | [Selective Memories](https://open.spotify.com/track/06aX8QgWv4uNnogqUVqM4c) | [Afterift](https://open.spotify.com/artist/7vjAlACB6dM1DtOQGHq3ob) | [In The Beginning There Was Driftscape](https://open.spotify.com/album/4COj84ImYNkny0xWNuto24) | 3:44 | 2024-09-05 |  |
 | [Shake You Off](https://open.spotify.com/track/5N04YJGla33NiuSKaHfrvX) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [Phantom Pulse](https://open.spotify.com/album/3H3wQUhwcbmLlEIh6c98Zp) | 2:49 | 2024-06-06 | 2024-07-19 |
 | [Shelter](https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [FiLo](https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1) | 3:05 | 2024-07-16 |  |
+| [Shimmering Expanse](https://open.spotify.com/track/1Zq4bvnfO1umN1u9id5qT3) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Shimmering Expanse](https://open.spotify.com/album/3NGLi8A1FenoabAq99jF8S) | 2:30 | 2024-11-22 |  |
 | [Skybeam](https://open.spotify.com/track/0dSRcN8hFArUbg2Y6TzQrK) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Skybeam](https://open.spotify.com/album/1HGxvnkNnhyWHWMsrDsQNY) | 4:08 | 2024-09-05 |  |
 | [Sphere](https://open.spotify.com/track/7p3KGBMxdmIttLZWGQQcQ9) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Sphere](https://open.spotify.com/album/2nTJIiVfO9DIZZTRbKrBxV) | 2:40 | 2024-06-06 |  |
 | [Spoon Too!](https://open.spotify.com/track/6SAXZKjLKBARiy4hn765ku) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:28 | 2024-06-06 |  |
 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 | 2024-06-06 | 2024-06-21 |
 | [Stardriver](https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Stardriver](https://open.spotify.com/album/12CPcqbCjUpR5TpMQGBc6y) | 4:00 | 2024-06-06 | 2024-07-17 |
 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 | 2024-06-06 | 2024-06-21 |
-| [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 |  |
+| [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 | 2024-11-23 |
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 |  |
 | [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 |  |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |

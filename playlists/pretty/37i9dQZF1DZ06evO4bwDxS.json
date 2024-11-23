@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 451617,
+  "num_followers": 452705,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAABnHGX9ZDV7TAnctWG+GrYa",
+  "snapshot_id": "Zz54AAAAAAB2ZNtgKX3Aj096wzQnB23c",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
       },
       "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166909,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
+      "duration_ms": 192720,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
     },
     {
       "added_at": null,
@@ -759,18 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
       },
       "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Eyes Wide Open",
-      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
+      "duration_ms": 166909,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons Jungeli et Dadju",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons KeBlack et SDM",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149443,
       "name": "Bababa",
       "url": "https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB"
@@ -1282,6 +1282,28 @@
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/22Z9WhtCQhQ3ksjIi6Ps4I"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148186,
+      "name": "Boulot",
+      "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
     },
     {
       "album": {
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 115200,
       "name": "JSLM",
       "url": "https://open.spotify.com/track/1hwnlmq6LiihqisZPQEkf3"
@@ -4242,6 +4264,24 @@
       "duration_ms": 216198,
       "name": "Kita",
       "url": "https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO"
+    },
+    {
+      "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
     },
     {
       "album": {
@@ -5048,7 +5088,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161142,
       "name": "L\u2019envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
@@ -5630,6 +5670,24 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/20fs75YoZE9lEwxNw4GzZu"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/5xrZngLg030qda7Qd7MvST"
     },
     {
       "album": {
@@ -9209,6 +9267,28 @@
     },
     {
       "album": {
+        "name": "Venez m'aider",
+        "url": "https://open.spotify.com/album/4GyGqTFbG6smm7NuQ18b2p"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        },
+        {
+          "name": "Deplick Pomba",
+          "url": "https://open.spotify.com/artist/2bzcfUoyjlsBV8g4y6M0S9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341944,
+      "name": "Venez m'aider",
+      "url": "https://open.spotify.com/track/5j2kflgCoiNwssS1cz7YgU"
+    },
+    {
+      "album": {
         "name": "Ame",
         "url": "https://open.spotify.com/album/3ACiqzYVVGynQtQstUXoiy"
       },
@@ -9670,7 +9750,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 183960,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"

@@ -27235,6 +27235,24 @@
     },
     {
       "album": {
+        "name": "Spiderwick",
+        "url": "https://open.spotify.com/album/7hebGdQsbUFxYyjpkxaKdD"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155043,
+      "name": "Spiderwick",
+      "url": "https://open.spotify.com/track/4UCqjBmojNNvJdS0ASVPY5"
+    },
+    {
+      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },

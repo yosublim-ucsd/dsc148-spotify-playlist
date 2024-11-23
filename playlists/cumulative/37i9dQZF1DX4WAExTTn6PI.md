@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-231 songs - 14 hr 12 min
+233 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dance Floor](https://open.spotify.com/track/3vogqXUK0kbuG3RwqjborM) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:55 | 2023-06-30 | 2024-04-19 |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2024-05-03 |
 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 |  |
+| [Devil Bent](https://open.spotify.com/track/5RmdFziXzizy6O7ErWKrVP) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Devil Bent](https://open.spotify.com/album/7MID2OeMPD86rIC77bU33K) | 2:33 | 2024-11-22 |  |
 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 | 2023-03-24 |  |
 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 | 2023-01-13 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 | 2023-06-17 |
@@ -57,6 +58,7 @@
 | [For the Rest of Our Lives](https://open.spotify.com/track/2RztKo9tfOxScA22pIOlI9) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Popular Mechanics](https://open.spotify.com/album/4Ox6b3DSAuV4E4A3025lq6) | 3:40 | 2022-01-28 | 2024-04-19 |
 | [For the Rest of Our Lives](https://open.spotify.com/track/7ejg7RBniZZI2UnfLhfoLF) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Popular Mechanics](https://open.spotify.com/album/3cHqOwdigCwPgHKHCPt2oP) | 3:40 | 2022-01-28 | 2024-09-14 |
 | [Forget Me](https://open.spotify.com/track/0wvZqIlytT107FSU3uY6O5) | [Kate Gillespie](https://open.spotify.com/artist/6ci7cpgQnyd6mWMAXWQI0T) | [Forget Me](https://open.spotify.com/album/1Lc96fEQjo6DzXIVQVJMtv) | 4:29 | 2024-03-01 |  |
+| [Frame It](https://open.spotify.com/track/1ans3xmz7CPzZb9e3PJbGK) | [Will Johnson](https://open.spotify.com/artist/0GkLlslI4LMVTTuUkyQp57) | [Sleuthed/Full Cuts EP](https://open.spotify.com/album/4BWjZuU8rWPK3dVGmY7OXe) | 3:54 | 2024-11-22 |  |
 | [Frosty](https://open.spotify.com/track/0FmlgrraTPBRAxKXZLqQew) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/5k2zEnNqQRfmR8CWdJaAtH) | 3:51 | 2022-01-28 | 2023-04-30 |
 | [Frosty](https://open.spotify.com/track/4D5MtmWgnC6lv4m9BERyIx) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/4aR1lEKx4pN2K4A4A8ylI5) | 3:51 | 2023-04-07 | 2023-09-16 |
 | [Further Away \(feat\. Brit Taylor\) \- Acoustic](https://open.spotify.com/track/0k4scDoifVtunh3rPqTGp4) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Further Away \(Acoustic\) \[feat\. Brit Taylor\]](https://open.spotify.com/album/6qWkuqAxfQMh1uDcnk7BFD) | 3:56 | 2022-01-28 | 2022-07-29 |
@@ -125,7 +127,7 @@
 | [Long Journey Home](https://open.spotify.com/track/4BEoefxFSU1b8C2SM7UtIQ) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Long Journey Home](https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN) | 3:05 | 2022-01-28 | 2024-01-05 |
 | [Look What You've Done](https://open.spotify.com/track/7K8WgamLyMxpbYInObj2Ps) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Look What You've Done](https://open.spotify.com/album/1bJLZGKQP79kYDShDYd6WP) | 3:44 | 2022-01-28 | 2023-01-14 |
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 |  |
-| [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2022-01-28 |  |
+| [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2022-01-28 | 2024-11-23 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 | 2024-04-19 |
 | [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 | 2024-07-13 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 |  |
@@ -214,7 +216,7 @@
 | [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 | 2022-10-14 | 2022-11-13 |
 | [This Far South](https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 3:15 | 2023-07-14 |  |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
-| [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
+| [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 | 2024-11-23 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |
 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 | 2023-06-10 |
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |

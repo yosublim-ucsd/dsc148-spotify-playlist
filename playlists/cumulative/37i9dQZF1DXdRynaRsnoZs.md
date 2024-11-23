@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-103 songs - 4 hr 2 min
+104 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Feliz Navidad](https://open.spotify.com/track/1Du3glA0jYeBg2G1WJSQ7a) | [Jesus D'Silva](https://open.spotify.com/artist/5ymtH0MZbCoCdAtst1ceOC) | [Feliz Navidad](https://open.spotify.com/album/4NFKrRFZyFy0MrILKJzJqp) | 3:25 | 2021-12-22 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5QLExSTWr6iDncCkWh7pfe) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 3:05 | 2021-12-22 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1sq51KAUXYEgP4WzniBu2k) | [Canciones de cuna para bebés](https://open.spotify.com/artist/6Gfi15EDPykTGmyJwlZJyg), [Musica Para Dormir Bebes](https://open.spotify.com/artist/4ykkRDXhReJHr41RrruDKo), [MÚSICA PARA NIÑOS](https://open.spotify.com/artist/1RP6w1culo2vykXGaiYdrQ) | [Musica navideña para bebes: Canciones de cuna de navidad](https://open.spotify.com/album/6oN5vGmcFmFqbtM9FkGUzy) | 2:40 | 2021-12-22 | 2022-10-15 |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7BvZgDcV6eUZ7H4rivyj0a) | [IlDemir](https://open.spotify.com/artist/2ltRPQzXd13wJclrBGeaud) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5AhxuuosbvJk98PD63kMa9) | 1:52 | 2022-10-14 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6vuSZNsofMOAIce6zjrCrj) | [Holiday Harmonies](https://open.spotify.com/artist/51oGb0MvcLS0tt0RzoCqwe) | [Merry Slumbers](https://open.spotify.com/album/261SbdSqvX5wcImEufwi3Z) | 1:59 | 2024-11-22 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7BvZgDcV6eUZ7H4rivyj0a) | [IlDemir](https://open.spotify.com/artist/2ltRPQzXd13wJclrBGeaud) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5AhxuuosbvJk98PD63kMa9) | 1:52 | 2022-10-14 | 2024-11-23 |
 | [Goder afton](https://open.spotify.com/track/709lkjsCthgu90X7Q5Lzi7) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Vaggvisor Vid Jul](https://open.spotify.com/album/4gzft6hAT4tnZqZGjxFgh7) | 0:55 | 2022-10-14 | 2023-09-15 |
 | [Greensleaves](https://open.spotify.com/track/6UDKYg6iEDCM0JGshKbAi5) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Classical Baby Harp](https://open.spotify.com/album/0SoCLTx3BVF2CddiM8Hr2H) | 1:33 | 2021-12-22 |  |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 |  |

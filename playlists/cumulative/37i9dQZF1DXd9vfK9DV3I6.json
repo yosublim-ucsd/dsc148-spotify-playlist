@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 297146,
       "name": "1980",
       "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
@@ -672,6 +672,28 @@
       "duration_ms": 223384,
       "name": "August Diaries",
       "url": "https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N"
+    },
+    {
+      "album": {
+        "name": "Avenoir",
+        "url": "https://open.spotify.com/album/3FEhNJuerRSKAzmJba7tYm"
+      },
+      "artists": [
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        },
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112113,
+      "name": "Avenoir",
+      "url": "https://open.spotify.com/track/2oyKAGwDehS7YW9pstIlsF"
     },
     {
       "album": {

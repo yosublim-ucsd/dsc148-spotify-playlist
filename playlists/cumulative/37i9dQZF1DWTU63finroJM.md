@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,749 songs - 3 day 23 hr 6 min
+1,750 songs - 3 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Bahaghari](https://open.spotify.com/track/2Ozk14un4Py5pZoVygGUPB) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Bahaghari](https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf) | 6:03 | 2022-03-24 | 2022-04-19 |
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-05-30 | 2023-07-08 |
 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 | 2022-09-08 | 2023-05-23 |
+| [bait](https://open.spotify.com/track/5JZrT17IzA9x7WLv0ReiPi) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [numbers](https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm) | 2:51 | 2024-11-15 |  |
 | [bajek deszcz](https://open.spotify.com/track/1b8OjWCdXUAs3V61qzyTPk) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [bajek deszcz](https://open.spotify.com/album/1pcpF9L9NwTxOTSv1OBi4U) | 2:34 | 2022-03-24 | 2022-04-18 |
 | [Balance](https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Halfway to Paradise](https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI) | 3:33 | 2024-10-04 |  |
 | [Balance Of Love](https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Balance Of Love](https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY) | 3:03 | 2024-06-07 | 2024-09-19 |
@@ -629,7 +630,7 @@
 | [Horizon](https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Horizon](https://open.spotify.com/album/2HvwHLj6sjOuyrZE4vG0fe) | 3:13 | 2024-04-19 | 2024-08-17 |
 | [HOTnKOLD \(feat\. BXKS\)](https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [COBALT: SOMUCHMoRE](https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8) | 2:31 | 2024-04-26 | 2024-07-10 |
 | [Hottest Man Alive 1995](https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 3:29 | 2024-03-29 | 2024-04-06 |
-| [HOUDINI](https://open.spotify.com/track/4Yx6A5PBSMzAt9yOb1B6lA) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HOUDINI](https://open.spotify.com/album/6hNVT6jyFLeSUmSGLl6fDP) | 2:28 | 2024-10-25 |  |
+| [HOUDINI](https://open.spotify.com/track/4Yx6A5PBSMzAt9yOb1B6lA) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HOUDINI](https://open.spotify.com/album/6hNVT6jyFLeSUmSGLl6fDP) | 2:28 | 2024-10-25 | 2024-11-23 |
 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 | 2023-09-01 | 2023-10-14 |
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-08 | 2024-06-24 |
 | [Howl](https://open.spotify.com/track/5BH4G3jjDGZCNu4ZYUF8rL) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Howl](https://open.spotify.com/album/71NiZ2eoxbKbIrqQ4XCllV) | 3:01 | 2022-02-03 | 2022-08-02 |

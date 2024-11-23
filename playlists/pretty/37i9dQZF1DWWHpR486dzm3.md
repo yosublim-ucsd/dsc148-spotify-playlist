@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Elsa Brotherus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,903 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,909 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Pienen puun alla](https://open.spotify.com/track/37TfZfSkh2z0NU1ruDvDcA) | [elmeri](https://open.spotify.com/artist/35oi9JPD0xfAsyilqBfwtR) | [Pienen puun alla](https://open.spotify.com/album/1fSqwARY8mMCtzJRF9cEs7) | 3:29 |
 | 80 | [Tuun muistamaan tän pahalla](https://open.spotify.com/track/5DnWDmRWnOoYD3Zz4B5Dbc) | [Lydian](https://open.spotify.com/artist/1FDg8DDyMpcdo9jMdBuU97) | [Tuun muistamaan tän pahalla](https://open.spotify.com/album/3CAbwKGmd7bD5oeJmyLaV5) | 3:42 |
 
-Snapshot ID: `Zz+tnAAAAAAUm9dbsNU+8n8TUZNfRM0X`
+Snapshot ID: `Z0BAbgAAAAAYQE3ypYHgDlPuVnyX3V5X`

@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 63039,
+  "num_followers": 63061,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,22 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
         },
         {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Tyour Gnaoua",
+          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 309000,
+      "name": "Mister X",
+      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -675,22 +671,26 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Safi",
-        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Ray Lema",
-          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
         },
         {
-          "name": "Tyour Gnaoua",
-          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Mister X",
-      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2024-10-14 07:27:16",

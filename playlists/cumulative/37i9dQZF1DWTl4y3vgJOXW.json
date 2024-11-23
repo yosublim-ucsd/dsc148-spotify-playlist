@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Anthony Davis, LeBron James and Dalton Knecht",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Trae Young",
   "name": "Locked In",
   "tracks": [
     {
@@ -2917,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "Crack Music 3",
+        "url": "https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Controversy 2 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH"
+    },
+    {
+      "album": {
         "name": "Spaceships on the Blade",
         "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
       },
@@ -5048,7 +5070,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178695,
       "name": "Free Big Meech",
       "url": "https://open.spotify.com/track/0PBYOiDJxW54ZRjMl8xXs8"
@@ -10438,7 +10460,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 155754,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/6j69bnzsC2K5qnrqNDpJi4"
@@ -12486,7 +12508,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 131213,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
@@ -14661,6 +14683,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "tv off",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "album": {
         "name": "Tweakin (feat. Future)",
         "url": "https://open.spotify.com/album/4o0RQNBivFc7JuxzLT9Kqs"
       },
@@ -14930,7 +14970,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 265135,
       "name": "Up Now (feat. Lil Yachty, BlueBucksClan & 42 Dugg)",
       "url": "https://open.spotify.com/track/3hHDLYScNXL4qBD9T5hhbU"
@@ -15093,6 +15133,24 @@
     },
     {
       "album": {
+        "name": "Saaheem",
+        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Viking",
+      "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
+    },
+    {
+      "album": {
         "name": "Virgil Drip",
         "url": "https://open.spotify.com/album/3AXfqrBaLSUotF76Dwimfx"
       },
@@ -15142,6 +15200,24 @@
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/0Cz12ejDQ5L1c1f4sVck4n"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317092,
+      "name": "wacced out murals",
+      "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
     },
     {
       "album": {

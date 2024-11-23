@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60352,
+  "num_followers": 60354,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2024-11-04 03:16:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 253283,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2024-11-04 03:16:17",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
+        "name": "Al Pr\u00edncipe Bossa",
+        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
+      },
+      "artists": [
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 258346,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
-        "name": "Al Pr\u00edncipe Bossa",
-        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
-      },
-      "artists": [
-        {
-          "name": "Valeria",
-          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
     },
     {
       "added_at": "2024-11-04 03:16:17",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
-        "name": "Jamison",
-        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "These Things You Are to Me",
-      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 181826,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
+        "name": "Jamison",
+        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "These Things You Are to Me",
+      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
     },
     {
       "added_at": "2024-11-04 03:16:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 257253,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 257253,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
     },
     {
       "added_at": "2024-11-04 03:16:17",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-11-04 03:16:17",
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        },
+        {
+          "name": "Lizette",
+          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+        }
+      ],
+      "duration_ms": 157786,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
+    },
+    {
+      "added_at": "2024-11-04 03:16:17",
+      "album": {
         "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
         "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
       },
@@ -1255,22 +1275,6 @@
       "duration_ms": 213476,
       "name": "THERE YOU ARE (SECOND CHANCE)",
       "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
-    },
-    {
-      "added_at": "2024-11-04 03:16:17",
-      "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

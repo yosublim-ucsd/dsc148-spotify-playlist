@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Jacinto  en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Malcriada en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 142222,
       "name": "Come&Go (funnynoiseclub002)",
       "url": "https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 201203,
       "name": "Como un chicle en un papel",
       "url": "https://open.spotify.com/track/7io6ikQGeIY4FacR6XJyfg"
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "El Diablo Se Solt\u00f3",
+        "url": "https://open.spotify.com/album/7M7sKL5qUd88YHLbsiVEPm"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "El Diablo Se Solt\u00f3",
+      "url": "https://open.spotify.com/track/7i2Ep7ZPewDY552jYA13c5"
+    },
+    {
+      "album": {
         "name": "Santo o Remedio",
         "url": "https://open.spotify.com/album/7gO5QeWy7XckmyRtUhscrv"
       },
@@ -1709,6 +1727,32 @@
     },
     {
       "album": {
+        "name": "Fall\u00e9",
+        "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135874,
+      "name": "Fall\u00e9",
+      "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
+    },
+    {
+      "album": {
         "name": "cl\u00e1sico vol. 2",
         "url": "https://open.spotify.com/album/0zwQOZWB0CAu6uic0VN1Ax"
       },
@@ -1894,7 +1938,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 253189,
       "name": "hongo",
       "url": "https://open.spotify.com/track/5nxB7s96I7383hrXvUSR3K"
@@ -1916,7 +1960,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 180039,
       "name": "How\u2019s That Working Out",
       "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
@@ -2058,6 +2102,28 @@
       "duration_ms": 198003,
       "name": "KNT",
       "url": "https://open.spotify.com/track/6RZZhzruqJBvKA5a5ZFjrj"
+    },
+    {
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/62tYBBfPozQtACFZFIM5x8"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/2WDnoDzsGEmoPi7Hyv7QGU"
     },
     {
       "album": {
@@ -3338,7 +3404,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 219264,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/6aMQKOZqYHNfhruJ37oNJC"
@@ -3781,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Te Ver\u00e9 Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1T7sz0xIcQ4CrTE8wS81pT"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129687,
+      "name": "Te Ver\u00e9 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3JzV4AeVLPgVpJ2Vcinbgg"
+    },
+    {
+      "album": {
         "name": "Tele",
         "url": "https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ"
       },
@@ -3930,6 +4014,24 @@
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
+    },
+    {
+      "album": {
+        "name": "Tout D\u00e9truire",
+        "url": "https://open.spotify.com/album/6MZnW2IAFWZ8kC2qyZkFar"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245059,
+      "name": "Tout D\u00e9truire",
+      "url": "https://open.spotify.com/track/02cQX9YmUkuqSHhDhulr88"
     },
     {
       "album": {

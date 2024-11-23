@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Kf6RONZ3Raueyz2jlsKnYA\">Wizkid</a>",
-  "num_followers": 105805,
+  "num_followers": 105966,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+tYAAAAABbQqQQ6AzwtzlMGqzHi629",
+  "snapshot_id": "Z0AkewAAAACGLhZxx60EuICnmOxFH7et",
   "tracks": [
     {
       "added_at": "2024-11-21 22:00:00",
@@ -276,12 +276,12 @@
           "url": "https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX"
         },
         {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
           "name": "Brightness",
           "url": "https://open.spotify.com/artist/6lP1TZWvL5uDrfdd6Ltsh2"
+        },
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
         }
       ],
       "duration_ms": 419317,
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "Impakamo",
-        "url": "https://open.spotify.com/album/4MkZ0q6tzd81QnJHjb5Rla"
-      },
-      "artists": [
-        {
-          "name": "Dr Thulz",
-          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
-        },
-        {
-          "name": "Mnqobi Yazo",
-          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
-        }
-      ],
-      "duration_ms": 392542,
-      "name": "Impakamo",
-      "url": "https://open.spotify.com/track/00ug9BzytmHc7cDSREDxlD"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
         "name": "Uphakeme (feat. Malemon)",
         "url": "https://open.spotify.com/album/4grethOKQezf3YwvdBHZir"
       },
@@ -899,6 +879,22 @@
       "duration_ms": 416305,
       "name": "Uphakeme (feat. Malemon)",
       "url": "https://open.spotify.com/track/5anDoHNqzA2aoyHBYilIVE"
+    },
+    {
+      "added_at": "2024-11-22 06:28:11",
+      "album": {
+        "name": "Good on You",
+        "url": "https://open.spotify.com/album/1TxnqjeZ3uqMB1kRJS9WNo"
+      },
+      "artists": [
+        {
+          "name": "Ava like Lava",
+          "url": "https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk"
+        }
+      ],
+      "duration_ms": 182835,
+      "name": "Good on You",
+      "url": "https://open.spotify.com/track/6f1hiblEBpzXj5mK53C8sr"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -1335,6 +1331,22 @@
       "duration_ms": 204705,
       "name": "Calliope",
       "url": "https://open.spotify.com/track/0gl6hmCOhdCZ1f7oso9b95"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Sexy Genoeg",
+        "url": "https://open.spotify.com/album/4doNc8JCRxhdEdY6X839XW"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "duration_ms": 196711,
+      "name": "Sexy Genoeg",
+      "url": "https://open.spotify.com/track/5tuqD3Uh55pniRsoQECfAK"
     },
     {
       "added_at": "2024-11-21 22:00:00",

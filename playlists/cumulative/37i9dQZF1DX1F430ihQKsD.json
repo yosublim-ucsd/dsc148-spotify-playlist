@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Mon Doux Saigneur",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Skiifall",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -2064,6 +2064,24 @@
       "duration_ms": 380386,
       "name": "Corde \u00e0 linge",
       "url": "https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ"
+    },
+    {
+      "album": {
+        "name": "Cours, Cora, cours / Journal d'un loup-garou",
+        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Cours, Cora, cours",
+      "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
     },
     {
       "album": {
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176727,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z"

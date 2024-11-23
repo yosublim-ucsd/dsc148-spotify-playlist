@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz0mgAAAAAAZKFPMw2pk378R+IsdY86i",
+  "snapshot_id": "Zz54AAAAAAAJKQMW7gg1i6WPAswTGLcl",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157680,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
+      "duration_ms": 220600,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/1gmDN60KqlsUwKsZC0PVwO"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 220600,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/1gmDN60KqlsUwKsZC0PVwO"
+      "duration_ms": 157680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 248057,
-      "name": "Que Le Vaya Bien",
-      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
+      "duration_ms": 141026,
+      "name": "Para Qu\u00e9 Volviste",
+      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 141026,
-      "name": "Para Qu\u00e9 Volviste",
-      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/27O9E19mmoq8vzMmju1cYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Carne Y Hueso",
         "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205797,
       "name": "Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/27O9E19mmoq8vzMmju1cYi"
     },
     {
       "added_at": null,

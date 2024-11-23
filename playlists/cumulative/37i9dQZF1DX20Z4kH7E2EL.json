@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 218880,
       "name": "Answer",
       "url": "https://open.spotify.com/track/3EgxB3djDrnGIZrdPKSEaQ"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 208571,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/5XzZUrpj9hVmXwtP4YKhFy"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 272903,
       "name": "Chair 10",
       "url": "https://open.spotify.com/track/46APlHcz5wJdcLVAKJRLzi"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 375425,
       "name": "Different Style",
       "url": "https://open.spotify.com/track/48q7tv8Gm47dwVm2kPJv8m"
@@ -1996,6 +1996,32 @@
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
+    },
+    {
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170390,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
     },
     {
       "album": {
@@ -2476,7 +2502,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 150000,
       "name": "Feel My Needs",
       "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
@@ -2530,7 +2556,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182520,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/2BmyES33xncl530X676vME"
@@ -2973,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Hotel",
+        "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547906,
+      "name": "Gene Pool",
+      "url": "https://open.spotify.com/track/6mbYr3xRFKaZmG8GPN5GFr"
+    },
+    {
+      "album": {
         "name": "Get Back",
         "url": "https://open.spotify.com/album/2qENaBPonllrE9ZOvk0uHS"
       },
@@ -3072,6 +3116,24 @@
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
+        "name": "Got This Feeling EP",
+        "url": "https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447494,
+      "name": "Got This Feeling - Original Mix",
+      "url": "https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB"
     },
     {
       "album": {
@@ -3216,7 +3278,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 434412,
       "name": "Happy Finally - Extended Mix",
       "url": "https://open.spotify.com/track/4LWD1N2UlBgjWb5v16ZRnz"
@@ -3904,7 +3966,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 332459,
       "name": "If You Know Me - Qrion Extended Mix",
       "url": "https://open.spotify.com/track/7xcJAex6hVX3gWTpHars8V"
@@ -4122,6 +4184,24 @@
       "duration_ms": 271395,
       "name": "JOY (Back On 74)",
       "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
+    },
+    {
+      "album": {
+        "name": "Beaucoup Fish (Remastered / Super Deluxe)",
+        "url": "https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417853,
+      "name": "Jumbo",
+      "url": "https://open.spotify.com/track/3VIMS1p3sNifH0RQnmDf7s"
     },
     {
       "album": {
@@ -4918,7 +4998,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 552000,
       "name": "Morgana",
       "url": "https://open.spotify.com/track/424ldVhdV9Lbsz6fVC9770"
@@ -5016,7 +5096,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 341538,
       "name": "Movin' In Slowly",
       "url": "https://open.spotify.com/track/62bseztlpPySEmmSkkQEj9"
@@ -5192,6 +5272,24 @@
       "duration_ms": 186829,
       "name": "New New New - Avicii Remix Edit",
       "url": "https://open.spotify.com/track/6hY9KAaUXfao60mFgmUNXW"
+    },
+    {
+      "album": {
+        "name": "Night In Buenos Aires",
+        "url": "https://open.spotify.com/album/5xp1LLvKUet55Jsr9Q37gz"
+      },
+      "artists": [
+        {
+          "name": "Gavril",
+          "url": "https://open.spotify.com/artist/6uFLKhZILvtgE6X6aXqwQ5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172570,
+      "name": "Night In Buenos Aires",
+      "url": "https://open.spotify.com/track/624RNGbjiS3plSFUZtLj08"
     },
     {
       "album": {
@@ -5926,7 +6024,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 330000,
       "name": "Pure Play",
       "url": "https://open.spotify.com/track/1kavOvyxzdk7Y6RP3Kc9EF"
@@ -6465,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "Say You Want To Fly",
+        "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
+      },
+      "artists": [
+        {
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Say You Want To Fly",
+      "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
+    },
+    {
+      "album": {
         "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
@@ -6673,6 +6789,28 @@
     },
     {
       "album": {
+        "name": "SMALLTALK (Elkka Remix)",
+        "url": "https://open.spotify.com/album/55fu2MJku6v55BuSce8314"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        },
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222992,
+      "name": "SMALLTALK (Elkka Remix)",
+      "url": "https://open.spotify.com/track/5Q82iWKeJbZqJJPfmduUcP"
+    },
+    {
+      "album": {
         "name": "Snabeln",
         "url": "https://open.spotify.com/album/7sSQAt7qsqPYx00Qy8kTIA"
       },
@@ -6808,6 +6946,36 @@
       "duration_ms": 253325,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC"
+    },
+    {
+      "album": {
+        "name": "Somedays (Marten H\u00f8rger Remix)",
+        "url": "https://open.spotify.com/album/2Zb4CNocWpJUlDb1bDLSxb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "Somedays - Marten H\u00f8rger Remix",
+      "url": "https://open.spotify.com/track/75X5E7vau9zgKD902Z5KOO"
     },
     {
       "album": {
@@ -7470,7 +7638,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 189773,
       "name": "The Game",
       "url": "https://open.spotify.com/track/2fWVIb7fmsMhK76Sr15GZX"
@@ -7843,6 +8011,32 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/5rsyYqq9UWR1u8UkbJnIJT"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281132,
+      "name": "Tunnel Vision - Durante Remix",
+      "url": "https://open.spotify.com/track/6znGnmunnQLE908tlQN7Yc"
+    },
+    {
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Solomun Remix]",
         "url": "https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug"
       },
@@ -8097,6 +8291,28 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/1uhm2zwYS8RlxjfC0AZ0Le"
+    },
+    {
+      "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
       },
@@ -8321,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "We Can Make It",
+        "url": "https://open.spotify.com/album/05wPDdATFr1krB9XAKetTt"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331908,
+      "name": "We Can Make It - Extended Mix",
+      "url": "https://open.spotify.com/track/13VsoNG5IwJnmX34h6UJsx"
+    },
+    {
+      "album": {
         "name": "We Could Be Love",
         "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
       },
@@ -8486,6 +8720,24 @@
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj"
+    },
+    {
+      "album": {
+        "name": "Organ Movements EP",
+        "url": "https://open.spotify.com/album/6EuH50MvzDAB0VMbznX3HZ"
+      },
+      "artists": [
+        {
+          "name": "Aney F.",
+          "url": "https://open.spotify.com/artist/4pcxE8GZ810KTkCPnvxhWG"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "What's That? - Edit",
+      "url": "https://open.spotify.com/track/2GGk8PSDkZz1uHlpsqTIWf"
     },
     {
       "album": {

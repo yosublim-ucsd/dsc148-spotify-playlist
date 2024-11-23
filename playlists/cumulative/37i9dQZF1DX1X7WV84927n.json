@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: ",
+  "description": "For full-volume lovers. Cover: Three Days Grace",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 233397,
       "name": "Bring Me Down",
       "url": "https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 200300,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/3KDrWt9Ll6G0x1xCGHng6d"
@@ -3842,6 +3842,24 @@
       "duration_ms": 145500,
       "name": "Death Wish",
       "url": "https://open.spotify.com/track/3xQPy8WV7N74njLxi7luqR"
+    },
+    {
+      "album": {
+        "name": "Deathwalk",
+        "url": "https://open.spotify.com/album/11A6IcZ2Vl9Ue7CfaLhAqd"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174527,
+      "name": "Deathwalk",
+      "url": "https://open.spotify.com/track/3KT0kwny4izeeLyE6MTyP7"
     },
     {
       "album": {
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 221290,
       "name": "FREE TO DIE",
       "url": "https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R"
@@ -7878,7 +7896,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 208939,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve"
@@ -9635,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Live Not Fantasize",
+        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Live Not Fantasize",
+      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
+    },
+    {
+      "album": {
         "name": "Live Without It",
         "url": "https://open.spotify.com/album/2CRwZC57AFDKsaz9gfSlZu"
       },
@@ -9974,7 +10010,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 307974,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/4H78441VLOCuzkSHldIgJN"
@@ -10140,7 +10176,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145266,
       "name": "Mad Care",
       "url": "https://open.spotify.com/track/6JN8exConeYRUdfGkqmYfO"
@@ -10346,6 +10382,24 @@
       "duration_ms": 218346,
       "name": "maybe it's me",
       "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
     },
     {
       "album": {
@@ -10686,6 +10740,24 @@
       "duration_ms": 192176,
       "name": "Misery",
       "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
+    },
+    {
+      "album": {
+        "name": "MISTY ECSTASY",
+        "url": "https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "MISTY ECSTASY",
+      "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
     },
     {
       "album": {
@@ -11154,6 +11226,24 @@
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
+    },
+    {
+      "album": {
+        "name": "nerv",
+        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192611,
+      "name": "nerv",
+      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
     },
     {
       "album": {
@@ -12458,7 +12548,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
@@ -12704,6 +12794,24 @@
       "duration_ms": 176107,
       "name": "Peacemaker",
       "url": "https://open.spotify.com/track/0gRv4lU4ZFvaOEw4mJw8Z7"
+    },
+    {
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "album": {
@@ -13180,7 +13288,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 214133,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
@@ -14352,6 +14460,24 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
+    },
+    {
+      "album": {
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
     },
     {
       "album": {
@@ -17330,7 +17456,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
@@ -19424,6 +19550,24 @@
       "duration_ms": 149486,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/65Gl9oVqcL0xW6bygAFkkl"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Damso
 
-211 songs - 10 hr 54 min
+212 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [911](https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [911](https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv) | 4:21 | 2024-09-20 |  |
 | [A l'envers](https://open.spotify.com/track/4CPKr0neKXh3q5BsnRp2HC) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:39 | 2024-01-26 | 2024-02-03 |
 | [AKRAPO 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AKRAPO 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 | 2023-12-08 | 2024-07-13 |
+| [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 | 2024-11-22 |  |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Atari](https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Atari](https://open.spotify.com/album/6qUMwUVNpa89Xyi2YskqN7) | 2:26 | 2024-11-15 |  |
 | [Ayenne](https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ayenne](https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd) | 2:36 | 2023-12-08 | 2024-03-02 |

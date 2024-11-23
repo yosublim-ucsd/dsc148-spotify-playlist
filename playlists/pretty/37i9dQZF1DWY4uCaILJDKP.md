@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,722 likes - 119 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,727 likes - 119 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 67 | [thx!!](https://open.spotify.com/track/3H4aN2ueNg6e9DGZpmPfme) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Tinkling Smile](https://open.spotify.com/album/4lWHXHPkz9SwdNjWGJBMel) | 4:13 |
 | 68 | [3three](https://open.spotify.com/track/10aZBF9ofYbReso70EHNsS) | [9nine](https://open.spotify.com/artist/2MiheFm6jbDXNZXQOso9It) | [CUE](https://open.spotify.com/album/56tPI4bO1onyt7VQKxAuTi) | 3:43 |
 | 69 | [ザ・ティッシュ〜とまらない青春〜](https://open.spotify.com/track/7aMA1Dq7IMvSJ30tpuinCz) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [エビ中の絶盤ベスト〜おわらない青春〜](https://open.spotify.com/album/1Zryn01YlILizK2SEnZsVC) | 3:53 |
-| 70 | [絶唱!なにわで生まれた少女たち](https://open.spotify.com/track/2nAeK63zz8YGcufGW16Y58) | [TACOYAKI RAINBOW](https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq) | [絶唱!なにわで生まれた少女たち \(Special Edition\)](https://open.spotify.com/album/1RfkKGbNIT3yhqkkDLyuwi) | 4:34 |
+| 70 | [絶唱！なにわで生まれた少女たち](https://open.spotify.com/track/2nAeK63zz8YGcufGW16Y58) | [TACOYAKI RAINBOW](https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq) | [絶唱！なにわで生まれた少女たち \(Special Edition\)](https://open.spotify.com/album/1RfkKGbNIT3yhqkkDLyuwi) | 4:34 |
 | 71 | [ジユーダム \- ヒャダインのリリリリ☆リミックス](https://open.spotify.com/track/1fbKHkXE8yHoHyUET6j7yB) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Kenichi Maeyamada](https://open.spotify.com/artist/0UvCDg9eIE2Su3N3BB0xnT) | [ジユーダム](https://open.spotify.com/album/1SuImeSqFIDjBv1N303Qpa) | 2:28 |
 | 72 | [It's all Love!](https://open.spotify.com/track/2rpEG49FJiRMww5p4sKUWd) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC), [misono](https://open.spotify.com/artist/6kvN5e0vPFKf6Ra4BrINU4) | [It's all Love!](https://open.spotify.com/album/3FD5Xa17HLn8w680UWzNwj) | 4:51 |
 | 73 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 |

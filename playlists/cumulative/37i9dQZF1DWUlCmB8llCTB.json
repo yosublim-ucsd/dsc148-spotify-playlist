@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con el La Trinidad (El Malilla, El Bogueto y Eme MalaFe)",
+  "description": "Perreando toda la noche con Quevedo.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -958,6 +958,32 @@
       "duration_ms": 174527,
       "name": "ALOHA",
       "url": "https://open.spotify.com/track/5WwBpc6NYJ4wN8IPDP6laT"
+    },
+    {
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "AMANECI\u00d3",
+      "url": "https://open.spotify.com/track/4DxbTPS1DUzTKzpNfCbYjy"
     },
     {
       "album": {
@@ -5627,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "Mazorkeo.com",
+        "url": "https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185517,
+      "name": "El Ba\u00f1o",
+      "url": "https://open.spotify.com/track/71ERecKRBWmioDg3GOBGWn"
+    },
+    {
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -6770,7 +6814,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173052,
       "name": "FENDI",
       "url": "https://open.spotify.com/track/6dHf97MVK1i9Xlek0rFJUk"
@@ -7250,7 +7294,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
@@ -7576,7 +7620,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 131853,
       "name": "GATITAS SANDUNGUERAS - VOL.1",
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
@@ -7950,6 +7994,28 @@
       "duration_ms": 218580,
       "name": "HAG\u00c1MONOS DE TO",
       "url": "https://open.spotify.com/track/6H2eKWfOhXYSwBdgu48dYH"
+    },
+    {
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181261,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/58ldPuiCULxm08TCZ8qX4D"
     },
     {
       "album": {
@@ -12005,6 +12071,32 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/3tjyZ0FLir461e9186THU5"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/450GR4umZ5cXHVnkos3lEO"
+    },
+    {
+      "album": {
         "name": "MMC",
         "url": "https://open.spotify.com/album/6PFzOuphApnB6DBJT6Tw8M"
       },
@@ -12434,7 +12526,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 150612,
       "name": "Nena Linda (feat. Ovi\u00f1a)",
       "url": "https://open.spotify.com/track/6TGKIXje52nlR8IXZ2PMuc"
@@ -13906,7 +13998,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 180071,
       "name": "PARCHAR",
       "url": "https://open.spotify.com/track/6MEXJ0jnVn0WIDbU3bfghC"
@@ -14292,7 +14384,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 178142,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0nMQi4r84bkq8hFnFJNaaL"
@@ -15176,6 +15268,32 @@
       "duration_ms": 211946,
       "name": "Por Fin",
       "url": "https://open.spotify.com/track/3bd1snLjdM5iTO9S8s5jtI"
+    },
+    {
+      "album": {
+        "name": "POR LO QUE VEO",
+        "url": "https://open.spotify.com/album/1hBN2R5VjhYDzTyVE1MDtX"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175829,
+      "name": "POR LO QUE VEO",
+      "url": "https://open.spotify.com/track/1fvOrIhHQZAs9JqqELNFI7"
     },
     {
       "album": {
@@ -16438,7 +16556,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 188126,
       "name": "R.A.M",
       "url": "https://open.spotify.com/track/3gGEqo7JghOxoFxsidkKti"
@@ -17939,6 +18057,28 @@
     },
     {
       "album": {
+        "name": "Mazorkeo.com",
+        "url": "https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192928,
+      "name": "Sin Panty Maria",
+      "url": "https://open.spotify.com/track/2MM8KVLGV6oHwuTmOWQg5Y"
+    },
+    {
+      "album": {
         "name": "Sin Perse",
         "url": "https://open.spotify.com/album/37Uv8udmkDwcpfEgTfxbrN"
       },
@@ -18074,6 +18214,36 @@
       "duration_ms": 197052,
       "name": "SIN SENTIMIENTOS",
       "url": "https://open.spotify.com/track/2Fcp3w8IfnmkzJ7TqsSyJF"
+    },
+    {
+      "album": {
+        "name": "SIN VISAJE (feat. Miky la Sensa)",
+        "url": "https://open.spotify.com/album/0M9ogK6vWfrhtDDNb9rvJQ"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Miky la Sensa",
+          "url": "https://open.spotify.com/artist/4JXX3NYMoXT5RqEGH1PAcc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "SIN VISAJE (feat. Miky la Sensa)",
+      "url": "https://open.spotify.com/track/5a90sdCvt2b0aZHB7wnwk6"
     },
     {
       "album": {

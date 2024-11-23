@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 212426,
       "name": "Another One",
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
@@ -360,6 +360,24 @@
       "duration_ms": 211426,
       "name": "Church",
       "url": "https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG"
+    },
+    {
+      "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO"
     },
     {
       "album": {
@@ -1131,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "home",
+      "url": "https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX"
+    },
+    {
+      "album": {
         "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
       },
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 223870,
       "name": "Love Me Or Leave Me (Day Or Night Mix)",
       "url": "https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO"
@@ -1660,6 +1696,24 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178141,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
     },
     {
       "album": {
@@ -2364,7 +2418,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 179050,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
@@ -2458,7 +2512,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 160535,
       "name": "sometimes",
       "url": "https://open.spotify.com/track/3NQhWulAjyPb9s9RYpJnY0"
@@ -2671,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Think of Me",
+        "url": "https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213454,
+      "name": "Think of Me",
+      "url": "https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX"
+    },
+    {
+      "album": {
         "name": "TICKET TO RIDE",
         "url": "https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0"
       },
@@ -2856,6 +2928,24 @@
       "duration_ms": 166160,
       "name": "What Good Is A Memory",
       "url": "https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF"
+    },
+    {
+      "album": {
+        "name": "What Got Me Here",
+        "url": "https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP"
+      },
+      "artists": [
+        {
+          "name": "Jason Kirkness",
+          "url": "https://open.spotify.com/artist/6gzw8meygQ3Yl6zfBdNiDQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "What Got Me Here",
+      "url": "https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz"
     },
     {
       "album": {
@@ -3156,7 +3246,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 196233,
       "name": "Youth",
       "url": "https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK"

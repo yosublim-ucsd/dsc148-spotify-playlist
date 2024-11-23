@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=aCHOzWhVSDeCh1C5xaszKA">Brendan Peyper</a>
 
-1,359 songs - 3 day 3 hr 55 min
+1,360 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,7 @@
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 | 2023-02-03 |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2023-03-31 |
 | [My Rede](https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [My Rede](https://open.spotify.com/album/63bjXAWDJMOr6G0jqzgVMH) | 3:39 | 2023-12-14 | 2024-01-12 |
-| [My Sarie Wil Lê](https://open.spotify.com/track/5KzEj65Jh9PmBfgcZDauRt) | [Prop](https://open.spotify.com/artist/3C9jU5jEWtU6CG03ET2yVy) | [My Sarie Wil Lê](https://open.spotify.com/album/0DJUgQyZBgEWC0wUA4PghF) | 3:06 | 2024-11-21 |  |
+| [My Sarie Wil Lê](https://open.spotify.com/track/5KzEj65Jh9PmBfgcZDauRt) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [My Sarie Wil Lê](https://open.spotify.com/album/0DJUgQyZBgEWC0wUA4PghF) | 3:06 | 2024-11-21 |  |
 | [My Sonskyn](https://open.spotify.com/track/6LMmE9FaIYj7IxFJOopSwU) | [Etienne Steyn](https://open.spotify.com/artist/4dxKeBjgTEvUYgtS4oBi94) | [My Sonskyn](https://open.spotify.com/album/4y9x9OA3gego74lcp1bwPx) | 3:39 | 2023-12-29 | 2024-01-06 |
 | [My Sonskyn](https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR) | [Melissa van Jaarsveld](https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j) | [My Sonskyn](https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU) | 4:03 | 2022-12-08 | 2023-02-10 |
 | [My Tipe Dronk](https://open.spotify.com/track/48S2n4oh2TXCkuFeKvcmvp) | [Emil Paul](https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os) | [Wit & Swart](https://open.spotify.com/album/2EhKUsAhmhbwWGyTaeNZRD) | 3:27 | 2023-07-13 | 2023-08-25 |
@@ -1027,6 +1027,7 @@
 | [Sensasie](https://open.spotify.com/track/4OuEbk18BRN19Gh851IqBt) | [Groot Geraas](https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC) | [Sensasie](https://open.spotify.com/album/0RKqSMGcP2wqdPixfOpR5j) | 3:16 | 2024-05-02 | 2024-06-01 |
 | [Serotonien](https://open.spotify.com/track/4sdBWfxzejQd50Fk82OzC6) | [Majo](https://open.spotify.com/artist/0spxw39MSHIABGaQmmWGnV) | [Serotonien](https://open.spotify.com/album/1OYIJ7XFeGDY401oKpjqgk) | 3:19 | 2024-11-07 | 2024-11-15 |
 | [Sewe Somers](https://open.spotify.com/track/4DNz7CvdwzE1Xnl4HeqOaY) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Sewe Somers](https://open.spotify.com/album/3PPqEBW0kSycIikxqJjrdY) | 3:33 | 2023-08-10 | 2023-09-01 |
+| [Sexy Genoeg](https://open.spotify.com/track/5tuqD3Uh55pniRsoQECfAK) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sexy Genoeg](https://open.spotify.com/album/4doNc8JCRxhdEdY6X839XW) | 3:16 | 2024-11-21 |  |
 | [Sexy Selfies](https://open.spotify.com/track/52BrZvCiBxFlNk51pnjqO5) | [Bjarne](https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW) | [Sexy Selfies](https://open.spotify.com/album/6rv7SGxCaWahnuB0XKqvE8) | 2:35 | 2022-08-11 | 2022-10-07 |
 | [Sexy Time](https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Sexy Time](https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM) | 3:10 | 2023-04-20 | 2023-05-12 |
 | [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 | 2023-12-29 | 2024-01-06 |

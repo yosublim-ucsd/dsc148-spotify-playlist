@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 135016,
+  "num_followers": 134977,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Never Truly Happy",
-        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
-      },
-      "artists": [
-        {
-          "name": "NESYA",
-          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
-        }
-      ],
-      "duration_ms": 136459,
-      "name": "delulu",
-      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Return To Cookie Mountain",
         "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 277466,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "We Only Come Out At Night - Remastered 2012",
-      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "We Only Come Out At Night - Remastered 2012",
+      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Young-Girl Forever",
         "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170990,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Drowaton",
+        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+      },
+      "artists": [
+        {
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+        }
+      ],
+      "duration_ms": 162320,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
     },
     {
       "added_at": "2024-11-14 23:00:00",

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Jukjae\(적재\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: onsu\(온수\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-542 songs - 1 day 8 hr 11 min
+543 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-20 | 2023-01-11 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
-| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 |  |
+| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2024-11-23 |
 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 | 2022-03-31 |  |
 | [Be with me \- Acoustic Mix](https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved \(Acoustic Mix\)](https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5) | 4:31 | 2021-12-10 | 2022-04-18 |
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
@@ -502,6 +502,7 @@
 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 | 2022-05-02 | 2022-06-08 |
 | [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2024-05-09 |
+| [you](https://open.spotify.com/track/4ZmFkakOVJNmHdmqQqYlVm) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [serenader](https://open.spotify.com/album/1zEO7f3WhdQUWBBX0xwK8g) | 3:52 | 2024-11-22 |  |
 | [You are](https://open.spotify.com/track/05dg8ZW2BZYJEPlUJYogXU) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [You are](https://open.spotify.com/album/6Y7YRK2kyPKybM9Ue1RrHI) | 2:53 | 2024-07-11 | 2024-07-24 |
 | [You Back Then \(feat\. Jayeong Seo\)](https://open.spotify.com/track/4XDZgn5CyKMLzwMPQcEXzy) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Jayeong Seo](https://open.spotify.com/artist/5VfkNtwpuckyczvncQElcB) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [You Don't Know How I Wanna Hold You](https://open.spotify.com/track/27VyASzAp0CWCVSlrJO5Pq) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:37 | 2022-03-31 | 2022-04-18 |

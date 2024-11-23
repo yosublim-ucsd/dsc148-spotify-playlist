@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/3M2oZFtUNB8xEFVAUF0Lj9"
+      },
+      "artists": [
+        {
+          "name": "Toiner",
+          "url": "https://open.spotify.com/artist/0qKplH0yrvOyQq0Vfs0iPT"
+        },
+        {
+          "name": "Bima",
+          "url": "https://open.spotify.com/artist/3ezYivBdhfcqN44xLps8Kf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/5ab2hiVCC2fHQzc8nOa4JV"
+    },
+    {
+      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -1024,6 +1046,28 @@
       "duration_ms": 225517,
       "name": "For You",
       "url": "https://open.spotify.com/track/3225yFOItlcXiJOl2hURor"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/5yFZAZi0WSKmogH5xZOcp8"
+      },
+      "artists": [
+        {
+          "name": "Jay Teazer",
+          "url": "https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/3rRzR7seHCDOU92oDYop8n"
     },
     {
       "album": {
@@ -2106,6 +2150,24 @@
       "duration_ms": 183925,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt"
+    },
+    {
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/3IHJ9ZVzVTnbClgxFTT3E1"
+      },
+      "artists": [
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/7wKjjHpcu0XT8xvW5rE8PU"
     },
     {
       "album": {

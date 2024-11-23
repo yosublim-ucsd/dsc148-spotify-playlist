@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,948 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,973 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B), [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/album/4EZjQSyZOGk0SLt2JqVOae) | 2:46 |
 | 12 | [Funambule](https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK) | [Mahom](https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Funambule](https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz) | 3:48 |
 | 13 | [Alouette](https://open.spotify.com/track/0i6kcTouGjrDOmQVOEyLYj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Alouette](https://open.spotify.com/album/5AdLMmqU79aNYpzZjvAgYS) | 3:24 |
-| 14 | [Asking For More](https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Asking For More](https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn) | 2:52 |
+| 14 | [Asking for More](https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Asking for More](https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn) | 2:52 |
 | 15 | [Mirages](https://open.spotify.com/track/39GSGgJ2HJ2SOV6TPvoCRN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Mirages](https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe) | 2:34 |
 | 16 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 17 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 |

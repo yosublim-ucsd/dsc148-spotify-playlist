@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "The Come Up Mixtape Vol. 1",
+        "url": "https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "I'm The Man",
+      "url": "https://open.spotify.com/track/2E84A67xGL7tMSgRNUm5fO"
+    },
+    {
+      "album": {
         "name": "Cole World: The Sideline Story",
         "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
@@ -602,6 +620,24 @@
       "duration_ms": 234386,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+    },
+    {
+      "album": {
+        "name": "The Come Up Mixtape Vol. 1",
+        "url": "https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54230,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6wXUgYeIJznRMh1F6OBVB1"
     },
     {
       "album": {
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"

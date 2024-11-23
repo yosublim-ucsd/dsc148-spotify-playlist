@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-766 songs - 1 day 5 hr 48 min
+771 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 | 2024-05-14 |
 | [After The Breeze](https://open.spotify.com/track/2ClFiZN2ssViu0MnCXyRFS) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [After The Breeze](https://open.spotify.com/album/0XSjD6KZzDfQCKIibZeScl) | 2:57 | 2022-11-25 | 2023-09-22 |
 | [Aki](https://open.spotify.com/track/0W8NpyTy5esAL1Hzj74iOy) | [Soiboi](https://open.spotify.com/artist/7oauQAwO8Y8EDxNJY0xqeQ), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Sam Lopes](https://open.spotify.com/artist/2NYGXxVZ7vvBiFM1Z2P2q4) | [Aki](https://open.spotify.com/album/6H3LBtXY5nNnD3cxzVUnQn) | 2:25 | 2022-11-18 |  |
+| [Alice's Ambivalence](https://open.spotify.com/track/2GW0jkUrXk8p7kMkYJO2p3) | [nuuxm](https://open.spotify.com/artist/101wXaKcGFhROAYVnIwcAs) | [Alice's Ambivalence](https://open.spotify.com/album/3yNF2IbZX2CMetXQcAxyYG) | 2:28 | 2024-11-22 |  |
 | [Aligned](https://open.spotify.com/track/2RdMDlEQQLUna9XenWZsJN) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [As The Seasons Change](https://open.spotify.com/album/6G0KFWW2zkzjvDOQuBSJMx) | 2:24 | 2024-09-27 |  |
 | [All About Mine](https://open.spotify.com/track/57bY38pZVvHLS6LCBpzMKQ) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [All About Mine](https://open.spotify.com/album/48Um81dxEkUzv2LPRLizNu) | 2:28 | 2022-05-20 | 2022-07-01 |
 | [All My Dreams \(Quist Remix\)](https://open.spotify.com/track/4gE1TfIXjSB2LtMo0w78fU) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb), [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [All My Dreams \(The Remixes\)](https://open.spotify.com/album/659YS3Me1Ti5Fj7xgZxszI) | 2:33 | 2022-08-12 | 2023-02-07 |
@@ -471,6 +472,7 @@
 | [need you back](https://open.spotify.com/track/4ppEnqXIURq7kCIFDdTmXE) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [need you back](https://open.spotify.com/album/6liTyZELccliHPcVQXorF0) | 1:38 | 2022-06-24 | 2022-07-08 |
 | [nested](https://open.spotify.com/track/6H66oi7WlhEtUNCL5LzCvr) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [nested](https://open.spotify.com/album/4lRbiMWADhOxf4CMsRVdAS) | 1:48 | 2023-09-08 | 2024-09-28 |
 | [neurons](https://open.spotify.com/track/4L3zseq5LsfZGlewJ8Pqwh) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [neurons](https://open.spotify.com/album/1k7kfXsz1gqbtkN0nsGTOz) | 2:11 | 2023-07-17 | 2024-10-19 |
+| [never alone](https://open.spotify.com/track/5DE6VpP4oxrIbP2D9UHhqF) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [never alone](https://open.spotify.com/album/0CHKUD23sC7h28oazVisNY) | 2:23 | 2024-11-22 |  |
 | [New Beginnings](https://open.spotify.com/track/61rpSyti85miQNzJnkgMCT) | [kian.](https://open.spotify.com/artist/3t6yw4eSfBy9Yq0Oaiup0i), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:56 | 2022-12-16 |  |
 | [new day](https://open.spotify.com/track/3aB7nAv332xHu9X74Tlx2S) | [collarbone.](https://open.spotify.com/artist/1Vhr5AaM4pPwTCCPY5e61p) | [new day](https://open.spotify.com/album/1RFmGtPngit8latnSZ8Ije) | 2:41 | 2024-07-26 |  |
 | [News Programme](https://open.spotify.com/track/7M3zz92w0Uyse7GLJazDES) | [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [News Programme](https://open.spotify.com/album/6XuwIlDU2AqLcT2wSXboV3) | 1:48 | 2022-05-20 | 2022-07-15 |
@@ -512,6 +514,7 @@
 | [Origami Boats](https://open.spotify.com/track/5ruHQahXOQRyTVIstFZYAl) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Origami Boats](https://open.spotify.com/album/23XVI7DBghBnYk2yBmp3px) | 2:17 | 2023-01-20 | 2023-08-30 |
 | [otro](https://open.spotify.com/track/35JZvq1urpfpokZF4FtggR) | [Hakuuro](https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K) | [otro](https://open.spotify.com/album/2VjT6vX2L8JhodEbeFP72o) | 3:11 | 2022-07-15 | 2022-07-29 |
 | [Our Life Pictured](https://open.spotify.com/track/32oXFbDI5Qt6QEKiwG9z9c) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Our Life Pictured](https://open.spotify.com/album/710G4Dtbz41TGGEisJZQDW) | 2:05 | 2022-05-20 | 2022-12-12 |
+| [our place](https://open.spotify.com/track/6lF3y4L1WJN44JNAwJWilK) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [our place](https://open.spotify.com/album/2DgQy4Z22uT0oUOtvRFEEM) | 1:56 | 2024-11-22 |  |
 | [Our Quiz](https://open.spotify.com/track/35F3lds7g2yMiFUyJeEWtF) | [Lysergic Teaparty](https://open.spotify.com/artist/4cDvlS7pC7dFcg3leCFHNK) | [Our Quiz](https://open.spotify.com/album/6UVQciWAmh1SZwlofKX3ge) | 3:12 | 2023-05-03 | 2024-09-14 |
 | [Out of the day](https://open.spotify.com/track/53RRv08qJ39rEkweiKCaoC) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Out of the day](https://open.spotify.com/album/51dKFZ52nUS7i7HSmdX2uH) | 2:15 | 2022-08-19 |  |
 | [over the moon](https://open.spotify.com/track/5AigWchdvEE0O8foZw0g10) | [Chae](https://open.spotify.com/artist/2f8JIAu0okvEPCyqVKIm25) | [over the moon](https://open.spotify.com/album/6rvV3gWIZ4e5vSMwKGwLAQ) | 2:47 | 2022-10-28 |  |
@@ -545,9 +548,10 @@
 | [put me to sleep](https://open.spotify.com/track/5ebr815B9oXaj33OEI18hI) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [put me to sleep](https://open.spotify.com/album/4CePoD2qwJ8CwdRGfJFBDT) | 2:14 | 2022-06-24 | 2023-09-22 |
 | [PWR nApp](https://open.spotify.com/track/3uvQsiIBs9ceN3hwSp3WJ1) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [PWR nApp](https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf) | 2:11 | 2023-03-01 |  |
 | [Question 1](https://open.spotify.com/track/2sG6siZK0u4BO0fHbAZGyo) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Question 1](https://open.spotify.com/album/0jWFH0eu6yeqrufpheqolg) | 1:57 | 2022-09-02 | 2023-08-30 |
+| [quiet night](https://open.spotify.com/track/6RKXxJV1vx5aYFuriiHl13) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [quiet night](https://open.spotify.com/album/3LuQhk8p8bvfzeZcM2qxyT) | 2:15 | 2024-11-22 |  |
 | [Quiet Nights](https://open.spotify.com/track/5KxgbOV1pF4d8lO0OwsCCP) | [Golden Soul](https://open.spotify.com/artist/2bs2512dZz98CpEJSCcDzO) | [Quiet Nights](https://open.spotify.com/album/09RaC0dlKAs8NkjB1s8tnt) | 1:33 | 2022-10-07 | 2024-10-19 |
 | [quiet pond](https://open.spotify.com/track/6fforsE7dFgw2ahoqqEKCu) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [quiet pond](https://open.spotify.com/album/3KoqrbkByUE0zGFmMBx3GC) | 2:22 | 2024-09-27 |  |
-| [rainy days](https://open.spotify.com/track/2jr06yxqit1AhZRQQjkOfA) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [rainy days](https://open.spotify.com/album/2o5KiM32PC9agKmnWdBJHb) | 1:44 | 2024-05-29 |  |
+| [rainy days](https://open.spotify.com/track/2jr06yxqit1AhZRQQjkOfA) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [rainy days](https://open.spotify.com/album/2o5KiM32PC9agKmnWdBJHb) | 1:44 | 2024-05-29 | 2024-11-23 |
 | [Rainy Friday](https://open.spotify.com/track/3kN4JFdPqW0Hf3c8PD01CJ) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Rainy Friday](https://open.spotify.com/album/1XXDtS9LWbNQoTmEKkrOZG) | 1:37 | 2022-11-18 |  |
 | [Record Me](https://open.spotify.com/track/2kyQSBNIx3iuepznNZECY9) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Record Me](https://open.spotify.com/album/27dqX0kaUQNH1C9ssB7Qtv) | 2:13 | 2022-05-20 | 2022-09-17 |
 | [red moon](https://open.spotify.com/track/4swgV1x1kMvwCWBPn1vcWO) | [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [red moon](https://open.spotify.com/album/5aQMhd2XYuJfhPwaRh1w3c) | 2:08 | 2022-09-02 | 2023-09-29 |
@@ -676,6 +680,7 @@
 | [Swept Away](https://open.spotify.com/track/2rdrOLBcNyBaNbLh5WSShT) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Late Night Tapes](https://open.spotify.com/album/02KiqbwymPu8bTlDfCn1IJ) | 2:17 | 2022-05-20 | 2022-12-24 |
 | [Sympathetic](https://open.spotify.com/track/6dXBYGXM5V5CCVx37NZLAU) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Sympathetic](https://open.spotify.com/album/5MpILnixP7lgI3UodnVg20) | 2:25 | 2022-09-16 | 2023-10-04 |
 | [take a chance](https://open.spotify.com/track/3YuiBgiPi5T5bmGzWwqF7b) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [take a chance](https://open.spotify.com/album/5uZlJeOmjVuC8VGLU56cjW) | 2:15 | 2022-08-19 | 2022-09-30 |
+| [Take care of you](https://open.spotify.com/track/6M6qGdhwMG3wlPcLhUedEX) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Take care of you](https://open.spotify.com/album/0co3IUnySyqdoD0stuQOKr) | 1:55 | 2024-11-22 |  |
 | [tea break](https://open.spotify.com/track/3MNwdY69Zi8DC1lAP71bhp) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [tea break](https://open.spotify.com/album/60HSzGsk9UgpShEVCeP0lk) | 2:03 | 2023-05-03 | 2024-01-10 |
 | [tempo](https://open.spotify.com/track/2me2cURKVNKJM2WVhIyoQK) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [tempo](https://open.spotify.com/album/4RHsBs9MScN7ORZbKk1f5R) | 2:15 | 2022-06-17 |  |
 | [Tension In The Stars](https://open.spotify.com/track/02v6hr1iytOcwlE4QiT0oN) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Tension In The Stars](https://open.spotify.com/album/68JW59XB1tKlBYetid14Ns) | 2:08 | 2024-01-19 |  |

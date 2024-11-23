@@ -557,6 +557,42 @@
     },
     {
       "album": {
+        "name": "eclipse",
+        "url": "https://open.spotify.com/album/6YMYVrEruFN9LLuE00eTre"
+      },
+      "artists": [
+        {
+          "name": "n3on-horizon",
+          "url": "https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/1nTipTdwJGSWpYrDNmcxJ8"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2dBrpkd94JiHDe8k6QbWLG"
+      },
+      "artists": [
+        {
+          "name": "Cyter",
+          "url": "https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231771,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/39imDV5zpT6YOOgm3LyAmx"
+    },
+    {
+      "album": {
         "name": "Elysian Echoes",
         "url": "https://open.spotify.com/album/7jhIi3tarngZFO4f948jaD"
       },
@@ -1116,7 +1152,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229679,
       "name": "LAX Bound",
       "url": "https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky"
@@ -1174,6 +1210,28 @@
       "duration_ms": 171863,
       "name": "Lost in Agadir",
       "url": "https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM"
+    },
+    {
+      "album": {
+        "name": "Lunar Cry",
+        "url": "https://open.spotify.com/album/30P6birWfCZV15wT4plClf"
+      },
+      "artists": [
+        {
+          "name": "auritni",
+          "url": "https://open.spotify.com/artist/6S7iMNv0pzmmXn7nrZ2ggS"
+        },
+        {
+          "name": "DX7F",
+          "url": "https://open.spotify.com/artist/757n4nNEQvSAHKh4MAnfm0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138819,
+      "name": "Lunar Cry - Slowed",
+      "url": "https://open.spotify.com/track/3zfXgVWQRQm1uUQcEeLNRs"
     },
     {
       "album": {
@@ -1801,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Shimmering Expanse",
+        "url": "https://open.spotify.com/album/3NGLi8A1FenoabAq99jF8S"
+      },
+      "artists": [
+        {
+          "name": "Neon Crash",
+          "url": "https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Shimmering Expanse",
+      "url": "https://open.spotify.com/track/1Zq4bvnfO1umN1u9id5qT3"
+    },
+    {
+      "album": {
         "name": "Skybeam",
         "url": "https://open.spotify.com/album/1HGxvnkNnhyWHWMsrDsQNY"
       },
@@ -1924,7 +2000,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170187,
       "name": "SynthDreams",
       "url": "https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg"

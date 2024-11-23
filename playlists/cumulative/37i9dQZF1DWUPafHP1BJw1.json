@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Popular (Arr. piano) [from \"Wicked\"]",
+        "url": "https://open.spotify.com/album/1diGiKgzfjEOiNyVzTa4Do"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134421,
+      "name": "Popular (Arr. Piano) - from \"Wicked\"",
+      "url": "https://open.spotify.com/track/1BQ19fLD2JPJWqajm7dq21"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
         "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
       },

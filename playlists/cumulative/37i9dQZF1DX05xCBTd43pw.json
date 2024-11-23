@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "As Long as You Stay Here",
+        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115930,
+      "name": "As Long as You Stay Here",
+      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
+    },
+    {
+      "album": {
         "name": "Bored Of The Circus",
         "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 175312,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 197458,
       "name": "Old Again",
       "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 177299,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"

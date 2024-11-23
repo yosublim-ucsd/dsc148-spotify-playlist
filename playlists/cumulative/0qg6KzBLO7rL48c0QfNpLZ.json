@@ -328,6 +328,28 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/1en0Ebfk3rMdDBSzuWbWpE"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180380,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JbqhKKK8jOi23SRKZ1hUC"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/3xovyf9YQeNiHusP6Z20Wv"
       },
       "artists": [
@@ -1978,7 +2000,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 138305,
       "name": "Bring Me Home",
       "url": "https://open.spotify.com/track/3Z01gZjYKXLfRl4mRBxbqU"
@@ -5027,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "Fell For You",
+        "url": "https://open.spotify.com/album/33vn1uy6iuVOeMNCvhYOEe"
+      },
+      "artists": [
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123025,
+      "name": "Fell For You",
+      "url": "https://open.spotify.com/track/6sBRluB0uDTmTAkt8gQwRp"
+    },
+    {
+      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
       },
@@ -7731,6 +7775,32 @@
     },
     {
       "album": {
+        "name": "In The Shadows",
+        "url": "https://open.spotify.com/album/0YzgSXrb8YhFvsXZb2Lq5x"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Alexia Di Lorenzo",
+          "url": "https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "In The Shadows",
+      "url": "https://open.spotify.com/track/00ZRZlwPUgdgug5fKqeQbp"
+    },
+    {
+      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/3Ox7fKbJipALk6dKQv01WT"
       },
@@ -9071,6 +9141,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/5x5OQ471RvMfkt5cJknYXD"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150132,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/3R8GT1P8xCR6RIiJYDGPir"
+    },
+    {
+      "album": {
         "name": "Living the Day",
         "url": "https://open.spotify.com/album/6CLC2OjZ0D5NBrgDj4MXHW"
       },
@@ -10004,6 +10092,24 @@
       "duration_ms": 181339,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4vQaad3iwQw4pEUM9d33Eg"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4E3v4pfP3BjolJa49GRVGf"
+      },
+      "artists": [
+        {
+          "name": "Bye Ocean",
+          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167394,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7xF0CnEiznotNDfsNOQk6L"
     },
     {
       "album": {
@@ -11444,6 +11550,24 @@
       "duration_ms": 154146,
       "name": "Over It",
       "url": "https://open.spotify.com/track/4sCykQR7GPo6YJylrbqWCr"
+    },
+    {
+      "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/04GKRUAL2jPhIgjGfeE2D1"
+      },
+      "artists": [
+        {
+          "name": "aericsn",
+          "url": "https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120130,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/2VfQAkc56zgUTw5SdaZi7O"
     },
     {
       "album": {

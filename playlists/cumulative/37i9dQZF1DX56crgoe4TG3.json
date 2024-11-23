@@ -3051,6 +3051,24 @@
     },
     {
       "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
+    },
+    {
+      "album": {
         "name": "Pickin' On The Doors",
         "url": "https://open.spotify.com/album/4CGYV0NXAcsomCK4swjBuX"
       },
@@ -3070,6 +3088,28 @@
       "duration_ms": 225133,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
+    },
+    {
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+      },
+      "artists": [
+        {
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     },
     {
       "album": {
@@ -3268,6 +3308,28 @@
       "duration_ms": 145000,
       "name": "Misirlou",
       "url": "https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/1lpSWEvrJDqd18hsKGSViU"
+      },
+      "artists": [
+        {
+          "name": "Tommy Drinkard",
+          "url": "https://open.spotify.com/artist/0WUnSuDkHH73JTgCuysUsR"
+        },
+        {
+          "name": "the Remedy",
+          "url": "https://open.spotify.com/artist/6YgPmTwGDVLEBXtbP6pWXC"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249610,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5ezfm5XJ0Wn7Kkd7Ewtu3d"
     },
     {
       "album": {
@@ -5330,6 +5392,24 @@
       "duration_ms": 210628,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/2dJrn376fJPUCj1f4txnRQ"
+    },
+    {
+      "album": {
+        "name": "The Set",
+        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356484,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
     },
     {
       "album": {

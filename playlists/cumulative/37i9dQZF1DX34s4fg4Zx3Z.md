@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Châu Nhi \(JANIE\)
 
-1,898 songs - 4 day 15 hr 7 min
+1,900 songs - 4 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [CÓ BAO ĐIỀU](https://open.spotify.com/track/2mCRjHzWKCCDwLMMpR8Ktl) | [Maize](https://open.spotify.com/artist/1t9YGBngLrj99AgaqqQl49), [Yellowa](https://open.spotify.com/artist/4AL79ySD9YSiJAkigZjutp), [7bizz](https://open.spotify.com/artist/5g95n51OydueKR940xXqhG) | [CÓ BAO ĐIỀU](https://open.spotify.com/album/0Bu18fliQUjCSqIHhkZ4a5) | 3:42 | 2023-09-18 | 2023-09-22 |
 | [Có Bông Hoa Nào Đẹp Như Em ?](https://open.spotify.com/track/0t0GQYL06uhSzB4qycOPbL) | [FLOWK](https://open.spotify.com/artist/3wQNjN7btx2UHokhSHgIov), [MINSEW](https://open.spotify.com/artist/4HmEiqt1na9xJ7zUXuYYsK) | [Có Bông Hoa Nào Đẹp Như Em ?](https://open.spotify.com/album/6CCTTI36eWVAij6nsyNI0t) | 3:12 | 2024-05-18 | 2024-05-23 |
 | [Có Cao Ngang Bằng](https://open.spotify.com/track/71NbitGBgOq5wRVJtDgtNO) | [Phương Anh Idol](https://open.spotify.com/artist/0FGIOjX91Nnaq4ENBkXBxH) | [Có Cao Ngang Bằng](https://open.spotify.com/album/5WbY3z0X6xR0fdfSeETXgG) | 4:35 | 2022-01-14 | 2022-05-12 |
+| [Có Duyên Ta Sẽ Gặp Lại](https://open.spotify.com/track/3Gzozh2jaFPGsCEgkqQZ8e) | [Hiya](https://open.spotify.com/artist/36HqaJcdxxKup5AbhP87k5) | [Có Duyên Ta Sẽ Gặp Lại](https://open.spotify.com/album/71eAvh5PYovKGwhcz2TInA) | 4:11 | 2024-11-21 |  |
 | [Có Em Về Bên Mình](https://open.spotify.com/track/1RunwOLt1RxFhIEv50bDNO) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Có Em Về Bên Mình](https://open.spotify.com/album/3LSAk3gi2NrQYS9IUimWqc) | 5:16 | 2022-02-15 | 2022-03-02 |
 | [có em đây là mắt anh đâu cần](https://open.spotify.com/track/4csG1YwYrL8Sr75Pi9gXuC) | [CRAYONS](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [có em đây là mắt anh đâu cần](https://open.spotify.com/album/0k9gYgOPDlxw7x6cmtkfbT) | 3:43 | 2022-08-18 | 2022-09-18 |
 | [Có Hay Từ Bao Giờ 2](https://open.spotify.com/track/1Tcr9My0VNNjh9ejfz44s6) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e) | [Có Hay Từ Bao Giờ 2](https://open.spotify.com/album/0a7LctHPjjYbyCYx3nuBe5) | 4:51 | 2023-03-20 | 2024-05-15 |
@@ -1727,6 +1728,7 @@
 | [XANH MƯỢT](https://open.spotify.com/track/2IPZlQHt841zE4eIKMKmDH) | [TOSKA](https://open.spotify.com/artist/2uQ3zoA4u2BS7nNb5gk4dg), [LostInSpace](https://open.spotify.com/artist/0kUmW40daFgkY8oc4ynxNj) | [XANH MƯỢT](https://open.spotify.com/album/3w49RKL2ONLT1WkNNBaDV6) | 2:32 | 2024-02-15 | 2024-03-01 |
 | [Xem Như Anh Chẳng May](https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Anh Chẳng May](https://open.spotify.com/album/0KHpdLLlsjcwycvDMehkV4) | 3:25 | 2022-01-06 | 2022-12-14 |
 | [Xem Như Em Chẳng May](https://open.spotify.com/track/4SPOVg01rifoVDdFWL6qUC) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Em Chẳng May](https://open.spotify.com/album/0aWK7xO0bck89id69aWvWf) | 3:25 | 2022-11-30 | 2023-01-06 |
+| [Xin Lỗi Em Chẳng Thừa](https://open.spotify.com/track/5yXItiz7JB2wbdQXQaXhgt) | [Ngọc Kayla](https://open.spotify.com/artist/5knV4qcUt2qmTmJYy7jGem) | [Xin Lỗi Em Chẳng Thừa](https://open.spotify.com/album/2uiNP4aJR2ZzvPfAsablno) | 3:50 | 2024-11-21 |  |
 | [XIN NGƯỜI CHỚ ĐỪNG](https://open.spotify.com/track/26NwzaW4JnDbRGBZPKX2N1) | [Xesi](https://open.spotify.com/artist/44ZNcW1ZSGB9oqX1ALnriH) | [XIN NGƯỜI CHỚ ĐỪNG](https://open.spotify.com/album/7tLY2rm281lN97WFBDbzSo) | 3:28 | 2023-04-13 | 2023-05-23 |
 | [Xin Được Phép](https://open.spotify.com/track/2rhgT7eLB7QgO2fLsqHlyt) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Xin Được Phép](https://open.spotify.com/album/3cLpDNDgz4eCZikAO7VIj8) | 4:44 | 2022-08-31 | 2022-10-05 |
 | [Xin Ở Lại](https://open.spotify.com/track/0k7uNfkypN3QxzKDgWSGf3) | [Anh Thư Phan](https://open.spotify.com/artist/4riE1LHTBS3Rs0SUzwZyjb), [Tempo G](https://open.spotify.com/artist/2LVQd5JQnKruonFNZeNsHS) | [Xin Ở Lại](https://open.spotify.com/album/5cotznAWtP8j19VLRrKfUk) | 3:27 | 2023-12-28 | 2024-01-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,419 likes - 58 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,409 likes - 58 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 33 | [Rally Go Round](https://open.spotify.com/track/2kuitZwspuGShsNYXx5Zvp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:34 |
 | 34 | [THIS ILLUSION](https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/4qeTC56RAFoYqlyLy5zSER) | 4:03 |
 | 35 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 |
-| 36 | [Headphone Actor](https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:42 |
+| 36 | [Headphone Actor](https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:42 |
 | 37 | [traumerei](https://open.spotify.com/track/24GwFhh1ByRhPuCBrTQhlW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:15 |
 | 38 | [Brave Freak Out](https://open.spotify.com/track/42R9a3jhROy4sgZdKkc7WT) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:15 |
 | 39 | [NEW ME](https://open.spotify.com/track/0dFOw1Zip1KGCAC70MNtLC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:24 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 49 | [DOCTOR](https://open.spotify.com/track/5UXfC09ZN5Vj1Rm1wckSHh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 3:04 |
 | 50 | [シフクノトキ](https://open.spotify.com/track/57zh02Y7xMlLY6FEdOquFu) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:08 |
 | 51 | [赤い罠\(who loves it?\)](https://open.spotify.com/track/0Mu4Yoh1DxMdn24tovjU76) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:12 |
-| 52 | [Yukei Yesterday](https://open.spotify.com/track/23fiEpw0tVpRdu7z5zyvoc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 4:17 |
+| 52 | [Yukei Yesterday](https://open.spotify.com/track/23fiEpw0tVpRdu7z5zyvoc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 4:17 |
 | 53 | [シャンプーソング](https://open.spotify.com/track/2IqjLpWrs5gI2xG2OEFxvx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:16 |
 | 54 | [play the world!](https://open.spotify.com/track/4M9x9R9Ar89CFatJwMbkrf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [PABLO](https://open.spotify.com/artist/395Le6nBY9v6viVKGYAIYw) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:18 |
 | 55 | [逃飛行](https://open.spotify.com/track/4la4G9g7JzxRIDXH6HIJvd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,463 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 16 | [Tu bebotear](https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Dolores](https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox) | 3:00 |
 | 17 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 |
 | 18 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |
-| 19 | [Esa Morena](https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [Esa Morena](https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1) | 3:40 |
-| 20 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
+| 19 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
+| 20 | [Esa Morena](https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [Esa Morena](https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1) | 3:40 |
 | 21 | [Nadena](https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Nadena](https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh) | 2:25 |
 | 22 | [Buena Moza](https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Buena Moza](https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH) | 2:10 |
 | 23 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 42 | [Soy un volcán](https://open.spotify.com/track/4V6olQFw9EAJtJbadBm2XG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Soy un volcán](https://open.spotify.com/album/7bPKFYp3OnYlIX6NdYsx9A) | 2:49 |
 | 43 | [GUSTAS DE MÍ](https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [GUSTAS DE MÍ](https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I) | 3:01 |
 | 44 | [No Llores](https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:58 |
-| 45 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
-| 46 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
+| 45 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
+| 46 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
 | 47 | [YA WEY](https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl) | [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW), [Paz Faga](https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3) | [YA WEY](https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5) | 4:11 |
 | 48 | [What is Art?](https://open.spotify.com/track/4BUU51Mnbm8J4Fsr51pfvk) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [What is Art?](https://open.spotify.com/album/3U1kz43G0YoKYsYA3xwpCX) | 3:55 |
 | 49 | [Mi Opening](https://open.spotify.com/track/71HdE42Cx5v3EivRmkiRtZ) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Ya me hicieron efecto los antidepresivos](https://open.spotify.com/album/3J5yvKmEjJ6yuXWmYWD0Uh) | 2:57 |

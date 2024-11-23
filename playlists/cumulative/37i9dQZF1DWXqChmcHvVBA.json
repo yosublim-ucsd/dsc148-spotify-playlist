@@ -667,6 +667,32 @@
     },
     {
       "album": {
+        "name": "C PEG\u00d3",
+        "url": "https://open.spotify.com/album/43Y21ZkWMQo93MSFIZXBsz"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "C PEG\u00d3",
+      "url": "https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0"
+    },
+    {
+      "album": {
         "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
         "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
       },

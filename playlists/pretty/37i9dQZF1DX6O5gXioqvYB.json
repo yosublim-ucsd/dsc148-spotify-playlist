@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: REA",
-  "num_followers": 33730,
+  "num_followers": 33747,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "ti amo",
+        "url": "https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "duration_ms": 138043,
+      "name": "ti amo",
+      "url": "https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Posto Nuovo",
         "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "ti amo",
-        "url": "https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps"
+        "name": "Come mare",
+        "url": "https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5"
       },
       "artists": [
         {
-          "name": "prima stanza a destra",
-          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+          "name": "NICOL",
+          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
         }
       ],
-      "duration_ms": 138043,
-      "name": "ti amo",
-      "url": "https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK"
+      "duration_ms": 173545,
+      "name": "Come mare",
+      "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -427,22 +443,6 @@
       "duration_ms": 172894,
       "name": "Senza Stelle",
       "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Come mare",
-        "url": "https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5"
-      },
-      "artists": [
-        {
-          "name": "NICOL",
-          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
-        }
-      ],
-      "duration_ms": 173545,
-      "name": "Come mare",
-      "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -547,86 +547,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Anche i Cowboy Piangono",
-        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
-      },
-      "artists": [
-        {
-          "name": "nonpiangere",
-          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Anche i Cowboy Piangono",
-      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Vigliacco",
-        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Vigliacco",
-      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Perdo Il Tuo Amore",
-        "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
-      },
-      "artists": [
-        {
-          "name": "Seltsam",
-          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
-        }
-      ],
-      "duration_ms": 164514,
-      "name": "Perdo Il Tuo Amore",
-      "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Come Stai?",
-        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
-      },
-      "artists": [
-        {
-          "name": "SELMI",
-          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
-        }
-      ],
-      "duration_ms": 154552,
-      "name": "Come Stai?",
-      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
-      },
-      "artists": [
-        {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "BELLA BALLA",
         "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
       },
@@ -647,6 +567,102 @@
       "duration_ms": 176596,
       "name": "BELLA BALLA",
       "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Anche i Cowboy Piangono",
+        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Anche i Cowboy Piangono",
+      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Come Stai?",
+        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "duration_ms": 154552,
+      "name": "Come Stai?",
+      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Perdo Il Tuo Amore",
+        "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "duration_ms": 164514,
+      "name": "Perdo Il Tuo Amore",
+      "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Vigliacco",
+        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Vigliacco",
+      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+      },
+      "artists": [
+        {
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "tutte le tue onde",
-        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
-        }
-      ],
-      "duration_ms": 144970,
-      "name": "tutte le tue onde",
-      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Eroi",
         "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 208487,
       "name": "Eroi",
       "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "tutte le tue onde",
+        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
+        }
+      ],
+      "duration_ms": 144970,
+      "name": "tutte le tue onde",
+      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -803,6 +819,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Sotto",
         "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
@@ -867,22 +899,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Pennette alla vodka",
         "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 181191,
       "name": "Pennette alla vodka",
       "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
-      },
-      "artists": [
-        {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Le nonne e le chiese",
         "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 262286,
       "name": "Le nonne e le chiese",
       "url": "https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -987,6 +987,22 @@
       "duration_ms": 207880,
       "name": "Un cane",
       "url": "https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "tuxtu",
+        "url": "https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu"
+      },
+      "artists": [
+        {
+          "name": "Parrelle",
+          "url": "https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "tuxtu",
+      "url": "https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Cosa Non Va?",
-        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
-      },
-      "artists": [
-        {
-          "name": "CORSO ITALIA",
-          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Cosa Non Va?",
-      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "GRANDINE",
         "url": "https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Cosa Non Va?",
+        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
+      },
+      "artists": [
+        {
+          "name": "CORSO ITALIA",
+          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
+        }
+      ],
+      "duration_ms": 184836,
+      "name": "Cosa Non Va?",
+      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Mare",
         "url": "https://open.spotify.com/album/0n2GKpaDXJrm1V5IvfLOTV"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 199680,
       "name": "Mare",
       "url": "https://open.spotify.com/track/6vUs0F0y2ve87fcEhUIJTB"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "tuxtu",
-        "url": "https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu"
-      },
-      "artists": [
-        {
-          "name": "Parrelle",
-          "url": "https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "tuxtu",
-      "url": "https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "CERIGNOLA CAMPAGNA",
-        "url": "https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS"
-      },
-      "artists": [
-        {
-          "name": "THAEO",
-          "url": "https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J"
-        }
-      ],
-      "duration_ms": 177192,
-      "name": "CERIGNOLA CAMPAGNA",
-      "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "insonnia",
         "url": "https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 161632,
       "name": "insonnia",
       "url": "https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "CERIGNOLA CAMPAGNA",
+        "url": "https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS"
+      },
+      "artists": [
+        {
+          "name": "THAEO",
+          "url": "https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J"
+        }
+      ],
+      "duration_ms": 177192,
+      "name": "CERIGNOLA CAMPAGNA",
+      "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
     }
   ],
   "unique_name": "Scuola Indie",

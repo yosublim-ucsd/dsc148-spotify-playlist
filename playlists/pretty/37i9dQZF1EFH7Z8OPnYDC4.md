@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445 likes - 330 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 446 likes - 330 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 230 | [Imagine](https://open.spotify.com/track/7hRmMKBRcfEN0B7g1zMBUv) | [Melissa Rain Anderson](https://open.spotify.com/artist/5B8FUR0fqCirI9mY65JHBa), [Peter Eldridge](https://open.spotify.com/artist/0b4wBqOadiwtAZGq6mUUUE), [Mark Lanyon](https://open.spotify.com/artist/7F159CSp7IyLPFbfb4tOL8), [Daniel C\. Levine](https://open.spotify.com/artist/2IeX4XLOg9R0cgPUPnvWDR), [Ben Saypol](https://open.spotify.com/artist/549mdXKQKbX4DaBjSxoU1q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Babes In Arms \(1999 New York Cast Recording\)](https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1) | 4:19 |
 | 231 | [Oh Diogenes!](https://open.spotify.com/track/37YqcZnUkoknLISdoiYIwb) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 2:23 |
 | 232 | [Perhaps](https://open.spotify.com/track/0eEDhK6Ufu0jISnWRxmACv) | [Joni James](https://open.spotify.com/artist/0hiq5HixjjN3gtSXLZmnBw) | [Essential Masters](https://open.spotify.com/album/48cLhsV1BbBBCXC4sPmpOG) | 2:39 |
-| 233 | [The Girl Friend](https://open.spotify.com/track/6vyXt6LTcunZ5Z1wJeGFAg) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Grandes Orquestas](https://open.spotify.com/album/76pDsbODfIfc0Wf1OUv4pT) | 1:33 |
-| 234 | [I Still Believe in You](https://open.spotify.com/track/37GnIPOmExnsEBnVV0N2hW) | [Emile Pandolfi](https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU) | [Country Impressions](https://open.spotify.com/album/4vdLU82TSa8OT95b1QbYWY) | 3:34 |
+| 233 | [I Still Believe in You](https://open.spotify.com/track/37GnIPOmExnsEBnVV0N2hW) | [Emile Pandolfi](https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU) | [Country Impressions](https://open.spotify.com/album/4vdLU82TSa8OT95b1QbYWY) | 3:34 |
+| 234 | [The Girl Friend](https://open.spotify.com/track/6vyXt6LTcunZ5Z1wJeGFAg) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Grandes Orquestas](https://open.spotify.com/album/76pDsbODfIfc0Wf1OUv4pT) | 1:33 |
 | 235 | [Allegro Ballet](https://open.spotify.com/track/7jRdggDAXcZhmppv650kdI) | [Rodgers & Hammerstein](https://open.spotify.com/artist/1gxSU9Tzyh9Sv4FyvKntrA) | [Allegro \(First Complete Recording\)](https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2) | 4:55 |
 | 236 | [Pal Joey](https://open.spotify.com/track/7fRC861S4G4DX9K136xvU1) | [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Éxitos de "Lorenz Hart"](https://open.spotify.com/album/1ovxnp3ttC8H0EhQ61q39J) | 3:09 |
 | 237 | [All At Once](https://open.spotify.com/track/0gyhZAmMXjFCOYpDBHzNIJ) | [David Campbell](https://open.spotify.com/artist/6tUwA7Nt6EoMLy48nNVrgq), [Erin Dilly](https://open.spotify.com/artist/5ZuNxzveZXxfHLwqL8Tp3h), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Babes In Arms \(1999 New York Cast Recording\)](https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1) | 3:22 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbiIVAAAAABvDEyHlMqWliaykhdHyKc+`
+Snapshot ID: `AbiN4AAAAADVNQIux86NAIxvlZnf5xn3`

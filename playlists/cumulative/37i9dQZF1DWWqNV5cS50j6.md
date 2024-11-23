@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,779 songs - 3 day 13 hr 24 min
+1,780 songs - 3 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,6 +1423,7 @@
 | [Speedracer](https://open.spotify.com/track/1553AbLOOvznLdnApxX2dO) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Speedracer](https://open.spotify.com/album/6DfhecdmHLG4t9vcBYXroX) | 3:15 | 2022-07-01 | 2022-08-06 |
 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 | 2022-11-18 | 2023-02-15 |
 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 | 2024-04-26 | 2024-05-25 |
+| [Spiderwick](https://open.spotify.com/track/4UCqjBmojNNvJdS0ASVPY5) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Spiderwick](https://open.spotify.com/album/7hebGdQsbUFxYyjpkxaKdD) | 2:35 | 2024-11-22 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-11-30 | 2023-01-25 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-02 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-30 | 2022-12-25 |

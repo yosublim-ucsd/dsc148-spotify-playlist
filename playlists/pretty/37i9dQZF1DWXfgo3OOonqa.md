@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,064 likes - 131 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,114 likes - 131 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [Burna Boy](https://open.spotify.com/track/0BSUPnydTkUctGwgpsl20B) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 2:33 |
 | 4 | [Rock N Roll](https://open.spotify.com/track/3bhrHmGazWIAolomLS9SNg) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Drömmar Till Diamanter](https://open.spotify.com/album/4zYdKtvpMAi8BgEXTbqwqh) | 2:24 |
 | 5 | [VAR](https://open.spotify.com/track/5fINnwta8wHwNv4ZpRnId9) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [VAR](https://open.spotify.com/album/7JjYj23wEi32gJqEtVAgHb) | 2:20 |
-| 6 | [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 |
-| 7 | [Din Hand](https://open.spotify.com/track/6gc11BwQ1SmRHSfQTmsF9U) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Din hand](https://open.spotify.com/album/4UljWdxLfI9TXCI8Z1jja9) | 2:27 |
+| 6 | [Din Hand](https://open.spotify.com/track/6gc11BwQ1SmRHSfQTmsF9U) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Din hand](https://open.spotify.com/album/4UljWdxLfI9TXCI8Z1jja9) | 2:27 |
+| 7 | [UPPKÄFTIG](https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [UPPKÄFTIG](https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB) | 2:08 |
 | 8 | [Timmy Turna](https://open.spotify.com/track/6qC6dVM60caPmmgrQOoewc) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Timmy Turna](https://open.spotify.com/album/2Fj2wnfrZ6HYPIDlWLibjP) | 2:12 |
 | 9 | [HOLD UP](https://open.spotify.com/track/2J38DVGTR8RV4jLVdDmtQv) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HOLD UP](https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ) | 2:19 |
 | 10 | [Selfmade](https://open.spotify.com/track/1plBNrR291enGSR1lkWvzQ) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [TNT](https://open.spotify.com/album/7ceOE9A4DZ5wQ5TwDqJqMR) | 2:21 |
 | 11 | [Burna Boy](https://open.spotify.com/track/2F2ZiGOzgHJ1uAlzDjoNlV) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [Burna Boy](https://open.spotify.com/album/3VnYNpptu0Nbatuhz2nglz) | 2:12 |
-| 12 | [UPPKÄFTIG](https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [UPPKÄFTIG](https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB) | 2:08 |
+| 12 | [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 |
 | 13 | [TOXIC](https://open.spotify.com/track/5dbj94Sk7A3tiq5awhSzDH) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [TOXIC](https://open.spotify.com/album/5phpifxo3Je9yiWse9tiIC) | 2:36 |
 | 14 | [Take 2](https://open.spotify.com/track/15zXIXUzIHKvcucZBGWCNe) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Take 2](https://open.spotify.com/album/0XUQSmBpfqW66X8ULwJ4dQ) | 2:50 |
 | 15 | [HBB](https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HBB](https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF) | 2:26 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 130 | [Civila](https://open.spotify.com/track/0RvOZQqJDnaFt02wY49m1b) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Civila](https://open.spotify.com/album/3dlxEwoVm75t4Aq9nLLheg) | 2:25 |
 | 131 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 |
 
-Snapshot ID: `Zz+7cAAAAACYv4nj096rLzfYdzhGmZM8`
+Snapshot ID: `Z0BdpwAAAADwQ2TcpNztfjLhWdJl0u31`

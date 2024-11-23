@@ -2967,6 +2967,32 @@
     },
     {
       "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
+    },
+    {
+      "album": {
         "name": "Welcome To Rosas (From \"Wish\")",
         "url": "https://open.spotify.com/album/4q3CESoBemRptRaga5teAx"
       },

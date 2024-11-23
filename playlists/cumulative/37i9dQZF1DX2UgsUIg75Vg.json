@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0B3zjlIshVUCbkSJDbJNRZ"
       },
@@ -2878,6 +2896,24 @@
       "duration_ms": 179249,
       "name": "Call the Bluff",
       "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
+    },
+    {
+      "album": {
+        "name": "HIATUS",
+        "url": "https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265142,
+      "name": "CALM",
+      "url": "https://open.spotify.com/track/12VPP012wzcbfcAQWp92rV"
     },
     {
       "album": {
@@ -6601,6 +6637,24 @@
     },
     {
       "album": {
+        "name": "It'll All Make Sense Later",
+        "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115589,
+      "name": "Follow Her Lead",
+      "url": "https://open.spotify.com/track/0p5UYNPYBIAdvcievC4JYz"
+    },
+    {
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
       },
@@ -8499,6 +8553,24 @@
     },
     {
       "album": {
+        "name": "Hit a Wall",
+        "url": "https://open.spotify.com/album/4s07kCH6AwFdyU5SpJ4iZk"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164167,
+      "name": "Hit a Wall",
+      "url": "https://open.spotify.com/track/0JysufYyd8ev6wHWZOVC4Q"
+    },
+    {
+      "album": {
         "name": "Hit You Right Back",
         "url": "https://open.spotify.com/album/0W181TOZ1CJZqSW5qaZfrg"
       },
@@ -8764,7 +8836,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 217411,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/0tC4U170zVsyqJakhjTcr4"
@@ -11512,7 +11584,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
@@ -12894,7 +12966,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -16036,7 +16108,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -16786,6 +16858,28 @@
       "duration_ms": 144320,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6Fcn31PmGZhYMIiEuJvkcn"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "album": {
@@ -18555,6 +18649,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5LLH6hAqcdP4GnH4wgwpEP"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221111,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3OwSWbCJ4wlCTCLhlIUjea"
+    },
+    {
+      "album": {
         "name": "Take Me Serious",
         "url": "https://open.spotify.com/album/5W4WJo46sK7SEbeQxsfGsZ"
       },
@@ -18860,7 +18972,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 218804,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu"
@@ -20535,6 +20647,28 @@
     },
     {
       "album": {
+        "name": "Waiting On You (feat. Tone Stith)",
+        "url": "https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Waiting On You (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
+    },
+    {
+      "album": {
         "name": "Gap Year!",
         "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
       },
@@ -20616,7 +20750,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 142799,
       "name": "War (feat. Ari Lennox & Jeremih)",
       "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"

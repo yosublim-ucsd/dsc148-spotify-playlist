@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Agir",
-  "num_followers": 48237,
+  "num_followers": 48242,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "+ Sexy",
-        "url": "https://open.spotify.com/album/2JYKW1cUplK5NrxakDqnwc"
-      },
-      "artists": [
-        {
-          "name": "Deedz B",
-          "url": "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "+ Sexy",
-      "url": "https://open.spotify.com/track/3NiMRKeDFvEOz9F8rWxt79"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "+ Sexy",
+        "url": "https://open.spotify.com/album/2JYKW1cUplK5NrxakDqnwc"
+      },
+      "artists": [
+        {
+          "name": "Deedz B",
+          "url": "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "+ Sexy",
+      "url": "https://open.spotify.com/track/3NiMRKeDFvEOz9F8rWxt79"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1335,6 +1335,42 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Par Perfeito",
+        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "Convite",
+      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "NATURAL THING",
         "url": "https://open.spotify.com/album/649gr6IHq69jSqnGRo2uD8"
       },
@@ -1359,26 +1395,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Festival da Can\u00e7\u00e3o 2023",
         "url": "https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d"
       },
@@ -1395,50 +1411,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Par Perfeito",
-        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
+        "name": "Vidrado",
+        "url": "https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR"
       },
       "artists": [
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
         }
       ],
-      "duration_ms": 153400,
-      "name": "Convite",
-      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
-      },
-      "artists": [
-        {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
-        },
-        {
-          "name": "Yuran",
-          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
-        },
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
-        },
-        {
-          "name": "Kibow",
-          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Loko Loko",
-      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
+      "duration_ms": 165448,
+      "name": "Vidrado",
+      "url": "https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ"
     }
   ],
   "unique_name": "Seda",

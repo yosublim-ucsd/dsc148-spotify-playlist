@@ -1,6 +1,6 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 136442,
+  "num_followers": 136471,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi"
+      },
+      "artists": [
+        {
+          "name": "La Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Cenit Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 230186,
       "name": "Caney",
       "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi"
-      },
-      "artists": [
-        {
-          "name": "La Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Cenit Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl"
     },
     {
       "added_at": "2024-11-08 06:00:00",

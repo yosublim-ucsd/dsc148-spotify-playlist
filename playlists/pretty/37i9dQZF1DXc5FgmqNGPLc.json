@@ -1,13 +1,41 @@
 {
   "description": "All live, all jazz. Cover: Nat King Cole",
-  "num_followers": 13574,
+  "num_followers": 13579,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2gPwAAAAA0fw+wZTjbXDpmhjd0920A",
+  "snapshot_id": "Z0AP0AAAAACLU8U0SXZEtqyTgzCwaFX+",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Forces of Nature: Live at Slugs'",
+        "url": "https://open.spotify.com/album/3chmmA509fybGQ6ZYWzjsA"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        },
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        },
+        {
+          "name": "Henry Grimes",
+          "url": "https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 605148,
+      "name": "The Believer - Live",
+      "url": "https://open.spotify.com/track/6U2clV4WPUsY1REm271GL4"
+    },
     {
       "added_at": "2024-11-08 05:23:11",
       "album": {
@@ -39,34 +67,6 @@
       "duration_ms": 127986,
       "name": "Walkin' My Baby Back Home - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Isotope (Live)",
-        "url": "https://open.spotify.com/album/2xII9ItURggn4o709YPigf"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        },
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        },
-        {
-          "name": "Henry Grimes",
-          "url": "https://open.spotify.com/artist/30OxEKhUI8LpORvCp14lr3"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 423205,
-      "name": "Isotope - Live",
-      "url": "https://open.spotify.com/track/7u7yYw9nNUfGl9ax63rVLV"
     },
     {
       "added_at": "2024-07-05 04:00:00",

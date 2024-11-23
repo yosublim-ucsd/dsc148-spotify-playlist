@@ -206,7 +206,7 @@
 | [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 | 2022-09-20 | 2023-05-01 |
 | [‎‎‎](https://open.spotify.com/track/2xGX9859UkwGWqLf9FqF69) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [‎‎‎](https://open.spotify.com/album/1BjptJhBoyxXfqcbu99aU5) | 3:02 | 2022-11-09 | 2022-12-17 |
 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-09-20 | 2023-06-13 |
-| [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 | 2022-08-22 |  |
+| [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック　ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 | 2022-08-22 |  |
 | [バラック集落](https://open.spotify.com/track/36cHqq0lwA1u1KWxPI8nol) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-08-22 | 2023-01-05 |
 | [恢复](https://open.spotify.com/track/2dFUtZtpWydAU4QMmUOK47) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 5:51 | 2022-08-22 |  |
 

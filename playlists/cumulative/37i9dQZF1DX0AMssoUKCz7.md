@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-729 songs - 1 day 12 hr 49 min
+730 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Before the Sun Sets](https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Before the Sun Sets](https://open.spotify.com/album/1abjZNW2kV2pmxsT6jiW5K) | 2:00 | 2022-07-15 |  |
 | [Believe](https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [lostinspace](https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG) | [Believe](https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3) | 2:13 | 2022-12-01 |  |
 | [Believer](https://open.spotify.com/track/7LA7TbC3rcGvBAFVIfENOK) | [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Crew Cardinal](https://open.spotify.com/artist/57Kse5pzj6Mlxhu7N6aNWr) | [Believer](https://open.spotify.com/album/0qVkuC4BXTIN4srhod67kg) | 2:42 | 2023-07-21 |  |
-| [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-04-01 |  |
+| [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-04-01 | 2024-11-23 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-07-22 | 2022-08-06 |
 | [Better](https://open.spotify.com/track/69uCmYNvkqnvIpyTKJXZ5P) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Better](https://open.spotify.com/album/6mCaCi7tXE4Jsr9Gxn7uNt) | 3:03 | 2022-01-14 | 2022-07-23 |
 | [Better Off Alone](https://open.spotify.com/track/12f3UbBnYHrZ7vbRXfyDA9) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz), [Hier](https://open.spotify.com/artist/0vkKvzSb0uPJTFH7HUcEsV) | [Better Off Alone](https://open.spotify.com/album/0jgtY27DegnKHYZKR2ZP85) | 2:53 | 2022-01-14 | 2023-05-13 |
@@ -243,6 +243,7 @@
 | [Hearts Collide](https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg) | [leisse](https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs) | [Hearts Collide](https://open.spotify.com/album/2JvqQZD4tzk18z9xIwtj6O) | 1:58 | 2022-07-22 |  |
 | [Heatwave \(feat\. Akon\) \- HUGEL Remix](https://open.spotify.com/track/1Rev0uexcpMr1ERkucbXnT) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Heatwave \(feat\. Akon\) \[The Remixes\]](https://open.spotify.com/album/6XsHmvUXIKt2pbKfHclwYU) | 3:52 | 2022-01-14 | 2022-09-26 |
 | [Heaven](https://open.spotify.com/track/3sFCrYlKCEnrTRfXEafPai) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Heaven](https://open.spotify.com/album/2sY7BFQFLbJZmQSAZhvOgB) | 2:57 | 2022-01-14 | 2024-06-01 |
+| [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-22 |  |
 | [High And Low](https://open.spotify.com/track/4PwXNVqkIM8KBuEgYFqDiE) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:39 | 2022-01-14 | 2022-04-20 |
 | [High Hopes](https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [High Hopes](https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm) | 2:07 | 2022-01-21 | 2023-01-14 |
 | [high love](https://open.spotify.com/track/13bFmkWzbZSmUvJ7QKNUOt) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [high love](https://open.spotify.com/album/4aYFVaUUV0x9mc4B2RyHOv) | 2:33 | 2022-11-18 | 2024-04-19 |

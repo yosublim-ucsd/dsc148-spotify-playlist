@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Emma'a
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,322 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,377 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 7 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 |
 | 8 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |
 | 9 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 |
-| 10 | [Parler](https://open.spotify.com/track/2TfvaGmzl8Rxi9m9iQ7Ss9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [MARJINAL](https://open.spotify.com/album/3js5sk5c9TAP1CDxV1saw9) | 2:54 |
+| 10 | [Parler](https://open.spotify.com/track/2TfvaGmzl8Rxi9m9iQ7Ss9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [\(Le défilé.\)](https://open.spotify.com/album/3js5sk5c9TAP1CDxV1saw9) | 2:54 |
 | 11 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 |
 | 12 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 |
 | 13 | [Instable](https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Instable](https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH) | 2:27 |

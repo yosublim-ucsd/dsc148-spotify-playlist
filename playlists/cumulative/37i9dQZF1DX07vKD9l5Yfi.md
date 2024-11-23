@@ -4,12 +4,13 @@
 
 > The perfect noughties blend.
 
-376 songs - 1 day 0 hr 46 min
+377 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(There's Gotta Be\) More To Life](https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 3:20 | 2020-06-12 | 2022-04-19 |
 | [11 am](https://open.spotify.com/track/7ga8qRr1LyhLD8JiWWdphu) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd) | 4:13 | 2020-06-18 | 2022-04-21 |
+| [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2020-06-18 |  |
 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 | 2020-06-18 | 2022-04-19 |
 | [A Lifetime](https://open.spotify.com/track/116AvrU1YEHw7kr4i2YHCw) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Before the Robots](https://open.spotify.com/album/6Z4vvS1OoTLH3Em674DJzb) | 3:27 | 2020-06-12 | 2021-01-15 |
 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2020-06-18 | 2022-04-21 |
@@ -319,7 +320,7 @@
 | [The Sound Of Sunshine](https://open.spotify.com/track/00NlbqGMPjrNm4YTbAipi9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [The Sound Of Sunshine](https://open.spotify.com/album/5waHCTToKYzKwwNtQRZZjg) | 3:45 | 2021-10-12 | 2021-10-13 |
 | [The Special Two](https://open.spotify.com/track/3gsTKUJtPlWyvjTHdpZOnu) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Special Two EP](https://open.spotify.com/album/2ywgd0AdqFNNwfNqX6k4Br) | 4:25 | 2019-05-26\* | 2022-07-24 |
 | [The Tide Is High \- Radio Mix](https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Feels So Good](https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw) | 3:26 | 2019-05-27 | 2021-10-14 |
-| [The Zephyr Song](https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:51 | 2020-06-18 |  |
+| [The Zephyr Song](https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:51 | 2020-06-18 | 2024-11-23 |
 | [These Days](https://open.spotify.com/track/0DSSMDh216kInuzbFjGvbd) | [Bardot](https://open.spotify.com/artist/6jaSo7MeMbXQCUOrNCF8tj) | [Bardot](https://open.spotify.com/album/3lBBB7gJFwcxn6EKQpB4A3) | 3:40 | 2020-06-12 | 2021-01-15 |
 | [These Words](https://open.spotify.com/track/0KYkLT4oMIO4CjFMWn73v1) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/4MFouCLteYkjMUKSzbBg8w) | 3:36 | 2019-06-24 | 2022-07-17 |
 | [These Words](https://open.spotify.com/track/6QLU1GKy2Zh2mOh2uoJ0TV) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 3:36 | 2020-06-18 | 2022-05-19 |

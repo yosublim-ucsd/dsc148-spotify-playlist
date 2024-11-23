@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 67124,
+  "num_followers": 67123,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "spiral energy",
         "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 177600,
       "name": "spiral energy",
       "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "DINORWIC",
-        "url": "https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 711466,
-      "name": "DINORWIC",
-      "url": "https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "The Snow Goose",
         "url": "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 108495,
       "name": "Mouthfeel 1",
       "url": "https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
+        "name": "DINORWIC",
+        "url": "https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 711466,
+      "name": "DINORWIC",
+      "url": "https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "Drive My Car Original Soundtrack",
-        "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
-      },
-      "artists": [
-        {
-          "name": "Eiko Ishibashi",
-          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
-        }
-      ],
-      "duration_ms": 175625,
-      "name": "Drive My Car (Cassette)",
-      "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 163612,
       "name": "hope",
       "url": "https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
+        "name": "Drive My Car Original Soundtrack",
+        "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
+      },
+      "artists": [
+        {
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+        }
+      ],
+      "duration_ms": 175625,
+      "name": "Drive My Car (Cassette)",
+      "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
-      },
-      "artists": [
-        {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "Foam and Sand",
         "url": "https://open.spotify.com/album/3qKXft8shy4ueIfieixSGc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/1UyGal7Xm6z6C65eUdSx2x"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "SIREN (\u30bb\u30a4\u30ec\u30fc\u30f3)",
-        "url": "https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9"
-      },
-      "artists": [
-        {
-          "name": "Susumu Hirasawa",
-          "url": "https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Holy Delay",
-      "url": "https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 550834,
       "name": "That world",
       "url": "https://open.spotify.com/track/6OnL0UQxLi3CO8eJH4Iabq"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
+        "name": "SIREN (\u30bb\u30a4\u30ec\u30fc\u30f3)",
+        "url": "https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9"
+      },
+      "artists": [
+        {
+          "name": "Susumu Hirasawa",
+          "url": "https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Holy Delay",
+      "url": "https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
+        "name": "Marginalia #119",
+        "url": "https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 369917,
+      "name": "Marginalia #119",
+      "url": "https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx"
+    },
+    {
+      "added_at": "2024-11-15 13:58:20",
+      "album": {
         "name": "Simple Math",
         "url": "https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N"
       },
@@ -1591,18 +1607,22 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "Marginalia #119",
-        "url": "https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs"
+        "name": "Forest Song (Le Makeup REMIX)",
+        "url": "https://open.spotify.com/album/5LZT84DiB70F5EBD07kGCo"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "Ben Inui",
+          "url": "https://open.spotify.com/artist/6nImy4rxQdr49blY4x32hu"
+        },
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
         }
       ],
-      "duration_ms": 369917,
-      "name": "Marginalia #119",
-      "url": "https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx"
+      "duration_ms": 210704,
+      "name": "Forest Song (Le Makeup REMIX)",
+      "url": "https://open.spotify.com/track/399FYmfl4OxB7WaBtvLSE0"
     },
     {
       "added_at": "2024-11-15 13:58:20",
@@ -1643,22 +1663,6 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "S-F-X",
-        "url": "https://open.spotify.com/album/43fijnO4yvvtThr62134CL"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 337506,
-      "name": "DARK SIDE OF THE STAR\uff0f\u5730\u7403\u306e\u591c\u306b\u3080\u3051\u3066\u306e\u591c\u60f3\u66f2",
-      "url": "https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z"
-    },
-    {
-      "added_at": "2024-11-15 13:58:20",
-      "album": {
         "name": "Nomozaki",
         "url": "https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK"
       },
@@ -1679,18 +1683,18 @@
     {
       "added_at": "2024-11-15 13:58:20",
       "album": {
-        "name": "hikari umi",
-        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+        "name": "S-F-X",
+        "url": "https://open.spotify.com/album/43fijnO4yvvtThr62134CL"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
         }
       ],
-      "duration_ms": 194000,
-      "name": "light seeing 3-3",
-      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
+      "duration_ms": 337506,
+      "name": "DARK SIDE OF THE STAR\uff0f\u5730\u7403\u306e\u591c\u306b\u3080\u3051\u3066\u306e\u591c\u60f3\u66f2",
+      "url": "https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z"
     }
   ],
   "unique_name": "Sora",

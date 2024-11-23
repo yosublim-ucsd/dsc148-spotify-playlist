@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-152 songs - 7 hr 4 min
+156 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [act v: there goes another vase](https://open.spotify.com/track/15qx6rElhY2QmikMKhJk8c) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:55 | 2024-05-03 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 |  |
+| [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 |  |
 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 |  |
 | [Autumn](https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Autumn](https://open.spotify.com/album/3vdIKZeNtDF9JZvodWAbFN) | 3:08 | 2024-09-13 | 2024-10-19 |
 | [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 | 2024-10-18 |  |
@@ -79,6 +80,7 @@
 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 | 2024-05-03 |  |
 | [Jodeci](https://open.spotify.com/track/0TqC5imTnHeNCZuSWn0ei1) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Enjoymenting 2](https://open.spotify.com/album/0v0whlimp895NskZy3CPuv) | 3:59 | 2024-06-07 | 2024-06-22 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-12 | 2024-04-27 |
+| [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 |  |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 |  |
 | [Like We Wrote](https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo) | 1:58 | 2024-05-31 |  |
@@ -100,6 +102,7 @@
 | [nLuv](https://open.spotify.com/track/0PHlDvTlegGSNwr2VXzBv0) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [nLuv](https://open.spotify.com/album/1UJRzRCQ2vYrhCXzkmRtoh) | 1:47 | 2024-02-02 |  |
 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 | 2024-02-02 | 2024-03-30 |
 | [Not Mine](https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI) | [Tona Glover](https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT) | [Not Mine](https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG) | 2:29 | 2024-10-18 |  |
+| [NOT THE ONE](https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NOT THE ONE](https://open.spotify.com/album/6gS1GTD1AAKREG85KdJcQd) | 2:40 | 2024-11-22 |  |
 | [Oakland Pt\. 2](https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Oakland Pt\. 2](https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK) | 2:36 | 2024-09-13 |  |
 | [One In A Million](https://open.spotify.com/track/5RQsvUtZm0Qai3ree2nKS9) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [In The City](https://open.spotify.com/album/5wuZrzqtFGeaYTLkhupPDS) | 2:30 | 2024-02-02 |  |
 | [One Night Only](https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [One Night Only](https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY) | 3:15 | 2024-02-02 |  |
@@ -111,7 +114,8 @@
 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 | 2024-06-21 |  |
 | [Pray For You](https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Leave You Have My Blessing](https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7) | 3:00 | 2024-03-29 |  |
 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 | 2024-08-03 |
-| [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 |  |
+| [Proper](https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7) | 2:24 | 2024-11-22 |  |
+| [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 | 2024-11-23 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 | 2024-07-05 |  |
 | [RESET](https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 2:43 | 2024-03-29 |  |

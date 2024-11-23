@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe releases van de week! Cover: Donnie,  Robert van Hemert & Trobi",
-  "num_followers": 265630,
+  "num_followers": 265752,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+7cAAAAACNYM2M7Shbsf7yPQfQnzcy",
+  "snapshot_id": "Z0DcaAAAAABuaG3Mh+8Qs+lhIVg8pEA7",
   "tracks": [
     {
       "added_at": "2024-11-21 23:00:00",
@@ -31,6 +31,38 @@
       "duration_ms": 154108,
       "name": "Wegenwacht",
       "url": "https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB"
+    },
+    {
+      "added_at": "2024-11-22 19:32:56",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2024-11-21 23:00:00",

@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Ghosted",
+        "url": "https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz"
+      },
+      "artists": [
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Ghosted",
+      "url": "https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o"
+    },
+    {
+      "album": {
         "name": "Go Home",
         "url": "https://open.spotify.com/album/5RkyTqYXhlawlMaXMnyFHC"
       },
@@ -1866,6 +1884,24 @@
       "duration_ms": 195692,
       "name": "Ice",
       "url": "https://open.spotify.com/track/0O3WUJpR0DgIvHYzy0L8bN"
+    },
+    {
+      "album": {
+        "name": "Nerdcore2",
+        "url": "https://open.spotify.com/album/70lg3qB5D9omSk4u4pOUBW"
+      },
+      "artists": [
+        {
+          "name": "JiFuji",
+          "url": "https://open.spotify.com/artist/42HsKClMz1RGdRFo989Gnk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124053,
+      "name": "Ignore me!",
+      "url": "https://open.spotify.com/track/0aLgi8wzXsuNlhr0jdueAB"
     },
     {
       "album": {
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145054,
       "name": "MOKE",
       "url": "https://open.spotify.com/track/4Fbv9vmD6dLQxXGQdw9Fh9"
@@ -3846,7 +3882,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 197932,
       "name": "Shall We",
       "url": "https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB"
@@ -3964,6 +4000,28 @@
       "duration_ms": 180000,
       "name": "Slide",
       "url": "https://open.spotify.com/track/4T9Tq92gf8oRRm7jokHszR"
+    },
+    {
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/2UqsLw7x8z001dEBv2sWpc"
+      },
+      "artists": [
+        {
+          "name": "9frvme",
+          "url": "https://open.spotify.com/artist/2FAg1ZIIqwiAV95dk4QYLA"
+        },
+        {
+          "name": "ZEEMON",
+          "url": "https://open.spotify.com/artist/3vPkD8aDm7vL7fCZxWZRqh"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/17XCpSiPbYCfEue5y6ZfSd"
     },
     {
       "album": {
@@ -4524,7 +4582,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 187562,
       "name": "Very Very Small",
       "url": "https://open.spotify.com/track/2ZtuVu1WOY5vWHzcpUPEQ2"
@@ -7346,7 +7404,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 147272,
       "name": "\u0e21\u0e32\u0e41\u0e15\u0e23\u0e4c\u0e40\u0e14\u0e2d\u0e35",
       "url": "https://open.spotify.com/track/0ghU70CDVpQE9twMLvb618"
@@ -7594,6 +7652,28 @@
       "duration_ms": 256178,
       "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/39awRd7w83vlceXgwdV3Nu"
+      },
+      "artists": [
+        {
+          "name": "19",
+          "url": "https://open.spotify.com/artist/7lc2twNBinNzWkW3TdZrq4"
+        },
+        {
+          "name": "Jigsaw Story",
+          "url": "https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "\u0e23\u0e2d\u0e22\u0e2a\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/5wDXBjLeLjeWEN2w7nWAbJ"
     },
     {
       "album": {

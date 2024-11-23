@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Keshi
+> Discover your favorite new chill pop songs\. Cover: mxmtoon
 
-1,739 songs - 3 day 19 hr 52 min
+1,742 songs - 3 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Boxes](https://open.spotify.com/track/6d87v9hG92ueOdME196p3L) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Boxes](https://open.spotify.com/album/5cX4l6plDcCbnIbCXiJY7N) | 3:41 | 2023-07-21 | 2023-09-30 |
 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-07-02 | 2023-08-05 |
 | [Boy From Home](https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Boy From Home](https://open.spotify.com/album/29V5xzxhyhTCqRikGT7JZ2) | 3:50 | 2024-01-19 | 2024-07-13 |
+| [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 | 2024-11-22 |  |
 | [boy who falls in love](https://open.spotify.com/track/5lfICvXiZjjqcUY92SFoTQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [boy who falls in love](https://open.spotify.com/album/6YlimqSub3ItLttkKnK7Zh) | 3:26 | 2023-04-14 | 2023-04-29 |
 | [Boyfriends](https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Boyfriends](https://open.spotify.com/album/4WTlyYWvkNmhbGxJwvyt7n) | 4:01 | 2023-07-21 | 2023-09-16 |
 | [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-06-23 | 2023-08-12 |
@@ -989,6 +990,7 @@
 | [Lungs](https://open.spotify.com/track/12i8BdLiiYBLLoKijja3O6) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Lungs](https://open.spotify.com/album/2gKlNMepMzLf3x9Xkx6ifw) | 3:10 | 2022-04-15 | 2022-04-29 |
 | [Lyrics](https://open.spotify.com/track/12l5aLd3cxdQe5LPKdOHJ5) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Lyrics](https://open.spotify.com/album/7Krntc3pBSsdZFlAKHjm3q) | 3:25 | 2020-12-11 | 2021-01-29 |
 | [Machine Learning](https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Machine Learning](https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX) | 2:35 | 2022-11-04 | 2023-01-28 |
+| [Made it Awkward](https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made it Awkward](https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX) | 3:04 | 2024-11-22 |  |
 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-11-10 | 2024-06-01 |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-05-22 | 2021-08-21 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-11-04 | 2022-11-12 |
@@ -1008,7 +1010,7 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 | 2022-11-05 |
 | [Matter To You](https://open.spotify.com/track/1InPL1Qm8qJC3FIIvFruNt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:37 | 2020-10-16 | 2020-12-04 |
 | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa) | 2:54 | 2020-10-13\* | 2020-11-20 |
-| [Me This Time](https://open.spotify.com/track/7t8gsUkKkZksZ0wJNr5hz8) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [My Mind And I](https://open.spotify.com/album/2cju8nvFk8EoRNa9Ve59Hv) | 2:58 | 2024-04-05 |  |
+| [Me This Time](https://open.spotify.com/track/7t8gsUkKkZksZ0wJNr5hz8) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [My Mind And I](https://open.spotify.com/album/2cju8nvFk8EoRNa9Ve59Hv) | 2:58 | 2024-04-05 | 2024-11-23 |
 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 | 2023-08-11 | 2023-09-09 |
 | [Me Without You](https://open.spotify.com/track/4GwfjONzvqJbVeDo49VC6J) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Me Without You](https://open.spotify.com/album/4evy8XIXFcXOqGc8twyhyg) | 3:09 | 2021-05-08 | 2021-06-12 |
 | [Me x 7 \(feat\. Tierra Whack\)](https://open.spotify.com/track/5KD5QVEEH8dJCJ6CT0DaNG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [ALICIA](https://open.spotify.com/album/1vTV3bbycMPkbIocAma0eN) | 3:32 | 2020-10-13\* | 2020-10-16 |
@@ -1460,7 +1462,7 @@
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-10 | 2021-04-30 |
 | [sustain](https://open.spotify.com/track/3rZZzvzhteACFX0AHE70pY) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [sustain](https://open.spotify.com/album/6kgCCIfkGTrRYS0UUNWfpH) | 3:24 | 2023-07-14 | 2023-08-12 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-07 | 2022-10-29 |
-| [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 |  |
+| [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-11-23 |
 | [Sweet Dream](https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Sweet Dream](https://open.spotify.com/album/2StstfzDqLhNXWowiBSeHr) | 3:01 | 2021-07-17 | 2021-08-28 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-26 |  |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2024-09-14 |
@@ -1499,6 +1501,7 @@
 | [The Girl In The Mirror](https://open.spotify.com/track/4fqh151dNBN7UmLaeFKEON) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Girl In The Mirror](https://open.spotify.com/album/7CYLJ7N2pnF7DK4sbpFAsm) | 3:45 | 2023-04-28 | 2023-05-20 |
 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 | 2022-11-18 | 2023-01-06 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-17 | 2023-03-25 |
+| [The Grey](https://open.spotify.com/track/73kuwAWSxFDK1wT8ec1S6K) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [The Grey](https://open.spotify.com/album/2wLnAwKE1xHBb0FrSQrt1y) | 3:12 | 2024-11-22 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-08 | 2024-01-20 |
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-27 | 2022-09-10 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |
@@ -1511,7 +1514,7 @@
 | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/album/0a0Y0BEwYv8F1e81xuNiSc) | 3:09 | 2021-05-08 | 2021-08-07 |
 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 | 2023-11-10 | 2024-04-13 |
 | [The Lows](https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Lows](https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf) | 2:50 | 2023-01-13 | 2023-03-04 |
-| [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 |  |
+| [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 | 2024-11-23 |
 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-10-07 | 2022-11-05 |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-10-30 | 2021-12-09 |
 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 | 2024-05-10 |  |

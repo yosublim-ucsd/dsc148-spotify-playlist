@@ -1,28 +1,28 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 201245,
+  "num_followers": 201280,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxiK4gAAAADpbrLNprhN72tvlc0sxCwi",
+  "snapshot_id": "Z0DCIQAAAAAesal2NKm/lQpU6zPyc9Fl",
   "tracks": [
     {
-      "added_at": "2024-09-04 14:50:14",
+      "added_at": "2024-11-22 17:40:49",
       "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2024-10-16 01:33:33",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
+      "added_at": "2024-09-04 14:50:14",
+      "album": {
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+    },
+    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Dead Air",
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Wolf Moon",
-        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
-      },
-      "artists": [
-        {
-          "name": "Highland Park Sleep Collective",
-          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jupiter 285",
-      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Soothe & Sleep, Vol.8",
         "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 220327,
       "name": "Flow in the Back",
       "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Wolf Moon",
+        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
+      },
+      "artists": [
+        {
+          "name": "Highland Park Sleep Collective",
+          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Jupiter 285",
+      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -347,6 +363,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Static Discos 100",
+        "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        },
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 100019,
+      "name": "Static Discos 100",
+      "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -375,26 +411,6 @@
       "duration_ms": 338714,
       "name": "The Peach Tree Next Door Grew over Our Fence",
       "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Static Discos 100",
-        "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        },
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 100019,
-      "name": "Static Discos 100",
-      "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Any Coop Will Do",
-        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
-      },
-      "artists": [
-        {
-          "name": "Dream Trees",
-          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "Ichneumonidae",
-      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 291583,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Any Coop Will Do",
+        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
+      },
+      "artists": [
+        {
+          "name": "Dream Trees",
+          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "Ichneumonidae",
+      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
       "added_at": "2024-01-23 19:40:42",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
-      },
-      "artists": [
-        {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Die of The Waters",
         "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 186321,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1353,26 +1369,6 @@
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Signals Bulletin",
-        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
-      },
-      "artists": [
-        {
-          "name": "ASUNA",
-          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 385998,
-      "name": "How A Spiral Works",
-      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
-    },
-    {
       "added_at": "2024-01-11 03:32:09",
       "album": {
         "name": "Solar Bridge",
@@ -1399,6 +1395,26 @@
       "duration_ms": 750293,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Signals Bulletin",
+        "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
+      },
+      "artists": [
+        {
+          "name": "ASUNA",
+          "url": "https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 385998,
+      "name": "How A Spiral Works",
+      "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "Ventricular Beats",
+        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Dean Valentine",
+          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
         }
       ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+      "duration_ms": 211080,
+      "name": "A Thin Place",
+      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ventricular Beats",
-        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
       "artists": [
         {
-          "name": "Dean Valentine",
-          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 211080,
-      "name": "A Thin Place",
-      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lost Transmissions From the Off-World Territories",
-        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
-      },
-      "artists": [
-        {
-          "name": "Komodo Kolektif",
-          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
-        }
-      ],
-      "duration_ms": 237036,
-      "name": "Fire Walk",
-      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Murmur (Machinefabriek Remix)",
         "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost Transmissions From the Off-World Territories",
+        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
+      },
+      "artists": [
+        {
+          "name": "Komodo Kolektif",
+          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
+        }
+      ],
+      "duration_ms": 237036,
+      "name": "Fire Walk",
+      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Light Splitting",
+        "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "A Clear Path",
+      "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "A Pale Shelter",
         "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
       },
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Light Splitting",
-        "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
-      },
-      "artists": [
-        {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "A Clear Path",
-      "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Lago Escondido",
         "url": "https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 236000,
       "name": "Lago Escondido",
       "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Soundtracks: Capri-Revolution",
-        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
-      },
-      "artists": [
-        {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
-        }
-      ],
-      "duration_ms": 183063,
-      "name": "Silia",
-      "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
     }
   ],
   "unique_name": "Exospheres",

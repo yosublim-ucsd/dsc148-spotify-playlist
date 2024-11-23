@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179294,
+  "num_followers": 179421,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -277,10 +277,10 @@
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-10-16 02:02:35",
       "album": {
-        "name": "All These Worlds, Pt. II",
-        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 239967,
-      "name": "All These Worlds, Pt. II",
-      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
+      "duration_ms": 322020,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -429,10 +429,10 @@
       "url": "https://open.spotify.com/track/0puYy6hGZEZPa69HK3vQmH"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Fight",
-        "url": "https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg"
+        "name": "All These Worlds, Pt. II",
+        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 322020,
-      "name": "Fight",
-      "url": "https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr"
+      "duration_ms": 239967,
+      "name": "All These Worlds, Pt. II",
+      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
       "added_at": "2024-08-14 16:44:33",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Codex",
-        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 406249,
-      "name": "Codex",
-      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "+puzzle",
@@ -581,6 +565,22 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Codex",
+        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 406249,
+      "name": "Codex",
+      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "United Kingdom Of Anxiety",
@@ -595,22 +595,6 @@
       "duration_ms": 196982,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -631,6 +615,22 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-23 05:18:13",
       "album": {
-        "name": "Video Music",
-        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 129554,
-      "name": "Video Music",
-      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
-    },
-    {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
         "name": "Turned Skyward",
         "url": "https://open.spotify.com/album/59nS05TYgeVtisdClwfv8q"
       },
@@ -737,6 +721,22 @@
       "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
     },
     {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
+    },
+    {
       "added_at": "2024-09-18 13:50:00",
       "album": {
         "name": "True Luck",
@@ -751,22 +751,6 @@
       "duration_ms": 200625,
       "name": "True Luck",
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Rhythm-O-Green",
-      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -789,20 +773,20 @@
       "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Ancient DNA",
-        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
         }
       ],
-      "duration_ms": 163097,
-      "name": "Ancient DNA",
-      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -821,20 +805,20 @@
       "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-23 05:18:13",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
+        "name": "Ancient DNA",
+        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
       "artists": [
         {
-          "name": "Lava Gulls",
-          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 224552,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
+      "duration_ms": 163097,
+      "name": "Ancient DNA",
+      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -859,6 +843,22 @@
       "duration_ms": 219427,
       "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
+      },
+      "artists": [
+        {
+          "name": "Lava Gulls",
+          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
+        }
+      ],
+      "duration_ms": 224552,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Guan\u00e1bana",
-        "url": "https://open.spotify.com/album/4RMbv4W1jZucUYZSY8MTJA"
-      },
-      "artists": [
-        {
-          "name": "dj +1",
-          "url": "https://open.spotify.com/artist/2EYsSfAr9d8pLxpjrMoHvP"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Guan\u00e1bana",
-      "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
         "name": "Everything but the Hate",
         "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 171827,
       "name": "Everything but the Hate",
       "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Guan\u00e1bana",
+        "url": "https://open.spotify.com/album/4RMbv4W1jZucUYZSY8MTJA"
+      },
+      "artists": [
+        {
+          "name": "dj +1",
+          "url": "https://open.spotify.com/artist/2EYsSfAr9d8pLxpjrMoHvP"
+        }
+      ],
+      "duration_ms": 213781,
+      "name": "Guan\u00e1bana",
+      "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "\u8308",
-        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
-      },
-      "artists": [
-        {
-          "name": "WOZNIAK",
-          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u8308",
-      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "(The Circle) of Compassion",
         "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "\u8308",
+        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
+      },
+      "artists": [
+        {
+          "name": "WOZNIAK",
+          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "\u8308",
+      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1547,58 +1547,6 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Framework 1 (Vladislav Delay Remix)",
-        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        },
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Framework 1 (Vladislav Delay Remix)",
-      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
-      },
-      "artists": [
-        {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Klauser",
-          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Trying To Get That Sound",
-      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
         "name": "Between Waves",
         "url": "https://open.spotify.com/album/2hvtxkK37YEuRkWhbyq1Cf"
       },
@@ -1619,18 +1567,54 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Apolithoma",
-        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
+        "name": "Framework 1 (Vladislav Delay Remix)",
+        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
       },
       "artists": [
         {
-          "name": "Veslemes",
-          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 316928,
-      "name": "Port Mattare",
-      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
+      "duration_ms": 266573,
+      "name": "Framework 1 (Vladislav Delay Remix)",
+      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Klauser",
+          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Trying To Get That Sound",
+      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1647,6 +1631,22 @@
       "duration_ms": 253613,
       "name": "Full Spectrum",
       "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Apolithoma",
+        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
+      },
+      "artists": [
+        {
+          "name": "Veslemes",
+          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
+        }
+      ],
+      "duration_ms": 316928,
+      "name": "Port Mattare",
+      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1687,6 +1687,26 @@
       "duration_ms": 216699,
       "name": "Waves & Wonders",
       "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Scapes I",
+        "url": "https://open.spotify.com/album/5TgWR6BWrfc9B856hFmGEj"
+      },
+      "artists": [
+        {
+          "name": "Aki Himanen",
+          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
+        },
+        {
+          "name": "Aleksi Kinnunen",
+          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Agbogloshie",
+      "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1731,22 +1751,18 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Scapes I",
-        "url": "https://open.spotify.com/album/5TgWR6BWrfc9B856hFmGEj"
+        "name": "KIngKlav\u00e9",
+        "url": "https://open.spotify.com/album/3U218GVQZykfaAlXkyDDzM"
       },
       "artists": [
         {
-          "name": "Aki Himanen",
-          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
-        },
-        {
-          "name": "Aleksi Kinnunen",
-          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
+          "name": "KingKlav\u00e9",
+          "url": "https://open.spotify.com/artist/1t1cYpyKUirprOlol4feZF"
         }
       ],
-      "duration_ms": 428000,
-      "name": "Agbogloshie",
-      "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
+      "duration_ms": 95787,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/51ts0A3UFSg2oKx2UA5lOO"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1763,22 +1779,6 @@
       "duration_ms": 185360,
       "name": "Pokemans",
       "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "KIngKlav\u00e9",
-        "url": "https://open.spotify.com/album/3U218GVQZykfaAlXkyDDzM"
-      },
-      "artists": [
-        {
-          "name": "KingKlav\u00e9",
-          "url": "https://open.spotify.com/artist/1t1cYpyKUirprOlol4feZF"
-        }
-      ],
-      "duration_ms": 95787,
-      "name": "Intriga",
-      "url": "https://open.spotify.com/track/51ts0A3UFSg2oKx2UA5lOO"
     },
     {
       "added_at": "2024-10-02 15:46:42",

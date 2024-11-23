@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,946 likes - 68 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,971 likes - 68 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LXR02 \- Alex Stein Remix](https://open.spotify.com/track/0O8so5WXR9cF3aGOdoodH3) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [LXR02 \(Alex Stein Remix\)](https://open.spotify.com/album/0f3lX0soFIE9OklVW7bDkD) | 4:40 |
-| 2 | [Morgana \- Booka Shade Remix](https://open.spotify.com/track/5ql495mOoPpkgfAWS6rmiK) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Morgana \(Booka Shade Remix\)](https://open.spotify.com/album/4qfWl3DGfqrigKNfwqgCED) | 3:16 |
+| 2 | [Morgana \- Booka Shade Remix](https://open.spotify.com/track/5ql495mOoPpkgfAWS6rmiK) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Morgana \(Booka Shade Remix\)](https://open.spotify.com/album/4qfWl3DGfqrigKNfwqgCED) | 3:16 |
 | 3 | [Sonic Infusion](https://open.spotify.com/track/0ghGBYe3jGJW4jWti87r6Z) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Sonic Infusion](https://open.spotify.com/album/4mGSoy99Yzut7hA5y7OKHV) | 4:43 |
 | 4 | [Anamorphic \- Balthazar & JackRock Megamorph Remix](https://open.spotify.com/track/3LxxVggLUDD8HWuQd0867a) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y), [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Anamorphic \(Balthazar & JackRock Megamorph Remix\)](https://open.spotify.com/album/0uGTXPiQGijH1w2wXSCfhf) | 3:37 |
 | 5 | [Omen](https://open.spotify.com/track/23P0a8JriKafXbIk47cot7) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Omen](https://open.spotify.com/album/7JfMYfkzzpk3fmruessDTj) | 5:52 |

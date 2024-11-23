@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Felix Cartal, Tegan &amp; Sara
+> The best Dance and EDM tracks right now! Cover: Martin Garrix, Jex
 
-247 songs - 13 hr 1 min
+249 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,8 @@
 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 | 2023-10-27 | 2024-02-27 |
 | [The Thrill](https://open.spotify.com/track/68ebuQxfTJnlg3KwSLVytP) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [The Thrill](https://open.spotify.com/album/7uLQbckUJI5zR61O5HBXdj) | 2:31 | 2024-08-15 |  |
 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-06 |  |
+| [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-22 |  |
+| [Touching Heaven](https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Touching Heaven](https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY) | 2:38 | 2024-11-22 |  |
 | [True Colours](https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [True Colours](https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3) | 3:51 | 2024-05-24 | 2024-09-25 |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2023-10-27 | 2024-01-20 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-10-27 | 2023-11-25 |

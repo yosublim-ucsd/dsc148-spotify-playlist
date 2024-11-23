@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGuKmgbYcZ9UFfPkx7zX34AOTlwm3L",
+  "snapshot_id": "AAAGu5xF7xrQK0ZImXg4liWzPyI7R3MO",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8847,6 +8847,66 @@
       "duration_ms": 47373,
       "name": "Introduction - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF"
+    },
+    {
+      "added_at": "2024-11-22 15:35:13",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        },
+        {
+          "name": "MIZU",
+          "url": "https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6"
+        },
+        {
+          "name": "Jamal Shakeri",
+          "url": "https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "I. Midnight Moon Pool (Womb Of The Soul)",
+      "url": "https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp"
+    },
+    {
+      "added_at": "2024-11-22 15:35:26",
+      "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 559900,
+      "name": "Mahashmashana",
+      "url": "https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU"
+    },
+    {
+      "added_at": "2024-11-22 18:26:50",
+      "album": {
+        "name": "Ocean Rain",
+        "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl"
     }
   ],
   "unique_name": "Zacklog",

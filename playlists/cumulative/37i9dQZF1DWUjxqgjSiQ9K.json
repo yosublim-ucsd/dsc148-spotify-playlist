@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Marcos Barrientos",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Alex Campos",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 197760,
       "name": "Congelados",
       "url": "https://open.spotify.com/track/7HICecFmLPyhpm0v1aBfpw"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 227600,
       "name": "Donante de Sangre",
       "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
@@ -6199,6 +6199,28 @@
     },
     {
       "album": {
+        "name": "Habita (Live)",
+        "url": "https://open.spotify.com/album/5DHbZGCZfthgf1yKRgnYDV"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418386,
+      "name": "Habita - Live",
+      "url": "https://open.spotify.com/track/7zdFxQhgrHC3WI2NfRiRR6"
+    },
+    {
+      "album": {
         "name": "Habita entre nosotros",
         "url": "https://open.spotify.com/album/3GHfF3Up2dNyc88e9CoPEd"
       },
@@ -7276,6 +7298,28 @@
       "duration_ms": 259368,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4A9skme3Jq3bpXoMJx1oYd"
+    },
+    {
+      "album": {
+        "name": "Libre (Versi\u00f3n Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259368,
+      "name": "Libre - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8"
     },
     {
       "album": {
@@ -9241,6 +9285,28 @@
     },
     {
       "album": {
+        "name": "No Me Des Nada",
+        "url": "https://open.spotify.com/album/7fAmp2SCbs4KihtwLFG3PX"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bazan",
+          "url": "https://open.spotify.com/artist/3a7bxaS9tJ33mhlBQ3bhuJ"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182698,
+      "name": "No Me Des Nada",
+      "url": "https://open.spotify.com/track/2nNiDqkzKnseCaFe9iL0mo"
+    },
+    {
+      "album": {
         "name": "QNSATL (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5tpJYx4tgz0tnDznxAEDtc"
       },
@@ -9760,7 +9826,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149347,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/0Bq7UQv3bdHZX7NhNKlJCJ"
@@ -10777,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "RESPIRA",
+        "url": "https://open.spotify.com/album/1iDWguvn5b95GaVdkgppkY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140332,
+      "name": "RESPIRA",
+      "url": "https://open.spotify.com/track/4R85uGZlT9AOnIjPp1DXHu"
+    },
+    {
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/6fC5dnbE9WJOAZqraTMkUh"
       },
@@ -11108,7 +11192,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 171703,
       "name": "Rumbo Pa La Iglesia",
       "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Thierry van der Warth",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Thierry von der Warth &amp; Kassidy",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Kassidy",
+          "url": "https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161803,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6"
+    },
+    {
+      "album": {
         "name": "Alright (NOME. Remix)",
         "url": "https://open.spotify.com/album/0JkVEELe6binFkobKtUnuD"
       },
@@ -2380,6 +2402,32 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "album": {
+        "name": "BANG BANG POW!",
+        "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "I.D.O.",
+          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133406,
+      "name": "BANG BANG POW!",
+      "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
     },
     {
       "album": {
@@ -4524,7 +4572,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 152613,
       "name": "Captain Sjaak",
       "url": "https://open.spotify.com/track/1CDp4zqDEPt75lYFooKR7r"
@@ -7482,7 +7530,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
@@ -9240,7 +9288,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 173362,
       "name": "Fade Till Sunrise, Pt. II",
       "url": "https://open.spotify.com/track/4OetBYftRQNNjy3coOYxS0"
@@ -9266,6 +9314,32 @@
       "duration_ms": 197909,
       "name": "Fade Till Sunrise, Pt. II (B Jones Remix)",
       "url": "https://open.spotify.com/track/6jKBuPpVjzVIsdTIFchjN1"
+    },
+    {
+      "album": {
+        "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
+        "url": "https://open.spotify.com/album/1w7PUeDERNCUTPQz6hAggK"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "D\u00f6ts",
+          "url": "https://open.spotify.com/artist/58NbDSoRwrRaJSHlMfadLC"
+        },
+        {
+          "name": "Victor Garde",
+          "url": "https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158362,
+      "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
+      "url": "https://open.spotify.com/track/1iOZ5gxbMhDDtnJ8G7PqUu"
     },
     {
       "album": {
@@ -9556,6 +9630,32 @@
       "duration_ms": 171071,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf"
+    },
+    {
+      "album": {
+        "name": "Famous (Dub Mix)",
+        "url": "https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl"
+      },
+      "artists": [
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/2IWbrSOviY76oxfLKxHiOa"
+        },
+        {
+          "name": "JusSke",
+          "url": "https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162976,
+      "name": "Famous (Dub Mix)",
+      "url": "https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS"
     },
     {
       "album": {
@@ -11252,7 +11352,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 169750,
       "name": "Get Freaky (feat. Ricky Jay)",
       "url": "https://open.spotify.com/track/2JpSWTnrYoyUjtt6QtjoWQ"
@@ -12090,6 +12190,28 @@
       "duration_ms": 159375,
       "name": "Headphones (feat. Aron Blom)",
       "url": "https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv"
+    },
+    {
+      "album": {
+        "name": "Heart First (feat. Jordan Shaw)",
+        "url": "https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "Heart First (feat. Jordan Shaw)",
+      "url": "https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv"
     },
     {
       "album": {
@@ -19470,7 +19592,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 143419,
       "name": "Middle Fingers (feat. Savage)",
       "url": "https://open.spotify.com/track/27VZcxppvzwqnzxEHjVxN7"
@@ -26039,6 +26161,28 @@
     },
     {
       "album": {
+        "name": "Sant'allegria (Jack Sani Remix)",
+        "url": "https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Jack Sani",
+          "url": "https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147361,
+      "name": "Sant'allegria - Jack Sani Remix",
+      "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT"
       },
@@ -28062,6 +28206,24 @@
       "duration_ms": 138300,
       "name": "Stepping Up (Burning)",
       "url": "https://open.spotify.com/track/6vzCD9QpkYX0SNL3e82pWb"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/6LqbfWlQIHjNNOV59qTGfA"
+      },
+      "artists": [
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/5D9hrfUtgFetORbaIKhFRy"
     },
     {
       "album": {
@@ -31336,7 +31498,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
@@ -31578,6 +31740,28 @@
       "duration_ms": 218031,
       "name": "Turn It Around Baby",
       "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
+    },
+    {
+      "album": {
+        "name": "Turn It Off (feat. Z3LLA)",
+        "url": "https://open.spotify.com/album/1HOnxjFRY3Vo8hcYrmugr5"
+      },
+      "artists": [
+        {
+          "name": "JustLuke",
+          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138409,
+      "name": "Turn It Off (feat. Z3LLA)",
+      "url": "https://open.spotify.com/track/1dshcx1FgshcyQiC5gKkQO"
     },
     {
       "album": {
@@ -33464,7 +33648,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 190476,
       "name": "why so scared to fall?",
       "url": "https://open.spotify.com/track/6rc2jbPZNIsJsrJ4eLBFmT"

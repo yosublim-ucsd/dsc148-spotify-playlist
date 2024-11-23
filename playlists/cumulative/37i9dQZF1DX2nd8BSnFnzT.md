@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-510 songs - 1 day 4 hr 29 min
+511 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Mãe](https://open.spotify.com/track/4p7tg4WcsnDWxl4IGIBxKR) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Mãe](https://open.spotify.com/album/161ge9q4WPISTLr51Gmg6U) | 3:26 | 2023-05-12 | 2023-07-01 |
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 | 2023-12-09 |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
+| [Na Contra Mão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 |  |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
 | [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 | 2023-11-24 | 2023-12-09 |
@@ -503,7 +504,7 @@
 | [Veneno](https://open.spotify.com/track/48gX3Cw6NvtD354SeCfIYl) | [Malvada](https://open.spotify.com/artist/59HYfYu4sULVe4DL14kdsJ) | [Veneno](https://open.spotify.com/album/57JDsqONjerDf3iRVBCgOq) | 3:29 | 2024-04-26 | 2024-06-22 |
 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 | 2023-04-14 | 2023-07-22 |
 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 | 2024-09-06 |  |
-| [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 | 2024-05-10 |  |
+| [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 | 2024-05-10 | 2024-11-23 |
 | [Vital E Sua Moto 2024](https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Vital E Sua Moto 2024](https://open.spotify.com/album/1ivFEPEPpN10pc2JQlMZay) | 3:25 | 2024-06-21 |  |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |
 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 | 2023-07-14 | 2024-07-06 |

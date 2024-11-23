@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,551 likes - 71 songs - 4 hr 25 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,554 likes - 71 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 11 | [Osaka](https://open.spotify.com/track/79yQPsJ7vVIgKTaeR8v2QO) | [Caixa Cubo](https://open.spotify.com/artist/21qaghmwHc92BQif0cdi8P) | [Modo Avião](https://open.spotify.com/album/2qREUFm7mJHEXF6JjXYalx) | 2:34 |
 | 12 | [Planet Blue](https://open.spotify.com/track/1QmvY5Vn4QqUd39ICVJwVj) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 2:55 |
 | 13 | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2) | 3:14 |
-| 14 | [Two Feet Tall](https://open.spotify.com/track/5I6wdjzxpYyfIclq00aC3R) | [Ciao Malz](https://open.spotify.com/artist/4mZeGtrcxa3NRwvHY8aTUT) | [Two Feet Tall](https://open.spotify.com/album/30CkwiWpR5OwAuExjw7DPI) | 3:19 |
+| 14 | [Two Feet Tall](https://open.spotify.com/track/5I6wdjzxpYyfIclq00aC3R) | [CIAO MALZ](https://open.spotify.com/artist/4mZeGtrcxa3NRwvHY8aTUT) | [Two Feet Tall](https://open.spotify.com/album/30CkwiWpR5OwAuExjw7DPI) | 3:19 |
 | 15 | [Keep Pushing](https://open.spotify.com/track/1E7PjlgEcRsGB4oT6SNaYW) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Jonathan Snipes](https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M), [William Hutson](https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm) | [Keep Pushing](https://open.spotify.com/album/0dnmwmD83U5t6es4eoJURO) | 3:46 |
 | 16 | [Graucha Max](https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Graucha Max](https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn) | 5:35 |
 | 17 | [ACT A DAMN FOOL \(with Duke Deuce & Slim Guerilla\)](https://open.spotify.com/track/4OUSf2tqMGciL1g0iiK30l) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Slim Guerilla](https://open.spotify.com/artist/1Odn7pOeUdEoOZeuox6nql) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 3:43 |

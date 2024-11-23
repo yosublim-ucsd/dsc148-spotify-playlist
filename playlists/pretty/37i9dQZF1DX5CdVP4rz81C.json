@@ -1,81 +1,13 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Keshi",
-  "num_followers": 1328546,
+  "description": "Discover your favorite new chill pop songs. Cover: mxmtoon",
+  "num_followers": 1328541,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvOEwAAAAC1Tg5ktxN5Vh8Z0IZ20X0l",
+  "snapshot_id": "Z0AP0AAAAACLKuW/7GCnQKMy4qGf+9SS",
   "tracks": [
-    {
-      "added_at": "2024-11-18 23:30:26",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "chandol",
-          "url": "https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz"
-        }
-      ],
-      "duration_ms": 182511,
-      "name": "Pitfall",
-      "url": "https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
-    },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
@@ -111,6 +43,106 @@
       "duration_ms": 216666,
       "name": "A-frame",
       "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Heathrow",
+        "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 235287,
+      "name": "Heathrow",
+      "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Made it Awkward",
+        "url": "https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 184428,
+      "name": "Made it Awkward",
+      "url": "https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
+    },
+    {
+      "added_at": "2024-11-18 23:30:26",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "chandol",
+          "url": "https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz"
+        }
+      ],
+      "duration_ms": 182511,
+      "name": "Pitfall",
+      "url": "https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -149,6 +181,38 @@
       "url": "https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/2wLnAwKE1xHBb0FrSQrt1y"
+      },
+      "artists": [
+        {
+          "name": "Madison Bailey",
+          "url": "https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S"
+        }
+      ],
+      "duration_ms": 192498,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/73kuwAWSxFDK1wT8ec1S6K"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Still The Same",
@@ -163,22 +227,6 @@
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Heathrow",
-        "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
-      },
-      "artists": [
-        {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 235287,
-      "name": "Heathrow",
-      "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -211,22 +259,6 @@
       "duration_ms": 141548,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
       "added_at": "2024-10-04 04:26:36",
@@ -541,6 +573,22 @@
       "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Say",
@@ -607,22 +655,6 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -719,6 +751,22 @@
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Boy In Love",
+        "url": "https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Boy In Love",
+      "url": "https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -937,6 +985,22 @@
       "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "everything and nothing",
+        "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 140638,
+      "name": "take the hit",
+      "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Ashe",
@@ -1083,6 +1147,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/5xdnRhj9byieYauUuxe57k"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/3XqoTEoAxwMXaSmidUm6wy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Hypothetically",
         "url": "https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO"
       },
@@ -1145,22 +1225,6 @@
       "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "everything and nothing",
-        "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 140638,
-      "name": "take the hit",
-      "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Honeymind",
@@ -1209,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/5xdnRhj9byieYauUuxe57k"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/3XqoTEoAxwMXaSmidUm6wy"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Life at First Sight",
@@ -1271,6 +1319,22 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1329,22 +1393,6 @@
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "something in the air",
@@ -1359,22 +1407,6 @@
       "duration_ms": 221346,
       "name": "i got the boy",
       "url": "https://open.spotify.com/track/2iHcFtwALFWm6Xth2KtELi"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1445,22 +1477,6 @@
       "url": "https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Lonely with Our Love",
@@ -1491,6 +1507,22 @@
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "The Older You Get",
+        "url": "https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 216611,
+      "name": "The Older You Get",
+      "url": "https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1577,22 +1609,6 @@
       "url": "https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci"
     },
     {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "My Mind And I",
-        "url": "https://open.spotify.com/album/2cju8nvFk8EoRNa9Ve59Hv"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 178923,
-      "name": "Me This Time",
-      "url": "https://open.spotify.com/track/7t8gsUkKkZksZ0wJNr5hz8"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Stargazing",
@@ -1623,22 +1639,6 @@
       "duration_ms": 190800,
       "name": "charlie",
       "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "The Older You Get",
-        "url": "https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 216611,
-      "name": "The Older You Get",
-      "url": "https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3"
     },
     {
       "added_at": "2024-09-06 04:00:00",

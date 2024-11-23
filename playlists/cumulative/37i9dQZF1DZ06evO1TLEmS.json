@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 72706,
       "name": "Django",
       "url": "https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W"
@@ -446,6 +446,28 @@
       "duration_ms": 203373,
       "name": "Don\u2019t Let Me Down Again",
       "url": "https://open.spotify.com/track/1fuQki4HKxBZfoR6NGD0DQ"
+    },
+    {
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Don\u2019t Let Me Down Again",
+      "url": "https://open.spotify.com/track/7rEeIaUe3cqW8lkVThboZc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Camil\u00fa",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Axel Fiks",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Abierto toda la Noche",
+        "url": "https://open.spotify.com/album/1vEnl2fWNkU9KAk55mTQt8"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162359,
+      "name": "hijo \u00fanico",
+      "url": "https://open.spotify.com/track/5IkQX5yqgKV7O7HhdySfLF"
+    },
+    {
+      "album": {
         "name": "Hundi\u00e9ndome",
         "url": "https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst"
       },
@@ -3584,7 +3602,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,168 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,185 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 8 | [Varnam](https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r) | [Jayanthi Kumaresh](https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT) | [Veenai Jayanthi Kumaresh](https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J) | 6:34 |
 | 9 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/2NKq1eKtz3t7Gp4NIrJ1Lg) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Amazing Veena](https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d) | 8:14 |
 | 10 | [Mahishasura Mardini Stotra \- Revathi \- Adi \- Instrumental](https://open.spotify.com/track/3lo8sS09aevJ6cxugNd0mn) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT) | [Mood Music \- Devotional Instrumentals of South India](https://open.spotify.com/album/6rm85IBtVgSFqmW4tWBPkl) | 12:51 |
-| 11 | [Ragam Tanam Pallavi](https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Parjanya](https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM) | 20:22 |
+| 11 | [Kandhasashti Kavacham \- Instrumental](https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi) | [Bhavyalakshmi](https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 10:12 |
 | 12 | [Enna Thavam Seithanai \- Instrumental](https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 4:17 |
-| 13 | [Kandhasashti Kavacham \- Instrumental](https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi) | [Bhavyalakshmi](https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 10:12 |
+| 13 | [Ragam Tanam Pallavi](https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Parjanya](https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM) | 20:22 |
 | 14 | [Tandanana \- Instrumental](https://open.spotify.com/track/0JON5cHB8JHm6HosXlkMRR) | [S\. Ballesh](https://open.spotify.com/artist/4Ayo58CebvhV9I7IguYsm4) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 4:53 |
 | 15 | [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 |
 | 16 | [Endharo Mahanubhavulu \- Sri \- Adi](https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 11:52 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to all your favorite Disney Princess songs.",
-  "num_followers": 933528,
+  "num_followers": 933665,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy0jAAAAAAB1DNby6nYfgLKNLlT2y41J",
+  "snapshot_id": "Z0AP0AAAAAAeKTG7/w8jrZdpXUluvCJ2",
   "tracks": [
     {
       "added_at": "2024-08-16 20:19:47",
@@ -23,6 +23,30 @@
       "duration_ms": 161109,
       "name": "Special Spice - Music from \"Tiana's Bayou Adventure\"",
       "url": "https://open.spotify.com/track/7LGJtP8tWWlRmm6nbMYDxQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
     },
     {
       "added_at": "2023-10-13 12:01:00",

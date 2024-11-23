@@ -1,13 +1,37 @@
 {
-  "description": "\u00a1Gracias por vivir MEXCLA con nosotros! \u2728\ud83d\udc9a La Trinidad en portada.",
-  "num_followers": 551693,
+  "description": "\u00a1Gracias por vivir MEXCLA con nosotros! \u2728\ud83d\udc9a La Adictiva, Calle 24, y Justin Quiles en portada.",
+  "num_followers": 552201,
   "original_name": "MEXCLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy4+bQAAAAAGZz0yY14PBADKFRr48UaJ",
+  "snapshot_id": "Z0DFdQAAAAACmCPpE7cZ3twczw/mfZ7+",
   "tracks": [
+    {
+      "added_at": "2024-11-22 17:51:33",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/77fkFCGSZ5NLEXOhR9m5jH"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 162525,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2QFyOnB7styOE8IZSXCweB"
+    },
     {
       "added_at": "2024-11-08 16:38:05",
       "album": {

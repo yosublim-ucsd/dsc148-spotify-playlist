@@ -3518,7 +3518,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172800,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
@@ -3846,6 +3846,24 @@
       "duration_ms": 248750,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0gebFq16ZKEt07j0QwBM3R"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "album": {

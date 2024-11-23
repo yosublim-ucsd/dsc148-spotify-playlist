@@ -3511,7 +3511,7 @@
     },
     {
       "album": {
-        "name": "Asking For More",
+        "name": "Asking for More",
         "url": "https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn"
       },
       "artists": [
@@ -3528,7 +3528,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172013,
-      "name": "Asking For More",
+      "name": "Asking for More",
       "url": "https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq"
     },
     {
@@ -4044,6 +4044,28 @@
       "duration_ms": 244733,
       "name": "Baby Blue Movie",
       "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
+    },
+    {
+      "album": {
+        "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+        "url": "https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
+      "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
     },
     {
       "album": {
@@ -32675,6 +32697,24 @@
     },
     {
       "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/3E2KUcjW4ejO0JoWGlWli6"
       },
@@ -38061,7 +38101,7 @@
     },
     {
       "album": {
-        "name": "MARJINAL",
+        "name": "(Le d\u00e9fil\u00e9.)",
         "url": "https://open.spotify.com/album/3js5sk5c9TAP1CDxV1saw9"
       },
       "artists": [

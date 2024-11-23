@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-716 songs - 1 day 22 hr 20 min
+722 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 | 2023-06-08 |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [2g ether](https://open.spotify.com/track/2IVBzvAP4xcMJk7pGnNjxo) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [demo 02](https://open.spotify.com/album/5WFz5GnwnfjtdSx1StnGAG) | 3:42 | 2023-02-17 | 2023-08-12 |
+| [4 Shadow](https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Trilogy](https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ) | 2:58 | 2024-11-22 |  |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2023-11-28 |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 | 2022-12-16 |
 | [A Lot Can Happen](https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 4:36 | 2024-08-20 |  |
@@ -109,6 +110,7 @@
 | [Bright](https://open.spotify.com/track/0MiX0kgljysWBvfwOlGGWN) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [crystallize \(remastered\)](https://open.spotify.com/album/50n37w3uA5ue1sw1rsUYKz) | 8:16 | 2024-02-23 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-16 | 2023-11-08 |
+| [Bullet Train](https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Bullet Train](https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV) | 2:45 | 2024-11-22 |  |
 | [Bum](https://open.spotify.com/track/33pm3z0Kvv9NfHAblCeWlO) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [Path](https://open.spotify.com/album/6NVWtd06eYQuVJR4iccrZY) | 2:28 | 2024-05-24 |  |
 | [Buried Alive](https://open.spotify.com/track/3v1okTkFTXHX6IZp0rEd4L) | [Amateur Hour](https://open.spotify.com/artist/7MbhbrCOjLXeaNah07xAdq) | [Krökta Tankar Och Brända Vanor](https://open.spotify.com/album/3w9hOArCkQ0OReLe491FHr) | 3:07 | 2023-01-12 | 2023-02-22 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-05 |  |
@@ -398,6 +400,7 @@
 | [Leave](https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD) | 4:13 | 2021-10-19 | 2022-12-01 |
 | [Leave](https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:13 | 2021-10-19 | 2024-02-24 |
 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 | 2021-10-19 | 2023-01-14 |
+| [lick the star](https://open.spotify.com/track/1X8E5Ad67vg9bNVRAuNHtX) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [lick the star](https://open.spotify.com/album/7IYAs7rJtjzvgETlqWc1wG) | 5:17 | 2024-11-22 |  |
 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-10 |  |
 | [life imitates life v2](https://open.spotify.com/track/3S3rAQgFftcCEnzZnVnwOC) | [TrixsBeats](https://open.spotify.com/artist/1QwA5uGak4i3cwDKFxeKGv) | [life imitates life v2](https://open.spotify.com/album/4Ba8QH8W13B9bJAmiA29kt) | 2:36 | 2023-06-20 | 2023-06-22 |
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |
@@ -416,6 +419,7 @@
 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 | 2024-02-13 | 2024-03-19 |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-12-08 | 2024-07-06 |
 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 | 2024-01-12 | 2024-05-25 |
+| [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-22 |  |
 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 | 2022-12-15 | 2023-06-24 |
 | [Look Around](https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM) | [Blankenberge](https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm) | [More](https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx) | 4:17 | 2021-10-19 | 2022-12-16 |
 | [Look Inward](https://open.spotify.com/track/2AFDrLOL9Q20iJoFXGNdJA) | [Frij](https://open.spotify.com/artist/75OS5bfsxEKbLnU5R8CBup) | [Look Inward](https://open.spotify.com/album/4MNaCFxyLX27nlT6rZmyq5) | 2:54 | 2023-12-01 | 2024-04-30 |
@@ -643,6 +647,7 @@
 | [The Skin And The Glove](https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [An Object In Motion](https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD) | 6:02 | 2023-07-17 | 2023-09-02 |
 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 | 2024-02-24 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 | 2023-09-14 |
+| [The things that I'll always miss](https://open.spotify.com/track/1Y9VdcNYrzzwkgxxtj5N8u) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [IRL](https://open.spotify.com/album/5VXuU9m8N73IpBZel0zy1S) | 2:03 | 2024-11-22 |  |
 | [The Weed Supreme](https://open.spotify.com/track/515C6Le8zgtALLf5cwT7Za) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Remote Echoes](https://open.spotify.com/album/5L7puAZ2GT1XQuiXNzPstC) | 1:33 | 2023-09-29 |  |
 | [This Place Called Nowhere](https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq) | [Box And The Twins](https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z) | [Everywhere I Go Is Silence](https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg) | 4:40 | 2022-12-15 | 2023-01-14 |
 | [This Time](https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 3:18 | 2021-10-19 | 2023-03-25 |
@@ -723,6 +728,7 @@
 | [Мемантин](https://open.spotify.com/track/1wPlBxDgNGWPyPSDlS21MM) | [Reverb On Repeat](https://open.spotify.com/artist/5FD4jt8EajaOa5EAVmZ1GF) | [Мемантин](https://open.spotify.com/album/3CKmxpeLjXaW9Eqi9eKk9f) | 8:12 | 2024-04-05 |  |
 | [Песня о привязанности](https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ) | [Автоспорт](https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE) | [Береги себя](https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY) | 3:07 | 2022-12-15 | 2023-03-25 |
 | [さめない](https://open.spotify.com/track/1Z9HoCZq6RfaG3LLIKRHIQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:35 | 2023-11-07 | 2024-04-06 |
+| [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 | 2024-11-22 |  |
 | [기다려준 새벽 \(Following Her to No Particular Sunrise\)](https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn) | [Della Zyr](https://open.spotify.com/artist/0fx546FEiZSwGoSbuMnsmN) | [비타민과 우려 Vitamins and Apprehension](https://open.spotify.com/album/3KvDdvikW0qXKnfGYZQtXf) | 8:00 | 2022-12-15 | 2023-02-28 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

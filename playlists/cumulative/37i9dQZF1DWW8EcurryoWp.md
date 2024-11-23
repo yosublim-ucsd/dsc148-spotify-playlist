@@ -2,9 +2,9 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: Joe Butler
+> The best new Irish alternative sounds\. Cover: Soda Blonde
 
-103 songs - 6 hr 3 min
+108 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All The Days](https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [All The Days](https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1) | 4:34 | 2024-07-18 |  |
 | [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 | 2024-09-14 |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-06-20 |  |
-| [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-06-20 |  |
+| [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-06-20 | 2024-11-23 |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-20 |  |
 | [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 | 2024-09-14 |
 | [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 | 2024-08-16 |
@@ -29,6 +29,7 @@
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-20 |  |
 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 | 2024-10-08 |  |
 | [Colour Again](https://open.spotify.com/track/4dtFrKLkwvhckjSFsz8nva) | [find\-joy](https://open.spotify.com/artist/43RPKwKEHy2vwaH4SQ8mCS) | [Colour Again](https://open.spotify.com/album/1oMdxKd5muQqchVekROmd6) | 4:46 | 2024-09-13 |  |
+| [Constellation](https://open.spotify.com/track/3zphYDhxfrViN7anRq6Z7n) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Constellation](https://open.spotify.com/album/7iCCvhECnZ69poHy0r5fJR) | 4:03 | 2024-11-22 |  |
 | [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 | 2024-07-27 |
 | [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 | 2024-09-14 |
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-06-20 |  |
@@ -39,6 +40,7 @@
 | [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-20 | 2024-07-05 |
 | [Following the Night](https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy) | [Telebox](https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s) | [When Night Turns Into Day](https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE) | 3:10 | 2024-07-12 |  |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-20 |  |
+| [Fool Out of Me](https://open.spotify.com/track/2SlaOTHJY57D3YPuBOpDgH) | [Queen Bitch](https://open.spotify.com/artist/6s02q1DQMb0of0tBTxgeZj) | [Fool Out of Me](https://open.spotify.com/album/4YPRvjN8ECwi6e0KK3vedu) | 3:03 | 2024-11-22 |  |
 | [Forgets His Name](https://open.spotify.com/track/5dUMR6aBvisgyjMnr3NQmU) | [Pauric O' Meara](https://open.spotify.com/artist/4qEun8m2ex3CQowKhg7mpS) | [Forgets His Name](https://open.spotify.com/album/0Fiz5AXvGZ5vF90aUukW7y) | 3:42 | 2024-11-15 |  |
 | [Geek Love](https://open.spotify.com/track/6mAx6HpOuJDRbrcj9olnPD) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Geek Love](https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J) | 3:56 | 2024-10-08 |  |
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 | 2024-08-30 |
@@ -62,8 +64,10 @@
 | [Melty Brains](https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Melty Brains](https://open.spotify.com/album/3o4mCtZvXRIs7xsliNPOBz) | 3:33 | 2024-06-20 | 2024-09-06 |
 | [MENACE \- bonus track](https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD) | [Filmore!](https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3), [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Filmore!](https://open.spotify.com/album/1fHlgTVnnjMOntcxLJy08l) | 2:35 | 2024-06-20 | 2024-08-30 |
 | [mercury](https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc) | [kleio](https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT) | [mercury](https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5) | 3:17 | 2024-07-25 |  |
+| [Mercury](https://open.spotify.com/track/20ScNfg2fVpnGChIn1hsqS) | [The Violet Breaks](https://open.spotify.com/artist/5OF2ay8Om5YaBF8uhG0tlp) | [Mercury](https://open.spotify.com/album/03mFoo0eY0cVOtKRe403U5) | 3:12 | 2024-11-22 |  |
 | [mouthy](https://open.spotify.com/track/70aBphOfOhPka4WwhBvcQ4) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [mouthy](https://open.spotify.com/album/1OMr8FjYQhhdt96kJhFVFd) | 2:32 | 2024-09-05 |  |
 | [Naked](https://open.spotify.com/track/0TP5IWKzHOYTn1X0FxwA2f) | [Still Blue](https://open.spotify.com/artist/0ARihSioho8nfcbicw1tXl) | [Naked](https://open.spotify.com/album/3G42XIfhlSjYR61Cg8pb6u) | 4:01 | 2024-06-20 |  |
+| [Not Right Now](https://open.spotify.com/track/7z16TrzlRS4Xab20XU14PU) | [Keagan.](https://open.spotify.com/artist/0mELXzKqwbeCAxPWIr7RB3) | [Not Right Now](https://open.spotify.com/album/2XkmPyP9CCqsMhj41Gunk6) | 4:34 | 2024-11-22 |  |
 | [Nutmeg](https://open.spotify.com/track/7B9rphwBsfbS9h9fLOVsMz) | [RECO](https://open.spotify.com/artist/7fvakEX3otLoQittQY57d0) | [Nutmeg](https://open.spotify.com/album/1FtqwJqSYAzBgXxrezQlwO) | 3:04 | 2024-06-20 |  |
 | [omen](https://open.spotify.com/track/38XXtGUudOXtxSi843s9LX) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [omen](https://open.spotify.com/album/7ovyM7XXgObQz0QAfFk6nd) | 3:17 | 2024-06-20 |  |
 | [On My Way](https://open.spotify.com/track/5EkUqB1C5Ki6vOwjy61c6W) | [Seba Safe](https://open.spotify.com/artist/2vY3QN8jlAZS4C4OsbDYV6) | [On My Way](https://open.spotify.com/album/0jlLoHDb5VyetHZMcJP4S2) | 4:15 | 2024-06-20 | 2024-07-27 |
@@ -96,9 +100,10 @@
 | [Tell My Ma](https://open.spotify.com/track/03odXEDawI38O9WZF764jR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Tell My Ma](https://open.spotify.com/album/1noBYErYgt21Gt9cqhgtBP) | 1:26 | 2024-09-13 |  |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-20 |  |
 | [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 | 2024-08-16 |
-| [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 |  |
+| [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 | 2024-11-23 |
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-07-04 |  |
 | [The Ridiculousness Of Everything](https://open.spotify.com/track/40NZRbfShwYGFsrd59sFBN) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [The Ridiculousness Of Everything](https://open.spotify.com/album/3AfG0QxWrPgYCikqUatu3L) | 4:21 | 2024-07-04 |  |
+| [The Saddest Thing](https://open.spotify.com/track/6cc2ABnM5YnNgpPEx2uqNP) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [The Saddest Thing](https://open.spotify.com/album/14aXdGBIHp40nJFIRg1X11) | 3:23 | 2024-11-22 |  |
 | [Thirteen](https://open.spotify.com/track/41ejsO9y8hXJpbB4BAb4ig) | [Nerves](https://open.spotify.com/artist/4oZHD9a5Wf8vZWHTrPWKdO) | [Thirteen](https://open.spotify.com/album/7scrH9IVRpVjSDKwsSSM2J) | 4:35 | 2024-06-20 |  |
 | [Toothache](https://open.spotify.com/track/6NL2m0b4hTAbgVeJo5vXHt) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Toothache](https://open.spotify.com/album/62EBdPkVWmpelg2e0FtjYd) | 3:48 | 2024-08-22 |  |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-06-20 |  |

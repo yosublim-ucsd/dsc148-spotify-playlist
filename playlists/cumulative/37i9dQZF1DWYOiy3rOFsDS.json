@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 203184,
       "name": "Amor Maldito",
       "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 247731,
       "name": "Aqu\u00ed voy a estar",
       "url": "https://open.spotify.com/track/3j8KvZM3oLN40gMhG0QSbW"
@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/0fdAhalF9nceDMWUA9nvHJ"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2qFz72y9UVVZ4ENn133tEv"
+    },
+    {
+      "album": {
         "name": "DIME X FAVOR",
         "url": "https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 114606,
       "name": "Donde jam\u00e1s te comprend\u00ed",
       "url": "https://open.spotify.com/track/03gfu6sEAhxEBrmCMON3HZ"
@@ -1609,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "El Bolero",
+        "url": "https://open.spotify.com/album/6rWb9uPRm8pwKCiW8oDxLX"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/2tVjXV54GIBMZwLpchsZeg"
+    },
+    {
+      "album": {
         "name": "Diego El Cigala in Concert (Special Edition American Tour 2012)",
         "url": "https://open.spotify.com/album/7787gRVyjKfPdwXeWIgm4h"
       },
@@ -1638,7 +1674,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 241693,
       "name": "El D\u00eda Que Me Quieras",
       "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
@@ -1914,6 +1950,28 @@
       "duration_ms": 202414,
       "name": "Enamorado de Ti",
       "url": "https://open.spotify.com/track/653WRYxVaXAmRY44Ikfz5r"
+    },
+    {
+      "album": {
+        "name": "Entre Copas",
+        "url": "https://open.spotify.com/album/57uHAsqeL2D8DQ3riMmnFx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        },
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "Entre Copas",
+      "url": "https://open.spotify.com/track/3CI2hS4A5eVne0TZZJbTn8"
     },
     {
       "album": {
@@ -3322,7 +3380,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 172000,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53"
@@ -3402,7 +3460,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185516,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/4qVgJ1kO1GWpgFg9nWsHgL"
@@ -3738,7 +3796,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
@@ -4094,7 +4152,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 201667,
       "name": "Para Siempre Joven",
       "url": "https://open.spotify.com/track/0bQlZv003vfCrEX7rwPmQo"
@@ -4406,6 +4464,24 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
+        "name": "por qu\u00e9?",
+        "url": "https://open.spotify.com/album/3lTL2WgNvjcJ91mIXyYG9V"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229812,
+      "name": "por qu\u00e9?",
+      "url": "https://open.spotify.com/track/1OZ7q6s3bFQmHudLDCOMhX"
     },
     {
       "album": {
@@ -4770,7 +4846,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 185040,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
@@ -5268,7 +5344,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"

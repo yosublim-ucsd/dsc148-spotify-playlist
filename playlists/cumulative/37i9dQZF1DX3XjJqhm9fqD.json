@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating Haitian music. Cover: Na\u00efka",
+  "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
   "name": "Haitian Heat",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+    },
+    {
+      "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
     },
     {
       "album": {
@@ -272,6 +290,24 @@
       "duration_ms": 160677,
       "name": "Agua (with Na\u00efka)",
       "url": "https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb"
+    },
+    {
+      "album": {
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144371,
+      "name": "Aidez Moi",
+      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "album": {
@@ -996,7 +1032,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 145122,
       "name": "Coming Your Way (with Anne-Marie & Becky G)",
       "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 313421,
       "name": "Dlo Dous",
       "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 272984,
       "name": "Dous pou Dous",
       "url": "https://open.spotify.com/track/3u3WacUgCuvmtqovOUbOij"
@@ -1426,6 +1462,28 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "album": {
+        "name": "My Pain Killer",
+        "url": "https://open.spotify.com/album/17qKhqxOF60yEWQWDXFnlk"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344977,
+      "name": "Dwat Pou W Vini",
+      "url": "https://open.spotify.com/track/6PSJVDtJ363zGWvzGv6MKq"
     },
     {
       "album": {
@@ -1909,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "PWOTEJE M",
+        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174216,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
+    },
+    {
+      "album": {
         "name": "Sol\u00e8y",
         "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
@@ -2126,7 +2202,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 200568,
       "name": "Imitate",
       "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
@@ -2160,7 +2236,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 181224,
       "name": "Jessica (with J Balvin, SAINt JHN, Charly Black & J Perry)",
       "url": "https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p"
@@ -2269,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Time To Shine",
+        "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
+      },
+      "artists": [
+        {
+          "name": "Kenny Haiti",
+          "url": "https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146280,
+      "name": "Kle Kou",
+      "url": "https://open.spotify.com/track/2e5Q8kxD2NHOFdDCn2SsXe"
+    },
+    {
+      "album": {
         "name": "Haiti debout",
         "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
@@ -2344,7 +2438,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
@@ -2570,7 +2664,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 195000,
       "name": "Liki Tiki",
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
@@ -2804,6 +2898,24 @@
       "duration_ms": 305456,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/0HcT7vpmX7KXbaCMEus16l"
+    },
+    {
+      "album": {
+        "name": "Magic Gouyad #6",
+        "url": "https://open.spotify.com/album/2wP33sB9KypBSi5V0Bw5Ll"
+      },
+      "artists": [
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230647,
+      "name": "Magic Gouyad #6",
+      "url": "https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz"
     },
     {
       "album": {
@@ -3690,7 +3802,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 400666,
       "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
       "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
@@ -3716,7 +3828,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 199550,
       "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
       "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
@@ -3756,6 +3868,28 @@
       "duration_ms": 180000,
       "name": "Par\u00e9",
       "url": "https://open.spotify.com/track/2sVFUPt8rf9DhxH3D2vqgs"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Pedi kontwol",
+      "url": "https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG"
     },
     {
       "album": {
@@ -4056,7 +4190,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 138891,
       "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
       "url": "https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb"
@@ -4192,6 +4326,32 @@
       "duration_ms": 126583,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN"
+    },
+    {
+      "album": {
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
       "album": {
@@ -4334,7 +4494,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
@@ -4899,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "Tolere w",
+        "url": "https://open.spotify.com/album/5IfNKfgGX5QRWm0mK0CFz3"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        },
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279040,
+      "name": "Tolere w",
+      "url": "https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG"
+    },
+    {
+      "album": {
         "name": "Tonm Tonm",
         "url": "https://open.spotify.com/album/2tvzTfdkKLEoJZcXqHwlKv"
       },
@@ -5109,6 +5291,32 @@
     },
     {
       "album": {
+        "name": "10 IS IT",
+        "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
+      },
+      "artists": [
+        {
+          "name": "Master Brain",
+          "url": "https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR"
+        },
+        {
+          "name": "Mechanst",
+          "url": "https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M"
+        },
+        {
+          "name": "Maykimac",
+          "url": "https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229341,
+      "name": "Valide",
+      "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
+    },
+    {
+      "album": {
         "name": "Verde",
         "url": "https://open.spotify.com/album/1njFnBtBmPTLGAxx02MqJD"
       },
@@ -5170,7 +5378,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 162146,
       "name": "Vex Oh feat. GoldLink & Ari PenSmith",
       "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
@@ -5264,7 +5472,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"

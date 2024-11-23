@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-480 songs - 1 day 5 hr 34 min
+481 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beat Of Your Heart](https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL) | 3:29 | 2024-01-26 |  |
 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-01-26 | 2024-04-19 |
 | [Beautiful Day](https://open.spotify.com/track/0UdfVSQHtnglCOTCZPbkRT) | [APEXAPE](https://open.spotify.com/artist/5F9PcM3OP6dnHPGJ94t43L), [Lisa Millett](https://open.spotify.com/artist/2rti10pfRIUaqCQuSTXtv8) | [Beautiful Day](https://open.spotify.com/album/6PX6o74RPJ2oEWB1mSD9V4) | 3:07 | 2022-04-06 | 2022-04-21 |
+| [Being With You](https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Being With You](https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n) | 2:21 | 2024-11-22 |  |
 | [Believe](https://open.spotify.com/track/2asg0lyCz6INj65E71Dx6a) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Believe](https://open.spotify.com/album/0n9d8IbwkRpYiqiXq0uQ7t) | 4:14 | 2024-09-30 |  |
 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 | 2022-01-14 |  |
 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 | 2022-01-14 | 2024-07-13 |
@@ -348,7 +349,7 @@
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2022-01-14 |  |
 | [Outta My Mind](https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Outta My Mind](https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi) | 2:19 | 2024-09-20 |  |
 | [Pagaia](https://open.spotify.com/track/6WQY5UTB3Z4WLBx5TWq0tq) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Black Legend](https://open.spotify.com/artist/4qLiTGMBoVE95pmqJPseOU) | [Pagaia](https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew) | 2:46 | 2024-07-12 | 2024-09-07 |
-| [PALOMA](https://open.spotify.com/track/15Zt1IvSOneOx9S7pOpjQ6) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [PALOMA](https://open.spotify.com/album/1lpkmh9MejKDWjgg4gHeAh) | 3:41 | 2024-08-30 |  |
+| [PALOMA](https://open.spotify.com/track/15Zt1IvSOneOx9S7pOpjQ6) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [PALOMA](https://open.spotify.com/album/1lpkmh9MejKDWjgg4gHeAh) | 3:41 | 2024-08-30 | 2024-11-23 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-16 |  |
 | [Paradise \(feat\. Alexandra Prince\)](https://open.spotify.com/track/2UmTY86kcCDpSSuZ9dmnfw) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Paradise \(feat\. Alexandra Prince\)](https://open.spotify.com/album/5g9FbWxsQMSagvOxAd2Qmc) | 4:05 | 2024-04-26 | 2024-06-29 |
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 | 2022-09-02 | 2022-10-29 |

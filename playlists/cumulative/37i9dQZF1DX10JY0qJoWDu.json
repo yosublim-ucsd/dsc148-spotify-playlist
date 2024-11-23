@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Mickey and the Very Many Christmases (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111112,
+      "name": "Christmas All Over Again",
+      "url": "https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },

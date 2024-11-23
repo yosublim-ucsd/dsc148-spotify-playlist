@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Jacob Alon
 
-181 songs - 11 hr 32 min
+182 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 |  |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-07-11 | 2024-11-08 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 | 2024-10-07 |
-| [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-10-06 |  |
+| [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-10-06 | 2024-11-23 |
 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-06-14 |  |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-06-14 |  |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-06 |  |
@@ -182,6 +182,7 @@
 | [Way Over Your Head](https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 4:18 | 2024-06-14 |  |
 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 | 2024-06-14 | 2024-10-07 |
 | [What Happened to You, Son?](https://open.spotify.com/track/7zVv9b6OHWjumvA4nZKXUR) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [What Happened to You, Son?](https://open.spotify.com/album/1ZMvxAEsE0m5dBGtNBELvO) | 3:42 | 2024-06-14 | 2024-10-07 |
+| [White Whale](https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [White Whale](https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I) | 6:38 | 2024-11-15 |  |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 | 2024-06-14 |  |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-14 | 2024-08-28 |
 | [World on a String](https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/6jA0g1Eoa6rRidu501dcJb) | 3:09 | 2024-06-14 | 2024-07-12 |

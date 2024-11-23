@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Jessica Doolan
 
-255 songs - 13 hr 47 min
+256 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Come And See](https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 5:27 | 2024-09-12 |  |
 | [Comedy Jam](https://open.spotify.com/track/0BJiQ5rBPpIEanpZCWumAV) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION \(Deluxe'd\)](https://open.spotify.com/album/2PDLo9TCl6ecDQTHlBXy9U) | 1:43 | 2024-11-15 |  |
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-05-09 | 2024-09-06 |
+| [Constellation](https://open.spotify.com/track/3zphYDhxfrViN7anRq6Z7n) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Constellation](https://open.spotify.com/album/7iCCvhECnZ69poHy0r5fJR) | 4:03 | 2024-11-22 |  |
 | [Daisy](https://open.spotify.com/track/2TxreYevEng0mYbQ3QAfXP) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Daisy](https://open.spotify.com/album/5he4YExXfEiSXxGpTPOjsw) | 3:01 | 2024-05-30 |  |
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-04 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 | 2024-07-05 |
@@ -92,7 +93,7 @@
 | [GeorgianFlip.](https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [Comma, Fullstop.](https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY) | 2:18 | 2024-10-10 |  |
 | [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 | 2024-08-22 |  |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-05-16 | 2024-06-14 |
-| [gone girl](https://open.spotify.com/track/6N4Oazanr0gxYcThWKviCl) | [Siobhán Franks](https://open.spotify.com/artist/1szKdIebZ0JuD8OOHL4Mj0) | [gone girl](https://open.spotify.com/album/5VTAnvrRkHBm1P9Ne9zrM8) | 2:26 | 2024-06-06 |  |
+| [gone girl](https://open.spotify.com/track/6N4Oazanr0gxYcThWKviCl) | [Siobhán Franks](https://open.spotify.com/artist/1szKdIebZ0JuD8OOHL4Mj0) | [gone girl](https://open.spotify.com/album/5VTAnvrRkHBm1P9Ne9zrM8) | 2:26 | 2024-06-06 | 2024-11-23 |
 | [GOT HOPE](https://open.spotify.com/track/54Nvsw9uaiadlFYhBcT77q) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [GOT HOPE](https://open.spotify.com/album/5LkZsJeMdyTH0pgCxuCerM) | 2:17 | 2024-11-15 |  |
 | [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 | 2024-03-08 |
 | [Have I Been Living?](https://open.spotify.com/track/1GeJS2MpsT1bS84BXEZkUs) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Have I Been Living?](https://open.spotify.com/album/0RGPxLAT8PFE04pP79P8JD) | 3:18 | 2024-09-19 |  |

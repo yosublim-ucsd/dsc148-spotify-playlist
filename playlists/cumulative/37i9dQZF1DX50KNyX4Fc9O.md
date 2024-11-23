@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Ruel
 
-1,505 songs - 3 day 5 hr 46 min
+1,506 songs - 3 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Nothing Else Matters](https://open.spotify.com/track/3DRUVDeCVBtvhhVpQ2cJQp) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Head Noise](https://open.spotify.com/album/149BiguXHjEMV5lwOUTiwe) | 3:40 | 2023-08-17 | 2023-09-29 |
 | [NOTHING WRONG](https://open.spotify.com/track/7xYpIPjCyI5eMtxGTOZnA5) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [NOTHING WRONG](https://open.spotify.com/album/4JnbqQ7i2dHRxuye81bsYQ) | 2:56 | 2023-12-14 | 2024-01-19 |
 | [november](https://open.spotify.com/track/0GOD7WsMBZqp4AuAp0CH0E) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [november](https://open.spotify.com/album/5hr28sFuldGtJqqPrV4l5e) | 2:38 | 2023-09-21 | 2023-11-09 |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-12-01 |
 | [obsessed](https://open.spotify.com/track/56CegTUDZpDr9zJnwBWfWo) | [Marianne Leigh](https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n) | [fix me up](https://open.spotify.com/album/5FeY4xki9KBtlbzyiwaTRf) | 1:58 | 2024-11-21 |  |
 | [OBVIOUS](https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [OBVIOUS](https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W) | 3:10 | 2024-08-16 | 2024-09-13 |

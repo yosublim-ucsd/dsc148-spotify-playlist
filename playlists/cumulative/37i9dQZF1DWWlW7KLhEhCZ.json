@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 113684,
       "name": "Ainda no Mesmo Bairro (freestyle)",
       "url": "https://open.spotify.com/track/6WJ5n9z0zXKLmmO7kH91sf"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 182857,
       "name": "bb!",
       "url": "https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0"
@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 255000,
       "name": "Bosses's Marmita",
       "url": "https://open.spotify.com/track/4tpA0cnmErlJAmr5orjvtk"
@@ -5229,6 +5229,28 @@
     },
     {
       "album": {
+        "name": "Campari",
+        "url": "https://open.spotify.com/album/0qQ8gGQeBAm7U8mfzhWU41"
+      },
+      "artists": [
+        {
+          "name": "Oguto",
+          "url": "https://open.spotify.com/artist/4X9bcBEsoeNnp9QKhLMyEQ"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Campari",
+      "url": "https://open.spotify.com/track/7apw6xmVZysUaJEJZe7auL"
+    },
+    {
+      "album": {
         "name": "Cana Baleado",
         "url": "https://open.spotify.com/album/2aEATdiFkKATC61gsJ5HIv"
       },
@@ -5252,6 +5274,32 @@
       "duration_ms": 119147,
       "name": "Cana Baleado",
       "url": "https://open.spotify.com/track/3JbEdF4tVbA36P3iz0J9M5"
+    },
+    {
+      "album": {
+        "name": "2 L3Trinha (Deluxe)",
+        "url": "https://open.spotify.com/album/57kZZd9aelpP8EDZrJ0Whl"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Tuti",
+          "url": "https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "Canino",
+      "url": "https://open.spotify.com/track/1ZIgNqkdknrvq9LsiFiXbh"
     },
     {
       "album": {
@@ -9589,7 +9637,7 @@
         },
         {
           "name": "GVBE",
-          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+          "url": "https://open.spotify.com/artist/7EE0TWrostWokQre6xTloR"
         },
         {
           "name": "Ar Baby",
@@ -10292,6 +10340,32 @@
       "duration_ms": 212459,
       "name": "Drink Azul 2 (feat. TcheloBeats)",
       "url": "https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3"
+    },
+    {
+      "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/6ojG3gu6Md1xMyzVQ1kzQx"
+      },
+      "artists": [
+        {
+          "name": "Apenas Killua",
+          "url": "https://open.spotify.com/artist/3YKyGoZV0cSOTXPUHi6vxe"
+        },
+        {
+          "name": "LK OG",
+          "url": "https://open.spotify.com/artist/6uu0xGy8OBXwdw039u0H0M"
+        },
+        {
+          "name": "Marcelinx",
+          "url": "https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/3vzhAsFp7MQ2vPidyUC5i0"
     },
     {
       "album": {
@@ -16307,6 +16381,28 @@
     },
     {
       "album": {
+        "name": "LEI R.I.C.O",
+        "url": "https://open.spotify.com/album/1rAr8SO9TQ6AWe2L52gaca"
+      },
+      "artists": [
+        {
+          "name": "A\u00e7\u00faK",
+          "url": "https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "LEI R.I.C.O",
+      "url": "https://open.spotify.com/track/5mPugR7pxteMwPTP5SN1rr"
+    },
+    {
+      "album": {
         "name": "Lembra de nada",
         "url": "https://open.spotify.com/album/7zhclCdYFO1GvxpIWQIP8l"
       },
@@ -16706,6 +16802,28 @@
       "duration_ms": 163751,
       "name": "Longe do Lean",
       "url": "https://open.spotify.com/track/75qppOzDTnBtj8WhEIct5Q"
+    },
+    {
+      "album": {
+        "name": "DoZero, Vol. 1",
+        "url": "https://open.spotify.com/album/1wV8PF2xj76fGGe8DolBYb"
+      },
+      "artists": [
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "TYFFC",
+          "url": "https://open.spotify.com/artist/1DYiw55xGO2tNVjMcKV2KS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166218,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/2zqCio8nKEWHf5wt8y84PJ"
     },
     {
       "album": {
@@ -17490,7 +17608,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 149862,
       "name": "Mal Pressentimento",
       "url": "https://open.spotify.com/track/0PxNCOsTg01n05F9h2fjC2"
@@ -19832,7 +19950,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 122760,
       "name": "Mrkivah Elisa Sanches FUMANDO INIMIGOS +1x",
       "url": "https://open.spotify.com/track/0AMm6pSnWbYSMFTM0qG0QT"
@@ -20876,7 +20994,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 126666,
       "name": "Nunca Foi Sorte",
       "url": "https://open.spotify.com/track/4RMjRkkLrAiTG2QgiJaFyc"
@@ -25182,7 +25300,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 170322,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/4vOrU275AQSMMheCgffhnU"
@@ -25304,7 +25422,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 167358,
       "name": "QUER UM NEGUIN",
       "url": "https://open.spotify.com/track/2FbEnaKdZZWRA1XoFyVfHV"
@@ -26231,6 +26349,28 @@
     },
     {
       "album": {
+        "name": "RICO DO QUE IMPORTA",
+        "url": "https://open.spotify.com/album/647An87CGnenMynLaySRTs"
+      },
+      "artists": [
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107491,
+      "name": "RICO DO QUE IMPORTA",
+      "url": "https://open.spotify.com/track/2y4DfIV90JWA6aRVd1uJIe"
+    },
+    {
+      "album": {
         "name": "Rivais",
         "url": "https://open.spotify.com/album/7BOdVA4afgrgtazXLSOnzz"
       },
@@ -27062,6 +27202,28 @@
       "duration_ms": 147692,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/3oEkGJOJBH52fLFfiW59b8"
+    },
+    {
+      "album": {
+        "name": "Sem Sofrimento",
+        "url": "https://open.spotify.com/album/2AvdVu0uR1za758IJHOkAT"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Sem Sofrimento",
+      "url": "https://open.spotify.com/track/7uuEDlKZAW0pYHOqjNOow0"
     },
     {
       "album": {
@@ -28529,6 +28691,24 @@
     },
     {
       "album": {
+        "name": "Sundae",
+        "url": "https://open.spotify.com/album/6H94JoIwMErJjs6ZhUhEW2"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152740,
+      "name": "Sundae",
+      "url": "https://open.spotify.com/track/0h2wF4kJBRjpDBcSPb1Fgg"
+    },
+    {
+      "album": {
         "name": "Superficial",
         "url": "https://open.spotify.com/album/3vhZlqpbymc0Ur4X6ZKBZJ"
       },
@@ -28734,6 +28914,28 @@
       "duration_ms": 162461,
       "name": "S\u00f3 os Cria",
       "url": "https://open.spotify.com/track/3tOTG0PIvt8MoNybb3p6Nr"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Uma Vis\u00e3o (feat. $nif)",
+        "url": "https://open.spotify.com/album/45z0E5Um64fB2SbhgAqEnn"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        },
+        {
+          "name": "$nif",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208884,
+      "name": "S\u00f3 Uma Vis\u00e3o (feat. $nif)",
+      "url": "https://open.spotify.com/track/0jauurtq2PIzN2SuIYJDbZ"
     },
     {
       "album": {
@@ -30278,7 +30480,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 225230,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/0tQCvGdfWBRGvZdGkwXdF2"

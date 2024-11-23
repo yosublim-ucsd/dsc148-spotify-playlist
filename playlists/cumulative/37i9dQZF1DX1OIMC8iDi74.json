@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 137140,
       "name": "BLAOWP",
       "url": "https://open.spotify.com/track/4CEuxcbRTynTQrPecSTmFf"
@@ -1588,10 +1588,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 150110,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
+    },
+    {
+      "album": {
+        "name": "Can't Trust Anymore",
+        "url": "https://open.spotify.com/album/5rFtmbT370OYFW1yAmecPA"
+      },
+      "artists": [
+        {
+          "name": "Dottiy",
+          "url": "https://open.spotify.com/artist/0kEV3ksl6CmWB16MtDHuvx"
+        },
+        {
+          "name": "HAYASA G",
+          "url": "https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182560,
+      "name": "Can't Trust Anymore",
+      "url": "https://open.spotify.com/track/57EmvNCvsALvq307XQ3GMQ"
     },
     {
       "album": {
@@ -2248,6 +2270,24 @@
       "duration_ms": 155500,
       "name": "DDOKBOKKI",
       "url": "https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ"
+    },
+    {
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "album": {
@@ -4253,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "GO OFF!",
+        "url": "https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "MC Harvey",
+          "url": "https://open.spotify.com/artist/5qeGnz7i3dtHYtewavUgIH"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "GO OFF!",
+      "url": "https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO"
+    },
+    {
+      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
       },
@@ -4590,6 +4652,28 @@
       "duration_ms": 191244,
       "name": "Hand Up (Bass Boosted)",
       "url": "https://open.spotify.com/track/7jJDybHOdsOxKvM90HRDFu"
+    },
+    {
+      "album": {
+        "name": "Hard City 4",
+        "url": "https://open.spotify.com/album/3QmPzxbQPCTJSPyzIFy5oS"
+      },
+      "artists": [
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        },
+        {
+          "name": "Milano The Don",
+          "url": "https://open.spotify.com/artist/7lFbga7DROfkuO5gmC8Z6h"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379500,
+      "name": "Hard City 4",
+      "url": "https://open.spotify.com/track/56GuwdKJm5h3UDBASNn0rD"
     },
     {
       "album": {
@@ -6222,7 +6306,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 161052,
       "name": "Lethal Lock",
       "url": "https://open.spotify.com/track/0K3EhBKDsANKXovmGGk2Wi"
@@ -6970,7 +7054,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 237428,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
@@ -8443,6 +8527,32 @@
     },
     {
       "album": {
+        "name": "Reasonable (feat. Reo Cragun)",
+        "url": "https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "shotgunknights",
+          "url": "https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Reasonable (feat. Reo Cragun)",
+      "url": "https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53"
+    },
+    {
+      "album": {
         "name": "Moving Points",
         "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
@@ -9078,7 +9188,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 197603,
       "name": "Set The Flow",
       "url": "https://open.spotify.com/track/1GkvXqjgnH8iLLcRuhp9m7"
@@ -11596,7 +11706,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 194142,
       "name": "WE RUN THIS",
       "url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T"
@@ -11768,6 +11878,24 @@
       "duration_ms": 188000,
       "name": "Wobble",
       "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
+    },
+    {
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/4HgOamSb7rU4gf95jLtJgs"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206925,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/47pIAb5BLYGWDEr9YjShED"
     },
     {
       "album": {

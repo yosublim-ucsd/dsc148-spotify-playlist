@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Reyno en Portada.
 
-544 songs - 1 day 8 hr 55 min
+545 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-01 | 2022-07-15 |
 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 | 2021-12-17 |  |
 | [Esta Casa Era Un Hogar](https://open.spotify.com/track/2yj23afyp3bodAMpXN5oVw) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Esta Casa Era Un Hogar](https://open.spotify.com/album/4KtxoropGb0e7mVcJ7DMAP) | 3:29 | 2024-09-06 | 2024-10-26 |
+| [Esta noche](https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Esta noche](https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn) | 4:36 | 2024-11-22 |  |
 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 | 2024-06-07 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-16 | 2024-06-22 |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-10 | 2023-06-19 |

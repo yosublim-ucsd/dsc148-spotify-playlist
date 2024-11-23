@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 211619,
       "name": "Ik Munda",
       "url": "https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7"
@@ -1830,6 +1830,32 @@
       "duration_ms": 222293,
       "name": "Limitless Pyar - Live",
       "url": "https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn"
+    },
+    {
+      "album": {
+        "name": "Love Bite (feat. Sam Narula)",
+        "url": "https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt"
+      },
+      "artists": [
+        {
+          "name": "Suchita",
+          "url": "https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        },
+        {
+          "name": "Sam Narula",
+          "url": "https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Love Bite (feat. Sam Narula)",
+      "url": "https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB"
     },
     {
       "album": {
@@ -2633,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "So Toxic",
+        "url": "https://open.spotify.com/album/04e1U06TRC5ZecmA4hwbUL"
+      },
+      "artists": [
+        {
+          "name": "SHATAKSHI SHARMA",
+          "url": "https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212069,
+      "name": "So Toxic",
+      "url": "https://open.spotify.com/track/3Hdy2hhpz7oRPJ6keQbslz"
+    },
+    {
+      "album": {
         "name": "Sohna Lagda",
         "url": "https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH"
       },
@@ -2938,7 +2982,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-23",
       "duration_ms": 200597,
       "name": "The Way You Look",
       "url": "https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl"

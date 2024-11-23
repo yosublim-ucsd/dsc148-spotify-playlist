@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: YDG
 
-145 songs - 8 hr 10 min
+146 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 | 2024-11-09 |
 | [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2023-12-01 |  |
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 | 2024-11-09 |
+| [Echo](https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Echo](https://open.spotify.com/album/0NO9y6VJiLnDYZJiYwvh5L) | 2:55 | 2024-11-22 |  |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-12-01 |  |
 | [Empress](https://open.spotify.com/track/7FOKSW5gRor6OiAFb5TtEi) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Empress](https://open.spotify.com/album/3DHXtr7PruK4VAgEYq6HZF) | 2:40 | 2023-12-01 |  |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-12-01 |  |
