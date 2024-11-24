@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Martin Garrix, Jex
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,847 likes - 142 songs - 7 hr 28 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,854 likes - 142 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

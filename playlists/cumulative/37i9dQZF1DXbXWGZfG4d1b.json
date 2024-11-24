@@ -4915,6 +4915,28 @@
     },
     {
       "album": {
+        "name": "Hipercandombe",
+        "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os Dorados",
+          "url": "https://open.spotify.com/artist/1Gxd9wJiusIwHWSTt8Lk8y"
+        },
+        {
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266862,
+      "name": "Hipercandombe",
+      "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
+    },
+    {
+      "album": {
         "name": "Hojas de Sombra",
         "url": "https://open.spotify.com/album/2ir033W52DI2aqS7n50nFO"
       },
@@ -7696,7 +7718,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 263976,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  nobigdyl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,450 likes - 94 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,519 likes - 94 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

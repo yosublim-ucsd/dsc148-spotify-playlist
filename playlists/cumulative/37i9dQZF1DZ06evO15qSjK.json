@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "HOT TO GO!",
+        "url": "https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/3cN7jPYAA3oxyEOu0Or6sr"
       },

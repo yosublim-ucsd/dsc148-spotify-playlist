@@ -6,8 +6,36 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAV1lMOnDcqbFTBWkX19XjC",
+  "snapshot_id": "AAAAAAAAAADfeUCOWzvFGXkVfAZm+Cpy",
   "tracks": [
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Lions In A Zoo",
+        "url": "https://open.spotify.com/album/4xn10wQHM9sX0mQh6EBWVo"
+      },
+      "artists": [
+        {
+          "name": "Tony Tig",
+          "url": "https://open.spotify.com/artist/7unn2XYng72MittSllWuLs"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "duration_ms": 187236,
+      "name": "Lions In A Zoo",
+      "url": "https://open.spotify.com/track/2VttLlS2Q1yPYAIQ7XoT7n"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -27,42 +55,6 @@
       "duration_ms": 319912,
       "name": "HIGH & HOLY - WARRYN\u2019S GROOVE",
       "url": "https://open.spotify.com/track/5tSAiGJ7in3P3S0LiYwHsv"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 241501,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "100 percent",
-        "url": "https://open.spotify.com/album/59P7dZxEXA8ThBOonMGhb6"
-      },
-      "artists": [
-        {
-          "name": "Paully Thunda",
-          "url": "https://open.spotify.com/artist/2aD5xeudX7vtPNPilqcqMR"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "100 percent",
-      "url": "https://open.spotify.com/track/0qb2rG3zRyNgwc3mgmCD67"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -87,6 +79,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "100 percent",
+        "url": "https://open.spotify.com/album/59P7dZxEXA8ThBOonMGhb6"
+      },
+      "artists": [
+        {
+          "name": "Paully Thunda",
+          "url": "https://open.spotify.com/artist/2aD5xeudX7vtPNPilqcqMR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "100 percent",
+      "url": "https://open.spotify.com/track/0qb2rG3zRyNgwc3mgmCD67"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": ".mp3s",
         "url": "https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q"
       },
@@ -99,6 +111,54 @@
       "duration_ms": 167154,
       "name": "s2wik",
       "url": "https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Songs For Humanity",
+        "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
+      },
+      "artists": [
+        {
+          "name": "Playing For Change",
+          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 365217,
+      "name": "Biko",
+      "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -179,42 +239,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
       },
@@ -275,22 +299,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+        "name": "Sunshine (My Girl) [Galantis Reshine]",
+        "url": "https://open.spotify.com/album/6HiP9cKhki1PlP0Czfm6vH"
       },
       "artists": [
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         },
         {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 172338,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+      "duration_ms": 151491,
+      "name": "Sunshine (My Girl) - Galantis Reshine",
+      "url": "https://open.spotify.com/track/4upxdPRXgbUxTQ5yDPHueZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -315,42 +339,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Workload",
-        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
       },
       "artists": [
         {
-          "name": "Skyzoo",
-          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 191445,
-      "name": "The Workload",
-      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Sunshine (My Girl) [Galantis Reshine]",
-        "url": "https://open.spotify.com/album/6HiP9cKhki1PlP0Czfm6vH"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 151491,
-      "name": "Sunshine (My Girl) - Galantis Reshine",
-      "url": "https://open.spotify.com/track/4upxdPRXgbUxTQ5yDPHueZ"
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -395,42 +395,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Satisfied Soul EP",
-        "url": "https://open.spotify.com/album/60IcrtB8SgqNdUg5P8kvHU"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Ant",
-          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
-        }
-      ],
-      "duration_ms": 187192,
-      "name": "Deep Cuts",
-      "url": "https://open.spotify.com/track/3Pp7oNLlILdmCm83VZQa9J"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Original Sin (Ian Green Mix)",
         "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
       },
@@ -447,6 +411,26 @@
       "duration_ms": 253560,
       "name": "Original Sin - Ian Green Mix",
       "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Satisfied Soul EP",
+        "url": "https://open.spotify.com/album/60IcrtB8SgqNdUg5P8kvHU"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "duration_ms": 187192,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/3Pp7oNLlILdmCm83VZQa9J"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -531,26 +515,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "No More Costumes",
-        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
-      },
-      "artists": [
-        {
-          "name": "Ave the Fox",
-          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "Black Batman",
-      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
         "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
       },
@@ -563,26 +527,6 @@
       "duration_ms": 663217,
       "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
       "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "The Year of The Dragon",
-        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
-      },
-      "artists": [
-        {
-          "name": "Juke Drastik",
-          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 175604,
-      "name": "Verbal Swords - Remix",
-      "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -611,30 +555,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Like A Tree It Grows",
-        "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
+        "name": "The Year of The Dragon",
+        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
       },
       "artists": [
         {
-          "name": "Igmar Thomas\u2019 Revive Big Band",
-          "url": "https://open.spotify.com/artist/7uIAgElmviS97UBia9I6BP"
+          "name": "Juke Drastik",
+          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
         },
         {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 421094,
-      "name": "PLAY IT BACK",
-      "url": "https://open.spotify.com/track/6iIm2TCtfNPXODSL3P0z96"
+      "duration_ms": 175604,
+      "name": "Verbal Swords - Remix",
+      "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -663,46 +599,6 @@
       "duration_ms": 259750,
       "name": "The Source",
       "url": "https://open.spotify.com/track/5HDOKsCfllv5gOfJAOd9Z7"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "The Essential Melody Gardot",
-        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 384827,
-      "name": "La Llorona - Live",
-      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Merci",
-        "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Berceuse, Op. 16",
-      "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
     },
     {
       "added_at": "2024-11-22 05:00:00",

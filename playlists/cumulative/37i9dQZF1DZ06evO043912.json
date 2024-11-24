@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Sunny Ade the Master Guitarist, Vol. 1",
+        "url": "https://open.spotify.com/album/67kj63EqtPY6Yvu9RZ5SxB"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209841,
+      "name": "Gbe Mi Debute Ogo",
+      "url": "https://open.spotify.com/track/5eHjYZTh6AsQGUFioQCTBK"
+    },
+    {
+      "album": {
         "name": "The Best of the Classic Years",
         "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },

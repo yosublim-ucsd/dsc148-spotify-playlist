@@ -12015,6 +12015,28 @@
     },
     {
       "album": {
+        "name": "Sweet For Joy",
+        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
+      },
+      "artists": [
+        {
+          "name": "Amexin",
+          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165159,
+      "name": "Sweet For Joy",
+      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -13288,7 +13310,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"

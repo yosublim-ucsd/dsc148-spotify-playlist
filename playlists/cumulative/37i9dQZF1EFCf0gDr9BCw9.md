@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-193 songs - 14 hr 32 min
+194 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Love Came](https://open.spotify.com/track/0hUGRFMgiVFJ9njDHHokyl) | [Darius de Haas](https://open.spotify.com/artist/4yYe2kXNFtGFEExk6Py57R) | [Day Dream \(Variations on Strayhorn\)](https://open.spotify.com/album/51grlB2aN7VwTUEbdvk49v) | 2:22 | 2024-03-11 | 2024-03-14 |
 | [Love Has Passed Me By Again](https://open.spotify.com/track/7nvFlRf2uHSzdcfLaM6Hg4) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 | 2022-09-08 |  |
 | [Lozit](https://open.spotify.com/track/4xBCIDH136EpQCzmbQqN1k) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:20 | 2022-09-08 |  |
-| [Lush Life](https://open.spotify.com/track/0i6JF8OHlrX1Rxe13GbDnC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:14 | 2022-09-08 |  |
+| [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 | 2024-11-23 |  |
+| [Lush Life](https://open.spotify.com/track/0i6JF8OHlrX1Rxe13GbDnC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:14 | 2022-09-08 | 2024-11-24 |
 | [Madness In Great Ones \(Hamlet\)](https://open.spotify.com/track/7IFXoiY6BATGg2uzOwaSvP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 | 2022-09-08 |  |
 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 | 2022-09-08 |  |
 | [Maybe](https://open.spotify.com/track/6jSOQzZ92aPKN0p2m09y2n) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:02 | 2022-09-08 |  |

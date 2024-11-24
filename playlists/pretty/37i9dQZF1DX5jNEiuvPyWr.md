@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : GS
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,191 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,194 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 37 | [Cômelepadre.](https://open.spotify.com/track/7ciz0C3oekfibO6zLUiZEO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ) | [APHANTASIA](https://open.spotify.com/album/1njQ4QdbKaz7d5aATknk5J) | 2:58 |
 | 38 | [Wolverine](https://open.spotify.com/track/1CxsBUL6NC5XUzyyOZF43l) | [Marvin Garcia](https://open.spotify.com/artist/2YxqzJj7fOGIxYeWb6NYSN) | [Wolverine](https://open.spotify.com/album/5IzvSeWOJQk8yTDyHDQRcD) | 1:42 |
 | 39 | [All You Need Is You \(feat\. Khali\)](https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:11 |
-| 40 | [KISAME](https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [KISAME](https://open.spotify.com/album/0boS7L678ymaQI47fJWul6) | 3:31 |
+| 40 | [KISAME \(feat\. Bakari\)](https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [KISAME \(feat\. Bakari\)](https://open.spotify.com/album/0boS7L678ymaQI47fJWul6) | 3:31 |
 
 Snapshot ID: `Zz+7cAAAAAAo4S4ResMowZvn1f8mFxqf`

@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 90588,
+  "num_followers": 90767,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Ain't Nothing Changed",
-      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 217240,
       "name": "Bonita Applebum",
       "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Ain't Nothing Changed",
+      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 357960,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Rising Son",
         "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 565502,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 357960,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
     },
     {
       "added_at": "2024-10-04 17:28:20",

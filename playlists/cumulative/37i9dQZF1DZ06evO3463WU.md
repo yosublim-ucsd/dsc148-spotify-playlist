@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 53 min
+122 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Mi Gran Problema](https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:35 | 2022-11-10 | 2024-09-16 |
 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 | 2024-09-16 |  |
 | [Mi Otro Yo](https://open.spotify.com/track/4gFYzRYDKCxOsaPOcvCnZG) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Otro Yo](https://open.spotify.com/album/4f8sDGxic3BjR3fpgOmWnI) | 3:55 | 2024-09-14 | 2024-10-12 |
+| [Mi Otro Yo \- Versión Banda](https://open.spotify.com/track/2Y5CY6BDY6pTTWAeIEvIeL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [Mi Otro Yo \(Versión Banda\)](https://open.spotify.com/album/4hRV6zeXYaYhjULJyIn8qs) | 3:26 | 2024-11-24 |  |
 | [Mira, Mira, Mirala](https://open.spotify.com/track/4VwCdk0DCQD0rnOhAR9Vab) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cien Por Ciento](https://open.spotify.com/album/4Wm2IxN5wuPAvBALzbF7Tt) | 3:09 | 2022-06-01 | 2022-12-19 |
 | [Mis Canciones de Amor](https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 2:50 | 2022-06-01 | 2024-09-12 |
 | [Mis Canciones De Amor](https://open.spotify.com/track/5ttZh9rIWewrlBShMUYZsZ) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:51 | 2024-09-12 |  |

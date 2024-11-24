@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jadu Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,366 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,392 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 2 | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B), [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/album/4EZjQSyZOGk0SLt2JqVOae) | 2:46 |
 | 3 | [Too Late Now](https://open.spotify.com/track/4K9eOKTYeSCrh4TdWiWgG5) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Too Late Now](https://open.spotify.com/album/1RYKlpXlpCOtF2d8pUuUX6) | 2:47 |
 | 4 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 |
-| 5 | [Hiatus \- David Bay \- Remix](https://open.spotify.com/track/5KWedn4caEvgNdxa5Avxjr) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Hiatus \- David Bay](https://open.spotify.com/album/1ccMHEajn9FBfBWiDHiJ7c) | 2:58 |
+| 5 | [Hiatus \(David Bay Remix\)](https://open.spotify.com/track/5KWedn4caEvgNdxa5Avxjr) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Hiatus \(David Bay Remix\)](https://open.spotify.com/album/1ccMHEajn9FBfBWiDHiJ7c) | 2:58 |
 | 6 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 |
 | 7 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
 | 8 | [Dance on the World](https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dance on the World](https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d) | 3:34 |

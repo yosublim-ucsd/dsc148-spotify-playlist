@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21027,
+  "num_followers": 21032,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 204800,
+      "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
     },
@@ -64,8 +64,8 @@
           "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "MC Harvey",
-          "url": "https://open.spotify.com/artist/5qeGnz7i3dtHYtewavUgIH"
+          "name": "Harvey",
+          "url": "https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5"
         }
       ],
       "duration_ms": 173793,
@@ -1514,6 +1514,10 @@
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
         }
       ],
       "duration_ms": 157028,

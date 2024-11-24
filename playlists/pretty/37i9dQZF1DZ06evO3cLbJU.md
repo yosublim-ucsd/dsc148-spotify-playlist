@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,915 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,938 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 38 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
 | 39 | [El Baile de la Colina](https://open.spotify.com/track/4QpW7Ufhek26AzJGtcN08f) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:13 |
 | 40 | [Nuestro Verano](https://open.spotify.com/track/50wYKEBgPlO1oDdMqTFqAc) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:22 |
-| 41 | [Sábado](https://open.spotify.com/track/77bPb4aA6Kllu8IbOi732c) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 3:08 |
-| 42 | [Vestida de Poder](https://open.spotify.com/track/7r6AbNKECW9rKrj7tkotEU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Chica de Oro](https://open.spotify.com/album/2mCoE7CFjrCbi99InNkFgr) | 4:45 |
-| 43 | [Provincia de Buenos Aires](https://open.spotify.com/track/2RT7CiOobV3IkNHTgnbbPv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 1:43 |
+| 41 | [Vestida de Poder](https://open.spotify.com/track/7r6AbNKECW9rKrj7tkotEU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Chica de Oro](https://open.spotify.com/album/2mCoE7CFjrCbi99InNkFgr) | 4:45 |
+| 42 | [Provincia de Buenos Aires](https://open.spotify.com/track/2RT7CiOobV3IkNHTgnbbPv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 1:43 |
+| 43 | [El Último Sereno](https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:25 |
 | 44 | [Tormenta Roja](https://open.spotify.com/track/7fPLnlCyD60NhqtdGJ1vsP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:40 |
-| 45 | [El Último Sereno](https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:25 |
-| 46 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 |
-| 47 | [El Rey de la Tv Italiana](https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:28 |
-| 48 | [Prenderte Fuego](https://open.spotify.com/track/4mkbh7PyMxXheU7acmPX9T) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 2:43 |
+| 45 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 |
+| 46 | [El Rey de la Tv Italiana](https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:28 |
+| 47 | [Prenderte Fuego](https://open.spotify.com/track/4mkbh7PyMxXheU7acmPX9T) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 2:43 |
+| 48 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 |
 | 49 | [La Celebración del Fuego](https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 2:47 |
-| 50 | [Doctora Muerte](https://open.spotify.com/track/4YRJMFdjebSnTGXwT7egSI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:26 |
+| 50 | [Lenguas de Fuego en el Cielo](https://open.spotify.com/track/6Z07AuS1QEeFv3vN6ENZNs) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:40 |
 
-Snapshot ID: `Zz54AAAAAACGaJgQkU5RgNrrjlNdi3f+`
+Snapshot ID: `Zz/JgAAAAACeclN1zan5dEFMdHN+UERc`

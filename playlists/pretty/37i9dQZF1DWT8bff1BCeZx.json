@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18763,
+  "num_followers": 18769,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     },
     {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        }
+      ],
+      "duration_ms": 378795,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
+    },
+    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Miracles",
@@ -817,20 +833,20 @@
       "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj"
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
       },
       "artists": [
         {
-          "name": "Kent Edunjobi",
-          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 378795,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -851,22 +867,6 @@
       "duration_ms": 150000,
       "name": "Big God",
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "KDO",
-        "url": "https://open.spotify.com/album/0etHjipRafoS8q6t6WvyoG"
-      },
-      "artists": [
-        {
-          "name": "Ks Bloom",
-          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Joyeux Anniversaire",
-      "url": "https://open.spotify.com/track/6VW2QFRGAN6BVcDQHRPlOr"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "RADICAL",
@@ -941,24 +925,40 @@
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
-      "added_at": "2024-11-01 00:01:00",
+      "added_at": "2024-10-11 00:01:00",
       "album": {
-        "name": "Young & Chosen (Power Pack)",
-        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
+        "name": "KDO",
+        "url": "https://open.spotify.com/album/0etHjipRafoS8q6t6WvyoG"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+          "name": "Ks Bloom",
+          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
         }
       ],
-      "duration_ms": 144059,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
+      "duration_ms": 104000,
+      "name": "Joyeux Anniversaire",
+      "url": "https://open.spotify.com/track/6VW2QFRGAN6BVcDQHRPlOr"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Tout nouveau tout beau",
+        "url": "https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv"
+      },
+      "artists": [
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Tout nouveau tout beau",
+      "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -985,20 +985,24 @@
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+        "name": "Young & Chosen (Power Pack)",
+        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         }
       ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+      "duration_ms": 144059,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
     }
   ],
   "unique_name": "Higher",

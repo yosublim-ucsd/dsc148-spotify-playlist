@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 36 | [Another Bad Day](https://open.spotify.com/track/0tfsddygJQJiwHN28Rt1RL) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:49 |
 | 37 | [BEHIND HER EYES](https://open.spotify.com/track/0oLTMWHAK6LNqvrtgnw0Nw) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [BEHIND HER EYES / MISSING IN ACTION](https://open.spotify.com/album/6EHi6cp5n07JpU0jSMX1QI) | 4:26 |
 | 38 | [LIFE AS WE DREAMED](https://open.spotify.com/track/2xItCQmOOhSx7daRBXYAW8) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 1:46 |
-| 39 | [SAVITRI](https://open.spotify.com/track/4ZCK5ucXFABWM5EQYhcaEe) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:58 |
-| 40 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 |
+| 39 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 |
+| 40 | [SAVITRI](https://open.spotify.com/track/4ZCK5ucXFABWM5EQYhcaEe) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:58 |
 | 41 | [ELECTRIC ENIGMA](https://open.spotify.com/track/0N7RV4p7zbRcMmyPjq6Mrk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:36 |
 | 42 | [Heart Eyes](https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Heart Eyes](https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN) | 2:58 |
 | 43 | [EAT THIS & FUCK UR DOUBT](https://open.spotify.com/track/075xJ4uJYtEZiuIHzUCsgk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:42 |
 | 44 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
-| 45 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
+| 45 | [Coco Rouge](https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Coco Rouge](https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t) | 3:27 |
+| 46 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AbiN6gAAAAALDb/qLJ5xSpic4XBoSx2w`
+Snapshot ID: `AbiTgAAAAADxbHTYq6CrU++SZLnqgxIB`

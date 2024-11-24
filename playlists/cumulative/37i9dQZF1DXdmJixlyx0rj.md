@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: THE FIX\(더 픽스\)\)
 
-213 songs - 12 hr 5 min
+214 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 |  |
 | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks) | 3:34 | 2024-06-28 |  |
 | [Feel It](https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Feel It](https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H) | 2:19 | 2024-06-28 | 2024-08-16 |
+| [Felony](https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz) | [Rockett](https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2) | [Love Crime](https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h) | 2:34 | 2024-11-05 |  |
 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-16 |  |
 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Aiobahn Remix](https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 4:34 | 2024-04-05 | 2024-06-29 |
@@ -206,7 +207,7 @@
 | [TROUBLE \- arcon Remix](https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml), [arcon](https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw) | [TROUBLE \(arcon Remix\)](https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T) | 3:30 | 2024-09-24 |  |
 | [Until I Saw You](https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt) | [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [Kevin Krissen](https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI), [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw) | [Until I Saw You](https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd) | 3:27 | 2024-04-05 | 2024-09-02 |
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2024-06-28 |  |
-| [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-09-01 |  |
+| [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-09-01 | 2024-11-24 |
 | [Virus](https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Virus](https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I) | 2:32 | 2024-06-28 |  |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 | 2024-06-29 |
 | [We The One](https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [We The One](https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP) | 3:15 | 2024-06-28 |  |

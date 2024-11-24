@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAdnUFldA4yN/hJAZXwXMh4ut2elZ5Y",
+  "snapshot_id": "AAAdnw1EqxHlcy1Tmys1LFJiOmVnCcVb",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -2211,6 +2211,38 @@
       "duration_ms": 174545,
       "name": "Gunsmoke Town",
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "added_at": "2024-11-23 19:14:49",
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
+    },
+    {
+      "added_at": "2024-11-23 21:03:23",
+      "album": {
+        "name": "The Crossroads",
+        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R"
     }
   ],
   "unique_name": "main ",

@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 384708,
+  "num_followers": 384977,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
       "artists": [
         {
           "name": "Fernandinho",
           "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -507,22 +511,18 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
       "artists": [
         {
           "name": "Fernandinho",
           "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+      "duration_ms": 278000,
+      "name": "Uma Nova Hist\u00f3ria - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 264188,
-      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
         "name": "Estrela da Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 208025,
       "name": "Estrela da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
+        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 264188,
+      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1199,6 +1199,26 @@
       "duration_ms": 392556,
       "name": "Os Planos de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0fO7XrdPkRXe7k0TzII9Br"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
+        "name": "Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 386420,
+      "name": "Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 386420,
-      "name": "Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
         "name": "Mil Motivos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 296800,
       "name": "Mil Motivos - Ao Vivo",
       "url": "https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
+        "name": "Voz de Trov\u00e3o",
+        "url": "https://open.spotify.com/album/2N551Plznn22YszuHisFmW"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 379504,
+      "name": "Voz de Trov\u00e3o",
+      "url": "https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Voz de Trov\u00e3o",
-        "url": "https://open.spotify.com/album/2N551Plznn22YszuHisFmW"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 379504,
-      "name": "Voz de Trov\u00e3o",
-      "url": "https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
         "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
         "name": "Primeiro Lugar",
         "url": "https://open.spotify.com/album/4dw3smVMrJYqXZfFsG2zBo"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 282917,
       "name": "Primeiro Lugar",
       "url": "https://open.spotify.com/track/3VVnCaLoXoThHNhrQ8sqFq"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
+    },
+    {
+      "added_at": "2024-11-22 02:39:33",
+      "album": {
         "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe (Ao Vivo)",
         "url": "https://open.spotify.com/album/4H6fBnVIQ4gdnBbcHtjmII"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 704453,
       "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
       "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
-    },
-    {
-      "added_at": "2024-11-22 02:39:33",
-      "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1859,8 +1859,8 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
       },
       "artists": [
         {
@@ -1868,13 +1868,13 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         },
         {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
         }
       ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -1963,8 +1963,8 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
       },
       "artists": [
         {
@@ -1972,13 +1972,13 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         },
         {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         }
       ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": "2024-11-22 02:39:33",
@@ -2239,22 +2239,26 @@
     {
       "added_at": "2024-11-22 02:39:33",
       "album": {
-        "name": "Tua Gra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1YEfMUs2IdEPSAkWIfW191"
+        "name": "Digno \u00c9 O Cordeiro \u2022 BRAVE Night (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW"
       },
       "artists": [
         {
-          "name": "Novo Tempo",
-          "url": "https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e"
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
         },
         {
-          "name": "Dilson e D\u00e9bora",
-          "url": "https://open.spotify.com/artist/3i21tba5PzQz8F5HuwyIHV"
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "Juliana Kontopp",
+          "url": "https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J"
         }
       ],
-      "duration_ms": 246816,
-      "name": "Tua Gra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mSZzr3rJ5vITYI4XRuHBt"
+      "duration_ms": 591839,
+      "name": "Digno \u00c9 O Cordeiro \u2022 BRAVE Night - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

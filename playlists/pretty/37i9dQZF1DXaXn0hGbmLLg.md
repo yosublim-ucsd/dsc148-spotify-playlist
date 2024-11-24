@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:4hj9dun9KpnBukLv7Hgfkr">Rikki \(RONDÉ\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,782 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,783 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 92 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 |
 | 93 | [Overdue](https://open.spotify.com/track/0w041cVb5GvPmrMZG1gJN7) | [Ivori Moss](https://open.spotify.com/artist/7H8hCcQ68PPXq3KjWBNnTB) | [Overdue](https://open.spotify.com/album/2ykUyBsX93ruS03b21aZpT) | 3:00 |
 | 94 | [Autopilot](https://open.spotify.com/track/3BW3V6TAaool6YbyakcJWA) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Autopilot](https://open.spotify.com/album/3VpUMtoPIQKa82kqcCpp2u) | 3:02 |
-| 95 | [F\*cked Again](https://open.spotify.com/track/35I3cNM0DHj0sCSuL6PYlm) | [KIND HUMAN](https://open.spotify.com/artist/5LiAxF7Px6i7yypahrFrZV) | [F\*cked Again](https://open.spotify.com/album/2NTC0GVpIHrcrDNOb6fMaT) | 3:07 |
+| 95 | [Fucked Again](https://open.spotify.com/track/35I3cNM0DHj0sCSuL6PYlm) | [KIND HUMAN](https://open.spotify.com/artist/5LiAxF7Px6i7yypahrFrZV) | [Fucked Again](https://open.spotify.com/album/2NTC0GVpIHrcrDNOb6fMaT) | 3:07 |
 | 96 | [TU TU TU](https://open.spotify.com/track/5XkrGRgvLJjlCd4eTVtmIR) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq) | [TU TU TU](https://open.spotify.com/album/4L2RoXiMtWY08K40YEx8Cy) | 1:48 |
 | 97 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 |
 | 98 | [doucement](https://open.spotify.com/track/7u1iL3ee7sdto7gjOnMan9) | [julie rains](https://open.spotify.com/artist/0HJiiiCk4wwexiprJ8Qs3k) | [doucement](https://open.spotify.com/album/4QUceiKo3MAKE1ADMbD9Q5) | 4:10 |

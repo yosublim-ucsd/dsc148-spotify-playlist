@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino",
-  "num_followers": 192598,
+  "num_followers": 192703,
   "original_name": "FOLCLORE ARGENTINO",
   "owner": {
     "name": "Spotify",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-11-19 13:05:48",
       "album": {
-        "name": "Balderrama",
-        "url": "https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC"
-    },
-    {
-      "added_at": "2024-11-19 13:05:48",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2024-11-19 13:05:48",
+      "album": {
+        "name": "Balderrama",
+        "url": "https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 250801,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC"
     },
     {
       "added_at": "2024-11-19 13:05:48",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2024-11-19 13:05:48",
       "album": {
-        "name": "Luna Tucumana",
-        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
+        "name": "Aqui Cosquin",
+        "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "Los Quilla Huasi",
+          "url": "https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk"
+        },
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 261055,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
+      "duration_ms": 181386,
+      "name": "Romance de Plumas Verdes",
+      "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
     },
     {
       "added_at": "2024-11-19 13:05:48",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2024-11-19 13:05:48",
       "album": {
-        "name": "Aqui Cosquin",
-        "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
+        "name": "Luna Tucumana",
+        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
       },
       "artists": [
         {
-          "name": "Los Quilla Huasi",
-          "url": "https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk"
-        },
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Romance de Plumas Verdes",
-      "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+      "duration_ms": 261055,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
     },
     {
       "added_at": "2024-11-19 13:05:48",

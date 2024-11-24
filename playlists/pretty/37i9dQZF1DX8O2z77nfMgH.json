@@ -1,65 +1,13 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Ricardo Arjona",
-  "num_followers": 885450,
+  "num_followers": 885570,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0DK/gAAAABp+5fXYmjN4X5RhGeFl6r2",
+  "snapshot_id": "Z0HeSwAAAAAxiY6umYfk86XoAJV0SAvA",
   "tracks": [
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Despacio Que Hay Prisa",
-        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 302597,
-      "name": "Despacio Que Hay Prisa",
-      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "SHEITE",
-        "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 131489,
-      "name": "SHEITE",
-      "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
-    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -95,46 +43,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "SQ (W Sound 04)",
-        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
+        "name": "Tus Labios (Remix)",
+        "url": "https://open.spotify.com/album/72nce0yOlybMLWDJQKOuS9"
       },
       "artists": [
         {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 153402,
-      "name": "SQ - W Sound 04",
-      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Whisky & Marihuana",
-        "url": "https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s"
-      },
-      "artists": [
-        {
-          "name": "EL VALLE DE LOS REYES",
-          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 203875,
-      "name": "Whisky & Marihuana",
-      "url": "https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox"
+      "duration_ms": 195903,
+      "name": "Tus Labios - Remix",
+      "url": "https://open.spotify.com/track/6yNpqq8YAbN4HpJBGcPVxX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -159,6 +83,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "\u00bfQu\u00e9 Te Parece?",
         "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
@@ -179,22 +123,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Le Apodan El Fresa",
-        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
+        "name": "Despacio Que Hay Prisa",
+        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 194541,
-      "name": "Le Apodan El Fresa",
-      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
+      "duration_ms": 302597,
+      "name": "Despacio Que Hay Prisa",
+      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -223,6 +163,150 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Sin Gps",
+        "url": "https://open.spotify.com/album/3TYIfFHZY1VobGddvBbebD"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Sin Gps",
+      "url": "https://open.spotify.com/track/3pIPpQpw4ytCo8LOy4pozN"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "SHEITE",
+        "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 131489,
+      "name": "SHEITE",
+      "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "SQ (W Sound 04)",
+        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "SQ - W Sound 04",
+      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Adicto (feat. Gino Mella) [Remix]",
+        "url": "https://open.spotify.com/album/1kcT90OkX54s3C1jSrRmmo"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Adicto (feat. Gino Mella) - Remix",
+      "url": "https://open.spotify.com/track/6HsLCCUX3nLP8Wr9OXcWOT"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Whisky & Marihuana",
+        "url": "https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s"
+      },
+      "artists": [
+        {
+          "name": "EL VALLE DE LOS REYES",
+          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 203875,
+      "name": "Whisky & Marihuana",
+      "url": "https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "XULOS SOCIAL CLUB",
+        "url": "https://open.spotify.com/album/4FENcijyjEiwy2aS089yMN"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "duration_ms": 220001,
+      "name": "estar con un G",
+      "url": "https://open.spotify.com/track/6uZw0FaqLS5vngJMACAmJo"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Le Apodan El Fresa",
+        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Le Apodan El Fresa",
+      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -323,26 +407,6 @@
       "duration_ms": 197031,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tus Labios (Remix)",
-        "url": "https://open.spotify.com/album/72nce0yOlybMLWDJQKOuS9"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 195903,
-      "name": "Tus Labios - Remix",
-      "url": "https://open.spotify.com/track/6yNpqq8YAbN4HpJBGcPVxX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -455,50 +519,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Sin Gps",
-        "url": "https://open.spotify.com/album/3TYIfFHZY1VobGddvBbebD"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Sin Gps",
-      "url": "https://open.spotify.com/track/3pIPpQpw4ytCo8LOy4pozN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Adicto (feat. Gino Mella) [Remix]",
-        "url": "https://open.spotify.com/album/1kcT90OkX54s3C1jSrRmmo"
-      },
-      "artists": [
-        {
-          "name": "Carlitos Rossy",
-          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        }
-      ],
-      "duration_ms": 219616,
-      "name": "Adicto (feat. Gino Mella) - Remix",
-      "url": "https://open.spotify.com/track/6HsLCCUX3nLP8Wr9OXcWOT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mazorkeo.com",
         "url": "https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 180666,
       "name": "QUEBRANTO",
       "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "XULOS SOCIAL CLUB",
-        "url": "https://open.spotify.com/album/4FENcijyjEiwy2aS089yMN"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 220001,
-      "name": "estar con un G",
-      "url": "https://open.spotify.com/track/6uZw0FaqLS5vngJMACAmJo"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "La Colombiana",
+        "url": "https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "La Colombiana",
+      "url": "https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Movistar",
         "url": "https://open.spotify.com/album/3OWOBMBX72FiGYI73DH2t0"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 230774,
       "name": "TIMIDA (feat. Jowell)",
       "url": "https://open.spotify.com/track/27u5RlcTPYpR39OAGsvY7w"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "ANGELITO",
+        "url": "https://open.spotify.com/album/1wIbAOcYH3TDxkWI1Zcb5K"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "duration_ms": 140510,
+      "name": "ANGELITO",
+      "url": "https://open.spotify.com/track/0dTMGvsO9YpApxkZQoPi4J"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -925,36 +957,24 @@
       "url": "https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-22 18:18:38",
       "album": {
-        "name": "La Colombiana",
-        "url": "https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju"
+        "name": "201",
+        "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "La Colombiana",
-      "url": "https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "ANGELITO",
-        "url": "https://open.spotify.com/album/1wIbAOcYH3TDxkWI1Zcb5K"
-      },
-      "artists": [
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
         {
-          "name": "Jhay P",
-          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         }
       ],
-      "duration_ms": 140510,
-      "name": "ANGELITO",
-      "url": "https://open.spotify.com/track/0dTMGvsO9YpApxkZQoPi4J"
+      "duration_ms": 211986,
+      "name": "Yo No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/1rXysuGx7o2Oj6cDSK47SO"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1155,7 +1175,7 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "GabiN.E.T.E.2",
+        "name": "GabiN.E.T.E 2",
         "url": "https://open.spotify.com/album/0mlBCtbocNvoPxNP1apEF7"
       },
       "artists": [
@@ -1367,26 +1387,6 @@
       "duration_ms": 176000,
       "name": "Fkn Trunky",
       "url": "https://open.spotify.com/track/2FWWoMFrP4wW0kzrNLSCIi"
-    },
-    {
-      "added_at": "2024-11-22 18:18:38",
-      "album": {
-        "name": "201",
-        "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Yo No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/1rXysuGx7o2Oj6cDSK47SO"
     }
   ],
   "unique_name": "Novedades Viernes Latinoam\u00e9rica",

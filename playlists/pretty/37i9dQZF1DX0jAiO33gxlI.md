@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp22, Sain, Major RD, Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,827 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,823 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peso do Mundo](https://open.spotify.com/track/2wcv3BDS3izeQpJt7vyf03) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Peso do Mundo](https://open.spotify.com/album/3m2BryLnwL0MBAKx7PGQ7S) | 3:46 |
 | 2 | [Bodas de Aço](https://open.spotify.com/track/1ekFzswqF5QRomaksdjTBa) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Bodas de Aço](https://open.spotify.com/album/6njVKNxCiLdGO1Lw5HmHW8) | 3:13 |
-| 3 | [Nós Dois](https://open.spotify.com/track/1ZX6WNP2hSmZcdNAay6Lh4) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Nós Dois](https://open.spotify.com/album/6X3upji1YCxgak4sxlGvQ4) | 2:48 |
+| 3 | [Nós Dois](https://open.spotify.com/track/1ZX6WNP2hSmZcdNAay6Lh4) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [guto!](https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep), [Digo](https://open.spotify.com/artist/2dcYwUve7HEtsLfNRWUrJG) | [Nós Dois](https://open.spotify.com/album/6X3upji1YCxgak4sxlGvQ4) | 2:48 |
 | 4 | [Não Seja Mais Um Pilantra](https://open.spotify.com/track/3NgrtUV5phVMrmSLfbwtJW) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [DJ RM Brasil](https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G) | [A Mensagem](https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9) | 5:01 |
 | 5 | [Que Tal Blues?](https://open.spotify.com/track/1odEl0FOMYcBm8VegjN8HM) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Lion emici](https://open.spotify.com/artist/3BXKze5j6r6F5OfvWDYa8z) | [Pálido Ponto Azul](https://open.spotify.com/album/6JUTiJBMt3ful2dyaB6SWh) | 3:20 |
 | 6 | [A Dança \- Ao Vivo](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Funk Superação \(Ao Vivo\)](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 4:04 |

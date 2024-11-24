@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 85117,
+  "num_followers": 85145,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 193177,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 191386,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Voice That Is!",
-        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "At The End Of The Day",
         "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 262000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Voice That Is!",
+        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Les Brown & His Orchestra",
-          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 184253,
-      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
-      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Les Brown & His Orchestra",
+          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+      "duration_ms": 184253,
+      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
+      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "I'm Gonna Laugh You Out of My Life",
+      "url": "https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "How Could You",
         "url": "https://open.spotify.com/album/0qY5Zfzo9OyXobt1JJgSKH"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 216790,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "I'm Gonna Laugh You Out of My Life",
-      "url": "https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu"
     },
     {
       "added_at": "2024-09-03 09:10:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Bhavi & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,000 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,031 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 14 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 |
 | 15 | [Pesaita \(feat\. King Savagge\)](https://open.spotify.com/track/5OlIlD3kkwDwksTw1hOhMb) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pesaita \(feat\. King Savagge\)](https://open.spotify.com/album/16xhGdp4SNXesfciBTmFAF) | 3:47 |
 | 16 | [Bastardo \(feat\. Ñengo Flow & Jere Klein\)](https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 4:24 |
-| 17 | [Duele](https://open.spotify.com/track/1HZku817EfO2AMz1iU8YW8) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Duele](https://open.spotify.com/album/2rQKOF0n5Kq3VwEQK3XEOX) | 2:29 |
+| 17 | [Duele](https://open.spotify.com/track/1HZku817EfO2AMz1iU8YW8) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Duele](https://open.spotify.com/album/2rQKOF0n5Kq3VwEQK3XEOX) | 2:18 |
 | 18 | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5) | [Enrolar \(Fantastic Four Remix\)](https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO) | 5:03 |
 | 19 | [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 |
 | 20 | [estar con un G](https://open.spotify.com/track/6uZw0FaqLS5vngJMACAmJo) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [XULOS SOCIAL CLUB](https://open.spotify.com/album/4FENcijyjEiwy2aS089yMN) | 3:40 |

@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 177192,
       "name": "CERIGNOLA CAMPAGNA",
       "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
@@ -1392,6 +1392,24 @@
       "duration_ms": 174615,
       "name": "Giornata vuota",
       "url": "https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19"
+    },
+    {
+      "album": {
+        "name": "Ora",
+        "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "Godspeed / Fili d'Erba",
+      "url": "https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF"
     },
     {
       "album": {
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 175426,
       "name": "Portami via",
       "url": "https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw"
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 164568,
       "name": "Salem",
       "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"

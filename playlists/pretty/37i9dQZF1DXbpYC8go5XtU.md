@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,368 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,442 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 45 | [Destiny](https://open.spotify.com/track/1crOmVyAzM4rNDc6uMHW5l) | [Strolle](https://open.spotify.com/artist/18Ow08CDayCv7wzb6jATnr) | [Destiny](https://open.spotify.com/album/69tdHQnMuEn3JELYRGhFRi) | 2:51 |
 | 46 | [Culmination \- Spa](https://open.spotify.com/track/0VhT7d3UP1ugfYD8vWD522) | [Imaginary Landscapes](https://open.spotify.com/artist/6HvFu85LrPSSlGAbSSJfJr) | [Culmination](https://open.spotify.com/album/45aJHzBQc5YjbalyM2gX7J) | 3:40 |
 | 47 | [Painted Canvas](https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ) | 5:52 |
-| 48 | [Nótt \(Theta Waves\)](https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Nótt \(Theta Waves\)](https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe) | 4:03 |
+| 48 | [Nótt \(Theta Waves\)](https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Nótt \(Theta Waves\)](https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe) | 4:03 |
 | 49 | [A Green Awakening](https://open.spotify.com/track/6cCUbHnO3d48zNbJBlPOMY) | [Gallery Six](https://open.spotify.com/artist/1rbPYgBG7xEiwzLzg009Y3) | [Wind Colors](https://open.spotify.com/album/5NKep1P7MmurjX0HbfuRZ0) | 5:44 |
 | 50 | [Submerged](https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Submerged](https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE) | 3:09 |
 | 51 | [tsukimi dango \- Meditation](https://open.spotify.com/track/42tLQymkJ8SlkSl7Mebyrt) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 |

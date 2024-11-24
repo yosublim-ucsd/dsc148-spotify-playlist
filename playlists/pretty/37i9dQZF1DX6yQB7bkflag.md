@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lyodra
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,124 likes - 131 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,130 likes - 131 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 57 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 58 | [Biru](https://open.spotify.com/track/41bBs1jtHrLVVQofSMKAgT) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Biru](https://open.spotify.com/album/12zVW8fZOGguy0hoB0fEtW) | 3:41 |
 | 59 | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/track/1sXOsbw9FU3o029nmcx5U9) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/album/3ZiSiBKJuooo7GCkqwwnK9) | 5:23 |
-| 60 | [Terbuai](https://open.spotify.com/track/0wm0DXqQjpur7dpeBUPYos) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4pWJJ5lAwob0xP5ef7FrHH) | 4:32 |
+| 60 | [Terbuai](https://open.spotify.com/track/0wm0DXqQjpur7dpeBUPYos) | [BANK](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4pWJJ5lAwob0xP5ef7FrHH) | 4:32 |
 | 61 | [Sampaikan Kepadanya](https://open.spotify.com/track/6xPmaa0xUwO4yFTnQqtvPU) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Sampaikan Kepadanya](https://open.spotify.com/album/25g3WqPL8izBIxfkHsx678) | 4:33 |
 | 62 | [Bila Kuingat](https://open.spotify.com/track/0HJ33mALhDCDlkuksmobBY) | [RiriMoeya](https://open.spotify.com/artist/1lRZLZkris2oSYTwkkHXMx) | [Bila Kuingat](https://open.spotify.com/album/128StSBI7WFPDZpQQNqniF) | 3:16 |
 | 63 | [Bintang](https://open.spotify.com/track/1F621OqnTgIzmPBvpuPluo) | [Angelia](https://open.spotify.com/artist/36fEQ5HhPlwBfeE6HlET0t) | [Bintang](https://open.spotify.com/album/0KQcljWtch965bLq5OPYCS) | 3:59 |

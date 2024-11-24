@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Martin Garrix, Jex
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,763 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,860 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 15 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
 | 16 | [To France](https://open.spotify.com/track/0Gu2P26kDlGToKeVdVDdmU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [To France](https://open.spotify.com/album/7zVzvrDRrhNY5Hny65IjZa) | 2:22 |
 | 17 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 |
-| 18 | [La La La](https://open.spotify.com/track/2i6cQzs5D4bKkMtOd6Dn13) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [REVIVE](https://open.spotify.com/album/6Ql8aJONGxDEyStRBOLVYK) | 3:31 |
+| 18 | [La La La \(feat\. Noah Guthrie\)](https://open.spotify.com/track/2i6cQzs5D4bKkMtOd6Dn13) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [REVIVE](https://open.spotify.com/album/6Ql8aJONGxDEyStRBOLVYK) | 3:31 |
 | 19 | [EASY \- Bodybangers Remix](https://open.spotify.com/track/0yNYghznPYIHbmrF5n2o7r) | [FANNIE](https://open.spotify.com/artist/3ZFAwQuzGzALu2AaJmtBmp), [Nerds At Raves](https://open.spotify.com/artist/7yYgvkLYx4c2N50oltKonj), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA) | [EASY \(Bodybangers Remix\)](https://open.spotify.com/album/3QpVQL5OduMGO5KS1xVzdw) | 2:37 |
 | 20 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
 | 21 | [Shanti](https://open.spotify.com/track/7qNI74cUk1ePMsOXlIr78t) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Shanti](https://open.spotify.com/album/6z38kdyaJpMpAwbC6aWcjs) | 2:58 |

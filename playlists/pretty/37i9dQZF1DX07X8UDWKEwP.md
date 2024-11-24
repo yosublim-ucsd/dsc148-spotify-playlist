@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,361 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,386 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 27 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
 | 28 | [Sueños](https://open.spotify.com/track/2GVlJT669K2MFeygd0OXvu) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Sueños](https://open.spotify.com/album/4WnPoSycCFLEn20bHCwcu3) | 3:06 |
 | 29 | [Juanito](https://open.spotify.com/track/1RIlupWmpvwverfGALQALt) | [Merari](https://open.spotify.com/artist/6khJKfAsR2dWgmdxWG33ob), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Juanito](https://open.spotify.com/album/0Zbm6SJV1by0q6s1c60NPx) | 4:19 |
-| 30 | [EGOÍSTA](https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [EGOÍSTA](https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R) | 2:59 |
+| 30 | [EGOÍSTA](https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [EGOÍSTA](https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R) | 2:59 |
 | 31 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 |
 | 32 | [La Salsa No Engorda](https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [La Salsa No Engorda](https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb) | 2:40 |
 | 33 | [Bam Bam](https://open.spotify.com/track/7d8RnfiIRy8WXDPWbSyd1F) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Bam Bam](https://open.spotify.com/album/6R2HxOJdDHXW1l856TWRdM) | 4:15 |

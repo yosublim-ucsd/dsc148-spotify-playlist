@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NEXZ\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,958 likes - 250 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,029 likes - 250 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 182 | [Lost](https://open.spotify.com/track/6DryqX1P8pkEHwnS3tj1lU) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Lost](https://open.spotify.com/album/6SEhLhrm67sQZHcgVT7PWH) | 2:59 |
 | 183 | [Christmas Wishlist \(feat\. Kelsey Kuan & Sonny Zero\)](https://open.spotify.com/track/72YvlgXZpeaueVVjSnf5qk) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Text](https://open.spotify.com/album/3KMjx5w4bLtFRievjVgjSI) | 2:38 |
 | 184 | [Love essay](https://open.spotify.com/track/39Nqi4ZcKPX4BIMrLwAPYH) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [Love essay](https://open.spotify.com/album/5qGlXkkXyyQANNbVzHjftP) | 4:01 |
-| 185 | [Phoenix Cat](https://open.spotify.com/track/4jGZCGrE1N9aVnNqcbzSa0) | [Lel](https://open.spotify.com/artist/6dTVavxnfSecjWl1BOcrCM) | [HARMONY](https://open.spotify.com/album/5FLuKpPzJdSFE5iwpAxjPV) | 4:07 |
+| 185 | [Phoenix Cat](https://open.spotify.com/track/4jGZCGrE1N9aVnNqcbzSa0) | [LEL](https://open.spotify.com/artist/6dTVavxnfSecjWl1BOcrCM) | [HARMONY](https://open.spotify.com/album/5FLuKpPzJdSFE5iwpAxjPV) | 4:07 |
 | 186 | [Check Pattern](https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p) | 3:17 |
 | 187 | [Over The Moon](https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:37 |
 | 188 | [It's Complicated](https://open.spotify.com/track/60BgjgIQKhVO4mA6HnL2jT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [It's Complicated \- The 6th Mini Album](https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w) | 3:39 |

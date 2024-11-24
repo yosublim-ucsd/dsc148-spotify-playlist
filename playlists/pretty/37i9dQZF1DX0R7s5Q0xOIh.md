@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,627 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,624 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 81 | [Chora, Me Liga \- Ao Vivo](https://open.spotify.com/track/1NpD7cQH8hGMZrufOQQ0Xk) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Curtição \(Ao Vivo\)](https://open.spotify.com/album/1cQGm0Y6gNamC6zZijIK4u) | 3:01 |
 | 82 | [IGÃO & MITICO \- Carona Podpah \#19](https://open.spotify.com/episode/08v8PwWPR9GCXLrBYuCn9K) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 44:55 |
 | 83 | [Faroeste Caboclo](https://open.spotify.com/track/6ttKOudrrD5yjt4saUjhNa) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 9:07 |
-| 84 | [Quando o sol se for](https://open.spotify.com/track/6Sk1mETx99njkPH3MIRTn3) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas \(Nova Versão\)](https://open.spotify.com/album/2Xa25OvfD52APxPX8QP9mJ) | 3:29 |
+| 84 | [Quando o sol se for](https://open.spotify.com/track/6Sk1mETx99njkPH3MIRTn3) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas \(Nova Versão\)](https://open.spotify.com/album/2Xa25OvfD52APxPX8QP9mJ) | 3:29 |
 | 85 | [Lança pra Ela](https://open.spotify.com/track/14P8hf2tvnTKZ8cbKHeIB8) | [Mc G7](https://open.spotify.com/artist/7tAU5puj4UTBvZPOgCfiRT) | [Relíquias do MC G7](https://open.spotify.com/album/4Og1cECXOiJomARcAQDCU6) | 2:24 |
 | 86 | [Na Onda do Gin](https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Na Onda do Gin](https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq) | 4:24 |
 | 87 | [Longe dos Falsos](https://open.spotify.com/track/5NpfSMF3YRpCF4jL7CcbaX) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=BCNhu4HEQr\-t2n0APnMH\-Q"> Fave</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,195 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,290 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

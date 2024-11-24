@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,921 likes - 105 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,941 likes - 105 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 16 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
 | 17 | [EITHER OR](https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [EITHER OR](https://open.spotify.com/album/4pBPVUF3CLqVNhNA5vfL4B) | 2:04 |
 | 18 | [Can't Stay](https://open.spotify.com/track/2sVV8LROIH1Z7mJWBBYpkU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:41 |
-| 19 | [Access](https://open.spotify.com/track/5WmsnY2TeEK3nd9fw3Cn9O) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:55 |
+| 19 | [Access](https://open.spotify.com/track/5WmsnY2TeEK3nd9fw3Cn9O) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:55 |
 | 20 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 |
 | 21 | [YOU \- Live](https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [YOU \(Live\)](https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4) | 3:24 |
 | 22 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |

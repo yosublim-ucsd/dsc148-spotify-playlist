@@ -4,7 +4,7 @@
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 12 min
+55 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Chica de Oro](https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:53 | 2023-11-10 |  |
 | [Chica Rutera](https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:58 | 2023-11-10 |  |
 | [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2023-11-10 |  |
-| [Doctora Muerte](https://open.spotify.com/track/4YRJMFdjebSnTGXwT7egSI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:26 | 2024-11-22 |  |
+| [Doctora Muerte](https://open.spotify.com/track/4YRJMFdjebSnTGXwT7egSI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:26 | 2024-11-22 | 2024-11-24 |
 | [Día de los Muertos \- Versión 2021](https://open.spotify.com/track/0LseNPvS1vJGmNsmdf4fQd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:33 | 2023-11-10 |  |
 | [El Baile de la Colina](https://open.spotify.com/track/4QpW7Ufhek26AzJGtcN08f) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:13 | 2023-11-10 |  |
 | [El Día del Huracán \- Versión 2021](https://open.spotify.com/track/2x0prtVhSBk4fESMpqrTdg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:25 | 2023-11-10 |  |
@@ -34,7 +34,7 @@
 | [La Celebración del Fuego](https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 2:47 | 2023-11-10 |  |
 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 | 2023-11-10 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2023-11-10 |  |
-| [Lenguas de Fuego en el Cielo](https://open.spotify.com/track/6Z07AuS1QEeFv3vN6ENZNs) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:40 | 2023-11-10 | 2024-11-22 |
+| [Lenguas de Fuego en el Cielo](https://open.spotify.com/track/6Z07AuS1QEeFv3vN6ENZNs) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:40 | 2023-11-10 |  |
 | [Madre](https://open.spotify.com/track/2K3gYx9FgXewNWinYWcmlL) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 2:41 | 2023-11-10 |  |
 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2023-11-10 |  |
 | [Medalla de Oro](https://open.spotify.com/track/2BkCOixgH4hPK0lVYOfh3Z) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 5:40 | 2023-11-10 |  |
@@ -51,7 +51,8 @@
 | [Rucho](https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 2:22 | 2023-11-10 |  |
 | [Slippery People](https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Slippery People](https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru) | 5:40 | 2024-05-19 |  |
 | [Sobredosis de Droga](https://open.spotify.com/track/5TjLFMFoiiIwSLDL1ObOWO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 2:19 | 2023-11-10 | 2024-05-11 |
-| [Sábado](https://open.spotify.com/track/77bPb4aA6Kllu8IbOi732c) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 3:08 | 2023-11-10 |  |
+| [Sábado](https://open.spotify.com/track/77bPb4aA6Kllu8IbOi732c) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 3:08 | 2023-11-10 | 2024-11-24 |
+| [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 | 2024-11-24 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/7hZ5ChA3eSzlw5QJDJa7ks) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:58 | 2023-11-10 |  |
 | [Terror](https://open.spotify.com/track/38jOdi0uFY0EbSfW0Uc790) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 2:12 | 2023-11-10 |  |
 | [Terror \- Primera Versión](https://open.spotify.com/track/5hQKs1py42sTVwOpkvjUmB) | [Drox Crazy](https://open.spotify.com/artist/1NULNCpwm1vzfW7y82sRZm), [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ineditos y Rarezas](https://open.spotify.com/album/4cQbIrbRxkVRiFCw9eSGwa) | 2:00 | 2024-03-13 | 2024-03-17 |

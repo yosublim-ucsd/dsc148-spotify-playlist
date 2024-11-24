@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gapes
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,338 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,332 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 43 | [Coração Diamante](https://open.spotify.com/track/56Zpo0tt3TpmPj288SXIOV) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi) | [Mente Única](https://open.spotify.com/album/7Hcd8RBiBLPGKPukyLh3er) | 2:18 |
 | 44 | [Meta](https://open.spotify.com/track/5PH8jkW1jCknFX3TQ1whl4) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Pensamentos](https://open.spotify.com/album/7vw4OmcHnccrPW8jHV7YBS) | 2:11 |
 | 45 | [FNB](https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [FNB>BKB](https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0) | 2:48 |
-| 46 | [Repeat](https://open.spotify.com/track/2I9HaBucSP3ByQ0c5Yc6OX) | [ML](https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [The Loop Tape](https://open.spotify.com/album/42kKbLuhFF4A76gLH79b4f) | 3:05 |
+| 46 | [Repeat](https://open.spotify.com/track/2I9HaBucSP3ByQ0c5Yc6OX) | [ML](https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem), [Marreta](https://open.spotify.com/artist/4bsq9rjuQxcKy3xsndz9aT), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [The Loop Tape](https://open.spotify.com/album/42kKbLuhFF4A76gLH79b4f) | 3:05 |
 | 47 | [BDDS](https://open.spotify.com/track/0fFUDx0R7Wsa5zLDM7V2oN) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [BDDS](https://open.spotify.com/album/2Ukn6x5IgCJdeYhxQKNapc) | 3:43 |
 | 48 | [Memo Papinho](https://open.spotify.com/track/7r3UTCauWELpPXbgG22yzs) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Memo Papinho](https://open.spotify.com/album/6L9vIxZkJBtkhQ5fjNpD1g) | 2:38 |
 | 49 | [Loja Online](https://open.spotify.com/track/5fs8r0k0ejHrYCXMawmUcq) | [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [MC Marcos IP](https://open.spotify.com/artist/6rErbgVxdDIigbCGSBOwQX), [MC Nego Micha](https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Prod.Dazz](https://open.spotify.com/artist/075I6EztJc8xY1HutcLToB) | [Loja Online](https://open.spotify.com/album/60mydmDSPlo2jo8tHk4Zc8) | 5:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,021 likes - 112 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,037 likes - 112 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 13 | [Jos Mä Oisin Bämä](https://open.spotify.com/track/338Se8AykwAEuu4wawaaDB) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Goat Talk](https://open.spotify.com/album/7m9ZYGQdXMX1mZbaO3vg4T) | 2:50 |
 | 14 | [Täysikuu](https://open.spotify.com/track/6S6puJe1fAQf6jo7fSbi8Y) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Täysikuu](https://open.spotify.com/album/5PqmGy70sbEsAkNOu0r1i6) | 3:13 |
 | 15 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
-| 16 | [luther](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
+| 16 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 17 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 |
 | 18 | [Kahden kodin välissä](https://open.spotify.com/track/0WmEqqcDxWSuwAVCQXcNpw) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Kahden kodin välissä](https://open.spotify.com/album/4VlMThUaPVmk7gyuuUMWh6) | 3:06 |
 | 19 | [Polari](https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Polari](https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId) | 1:27 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 37 | [Touching Heaven](https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Touching Heaven](https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY) | 2:38 |
 | 38 | [Runo](https://open.spotify.com/track/7aKJznaYChPvhIhDSAnaoV) | [Aaro](https://open.spotify.com/artist/5lGcIAeg0ch0QUMEAC5Z1O) | [Runo](https://open.spotify.com/album/0p59N5KTaR5m3lqNeMKVqw) | 3:05 |
 | 39 | [Therapy Session V: Energy Vampires](https://open.spotify.com/track/49CyAqI7tXEl4swgxCyG4P) | [Redrama](https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA) | [Therapy Session V & VI](https://open.spotify.com/album/746bHFzti6rlBXLymkWo41) | 3:13 |
-| 40 | [gnx](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
+| 40 | [gnx \(feat\. hitta j3, youngthreat, peysoh\)](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [YoungThreat](https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
 | 41 | [Burning Man](https://open.spotify.com/track/0Yo86118FgyMBr3W455Bbk) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:14 |
 | 42 | [dark place](https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [dark place](https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg) | 2:47 |
 | 43 | [Tätä Se On Nyt](https://open.spotify.com/track/56e7r61xpuiA3zbjtzk3N8) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [EK2](https://open.spotify.com/album/6vKEXHMM0rHkasYJUt4nos) | 3:52 |

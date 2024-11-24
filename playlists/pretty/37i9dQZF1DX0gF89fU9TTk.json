@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 137920,
+  "num_followers": 137947,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Zeal (allskate remix)",
-        "url": "https://open.spotify.com/album/4fUccHGUHkLJA87XzAoNEm"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "David Dennis",
-          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
-        },
-        {
-          "name": "Shantrice Laura",
-          "url": "https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Zeal - allskate remix",
-      "url": "https://open.spotify.com/track/4Tz49pC7LbWb4FHnEjnk7t"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Wind + Waves",
         "url": "https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 218946,
       "name": "I\u2019ve Got A Fire",
       "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Zeal (allskate remix)",
+        "url": "https://open.spotify.com/album/4fUccHGUHkLJA87XzAoNEm"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        },
+        {
+          "name": "Shantrice Laura",
+          "url": "https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Zeal - allskate remix",
+      "url": "https://open.spotify.com/track/4Tz49pC7LbWb4FHnEjnk7t"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
+      },
+      "artists": [
+        {
+          "name": "Holly Starr",
+          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
+        }
+      ],
+      "duration_ms": 200350,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
-      },
-      "artists": [
-        {
-          "name": "Holly Starr",
-          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
-        }
-      ],
-      "duration_ms": 200350,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Till the Earth",
-        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
-      },
-      "artists": [
-        {
-          "name": "Southview Worship",
-          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 208411,
-      "name": "Till the Earth",
-      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Vol 1",
         "url": "https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 250360,
       "name": "Lay My Life Down",
       "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Till the Earth",
+        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
+      },
+      "artists": [
+        {
+          "name": "Southview Worship",
+          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
+        },
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        }
+      ],
+      "duration_ms": 208411,
+      "name": "Till the Earth",
+      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Surrounded (Fight My Battles)",
         "url": "https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 180000,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Desert River",
-        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
-      },
-      "artists": [
-        {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
-      },
-      "artists": [
-        {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "What Else",
         "url": "https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 215125,
       "name": "What Else",
       "url": "https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Space God (Live)",
-        "url": "https://open.spotify.com/album/1dKi7MRpG4qcuJXPHEmPVZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Collective Worship",
-          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Space God - Live",
-      "url": "https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 336000,
       "name": "New Life",
       "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Space God (Live)",
+        "url": "https://open.spotify.com/album/1dKi7MRpG4qcuJXPHEmPVZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Space God - Live",
+      "url": "https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-595 songs - 1 day 5 hr 19 min
+597 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Astrophia](https://open.spotify.com/track/4Zo9i0PVyKdl3nJxuwe2Pk) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Astrophia](https://open.spotify.com/album/26PPWDh6PZUJHkJWcao7BR) | 2:55 | 2024-01-17 | 2024-07-12 |
 | [At Peace](https://open.spotify.com/track/27BeHhBtul8uWpNRriw4zS) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA), [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [At Peace](https://open.spotify.com/album/1A6JIMLYg4FMkHj03BgVln) | 2:59 | 2023-03-23 | 2024-01-18 |
-| [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 | 2024-04-05 |  |
+| [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 | 2024-04-05 | 2024-11-24 |
 | [Atmosphere](https://open.spotify.com/track/2aFlelxOUFLufLy1vAe3YZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Atmosphere](https://open.spotify.com/album/1I4mGzUZCwJWek0eQ4nt83) | 1:37 | 2023-03-23 | 2023-07-29 |
 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2023-03-23 | 2024-05-21 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 | 2024-03-21 |
@@ -92,6 +92,7 @@
 | [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2023-03-23 | 2023-12-02 |
 | [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 |  |
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2023-03-23 | 2024-03-21 |
+| [Buoyed](https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Buoyed](https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW) | 2:30 | 2024-11-21 |  |
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-03-23 | 2024-02-09 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-03-23 | 2024-02-09 |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2023-03-23 | 2024-03-21 |
@@ -317,7 +318,7 @@
 | [Longing](https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Longing](https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5) | 2:12 | 2023-03-23 | 2024-01-18 |
 | [Look To The East](https://open.spotify.com/track/5ypeecxfih2hBteQ4DWPY6) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Look To The East](https://open.spotify.com/album/2i7yS9xCM8vcnJbGoVNI6T) | 2:28 | 2024-07-15 |  |
 | [Lost Contact With Life](https://open.spotify.com/track/6GDNugcIhv8fEOlZuAkYjt) | [Zenith Symphony](https://open.spotify.com/artist/5J3D7hOfD1KRtOHyYUIdDP) | [Lost Contact With Life](https://open.spotify.com/album/19TE0mv7vfrIpnpcC0Eqih) | 3:24 | 2024-04-05 | 2024-07-12 |
-| [Lost In Time](https://open.spotify.com/track/00zSGhhSEVgy6IzuS7gl65) | [Miyagin](https://open.spotify.com/artist/6kJRGOaK58B33dKNOPPw4d) | [Lost In Time](https://open.spotify.com/album/2MzV9uwSht1BGWKAWZWUQb) | 3:05 | 2024-05-04 |  |
+| [Lost In Time](https://open.spotify.com/track/00zSGhhSEVgy6IzuS7gl65) | [Miyagin](https://open.spotify.com/artist/6kJRGOaK58B33dKNOPPw4d) | [Lost In Time](https://open.spotify.com/album/2MzV9uwSht1BGWKAWZWUQb) | 3:05 | 2024-05-04 | 2024-11-24 |
 | [Lost Love](https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Lost Love](https://open.spotify.com/album/0LZxDPJn8HdgZKFuN0O77l) | 3:07 | 2023-03-23 | 2024-03-21 |
 | [Love and Light](https://open.spotify.com/track/4KHtSL1CTl3mLQUmeS0FzZ) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Love and Light](https://open.spotify.com/album/0BEXzf1T4SsA7dwfY1gLRz) | 2:52 | 2024-06-18 |  |
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2023-03-23 | 2023-05-06 |
@@ -329,6 +330,7 @@
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 |  |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 |  |
 | [Meandering Stream](https://open.spotify.com/track/0e5Ipazb2ofxVoEe3Xxcjl) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Meandering Stream](https://open.spotify.com/album/1ShreZhKFKSAqGjrKioYJT) | 2:59 | 2024-03-06 | 2024-03-21 |
+| [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2024-11-21 |  |
 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 | 2023-07-14 | 2024-07-10 |
 | [Meliora](https://open.spotify.com/track/4UUTtDXBx9GiedPVzTNL5F) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Meliora](https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp) | 3:17 | 2023-03-23 | 2024-05-05 |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2023-03-23 | 2024-05-05 |

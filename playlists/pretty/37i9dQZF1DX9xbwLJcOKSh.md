@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,242 likes - 72 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,244 likes - 72 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 3 | [TANK! \- Flix Mix](https://open.spotify.com/track/3FOLJJqtFaOqyvcGRv5B8f) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 2:08 |
 | 4 | [ライオン](https://open.spotify.com/track/35HhTsMus2B7hA7rfbrp84) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [「マクロスF」オープニングテーマ ライオン](https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm) | 5:03 |
 | 5 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
-| 6 | [時の迷宮](https://open.spotify.com/track/0KfhpLqWBwHptGkJYSeBCx) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS), [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [『劇場短編マクロスF \~時の迷宮\~』主題歌「時の迷宮」](https://open.spotify.com/album/3i4B1X9znzhu7J4AKjR7Es) | 7:51 |
+| 6 | [時の迷宮](https://open.spotify.com/track/0KfhpLqWBwHptGkJYSeBCx) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS), [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [『劇場短編マクロスF ～時の迷宮～』主題歌「時の迷宮」](https://open.spotify.com/album/3i4B1X9znzhu7J4AKjR7Es) | 7:51 |
 | 7 | [オトコのコ オンナのコ](https://open.spotify.com/track/6Qc4tw9GpdqIwn1XHB2Zvb) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [オトコのコ オンナのコ](https://open.spotify.com/album/7sLpYyxNEnrLRU3cGpJmU8) | 4:53 |
 | 8 | [Net Rush](https://open.spotify.com/track/2JU0rdgSmzT4pfmwyXPIeB) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 2:06 |
 | 9 | [Cat Attack Part 1 \(feat\. A\-Sha Mai Yamane\)](https://open.spotify.com/track/4M9Ch5J3iiPjFBucNIF0wS) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [A\-sha Mai Yamane](https://open.spotify.com/artist/0vwCxEHeh2bjIkzXIt9Jog) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 1:29 |

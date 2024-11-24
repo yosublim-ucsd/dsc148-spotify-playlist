@@ -1,6 +1,6 @@
 {
   "description": "2d \u00e9 o vulgo, voc\u00ea pensa ela faz!",
-  "num_followers": 60904,
+  "num_followers": 60938,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-11-22 03:36:14",
       "album": {
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Preta Classe A",
+      "url": "https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev"
+    },
+    {
+      "added_at": "2024-11-22 03:36:14",
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
-    },
-    {
-      "added_at": "2024-11-22 03:36:14",
-      "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Preta Classe A",
-      "url": "https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev"
     },
     {
       "added_at": "2024-11-22 03:36:14",

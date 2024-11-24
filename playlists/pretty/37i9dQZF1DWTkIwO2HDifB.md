@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Barbie e os funks mais 🔑 do Brasil\. Foto: Mc Tuto, DJ Glenner
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,399,286 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,400,359 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3611,6 +3611,28 @@
     },
     {
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5xoTwrAFp0EkwWheJctbpH"
+      },
+      "artists": [
+        {
+          "name": "Jhay Foreign",
+          "url": "https://open.spotify.com/artist/4Z9R5EU1z3CRnVpa0XFhe2"
+        },
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169696,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7zPqS10y0V6ph84zCl55tG"
+    },
+    {
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/71v6y9ZimfNQoVSdHw8wir"
       },
@@ -7976,7 +7998,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -8128,7 +8150,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -10668,6 +10690,24 @@
       "duration_ms": 191847,
       "name": "FANTAS\u00cdAS",
       "url": "https://open.spotify.com/track/2v1EKQQn4UYC6qB13Vphaf"
+    },
+    {
+      "album": {
+        "name": "FAST",
+        "url": "https://open.spotify.com/album/4bnGRQxu3vBw1rMeR4NlsL"
+      },
+      "artists": [
+        {
+          "name": "Micezzy",
+          "url": "https://open.spotify.com/artist/20DNqwl6qP8VsVI6N1ocGA"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106625,
+      "name": "FAST",
+      "url": "https://open.spotify.com/track/29Y1BqNFYY6iToQwRkqaNm"
     },
     {
       "album": {
@@ -13698,7 +13738,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -21762,7 +21802,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 131144,
       "name": "OMG - Remix",
       "url": "https://open.spotify.com/track/0aKJSsrPc0uwklhceSHIxt"
@@ -26671,6 +26711,24 @@
     },
     {
       "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX"
+    },
+    {
+      "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
       },
@@ -26682,7 +26740,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -29062,7 +29120,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 146526,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
@@ -30316,7 +30374,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 131272,
       "name": "Te la Parto - Remix",
       "url": "https://open.spotify.com/track/1SwgbVS16zRVJTsMW3RHUR"

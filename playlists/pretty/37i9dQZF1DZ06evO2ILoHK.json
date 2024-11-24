@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 10608,
+  "num_followers": 10614,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAChw3Ict4MkhnhzcbM3AZBa",
+  "snapshot_id": "Zz/JgAAAAACSTwcMuXXCGFO4Lwol0nea",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Promise Everything",
-      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
+      "duration_ms": 149720,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 149720,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL"
+      "duration_ms": 157080,
+      "name": "Promise Everything",
+      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
     },
     {
       "added_at": null,

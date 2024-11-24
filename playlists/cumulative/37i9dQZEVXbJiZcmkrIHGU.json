@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -10480,7 +10480,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 140915,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
@@ -14946,7 +14946,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -18076,7 +18076,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 168013,
       "name": "Fata Morgana (feat. Tokio Hotel)",
       "url": "https://open.spotify.com/track/7a4O4FPGjTL4084bbvFeJF"
@@ -18837,6 +18837,24 @@
     },
     {
       "album": {
+        "name": "Fliegen",
+        "url": "https://open.spotify.com/album/5Z9fgbNT54fpXKYRvhwMw5"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Fliegen",
+      "url": "https://open.spotify.com/track/4lnLVhGxv1YnJEJIComb9x"
+    },
+    {
+      "album": {
         "name": "Flip$",
         "url": "https://open.spotify.com/album/0atPEOk62fME8MW7gxQsrz"
       },
@@ -19114,7 +19132,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 164546,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
@@ -22722,7 +22740,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 139428,
       "name": "H&K",
       "url": "https://open.spotify.com/track/5ubQrs2wWoSgRwEaPZd4eS"
@@ -23250,7 +23268,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -23400,7 +23418,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 145624,
       "name": "HDL",
       "url": "https://open.spotify.com/track/3SYHVGpbPQ8sPCRosoA9Wy"
@@ -25126,7 +25144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -26018,7 +26036,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 209083,
       "name": "IGYEIH",
       "url": "https://open.spotify.com/track/7M8eZBRTD9QNasEVReEM0H"
@@ -35830,6 +35848,24 @@
     {
       "album": {
         "name": "Mittelmeer",
+        "url": "https://open.spotify.com/album/29z9beb0haultY7O6b0UMu"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160141,
+      "name": "Mittelmeer",
+      "url": "https://open.spotify.com/track/5iviRbXQMPPJJrK6nTjYGA"
+    },
+    {
+      "album": {
+        "name": "Mittelmeer",
         "url": "https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j"
       },
       "artists": [
@@ -36318,6 +36354,32 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/3DXbRemwBJTQ8cPybFBLXp"
+      },
+      "artists": [
+        {
+          "name": "oddworld",
+          "url": "https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166090,
+      "name": "money",
+      "url": "https://open.spotify.com/track/0M02KarGlX2UACt6BJQb8S"
     },
     {
       "album": {
@@ -37990,6 +38052,24 @@
       "duration_ms": 161939,
       "name": "Narben (feat. vito)",
       "url": "https://open.spotify.com/track/4XrPJ8XNqj07GKvEUPNVe3"
+    },
+    {
+      "album": {
+        "name": "Nasser Asphalt",
+        "url": "https://open.spotify.com/album/5CtGJnYsn8kl1EveJwG1ES"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Nasser Asphalt",
+      "url": "https://open.spotify.com/track/3sGFNPf8FSBW1JbCYclwWc"
     },
     {
       "album": {
@@ -41136,7 +41216,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 211027,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf"
@@ -41180,6 +41260,36 @@
       "duration_ms": 142153,
       "name": "OZEAN",
       "url": "https://open.spotify.com/track/3vQqFgN3bhO1Lim4yXzmi5"
+    },
+    {
+      "album": {
+        "name": "P-MAG",
+        "url": "https://open.spotify.com/album/2x7KnA8mHkQy8UfDk4w5vh"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Safraoui",
+          "url": "https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX"
+        },
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "P-MAG",
+      "url": "https://open.spotify.com/track/31v9w3Al8yj1E3Yhwb0j3J"
     },
     {
       "album": {
@@ -54804,7 +54914,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -54822,7 +54932,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -55190,6 +55300,24 @@
       "duration_ms": 305474,
       "name": "Unterfickt und geistig behindert",
       "url": "https://open.spotify.com/track/52P6IsUUXpVlYagiqc9lo3"
+    },
+    {
+      "album": {
+        "name": "F\u00dcR ALLE BLOCKS",
+        "url": "https://open.spotify.com/album/48sY7LmLhxzbFvffsNNtFM"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133136,
+      "name": "Unterwegs",
+      "url": "https://open.spotify.com/track/7xBPQuWYBOUJTGOsr4hT03"
     },
     {
       "album": {
@@ -59674,7 +59802,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

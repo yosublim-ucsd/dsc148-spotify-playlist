@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Маша Кондратенко
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,038 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,040 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 11 | [Birdie \- From "The Witch\. Revenge"](https://open.spotify.com/track/2sScs1NVBzMlatUaK0Bd3Y) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Birdie \(From "The Witch\. Revenge"\)](https://open.spotify.com/album/32NdfblJnDgoUWEVm3vwRk) | 2:45 |
 | 12 | [ГОЛОД](https://open.spotify.com/track/7N0osHG4lAmfPnWF8EbTOi) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [ГОЛОД](https://open.spotify.com/album/4cB993z7atE4pJl7UINxvu) | 2:07 |
 | 13 | [Біжу і падаю](https://open.spotify.com/track/2hsGwMI40v0vX22CnoElIi) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Біжу і падаю](https://open.spotify.com/album/0kGOanJR4JVxuWPWZhJ8G2) | 2:43 |
-| 14 | [кричу](https://open.spotify.com/track/6U6aJfWvRWd3NH5sWHrUWq) | [Renie Cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [кричу](https://open.spotify.com/album/0JlwNaMDZRM5RxbWK3IRmn) | 3:39 |
+| 14 | [кричу](https://open.spotify.com/track/6U6aJfWvRWd3NH5sWHrUWq) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [кричу](https://open.spotify.com/album/0JlwNaMDZRM5RxbWK3IRmn) | 3:39 |
 | 15 | [До Ранку](https://open.spotify.com/track/1uiIyQg4ygKdkTJ1FF7uHs) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [До Ранку](https://open.spotify.com/album/1eUX3yrGfo8UtExXzew1mm) | 2:51 |
 | 16 | [Злива](https://open.spotify.com/track/3CMwvABZNaZ9pLn1V69prH) | [Ірина Федишин](https://open.spotify.com/artist/5msO3VLWhKFDqmpBlGIfy7) | [Злива](https://open.spotify.com/album/7ws0ONMdZeOs2tzb6rmg0A) | 3:30 |
 | 17 | [Отруйний плід любові](https://open.spotify.com/track/51623rCMuWSSKxsBDMbaYM) | [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Отруйний плід любові](https://open.spotify.com/album/5XUWqXpaR5972Jv7pSaeWY) | 2:19 |

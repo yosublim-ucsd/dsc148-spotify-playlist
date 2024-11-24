@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,461 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,515 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 21 | [Thug Life \(with Peezy\)](https://open.spotify.com/track/2riBhqARIm1t9QzzsO6Mdy) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Peezy](https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:35 |
 | 22 | [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 |
 | 23 | [Madden Bullets](https://open.spotify.com/track/58TD4sM2OEPM7EchsDZloC) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Real Striker Music](https://open.spotify.com/album/4dG1FVEjZZA838N0bndVT8) | 2:42 |
-| 24 | [Clock Dat \(feat\. Soulja Boy\) \- Soulja Boy Remix](https://open.spotify.com/track/4Z16ScOhjQa8R0M2XD4de5) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Clock Dat \(Tea Party\)](https://open.spotify.com/album/1YRt5LIzKJn6UhYFTUP96n) | 2:54 |
+| 24 | [Clock Dat \(feat\. Soulja Boy\) \- Soulja Boy Version](https://open.spotify.com/track/4Z16ScOhjQa8R0M2XD4de5) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Clock Dat \(Tea Party\)](https://open.spotify.com/album/1YRt5LIzKJn6UhYFTUP96n) | 2:54 |
 | 25 | [No Love \(feat\. Lil Baby\)](https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:55 |
 | 26 | [Got it Tucked](https://open.spotify.com/track/0zgPqbDdSoyiD5OFE748lE) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Spill Season](https://open.spotify.com/album/39OSr5E0LZPPz9Ewo67LwY) | 2:45 |
 | 27 | [Say Ya Grace \(with Chief Keef & Lil Yachty\)](https://open.spotify.com/track/4m4CMXt4jTczOLC14kG8cx) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:36 |

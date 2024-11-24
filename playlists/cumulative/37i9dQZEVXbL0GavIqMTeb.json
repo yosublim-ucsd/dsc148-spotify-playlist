@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6FrFo42KCme5S6r0rfgJBi"
+      },
+      "artists": [
+        {
+          "name": "Pierre La Voz",
+          "url": "https://open.spotify.com/artist/36D4833K32OMgbBCKMIIy7"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184463,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/5MmwcFIcD3ZuGE8yRloi3S"
+    },
+    {
+      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -22248,7 +22266,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 221962,
       "name": "Tuss",
       "url": "https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ"

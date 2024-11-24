@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & La T y La M.",
-  "num_followers": 1165446,
+  "num_followers": 1165538,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 131947,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
         "name": "Besos con Fernet",
         "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
       },
@@ -415,6 +435,22 @@
       "duration_ms": 147375,
       "name": "Besos con Fernet",
       "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -439,22 +475,6 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
         "name": "BORRACHO",
         "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 181740,
       "name": "BORRACHO",
       "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 131947,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -507,30 +507,6 @@
       "duration_ms": 125969,
       "name": "SALE SOLA",
       "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "Todo Comenz\u00f3 Bailando (Remix)",
-        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 163529,
-      "name": "Todo Comenz\u00f3 Bailando - Remix",
-      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -563,6 +539,30 @@
       "duration_ms": 127973,
       "name": "Dime si eres feliz",
       "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "Todo Comenz\u00f3 Bailando (Remix)",
+        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 163529,
+      "name": "Todo Comenz\u00f3 Bailando - Remix",
+      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
         "name": "Mirame - Versi\u00f3n Cumbia (feat. Blessd & Ovy On The Drums)",
         "url": "https://open.spotify.com/album/3O3fWgAROveGez4t8Ui8xB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 127244,
       "name": "Mirame - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/6UVw3cOnIQ0XqCYaeVKGGI"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -987,22 +987,22 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Me toc\u00f3 perder",
-        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
+        "name": "Quiero Llorar",
+        "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
       },
       "artists": [
         {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
           "name": "The La Planta",
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 126477,
-      "name": "Me toc\u00f3 perder",
-      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
+      "duration_ms": 201722,
+      "name": "Quiero Llorar",
+      "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1043,22 +1043,38 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Quiero Llorar",
-        "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
+        "name": "Me toc\u00f3 perder",
+        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         },
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 201722,
-      "name": "Quiero Llorar",
-      "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
+      "duration_ms": 126477,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "UWAIE (versi\u00f3n cumbia)",
+        "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "UWAIE - versi\u00f3n cumbia",
+      "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1079,22 +1095,6 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "UWAIE (versi\u00f3n cumbia)",
-        "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "UWAIE - versi\u00f3n cumbia",
-      "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Noche de Buenos Besos",
-        "url": "https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Dj Ronel",
-          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noche de Buenos Besos",
-      "url": "https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
         "name": "Una Noche Contigo (Remix)",
         "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
       },
@@ -1375,6 +1351,46 @@
       "duration_ms": 174000,
       "name": "Una Noche Contigo - Remix",
       "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "Noche de Buenos Besos",
+        "url": "https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noche de Buenos Besos",
+      "url": "https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1407,18 +1423,22 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
       },
       "artists": [
         {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
+      "duration_ms": 123136,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1507,26 +1527,6 @@
       "duration_ms": 176658,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 123136,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
         "name": "OTRA COPA M\u00c1S",
         "url": "https://open.spotify.com/album/3vCusuv3lCOWNDm80NF9gm"
       },
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
-    },
-    {
-      "added_at": "2024-11-20 14:32:13",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2024-11-20 14:32:13",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1923,26 +1923,26 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Verano 2024",
-        "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         },
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Agust\u00edn Casanova",
+          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
         },
         {
-          "name": "DJ Pirata",
-          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 156893,
-      "name": "Verano 2024",
-      "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
+      "duration_ms": 154624,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
     },
     {
       "added_at": "2024-11-20 14:32:13",
@@ -1967,26 +1967,26 @@
     {
       "added_at": "2024-11-20 14:32:13",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
+        "name": "Verano 2024",
+        "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         },
         {
-          "name": "Agust\u00edn Casanova",
-          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         },
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
         }
       ],
-      "duration_ms": 154624,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
+      "duration_ms": 156893,
+      "name": "Verano 2024",
+      "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
     },
     {
       "added_at": "2024-11-20 14:32:13",

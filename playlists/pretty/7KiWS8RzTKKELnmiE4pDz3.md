@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 124 songs - 6 hr 5 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 126 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 122 | [Clutch](https://open.spotify.com/track/0imyZ4t0WqFq6oRbFZNfxw) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:11 |
 | 123 | [I NEED JESUS](https://open.spotify.com/track/5wVp3fbnszKKwM0232pEgb) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:36 |
 | 124 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
+| 125 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
+| 126 | [All Alone](https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 1:53 |
 
-Snapshot ID: `AAAdnUFldA4yN/hJAZXwXMh4ut2elZ5Y`
+Snapshot ID: `AAAdnw1EqxHlcy1Tmys1LFJiOmVnCcVb`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264029,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3"
+    },
+    {
+      "album": {
         "name": "1-0",
         "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 244029,
       "name": "All in your palms",
       "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
@@ -3666,6 +3684,10 @@
         {
           "name": "Sara Wakui",
           "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
         }
       ],
       "date_added": "2024-11-12",
@@ -4196,24 +4218,6 @@
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS"
-    },
-    {
-      "album": {
-        "name": "Round Midnight",
-        "url": "https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "date_added": "2024-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264029,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3"
     },
     {
       "album": {
@@ -5014,7 +5018,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 391261,
       "name": "Take the S Line",
       "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"

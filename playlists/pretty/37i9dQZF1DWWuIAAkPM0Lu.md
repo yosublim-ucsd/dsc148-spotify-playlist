@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...en smooth Bossanova flirt er cooking ❤️‍🔥<a href="spotify:artist:2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a>❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,603 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,604 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 5 | [UMTI UMTI \(feat\. Speedy\)](https://open.spotify.com/track/6viFkB6m4NEyJg45qnH6QD) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB) | [UMTI UMTI \(feat\. Speedy\)](https://open.spotify.com/album/3aTkEqwilWU2SColp81wYP) | 2:38 |
 | 6 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 7 | [Bend](https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:33 |
-| 8 | [luther](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
+| 8 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 9 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
 | 10 | [Fest \(feat\. Faustix\)](https://open.spotify.com/track/4WWbZIysuo6koxCn7hSmNd) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Fest \(feat\. Faustix\)](https://open.spotify.com/album/5aecljdiitXRqtS4U0RMch) | 2:53 |
 | 11 | [JACK & PEPSI](https://open.spotify.com/track/4rBFry7KERpMK0TnvWec9d) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [JACK & PEPSI](https://open.spotify.com/album/7sGyaU81DDhnyRsNDE7M4S) | 2:16 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 70 | [All My Friends](https://open.spotify.com/track/4LtPLzMgMA6sKGt8mCtbDT) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U) | [All My Friends](https://open.spotify.com/album/4o6H0XqnMQnQOEEISgF00K) | 3:32 |
 | 71 | [Afterlove](https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Afterlove](https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY) | 3:20 |
 | 72 | [obsessed](https://open.spotify.com/track/56CegTUDZpDr9zJnwBWfWo) | [Marianne Leigh](https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n) | [fix me up](https://open.spotify.com/album/5FeY4xki9KBtlbzyiwaTRf) | 1:58 |
-| 73 | [La La La](https://open.spotify.com/track/2i6cQzs5D4bKkMtOd6Dn13) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [REVIVE](https://open.spotify.com/album/6Ql8aJONGxDEyStRBOLVYK) | 3:31 |
+| 73 | [La La La \(feat\. Noah Guthrie\)](https://open.spotify.com/track/2i6cQzs5D4bKkMtOd6Dn13) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [REVIVE](https://open.spotify.com/album/6Ql8aJONGxDEyStRBOLVYK) | 3:31 |
 | 74 | [Me Time in Milano](https://open.spotify.com/track/6tVAGlEM8ODF6QyqJsB1Ul) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Me Time in Milano](https://open.spotify.com/album/23GqJLfjfKFxYd8kfUJcAG) | 3:39 |
 | 75 | [BANG BANG POW!](https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [BANG BANG POW!](https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO) | 2:13 |
 | 76 | [Burning Like The Sun](https://open.spotify.com/track/1Zfzsb1qpoWzySz9LftrEb) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Oskr](https://open.spotify.com/artist/13aLgWBHLtwZx4Qi2yiY2y) | [Burning Like The Sun](https://open.spotify.com/album/33KDWhdLwg3FloA2B0K6MG) | 3:30 |

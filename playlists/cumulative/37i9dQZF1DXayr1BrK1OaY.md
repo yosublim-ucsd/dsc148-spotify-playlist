@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-417 songs - 1 day 1 hr 26 min
+418 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Just To Hear You Say \- Joseph Ray Remix](https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 5:03 | 2022-08-05 | 2022-09-10 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-06-17 |  |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 | 2024-01-12 |  |
-| [Last Dance](https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Last Dance](https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD) | 3:37 | 2024-08-23 |  |
+| [Last Dance](https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Last Dance](https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD) | 3:37 | 2024-08-23 | 2024-11-24 |
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 |  |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 | 2022-07-29 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 | 2024-10-04 |  |
@@ -418,6 +418,7 @@
 | [Wild Feelings](https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Wild Feelings](https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ) | 2:41 | 2022-05-13 | 2023-03-26 |
 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 | 2023-06-09 |  |
 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 | 2023-10-06 | 2024-08-17 |
+| [without u](https://open.spotify.com/track/2VHMxDk7cTzeZOIZozfTfi) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [without u](https://open.spotify.com/album/69IL9BtvOJJpiLtQ30QCPf) | 3:20 | 2024-11-22 |  |
 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 | 2024-05-10 | 2024-08-10 |
 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 | 2024-04-19 |  |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-16 | 2024-03-30 |

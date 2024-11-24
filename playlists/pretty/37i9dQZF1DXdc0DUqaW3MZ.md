@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,397 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,492 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 35 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 |
 | 36 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
 | 37 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
-| 38 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
-| 39 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
+| 38 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
+| 39 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
 | 40 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 41 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 42 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 65 | [Things You Didn't Know](https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Things You Didn't Know](https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh) | 2:51 |
 | 66 | [Can't Afford Me](https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi) | [Kuma Overdose](https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ), [SA$H£R](https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb) | [Can't Afford Me](https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw) | 3:38 |
 | 67 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
-| 68 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 |
+| 68 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
 | 69 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
-| 70 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
+| 70 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 |
 
 Snapshot ID: `Zxu/dwAAAAAO86AAcLxErNT9GqaJd9Pe`

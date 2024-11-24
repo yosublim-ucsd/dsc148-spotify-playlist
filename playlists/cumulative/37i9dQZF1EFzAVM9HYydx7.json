@@ -4271,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "C.A.S.H.",
+        "url": "https://open.spotify.com/album/03ItwKduulIYzzMNMkrlI2"
+      },
+      "artists": [
+        {
+          "name": "Cassidy",
+          "url": "https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314960,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/2B7YRWYjNCgNTHf3P6CNp0"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },

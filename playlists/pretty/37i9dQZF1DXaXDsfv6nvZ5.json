@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 765671,
+  "num_followers": 765788,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
-      "added_at": "2024-11-08 14:48:31",
-      "album": {
-        "name": "Give Up The Fear",
-        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
-    },
-    {
       "added_at": "2023-05-26 13:00:09",
       "album": {
         "name": "A Brief Nirvana",
@@ -1551,6 +1535,22 @@
       "duration_ms": 206739,
       "name": "Outside The Gate",
       "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
+    },
+    {
+      "added_at": "2024-11-08 14:48:31",
+      "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
     },
     {
+      "added_at": "2024-10-25 07:15:59",
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Love Is Alive",
@@ -1601,20 +1617,20 @@
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
     },
     {
-      "added_at": "2024-10-25 07:15:59",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 200813,
-      "name": "TLC",
-      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
+      "duration_ms": 250434,
+      "name": "Good Bye",
+      "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
     },
     {
       "added_at": "2024-10-13 00:13:24",
@@ -1635,26 +1651,6 @@
       "duration_ms": 217622,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"
-    },
-    {
-      "added_at": "2024-07-19 16:03:54",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE"
-      },
-      "artists": [
-        {
-          "name": "Rich",
-          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
-        },
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw"
     },
     {
       "added_at": "2024-03-01 06:13:32",
@@ -1689,20 +1685,40 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2024-07-19 16:03:54",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        },
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 250434,
-      "name": "Good Bye",
-      "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
+      "duration_ms": 170579,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw"
+    },
+    {
+      "added_at": "2024-06-07 12:35:37",
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1725,20 +1741,20 @@
       "url": "https://open.spotify.com/track/1iwsw0pl4k4C3A9a2yK38p"
     },
     {
-      "added_at": "2024-06-07 12:35:37",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Vintage",
-      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+      "duration_ms": 181920,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
     },
     {
       "added_at": "2024-09-27 17:40:25",
@@ -1761,22 +1777,6 @@
       "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
-    },
-    {
       "added_at": "2024-05-24 07:09:55",
       "album": {
         "name": "dangerous game",
@@ -1797,26 +1797,6 @@
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
     },
     {
-      "added_at": "2024-05-10 05:54:01",
-      "album": {
-        "name": "Lotus Glow (Deluxe)",
-        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Le D\u00e9part - Feat. Durand Bernarr",
-      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "VELVET SOUL: SIDE A",
@@ -1831,6 +1811,26 @@
       "duration_ms": 190623,
       "name": "JAI'S SONG (FALLING)",
       "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
+    },
+    {
+      "added_at": "2024-11-22 19:03:40",
+      "album": {
+        "name": "WHY (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/3jrL60zlPaQZ0QDbrbg8RM"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "WHY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1855,6 +1855,26 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
+      "added_at": "2024-05-10 05:54:01",
+      "album": {
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2001,22 +2021,6 @@
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
     },
     {
-      "added_at": "2024-10-25 07:15:59",
-      "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7"
-      },
-      "artists": [
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA"
-    },
-    {
       "added_at": "2024-11-08 14:48:31",
       "album": {
         "name": "cloudy",
@@ -2031,6 +2035,22 @@
       "duration_ms": 275000,
       "name": "wrong",
       "url": "https://open.spotify.com/track/1G08KynrJKRBaX94kPmdSK"
+    },
+    {
+      "added_at": "2024-10-25 07:15:59",
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA"
     },
     {
       "added_at": "2024-05-31 07:10:31",
@@ -2075,26 +2095,6 @@
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
-    },
-    {
-      "added_at": "2024-11-22 19:03:40",
-      "album": {
-        "name": "WHY (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/3jrL60zlPaQZ0QDbrbg8RM"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "WHY - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2169,6 +2169,26 @@
       "url": "https://open.spotify.com/track/2EAGVTNgLarIWJjMzI0Gel"
     },
     {
+      "added_at": "2024-11-15 07:05:31",
+      "album": {
+        "name": "3rd Shift - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "3rd Shift - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
+    },
+    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "High Rise",
@@ -2221,26 +2241,6 @@
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "3rd Shift - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "3rd Shift - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sophcore",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-10-20 05:25:27",
       "album": {
-        "name": "Lahai",
-        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "Inclination Compass (Tenderness)",
-      "url": "https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u"
-    },
-    {
-      "added_at": "2023-10-20 05:25:27",
-      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 152755,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"
+    },
+    {
+      "added_at": "2023-10-20 05:25:27",
+      "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "Inclination Compass (Tenderness)",
+      "url": "https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2357,22 +2357,6 @@
       "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 169015,
-      "name": "Things I Never Said",
-      "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Algorithm",
@@ -2387,6 +2371,22 @@
       "duration_ms": 282315,
       "name": "Mary",
       "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
+    },
+    {
+      "added_at": "2024-08-30 05:27:28",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 169015,
+      "name": "Things I Never Said",
+      "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -2469,22 +2469,6 @@
       "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Solo",
@@ -2507,6 +2491,22 @@
       "duration_ms": 196285,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
     },
     {
       "added_at": "2024-10-04 06:56:53",
@@ -2581,22 +2581,6 @@
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 299386,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
-    },
-    {
       "added_at": "2024-02-09 18:22:45",
       "album": {
         "name": "On God",
@@ -2611,6 +2595,22 @@
       "duration_ms": 208000,
       "name": "Love Is U",
       "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
+    },
+    {
+      "added_at": "2024-08-30 05:27:28",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
     },
     {
       "added_at": "2023-07-07 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: THE FIX(\ub354 \ud53d\uc2a4))",
-  "num_followers": 27024,
+  "num_followers": 27026,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 198939,
+      "name": "Dynamite (EDM Remix)",
+      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Do It Like That (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 139441,
       "name": "Do It Like That (Alan Walker Remix)",
       "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Dynamite (EDM Remix)",
-      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Somehow",
-        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Pure 100%",
-          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Somehow",
-      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "iScreaM Vol.32 : Impossible Remix",
         "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Pure 100%",
+          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "TROUBLE (arcon Remix)",
-        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        },
-        {
-          "name": "arcon",
-          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "TROUBLE - arcon Remix",
-      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "iScreaM Vol.16 : Glitch Mode Remix",
         "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
       },
@@ -1231,6 +1211,26 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "TROUBLE (arcon Remix)",
+        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        },
+        {
+          "name": "arcon",
+          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "TROUBLE - arcon Remix",
+      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 255628,
       "name": "Energetic (Prequel Remix)",
       "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Pressure (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
-      },
-      "artists": [
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Pressure - Radio Edit",
-      "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1303,6 +1283,26 @@
       "duration_ms": 168973,
       "name": "Perfume - Jafunk Remix",
       "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Pressure (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Pressure - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "C\u00d6URAGE",
-        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        }
-      ],
-      "duration_ms": 262090,
-      "name": "Priya",
-      "url": "https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "Heart Of Steel",
         "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 207089,
       "name": "Heart Of Steel",
       "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "C\u00d6URAGE",
+        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        }
+      ],
+      "duration_ms": 262090,
+      "name": "Priya",
+      "url": "https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1692,13 +1692,13 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+          "name": "BRLLNT",
+          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+      "duration_ms": 171940,
+      "name": "Bambi - BRLLNT Remix",
+      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1816,13 +1816,13 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "name": "BRLLNT",
-          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Bambi - BRLLNT Remix",
-      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1843,26 +1843,6 @@
       "duration_ms": 211506,
       "name": "Criminal - SUMIN Remix",
       "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Bop Bop! (Yves V Remix)",
-        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "BOP BOP! (Yves V Remix)",
-      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1891,6 +1871,42 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "Bop Bop! (Yves V Remix)",
+        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "BOP BOP! (Yves V Remix)",
+      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 162363,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Vanilla Sundae",
-      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
     },
     {
       "added_at": "2024-11-05 10:36:05",

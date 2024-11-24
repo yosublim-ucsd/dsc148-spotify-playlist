@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 261861,
+  "num_followers": 262167,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAAZkkF4nh8tlVoeVHPX6+Yx",
+  "snapshot_id": "Zz/JgAAAAADOAOcbOWEymhvwIECNJ1cr",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+      "duration_ms": 207269,
+      "name": "Wheels Fall Off",
+      "url": "https://open.spotify.com/track/4yGeJP63Z6gLEOZNHjkNnW"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 207269,
-      "name": "Wheels Fall Off",
-      "url": "https://open.spotify.com/track/4yGeJP63Z6gLEOZNHjkNnW"
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
       "duration_ms": 152133,
       "name": "Dead End Road (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "The Lost",
-      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "The Lost",
+      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 156816,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
+      "duration_ms": 203550,
+      "name": "Nothing Left At All",
+      "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 203550,
-      "name": "Nothing Left At All",
-      "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
+      "duration_ms": 156816,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
       "duration_ms": 167635,
       "name": "Johnny and June",
       "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 296866,
+      "name": "Believe (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
     }
   ],
   "unique_name": "This Is Jelly Roll",

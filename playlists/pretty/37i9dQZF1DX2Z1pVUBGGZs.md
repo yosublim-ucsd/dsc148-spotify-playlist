@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring matilda mann  ☁️  art: @doolittleillustrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,006 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,957 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 18 | [just call me](https://open.spotify.com/track/64fAqe3CUYYipu3o9ymb5d) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [just call me](https://open.spotify.com/album/2GszWaLbnHGy7LhBBwSfD9) | 3:11 |
 | 19 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
 | 20 | [Feel Anything](https://open.spotify.com/track/7Hwt6RJQ30Cm0JmOOZzCBg) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/4yZpanowmJSlgmAawuX4mv) | 2:42 |
-| 21 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 |
+| 21 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 |
 | 22 | [isla, darling](https://open.spotify.com/track/3pnJ2u8iLXtk56SwICBOMZ) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [isla, darling](https://open.spotify.com/album/2XFl60ZbLBGu3kJknGkA4I) | 1:46 |
 | 23 | [mutual butterflies](https://open.spotify.com/track/1fkwRAlyoANO7TENCWQQls) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [mutual butterflies](https://open.spotify.com/album/3J7hHqMXYFJUyCZOJJ4btM) | 2:43 |
 | 24 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 |

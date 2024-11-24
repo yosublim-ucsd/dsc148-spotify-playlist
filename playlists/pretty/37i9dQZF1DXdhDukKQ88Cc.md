@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe 🌪️ <a href="spotify:artist:09Tr5rMM8oP3lN24JOnBW9">Bellyyy</a>🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,496 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,517 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

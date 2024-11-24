@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Kendall Pe\u00f1a en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79193,
+  "num_followers": 79186,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "El Crush",
-        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
-      },
-      "artists": [
-        {
-          "name": "Alan Navarro",
-          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Crush",
-      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Fugazi",
         "url": "https://open.spotify.com/album/48WEloiqTGL9HOCNatbtw0"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "El Crush",
+        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Crush",
+      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 202146,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "M\u00e1s All\u00e1",
-        "url": "https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -699,6 +683,22 @@
       "duration_ms": 174659,
       "name": "las cosas no son lo que parecen",
       "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "M\u00e1s All\u00e1",
+        "url": "https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -767,26 +767,6 @@
       "duration_ms": 182546,
       "name": "Escuchado",
       "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -863,6 +843,26 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+        "name": "\u00daltimo Intento",
+        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         }
       ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+      "duration_ms": 174915,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -959,22 +975,6 @@
       "duration_ms": 221610,
       "name": "Noche Estrellada",
       "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "\u00daltimo Intento",
-        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "El Principal",
-        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "ni-hao!!!!",
-          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
-        }
-      ],
-      "duration_ms": 210187,
-      "name": "El Principal",
-      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Solo Los Amantes Sobreviven",
         "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "El Principal",
+        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "duration_ms": 210187,
+      "name": "El Principal",
+      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "contigo me siento en casa",
         "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 171725,
       "name": "contigo me siento en casa",
       "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "sobrenatural",
-        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "sobrenatural",
-      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "1 veranito sad",
         "url": "https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ"
       },
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "La Humedad",
-        "url": "https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv"
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
       },
       "artists": [
         {
-          "name": "Y\u00f6els",
-          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 208213,
-      "name": "La Humedad",
-      "url": "https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb"
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+        "name": "La Humedad",
+        "url": "https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Y\u00f6els",
+          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
         }
       ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+      "duration_ms": 208213,
+      "name": "La Humedad",
+      "url": "https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb"
     },
     {
       "added_at": "2024-11-22 06:14:38",

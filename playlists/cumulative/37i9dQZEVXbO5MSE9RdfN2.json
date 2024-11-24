@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 238143,
       "name": "A Work of Art",
       "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
@@ -3889,6 +3889,64 @@
     },
     {
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Greg Wells",
+          "url": "https://open.spotify.com/artist/2DSl2WOv43NAFhEFo43bDf"
+        },
+        {
+          "name": "Jack Dolman",
+          "url": "https://open.spotify.com/artist/5nrgPzwADS33jyCOB5oBaw"
+        },
+        {
+          "name": "Dominick Amendum",
+          "url": "https://open.spotify.com/artist/1Q352BhdfLkxHA9fdAvagz"
+        },
+        {
+          "name": "Norbert Leo Butz",
+          "url": "https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Christopher Fitzgerald",
+          "url": "https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII"
+        },
+        {
+          "name": "Michelle Federer",
+          "url": "https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457333,
+      "name": "Dancing Through Life - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/0t5uXvKUEOepGXIyziHMTQ"
+    },
+    {
+      "album": {
         "name": "dans tes bras II (Lady Killers II)",
         "url": "https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH"
       },
@@ -4204,7 +4262,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -8395,6 +8453,28 @@
     },
     {
       "album": {
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "album": {
         "name": "it is what it is",
         "url": "https://open.spotify.com/album/25xhger0TktttvdNGbRdRu"
       },
@@ -8660,7 +8740,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -10848,7 +10928,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/2SirJ3tf8AIjX8zBEKAGfe"
@@ -10866,7 +10946,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
@@ -12464,7 +12544,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 179906,
       "name": "One Take Freestyle",
       "url": "https://open.spotify.com/track/7x5CvENf43u875TNrtqT1h"

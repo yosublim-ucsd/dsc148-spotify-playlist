@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,133 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,146 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 39 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 |
 | 40 | [Kill This Love \- Live](https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 3:11 |
 | 41 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |
-| 42 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 |
-| 43 | [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 |
+| 42 | [Emotions \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [MTV Unplugged EP](https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM) | 3:59 |
+| 43 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 |
 | 44 | [betty \- Live from the 2020 Academy of Country Music Awards](https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [betty \(Live from the 2020 Academy of Country Music Awards\)](https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL) | 5:12 |
 | 45 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
 | 46 | [Hung Up \- Live](https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 9:50 |

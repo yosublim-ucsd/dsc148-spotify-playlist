@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAACau002CQc/3SY/BcIM7Fy+",
+  "snapshot_id": "Zz/JgAAAAAC8w3QJwCFm6fBTBNK6Arh6",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 415733,
-      "name": "African Soldier",
-      "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly African Eagle: The Best Of African Reggae",
         "url": "https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1"
       },
@@ -95,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 415733,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrate & Worship In Caribbean Rhythms",
         "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
       },
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Save Our Souls",
-      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
+      "duration_ms": 269200,
+      "name": "Great Change/God's Army",
+      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Mt. Zion",
-      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
+      "duration_ms": 184586,
+      "name": "Save Our Souls",
+      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 229226,
-      "name": "The Day Jesus Was Crucufied",
-      "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
+      "duration_ms": 84200,
+      "name": "Kenelum Jehova (Igbo-Nigeria)",
+      "url": "https://open.spotify.com/track/5QjrUKOOYpyUWTC9a7nn6N"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 269200,
-      "name": "Great Change/God's Army",
-      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+      "duration_ms": 175933,
+      "name": "Jesus Give Me Your Light",
+      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 84200,
-      "name": "Kenelum Jehova (Igbo-Nigeria)",
-      "url": "https://open.spotify.com/track/5QjrUKOOYpyUWTC9a7nn6N"
+      "duration_ms": 229226,
+      "name": "The Day Jesus Was Crucufied",
+      "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 175933,
-      "name": "Jesus Give Me Your Light",
-      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
+      "duration_ms": 172226,
+      "name": "Mt. Zion",
+      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 336173,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6UQR1ILBVMIGlwmh8nbEE4"
+      "duration_ms": 254133,
+      "name": "What Manner Of Man",
+      "url": "https://open.spotify.com/track/5Q1iqXx9UZtjcj6seSFi8k"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 448026,
-      "name": "Dance Of The Elephants",
-      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire In Soweto",
         "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 479120,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ozziddi For Sale",
         "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
       },
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+      "duration_ms": 418093,
+      "name": "War of Nations",
+      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
     },
     {
       "added_at": null,

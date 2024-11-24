@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Martin Garrix & Jex
 
-1,485 songs - 3 day 12 hr 46 min
+1,485 songs - 3 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,7 +902,7 @@
 | [No Love](https://open.spotify.com/track/2CUjGppSC2gP62xeNmCIWh) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [No Love](https://open.spotify.com/album/7aCjB3RvvOFowFK24tehTP) | 2:45 | 2023-11-10 | 2024-01-20 |
 | [No Love For You](https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Drop \- G](https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD) | [No Love For You](https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE) | 2:58 | 2022-11-04 | 2023-02-11 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 | 2022-09-03 |
-| [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:24 | 2024-11-22 |  |
+| [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2024-11-22 |  |
 | [No Piensa](https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [No Piensa](https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA) | 2:29 | 2022-07-22 | 2022-09-24 |
 | [No Reason](https://open.spotify.com/track/4Eg3GyadlKhfqYCz22kfwf) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [No Reason](https://open.spotify.com/album/5RECCbe1kLEXDxXTRfy24x) | 3:16 | 2022-06-03 | 2022-08-20 |
 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 | 2024-05-10 | 2024-06-01 |

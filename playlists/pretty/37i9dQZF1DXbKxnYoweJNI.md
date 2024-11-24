@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 椅子樂團  \(The Chairs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,129 likes - 155 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,133 likes - 155 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 15 | [Renegade](https://open.spotify.com/track/02FNEPzq6bTUOXoYc8nmso) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq), [Yoanko Futura](https://open.spotify.com/artist/6kTCSmBx0sWMVGhVsNvCat) | [Renegade](https://open.spotify.com/album/26poS8KRHcz750XJNahV6P) | 3:10 |
 | 16 | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/track/2Al1p39pSexbE022iobU8m) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO), [楊和蘇KeyNG](https://open.spotify.com/artist/49CtkDvDlgQjW3ZoUySsMQ) | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/album/3Z4zJXOM2XK1MPdShAya6X) | 3:43 |
 | 17 | [Get Over You](https://open.spotify.com/track/1zGGApxgRQO4Ro57TPbrIV) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Get Over You](https://open.spotify.com/album/3OCUCHH0y3RPL5egCQJYKv) | 3:38 |
-| 18 | [愛情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [愛情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
+| 18 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
 | 19 | [心碎](https://open.spotify.com/track/2lwnkqkSBRM8hRIVfNYjyv) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [心碎](https://open.spotify.com/album/0vXcOGYNj0kktWAdy2qUn2) | 3:59 |
 | 20 | [闹事](https://open.spotify.com/track/27E0CBoI3OAGeNSgzdHyjN) | [烟\(许佳豪\)](https://open.spotify.com/artist/2DXogZyZTpItlsIGCG6Qpt) | [闹事](https://open.spotify.com/album/5b81z3mSYVH3NGWLiwu0Td) | 3:14 |
 | 21 | [换季关系](https://open.spotify.com/track/499vCGlTufXOIyXaB5xYBR) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq), [GHAZT](https://open.spotify.com/artist/6VfJVZy1tdcsxFyXIZPuxM) | [换季关系](https://open.spotify.com/album/5QCFZOgSSFLTLserfe6FoQ) | 4:38 |
 | 22 | [我不是你](https://open.spotify.com/track/4I0NOKUgtk2MCEgsrx4q0v) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [我不是你](https://open.spotify.com/album/2IQWZEoarhHIaHuxbrI7im) | 3:54 |
 | 23 | [让我留在你身边](https://open.spotify.com/track/2ymdxDoY6GWLL0v3X366jH) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb) | [让我留在你身边](https://open.spotify.com/album/3B1SpzK8Z2zr0thbu8Y5ma) | 3:16 |
 | 24 | [一個人就好](https://open.spotify.com/track/6oS9b6gviaTvCSY9wyLFsA) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [一個人就好](https://open.spotify.com/album/5ZMeYXCA5BAUechu3uSmKW) | 2:58 |
-| 25 | [大魔王](https://open.spotify.com/track/7oZlSHWe2e4ss2Sz3WSnsW) | [Ponay](https://open.spotify.com/artist/3pa2wqMz94y6MabWsAepAo), [舞炯恩](https://open.spotify.com/artist/21NwSAAbNe7mbnUsCLlSVR) | [大魔王](https://open.spotify.com/album/2LQBq5uAXD5jdox7tWgf2s) | 4:00 |
+| 25 | [大魔王](https://open.spotify.com/track/7oZlSHWe2e4ss2Sz3WSnsW) | [Ponay](https://open.spotify.com/artist/3pa2wqMz94y6MabWsAepAo), [舞炯恩](https://open.spotify.com/artist/21NwSAAbNe7mbnUsCLlSVR) | [大魔王](https://open.spotify.com/album/2LQBq5uAXD5jdox7tWgf2s) | 3:29 |
 | 26 | [ROLEMODEL\(feat.GALI\)](https://open.spotify.com/track/5XUhIoqkyy6V5n3TrOpRgZ) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [ROLEMODEL \(feat.GALI\)](https://open.spotify.com/album/4hY4w2xbBTTwMLZqbISMIj) | 3:00 |
 | 27 | [平衡木](https://open.spotify.com/track/74xIEZIHWCEC8BW9AlocKV) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [平衡木](https://open.spotify.com/album/6cjIpMMjJ72e00A4xl23js) | 3:30 |
 | 28 | [爱在许愿前 \(Love Upon Wish\)](https://open.spotify.com/track/5rzQjbqybRDgD7zS6RQdcT) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [爱在许愿前 \(Love Upon Wish\)](https://open.spotify.com/album/7oNJD4UmWkYbgKQaMqZIHo) | 2:46 |

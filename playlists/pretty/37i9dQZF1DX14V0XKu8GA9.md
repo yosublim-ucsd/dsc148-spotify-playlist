@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Alexcis & Rowdy Racks
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,248 likes - 35 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,270 likes - 35 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 8 | [SOUTHEAST GZ](https://open.spotify.com/track/2ogS4Y7zqgoulEkEife2tq) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [SOUTHEAST GZ](https://open.spotify.com/album/6MDhQeNVbpLiQX7hBi65uJ) | 2:56 |
 | 9 | [The Dream \(feat\. Timothy Bloom\)](https://open.spotify.com/track/0D95xgpVavXITdRmIe87jf) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Timothy Bloom](https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI) | [The Dream \(feat\. Timothy Bloom\)](https://open.spotify.com/album/1Ed4u4PzUmxc8Gsu9rytwd) | 3:16 |
 | 10 | [What It Iz](https://open.spotify.com/track/2X77wo27HXr3A69G2xqAPB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [What It Iz](https://open.spotify.com/album/1YV0BK6JdrWC1SkRRGFFST) | 2:45 |
-| 11 | [gnx](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
+| 11 | [gnx \(feat\. hitta j3, youngthreat, peysoh\)](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [YoungThreat](https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
 | 12 | [Goonz](https://open.spotify.com/track/7CGLH3ZcJ4yUqIvi6YWsWI) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [Goonz](https://open.spotify.com/album/6Z6LT816YyRI0Mr36zwCad) | 2:21 |
 | 13 | [Major Plays \(feat\. Peso Peso\)](https://open.spotify.com/track/0LN7o76bNy32GK7ydiTB40) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Major Plays \(feat\. Peso Peso\)](https://open.spotify.com/album/30ajjG77zYOUfAUow6cxL0) | 2:42 |
 | 14 | [Buck Fifty Freestyle](https://open.spotify.com/track/53AZ0rtnXWcjFCBqLUWOjm) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Buck Fifty Freestyle](https://open.spotify.com/album/5fdJqyG6TpCvN3TGRq5an4) | 1:48 |
 | 15 | [Adrenalina](https://open.spotify.com/track/2dQ7neF14k7tGCQvql0ipe) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Adrenalina](https://open.spotify.com/album/2ciJ4MSLYAfXKySxIFi2L1) | 2:54 |
 | 16 | [POPLOCK](https://open.spotify.com/track/4ZpZp2m1TTYWumfpeF5T3C) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ) | [POPLOCK](https://open.spotify.com/album/0Pnu5iettkrJuoZ7g2z8kR) | 3:42 |
-| 17 | [tv off](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
+| 17 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 18 | [No Handouts](https://open.spotify.com/track/7IQ1c1d24ECUYklOOsnx1v) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Rowdy Racks](https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe) | [No Handouts](https://open.spotify.com/album/7sl184q1LtfnE7pcmM2hMN) | 3:08 |
 | 19 | [REBELDE](https://open.spotify.com/track/4ScJ7wyY0bylOD6TlD9iXQ) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [REBELDE](https://open.spotify.com/album/6tvxmycm2tnja06shgdTxK) | 2:56 |
 | 20 | [Like What](https://open.spotify.com/track/3hPHakmrX0DVlKGvHasXOt) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Like What](https://open.spotify.com/album/1p8GGFr5w4WtVocLO2MKfd) | 1:54 |

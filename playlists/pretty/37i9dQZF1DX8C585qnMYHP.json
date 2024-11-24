@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179421,
+  "num_followers": 179567,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "Aprender a Ser: Extended",
@@ -615,6 +599,22 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -721,38 +721,6 @@
       "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
-        "name": "Video Music",
-        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 129554,
-      "name": "Video Music",
-      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
-    },
-    {
-      "added_at": "2024-09-18 13:50:00",
-      "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "forever isn't true",
@@ -773,6 +741,22 @@
       "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
@@ -787,6 +771,22 @@
       "duration_ms": 270000,
       "name": "Rhythm-O-Green",
       "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
+    },
+    {
+      "added_at": "2024-09-18 13:50:00",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
-    },
-    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Blue Note",
@@ -891,6 +875,22 @@
       "duration_ms": 191124,
       "name": "Blue Note",
       "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Everything but the Hate",
+        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
+      },
+      "artists": [
+        {
+          "name": "Otala",
+          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Everything but the Hate",
+      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -1011,22 +1027,6 @@
       "duration_ms": 188312,
       "name": "retrofit",
       "url": "https://open.spotify.com/track/2naYWFOkEHp1u5DrbdKC0P"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Everything but the Hate",
-        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
-      },
-      "artists": [
-        {
-          "name": "Otala",
-          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Everything but the Hate",
-      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Should I Be Worried",
-        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
-      },
-      "artists": [
-        {
-          "name": "Theredone",
-          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Earth to Moon",
-      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "A Diosa (Non potho reposare)",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
+        "name": "Should I Be Worried",
+        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
+      },
+      "artists": [
+        {
+          "name": "Theredone",
+          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Earth to Moon",
+      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
         "name": "Panamanian Nights",
         "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 181818,
       "name": "Afro American",
       "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Palloon EP",
-        "url": "https://open.spotify.com/album/2TecJf7xnoNCZr3apHiQt3"
-      },
-      "artists": [
-        {
-          "name": "LWS",
-          "url": "https://open.spotify.com/artist/1txjnpEcHM03wCprQmWxVl"
-        }
-      ],
-      "duration_ms": 535000,
-      "name": "Palloon",
-      "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1323,6 +1307,22 @@
       "duration_ms": 295392,
       "name": "Cmad",
       "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Palloon EP",
+        "url": "https://open.spotify.com/album/2TecJf7xnoNCZr3apHiQt3"
+      },
+      "artists": [
+        {
+          "name": "LWS",
+          "url": "https://open.spotify.com/artist/1txjnpEcHM03wCprQmWxVl"
+        }
+      ],
+      "duration_ms": 535000,
+      "name": "Palloon",
+      "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
+        "name": "\u8308",
+        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
+      },
+      "artists": [
+        {
+          "name": "WOZNIAK",
+          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "\u8308",
+      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
         "name": "(The Circle) of Compassion",
         "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "\u8308",
-        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
-      },
-      "artists": [
-        {
-          "name": "WOZNIAK",
-          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u8308",
-      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Within",
-        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
-      },
-      "artists": [
-        {
-          "name": "AINON",
-          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Magia Lumen",
@@ -1545,6 +1529,22 @@
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
     },
     {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Within",
+        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
+      },
+      "artists": [
+        {
+          "name": "AINON",
+          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Between Waves",
@@ -1563,6 +1563,22 @@
       "duration_ms": 389784,
       "name": "Picture This",
       "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1601,20 +1617,20 @@
       "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+        "name": "Apolithoma",
+        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
       },
       "artists": [
         {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+          "name": "Veslemes",
+          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
         }
       ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
+      "duration_ms": 316928,
+      "name": "Port Mattare",
+      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1631,22 +1647,6 @@
       "duration_ms": 253613,
       "name": "Full Spectrum",
       "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Apolithoma",
-        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
-      },
-      "artists": [
-        {
-          "name": "Veslemes",
-          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
-        }
-      ],
-      "duration_ms": 316928,
-      "name": "Port Mattare",
-      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2024-10-16 02:02:35",
       "album": {
-        "name": "Cure For Tranquility",
-        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
-      },
-      "artists": [
-        {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        },
-        {
-          "name": "Haski",
-          "url": "https://open.spotify.com/artist/6m9QZEedOBp18M0D7mM9Tz"
-        }
-      ],
-      "duration_ms": 174787,
-      "name": "No Lo Son",
-      "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
-    },
-    {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
         "name": "Time (Nick Walters Remix)",
         "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 278657,
       "name": "Time - Nick Walters Remix",
       "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Cure For Tranquility",
+        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
+      },
+      "artists": [
+        {
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
+        },
+        {
+          "name": "Haski",
+          "url": "https://open.spotify.com/artist/6m9QZEedOBp18M0D7mM9Tz"
+        }
+      ],
+      "duration_ms": 174787,
+      "name": "No Lo Son",
+      "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
     },
     {
       "added_at": "2024-10-09 01:34:34",

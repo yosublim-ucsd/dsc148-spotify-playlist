@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Air Max",
       "url": "https://open.spotify.com/track/3OGv5aAfxKGmkstUtsfFUC"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 193894,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/04QQKADf45xNvlgJHC9nvO"
@@ -9074,7 +9074,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -10066,7 +10066,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 167052,
       "name": "Eftihismenes Imeres In C Minor",
       "url": "https://open.spotify.com/track/5aQoNwVTwlr4rFSFZonGxA"
@@ -12098,7 +12098,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 153560,
       "name": "FANTA",
       "url": "https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS"
@@ -13384,7 +13384,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 231986,
       "name": "Fyge - Reworks",
       "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
@@ -16782,7 +16782,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
@@ -19134,7 +19134,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -26332,7 +26332,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 176709,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/6Y3vVTKOJFWCgBbzp9YPU2"
@@ -26770,6 +26770,24 @@
       "duration_ms": 188769,
       "name": "ON THE REGULAR",
       "url": "https://open.spotify.com/track/0EJ7DeseHxKi6KkaPGFvHn"
+    },
+    {
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232900,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0"
     },
     {
       "album": {
@@ -27620,7 +27638,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 132704,
       "name": "Panama",
       "url": "https://open.spotify.com/track/16mGbBq6JHxw3WKxiFbsHv"
@@ -29988,7 +30006,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 150484,
       "name": "PULVO",
       "url": "https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR"
@@ -35631,6 +35649,24 @@
     },
     {
       "album": {
+        "name": "Tipota Ston Kosmo",
+        "url": "https://open.spotify.com/album/2xDC5wvJUY2lak201mGwNc"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "Tipota Ston Kosmo",
+      "url": "https://open.spotify.com/track/6WCkbrjSG16OJTlMayNmqU"
+    },
+    {
+      "album": {
         "name": "Tipota Tiheo",
         "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
       },
@@ -36006,6 +36042,24 @@
       "duration_ms": 237592,
       "name": "TO SINITHIZO",
       "url": "https://open.spotify.com/track/3fGP1nAgAxHFGyDaWhAi2S"
+    },
+    {
+      "album": {
+        "name": "To Vale",
+        "url": "https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207556,
+      "name": "To Vale",
+      "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"
     },
     {
       "album": {
@@ -37782,6 +37836,28 @@
       "duration_ms": 166551,
       "name": "Van Persie",
       "url": "https://open.spotify.com/track/34Q1M0pSFzV71nQ65Kl8vd"
+    },
+    {
+      "album": {
+        "name": "Varane",
+        "url": "https://open.spotify.com/album/272JVOb1paKp1vwCxNcjkv"
+      },
+      "artists": [
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132598,
+      "name": "Varane",
+      "url": "https://open.spotify.com/track/4lvHQEPkjbCurmAAFO7GxY"
     },
     {
       "album": {

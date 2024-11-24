@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1409414,
+  "num_followers": 1409684,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Watershed (Special Edition)",
+        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 461053,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Evolution (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 397773,
       "name": "Screaming in the Night",
       "url": "https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Watershed (Special Edition)",
-        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 461053,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
-      },
-      "artists": [
-        {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Fly To The Angels",
-      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 308333,
       "name": "Cryin'",
       "url": "https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
     },
     {
       "added_at": "2024-06-10 16:00:39",

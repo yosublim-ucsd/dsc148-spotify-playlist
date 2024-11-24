@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 28 | [Ne vdigay](https://open.spotify.com/track/4jBzWeEry7lyvPeR1tQp64) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Ulitsata](https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18) | 3:35 |
 | 29 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 | 30 | [Зиг\-заг](https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 2:48 |
-| 31 | [Delta Force](https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Tzankǎ Uraganu](https://open.spotify.com/artist/1nRdMIjXitRbmuhwGJopDK) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:07 |
+| 31 | [Delta Force](https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Tzanca Uragan](https://open.spotify.com/artist/3lbZr7dH2UwN4ZBhv0CcXb) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:07 |
 | 32 | [Burzi Pari](https://open.spotify.com/track/3PAqlai6a6w4ptGRFhfEqn) | [Marso](https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv), [SST](https://open.spotify.com/artist/21dDhxm6HACY7m7vzfInMh) | [Burzi Pari](https://open.spotify.com/album/7zKTKuy3QLQLWufG3QHE17) | 3:17 |
 | 33 | [Константине](https://open.spotify.com/track/3I4DeXZENnp9txN2za4Lyf) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Sofi Marinova](https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq) | [Константине](https://open.spotify.com/album/4o3sYDXhSvHcXvpEyF4FJp) | 3:26 |
 | 34 | [Моята принцеса](https://open.spotify.com/track/2niJWeSoQwV4LZtHtj4mpj) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Tomas](https://open.spotify.com/artist/48MmYtebtmsS7LjcYwGBWk) | [Моята принцеса](https://open.spotify.com/album/6QrIOUASlWIq4MW4tsCGTb) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 | 50 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 
-Snapshot ID: `LtPxSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtVFIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,043 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,060 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 2 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
 | 3 | [Arctic Tundra \(feat\. Juice WRLD\)](https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 4:29 |
 | 4 | [DIE WITHOUT A FIGHT](https://open.spotify.com/track/3lv7UjcqkwZ13V5pqQTrRj) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Cease & Disintegrate](https://open.spotify.com/album/0hvWOlqronpK8WVku6ADa4) | 1:32 |
-| 5 | [hey now](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 |
+| 5 | [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 |
 | 6 | [The Biggest Pt\. 2](https://open.spotify.com/track/3Dw9lMKAtrorXeW0wec1dr) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [The Biggest Pt\. 2](https://open.spotify.com/album/3eUutraxnRY36Wnmp61feO) | 2:32 |
 | 7 | [Butterflies](https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 1:43 |
 | 8 | [Go To Yo Head](https://open.spotify.com/track/6YuLM78i7TGwIXusqcArT0) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Go To Yo Head](https://open.spotify.com/album/5gqOpv8aPdbeQhq9SV6lwc) | 2:11 |
 | 9 | [watch it all fall](https://open.spotify.com/track/4dHI6744n697CKwis0vhT5) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [watch it all fall](https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG) | 2:50 |
-| 10 | [tv off](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
+| 10 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 11 | [2s n 3s](https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [2s n 3s](https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT) | 3:00 |
 | 12 | [Bend It Over](https://open.spotify.com/track/4KNVEty6F6j6X7gI20iPGu) | [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Bend It Over](https://open.spotify.com/album/4buBT4k7xtqfpqXhZs9aeV) | 2:37 |
 | 13 | [Make Room](https://open.spotify.com/track/6HpfFUKzicwYBysbrmYwW1) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:47 |

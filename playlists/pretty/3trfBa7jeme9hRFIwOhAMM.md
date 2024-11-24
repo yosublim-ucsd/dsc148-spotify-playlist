@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,361 likes - 42 songs - 2 hr 16 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,364 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Call On Me](https://open.spotify.com/track/7tcqpfi5i5Mv4WWVskbFzk) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Call On Me](https://open.spotify.com/album/584k5yY7qB2EnnbDcT3xzT) | 3:53 |
+| 1 | [Call On Me](https://open.spotify.com/track/7tcqpfi5i5Mv4WWVskbFzk) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Call On Me](https://open.spotify.com/album/584k5yY7qB2EnnbDcT3xzT) | 3:23 |
 | 2 | [Don't Touch](https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Don't Touch](https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9) | 3:08 |
 | 3 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 4 | [Belong To](https://open.spotify.com/track/0d8tuYzJ5sBsI5GDH93Hdk) | [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF), [Bobby G](https://open.spotify.com/artist/3ayEYJV1cR9bzcwKNzk1cE), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [Belong To EP](https://open.spotify.com/album/3H7m8kCNOLV7NvEEn57PKN) | 2:25 |

@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,207 songs - 9 day 19 hr 59 min
+4,208 songs - 9 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [APES\*\*T](https://open.spotify.com/track/0B08s1tLWCXoFmGP0vIubM) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:24 | 2021-08-28 | 2021-09-11 |
 | [Aphid \(feat\. Dijon\)](https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Aphid \(feat\. Dijon\)](https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc) | 2:45 | 2024-03-20 | 2024-08-13 |
 | [Aphrodite](https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi) | [Jillian Loux](https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu) | [Aphrodite](https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f) | 3:01 | 2024-09-21 | 2024-10-04 |
+| [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 | 2024-11-23 |  |
 | [Apocalypse Later](https://open.spotify.com/track/30zL6GeVg4Of33cALj6xkL) | [Toon Verheyen Quartet](https://open.spotify.com/artist/5bQ5rNQ8XuqARKi4DRzkeG) | [Remi](https://open.spotify.com/album/0TQ6jZxyhhE1BT5b2spxYj) | 4:50 | 2021-01-15 | 2021-02-04 |
 | [APOLLO](https://open.spotify.com/track/1kH46cVFgORQMjnslirDId) | [Tyler Miller](https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI) | [SOPHIA](https://open.spotify.com/album/35hThG7fLYZlY4lsm05cLg) | 4:38 | 2023-08-29 | 2023-09-26 |
 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 | 2022-07-26 | 2024-04-30 |
@@ -1490,7 +1491,7 @@
 | [GOODTIME](https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [GOODTIME](https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP) | 2:13 | 2022-09-02 | 2022-09-18 |
 | [Gostar do Mundo](https://open.spotify.com/track/2j60V272qgAufKU7Y89gHL) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/5pH4N97k9zZmHAc3ketHcT) | 2:21 | 2022-11-04 | 2022-11-27 |
 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 | 2023-07-20 |  |
-| [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 | 2024-11-12 |  |
+| [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 | 2024-11-12 | 2024-11-24 |
 | [Got Me Feeling Like](https://open.spotify.com/track/2Uwth76CM1b9Gvs3ZMXDaD) | [Anna Richter](https://open.spotify.com/artist/0F9s0opfvkCKtHZwEECuZI) | [Got Me Feeling Like](https://open.spotify.com/album/5vX5rTaCcCJ8L1mGc5M2W8) | 3:18 | 2024-11-08 | 2024-11-20 |
 | [Gotta](https://open.spotify.com/track/3iGflVrKoY9f2DNW1utzeJ) | [Adam Whitley](https://open.spotify.com/artist/515j6fONkNxb5EjrtHsTqN), [Dan's Dead](https://open.spotify.com/artist/2nYdfmMNklO9CDtBlxqkh2) | [Gotta](https://open.spotify.com/album/5mtGu72IqoKw1mrPE7urdZ) | 1:50 | 2024-07-10 | 2024-07-23 |
 | [Gotta Go](https://open.spotify.com/track/774A4JWmIddeS3z5ghwXwf) | [HMZA.](https://open.spotify.com/artist/6PQvknpu8I2WEKWkqREOl4), [RIDL](https://open.spotify.com/artist/3bFNsW5tKEOX9FrCCkakM9) | [Gotta Go](https://open.spotify.com/album/6aqvlETxZg0IQ4451uOb5R) | 3:34 | 2023-06-23 | 2023-07-15 |
@@ -3055,7 +3056,7 @@
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2020-07-21 | 2020-08-20 |
 | [Roslyn](https://open.spotify.com/track/7cOaFebpU2WeTNps7lUKSB) | [EDU](https://open.spotify.com/artist/07DkcQ39rNICxi4FExM0O4), [Isabella Castillo](https://open.spotify.com/artist/1KUjNqQQPqBrIMKQ2ONefF) | [Roslyn](https://open.spotify.com/album/5xPJnK6xJWpNp2lPFuHYzC) | 2:55 | 2024-07-15 | 2024-07-27 |
 | [Rotation](https://open.spotify.com/track/2XKut37KFBAZ771tLRK1sv) | [Mikaela Stenmo](https://open.spotify.com/artist/2NkXWIUXqFVM1gnOIpoVZq) | [Blue](https://open.spotify.com/album/3ASuS5UwhcW8UMAl2Ahsbn) | 2:31 | 2024-02-23 | 2024-03-08 |
-| [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 | 2024-11-12 |  |
+| [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 | 2024-11-12 | 2024-11-24 |
 | [Rough Old Friend](https://open.spotify.com/track/1ZiQ8AldPsAIKrq1n3OPta) | [Cody Ellis](https://open.spotify.com/artist/3xrYyxHp2V0jQEE8wZdVjg) | [Good Medicine](https://open.spotify.com/album/5p9CiKZWW4h5U8f2kXDT7U) | 2:43 | 2023-06-24 | 2023-07-04 |
 | [Rounds](https://open.spotify.com/track/2u4uEx2BRBYVsCMVor9R7c) | [Joey T](https://open.spotify.com/artist/51i7M5CM40KzpWtsJYbpfl) | [Rounds](https://open.spotify.com/album/5re3EhPAGrpQTZIQ5jeULd) | 1:55 | 2022-08-19 | 2022-09-04 |
 | [Routine](https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m) | [Sim Paul](https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC) | [SADBOIBURNERACCOUNT](https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa) | 2:24 | 2022-03-25 | 2022-04-10 |

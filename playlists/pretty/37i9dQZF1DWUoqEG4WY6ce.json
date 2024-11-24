@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1118199,
+  "num_followers": 1118278,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 179973,
       "name": "Salute Your Solution",
       "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Con Law",
-        "url": "https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "When They Fight, They Fight",
-      "url": "https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "The Sunlandic Twins",
         "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 255613,
       "name": "Wraith Pinned to the Mist and Other Games",
       "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Con Law",
+        "url": "https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "When They Fight, They Fight",
+      "url": "https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
         "name": "Sky Blue Sky",
         "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Funky Galileo",
         "url": "https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Eternally Even",
-        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 256413,
-      "name": "Here In Spirit",
-      "url": "https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Eternally Even",
+        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "Here In Spirit",
+      "url": "https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4"
     },
     {
       "added_at": "2024-08-15 21:23:27",

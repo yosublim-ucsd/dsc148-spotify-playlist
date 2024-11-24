@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: RENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,903 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,904 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 |
 | 2 | [Time \(Something To You\)](https://open.spotify.com/track/6m4eXeINLVJZjiqms4ZooF) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Time \(Something To You\)](https://open.spotify.com/album/18ugjLWnho3wqFqRl0r711) | 3:25 |
-| 3 | [愛情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [愛情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
+| 3 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
 | 4 | [Birthdays on Video](https://open.spotify.com/track/7zWLEIQH2o23P8xPqZ3iNv) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Birthdays on Video](https://open.spotify.com/album/7jEPQVkN7xDnAMfMaAXFOv) | 3:39 |
 | 5 | [回到那天](https://open.spotify.com/track/5Yrm4mEAsl9IkU3GzFNQ6z) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [回到那天](https://open.spotify.com/album/7aBVFpqUnNVl8CfK5PcVF5) | 3:31 |
 | 6 | [换季关系](https://open.spotify.com/track/499vCGlTufXOIyXaB5xYBR) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq), [GHAZT](https://open.spotify.com/artist/6VfJVZy1tdcsxFyXIZPuxM) | [换季关系](https://open.spotify.com/album/5QCFZOgSSFLTLserfe6FoQ) | 4:38 |

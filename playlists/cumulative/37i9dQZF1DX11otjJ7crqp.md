@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Ruel
 
-6,847 songs - 14 day 5 hr 4 min
+6,848 songs - 14 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1358,7 +1358,7 @@
 | [Cut You Off](https://open.spotify.com/track/4yPI6KSmMMyUnKarPbYlzB) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Cut You Off](https://open.spotify.com/album/6n590MjEHxUtzB1xSdZuzR) | 3:33 | 2023-10-20 | 2023-10-28 |
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-21 | 2024-06-29 |
 | [Cute](https://open.spotify.com/track/5jCrrgqcndSwF6ldm0Vaw3) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Cute](https://open.spotify.com/album/7qtgM1sGnirTFAgg4UFbRf) | 2:35 | 2024-09-27 | 2024-10-05 |
-| [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:35 | 2024-11-15 |  |
+| [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:26 | 2024-11-15 |  |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-02-04 | 2022-02-19 |
 | [Cuts Deep](https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Cuts Deep](https://open.spotify.com/album/6LTBLtbhmyAsKi2L59l7Vo) | 3:00 | 2024-10-18 | 2024-10-26 |
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-07-23 |
@@ -1970,6 +1970,7 @@
 | [Family \(with Suzanna Son\)](https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7) | 3:03 | 2023-06-16 | 2023-07-01 |
 | [Family, Man](https://open.spotify.com/track/1ybiXCaXIx3XwFRadx08cs) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [two](https://open.spotify.com/album/3yEJgyvpFHo7FhnxZyyFz3) | 3:10 | 2022-11-11 | 2022-11-19 |
 | [Famous](https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Famous](https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me) | 3:00 | 2024-07-12 | 2024-07-27 |
+| [Fantastic \- from the series Arcane League of Legends](https://open.spotify.com/track/0Suz6v4QVqAfm3Sd77Lhew) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS) | 3:04 | 2024-11-22 |  |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-18 | 2024-10-26 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 | 2023-05-13 |
 | [Far Away](https://open.spotify.com/track/0ZZkO4f9yiXtkndRts6yP5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:50 | 2024-09-06 | 2024-09-21 |

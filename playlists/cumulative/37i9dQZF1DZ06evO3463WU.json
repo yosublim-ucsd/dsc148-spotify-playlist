@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Mi Otro Yo (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/4hRV6zeXYaYhjULJyIn8qs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206245,
+      "name": "Mi Otro Yo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/2Y5CY6BDY6pTTWAeIEvIeL"
+    },
+    {
+      "album": {
         "name": "Cien Por Ciento",
         "url": "https://open.spotify.com/album/4Wm2IxN5wuPAvBALzbF7Tt"
       },

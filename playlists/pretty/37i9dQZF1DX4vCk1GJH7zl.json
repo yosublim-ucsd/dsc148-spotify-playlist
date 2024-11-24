@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 141687,
+  "num_followers": 141772,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -464,7 +464,7 @@
       },
       "artists": [
         {
-          "name": "Detonautas Roque Clube",
+          "name": "Detonautas",
           "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
         },
         {
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
         "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
+        "name": "Elefantes",
+        "url": "https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
         }
       ],
-      "duration_ms": 177397,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+      "duration_ms": 185500,
+      "name": "Elefantes",
+      "url": "https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 193423,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Elefantes",
-        "url": "https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Elefantes",
-      "url": "https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
-      },
-      "artists": [
-        {
-          "name": "Esteban Tavares",
-          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
-        }
-      ],
-      "duration_ms": 230565,
-      "name": "Vida Real",
-      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "A Cidade Sumiu",
-        "url": "https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ"
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
       "artists": [
         {
-          "name": "Cadu Pereira",
-          "url": "https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP"
+          "name": "Esteban Tavares",
+          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
         }
       ],
-      "duration_ms": 177458,
-      "name": "A Cidade Sumiu",
-      "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
+      "duration_ms": 230565,
+      "name": "Vida Real",
+      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 226186,
       "name": "Outro Mundo, Outro Lugar",
       "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "A Cidade Sumiu",
+        "url": "https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ"
+      },
+      "artists": [
+        {
+          "name": "Cadu Pereira",
+          "url": "https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP"
+        }
+      ],
+      "duration_ms": 177458,
+      "name": "A Cidade Sumiu",
+      "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "De Volta Ao Novo - Volume 1",
-        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+        "name": "Espetacular",
+        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "M\u00e1rcio Greyck",
+          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
         }
       ],
-      "duration_ms": 186280,
-      "name": "N-U-M-A-B-O-A",
-      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+      "duration_ms": 273488,
+      "name": "Espetacular",
+      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Espetacular",
-        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Greyck",
-          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "Espetacular",
-      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Polaroid Sonora",
         "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 256725,
       "name": "VOU ESTAR AQUI",
       "url": "https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vou Te Encontrar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 270796,
-      "name": "Vou Te Encontrar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Acustico Dr. Sin 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 274866,
       "name": "Wake Me Up - Ao Vivo",
       "url": "https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Vou Te Encontrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 270796,
+      "name": "Vou Te Encontrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF"
     },
     {
       "added_at": "2024-10-18 03:00:00",

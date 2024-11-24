@@ -1,6 +1,6 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 37452,
+  "num_followers": 37473,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "Zz54AAAAAAD8vlINQwCeOE+E8BxXBZ9c",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ajustad\u00f3n",
-        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Ajustad\u00f3n",
-      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
     {
       "added_at": null,
       "album": {
@@ -279,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ajustad\u00f3n",
+        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Ajustad\u00f3n",
+      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
       },
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224378,
-      "name": "Hermosura de Mujer",
-      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 224448,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La N\u00famero 20 (En Vivo)",
-        "url": "https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 190708,
-      "name": "La N\u00famero 20 - En Vivo",
-      "url": "https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 171200,
       "name": "Arriba Guasave (Chapito Isidro)",
       "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La N\u00famero 20 (En Vivo)",
+        "url": "https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 190708,
+      "name": "La N\u00famero 20 - En Vivo",
+      "url": "https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/0Ky5OqR0ySHCnsHP5RotQ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Danny De Chicali (En Vivo)",
         "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 150000,
       "name": "El Danny De Chicali (En Vivo)",
       "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/0Ky5OqR0ySHCnsHP5RotQ0"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tolin Infante",
+        "url": "https://open.spotify.com/album/6HEx9gAGWZrM78VgZcZcEz"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/6DC6QEVWPrSzu1VWuEPg9E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
       },
@@ -871,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tolin Infante",
-        "url": "https://open.spotify.com/album/6HEx9gAGWZrM78VgZcZcEz"
+        "name": "Desde Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
       },
       "artists": [
         {
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Tolin Infante",
-      "url": "https://open.spotify.com/track/6DC6QEVWPrSzu1VWuEPg9E"
+      "duration_ms": 195648,
+      "name": "El Barbas (En Vivo)",
+      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
     },
     {
       "added_at": null,
@@ -907,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
       },
       "artists": [
         {
@@ -916,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 195648,
-      "name": "El Barbas (En Vivo)",
-      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
+      "duration_ms": 157589,
+      "name": "No Me Trates De Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157589,
-      "name": "No Me Trates De Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Markitos",
         "url": "https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 183000,
       "name": "El Markitos",
       "url": "https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "El Kiri",
-      "url": "https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

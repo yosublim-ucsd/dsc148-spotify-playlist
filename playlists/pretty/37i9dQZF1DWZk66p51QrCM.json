@@ -1,6 +1,6 @@
 {
   "description": "The Official EA SPORTS F1 23 Soundtrack",
-  "num_followers": 32950,
+  "num_followers": 32962,
   "original_name": "F1 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-06-05 14:52:17",
       "album": {
+        "name": "Go (Otik Remix)",
+        "url": "https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 245438,
+      "name": "Go (Otik Remix)",
+      "url": "https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ"
+    },
+    {
+      "added_at": "2023-06-05 14:52:17",
+      "album": {
         "name": "If You Like That",
         "url": "https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 301433,
       "name": "We've Got A Good Thing Going",
       "url": "https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR"
-    },
-    {
-      "added_at": "2023-06-05 14:52:17",
-      "album": {
-        "name": "Go (Otik Remix)",
-        "url": "https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 245438,
-      "name": "Go (Otik Remix)",
-      "url": "https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ"
     }
   ],
   "unique_name": "F1 23 Official Soundtrack",

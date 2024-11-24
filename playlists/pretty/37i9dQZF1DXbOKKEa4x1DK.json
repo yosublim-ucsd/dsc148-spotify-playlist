@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 9930,
+  "num_followers": 9960,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,54 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "Me vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt"
+      },
+      "artists": [
+        {
+          "name": "Julian Oro Duro",
+          "url": "https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa"
+        }
+      ],
+      "duration_ms": 302968,
+      "name": "Me vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Noches de Fantas\u00eda",
+        "url": "https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fonseca",
+          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Noches de Fantas\u00eda",
+      "url": "https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Am\u00e9rica Sin Queja",
         "url": "https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm"
       },
@@ -583,38 +631,6 @@
       "duration_ms": 342656,
       "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
       "url": "https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Noches de Fantas\u00eda",
-        "url": "https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fonseca",
-          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Noches de Fantas\u00eda",
-      "url": "https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -699,26 +715,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Vida, Canci\u00f3n y Suerte",
-        "url": "https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        },
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/67978eUTI2KSUJVgrynk5F"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH"
       },
@@ -747,6 +743,26 @@
       "duration_ms": 337800,
       "name": "Donde",
       "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Vida, Canci\u00f3n y Suerte",
+        "url": "https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        },
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/67978eUTI2KSUJVgrynk5F"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Me vas a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt"
-      },
-      "artists": [
-        {
-          "name": "Julian Oro Duro",
-          "url": "https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa"
-        }
-      ],
-      "duration_ms": 302968,
-      "name": "Me vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
-        "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
-      },
-      "artists": [
-        {
-          "name": "El Sujeto",
-          "url": "https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Tu No Sabes Del Amor",
-      "url": "https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "Por un Poco de Amor",
         "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 221100,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
+        "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
+      },
+      "artists": [
+        {
+          "name": "El Sujeto",
+          "url": "https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Tu No Sabes Del Amor",
+      "url": "https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF"
     },
     {
       "added_at": "2024-09-24 21:27:06",

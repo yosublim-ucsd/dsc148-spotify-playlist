@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 13920,
+  "num_followers": 13927,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        },
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
         }
       ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -767,22 +771,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        },
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 661120,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2024-04-09 16:27:14",

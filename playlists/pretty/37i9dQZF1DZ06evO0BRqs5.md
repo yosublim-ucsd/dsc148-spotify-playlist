@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0BRqs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BRqs5)
 
-### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
+### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is 藍井エイル\. The essential tracks, all in one playlist.
+> This is Eir Aoi\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 21,416 likes - 51 songs - 3 hr 44 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [ツナガルオモイ](https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:25 |
 | 51 | [閃光前夜](https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:11 |
 
-Snapshot ID: `Zz54AAAAAADb/EWV3Guvd4B2O4PGKErG`
+Snapshot ID: `Zz54AAAAAADTWT7SZtO+8h45210O2qCu`

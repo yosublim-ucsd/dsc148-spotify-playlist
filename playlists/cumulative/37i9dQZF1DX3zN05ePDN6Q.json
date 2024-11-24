@@ -10773,6 +10773,40 @@
     },
     {
       "album": {
+        "name": "Ruas da Cidade #2",
+        "url": "https://open.spotify.com/album/7Hd99biJDTzTnY1GU8UB3b"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Rod 3030",
+          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
+        },
+        {
+          "name": "Spike mc",
+          "url": "https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP"
+        },
+        {
+          "name": "Vitu",
+          "url": "https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Ruas da Cidade #2",
+      "url": "https://open.spotify.com/track/1jeUlvss4BVZ0ppNDUGotZ"
+    },
+    {
+      "album": {
         "name": "Las Delicias de La Abuela de Lucas",
         "url": "https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E"
       },

@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296866,
+      "name": "Believe (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
+    },
+    {
+      "album": {
         "name": "Best For Me",
         "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 794239,
+  "num_followers": 794638,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -935,18 +935,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Vale La Pena (It's Worth It)",
-        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
       "artists": [
         {
-          "name": "La Caro Band",
-          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 291906,
-      "name": "Amor De Etiqueta",
-      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -971,22 +975,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+        "name": "Vale La Pena (It's Worth It)",
+        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "La Caro Band",
+          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
         }
       ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+      "duration_ms": 291906,
+      "name": "Amor De Etiqueta",
+      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
     },
     {
       "added_at": "2024-06-21 20:58:37",

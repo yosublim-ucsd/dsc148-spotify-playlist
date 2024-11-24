@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Wizkid and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,202 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,384 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [Banging Body](https://open.spotify.com/track/7AVl1O116BK9gL4E2TzqSM) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Banging Body](https://open.spotify.com/album/6zbjE1VdW1P3IG2QBDLdKv) | 2:21 |
 | 8 | [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 |
 | 9 | [Bomaye](https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1) | [Wondah](https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [WELCOME TO WONDAH:LAND](https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh) | 2:18 |
-| 10 | [Escapism](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Escapism](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
+| 10 | [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
 | 11 | [Italia](https://open.spotify.com/track/4egYs7ym9uMkHiNMCUWS8R) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV) | [Italia](https://open.spotify.com/album/66pOTRZVD3mlMdi2DojYAg) | 2:48 |
 | 12 | [Shooting Star \(feat\. Oxlade\)](https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [It'll All Make Sense Later](https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje) | 3:14 |
 | 13 | [Pullover](https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Pullover](https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx) | 3:13 |

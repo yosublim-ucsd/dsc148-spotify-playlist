@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 779489,
+  "num_followers": 779605,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-11-08 14:32:59",
       "album": {
-        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
         }
       ],
-      "duration_ms": 233613,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2024-11-08 14:32:59",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-11-08 14:32:59",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
       },
       "artists": [
         {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
+      "duration_ms": 233613,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
     },
     {
       "added_at": "2024-11-08 14:32:59",
@@ -516,7 +516,7 @@
       },
       "artists": [
         {
-          "name": "Detonautas Roque Clube",
+          "name": "Detonautas",
           "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
         }
       ],
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-08 14:32:59",
       "album": {
-        "name": "Vis\u00edvel",
-        "url": "https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 145371,
-      "name": "Vis\u00edvel",
-      "url": "https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4"
-    },
-    {
-      "added_at": "2024-11-08 14:32:59",
-      "album": {
         "name": "Como \u00c9 Leve Amar",
         "url": "https://open.spotify.com/album/4KDljFb5Ee6L7AxorjRh9l"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 228072,
       "name": "Como \u00c9 Leve Amar",
       "url": "https://open.spotify.com/track/6Qnqto498au89xGlouAq6q"
+    },
+    {
+      "added_at": "2024-11-08 14:32:59",
+      "album": {
+        "name": "Vis\u00edvel",
+        "url": "https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 145371,
+      "name": "Vis\u00edvel",
+      "url": "https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4"
     },
     {
       "added_at": "2024-11-08 14:32:59",

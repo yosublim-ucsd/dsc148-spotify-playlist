@@ -1,12 +1,12 @@
 {
   "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 342797,
+  "num_followers": 342838,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAC/lFq3qze/SdcoDzI7foLI",
+  "snapshot_id": "Zz/JgAAAAACihI9ad43YJMLi38BmO5nG",
   "tracks": [
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 119920,
-      "name": "Loch",
-      "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
+      "duration_ms": 168173,
+      "name": "Three Steps To Heaven",
+      "url": "https://open.spotify.com/track/6gFvK5y2TJQksecZAShqKV"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 168173,
-      "name": "Three Steps To Heaven",
-      "url": "https://open.spotify.com/track/6gFvK5y2TJQksecZAShqKV"
+      "duration_ms": 119920,
+      "name": "Loch",
+      "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
     },
     {
       "added_at": null,

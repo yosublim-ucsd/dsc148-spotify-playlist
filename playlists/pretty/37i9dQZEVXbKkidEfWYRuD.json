@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 31294,
+  "num_followers": 31300,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LtPxSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtVFIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "ParisLove",
         "url": "https://open.spotify.com/album/60Evg5wOVFEI0PH4XKersZ"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "glory of heartbroken",
-        "url": "https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc"
-      },
-      "artists": [
-        {
-          "name": "fallen777angel",
-          "url": "https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3"
-        }
-      ],
-      "duration_ms": 104026,
-      "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
-      "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
-        "url": "https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X"
-      },
-      "artists": [
-        {
-          "name": "Parfeniuk",
-          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
-        }
-      ],
-      "duration_ms": 150583,
-      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
-      "url": "https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "Cristoforo Colombo",
-        "url": "https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg"
-      },
-      "artists": [
-        {
-          "name": "FRIENDLY THUG 52 NGG",
-          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
-        }
-      ],
-      "duration_ms": 114437,
-      "name": "Lost Angeles",
-      "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "Cassette",
         "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
@@ -89,27 +41,39 @@
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
-        "url": "https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz"
+        "name": "glory of heartbroken",
+        "url": "https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc"
       },
       "artists": [
         {
-          "name": "OSTY",
-          "url": "https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0"
-        },
-        {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+          "name": "fallen777angel",
+          "url": "https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3"
         }
       ],
-      "duration_ms": 174500,
-      "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
-      "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
+      "duration_ms": 104026,
+      "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
+      "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+        "url": "https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X"
+      },
+      "artists": [
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "duration_ms": 150583,
+      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+      "url": "https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln"
@@ -129,7 +93,7 @@
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0425\u0440\u0438\u0437\u0430\u043d\u0442\u0435\u043c\u0438",
         "url": "https://open.spotify.com/album/6pHum88f6JOO8QxkpBU5Bv"
@@ -145,7 +109,43 @@
       "url": "https://open.spotify.com/track/2ZwNgWo1U0PLbzFCYMNPTW"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
+        "url": "https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz"
+      },
+      "artists": [
+        {
+          "name": "OSTY",
+          "url": "https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0"
+        },
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
+      "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "Cristoforo Colombo",
+        "url": "https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg"
+      },
+      "artists": [
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "duration_ms": 114437,
+      "name": "Lost Angeles",
+      "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0417\u0430\u0431\u0438\u0439",
         "url": "https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
         "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
         "url": "https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u041a\u0440\u0435\u043f\u0447\u0435",
         "url": "https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "The Singles: Echoes from the Edge of Heaven",
         "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
         "url": "https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0456",
+        "url": "https://open.spotify.com/album/5CsGdLN8GaTjdpYfpuOCED"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "duration_ms": 189899,
+      "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0456",
+      "url": "https://open.spotify.com/track/3IuQWB6BsGFc55IOCOGzBK"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "hermaeus mora",
         "url": "https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60"
@@ -297,23 +297,39 @@
       "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "\u0410 \u0449\u043e?",
-        "url": "https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8"
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
       },
       "artists": [
         {
-          "name": "MONATIK",
-          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 197727,
-      "name": "\u0410 \u0449\u043e?",
-      "url": "https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0420\u0430\u043d\u0430",
         "url": "https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H"
@@ -329,7 +345,23 @@
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u0410 \u0449\u043e?",
+        "url": "https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8"
+      },
+      "artists": [
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "\u0410 \u0449\u043e?",
+      "url": "https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB"
@@ -345,55 +377,7 @@
       "url": "https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
-        "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
-      },
-      "artists": [
-        {
-          "name": "Poshlaya Molly",
-          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
-        }
-      ],
-      "duration_ms": 178296,
-      "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
-      "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0438\u0433\u0440\u0443\u0448\u0435\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
-        "url": "https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu"
-      },
-      "artists": [
-        {
-          "name": "\u043a\u0438\u0441-\u043a\u0438\u0441",
-          "url": "https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3"
-        }
-      ],
-      "duration_ms": 182410,
-      "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
-      "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
         "url": "https://open.spotify.com/album/1EGq8SnVjptwhv2N61tqvG"
@@ -409,75 +393,23 @@
       "url": "https://open.spotify.com/track/2CKbBBLXXWqTopO1vvS8y1"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+        "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+        "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 178296,
+      "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+      "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b (Acoustic)",
-        "url": "https://open.spotify.com/album/0LNml41jJnwou22TkqmBck"
-      },
-      "artists": [
-        {
-          "name": "zhanulka",
-          "url": "https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv"
-        }
-      ],
-      "duration_ms": 172094,
-      "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
-      "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
-        "url": "https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g"
-      },
-      "artists": [
-        {
-          "name": "Parfeniuk",
-          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
-        }
-      ],
-      "duration_ms": 149832,
-      "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
-      "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
-      },
-      "artists": [
-        {
-          "name": "FACE",
-          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
-      "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
         "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
@@ -497,55 +429,91 @@
       "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0456",
-        "url": "https://open.spotify.com/album/5CsGdLN8GaTjdpYfpuOCED"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "SadSvit",
-          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 189899,
-      "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0456",
-      "url": "https://open.spotify.com/track/3IuQWB6BsGFc55IOCOGzBK"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "8 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u043a\u0430\u043a \u0431\u0440\u043e\u0441\u0438\u0442\u044c...",
-        "url": "https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za"
+        "name": "12",
+        "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
       },
       "artists": [
         {
-          "name": "Poshlaya Molly",
-          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
         }
       ],
-      "duration_ms": 214418,
-      "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
-      "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
+      "duration_ms": 169130,
+      "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
+      "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
-        "url": "https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq"
+        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0438\u0433\u0440\u0443\u0448\u0435\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
+        "url": "https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu"
       },
       "artists": [
         {
-          "name": "Poshlaya Molly",
-          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+          "name": "\u043a\u0438\u0441-\u043a\u0438\u0441",
+          "url": "https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3"
         }
       ],
-      "duration_ms": 204756,
-      "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
-      "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
+      "duration_ms": 182410,
+      "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
+      "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b (Acoustic)",
+        "url": "https://open.spotify.com/album/0LNml41jJnwou22TkqmBck"
+      },
+      "artists": [
+        {
+          "name": "zhanulka",
+          "url": "https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv"
+        }
+      ],
+      "duration_ms": 172094,
+      "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
+      "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "8 \u043c\u0430\u0440\u0430\u0431\u0443",
         "url": "https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw"
@@ -561,7 +529,71 @@
       "url": "https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
+        "url": "https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g"
+      },
+      "artists": [
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "duration_ms": 149832,
+      "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "zitraks mode",
+        "url": "https://open.spotify.com/album/5jifypo54feKFBJLPzAmP0"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "duration_ms": 122643,
+      "name": "zitraks mode",
+      "url": "https://open.spotify.com/track/6vIOPzEgSzf0nv7nKutxlz"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
+        "url": "https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "duration_ms": 204756,
+      "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
+      "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "8 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u043a\u0430\u043a \u0431\u0440\u043e\u0441\u0438\u0442\u044c...",
+        "url": "https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "duration_ms": 214418,
+      "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
+      "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -581,43 +613,23 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+        "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Violetta Sokolova",
+          "url": "https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms"
         }
       ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+      "duration_ms": 133475,
+      "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
@@ -637,103 +649,39 @@
       "url": "https://open.spotify.com/track/12LGZ1axDaBCZGDlvZ9Hnl"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "Cassette",
-        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+        "name": "\u043a\u0440\u043e\u043a",
+        "url": "https://open.spotify.com/album/5Yddc3e2Iisvj1mKLpxzZh"
       },
       "artists": [
         {
-          "name": "SadSvit",
-          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+          "name": "Schmalgauzen",
+          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
         }
       ],
-      "duration_ms": 150384,
-      "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
-      "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
+      "duration_ms": 223663,
+      "name": "\u043a\u0440\u043e\u043a",
+      "url": "https://open.spotify.com/track/4tICTIM71M223AWw7v3Myq"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
-        "url": "https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1"
-      },
-      "artists": [
-        {
-          "name": "Violetta Sokolova",
-          "url": "https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms"
-        }
-      ],
-      "duration_ms": 133475,
-      "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
-      "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "zitraks mode",
-        "url": "https://open.spotify.com/album/5jifypo54feKFBJLPzAmP0"
-      },
-      "artists": [
-        {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
-        }
-      ],
-      "duration_ms": 122643,
-      "name": "zitraks mode",
-      "url": "https://open.spotify.com/track/6vIOPzEgSzf0nv7nKutxlz"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "Hate Love",
         "url": "https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME"
@@ -749,7 +697,7 @@
       "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "TryToFriend",
         "url": "https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN"
@@ -765,23 +713,59 @@
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+      "duration_ms": 187353,
+      "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
+      "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "\u041d\u0435\u0431\u043e",
+        "url": "https://open.spotify.com/album/4hIwbs26xKUWXO83Y8mU8W"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "duration_ms": 219847,
+      "name": "\u041d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/2qGURS7y8zM7STkxOLgnWO"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "Suka from Arizona",
         "url": "https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8"
@@ -801,23 +785,23 @@
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "Cristoforo Colombo",
-        "url": "https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg"
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
       "artists": [
         {
-          "name": "FRIENDLY THUG 52 NGG",
-          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Sladki Snov Rapper 2",
-      "url": "https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ"
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
         "name": "\u0422\u0435\u0430\u0442\u0440",
         "url": "https://open.spotify.com/album/3QUELlNOTE0RUqLnINCzIB"
@@ -833,20 +817,36 @@
       "url": "https://open.spotify.com/track/6iNsAoVPOnC2ikhnNygKQM"
     },
     {
-      "added_at": "2024-11-22 13:37:25",
+      "added_at": "2024-11-23 12:52:59",
       "album": {
-        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "OKS",
-          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 189000,
-      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2024-11-23 12:52:59",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5lrLpu7EM3I9gRByjg71YZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Pressner",
+          "url": "https://open.spotify.com/artist/2zY0g18VpVG1dpJJyW1biE"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3C0qPP1WGafiP35QEc56il"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

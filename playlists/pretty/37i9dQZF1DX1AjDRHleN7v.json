@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 335649,
+  "num_followers": 335841,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Brisa Positiva",
-        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 204224,
-      "name": "Brisa Positiva",
-      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Flor de Aruanda",
         "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 183146,
       "name": "Flor de Aruanda",
       "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Brisa Positiva",
+        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 204224,
+      "name": "Brisa Positiva",
+      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Saquarema (Remix)",
-        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 232353,
-      "name": "Saquarema - Remix",
-      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Confia Mais",
         "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Saquarema (Remix)",
+        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 232353,
+      "name": "Saquarema - Remix",
+      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "Eu e Voc\u00ea",
         "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 185597,
       "name": "Eu e Voc\u00ea",
       "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -739,22 +755,6 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "Coletivo (Remasterizado)",
         "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
       },
@@ -879,6 +879,54 @@
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+      },
+      "artists": [
+        {
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -903,22 +951,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "LEVE",
         "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 143023,
       "name": "LEVE",
       "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
-      },
-      "artists": [
-        {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Manh\u00e3s Azuis",
-        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "Rafa!",
-          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 186874,
-      "name": "Manh\u00e3s Azuis",
-      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     }
   ],
   "unique_name": "Praiana",

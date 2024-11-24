@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,866 likes - 86 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,865 likes - 86 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 63 | [シオン](https://open.spotify.com/track/6fIe9L9sXqtsR5QOH58S3t) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [あっ、ども。あらためまして。](https://open.spotify.com/album/7BdQwwIBsFUtwuhI5hfSfm) | 4:19 |
 | 64 | [渋谷のBARで初めてのデイト](https://open.spotify.com/track/6mawcugH3sxOF17aQSONjj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [渋谷のBARで初めてのデイト](https://open.spotify.com/album/4dGjE6wkvwTZUCsZMWcZiv) | 3:44 |
 | 65 | [Part of me](https://open.spotify.com/track/7AeU2MFI2xX154DBYnwtrd) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [Part of me](https://open.spotify.com/album/4I23lIZuq3mxsZme3CqmAb) | 3:30 |
-| 66 | [Round Midnight](https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Round Midnight](https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2) | 4:24 |
+| 66 | ['Round Midnight](https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | ['Round Midnight](https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2) | 4:24 |
 | 67 | [Changed](https://open.spotify.com/track/7MgnK7gvVpELd5YONF4sO8) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Changed](https://open.spotify.com/album/73koxHxqw7T8lVmCi4e2Ow) | 5:05 |
 | 68 | [Present](https://open.spotify.com/track/1laQLfoxkzQX3qSiTgB3Eo) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy) | 3:44 |
 | 69 | [刺激最優先](https://open.spotify.com/track/37eg0Bti0pWhbl8TTbBZUZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/0Y5YM1A3Ft6YEmzeqiMudx) | 2:35 |

@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "1 Minute",
+        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "1 Minute",
+      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
+    },
+    {
+      "album": {
         "name": "1 shot",
         "url": "https://open.spotify.com/album/6jMOnZDeD7wYcS0DMrbc3y"
       },
@@ -1628,6 +1650,24 @@
       "duration_ms": 184356,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
     },
     {
       "album": {
@@ -4887,6 +4927,28 @@
     },
     {
       "album": {
+        "name": "BBL.00",
+        "url": "https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "BBL.00",
+      "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
+    },
+    {
+      "album": {
         "name": "BBM",
         "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
       },
@@ -6444,7 +6506,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 200453,
       "name": "BPM",
       "url": "https://open.spotify.com/track/6fZh6vpC8gIax8ILjPEb6E"
@@ -31866,7 +31928,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 161142,
       "name": "L\u2019envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
@@ -32138,6 +32200,36 @@
       "duration_ms": 203800,
       "name": "Ma maison aux vents fous",
       "url": "https://open.spotify.com/track/5x1nwSbFot6fn7P2Cr83RM"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3mNkS16EktzfCs0O1eWdPd"
     },
     {
       "album": {
@@ -43774,7 +43866,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 294000,
       "name": "Rater une rupture pour les nuls",
       "url": "https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD"
@@ -48701,6 +48793,28 @@
     },
     {
       "album": {
+        "name": "STACKS",
+        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "STACKS",
+      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+    },
+    {
+      "album": {
         "name": "STAINED",
         "url": "https://open.spotify.com/album/62RoYKKHgdJ4fW1ip1Wtkc"
       },
@@ -51600,7 +51714,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 151973,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"

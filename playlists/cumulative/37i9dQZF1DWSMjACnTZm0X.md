@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=PFD8hpVuRZeJhtgZU\_IkRQ">Cyfred, <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=6WTguHhMSl2Ei8AeFqN3Sg">Young Jonn  & <a href="https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=b792QK9aQu6YawSMhuiOjg">Scotts Maphuma
 
-253 songs - 17 hr 27 min
+253 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-22 | 2024-01-26 |
 | [Personne](https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:23 | 2023-06-30 | 2023-08-11 |
 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 | 2023-03-22 | 2023-10-13 |
-| [Phuthuma \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1) | [Cyfred](https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Phuthuma \(feat\. Young Jonn\) \[Remix\]](https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0) | 6:15 | 2024-11-21 |  |
+| [Phuthuma \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1) | [Cyfred](https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Phuthuma \(feat\. Young Jonn\) \[Remix\]](https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0) | 5:23 | 2024-11-21 |  |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-28 | 2023-08-11 |
 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 | 2023-03-02 | 2023-06-16 |
 | [RAT\-TAT\-TAT](https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [RAT\-TAT\-TAT](https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro) | 3:43 | 2022-05-23 | 2022-08-12 |

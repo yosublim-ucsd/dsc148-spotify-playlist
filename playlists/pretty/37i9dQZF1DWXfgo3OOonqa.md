@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,114 likes - 131 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,126 likes - 131 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 24 | [90s Kid](https://open.spotify.com/track/5qnqFEWouMj8wumbZwIKOJ) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [90s Kid](https://open.spotify.com/album/0fpRDKKORedZYIXLCfQpxh) | 3:09 |
 | 25 | [Stör Ej](https://open.spotify.com/track/16uSzA4x74NdxaPC8lTNJd) | [CENTI](https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Stör Ej](https://open.spotify.com/album/7LeHlppSZl8rngMzspyW8u) | 2:36 |
 | 26 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
-| 27 | [HUNDRA](https://open.spotify.com/track/2vYI5MCN2pk3rAHOJiIp0O) | [Arvid Lundquist](https://open.spotify.com/artist/1QIoedC1hO9QOSfQfFuLeI), [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [HUNDRA](https://open.spotify.com/album/4odC6DihSvKOYlOxIjKbfm) | 3:04 |
+| 27 | [HUNDRA](https://open.spotify.com/track/2vYI5MCN2pk3rAHOJiIp0O) | [Arvid Lundquist](https://open.spotify.com/artist/1QIoedC1hO9QOSfQfFuLeI), [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [HUNDRA](https://open.spotify.com/album/4odC6DihSvKOYlOxIjKbfm) | 3:04 |
 | 28 | [komvigårhem](https://open.spotify.com/track/6NVc60MXwlYUF8GcevTI9s) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [komvigårhem](https://open.spotify.com/album/0qpYt3Uf2US1KPlFMfqHDw) | 2:27 |
 | 29 | [Hva Vil Du](https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Hva Vil Du](https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS) | 2:01 |
 | 30 | [+212 \(feat\. 23\)](https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [+212 \(feat\. 23\)](https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq) | 2:51 |

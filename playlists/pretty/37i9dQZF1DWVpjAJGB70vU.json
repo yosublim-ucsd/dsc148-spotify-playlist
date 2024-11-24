@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 25 years of Faith Hill's timeless album \"Breathe\" on 90s Country! ",
-  "num_followers": 1945346,
+  "num_followers": 1945783,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Whatcha Gonna Do With A Cowboy",
-        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
+        "name": "High Lonesome",
+        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Garth Brooks",
-          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Whatcha Gonna Do With A Cowboy",
-      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
+      "duration_ms": 160360,
+      "name": "Better Class of Losers",
+      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1827,18 +1823,22 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "High Lonesome",
-        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
+        "name": "Whatcha Gonna Do With A Cowboy",
+        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Better Class of Losers",
-      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+      "duration_ms": 155000,
+      "name": "Whatcha Gonna Do With A Cowboy",
+      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "Life's So Funny",
         "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 237226,
       "name": "Bigger Than the Beatles",
       "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2024-11-08 16:48:06",

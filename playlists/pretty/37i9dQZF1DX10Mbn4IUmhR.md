@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk?si=gJkMWfPZRMeqmWlSzlzetw">Ava like Lava</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,446 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,457 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 31 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
 | 32 | [Cocaine Kisses](https://open.spotify.com/track/2eIvCJ0Fe47ihAq8FQy6cd) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Cocaine Kisses](https://open.spotify.com/album/0Rt3EXbUHOvhD26EnoYwEo) | 3:13 |
 | 33 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 34 | [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:35 |
+| 34 | [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:26 |
 | 35 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 |
 | 36 | [TYSM](https://open.spotify.com/track/5P7gnRCCpKU64vfv27HaMj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [TYSM](https://open.spotify.com/album/22WuTYFcw6HfArfwt4woMm) | 2:49 |
 | 37 | [The Chapter \(Home\)](https://open.spotify.com/track/5tAWKEVVeDKpJp5KUpoCVK) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [The Chapter \(Home\)](https://open.spotify.com/album/2QIMrXvM04y9cSbv6fXEyh) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Haloo Helsinki!",
-  "num_followers": 97021,
+  "num_followers": 97037,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -274,10 +274,14 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
       "duration_ms": 177598,
-      "name": "luther",
+      "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
@@ -674,10 +678,22 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
+        },
+        {
+          "name": "YoungThreat",
+          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
         }
       ],
       "duration_ms": 193539,
-      "name": "gnx",
+      "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
       "url": "https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ"
     },
     {

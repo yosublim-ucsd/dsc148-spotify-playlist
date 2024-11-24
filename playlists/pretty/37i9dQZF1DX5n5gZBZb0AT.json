@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 890180,
+  "num_followers": 890388,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
         "url": "https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 96461,
       "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
       "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -631,22 +631,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "YUMMI",
-        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
       "artists": [
         {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 95996,
-      "name": "YUMMI",
-      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -667,22 +667,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "HUMBLE. (SKRILLEX REMIX)",
-        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
+        "name": "YUMMI",
+        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         }
       ],
-      "duration_ms": 156800,
-      "name": "HUMBLE. - SKRILLEX REMIX",
-      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
+      "duration_ms": 95996,
+      "name": "YUMMI",
+      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
     },
     {
       "added_at": "2024-05-08 15:21:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,773 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,781 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 |
 | 50 | [BEIA \(Jere Klein\)](https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ) | [Prod Millones](https://open.spotify.com/artist/5cRpSxsBSMfrPgDuXDsys1), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8) | [BEIA \(Jere Klein\)](https://open.spotify.com/album/2vOMwwbgBe7vCGfV18lmUv) | 2:11 |
 
-Snapshot ID: `LtPxSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtVFIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

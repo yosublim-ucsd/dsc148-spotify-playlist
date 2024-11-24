@@ -359,24 +359,6 @@
     },
     {
       "album": {
-        "name": "d\u00f6(d) f\u00f6r mig",
-        "url": "https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123145,
-      "name": "do\u0308 fo\u0308r mig",
-      "url": "https://open.spotify.com/track/5nazg0445VGj83DneXAGNC"
-    },
-    {
-      "album": {
         "name": "Till dig",
         "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
       },
@@ -428,6 +410,24 @@
       "duration_ms": 168400,
       "name": "Dum i huvet",
       "url": "https://open.spotify.com/track/39nFgriTt9iockfxEFn9cY"
+    },
+    {
+      "album": {
+        "name": "d\u00f6(d) f\u00f6r mig",
+        "url": "https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123145,
+      "name": "d\u00f6 f\u00f6r mig",
+      "url": "https://open.spotify.com/track/5nazg0445VGj83DneXAGNC"
     },
     {
       "album": {
@@ -1567,24 +1567,6 @@
     },
     {
       "album": {
-        "name": "d\u00f6(d) f\u00f6r mig",
-        "url": "https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157726,
-      "name": "sa\u0308ga inget s\u00e4ger allt",
-      "url": "https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM"
-    },
-    {
-      "album": {
         "name": "see u in hell",
         "url": "https://open.spotify.com/album/1KslMikReK0lh6VFOEuo22"
       },
@@ -1720,6 +1702,24 @@
       "duration_ms": 161929,
       "name": "Sweet Dreams & Dynamite",
       "url": "https://open.spotify.com/track/6S8pntCfgqcPa5vhybICfv"
+    },
+    {
+      "album": {
+        "name": "d\u00f6(d) f\u00f6r mig",
+        "url": "https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157726,
+      "name": "s\u00e4ga inget s\u00e4ger allt",
+      "url": "https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM"
     },
     {
       "album": {

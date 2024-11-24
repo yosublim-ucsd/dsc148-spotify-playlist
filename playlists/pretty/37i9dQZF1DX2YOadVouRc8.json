@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30032,
+  "num_followers": 30071,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Forever (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 155883,
+      "name": "Forever (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
       },
@@ -383,26 +403,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Forever (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Forever (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Temptress",
         "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
       },
@@ -419,7 +419,7 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Escapism",
+        "name": "[escapism]",
         "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
       },
       "artists": [
@@ -428,8 +428,8 @@
           "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Escapism",
+      "duration_ms": 154983,
+      "name": "[escapism]",
       "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     },
     {
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 136800,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "It'll All Make Sense Later",
+        "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Shooting Star (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
@@ -947,6 +967,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Best Interest",
         "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
       },
@@ -963,22 +999,6 @@
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Will I?",
-        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Will I?",
-      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1039,6 +1059,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "FaceCard (Only Me)",
         "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
       },
@@ -1067,22 +1103,6 @@
       "duration_ms": 135576,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Painless Melody",
-        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Painless Melody",
-      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1127,6 +1147,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "What Happens After",
         "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
       },
@@ -1147,18 +1183,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+        "name": "Finding Nimo Series: The Capsule",
+        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+      "duration_ms": 156212,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1183,22 +1219,6 @@
       "duration_ms": 162843,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Finding Nimo Series: The Capsule",
-        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1339,26 +1359,6 @@
       "duration_ms": 127742,
       "name": "Mo Hennessy",
       "url": "https://open.spotify.com/track/4m7czgj3SUHP4FoJjpGvrT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "It'll All Make Sense Later",
-        "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Shooting Star (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
     },
     {
       "added_at": "2024-11-22 00:01:00",

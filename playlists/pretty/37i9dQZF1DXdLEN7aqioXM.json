@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1062595,
+  "num_followers": 1062675,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Crystal Waves (From \"Wave Break\")",
-        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
-      },
-      "artists": [
-        {
-          "name": "Kalax",
-          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Crystal Waves (From \"Wave Break\")",
-      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Dead Girls Don't Dance",
         "url": "https://open.spotify.com/album/5tyDEynnOrGAnP1XlzuZPR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 176248,
       "name": "A Promise to Die",
       "url": "https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Crystal Waves (From \"Wave Break\")",
+        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Crystal Waves (From \"Wave Break\")",
+      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+      },
+      "artists": [
+        {
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Dauntless to the End",
         "url": "https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A"
       },
@@ -1171,34 +1187,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+        "name": "Midnight Rush",
+        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
       },
       "artists": [
         {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+          "name": "Midnight Fury",
+          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
         }
       ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
+      "duration_ms": 227478,
+      "name": "Midnight Rush",
+      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Midnight Rush",
-        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC"
       },
       "artists": [
         {
-          "name": "Midnight Fury",
-          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
         }
       ],
-      "duration_ms": 227478,
-      "name": "Midnight Rush",
-      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
+      "duration_ms": 174083,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Ghost Conductor",
+        "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
+      },
+      "artists": [
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        }
+      ],
+      "duration_ms": 230062,
+      "name": "Ghost Conductor",
+      "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Dreaming of the Deep",
         "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Ghost Conductor",
-        "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
-      },
-      "artists": [
-        {
-          "name": "Cassetter",
-          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
-        }
-      ],
-      "duration_ms": 230062,
-      "name": "Ghost Conductor",
-      "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "E.P.R.O.M.",
+        "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        },
+        {
+          "name": "Oscillian",
+          "url": "https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "E.P.R.O.M.",
+      "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "feel you",
         "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
       },
@@ -1487,22 +1507,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "E.P.R.O.M.",
-        "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
       },
       "artists": [
         {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        },
-        {
-          "name": "Oscillian",
-          "url": "https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7"
+          "name": "World Complete",
+          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
         }
       ],
-      "duration_ms": 232000,
-      "name": "E.P.R.O.M.",
-      "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
+      "duration_ms": 247879,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1519,22 +1535,6 @@
       "duration_ms": 309817,
       "name": "Love on a Real Train",
       "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
-      },
-      "artists": [
-        {
-          "name": "World Complete",
-          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
-        }
-      ],
-      "duration_ms": 247879,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Disco on the Baltic Sea",
+        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Disco on the Baltic Sea",
+      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Third Dimension (Remastered 2022)",
         "url": "https://open.spotify.com/album/5gVK9yIBFhOh8SN9WtFayk"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 258000,
       "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
       "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Disco on the Baltic Sea",
-        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Disco on the Baltic Sea",
-      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Memorie",
-        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
-      },
-      "artists": [
-        {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
-        }
-      ],
-      "duration_ms": 206593,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Transition Phase",
         "url": "https://open.spotify.com/album/1TFxWfegvhejzw9EKvBJoe"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 201600,
       "name": "Transition Phase",
       "url": "https://open.spotify.com/track/3bJJN5dmgDfNe8Aq8FnICw"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Memorie",
+        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 206593,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "SILHOUETTE",
-        "url": "https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ"
-      },
-      "artists": [
-        {
-          "name": "Mord Fustang",
-          "url": "https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K"
-        }
-      ],
-      "duration_ms": 331145,
-      "name": "SILHOUETTE",
-      "url": "https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 263076,
       "name": "Sin",
       "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "SILHOUETTE",
+        "url": "https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ"
+      },
+      "artists": [
+        {
+          "name": "Mord Fustang",
+          "url": "https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K"
+        }
+      ],
+      "duration_ms": 331145,
+      "name": "SILHOUETTE",
+      "url": "https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Falkor Flight",
+        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 267752,
+      "name": "Falkor Flight",
+      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Succeed EP",
         "url": "https://open.spotify.com/album/6p5XNL1ONh2VxEdJaKmkPl"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 422226,
       "name": "Succeed",
       "url": "https://open.spotify.com/track/2526hhBAM2AmBCfruVFR7n"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Falkor Flight",
-        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 267752,
-      "name": "Falkor Flight",
-      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Infinite Jogger",
-        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
-      },
-      "artists": [
-        {
-          "name": "Pink Pyramid",
-          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Infinite Jogger",
-      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "life support",
         "url": "https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 155227,
       "name": "keep on",
       "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Infinite Jogger",
+        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
+      },
+      "artists": [
+        {
+          "name": "Pink Pyramid",
+          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Infinite Jogger",
+      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2659,18 +2659,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "From The Bottom Of My Heart",
-        "url": "https://open.spotify.com/album/6lFso6UovOAGFR1BtYXfHp"
+        "name": "Tan Lines and Fizzy Wine",
+        "url": "https://open.spotify.com/album/0hUVC3smHare27tVcN270U"
       },
       "artists": [
         {
-          "name": "Leonardus",
-          "url": "https://open.spotify.com/artist/5ap81YY6p3jVUz7efio00j"
+          "name": "RSS Disco",
+          "url": "https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp"
         }
       ],
-      "duration_ms": 350920,
-      "name": "From The Bottom Of My Heart",
-      "url": "https://open.spotify.com/track/57Plqw6EXfqcQ2AJrdWLOS"
+      "duration_ms": 406704,
+      "name": "Tan Lines And Fizzy Wine",
+      "url": "https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G"
     }
   ],
   "unique_name": "Retrowave // Outrun",

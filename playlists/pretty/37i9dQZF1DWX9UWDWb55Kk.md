@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,616 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,603 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 30 | [steak tar tar](https://open.spotify.com/track/1VMkIjiscNSY0fuzJDI0bi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 2:26 |
 | 31 | [Retributions Of An Awful Life](https://open.spotify.com/track/7izjWViB7fRzSXuKGoYc6C) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Retributions Of An Awful Life](https://open.spotify.com/album/49aSnKrEZ3n4drbd78jUsy) | 5:25 |
 | 32 | [Four Walls](https://open.spotify.com/track/1NSG0POryrY4OVSSu3ff1K) | [Indian Wells](https://open.spotify.com/artist/0xGMNVyrwBJYVudabEW1Re) | [No One Really Listens to Oscillators](https://open.spotify.com/album/2vZEZAEBbtc2LQN8Pv3vSe) | 3:21 |
-| 33 | [AS Acá \(feat\. Daniela Lalita\)](https://open.spotify.com/track/6U80HaFsZZDVwtIzfrMhxQ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tearless](https://open.spotify.com/album/4oJgRPOIIRAIYprWRhKohZ) | 3:18 |
+| 33 | [AS Acá \(feat\. Daniela Lalita\)](https://open.spotify.com/track/6U80HaFsZZDVwtIzfrMhxQ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tearless](https://open.spotify.com/album/4oJgRPOIIRAIYprWRhKohZ) | 3:18 |
 | 34 | [GOOD LUCK](https://open.spotify.com/track/3WBWDlaH8Nr6XnjPhpXTF7) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:09 |
 | 35 | [Altar](https://open.spotify.com/track/0ZGFo9Wvz4xOXWwNUdHhUF) | [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1), [41V1L](https://open.spotify.com/artist/02WU1IpQpPQqdX9aGg9kSj) | [Manifestación / Altar](https://open.spotify.com/album/00o3tTUzS6Mf55GH7y9IjP) | 2:16 |
 | 36 | [Moondog](https://open.spotify.com/track/0z4BWF051q3zIDV1u86nxS) | [bigott](https://open.spotify.com/artist/4DQYOwqipb8qphMdd7pl7p) | [Dedicated to None](https://open.spotify.com/album/1OOadlJWQO9y5YMJ7mFJSj) | 3:43 |

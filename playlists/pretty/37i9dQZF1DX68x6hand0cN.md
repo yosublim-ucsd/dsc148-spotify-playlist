@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,529 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,580 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 65 | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 |
 | 66 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 |
 | 67 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
-| 68 | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/track/493qLcwTTmGlPuvfp8urdA) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC), [Dilara Guntekin](https://open.spotify.com/artist/4H6YFOGMXklQmPYSzISocN) | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/album/0Nl33GUJXy6KHhfMXC9mS8) | 3:15 |
+| 68 | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/track/493qLcwTTmGlPuvfp8urdA) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC), [Dilara Güntekin](https://open.spotify.com/artist/4H6YFOGMXklQmPYSzISocN) | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/album/0Nl33GUJXy6KHhfMXC9mS8) | 3:15 |
 | 69 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 |
 | 70 | [Expres](https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Expres](https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh) | 2:17 |
 | 71 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |

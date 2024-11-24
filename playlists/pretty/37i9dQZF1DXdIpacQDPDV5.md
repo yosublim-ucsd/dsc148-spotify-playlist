@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Martin Garrix & Jex
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,201 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,213 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 32 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 |
 | 33 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 |
 | 34 | [Higher Resolution](https://open.spotify.com/track/0ug5wwLfnUImBQEw8sJs6r) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Higher Resolution \(Side A\)](https://open.spotify.com/album/7LUegyOtLkGwKalcns60bK) | 4:12 |
-| 35 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:24 |
+| 35 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 |
 | 36 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 |
 | 37 | [Hit My Line](https://open.spotify.com/track/3r8S87UF6qw1qIlgmX9Mmv) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Hit My Line](https://open.spotify.com/album/2BAY4wMRj4AelXdesGUAId) | 3:03 |
 | 38 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |

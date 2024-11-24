@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Egzod
 
-697 songs - 1 day 17 hr 49 min
+698 songs - 1 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [CRACKS](https://open.spotify.com/track/7o4hWcXufdfWcWCbh5O8kf) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Slowpalace](https://open.spotify.com/artist/5OykEYbsyupQcKIoTH5Szu) | [CRACKS](https://open.spotify.com/album/1xl2Nj9aHqjB6J3AYvutqC) | 3:10 | 2022-07-08 | 2022-07-29 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-10 |  |
 | [Crazy \(feat\. Casey Cook\)](https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crazy \(feat\. Casey Cook\)](https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27) | 3:32 | 2022-07-08 | 2024-07-27 |
+| [Crowded Room](https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crowded Room](https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc) | 3:12 | 2024-11-15 |  |
 | [Cruel Summer](https://open.spotify.com/track/1GGifxPLmNb1iA8QUnvEdx) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Cruel Summer](https://open.spotify.com/album/3dZmNlTCCP3FS1WmrhNoM1) | 3:08 | 2022-07-08 | 2023-06-03 |
 | [Damaged](https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Damaged](https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu) | 3:15 | 2022-08-05 | 2024-04-26 |
 | [Dance With Me](https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Dance With Me](https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX) | 2:59 | 2024-08-30 |  |
@@ -242,7 +243,7 @@
 | [Ghost Of You](https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp) | [Aye Bay](https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ), [ELLE](https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv) | [Ghost Of You](https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5) | 3:42 | 2024-03-22 |  |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 | 2023-09-29 |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2023-06-12 |
-| [Give Out](https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Give Out](https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i) | 4:02 | 2023-08-04 |  |
+| [Give Out](https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Give Out](https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i) | 4:02 | 2023-08-04 | 2024-11-24 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glass House](https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q) | [Glass House](https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw) | 3:17 | 2023-11-17 | 2024-11-06 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 | 2024-07-27 |

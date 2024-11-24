@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u30a4\u30b1\u30e1\u30f3\u5f79\u8005\u80b2\u6210\u30b2\u30fc\u30e0\u300eA3!\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 39417,
+  "num_followers": 39427,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
+      },
+      "artists": [
+        {
+          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Real Luck",
+      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
         "name": "A3! EVER LASTING LP",
         "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
-          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Real Luck",
-      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
         "name": "A3! Blooming WINTER EP",
         "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 259133,
       "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4\u3068\u7a7a\u767d",
       "url": "https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! BRIGHT WINTER EP",
-        "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
-      },
-      "artists": [
-        {
-          "name": "\u30ea\u30a2\u30e0[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
-          "url": "https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk"
-        },
-        {
-          "name": "\u30ce\u30fc\u30de\u30f3[\u96ea\u767d \u6771(CV:\u67ff\u539f\u5fb9\u4e5f)]",
-          "url": "https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "PLASTIC POKER",
-      "url": "https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -871,6 +851,26 @@
       "duration_ms": 186706,
       "name": "\u4e00\u591c\u9650\u308a\u306e\u76f8\u68d2",
       "url": "https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! BRIGHT WINTER EP",
+        "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30a2\u30e0[\u5fa1\u5f71 \u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)]",
+          "url": "https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk"
+        },
+        {
+          "name": "\u30ce\u30fc\u30de\u30f3[\u96ea\u767d \u6771(CV:\u67ff\u539f\u5fb9\u4e5f)]",
+          "url": "https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "PLASTIC POKER",
+      "url": "https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf"
     },
     {
       "added_at": "2024-08-27 15:00:00",

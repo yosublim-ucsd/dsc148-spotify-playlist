@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 288955,
+  "num_followers": 289099,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Pulverturm (ANNA Rework)",
-        "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
       },
       "artists": [
         {
-          "name": "Niels Van Gogh",
-          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 236029,
-      "name": "Pulverturm - ANNA Rework",
-      "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -335,22 +335,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+        "name": "Pulverturm (ANNA Rework)",
+        "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
+      "duration_ms": 236029,
+      "name": "Pulverturm - ANNA Rework",
+      "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "One in a Million (Alok Remix)",
         "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 142816,
       "name": "One in a Million - Alok Remix",
       "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Stay Mine",
+        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "Stay Mine",
+      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
     },
     {
       "added_at": "2024-11-15 03:00:00",

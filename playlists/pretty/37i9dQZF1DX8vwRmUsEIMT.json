@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Jack Harlow",
-  "num_followers": 549489,
+  "num_followers": 549548,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
       "duration_ms": 177598,
-      "name": "luther",
+      "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
@@ -1038,6 +1042,10 @@
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
         }
       ],
       "duration_ms": 157028,

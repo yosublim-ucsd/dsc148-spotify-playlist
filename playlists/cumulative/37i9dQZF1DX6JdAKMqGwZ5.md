@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Barry B.
 
-250 songs - 13 hr 1 min
+251 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 | 2024-08-01 |  |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2024-06-27 | 2024-07-05 |
 | [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 |  |
+| [Rendición](https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [bruno](https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna) | [Rendición](https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s) | 3:44 | 2024-11-22 |  |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2024-06-27 | 2024-11-22 |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |
 | [Sal a pasear](https://open.spotify.com/track/4Gy2K1tivOt7hOMFmA9i6n) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sal a pasear](https://open.spotify.com/album/5AdDO50O3h66IFyw5SC5K9) | 3:55 | 2024-10-24 | 2024-11-22 |
@@ -214,7 +215,7 @@
 | [Siempre Vuelve](https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Bailódromo, Vol\. 1](https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL) | 4:28 | 2024-10-17 |  |
 | [SIMELLAMA](https://open.spotify.com/track/0vfd6WPa548c8FGiCTzh8z) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SIMELLAMA / LAPLATA](https://open.spotify.com/album/1pHADvO4qpeaoTLSEgZjgh) | 2:11 | 2024-08-08 | 2024-09-13 |
 | [Sin dudar](https://open.spotify.com/track/4gjKl2YT2zDCVORaJrIGT6) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux), [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [Sin dudar](https://open.spotify.com/album/3E6WzQxEM7koUwGR1fw00F) | 3:28 | 2024-06-27 | 2024-10-25 |
-| [Sin Morir Espero](https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Sin Morir Espero](https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7) | 2:39 | 2024-07-25 |  |
+| [Sin Morir Espero](https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Sin Morir Espero](https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7) | 2:39 | 2024-07-25 | 2024-11-24 |
 | [So payaso](https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [So payaso](https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ) | 3:06 | 2024-06-27 | 2024-09-20 |
 | [Somos raros](https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Todo alrededor](https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO) | 4:08 | 2024-08-08 |  |
 | [Stratocarte](https://open.spotify.com/track/2h8PMO2V40LE6xXq3oX9pO) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Lo Que Dicen Por Ahí](https://open.spotify.com/album/4n3njIqx8KJR8lo7wnXo75) | 3:07 | 2024-06-27 | 2024-07-12 |

@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Hard Cor",
+        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
+      },
+      "artists": [
+        {
+          "name": "Anna Ralb",
+          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150856,
+      "name": "bcn love y hate",
+      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
+    },
+    {
+      "album": {
         "name": "Soul Blackout (Remixes)",
         "url": "https://open.spotify.com/album/6LobJXIH6G9lspYdmxAuHa"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
@@ -7384,7 +7402,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 145442,
       "name": "RomanceRomantiKO",
       "url": "https://open.spotify.com/track/3N4WZ5U4RcC4MeJnuyKVgO"
@@ -7670,7 +7688,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 138677,
       "name": "Secret0-0",
       "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
@@ -8463,6 +8481,28 @@
     },
     {
       "album": {
+        "name": "TIGUERON",
+        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "TIGUERON",
+      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
+    },
+    {
+      "album": {
         "name": "TikTok",
         "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
       },
@@ -8750,6 +8790,24 @@
       "duration_ms": 160282,
       "name": "tus ojos olvidaron llorar",
       "url": "https://open.spotify.com/track/63JJDMsbkFsBHfJHldg9vj"
+    },
+    {
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90270,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
     },
     {
       "album": {

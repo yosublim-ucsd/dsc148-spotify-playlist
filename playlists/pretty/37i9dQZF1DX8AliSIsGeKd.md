@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Paul van Dyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,121 likes - 90 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,435 likes - 90 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 75 | [Resonance](https://open.spotify.com/track/6MNhTW4kqUWcVZ7aMRrr8X) | [ANMA](https://open.spotify.com/artist/7slIYLXRRWtA4pxfwCd3LE), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [New Horizons](https://open.spotify.com/album/4Aeriq4XiZFbcxCQbLOUTP) | 6:35 |
 | 76 | [Telegram Palace](https://open.spotify.com/track/4KmD3kknJW3mm1aq2Q7l9W) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Telegram Palace](https://open.spotify.com/album/34AZjDdlcPbcz3UAuug1Bn) | 4:16 |
 | 77 | [WASSER \- Kotiēr Remix](https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [WASSER \(Kotiēr Remix\)](https://open.spotify.com/album/2qXRFONJS6HobiaSQ7D0Z9) | 6:30 |
-| 78 | [Astrosyn \(Your House Is My House\) \- Thomas Schumacher Remix](https://open.spotify.com/track/54ZsmjzBgvVmPDHuFz1hHU) | [The Montini Experience](https://open.spotify.com/artist/00jcso8tVFpgGPbBMDftVo), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Astrosyn \(Your House Is My House \- Thomas Schumacher Remix\)](https://open.spotify.com/album/161DCTAj99njUFvRtMvZCJ) | 4:05 |
+| 78 | [Astrosyn \(Your House Is My House\) \- Thomas Schumacher Remix](https://open.spotify.com/track/54ZsmjzBgvVmPDHuFz1hHU) | [The Montini Experience](https://open.spotify.com/artist/00jcso8tVFpgGPbBMDftVo), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Astrosyn \(Your House Is My House\) \[Thomas Schumacher Remix\]](https://open.spotify.com/album/161DCTAj99njUFvRtMvZCJ) | 4:05 |
 | 79 | [Heartless \- Alex Wann Remix](https://open.spotify.com/track/3Wo7ZgMXAL73eHk6pVQKWh) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Heartless \(Alex Wann Remix\)](https://open.spotify.com/album/1k0nA0T3cihGKoJ0nhhYhV) | 5:50 |
 | 80 | [Oak Tree](https://open.spotify.com/track/4Z8OPjtBjmlHbYTb88asY2) | [vidi roca](https://open.spotify.com/artist/6jrFGWNf3MF89fhTbnCsBj), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Oak Tree](https://open.spotify.com/album/5x4I8CykbsKRWlonl54fgc) | 2:38 |
 | 81 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |

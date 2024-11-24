@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: REA
 
-224 songs - 11 hr 1 min
+225 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
 | [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 | 2024-11-22 |
-| [CERIGNOLA CAMPAGNA](https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [CERIGNOLA CAMPAGNA](https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS) | 2:57 | 2024-11-14 |  |
+| [CERIGNOLA CAMPAGNA](https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [CERIGNOLA CAMPAGNA](https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS) | 2:57 | 2024-11-14 | 2024-11-24 |
 | [Che voglia](https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [In quella casa in fiamme ci sono dei bambini](https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6) | 2:23 | 2024-06-27 | 2024-07-27 |
 | [Chinaglia](https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Chinaglia](https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2024-11-21 |  |
@@ -83,6 +83,7 @@
 | [GARAGE MARE](https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N) | [Oh Baro](https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5) | [GARAGE MARE](https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT) | 2:41 | 2024-07-25 | 2024-11-08 |
 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [Giornata vuota](https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Giornata vuota](https://open.spotify.com/album/5O4q3gA9yOLHZbB2nINGz3) | 2:54 | 2024-06-27 | 2024-07-12 |
+| [Godspeed / Fili d'Erba](https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ora](https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn) | 1:50 | 2024-11-21 |  |
 | [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 |  |
 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 | 2024-09-05 | 2024-09-27 |
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 |  |
@@ -162,7 +163,7 @@
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Polvere](https://open.spotify.com/track/3NgtBfIj16hsQdCgTlz4u1) | [VIOLANTE](https://open.spotify.com/artist/5ysxGtfqUnLuYBdKpMqmhu) | [Polvere](https://open.spotify.com/album/59DvlwV0AP3itvkMtmZwiR) | 2:41 | 2024-11-21 |  |
-| [Portami via](https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Portami via](https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt) | 2:55 | 2024-10-24 |  |
+| [Portami via](https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Portami via](https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt) | 2:55 | 2024-10-24 | 2024-11-24 |
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-11-22 |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
@@ -176,7 +177,7 @@
 | [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-26 | 2024-11-21 |
 | [Rumore](https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Rumore](https://open.spotify.com/album/6QOsXyx17cx4ZsDylUEQNH) | 2:29 | 2024-06-27 | 2024-07-12 |
 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 | 2024-09-05 | 2024-11-18 |
-| [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 | 2024-11-22 |
+| [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 |  |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-10-22 |
 | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |

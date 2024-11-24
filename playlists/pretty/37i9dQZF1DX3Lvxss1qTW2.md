@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Kemuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,836 likes - 79 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,880 likes - 79 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

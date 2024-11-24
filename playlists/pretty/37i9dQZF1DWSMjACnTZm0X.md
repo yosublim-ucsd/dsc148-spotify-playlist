@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=PFD8hpVuRZeJhtgZU\_IkRQ">Cyfred, <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=6WTguHhMSl2Ei8AeFqN3Sg">Young Jonn  & <a href="https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=b792QK9aQu6YawSMhuiOjg">Scotts Maphuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,569 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,614 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Phuthuma \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1) | [Cyfred](https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Phuthuma \(feat\. Young Jonn\) \[Remix\]](https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0) | 6:15 |
+| 1 | [Phuthuma \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1) | [Cyfred](https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Phuthuma \(feat\. Young Jonn\) \[Remix\]](https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0) | 5:23 |
 | 2 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 3 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 4 | [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129769,
+  "num_followers": 129774,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2024-11-18 01:00:00",
       "album": {
-        "name": "Fuzzy Feeling",
-        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 176208,
-      "name": "Fuzzy Feeling",
-      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+      "duration_ms": 202248,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
     },
     {
       "added_at": "2024-11-18 01:00:00",
@@ -1115,34 +1111,22 @@
     {
       "added_at": "2024-11-18 01:00:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
-    },
-    {
-      "added_at": "2024-11-18 01:00:00",
-      "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
-      },
-      "artists": [
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 162585,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
     },
     {
       "added_at": "2024-11-18 01:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 136058,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
+    },
+    {
+      "added_at": "2024-11-18 01:00:00",
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": "2024-11-18 01:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-11-18 01:00:00",
       "album": {
-        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
-        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
-      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
-    },
-    {
-      "added_at": "2024-11-18 01:00:00",
-      "album": {
         "name": "When I Get Old",
         "url": "https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 184732,
       "name": "When I Get Old",
       "url": "https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y"
+    },
+    {
+      "added_at": "2024-11-18 01:00:00",
+      "album": {
+        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
+        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
+      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
     },
     {
       "added_at": "2024-11-18 01:00:00",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-11-18 01:00:00",
       "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/1L5GP3Zuu7BvI81OJ0VkpT"
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
       "artists": [
         {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 196552,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/0Y4hwUppbGc8aIBmiTz30A"
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

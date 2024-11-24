@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks in the North. Cover: Shawn Mendes",
-  "num_followers": 898334,
+  "num_followers": 898356,
   "original_name": "Hot Hits Canada",
   "owner": {
     "name": "Spotify",
@@ -50,10 +50,14 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
       "duration_ms": 177598,
-      "name": "luther",
+      "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {

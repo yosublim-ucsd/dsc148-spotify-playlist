@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-136 songs - 7 hr 37 min
+137 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-13 |  |
 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 | 2021-12-28 |  |
 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 | 2021-12-28 |  |
+| [If It’s Okay \(feat\. David Guetta & Davido\)](https://open.spotify.com/track/7uFi3inTvFSPIJPnalgmI3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 3:44 | 2024-11-24 |  |
 | [IN THE GARDEN \(feat\. Morravey\)](https://open.spotify.com/track/21hZ5a5marKn0MWxkZ0vYR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:45 | 2023-04-01 | 2023-04-03 |
 | [Intro](https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:23 | 2022-03-15 |  |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2021-12-28 | 2024-01-07 |
@@ -90,7 +91,7 @@
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [MORE PRETTY GIRLS](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-16 |  |
 | [My Love](https://open.spotify.com/track/4V9qUKyxbIxLkRGa15eAkN) | [King Joel](https://open.spotify.com/artist/4wyA5NzlO7dAf1fZ1pD36c), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [My Love](https://open.spotify.com/album/2hFJ5AXzhqEzl2meezVwyN) | 2:55 | 2022-07-25 | 2022-11-26 |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-04-01 |  |
-| [Nobody Has To Know \(feat\. Davido\)](https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 2:59 | 2022-07-10 |  |
+| [Nobody Has To Know \(feat\. Davido\)](https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 2:59 | 2022-07-10 | 2024-11-24 |
 | [Number One \- Remix](https://open.spotify.com/track/0mvymviGy37Kc7zZ9KcbId) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Boy From Tandale](https://open.spotify.com/album/7g259gsPR1abnRWy3RVOMi) | 3:23 | 2021-12-31 | 2022-05-22 |
 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 | 2022-01-07 |  |
 | [Odo Remix \(feat\. Mayorkun & Davido\)](https://open.spotify.com/track/6JqM0NwHf2DP1ufgqGAQpE) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Odo Remix \(feat\. Mayorkun & Davido\)](https://open.spotify.com/album/3LFAii5q9imYX4tCdtxEML) | 3:53 | 2022-09-11 | 2022-10-13 |

@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 509576,
+  "num_followers": 509653,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -352,8 +352,8 @@
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
       "duration_ms": 222893,
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Best Of...Green Grass & High Tides",
-        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
-      },
-      "artists": [
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
-        }
-      ],
-      "duration_ms": 586400,
-      "name": "Green Grass & High Tides - Remastered",
-      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 277960,
       "name": "Left Turn on a Red Light",
       "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Best Of...Green Grass & High Tides",
+        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 586400,
+      "name": "Green Grass & High Tides - Remastered",
+      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 142346,
-      "name": "Hit the Nail on the Head - Remastered",
-      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255840,
       "name": "Island",
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 142346,
+      "name": "Hit the Nail on the Head - Remastered",
+      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+      },
+      "artists": [
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1247,18 +1279,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
         }
       ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1279,18 +1311,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
       "artists": [
         {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1311,22 +1343,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Brickyard Road",
         "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 308800,
       "name": "Party in the Parking Lot",
       "url": "https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2024-07-05 17:03:45",

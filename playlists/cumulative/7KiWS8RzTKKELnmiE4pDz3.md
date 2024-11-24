@@ -4,7 +4,7 @@
 
 > 
 
-812 songs - 1 day 15 hr 5 min
+814 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Akbar](https://open.spotify.com/track/357EwLZfD9vuGTZ7dxqumw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:22 | 2022-06-10 | 2023-12-14 |
 | [Akorn](https://open.spotify.com/track/2BSC5k7wf96ofscMZAcFuh) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [La Vibes](https://open.spotify.com/album/021ENWQHYyQsDDdNFuWqYz) | 2:19 | 2022-09-13 | 2023-04-12 |
 | [Album Just For You](https://open.spotify.com/track/2ZY8kGlTB6EgRKuTC2yFsv) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:45 | 2023-01-27 | 2023-04-24 |
+| [All Alone](https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 1:53 | 2024-11-23 |  |
 | [All Kap](https://open.spotify.com/track/22sCCapRrg0KvCajcGFinX) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [All Kap](https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P) | 2:15 | 2023-02-09 | 2023-04-12 |
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-24 |  |
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 | 2023-03-01 |
@@ -146,6 +147,7 @@
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-04 | 2023-04-12 |
 | [Champion Sound](https://open.spotify.com/track/2hLNoH4fXHvvweEx9rWLIg) | [Woodie Smalls](https://open.spotify.com/artist/1ng2cH6hJIOSYxQMk6pEux) | [Soft Parade](https://open.spotify.com/album/046toK3mprR6caalRr8Vam) | 3:49 | 2023-10-03 | 2024-04-24 |
 | [Chanel \(Go Get It\) \[feat\. Gunna & Lil Baby\]](https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:21 | 2023-10-03 |  |
+| [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 | 2024-11-23 |  |
 | [Cheat Code \(No Depot\)](https://open.spotify.com/track/2lSA6cClf7t810h84yg756) | [F3GA](https://open.spotify.com/artist/1aYNbH4PFBfcbEvuvHDMkf) | [Cheat Code \(No Depot\)](https://open.spotify.com/album/67ffzSzQAXheEWJaW9tGPK) | 1:58 | 2023-04-05 | 2023-12-14 |
 | [Chess Players \(feat\. DaBoii\)](https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:11 | 2022-08-25 | 2024-04-24 |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |

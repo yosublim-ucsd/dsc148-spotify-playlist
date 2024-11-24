@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > big week..\. The best new music every Friday\. Cover: Father John Misty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,790 likes - 190 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,964 likes - 190 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 14 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
 | 15 | [Anti\-Superstar](https://open.spotify.com/track/17o7CTsb658mfoL0ENdaCe) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Anti\-Superstar](https://open.spotify.com/album/3oP6MjWlLEU5YTWRSAUsd7) | 2:33 |
 | 16 | [PINK LEMONADE](https://open.spotify.com/track/0RKIMdppII9toNNpqY8tWF) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PINK LEMONADE](https://open.spotify.com/album/6nNpkdAwMNLXq5k8kbqxLJ) | 2:22 |
-| 17 | [H.B.W.](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
+| 17 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
 | 18 | [backstage again](https://open.spotify.com/track/26zfh8beaWD22khJzLr4dm) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 4:11 |
 | 19 | [Nobody Loves You More](https://open.spotify.com/track/1lI57v38JV5MQ3RlXi1rgS) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Nobody Loves You More](https://open.spotify.com/album/6HStWs2rqypiDawbPjSMNG) | 2:55 |
 | 20 | [2468](https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [2468](https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV) | 3:17 |

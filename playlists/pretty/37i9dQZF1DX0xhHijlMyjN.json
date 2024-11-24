@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 343385,
+  "num_followers": 343368,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Dragostea din tei",
+      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/5kRrvgSyY0eyuCIoeQZN2S"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 184015,
       "name": "Stereo Love - Edit",
       "url": "https://open.spotify.com/track/2Xf4RoFpi7n06ppsGKbxiq"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Dragostea din tei",
-      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Boys - Summertime Love",
-      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Corazon Latino",
         "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209946,
       "name": "Ave Mar\u00eda",
       "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 217426,
       "name": "Torero",
       "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -1491,34 +1475,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
       },
       "artists": [
         {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1551,6 +1519,38 @@
       "duration_ms": 253133,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "When Love Takes Over",
         "url": "https://open.spotify.com/album/27255AeNTU1KuApN9KjmjM"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Todos Los D\u00edas Sale El Sol",
         "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 254773,
       "name": "Y Yo Sigo Aqui - Spanglish",
       "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "A\u00fan Hay M\u00e1s",
-        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
-      },
-      "artists": [
-        {
-          "name": "F\u00f3rmula Abierta",
-          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "A\u00fan Hay M\u00e1s",
+        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
+      },
+      "artists": [
+        {
+          "name": "F\u00f3rmula Abierta",
+          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
-      },
-      "artists": [
-        {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
-        }
-      ],
-      "duration_ms": 265520,
-      "name": "Levantando las Manos",
-      "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "La Copla, Vol.4",
         "url": "https://open.spotify.com/album/4pCNgOQ0N1D9HyVJ4J2RzS"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 216466,
       "name": "Y Viva Espa\u00f1a",
       "url": "https://open.spotify.com/track/4Q2vhlUXoWWzZQeKn7OreC"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+      },
+      "artists": [
+        {
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+        }
+      ],
+      "duration_ms": 265520,
+      "name": "Levantando las Manos",
+      "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
-      },
-      "artists": [
-        {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 257720,
       "name": "Ella (Tu Piel Morena)",
       "url": "https://open.spotify.com/track/2DAeRk6J5C1Zu8iy32sUPf"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+      },
+      "artists": [
+        {
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
     },
     {
       "added_at": "2024-06-18 12:57:48",

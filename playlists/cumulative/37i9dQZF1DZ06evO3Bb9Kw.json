@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Still That Cowboy (feat. Miranda Lambert)",
+        "url": "https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214020,
+      "name": "Still That Cowboy (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU"
+    },
+    {
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 196733,
       "name": "Takin' Pills",
       "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"

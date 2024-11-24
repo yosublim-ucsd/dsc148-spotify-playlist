@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Seong\-Jin Cho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,388 likes - 57 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,487 likes - 57 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

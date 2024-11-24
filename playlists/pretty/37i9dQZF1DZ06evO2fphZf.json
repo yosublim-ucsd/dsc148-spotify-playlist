@@ -1,6 +1,6 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 10884,
+  "num_followers": 10892,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144396,
-      "name": "in my bag",
-      "url": "https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205400,
       "name": "snowing in LA",
       "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144396,
+      "name": "in my bag",
+      "url": "https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw"
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 204528,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE"
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

@@ -12247,7 +12247,7 @@
     },
     {
       "album": {
-        "name": "Deilig Er Jorden",
+        "name": "Deilig er jorden",
         "url": "https://open.spotify.com/album/7ngQDaLJ2A1tRou5Hou9C3"
       },
       "artists": [
@@ -12260,7 +12260,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 291701,
-      "name": "Deilig Er Jorden",
+      "name": "Deilig er jorden",
       "url": "https://open.spotify.com/track/3O6suIXSva5mMUepNj7PZO"
     },
     {
@@ -21508,13 +21508,25 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
+        },
+        {
+          "name": "YoungThreat",
+          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
         }
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193539,
-      "name": "gnx",
+      "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
       "url": "https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ"
     },
     {
@@ -35768,13 +35780,17 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177598,
-      "name": "luther",
+      "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {

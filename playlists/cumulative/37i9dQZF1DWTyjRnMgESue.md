@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Wild Rivers
 
-568 songs - 1 day 9 hr 2 min
+569 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-06-17 | 2022-10-14 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/1moE3Qvo70cpkGT6RcRy9l) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/4YHy2q0WEJaCNGRy4I1xsw) | 4:02 | 2022-08-12 | 2023-01-14 |
 | [Don't Walk Away](https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 4:22 | 2024-03-29 | 2024-07-09 |
+| [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 | 2024-11-22 |  |
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1iMPcWrZhtv6tKJy9UhhUy) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Left Hand](https://open.spotify.com/album/2t1mL93fMNoyu84qChrOnO) | 2:56 | 2023-08-25 | 2023-09-16 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-11-19 | 2022-02-22 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
@@ -187,7 +188,7 @@
 | [Forgetting](https://open.spotify.com/track/4gHqrWltyes1fgnHPzC9yX) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Forgetting](https://open.spotify.com/album/4dofU7z1Ddbo3hwM3ticWQ) | 3:32 | 2021-11-19 | 2022-07-08 |
 | [Four Leaf Dream](https://open.spotify.com/track/2I8VEot3oo5qaVmCW16qOx) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Four Leaf Dream](https://open.spotify.com/album/6F1TXEZqGeUasahJdxs4hR) | 2:21 | 2022-03-11 | 2022-07-08 |
 | [Four Tequilas Down](https://open.spotify.com/track/7ilxwPIQLBWPIQa1gxYow6) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 2:22 | 2021-11-19 | 2022-01-22 |
-| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-05-17 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-05-17 | 2024-11-24 |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2021-12-03 | 2022-02-22 |
 | [Full Full Colour](https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Full Full Colour](https://open.spotify.com/album/5Nzqar2JO5KLvjFXDETJWn) | 2:36 | 2021-11-19 | 2022-07-15 |
 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 | 2021-11-19 | 2022-07-16 |

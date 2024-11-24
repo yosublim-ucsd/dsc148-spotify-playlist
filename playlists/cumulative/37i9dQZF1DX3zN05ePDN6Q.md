@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: MV Bill
 
-575 songs - 1 day 6 hr 11 min
+576 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Rodman & Madonna](https://open.spotify.com/track/7sVUwjTvWvsQo4RMDU26zx) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Rodman & Madonna](https://open.spotify.com/album/7LlvrAEluWpmuSll6DRsGo) | 2:50 | 2024-06-14 |  |
 | [Rodopiando](https://open.spotify.com/track/5VVA4n5dGJuEyakzgOnDHX) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Rodopiando](https://open.spotify.com/album/33nJeIKXQrk0gwYGz4AhfT) | 3:16 | 2023-01-14 | 2023-04-15 |
 | [Rosa 2](https://open.spotify.com/track/7tLira8Usnv3wXnMAboV8J) | [iann guxtavo](https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3), [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [Elleven](https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW) | [Rosa 2](https://open.spotify.com/album/4TQXmaGERenRCSq8CzlAIu) | 3:36 | 2024-08-30 | 2024-11-09 |
+| [Ruas da Cidade \#2](https://open.spotify.com/track/1jeUlvss4BVZ0ppNDUGotZ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [Vitu](https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz) | [Ruas da Cidade \#2](https://open.spotify.com/album/7Hd99biJDTzTnY1GU8UB3b) | 3:40 | 2024-11-22 |  |
 | [RUMO](https://open.spotify.com/track/3ZbpXNjqqnval0JHQjZflU) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Las Delicias de La Abuela de Lucas](https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E) | 2:51 | 2023-09-22 | 2024-04-19 |
 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 | 2022-03-18 | 2022-11-12 |
 | [Rá](https://open.spotify.com/track/5Wzpu9dB5eQgufx8sgGVJ6) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [Rá](https://open.spotify.com/album/7mhpTQQaQYXoyGnJ2Y9wou) | 2:38 | 2023-09-15 | 2023-10-14 |

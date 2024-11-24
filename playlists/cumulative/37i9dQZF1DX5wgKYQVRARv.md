@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-772 songs - 2 day 18 hr 2 min
+773 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Forever Outsider](https://open.spotify.com/track/4KlTRjEcQvESo8jVVc7cLv) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Forever Outsider](https://open.spotify.com/album/5ueD5cxSXc04cLtz4YXaiP) | 4:09 | 2021-12-17 | 2022-07-29 |
 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 | 2022-07-13 | 2022-07-28 |
 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 | 2022-07-13 | 2024-04-19 |
-| [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 | 2023-04-07 |  |
+| [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 | 2023-04-07 | 2024-11-24 |
 | [From the Flame](https://open.spotify.com/track/1tBxs9BqNlBXbIxVaCBrv5) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 3:51 | 2021-12-17 | 2022-09-03 |
 | [Fugue](https://open.spotify.com/track/5MyJ0db4l6pNQCcrIxu3P9) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/album/1FrupUpwR2Mf9rSIIoInyr) | 4:31 | 2022-09-02 | 2023-01-21 |
 | [Fugue](https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Fugue](https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo) | 4:31 | 2021-12-17 | 2022-07-29 |
@@ -731,6 +731,7 @@
 | [Vertical](https://open.spotify.com/track/5pTZJRcEgtAY35qxljzxDI) | [Votum](https://open.spotify.com/artist/42ZQcu4ciEscZIXmdldg7j) | [:Ktonik:](https://open.spotify.com/album/3SNZcKxWgfusOdiUMwNXIe) | 6:17 | 2021-12-17 | 2022-01-27 |
 | [Vestibule of Hell](https://open.spotify.com/track/5s1CRikpsROgngSQYreX7Z) | [Voices From The Fuselage](https://open.spotify.com/artist/3CDlmNCrRf989svG7OHksr) | [Vestibule of Hell](https://open.spotify.com/album/5pIKY5Ys72OeLb2L8uWLu5) | 3:59 | 2021-12-17 | 2022-05-10 |
 | [Vibrant](https://open.spotify.com/track/4BhRhK2epscKTbEfPwJw67) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ) | [Vibrant](https://open.spotify.com/album/2IkQwrYmUc53vP2jzqiGKu) | 4:19 | 2021-12-17 | 2022-09-03 |
+| [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 | 2024-11-22 |  |
 | [Vivid](https://open.spotify.com/track/1vnpW0MkecIiL3IkEqkmTj) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/4JmBVe1ha6JOnbqSJKiXaz) | 4:28 | 2022-07-13 | 2022-07-29 |
 | [Vivid](https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/3AglitukJSID7M51tDEDdH) | 4:28 | 2022-07-13 | 2024-04-19 |
 | [Voices](https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Voices](https://open.spotify.com/album/4GryeT2FdvAcyWjui8nlOW) | 4:09 | 2021-12-17 | 2023-01-21 |

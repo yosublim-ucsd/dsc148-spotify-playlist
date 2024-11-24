@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-2,432 songs - 5 day 3 hr 17 min
+2,434 songs - 5 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-03 | 2022-04-01 |
 | [Heart Ake](https://open.spotify.com/track/6gjzOAOSHzij4hFJUvuDLE) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DJ Pauly Peach](https://open.spotify.com/artist/1gwuIlwXfdJXafbhb2xMrj) | [Heart Ake](https://open.spotify.com/album/7cKUmOWK25W0Xj7que25jF) | 2:21 | 2023-02-02 | 2023-03-25 |
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-10 | 2023-03-25 |
+| [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2024-11-23 |  |
 | [HEAT](https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [HEAT](https://open.spotify.com/album/21Za9kIL7PUvXUAQy9nV13) | 3:08 | 2023-09-14 | 2023-10-23 |
 | [HEAVEN'S GALAXY](https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HEAVEN'S GALAXY](https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B) | 6:17 | 2023-10-12 | 2023-12-09 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-04-15 |
@@ -1929,6 +1930,7 @@
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-26 | 2024-06-08 |
 | [Spring Journal](https://open.spotify.com/track/6ZyRP9nWgyfJ67RFYmbM9A) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [Taisuke Miyata](https://open.spotify.com/artist/1ZlV6Er4b1H34cDvqA2oSs) | [Spring Journal](https://open.spotify.com/album/2lPgH7srxRFHopUcSHmrkf) | 3:14 | 2022-03-18 | 2022-04-08 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-01 | 2024-01-05 |
+| [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-23 |  |
 | [SRT \(feat\. Slim Jxmmi\)](https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [S.H.O.T.T.A.](https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P) | 2:21 | 2024-03-08 | 2024-05-03 |
 | [SSII.](https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSII.](https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1) | 4:36 | 2022-09-22 | 2022-11-11 |
 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 | 2022-12-15 | 2023-02-03 |

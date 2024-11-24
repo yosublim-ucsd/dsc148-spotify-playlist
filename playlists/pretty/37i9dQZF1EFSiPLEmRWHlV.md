@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 70 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 |
 | 71 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
 | 72 | [Out of Control](https://open.spotify.com/track/434e2SzFdouV3BN3asPJw4) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Friends and Fam](https://open.spotify.com/album/6dSPW8TB4VsGsIe2S40AMD) | 2:39 |
-| 73 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
-| 74 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
+| 73 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
+| 74 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
 | 75 | [Heart & Soul](https://open.spotify.com/track/6EJCWAsghmXowYHsATICoK) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Heart & Soul](https://open.spotify.com/album/1LBJDoSJtZlJOskDr1Tuvv) | 2:47 |
 | 76 | [Feel The Rage](https://open.spotify.com/track/2E6OQmLM3iVEkJiBLnaUK8) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Mr\. Ready To Blitz](https://open.spotify.com/album/4KMUDk8tBzLIw9MUbEZVEw) | 2:52 |
 | 77 | [Passion \- Tantrum Desire Remix](https://open.spotify.com/track/2v88kuFdMAZofeB3Wo1DLX) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Ten Thousand Feet & Rising \(The Remixes\)](https://open.spotify.com/album/7kp17InWsncD5sl6B7yakM) | 4:47 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 125 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 126 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbiN/gAAAACEbsIk9VkuP+lxNJC+G3it`
+Snapshot ID: `AbiTlAAAAABnjNxObi1kU65Q5aBvU3RA`

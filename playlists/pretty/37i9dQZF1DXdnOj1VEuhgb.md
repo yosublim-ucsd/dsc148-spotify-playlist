@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ezhel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,836 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,047 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 11 | [Alpi](https://open.spotify.com/track/0Qswuc7isupiZ5DGxYsRvA) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 2:56 |
 | 12 | [bir](https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [bir](https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg) | 3:17 |
 | 13 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
-| 14 | [Ne Var Ne Yok \- Remix](https://open.spotify.com/track/13792h7DnkkzICufpcUbvS) | [Chefket](https://open.spotify.com/artist/5cfZNNUl6K82ZIWoWYSbcw), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Denis Raab](https://open.spotify.com/artist/196I6HKQprrmVLtKWl1IwI) | [Ne Var Ne Yok](https://open.spotify.com/album/6zteg8cfvf25p75sCCYunE) | 2:30 |
+| 14 | [Ne Var Ne Yok \- Remix](https://open.spotify.com/track/13792h7DnkkzICufpcUbvS) | [Chefket](https://open.spotify.com/artist/5cfZNNUl6K82ZIWoWYSbcw), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [DTP](https://open.spotify.com/artist/4CoBsdgMegKDhi2ZDM5LmB) | [Ne Var Ne Yok \(Remix\)](https://open.spotify.com/album/6zteg8cfvf25p75sCCYunE) | 2:30 |
 | 15 | [Anlat](https://open.spotify.com/track/1zTtEGttQKzKgtYhEKyfP9) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Anlat](https://open.spotify.com/album/1G9m9FcKRWBKPXhfV3CkV9) | 3:27 |
 | 16 | [Felfeci](https://open.spotify.com/track/5WK4MwD28Cd11yAI2okc6f) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Felfeci](https://open.spotify.com/album/04JqmrcPViNSzJGvAKUXqf) | 2:25 |
 | 17 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |

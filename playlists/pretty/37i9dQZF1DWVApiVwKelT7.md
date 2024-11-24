@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 
 > Time to mend your broken heart with beautiful melodies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,240 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,281 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

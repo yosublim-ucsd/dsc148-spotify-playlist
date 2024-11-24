@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 248799,
+  "num_followers": 248818,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAAbtxBjZfIrwEArJEnT3HoH",
+  "snapshot_id": "Zz/JgAAAAACBN0srGDxUEEDtwCyKgVLv",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Beer Drinkers & Hell Raisers (2006 Remaster)",
-      "url": "https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
+      "duration_ms": 205546,
+      "name": "Beer Drinkers & Hell Raisers (2006 Remaster)",
+      "url": "https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F"
     },
     {
       "added_at": null,

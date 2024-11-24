@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Diss Gacha, Capo Plaza, Icy Subzero, Lorenzza e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,025 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,063 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 51 | [Danse \(feat\. Noizy\)](https://open.spotify.com/track/5bAqF7SDFUy0u4SbSRwy1i) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Danse \(feat\. Noizy\)](https://open.spotify.com/album/1KUsgiwK1KpWRPuvVJi85R) | 3:26 |
 | 52 | [PURPLE RAIN \(feat\. Tedua\)](https://open.spotify.com/track/5HkV4TiehOYsqP6ta1Y032) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GOBLIN](https://open.spotify.com/album/02RzOO14ybPB0mGrfdjkX4) | 3:23 |
 | 53 | [T CHIED SCUS \(feat\. MV Killa\)](https://open.spotify.com/track/4jRjSo35oT1FjdOgUTuS1i) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [T CHIED SCUS \(feat\. MV Killa\)](https://open.spotify.com/album/6lGW9erOSZJYSrCLdDXKMG) | 3:00 |
-| 54 | [TRAP](https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [SKUGNIZZO](https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6) | 2:35 |
+| 54 | [TRAP](https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [SKUGNIZZO](https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6) | 2:34 |
 | 55 | [PAVAROTTI](https://open.spotify.com/track/7wEg5sQaODnNKsbeuZNNGz) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [PAVAROTTI](https://open.spotify.com/album/0dtHi5W2AZyOPNlSxCMKkA) | 2:53 |
 | 56 | [VERO HUSTLA](https://open.spotify.com/track/1mFF01eXfnQQb2gkjg4wvw) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [VERO HUSTLA](https://open.spotify.com/album/6Iq7NCFolLT6HzXTEl81Wy) | 2:10 |
 | 57 | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/track/3T7gz5HBmHlkAWcUJqbMAS) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/album/63DSYQz1kJNpQvzzd8pXkO) | 2:43 |

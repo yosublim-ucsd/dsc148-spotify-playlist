@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
-  "num_followers": 42759,
+  "num_followers": 42783,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,34 @@
       "duration_ms": 167832,
       "name": "Ses dents",
       "url": "https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3mNkS16EktzfCs0O1eWdPd"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -79,22 +107,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "These Walls (feat. Pierre de Maere)",
-        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 217597,
-      "name": "These Walls (feat. Pierre de Maere)",
-      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+      "duration_ms": 216973,
+      "name": "Laisse-moi tranquille.",
+      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -119,18 +143,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Laisse-moi tranquille.",
-      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -235,22 +263,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 229939,
-      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
       },
@@ -263,6 +275,22 @@
       "duration_ms": 155066,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 229939,
+      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -307,6 +335,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -323,22 +367,6 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Mauvais gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Mauvais gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -379,38 +407,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 122023,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Absent",
         "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
       },
@@ -443,6 +439,38 @@
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 122023,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -635,6 +663,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "1 Minute",
+        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "1 Minute",
+      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Ah les crocodiles",
         "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
       },
@@ -667,6 +715,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Obrigado",
+        "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 139416,
+      "name": "Obrigado",
+      "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "CRASH C\u0152UR+",
         "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
       },
@@ -683,18 +747,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Obrigado",
-        "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
+        "name": "BBL.00",
+        "url": "https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 139416,
-      "name": "Obrigado",
-      "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
+      "duration_ms": 159666,
+      "name": "BBL.00",
+      "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -715,6 +783,22 @@
       "duration_ms": 155368,
       "name": "No stress",
       "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -759,6 +843,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "STACKS",
+        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "STACKS",
+      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Voyage (Part II)",
         "url": "https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl"
       },
@@ -791,70 +895,6 @@
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Rater une rupture pour les nuls",
-        "url": "https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg"
-      },
-      "artists": [
-        {
-          "name": "Iliona",
-          "url": "https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Rater une rupture pour les nuls",
-      "url": "https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Nouvelle vie",
-        "url": "https://open.spotify.com/album/1AVjkLXsyQoO61z02FJKRf"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/6fZh6vpC8gIax8ILjPEb6E"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "L\u2019envers du d\u00e9cor",
-        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "L\u2019envers du d\u00e9cor",
-      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tour du Monde",
-        "url": "https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Tour du Monde",
-      "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

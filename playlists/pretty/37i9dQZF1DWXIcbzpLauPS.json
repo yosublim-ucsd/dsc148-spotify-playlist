@@ -1,6 +1,6 @@
 {
   "description": "brutality and technicality collide. fresh metalcore awaits. Cover: Thornhill",
-  "num_followers": 936340,
+  "num_followers": 936417,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Hatred",
-        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "Hatred",
-      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Forever Cold",
         "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 283714,
       "name": "Forever Cold",
       "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hatred",
+        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -887,30 +887,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Continuum (Feat. Niklas Karlsson)",
-        "url": "https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        },
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        },
-        {
-          "name": "Niklas Karlsson",
-          "url": "https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8"
-        }
-      ],
-      "duration_ms": 257405,
-      "name": "Continuum - Feat. Niklas Karlsson",
-      "url": "https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 188731,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Continuum (Feat. Niklas Karlsson)",
+        "url": "https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        },
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        },
+        {
+          "name": "Niklas Karlsson",
+          "url": "https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8"
+        }
+      ],
+      "duration_ms": 257405,
+      "name": "Continuum - Feat. Niklas Karlsson",
+      "url": "https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Survivor\u2019s Guilt",
-        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Get Your Shit Together",
         "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 280980,
       "name": "Get Your Shit Together",
       "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Survivor\u2019s Guilt",
+        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 198417,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Needle Eye",
-        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
-      },
-      "artists": [
-        {
-          "name": "Colorblind",
-          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
-        }
-      ],
-      "duration_ms": 169518,
-      "name": "Needle Eye",
-      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Needle Eye",
+        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
+      },
+      "artists": [
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "duration_ms": 169518,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "HYPERVIOLENCE",
         "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         }
       ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+      "duration_ms": 254173,
+      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 159280,
       "name": "Invisible Rain",
       "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Maybe Death Is All I Need",
-        "url": "https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 113414,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 164916,
       "name": "No Answer",
       "url": "https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Maybe Death Is All I Need",
+        "url": "https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 113414,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1579,22 +1579,6 @@
       "duration_ms": 209240,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 205352,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 205352,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "In My Restless Dreams",
         "url": "https://open.spotify.com/album/7pWzD45IVsafPTJ29l1zV1"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 217910,
       "name": "In My Restless Dreams",
       "url": "https://open.spotify.com/track/7tIc67JrRCNochXI1fH22l"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Doom + Gloom",
+        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
+      },
+      "artists": [
+        {
+          "name": "Set for Tomorrow",
+          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Doom + Gloom",
+      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Doom + Gloom",
-        "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
-      },
-      "artists": [
-        {
-          "name": "Set for Tomorrow",
-          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Doom + Gloom",
-      "url": "https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mourning The Dawn",
         "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 301371,
       "name": "Mourning The Dawn",
       "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 260820,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 215666,
       "name": "Forgive And Forget (feat. Fit For A King)",
       "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1823,6 +1823,42 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/49Hb35oZZR3g58Nyovo8lC"
+      },
+      "artists": [
+        {
+          "name": "Dreamwake",
+          "url": "https://open.spotify.com/artist/7w7sMRp0FSQRRZM5SZG0Dm"
+        }
+      ],
+      "duration_ms": 355354,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/24k5SFhvgwpnJAwJ8FKGRU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Architect (feat. Currents)",
+        "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Architect (feat. Currents)",
+      "url": "https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Cr\u00e8ve",
         "url": "https://open.spotify.com/album/30R13mjibcY6nOfzJN07Yp"
       },
@@ -1867,26 +1903,6 @@
       "duration_ms": 226500,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Architect (feat. Currents)",
-        "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Architect (feat. Currents)",
-      "url": "https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2067,42 +2083,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 184287,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mare's Nest",
         "url": "https://open.spotify.com/album/33mn7hIwamLxDbJwdYDMOB"
       },
@@ -2143,18 +2123,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ephemera",
-        "url": "https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8"
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe"
       },
       "artists": [
         {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
         }
       ],
-      "duration_ms": 189827,
-      "name": "Ephemera",
-      "url": "https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M"
+      "duration_ms": 184287,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Ephemera",
+        "url": "https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 189827,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Phenomena II",
         "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
       },
@@ -2191,18 +2207,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/49Hb35oZZR3g58Nyovo8lC"
+        "name": "feel something new",
+        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
       },
       "artists": [
         {
-          "name": "Dreamwake",
-          "url": "https://open.spotify.com/artist/7w7sMRp0FSQRRZM5SZG0Dm"
+          "name": "Grayscale Season",
+          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
         }
       ],
-      "duration_ms": 355354,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/24k5SFhvgwpnJAwJ8FKGRU"
+      "duration_ms": 204076,
+      "name": "It Consumes Me",
+      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2219,22 +2235,6 @@
       "duration_ms": 217669,
       "name": "Ego (Maniac)",
       "url": "https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "feel something new",
-        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
-      },
-      "artists": [
-        {
-          "name": "Grayscale Season",
-          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "It Consumes Me",
-      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Dead But So Alive",
-        "url": "https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 207545,
-      "name": "Dead But So Alive",
-      "url": "https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "DMNS",
         "url": "https://open.spotify.com/album/0meQAKjhwkCPn6AaUEZvT2"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 193424,
       "name": "Trying to Survive",
       "url": "https://open.spotify.com/track/1y4YE7y6soIC0ms3FR63iQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Dead But So Alive",
+        "url": "https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 207545,
+      "name": "Dead But So Alive",
+      "url": "https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Something I'm Not",
-        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
-      },
-      "artists": [
-        {
-          "name": "Graphic Nature",
-          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
-        }
-      ],
-      "duration_ms": 205837,
-      "name": "Something I'm Not",
-      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Synthetic",
         "url": "https://open.spotify.com/album/1QMR9r5LA0KfQK6IO7J2bZ"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 163520,
       "name": "Synthetic",
       "url": "https://open.spotify.com/track/15FOnXo2V2SQrYyGe3JgWY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2551,18 +2551,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Devastator",
-        "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
+        "name": "there is a place for me on earth",
+        "url": "https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO"
       },
       "artists": [
         {
-          "name": "The Narrator",
-          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+          "name": "Defocus",
+          "url": "https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Devastator",
-      "url": "https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS"
+      "duration_ms": 233520,
+      "name": "don't let it hurt me",
+      "url": "https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh"
     }
   ],
   "unique_name": "The Core",

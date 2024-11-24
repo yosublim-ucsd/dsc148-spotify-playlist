@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,440 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,469 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 23 | [33024](https://open.spotify.com/track/6j6Ls5RcvMPfDHvgGX8CZI) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [33024](https://open.spotify.com/album/6qXjfDCXFah9IDhWuFQpGY) | 2:41 |
 | 24 | [Fall On Me](https://open.spotify.com/track/6kpQBZ7uETmqfORy8YcgxP) | [Jay Manwell](https://open.spotify.com/artist/7MDy7SOqkdabf2wweldR0p) | [Fall On Me](https://open.spotify.com/album/4EryziXSq7ger3LrqLMlHf) | 2:36 |
 | 25 | [Good to Me](https://open.spotify.com/track/7GqYiuS2slxwQ7a4hmxyfV) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Alice\-Lily](https://open.spotify.com/artist/34Wg7Ym4mUTCJzQTiM8Pi4) | [Liberated](https://open.spotify.com/album/5lBzdDlEcslHYwur7efnOY) | 3:14 |
-| 26 | [O My Soul](https://open.spotify.com/track/7oWQefKrMuiu0WPk77jprC) | [Jo Joey](https://open.spotify.com/artist/4RrsmmTA0RdzlSmN2fYSVN), [Scotty C](https://open.spotify.com/artist/0SlUHkCgZV3EDrqbdZrP9i) | [O My Soul](https://open.spotify.com/album/523MRLlJxGf0ED5ABsHWYC) | 2:51 |
+| 26 | [O My Soul](https://open.spotify.com/track/7oWQefKrMuiu0WPk77jprC) | [Jo Joey](https://open.spotify.com/artist/4RrsmmTA0RdzlSmN2fYSVN), [ScottyC](https://open.spotify.com/artist/6cHrcxfAgubFkPkorTOPoY) | [O My Soul](https://open.spotify.com/album/523MRLlJxGf0ED5ABsHWYC) | 2:51 |
 | 27 | [THE FAMILY PRAYS](https://open.spotify.com/track/3Q4JA4vy2TwBzLaQsohkVR) | [YP Aka Young Paul](https://open.spotify.com/artist/5rEAZYrahTLTvcgv0DgOJQ), [RDKL](https://open.spotify.com/artist/4rYLMFIzONsK6ZMbBLhQo1), [Knaladeus](https://open.spotify.com/artist/7gNSM1rB9JLFMXz6o68g4K) | [LONG AS THE LORD SAY](https://open.spotify.com/album/0gdosVgrDwq2KLOfOLm1fX) | 3:13 |
 | 28 | [THE BLOOD](https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [THE BLOOD](https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w) | 2:38 |
 | 29 | [Live 03'](https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [As of Late](https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB) | 2:59 |

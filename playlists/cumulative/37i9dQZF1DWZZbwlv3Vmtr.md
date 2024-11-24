@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-985 songs - 1 day 14 hr 10 min
+986 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2022-09-23 | 2023-11-17 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
-| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 |  |
+| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 | 2024-11-24 |
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
@@ -238,6 +238,7 @@
 | [Everything's Ok](https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p) | [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq) | [Everything's Ok](https://open.spotify.com/album/20C5Uyn4WpAkSCe6Hmyeox) | 1:54 | 2023-09-08 | 2023-10-06 |
 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 | 2022-11-11 | 2023-09-22 |
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2022-04-15 |  |
+| [exhibit](https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhibit](https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp) | 2:29 | 2024-11-22 |  |
 | [Exomoon](https://open.spotify.com/track/4FLT1TsEUpJeme07ITfMkn) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Exomoon](https://open.spotify.com/album/2OzIqe33YRwCqjuS3rmjK3) | 2:14 | 2022-08-12 | 2023-07-20 |
 | [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-16 |  |
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 | 2023-11-17 |

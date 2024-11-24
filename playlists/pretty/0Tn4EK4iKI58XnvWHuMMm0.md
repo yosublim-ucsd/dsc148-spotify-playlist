@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 59 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370 likes - 59 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

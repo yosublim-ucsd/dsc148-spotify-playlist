@@ -4,7 +4,7 @@
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-55 songs - 3 hr 14 min
+56 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 | 2024-04-11 |  |
 | [Don't Waste Time](https://open.spotify.com/track/3SYt7ldup2V59p6pKQv4FY) | [D5](https://open.spotify.com/artist/3RC5R8xEmJ2RId5tixXeSu) | [Don't Waste Time](https://open.spotify.com/album/4sNrLRcr3mzgWKY8VpIGoC) | 2:31 | 2024-04-11 |  |
 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 | 2024-04-11 |  |
-| [entitled](https://open.spotify.com/track/7lVfdWjggfkp6xdDq6Glct) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [entitled](https://open.spotify.com/album/4HXTxiM4eL19sQSuDs3ujk) | 3:57 | 2024-04-11 |  |
+| [entitled](https://open.spotify.com/track/7lVfdWjggfkp6xdDq6Glct) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [entitled](https://open.spotify.com/album/4HXTxiM4eL19sQSuDs3ujk) | 3:57 | 2024-04-11 | 2024-11-24 |
 | [False Objects](https://open.spotify.com/track/2JFLHE1g1nUBETZ76qdWH8) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [False Objects](https://open.spotify.com/album/14uAkL4Uu5VEeU3RMxB0xV) | 4:08 | 2024-04-11 | 2024-11-23 |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2024-04-11 |  |
 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 | 2024-11-22 |  |
@@ -55,6 +55,7 @@
 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 | 2024-04-11 |  |
 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 | 2024-04-11 |  |
 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 | 2024-04-11 |  |
+| [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 | 2024-11-22 |  |
 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 | 2024-04-11 |  |
 | [Sudocream Queen](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 | 2024-04-11 | 2024-11-23 |
 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 | 2024-04-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Kf6RONZ3Raueyz2jlsKnYA">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,966 likes - 81 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,049 likes - 81 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 76 | [Too Handsome](https://open.spotify.com/track/3K558NOtmfM8cK2ZJE53sm) | [PatFaded](https://open.spotify.com/artist/0uwr1dKsRse1ySEdDlXslw), [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh) | [Too Handsome](https://open.spotify.com/album/5ctXK5AS6JxvVAxlYmB16R) | 3:02 |
 | 77 | [Qualia](https://open.spotify.com/track/3SymhMhZRMubXyFQK1Wzxk) | [Matt Prehn](https://open.spotify.com/artist/1dnBpJf49MUgf9lQCBsPqO) | [Qualia](https://open.spotify.com/album/2rtBhbNVrRYKyXhQscji2c) | 6:36 |
 | 78 | [Maradollar](https://open.spotify.com/track/41NsDALb1er7aZRznMISPW) | [PATHUM](https://open.spotify.com/artist/0qgQtdH9jBJ2CNte3M4qmN), [Aguila](https://open.spotify.com/artist/6b4Y5ve6fZh5us1BgeSBa2), [Chana Cheng](https://open.spotify.com/artist/6djAMT9cDTrdmnYZY3Aq0x) | [MoneyFestations](https://open.spotify.com/album/6dTId2pPhSW84uIfqgKYod) | 2:48 |
-| 79 | [Psalms 98 \(feat\. Thabani Gapara & Tumi\)](https://open.spotify.com/track/6pTes8CtylmZdKmzY01Dph) | [Warren Duncan](https://open.spotify.com/artist/5tGXeM76TSuizoCCk9LDW2), [Thabani Gapara](https://open.spotify.com/artist/2OTsn7EjRl2Dja3qswfVzy), [Tumi](https://open.spotify.com/artist/0R3pn7bweUwpLd98080DYO) | [The Jazz Estate](https://open.spotify.com/album/3FoI9hBuRePCK1aeqhMRHT) | 4:40 |
+| 79 | [Psalms 98 \(feat\. Thabani Gapara & Itumeleng\)](https://open.spotify.com/track/6pTes8CtylmZdKmzY01Dph) | [Warren Duncan](https://open.spotify.com/artist/5tGXeM76TSuizoCCk9LDW2), [Thabani Gapara](https://open.spotify.com/artist/2OTsn7EjRl2Dja3qswfVzy), [Itumeleng](https://open.spotify.com/artist/7l0ZpqsZJ9qpj5nNuORPa4) | [The Jazz Estate](https://open.spotify.com/album/3FoI9hBuRePCK1aeqhMRHT) | 4:40 |
 | 80 | [Mirror Mirror](https://open.spotify.com/track/0xGeYAUMOeqPrOCK7RKrQH) | [YoursTruly](https://open.spotify.com/artist/3OpHB8JIbNLEXdVxAuluew), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [For My One](https://open.spotify.com/album/4qPSP697RfT3mL8K5fizfE) | 4:08 |
 | 81 | [Honey In The Air](https://open.spotify.com/track/3oCgN9ZM79wxhmP4rtatMK) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [Honey In The Air](https://open.spotify.com/album/7JrugZb2wwgAGN8eNjGQGp) | 3:41 |
 

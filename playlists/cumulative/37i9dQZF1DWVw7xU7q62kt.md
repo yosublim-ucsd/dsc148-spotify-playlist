@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-329 songs - 16 hr 15 min
+330 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
 | [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 | 2024-11-19 |
 | [Everyday Grind](https://open.spotify.com/track/67dACHT0a0YnQplyl3FuHe) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [LOBE](https://open.spotify.com/artist/3ZcQb1p2NgNSvnbmVkjgzY) | [Everyday Grind](https://open.spotify.com/album/0yvcEbaIdNcd9asKuDax2p) | 2:04 | 2024-10-18 |  |
-| [Everything We Don't Say](https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Elsewhere](https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew) | 3:03 | 2024-01-26 |  |
+| [Everything We Don't Say](https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Elsewhere](https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew) | 3:03 | 2024-01-26 | 2024-11-24 |
 | [Extra Careless](https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Robert Sput Searight](https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV), [Mono Neon](https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Extra Careless](https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR) | 2:50 | 2023-08-22 |  |
 | [Fable](https://open.spotify.com/track/2hsTchN3E8IIepsCdoszaE) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fable](https://open.spotify.com/album/2HLZ1WUOHUXfZczO2YUmQm) | 1:48 | 2024-10-11 |  |
 | [Faith In The Fog](https://open.spotify.com/track/0GgKMdz0fOjL4orSsxFiK7) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Faith In The Fog](https://open.spotify.com/album/35InJ3QDJySGbqUgJXsvG8) | 2:52 | 2024-11-08 |  |
@@ -179,6 +179,7 @@
 | [Love of Mine](https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Here Today Gone Tomorrow](https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ) | 6:26 | 2024-09-27 |  |
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
+| [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 |  |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 | 2024-11-21 |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-08-23 |  |

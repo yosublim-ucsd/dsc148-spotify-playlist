@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Jack Harlow
 
-2,800 songs - 5 day 17 hr 39 min
+2,801 songs - 5 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1562,6 +1562,7 @@
 | [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-07 | 2024-11-15 |
 | [Ma Bebe \(feat\. L.A.X\)](https://open.spotify.com/track/1piSgt1EMDxoGgRByTngcg) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ma Bebe \(feat\. L.A.X\)](https://open.spotify.com/album/69qQp8h7ycLA7UsqR7oRkt) | 2:26 | 2024-05-09 | 2024-05-17 |
 | [Ma Bella](https://open.spotify.com/track/110UrbttBGnylCs1icY5JX) | [Accaoui](https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Ma Bella](https://open.spotify.com/album/3P2R5rsXplvC3oetaRAYbR) | 3:34 | 2024-09-19 | 2024-09-27 |
+| [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/3mNkS16EktzfCs0O1eWdPd) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS) | 2:27 | 2024-11-21 |  |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-05-23 | 2024-06-01 |
 | [Mad as F\*ck](https://open.spotify.com/track/3hpB20yL4LC0EfUflmnMEa) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Mad as F\*ck](https://open.spotify.com/album/26aLyJdQxUhAEbWKKapk2f) | 3:42 | 2024-10-10 | 2024-10-18 |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2024-11-21 |  |

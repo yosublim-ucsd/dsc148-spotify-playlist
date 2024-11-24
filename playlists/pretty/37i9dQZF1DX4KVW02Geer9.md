@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: WONK
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,698 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,697 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 6 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 7 | [Feeling](https://open.spotify.com/track/68WxRXjtVXccZOfH69H44v) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Feeling](https://open.spotify.com/album/16wbiKEGGx4qXKMgPF7bkt) | 3:40 |
 | 8 | [Timepieces \(feat\. Billy Woods\)](https://open.spotify.com/track/3EN3dG3umzscCVexyyTSxw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Timepieces](https://open.spotify.com/album/6X3hE0Vv5ffYNI2Jjqkjlb) | 2:22 |
-| 9 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
+| 9 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
 | 10 | [Water Suite \(Thirst\) \- Kassa Overall Remix](https://open.spotify.com/track/2FWVrnCVA1oX8f6jHGaTRq) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Water Suite \(Thirst\) \[Kassa Overall Remix\]](https://open.spotify.com/album/5vMhg9CcYR1k8BHLkhUCHZ) | 4:12 |
 | 11 | [Free](https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Find Your Flame \(Deluxe Edition\)](https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy) | 2:51 |
 | 12 | [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 |

@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 268042,
       "name": "Amar De Nuevo",
       "url": "https://open.spotify.com/track/4jjFjbqCTkaN1mGb0BMYl2"
@@ -4387,6 +4387,28 @@
     },
     {
       "album": {
+        "name": "Chocamos",
+        "url": "https://open.spotify.com/album/3j3pdx9U3ybgD3x1V3DrvA"
+      },
+      "artists": [
+        {
+          "name": "Mutombo Music",
+          "url": "https://open.spotify.com/artist/796k52xOitNDZBR1tpAoV2"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195242,
+      "name": "Chocamos",
+      "url": "https://open.spotify.com/track/4PmsQBfGGIerlPnb8EUmSF"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -4800,7 +4822,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 159344,
       "name": "Committed",
       "url": "https://open.spotify.com/track/7xdRj1wA4XzYnXynPmtmnq"
@@ -11275,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183316,
+      "name": "IGUALES",
+      "url": "https://open.spotify.com/track/1gKnoWS17Nf8ZxEev7d3vd"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -11912,6 +11952,24 @@
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183172,
+      "name": "KASSANDRA",
+      "url": "https://open.spotify.com/track/6mP16Mr2X3ZU2bNmWBUqzK"
     },
     {
       "album": {
@@ -17562,7 +17620,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 179344,
       "name": "No Te Rayes",
       "url": "https://open.spotify.com/track/1sc1u87B3KcsNPf0jcYwgQ"
@@ -22406,7 +22464,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX"
@@ -22442,7 +22500,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -24950,7 +25008,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 289103,
       "name": "TBT",
       "url": "https://open.spotify.com/track/3QBxB5xZL0yeRDr8gZym4r"
@@ -25074,6 +25132,28 @@
       "duration_ms": 160000,
       "name": "Te Dijeron",
       "url": "https://open.spotify.com/track/53KWPG6uE5DCFwbF9K6qH0"
+    },
+    {
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219460,
+      "name": "TE FALL\u00c9",
+      "url": "https://open.spotify.com/track/2stYCm7UAyZ4srGFrI4MNX"
     },
     {
       "album": {

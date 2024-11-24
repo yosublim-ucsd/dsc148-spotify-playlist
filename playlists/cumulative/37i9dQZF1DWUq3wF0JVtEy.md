@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-492 songs - 1 day 0 hr 2 min
+493 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 | 2024-11-09 |
 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 | 2023-10-17 |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 | 2024-11-09 |
+| [BANG BANG POW!](https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [BANG BANG POW!](https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO) | 2:13 | 2024-11-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-17 | 2024-04-19 |
 | [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 | 2024-07-12 |  |
@@ -341,7 +342,7 @@
 | [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 |  |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |
 | [Obsessed](https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE) | [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Obsessed](https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c) | 3:13 | 2024-02-23 | 2024-05-05 |
-| [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 |  |
+| [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2024-11-24 |
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-11-30 | 2023-12-11 |
 | [Off Of My Mind](https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:44 | 2023-12-08 | 2023-12-16 |
 | [Off The Wall](https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba) | [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Off The Wall](https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr) | 3:32 | 2023-05-12 | 2024-06-08 |

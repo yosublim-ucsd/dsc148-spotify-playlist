@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-309 songs - 19 hr 42 min
+310 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Quizás](https://open.spotify.com/track/7zGsfgsusdv4TDgLJQej5E) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Quizás](https://open.spotify.com/album/2vNVpcX9HNzwapLsvsIuuX) | 2:50 | 2024-09-12 | 2024-10-11 |
 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 | 2022-06-09 |  |
 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 | 2022-06-09 |  |
-| [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 | 2022-06-09 |  |
+| [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 | 2022-06-09 | 2024-11-24 |
 | [Qué Bello Es Vivir](https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Lo Mal Que Estoy y Lo Poco Que Me Quejo](https://open.spotify.com/album/7auuEfoSwTUYponi3cKCuG) | 3:58 | 2022-06-09 | 2022-09-23 |
 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 | 2022-06-09 |  |
 | [Razón de Vivir](https://open.spotify.com/track/2Ml4iJkY3EUbdO0knRn4aR) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X), [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Daniela Heredia](https://open.spotify.com/artist/5yTKxJlxMhyYGaUC9TQNlo) | [Razón de Vivir](https://open.spotify.com/album/7BewtSiQFc2G8bKOe1kuSj) | 5:11 | 2023-06-29 | 2023-12-15 |
@@ -256,6 +256,7 @@
 | [Si me voy](https://open.spotify.com/track/0zOsk2b1IHRyAQfV8vzjtv) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Si me voy](https://open.spotify.com/album/7FWjbEy8PeDbtL7reRo4Fu) | 4:22 | 2024-02-29 | 2024-06-01 |
 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 | 2022-06-09 |  |
 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 | 2022-06-30 | 2023-03-01 |
+| [Siempre Queda El Amor](https://open.spotify.com/track/6cjHd8IBh4L7Zy1fJE6OWK) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Siempre Queda El Amor](https://open.spotify.com/album/236xyhENfy4DVQcnc3sNYC) | 2:43 | 2024-11-21 |  |
 | [Siempre Regreso A Ti](https://open.spotify.com/track/7lxHJ16l6L7EHbWVsffrje) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [Siempre Regreso A Ti](https://open.spotify.com/album/3IyLLp7AFJzlCDpomsUVmW) | 3:23 | 2024-04-04 | 2024-05-22 |
 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 | 2022-06-09 |  |
 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 | 2022-06-09 |  |

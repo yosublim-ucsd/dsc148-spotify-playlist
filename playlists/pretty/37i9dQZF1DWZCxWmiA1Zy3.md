@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 
 > Pátria Rock apresenta.\. O Melhor do Rock 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 | 24 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 |
 | 25 | [Te Odeio](https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Cura](https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE) | 2:33 |
 | 26 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
-| 27 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
+| 27 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 | 28 | [vc já falou pra ela?](https://open.spotify.com/track/5PiqaMiXx7OcayzCbC9yn6) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [vc já falou pra ela?](https://open.spotify.com/album/7E0MY7RLTWs1kViG6FTFYP) | 2:21 |
 | 29 | [Exagerado](https://open.spotify.com/track/7hbRA3u6htLYcBiee7AKU1) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerado](https://open.spotify.com/album/4roVi8jXFmERJfLjYKKO1u) | 2:43 |
 | 30 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 |

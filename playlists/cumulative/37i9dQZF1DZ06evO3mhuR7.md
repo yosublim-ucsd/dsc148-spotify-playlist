@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-155 songs - 17 hr 59 min
+156 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [First \- Consider The Lillies](https://open.spotify.com/track/291MUOtJm8oBoohFCJGJyg) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 7:00 | 2022-05-29 |  |
 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 3](https://open.spotify.com/track/62B8JIF1CruBXHuHriBv3l) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 10:47 | 2023-11-10 |  |
 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4](https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 9:07 | 2023-11-10 |  |
-| [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 |  |
+| [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 | 2024-11-24 |
 | [Fussball](https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [More Tales from the Orbservatory](https://open.spotify.com/album/2NOoRjZZ03QCUZjZZkfRBS) | 4:30 | 2022-05-29 |  |
 | [Gee Strings](https://open.spotify.com/track/0sL0xqRM1Hbr84JPHpG8i6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:13 | 2024-11-13 |  |
 | [Glen Coe \[Mixed\]](https://open.spotify.com/track/6r63smEsviOfs7wXMXggwy) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Connecting The Dots \(DJ Mix\)](https://open.spotify.com/album/46L9tNr4y1nCwpwDkYIyIT) | 4:54 | 2023-01-02 | 2023-02-04 |
@@ -103,7 +103,8 @@
 | [Papillons](https://open.spotify.com/track/1uKYNk9ACyDMYMBOScdEua) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 10:51 | 2022-11-26 | 2023-01-28 |
 | [Pebbles](https://open.spotify.com/track/7cMs3QlXI82fsFtXiM439v) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Baghdad Batteries \(Orbsessions Volume 3\)](https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0) | 1:08 | 2023-04-27 | 2024-08-25 |
 | [Perpetual Dawn](https://open.spotify.com/track/34Oyuo4A14MRdn8auc0cix) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:32 | 2022-05-29 | 2024-11-10 |
-| [Perpetual Dawn \- 2024 Version](https://open.spotify.com/track/27eQProvVnuFHIx5jdbwtr) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:50 | 2024-11-10 |  |
+| [Perpetual Dawn \- 2024 Version](https://open.spotify.com/track/1wcFSYC1IFP8ghHan1D9GV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 3:50 | 2024-11-24 |  |
+| [Perpetual Dawn \- 2024 Version](https://open.spotify.com/track/27eQProvVnuFHIx5jdbwtr) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:50 | 2024-11-10 | 2024-11-24 |
 | [Pervitin \- Empire Culling & The Hemlock Stone Version](https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 4:10 | 2022-06-16 | 2023-06-28 |
 | [Pi \- \(Part 1\) / LP Version](https://open.spotify.com/track/1hr9JC0qtmMwrYpN5oyZge) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 1:05 | 2022-05-29 |  |
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 | 2024-11-16 |

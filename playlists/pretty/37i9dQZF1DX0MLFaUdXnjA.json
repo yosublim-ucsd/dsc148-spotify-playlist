@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Tyla",
-  "num_followers": 1824668,
+  "num_followers": 1824638,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,30 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Fantastic - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/0Suz6v4QVqAfm3Sd77Lhew"
     },
     {
       "added_at": "2024-11-08 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Fuerza Regida y Jorsshh en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,275 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,445 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 4 | [La Gente Del M](https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW) | [Grupo Definitivo](https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [La Gente Del M](https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO) | 2:50 |
 | 5 | [Familia y Parientes](https://open.spotify.com/track/18rIlZi8HWJMVbiAT4vBxd) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Familia y Parientes](https://open.spotify.com/album/76jg5yVi2vUIucdLOFCcNo) | 2:48 |
 | 6 | [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |
-| 7 | [Por Clave P1](https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Por Clave P1](https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo) | 3:07 |
+| 7 | [Por Clave P1](https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Por Clave P1](https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo) | 3:07 |
 | 8 | [Los Brothers 2](https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Los Brothers 2](https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK) | 3:58 |
 | 9 | [GTA II](https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:40 |
 | 10 | [La Mera Marca \(Frostix\)](https://open.spotify.com/track/6gBklUstYsMXwIshzFuokW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Mera Marca \(Frostix\)](https://open.spotify.com/album/6Mqd5nHyiabPoQtKodtKAr) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > I LIKE MY SOOOTCASE
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,016 likes - 1,001 songs - 2 day 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,985 likes - 1,001 songs - 2 day 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -929,7 +929,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 919 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 920 | [Left Outside Alone](https://open.spotify.com/track/3xl7PsO7Hzuig6To9FgDm6) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Anastacia](https://open.spotify.com/album/032ovDTHUzM5tWZeFqPPEA) | 4:17 |
 | 921 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
-| 922 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/51knfgOiqxO4wdvKEDf3GN) | 3:14 |
+| 922 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/51knfgOiqxO4wdvKEDf3GN) | 3:14 |
 | 923 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 |
 | 924 | [Face Off](https://open.spotify.com/track/6M47gaKejso9772SKTa3yH) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM) | 3:39 |
 | 925 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |

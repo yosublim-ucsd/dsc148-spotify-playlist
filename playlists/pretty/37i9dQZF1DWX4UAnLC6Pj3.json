@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 1239645,
+  "num_followers": 1239799,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
       "artists": [
         {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Se Logr\u00f3",
+      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "CHSM El H\u00edgado X2",
         "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 185434,
       "name": "CHSM El Higado",
       "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "\u00c1ndale Pues Terco",
-        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "\u00c1ndale Pues Terco",
-      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "\u00c1ndale Pues Terco",
+        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Se Logr\u00f3",
-      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
+      "duration_ms": 191000,
+      "name": "\u00c1ndale Pues Terco",
+      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Dile a Tu Orgullo (En Vivo)",
-        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo (En Vivo)",
-      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo (En Vivo)",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
       },
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Ilusi\u00f3n 98",
         "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
       },
@@ -775,38 +755,6 @@
       "duration_ms": 162000,
       "name": "Ilusi\u00f3n 98",
       "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/2KwOZdg8mFlqMAMZQEpVZu"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/2YmmgLpbAFNj7oJZ85ouCt"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -831,18 +779,38 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Pasa Tips",
-        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Pasa Tips",
-      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -867,6 +835,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Pasa Tips",
+        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Pasa Tips",
+      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/2KwOZdg8mFlqMAMZQEpVZu"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/2YmmgLpbAFNj7oJZ85ouCt"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Zona De Amigos",
-        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "Zona De Amigos",
-      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 228576,
       "name": "El Peor De Tus Antojos (En Vivo)",
       "url": "https://open.spotify.com/track/3zBfCSSH3q5P7Kvzn1V8nt"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "Zona De Amigos",
+        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "Zona De Amigos",
+      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 394587,
+      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 (En Vivo)",
+      "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "PUNTO Y APARTE",
         "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "El Candidato",
-        "url": "https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "El Candidato",
-      "url": "https://open.spotify.com/track/1iq2sO3eDU2l8Eca9HKDSW"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+        "name": "El Candidato",
+        "url": "https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         },
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 394587,
-      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 (En Vivo)",
-      "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
+      "duration_ms": 180500,
+      "name": "El Candidato",
+      "url": "https://open.spotify.com/track/1iq2sO3eDU2l8Eca9HKDSW"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
+        "name": "Tutorial Para Olvidar",
+        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 197265,
+      "name": "Tutorial Para Olvidar",
+      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
         "name": "D\u00e9jenlos Pasar",
         "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Tutorial Para Olvidar",
-        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 197265,
-      "name": "Tutorial Para Olvidar",
-      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Amor Bonito",
         "url": "https://open.spotify.com/album/0xjGi60nUqjScTmuhGM31H"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 171124,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/1kwwncWogyLzeZMQahQqwC"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 179821,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1295,6 +1275,26 @@
       "duration_ms": 283350,
       "name": "No Llega El Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 179821,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "El Precio De La Soledad (En vivo)",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad - En vivo",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "El Precio De La Soledad (En vivo)",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad - En vivo",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Un Terrenito en Tu Vida",
-        "url": "https://open.spotify.com/album/2Uh5oJkecjBWisNxKNmISj"
+        "name": "Ya Lo S\u00e9 (Banda)",
+        "url": "https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 198875,
-      "name": "Un Terrenito en Tu Vida",
-      "url": "https://open.spotify.com/track/0dKSgsFrsUuytOY925A7pk"
+      "duration_ms": 202777,
+      "name": "Ya Lo S\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Ya Lo S\u00e9 (Banda)",
-        "url": "https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN"
+        "name": "Un Terrenito en Tu Vida",
+        "url": "https://open.spotify.com/album/2Uh5oJkecjBWisNxKNmISj"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 202777,
-      "name": "Ya Lo S\u00e9 - Banda",
-      "url": "https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW"
+      "duration_ms": 198875,
+      "name": "Un Terrenito en Tu Vida",
+      "url": "https://open.spotify.com/track/0dKSgsFrsUuytOY925A7pk"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "No Es Cierto Que Nunca Te Quise",
-        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "No Es Cierto Que Nunca Te Quise",
-      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Me Gustas Mucho T\u00fa",
         "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 152170,
       "name": "Me Gustas Mucho T\u00fa",
       "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "El Profeta",
-        "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
+        "name": "Pude",
+        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        },
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 217434,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
+      "duration_ms": 210413,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Pude",
-        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
+        "name": "El Profeta",
+        "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        },
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
+      "duration_ms": 217434,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Por Si Me Les Adelanto",
         "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 157561,
       "name": "Por Si Me Les Adelanto",
       "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
     },
     {
       "added_at": "2024-11-15 18:39:11",
@@ -2099,38 +2099,6 @@
     {
       "added_at": "2024-11-15 18:39:11",
       "album": {
-        "name": "Sabor a Michelada",
-        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Sabor a Michelada",
-      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
-        "name": "Mis Gustos Mis Canciones (En Vivo)",
-        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 163978,
-      "name": "Fruta Prohibida (En Vivo)",
-      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
-    },
-    {
-      "added_at": "2024-11-15 18:39:11",
-      "album": {
         "name": "Ya No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
       },
@@ -2163,6 +2131,38 @@
       "duration_ms": 160400,
       "name": "Fiestas, Tragos, Noche Loca",
       "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
+    },
+    {
+      "added_at": "2024-11-15 18:39:11",
+      "album": {
+        "name": "Mis Gustos Mis Canciones (En Vivo)",
+        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 163978,
+      "name": "Fruta Prohibida (En Vivo)",
+      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
     },
     {
       "added_at": "2024-11-15 18:39:11",

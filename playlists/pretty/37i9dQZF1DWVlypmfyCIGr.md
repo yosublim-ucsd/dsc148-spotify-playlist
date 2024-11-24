@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 向田民子
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,687 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,690 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 11 | [AWAKE](https://open.spotify.com/track/7LSOTAk2XedRDne9QvIV38) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [AWAKE](https://open.spotify.com/album/1QgCWGw1CVxiHIUDrGcyKQ) | 3:16 |
 | 12 | [エンブレム](https://open.spotify.com/track/6nYiTyI8Im2Wt3nDTLBbme) | [長嶋水徳 \-serval DOG\-](https://open.spotify.com/artist/05EvMrdxDGnUV8SjiLxsKW) | [エンブレム](https://open.spotify.com/album/2J0R8qEfH4w1ZlHchdWYOX) | 4:41 |
 | 13 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 |
-| 14 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
+| 14 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
 | 15 | [New Dimension](https://open.spotify.com/track/3xyJHEXcCqSAAy3ydOAL7i) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [新東京 \#5](https://open.spotify.com/album/2wIvlsOOXmLjpjVKWAxtkM) | 3:30 |
 | 16 | [青春GAMEOVER](https://open.spotify.com/track/45fmkUltyqayDm2fWXW07y) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [青春GAMEOVER](https://open.spotify.com/album/4qjnOXAZ2WjcibMuv8Htvy) | 3:37 |
 | 17 | [umbrella](https://open.spotify.com/track/094fPvy0Ne0yfBS0w7JP4o) | [Nora](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [umbrella](https://open.spotify.com/album/0ukgXK3HDvBa128R1DVpqw) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 334833,
+  "num_followers": 334871,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -725,7 +725,7 @@
       "artists": [
         {
           "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
         }
       ],
       "duration_ms": 227600,
@@ -809,7 +809,7 @@
       "artists": [
         {
           "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
         },
         {
           "name": "Vikki Carr",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "40 A\u00f1os",
         "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Kany Garc\u00eda",
-        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Cuando Se Va el Amor",
-      "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
       },
@@ -1263,6 +1263,38 @@
       "duration_ms": 236080,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Kany Garc\u00eda",
+        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Cuando Se Va el Amor",
+      "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1379,22 +1411,18 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "CoverKM Recopilatorio",
-        "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
       "artists": [
         {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 226848,
-      "name": "Dime quien ama de verdad",
-      "url": "https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B"
+      "duration_ms": 247786,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1415,18 +1443,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+        "name": "CoverKM Recopilatorio",
+        "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
         }
       ],
-      "duration_ms": 247786,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
+      "duration_ms": 226848,
+      "name": "Dime quien ama de verdad",
+      "url": "https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Six Pack: Man\u00e1 - EP",
-        "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "Solo Bolero",
         "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
       },
@@ -1587,6 +1603,22 @@
       "duration_ms": 252093,
       "name": "Cuidarte el Alma",
       "url": "https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Six Pack: Man\u00e1 - EP",
+        "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1651,38 +1683,6 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "CoverKM Recopilatorio",
-        "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 240875,
-      "name": "C\u00f3seme",
-      "url": "https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Tarde O Temprano (Late Edition)",
-        "url": "https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Pegadito",
-      "url": "https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa"
     }
   ],
   "unique_name": "Amor y Desamor",

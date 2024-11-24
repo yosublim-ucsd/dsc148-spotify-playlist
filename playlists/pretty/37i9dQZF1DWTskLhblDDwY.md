@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,934 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,940 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 60 | [トランジスタ・ラジオ \- Single Version](https://open.spotify.com/track/2uURk9PUM63xhPzQOmGDzO) | [RC Succession](https://open.spotify.com/artist/1wpwIk5yi1Oy6zjjzF7ntw) | [EPLP](https://open.spotify.com/album/1vQ5TkMbKDl5vcX5nlkvZj) | 4:33 |
 | 61 | [いなせなロコモーション](https://open.spotify.com/track/4aKXovP9f4JPsDSOXofZvt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いなせなロコモーション](https://open.spotify.com/album/6uhHVDAvcRYEMfQ0DDHz7F) | 4:51 |
 | 62 | [いまのキミはピカピカに光って](https://open.spotify.com/track/3b1hzEi86cxr9fZfRCzZY7) | [Tetsuo Saito](https://open.spotify.com/artist/18AxqHLLl6oNFv3jQQwRC6) | [いまのキミはピカピカに光って](https://open.spotify.com/album/2UQv5irwA4Cz15qzrr1naR) | 3:36 |
-| 63 | [パープルタウン ・You Oughta Know By Now](https://open.spotify.com/track/2EC9KN5fADgNvqhRRiklPK) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [パープルタウン You Oughta Know By Now](https://open.spotify.com/album/03VoGWOVg6nqfmRz9RzG1T) | 4:10 |
+| 63 | [パープルタウン ・You Oughta Know By Now](https://open.spotify.com/track/2EC9KN5fADgNvqhRRiklPK) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [パープルタウン You Oughta Know By Now](https://open.spotify.com/album/03VoGWOVg6nqfmRz9RzG1T) | 4:10 |
 | 64 | [リンダ](https://open.spotify.com/track/5JoLLzW8gqQLHyQRL5fN5m) | [Ann Lewis](https://open.spotify.com/artist/0FMOVRQ8hFs1COI4IGwQuO) | [アン・ルイス・グレイテスト・ヒッツ](https://open.spotify.com/album/4z9mzACwBrb64qnnR9k9SZ) | 4:11 |
 | 65 | [Coming Up \- 2011 Remaster](https://open.spotify.com/track/1p2qCWx9dM74mPIv8Vnm2f) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:51 |
 | 66 | [\(Just Like\) Starting Over \- Remastered 2010](https://open.spotify.com/track/7tqQI7nmRAqX0g8bIYDXmF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 3:56 |

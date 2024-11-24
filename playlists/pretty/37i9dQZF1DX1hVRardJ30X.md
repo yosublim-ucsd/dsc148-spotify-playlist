@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nicki Nicole, Maluma, Manuel Turizo, Quevedo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,723 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,844 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
 | 17 | [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 |
 | 18 | [OH MAMÁ](https://open.spotify.com/track/2Le4TpO8PS1DwXkgEkG4sa) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [OH MAMÁ \(feat\. DFZM\)](https://open.spotify.com/album/7rEDQOW9OCsb6MLl60Insc) | 3:17 |
-| 19 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/7H4WTvvOCWtAuj3gMoldrt), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
+| 19 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 20 | [Ahora o nunca](https://open.spotify.com/track/1BxFaBpXzfSRollZPEDS8b) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol\. 2](https://open.spotify.com/album/0QLPKDCgBilROQKel4flIp) | 4:07 |
 | 21 | [Adicto \(feat\. Gino Mella\) \- Remix](https://open.spotify.com/track/6HsLCCUX3nLP8Wr9OXcWOT) | [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Adicto \(feat\. Gino Mella\) \[Remix\]](https://open.spotify.com/album/1kcT90OkX54s3C1jSrRmmo) | 3:39 |
 | 22 | [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/album/3Isetje5C6z12gfyjK5XC4) | 2:37 |
 | 45 | [Más Suave](https://open.spotify.com/track/1sSHTUn9vCXGQbxnewiRs5) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Más Suave](https://open.spotify.com/album/04798sh5NNWsROGY8UOseK) | 2:54 |
 | 46 | [La Tijera](https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS) | [LA LOM](https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ) | [La Tijera](https://open.spotify.com/album/1L1JAUSpOepPg6EWoPXd6A) | 3:44 |
-| 47 | [Salud Mental](https://open.spotify.com/track/4zGqjgjGBGHFkHwjNFA7Ak) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [GabiN.E.T.E.2](https://open.spotify.com/album/0mlBCtbocNvoPxNP1apEF7) | 2:25 |
+| 47 | [Salud Mental](https://open.spotify.com/track/4zGqjgjGBGHFkHwjNFA7Ak) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [GabiN.E.T.E 2](https://open.spotify.com/album/0mlBCtbocNvoPxNP1apEF7) | 2:25 |
 | 48 | [Wanna Be \- By BERSHKA MUSIC](https://open.spotify.com/track/0Ihq2Qok0Ay5Kpd0d1OypB) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Wanna Be \(By BERSHKA MUSIC\)](https://open.spotify.com/album/6Mh75DNCTcbJP9puJClEfv) | 3:22 |
 | 49 | [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 |
 | 50 | [Veneno](https://open.spotify.com/track/3uT0DTG1SpATtinRSgcJsg) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [AAA](https://open.spotify.com/album/2EZ8TvTonUBhKkkiEmZo0e) | 3:12 |

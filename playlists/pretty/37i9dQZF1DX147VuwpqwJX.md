@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,169 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,188 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 58 | [Into The Light](https://open.spotify.com/track/3qbpb3YepbCVJMLx4jONIy) | [Purple Crush](https://open.spotify.com/artist/7k38mPk8Flx7gjsdVMIhg1) | [Ballroom Baby](https://open.spotify.com/album/5ltQzlLgfYXeP4sKh9aVWU) | 3:58 |
 | 59 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit](https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn) | 6:27 |
 | 60 | [Akasha's Tears](https://open.spotify.com/track/5psRxqv67nXfxyAFpKeUTd) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Akasha's Tears X Bean Qween](https://open.spotify.com/album/7B6mrchgMbZwsELgqVD4i9) | 4:13 |
-| 61 | [The Coupé\-Décalé Ha \(Original Mix\)](https://open.spotify.com/track/0SQS6pk8HcIMQUu6LmgsXK) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol\. 1](https://open.spotify.com/album/6fj8oRonkc2rdBL8jl7zYw) | 2:19 |
+| 61 | [The Coupé\-Décalé Ha \(Original Mix\)](https://open.spotify.com/track/0SQS6pk8HcIMQUu6LmgsXK) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol\. 1](https://open.spotify.com/album/6fj8oRonkc2rdBL8jl7zYw) | 2:19 |
 | 62 | [What It Means](https://open.spotify.com/track/7ltfQaN1JsKjAOHeAn60SA) | [DJ Wawa](https://open.spotify.com/artist/1UYB9Z1Te7aDqP3XMSV9El) | [What It Means](https://open.spotify.com/album/3wrl64KHZDDYq9nTGDLT7I) | 7:39 |
 | 63 | [Tea Party](https://open.spotify.com/track/2SvzXDKrK392TGjVVv9xBs) | [The Vixen](https://open.spotify.com/artist/6odEXN8MJyixw6Ec2w7MKc) | [Commercial Break](https://open.spotify.com/album/7ipcntHPY56Ij63WT92jqN) | 4:11 |
 | 64 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,383 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,432 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 26 | [Blue Dreamer](https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 2:13 |
 | 27 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
 | 28 | [Little Walter's Boogie](https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Sun Records Originals: Easy](https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e) | 2:33 |
-| 29 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
-| 30 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
-| 31 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
+| 29 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
+| 30 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
+| 31 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
 | 32 | [Okie Dokie Stomp](https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:34 |
 | 33 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
 | 34 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 71 | [Dockside Boogie](https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:40 |
 | 72 | [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 |
 | 73 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
-| 74 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
-| 75 | [Hall of Fame Shuffle](https://open.spotify.com/track/5ACkIkSkjFnniug7zSJo0l) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Hall of Fame Shuffle](https://open.spotify.com/album/7EqM9a5tlgUvB78GYdl7GS) | 5:27 |
-| 76 | [Blues For The Red Boy](https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA) | [The Todd Rhodes Orchestra](https://open.spotify.com/artist/6NGm0BWqiRAKTXxboM1tfU) | [The King Records R&B Anthology \- Volume 1](https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY) | 2:41 |
-| 77 | [Hawaiian Boogie](https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Saga Blues: Chicago Slide Guitar Masters "From Tampa Red to Elmore James"](https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA) | 2:19 |
-| 78 | [Guitar Shuffle](https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [The Southern Blues Vol.4](https://open.spotify.com/album/4apehfV2CL3eyearMCibIf) | 3:27 |
-| 79 | [Gnawty](https://open.spotify.com/track/3cix5qmNnl5WoGsBdlE3hS) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [50/50](https://open.spotify.com/album/2aHYJESQdcLZPQDhAuYeRv) | 2:44 |
+| 74 | [Hall of Fame Shuffle](https://open.spotify.com/track/5ACkIkSkjFnniug7zSJo0l) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Hall of Fame Shuffle](https://open.spotify.com/album/7EqM9a5tlgUvB78GYdl7GS) | 5:27 |
+| 75 | [Blues For The Red Boy](https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA) | [The Todd Rhodes Orchestra](https://open.spotify.com/artist/6NGm0BWqiRAKTXxboM1tfU) | [The King Records R&B Anthology \- Volume 1](https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY) | 2:41 |
+| 76 | [Hawaiian Boogie](https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Saga Blues: Chicago Slide Guitar Masters "From Tampa Red to Elmore James"](https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA) | 2:19 |
+| 77 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
+| 78 | [Gnawty](https://open.spotify.com/track/3cix5qmNnl5WoGsBdlE3hS) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [50/50](https://open.spotify.com/album/2aHYJESQdcLZPQDhAuYeRv) | 2:44 |
+| 79 | [Guitar Shuffle](https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [The Southern Blues Vol.4](https://open.spotify.com/album/4apehfV2CL3eyearMCibIf) | 3:27 |
 | 80 | [Boogie In The Dark](https://open.spotify.com/track/0PpxyUPIuHD49fKe8gaXb7) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Ain't That Loving You Baby \- Singles As & Bs, 1953 \- 1961](https://open.spotify.com/album/2HZc7Mm3gkgu2EdtYtxQlo) | 2:35 |
 
 Snapshot ID: `ZlbX4gAAAADSNLsuzFtKTwVv9N0GUcng`

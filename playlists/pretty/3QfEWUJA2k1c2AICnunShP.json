@@ -1,12 +1,12 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 24626,
+  "num_followers": 24648,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
     "url": "https://open.spotify.com/user/playlists.germany"
   },
-  "snapshot_id": "AAABlo0qhI6yW6EPLhiCzH9vcxSbzCJu",
+  "snapshot_id": "AAABq8SVkKE7dCNWJRllHdEueGlE6glK",
   "tracks": [
     {
       "added_at": "2023-08-29 04:45:45",
@@ -117,26 +117,6 @@
       "url": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI"
     },
     {
-      "added_at": "2022-11-05 04:33:18",
-      "album": {
-        "name": "Live - An Epic Music Experience",
-        "url": "https://open.spotify.com/album/3TSyQXGRUFIOdq6MscHgdJ"
-      },
-      "artists": [
-        {
-          "name": "Two Steps from Hell",
-          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
-        },
-        {
-          "name": "Thomas Bergersen",
-          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
-        }
-      ],
-      "duration_ms": 338423,
-      "name": "Remember Me - Live",
-      "url": "https://open.spotify.com/track/78kMy9NRlZH2kqUIvYeJmb"
-    },
-    {
       "added_at": "2023-04-29 06:13:54",
       "album": {
         "name": "Naruto: Alone Theme",
@@ -183,6 +163,34 @@
       "duration_ms": 86439,
       "name": "Wiegenlied Variation (From F\u00fcnf Lieder, Op. 49, Arr. for Piano by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/0xMYbuiY1PO3wcQCWS4ied"
+    },
+    {
+      "added_at": "2024-11-23 04:05:13",
+      "album": {
+        "name": "Ich steh an deiner Krippen hier, BWV 469 (Arr. for Violin, String Quintet & Piano by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/2Y5DaQ2TwMY6LLvNWZNFNz"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Norwegian String Quintet",
+          "url": "https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        }
+      ],
+      "duration_ms": 149130,
+      "name": "Ich steh an deiner Krippen hier, BWV 469 (Arr. for Violin, String Quintet & Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/3ZI5S7LRkvgCXqH9kap1g4"
     },
     {
       "added_at": "2021-10-09 05:46:13",
@@ -535,6 +543,26 @@
       "duration_ms": 203856,
       "name": "Theme for Ennio",
       "url": "https://open.spotify.com/track/2vschBeYhU94MX6mV7WKIG"
+    },
+    {
+      "added_at": "2022-11-05 04:33:18",
+      "album": {
+        "name": "Live - An Epic Music Experience",
+        "url": "https://open.spotify.com/album/3TSyQXGRUFIOdq6MscHgdJ"
+      },
+      "artists": [
+        {
+          "name": "Two Steps from Hell",
+          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+        },
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "duration_ms": 338423,
+      "name": "Remember Me - Live",
+      "url": "https://open.spotify.com/track/78kMy9NRlZH2kqUIvYeJmb"
     },
     {
       "added_at": "2023-03-29 04:39:04",

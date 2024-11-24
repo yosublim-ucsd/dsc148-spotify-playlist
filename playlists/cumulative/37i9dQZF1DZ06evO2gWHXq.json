@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "El M\u00e1s Travieso",
+        "url": "https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162197,
+      "name": "El M\u00e1s Travieso",
+      "url": "https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs"
+    },
+    {
+      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },

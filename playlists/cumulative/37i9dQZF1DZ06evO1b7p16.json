@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228615,
+      "name": "They Don't Have Any Friends",
+      "url": "https://open.spotify.com/track/13R5rOrwelrTEGh28BPbiB"
+    },
+    {
+      "album": {
         "name": "Taking Back Sunday",
         "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },

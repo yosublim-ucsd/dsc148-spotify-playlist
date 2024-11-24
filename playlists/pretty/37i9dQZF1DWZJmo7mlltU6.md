@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Chezile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,569 likes - 102 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,608 likes - 102 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 52 | [2013](https://open.spotify.com/track/0UaX9cIyYZCrULsA3N3qLj) | [Billy Sharp](https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5) | [Rose Tint](https://open.spotify.com/album/5BLLac3v4mnsAU2U1Dw6MD) | 4:13 |
 | 53 | [MOLLY](https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [MOLLY](https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF) | 4:54 |
 | 54 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 |
-| 55 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 |
+| 55 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [BANK](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 |
 | 56 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 |
 | 57 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 |
 | 58 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 97 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
 | 98 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 |
 | 99 | [Waltzing Back](https://open.spotify.com/track/1HfConsgnTUH5nkl6KpEJz) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Waltzing Back](https://open.spotify.com/album/2TZ9WOZDVnZOQ7wwp9UorG) | 3:20 |
-| 100 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 |
+| 100 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [BANK](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 |
 | 101 | [Algo que ganar](https://open.spotify.com/track/3UJNuMmw1u6MAeuVOvkyMT) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Algo que ganar](https://open.spotify.com/album/3mr5uPl1njqUecgDQyV8Hr) | 3:12 |
 | 102 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 |
 

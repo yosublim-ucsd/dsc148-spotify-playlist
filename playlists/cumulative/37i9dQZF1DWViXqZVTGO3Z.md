@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-417 songs - 1 day 3 hr 13 min
+418 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Joy to the World \(Joyful Joyful\)](https://open.spotify.com/track/3E5BnoNWWtNLC4jEKroH4g) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas: Acoustic Sessions](https://open.spotify.com/album/4SmAkNAVam75220MXrmu2s) | 4:17 | 2021-12-11 | 2022-07-28 |
 | [Joy To The World \(Joyful, Joyful\)](https://open.spotify.com/track/3jNKU4TL5IjPADdAIu6acS) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas: Acoustic Sessions](https://open.spotify.com/album/0oCDrLbb3lxDiYcti6Jquv) | 4:17 | 2021-12-24 | 2023-12-16 |
 | [Joy to the World \(Joyful, Joyful\) \- Live](https://open.spotify.com/track/46m3G9WzGDLLtCVK4OK1VG) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Worship in the Word, Christmas \(Live\)](https://open.spotify.com/album/6AMwxLTuB0LqgJdUsrWy4W) | 4:24 | 2022-11-26 | 2024-08-01 |
-| [Joy To The World \(You Are My Joy\)](https://open.spotify.com/track/0Vk0P2McZxBZzVz7nZc3S3) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Jolly](https://open.spotify.com/album/5pVOnEZL6fsGpWTuDJxCvF) | 2:55 | 2021-12-24 |  |
+| [Joy To The World \(You Are My Joy\)](https://open.spotify.com/track/0Vk0P2McZxBZzVz7nZc3S3) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Jolly](https://open.spotify.com/album/5pVOnEZL6fsGpWTuDJxCvF) | 2:55 | 2021-12-24 | 2024-11-24 |
 | [Joy to the World \- Live](https://open.spotify.com/track/4cg1TCkWsyclRYmzB09mb3) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Joy to the World \(Live\)](https://open.spotify.com/album/5Kul9gxN6ZE7QKd0KH3ozm) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Joy To The World \- Live](https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Joy To The World](https://open.spotify.com/album/4Uh6K8uGB61JB9rGdjsgRG) | 3:14 | 2023-11-03 |  |
 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 | 2023-12-02 |  |
@@ -369,6 +369,7 @@
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-11 | 2023-04-02 |
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2021-12-24 | 2022-07-29 |
 | [The Hope of Christmas](https://open.spotify.com/track/7yZLr0h3ZeFGBnGHLQs4tR) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Hope of Christmas](https://open.spotify.com/album/1n9GXp1zRui77yPbTmw9kw) | 3:50 | 2021-12-11 | 2024-08-01 |
+| [The King Has Come](https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [The King Has Come](https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL) | 3:43 | 2024-11-23 |  |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 | 2024-08-01 |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-11-03 |  |

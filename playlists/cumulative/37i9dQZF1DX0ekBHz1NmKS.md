@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,697 songs - 3 day 16 hr 4 min
+1,699 songs - 3 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Duolingo](https://open.spotify.com/track/1I9f4i2InzK8rvpct86djH) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Duolingo](https://open.spotify.com/album/1gguRd8uFWsYC6r8hoVIVf) | 2:06 | 2024-09-26 | 2024-10-20 |
 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 | 2024-01-25 | 2024-03-15 |
 | [Dust](https://open.spotify.com/track/6t0iX8lmj5PjV9mJbYAE1i) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust, Pt\. 1](https://open.spotify.com/album/2mCYJpGg7PU8zDCib4DrpS) | 3:40 | 2024-04-11 | 2024-05-17 |
-| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 |  |
+| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2024-11-24 |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
@@ -803,7 +803,7 @@
 | [JUSSI](https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE) | [ALVA](https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU) | [JUSSI](https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i) | 3:23 | 2024-02-15 | 2024-03-22 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Just Like That \(I Like It\) \[feat\. Annikafiore, Lina Hedlund & Tess Merkel\]](https://open.spotify.com/track/1VOeLVZSd4tEcNlB4fQNwY) | [Andreas Lundstedt](https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc), [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg), [Annikafiore](https://open.spotify.com/artist/5kWGI2rxrWlS88MsAGHkZ4), [Lina Hedlund](https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN), [Tess Merkel](https://open.spotify.com/artist/4iPkqclIFrMh42rUVgT1zR) | [Just Like That \(I Like It\) \[feat\. Annikafiore, Lina Hedlund & Tess Merkel\]](https://open.spotify.com/album/0Y7wIP1MZvZFieQH96uVU7) | 2:59 | 2024-11-14 |  |
-| [just wanna feel you](https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [just wanna feel you](https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ) | 3:40 | 2024-10-04 |  |
+| [just wanna feel you](https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [just wanna feel you](https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ) | 3:40 | 2024-10-04 | 2024-11-24 |
 | [KAN JAG FRÅGA DIG?](https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [LUANDA](https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe) | 3:21 | 2024-04-26 | 2024-05-24 |
 | [Kan nått fint få hända sen](https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Kan nått fint få hända sen](https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN) | 3:06 | 2023-10-06 | 2024-01-26 |
 | [Kanske blir bäst](https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT) | [STRøM](https://open.spotify.com/artist/0ZxQA85NuvdHxrcjGbkHKt), [JIEF](https://open.spotify.com/artist/0UOGtCsP2Y4nv8vO30cBfs) | [Kanske blir bäst](https://open.spotify.com/album/7oCY86ttQwUI6nzzTGOfHA) | 3:19 | 2024-03-14 | 2024-04-14 |
@@ -1010,6 +1010,7 @@
 | [Mullvadsbuljong](https://open.spotify.com/track/6bPYkRmqs2Ejl4NVwOAKjS) | [Vändplats Saknas](https://open.spotify.com/artist/6rdTKBkLf9gv4lgE6G9A0H) | [Mullvadsbuljong](https://open.spotify.com/album/6VMeJKBCofh5uXc1NZrWM8) | 3:18 | 2024-04-18 | 2024-04-21 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
 | [Musiken i dur](https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Musiken i dur](https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD) | 3:26 | 2024-03-21 | 2024-04-26 |
+| [My Body](https://open.spotify.com/track/6VJtEbhv2RRF0OcrwY6wbe) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [My Body](https://open.spotify.com/album/74y1aev14ke4Wo4v7h02Dv) | 2:43 | 2024-11-21 |  |
 | [My Ex Would've Left By Now](https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [My Ex Would've Left By Now](https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh) | 3:26 | 2024-09-05 | 2024-11-11 |
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-05-23 | 2024-06-21 |
@@ -1360,6 +1361,7 @@
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
 | [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 | 2024-01-25 | 2024-03-15 |
 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 | 2023-02-17 |
+| [Stenad i Stockholm](https://open.spotify.com/track/70l1Y3ygctY6rMjzgVLTuB) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [900 dagar](https://open.spotify.com/album/5uRIdQK5DafXJ05F6YFba8) | 3:38 | 2024-11-21 |  |
 | [Stigen](https://open.spotify.com/track/68HcHIRS7uahPafhE5a699) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 4:03 | 2023-10-19 | 2024-01-26 |
 | [Still Got the Blues från Sverige](https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Still Got the Blues från Sverige](https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX) | 4:08 | 2023-10-19 | 2024-01-26 |
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |

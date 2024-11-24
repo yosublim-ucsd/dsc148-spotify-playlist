@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Maisak, DFZM & The Rubeboyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,515 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,566 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 21 | [WYA REMIX BLACK AND YELLOW \(feat\. iZaak & Pirlo\)](https://open.spotify.com/track/0W2pF7zyj9dwZVK1RoUyjh) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [WYA REMIX BLACK AND YELLOW \(feat\. iZaak & Pirlo\)](https://open.spotify.com/album/1FyZ8Mho4TRJ9oR0IrE23P) | 6:30 |
 | 22 | [Epica](https://open.spotify.com/track/1q7LGi82JjWM8gf3XPFGel) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Epica](https://open.spotify.com/album/6WnonSUOxefI2zdsTkH2kx) | 3:00 |
 | 23 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
-| 24 | [Salud Mental](https://open.spotify.com/track/4zGqjgjGBGHFkHwjNFA7Ak) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [GabiN.E.T.E.2](https://open.spotify.com/album/0mlBCtbocNvoPxNP1apEF7) | 2:25 |
+| 24 | [Salud Mental](https://open.spotify.com/track/4zGqjgjGBGHFkHwjNFA7Ak) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [GabiN.E.T.E 2](https://open.spotify.com/album/0mlBCtbocNvoPxNP1apEF7) | 2:25 |
 | 25 | [Protagonista](https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Protagonista](https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3) | 2:39 |
 | 26 | [ROMPECORA](https://open.spotify.com/track/7JOXgSI073RHX6tJHetZ8v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TU PATRONA DE LUJO](https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq) | 2:26 |
 | 27 | [Tarde](https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tarde](https://open.spotify.com/album/2yLveC65KjddM0Cv3g5gqp) | 2:00 |

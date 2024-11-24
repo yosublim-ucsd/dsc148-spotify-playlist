@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Tymek
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,258 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,358 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 21 | [TRENINGOWY DRES](https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J) | [Francuz Mordo](https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Sebz Beats](https://open.spotify.com/artist/1jGM687jFlYVxRV4xZivTO) | [TRENINGOWY DRES](https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY) | 3:20 |
 | 22 | [Antrakt](https://open.spotify.com/track/2MHEXLyLu7FnpWWOhu1QAh) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl) | [Antrakt](https://open.spotify.com/album/7f3xtCxNXjL3UwxDid836T) | 2:56 |
 | 23 | [Pardon](https://open.spotify.com/track/0dj3BH56uFL54lstcr8irO) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Budda](https://open.spotify.com/artist/3gQDpnU208VW54WF9EMsuw) | [Pardon](https://open.spotify.com/album/7funPvrGaXfUYzCmgJmQEQ) | 3:09 |
-| 24 | [NARA](https://open.spotify.com/track/70lt8OJMEZO3NPjYwZIKmt) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt) | [NARA](https://open.spotify.com/album/4Mv16lVEzElY86wC8qJ8bP) | 2:34 |
+| 24 | [NARA](https://open.spotify.com/track/70lt8OJMEZO3NPjYwZIKmt) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [NARA](https://open.spotify.com/album/4Mv16lVEzElY86wC8qJ8bP) | 2:34 |
 | 25 | [CAROLINE](https://open.spotify.com/track/70VHwSnDNX9Vu4gDCYz3iL) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [CAROLINE](https://open.spotify.com/album/3xo0DaQRf5bV94HKjeUHRm) | 2:26 |
 | 26 | [MONOPOL](https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [MONOPOL](https://open.spotify.com/album/0v1doc6blF3LimY2K4GJLK) | 2:49 |
 | 27 | [Kocie oczy](https://open.spotify.com/track/5elP52iIC8BW92SVbXQYYz) | [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [buffalo](https://open.spotify.com/artist/1bVkR5pJgnHF3XwmKbhv5v) | [Kocie oczy](https://open.spotify.com/album/0l6Lgu9yVhB7HjQLCj0mOX) | 2:21 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 221327,
+  "num_followers": 221356,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAABKIu+MT9PSJFjslUfParDa",
+  "snapshot_id": "Zz/JgAAAAAA6DsBkJ6cpNVZ5N3qxLcq0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
-    },
     {
       "added_at": null,
       "album": {
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
       },
       "artists": [
         {
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Estrella Roja - En Vivo",
-      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Estrella Roja - En Vivo",
+      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 266746,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "Hostilidades - En Vivo",
-      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tres Veces Tres",
         "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 259906,
       "name": "Busc\u00e1ndote (Paraguayito Dub)",
       "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "To\u00f1o Lira",
-          "url": "https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
-      "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
     },
     {
       "added_at": null,
@@ -535,6 +515,26 @@
       "duration_ms": 227520,
       "name": "Borracho Drunk Steady Beer",
       "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "To\u00f1o Lira",
+          "url": "https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
+      "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
       "duration_ms": 232080,
       "name": "Gracias por Existir",
       "url": "https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "No Te Recuerdo",
-      "url": "https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

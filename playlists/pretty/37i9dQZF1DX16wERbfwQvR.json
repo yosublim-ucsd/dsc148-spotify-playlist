@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 79735,
+  "num_followers": 79759,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -360,10 +360,6 @@
           "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
         },
         {
-          "name": "Kathleen Battle",
-          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
-        },
-        {
           "name": "Kurt Moll",
           "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
         },
@@ -388,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: 13. Chor mit Soli: Die Himmel erz\u00e4hlen die Ehre Gottes",
-      "url": "https://open.spotify.com/track/7oS0r6JmVmWMDxz3N5Uhxo"
+      "duration_ms": 780826,
+      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
+      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -432,6 +428,10 @@
           "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
         },
         {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
           "name": "Kurt Moll",
           "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
         },
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
         }
       ],
-      "duration_ms": 780826,
-      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
-      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
+      "duration_ms": 264040,
+      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: 13. Chor mit Soli: Die Himmel erz\u00e4hlen die Ehre Gottes",
+      "url": "https://open.spotify.com/track/7oS0r6JmVmWMDxz3N5Uhxo"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-10-11 16:02:39",
       "album": {
-        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
-        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": III. Menuetto - Trio",
-      "url": "https://open.spotify.com/track/20MBTOOid2UTtIMpr16BIt"
-    },
-    {
-      "added_at": "2024-10-11 16:02:39",
-      "album": {
         "name": "Haydn: Cello Concertos Nos. 1 & 2 / Monn: Cello Concerto",
         "url": "https://open.spotify.com/album/6k2nvVrO4VG6D9m06uMYWH"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 884133,
       "name": "Concerto pour Violoncelle et Orchestre en R\u00e9 Majeur, Hob.VIIb:2: I. Allegro moderato",
       "url": "https://open.spotify.com/track/5XNAL6XHnU1VaswYKQ9co1"
+    },
+    {
+      "added_at": "2024-10-11 16:02:39",
+      "album": {
+        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
+        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": III. Menuetto - Trio",
+      "url": "https://open.spotify.com/track/20MBTOOid2UTtIMpr16BIt"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -627,6 +627,30 @@
     {
       "added_at": "2024-10-11 16:02:39",
       "album": {
+        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
+        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
+      "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
+    },
+    {
+      "added_at": "2024-10-11 16:02:39",
+      "album": {
         "name": "Haydn Edition Volume 5 - Masses, Stabat Mater, Seven Last Words",
         "url": "https://open.spotify.com/album/6FNKlnUgxrjE4QFHWVYdVA"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 389226,
       "name": "Haydn: Stabat Mater, Hob. XXa:1: VIII. Sancta Mater istud agas",
       "url": "https://open.spotify.com/track/6XYs4SWR0uDPhTCK6cwNlD"
-    },
-    {
-      "added_at": "2024-10-11 16:02:39",
-      "album": {
-        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
-        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Oliver von Dohnanyi",
-          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
-      "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
     },
     {
       "added_at": "2024-10-11 16:02:39",

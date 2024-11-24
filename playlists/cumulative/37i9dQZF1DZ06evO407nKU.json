@@ -201,6 +201,32 @@
     },
     {
       "album": {
+        "name": "Cinco Minutos",
+        "url": "https://open.spotify.com/album/5PRmplKgfcZ3b5FG1x6AIB"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Grupo Dual",
+          "url": "https://open.spotify.com/artist/0Gz0umq9MkzCPkwrO67llg"
+        },
+        {
+          "name": "emiliano leal",
+          "url": "https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159517,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/5xGahPi8NyyOefUbSOs8LW"
+    },
+    {
+      "album": {
         "name": "Vuelvo A Emborracharme",
         "url": "https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ"
       },

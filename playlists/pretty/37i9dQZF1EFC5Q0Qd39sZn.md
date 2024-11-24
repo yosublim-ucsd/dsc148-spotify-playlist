@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,412 likes - 566 songs - 1 day 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,420 likes - 566 songs - 1 day 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,8 +428,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 418 | [Divine Intervention](https://open.spotify.com/track/743lgsVmLZO2GKihzpujjz) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Vulnerability](https://open.spotify.com/album/3BCRYCaw74NdHjjFnoyxap) | 3:47 |
 | 419 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
 | 420 | [If I Ever See Heaven Again](https://open.spotify.com/track/16dv6e38orR41IbHdzMqzO) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:22 |
-| 421 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
-| 422 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
+| 421 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
+| 422 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
 | 423 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
 | 424 | [When We Dance Slow](https://open.spotify.com/track/1q7VFI76pvu6wrmWADHL24) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:34 |
 | 425 | [Boardwalk Baby](https://open.spotify.com/track/2BlJkmdl1UqKdIMMU2lTzd) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Nothing to Lose](https://open.spotify.com/album/6gqWlgSc7BV8Dv5DSW6HNz) | 5:03 |
@@ -539,8 +539,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 529 | [Never Gonna Tame You](https://open.spotify.com/track/1IUKwL6P40tVxnrn18Zx5Q) | [Nyasia Chane'l](https://open.spotify.com/artist/73axMD27fgWTP6aCtGWqW7) | [Never Gonna Tame You](https://open.spotify.com/album/4F6z0E504Uqy9pF3YQAA7P) | 3:42 |
 | 530 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 |
 | 531 | [What Is My Heart To Do](https://open.spotify.com/track/5TdeDThlvrASifnfs3XGFi) | [BLAKE](https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V) | [Start Over](https://open.spotify.com/album/34XbAK9T9xXWyJ2A9OvoC9) | 3:54 |
-| 532 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 |
-| 533 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 |
+| 532 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 |
+| 533 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 |
 | 534 | [We Don't Know How to Say Goodbye](https://open.spotify.com/track/0EDFBgs5Ak6WLpGd9JkPRU) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 3:46 |
 | 535 | [Dein Lied in mir \- Spanish Guitar](https://open.spotify.com/track/3PIZ7Y9GXAcGtWUtNF3Xd4) | [Isabel Varell](https://open.spotify.com/artist/7x7KzRIrx3os6s2zHGFuEL) | [Heut ist mein Tag](https://open.spotify.com/album/4OaGSN8f9ITyPQ7Ui7TYP8) | 4:16 |
 | 536 | [Look No Further](https://open.spotify.com/track/0uyGokPE0dbLIfKalDHkoS) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Boogie Wonderland](https://open.spotify.com/album/0RGoyYpy34eAWAspk6B1mh) | 4:32 |
@@ -575,4 +575,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 565 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 566 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AbiN/gAAAABISYFXr5IkeThJ/ZBNi2YY`
+Snapshot ID: `AbiTlAAAAACQzSKfVS0gfg6v/LOuljLX`

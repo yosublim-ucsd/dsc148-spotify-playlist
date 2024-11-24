@@ -2,7 +2,7 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : LIK
+> New Music from Kollywood.<br/>Cover : Kadhalikka Neramillai
 
 1,550 songs - 3 day 22 hr 14 min
 

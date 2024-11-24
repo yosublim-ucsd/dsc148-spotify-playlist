@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: REA",
-  "num_followers": 33747,
+  "num_followers": 33748,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Senza Stelle",
-        "url": "https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC"
-      },
-      "artists": [
-        {
-          "name": "ceneri",
-          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
-        }
-      ],
-      "duration_ms": 172894,
-      "name": "Senza Stelle",
-      "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Sott'acqua",
         "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Senza Stelle",
+        "url": "https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "duration_ms": 172894,
+      "name": "Senza Stelle",
+      "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "TUFFO",
         "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
@@ -495,6 +495,30 @@
       "duration_ms": 214670,
       "name": "Trentasette denti",
       "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "BELLA BALLA",
+        "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
+      },
+      "artists": [
+        {
+          "name": "Questo e Quello",
+          "url": "https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI"
+        },
+        {
+          "name": "Francesco Mannella",
+          "url": "https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7"
+        },
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW"
+        }
+      ],
+      "duration_ms": 176596,
+      "name": "BELLA BALLA",
+      "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -547,42 +571,18 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "BELLA BALLA",
-        "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
       },
       "artists": [
         {
-          "name": "Questo e Quello",
-          "url": "https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI"
-        },
-        {
-          "name": "Francesco Mannella",
-          "url": "https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7"
-        },
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW"
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
         }
       ],
-      "duration_ms": 176596,
-      "name": "BELLA BALLA",
-      "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Anche i Cowboy Piangono",
-        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
-      },
-      "artists": [
-        {
-          "name": "nonpiangere",
-          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Anche i Cowboy Piangono",
-      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -599,6 +599,22 @@
       "duration_ms": 154552,
       "name": "Come Stai?",
       "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Anche i Cowboy Piangono",
+        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Anche i Cowboy Piangono",
+      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Settembre",
         "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Ondeggiando",
-        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
-      },
-      "artists": [
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
-        }
-      ],
-      "duration_ms": 154046,
-      "name": "Ondeggiando",
-      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Eroi",
         "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 208487,
       "name": "Eroi",
       "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Ondeggiando",
+        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "duration_ms": 154046,
+      "name": "Ondeggiando",
+      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
         "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 170911,
       "name": "lecosepeggiori",
       "url": "https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
-      },
-      "artists": [
-        {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "206",
-        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
-        }
-      ],
-      "duration_ms": 170323,
-      "name": "206",
-      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Le nonne e le chiese",
         "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 262286,
       "name": "Le nonne e le chiese",
       "url": "https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "206",
+        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "duration_ms": 170323,
+      "name": "206",
+      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Vivere",
-        "url": "https://open.spotify.com/album/3ammkuVx5QoqEiAqohDhNV"
+        "name": "Ora",
+        "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
       },
       "artists": [
         {
-          "name": "marzo",
-          "url": "https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR"
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
         }
       ],
-      "duration_ms": 170624,
-      "name": "Vivere",
-      "url": "https://open.spotify.com/track/0qqjeJRAuC7EwXxqgHaQuB"
+      "duration_ms": 110510,
+      "name": "Godspeed / Fili d'Erba",
+      "url": "https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Vivere",
+        "url": "https://open.spotify.com/album/3ammkuVx5QoqEiAqohDhNV"
+      },
+      "artists": [
+        {
+          "name": "marzo",
+          "url": "https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Vivere",
+      "url": "https://open.spotify.com/track/0qqjeJRAuC7EwXxqgHaQuB"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Cosa Non Va?",
         "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 184836,
       "name": "Cosa Non Va?",
       "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Mare",
-        "url": "https://open.spotify.com/album/0n2GKpaDXJrm1V5IvfLOTV"
-      },
-      "artists": [
-        {
-          "name": "Nuelle",
-          "url": "https://open.spotify.com/artist/2cSYXikLR11kVLQBYnl9oQ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Mare",
-      "url": "https://open.spotify.com/track/6vUs0F0y2ve87fcEhUIJTB"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Portami via",
-        "url": "https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt"
+        "name": "Mare",
+        "url": "https://open.spotify.com/album/0n2GKpaDXJrm1V5IvfLOTV"
       },
       "artists": [
         {
-          "name": "Lucrezia",
-          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
+          "name": "Nuelle",
+          "url": "https://open.spotify.com/artist/2cSYXikLR11kVLQBYnl9oQ"
         }
       ],
-      "duration_ms": 175426,
-      "name": "Portami via",
-      "url": "https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw"
+      "duration_ms": 199680,
+      "name": "Mare",
+      "url": "https://open.spotify.com/track/6vUs0F0y2ve87fcEhUIJTB"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 161632,
       "name": "insonnia",
       "url": "https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "CERIGNOLA CAMPAGNA",
-        "url": "https://open.spotify.com/album/0LSiu08lTftMG4HguHvlMS"
-      },
-      "artists": [
-        {
-          "name": "THAEO",
-          "url": "https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J"
-        }
-      ],
-      "duration_ms": 177192,
-      "name": "CERIGNOLA CAMPAGNA",
-      "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
     }
   ],
   "unique_name": "Scuola Indie",

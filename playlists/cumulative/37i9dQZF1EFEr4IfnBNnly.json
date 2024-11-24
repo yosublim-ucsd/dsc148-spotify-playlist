@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Coco Rouge",
+        "url": "https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t"
+      },
+      "artists": [
+        {
+          "name": "Erin Bloomer",
+          "url": "https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207584,
+      "name": "Coco Rouge",
+      "url": "https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI"
+    },
+    {
+      "album": {
         "name": "Cruel Intentions",
         "url": "https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5"
       },

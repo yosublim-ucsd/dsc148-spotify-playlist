@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira, Mumuzinho com Thiaguinho, MC PH, Lou Garcia com Mc Livinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,957,278 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,957,678 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 43 | [Perto De Mim](https://open.spotify.com/track/1dz2lxzCehhakwJOfgbI9h) | [Glock Beatz](https://open.spotify.com/artist/5UvThT2nhiecYC2r7u2jXm), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Bem Mais Que Antes, Vol\. 1: Conexões](https://open.spotify.com/album/74kMXST5E8OgAVHztbtTFZ) | 2:13 |
 | 44 | [Vapo e Bye](https://open.spotify.com/track/7IdEE0kGdBPRFqigVEcv8D) | [Ramon no Beat](https://open.spotify.com/artist/6QgjsRpJsdeFhDV5SG42Vu), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Vapo e Bye](https://open.spotify.com/album/5Y2tli4EhG7uTTxhJa1WZR) | 2:42 |
 | 45 | [Toda Vez](https://open.spotify.com/track/0gsSnAybLVJqRAQYkZoMg7) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Toda Vez](https://open.spotify.com/album/0NC7cnOpkdbf1DObZtJp3S) | 3:15 |
-| 46 | [Aham](https://open.spotify.com/track/2jTD8Kp0tk4Gt3JeL91BWC) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Aham](https://open.spotify.com/album/1yz37aXW8GpmztVKkbNiRM) | 2:18 |
+| 46 | [Aham](https://open.spotify.com/track/2jTD8Kp0tk4Gt3JeL91BWC) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Aham](https://open.spotify.com/album/1yz37aXW8GpmztVKkbNiRM) | 2:18 |
 | 47 | [Destiny](https://open.spotify.com/track/56T2mqVbvK4gOGkEGYfK0s) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT) | [Destiny](https://open.spotify.com/album/1oZCp5V1QueT5m927RzgEI) | 2:55 |
 | 48 | [Tu Gosta](https://open.spotify.com/track/4tXPNo2zKFEV9bPduiCLn9) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [KOSTA](https://open.spotify.com/artist/3wyruz219YVh90qRnzFBTY) | [Tu Gosta](https://open.spotify.com/album/6hpVZt2KgW5amNmsf67rcv) | 2:30 |
 | 49 | [No Dia Que Te Superei \- Ao Vivo](https://open.spotify.com/track/1vhatgwAKZYnrsO2nlY95h) | [Kart Love](https://open.spotify.com/artist/7FHGKU22zhtwuitt18w8jN), [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [No Dia Que Te Superei \(Ao Vivo\)](https://open.spotify.com/album/31GfFlstqnvzuVsMxwTKCv) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 145697,
+  "num_followers": 145708,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 258937,
       "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
-      },
-      "artists": [
-        {
-          "name": "Hansol",
-          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u767d\u663c\u5922",
         "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
       },
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -1719,22 +1719,6 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Global Citizen \u2162",
-        "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
-      },
-      "artists": [
-        {
-          "name": "Jike Junyi",
-          "url": "https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "The Hunting Field",
-      "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1755,6 +1739,38 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Global Citizen \u2162",
+        "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
+      },
+      "artists": [
+        {
+          "name": "Jike Junyi",
+          "url": "https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "The Hunting Field",
+      "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 191171,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "At My Worst (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -1943,42 +1963,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
       },
@@ -1991,22 +1975,6 @@
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
-        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
-      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2027,6 +1995,38 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
+        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
+      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sa Paghimig Mo",
         "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
       },
@@ -2039,6 +2039,22 @@
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "duration_ms": 272720,
+      "name": "Photo of My Mind",
+      "url": "https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2091,22 +2107,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
-      },
-      "artists": [
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 272720,
-      "name": "Photo of My Mind",
-      "url": "https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dalan Liyane",
         "url": "https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn"
       },
@@ -2135,6 +2135,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/65KeDeastFVIXcO7VNLudX"
+      },
+      "artists": [
+        {
+          "name": "April 2nd",
+          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "The Hill of Yearning",
+      "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2231,22 +2247,6 @@
       "duration_ms": 295219,
       "name": "unlasting",
       "url": "https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/65KeDeastFVIXcO7VNLudX"
-      },
-      "artists": [
-        {
-          "name": "April 2nd",
-          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "The Hill of Yearning",
-      "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
     },
     {
       "added_at": "2022-10-17 15:00:00",

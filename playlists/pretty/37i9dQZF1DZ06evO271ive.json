@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 22025,
+  "num_followers": 22065,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAADwvE9vo0h3ZH8UNLmabdcf",
+  "snapshot_id": "Zz/JgAAAAABg/isOs1KKF4k1JMSpOPeJ",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Free My N***a",
+      "url": "https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 184311,
       "name": "Ten (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "Free My N***a",
-      "url": "https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Pierre Garnier au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,060 likes - 84 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,098 likes - 84 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

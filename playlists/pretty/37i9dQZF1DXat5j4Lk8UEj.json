@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488474,
+  "num_followers": 488467,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "My Morning Jacket",
-        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217400,
       "name": "Home Truths",
       "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "My Morning Jacket",
+        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+        "name": "Fever Pitch",
+        "url": "https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
+      "duration_ms": 163746,
+      "name": "Fever Pitch",
+      "url": "https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Fever Pitch",
-        "url": "https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU"
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 163746,
-      "name": "Fever Pitch",
-      "url": "https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP"
+      "duration_ms": 193186,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "The Records Were Ours",
         "url": "https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 185862,
       "name": "The Records Were Ours",
       "url": "https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Suffering",
-        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "River Wider",
         "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195213,
       "name": "River Wider",
       "url": "https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Shaken",
-        "url": "https://open.spotify.com/album/0tsawKgTplw8ILM9tkIpIs"
-      },
-      "artists": [
-        {
-          "name": "David Shaw",
-          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
-        }
-      ],
-      "duration_ms": 235591,
-      "name": "Shaken",
-      "url": "https://open.spotify.com/track/1vrowatdp0nH5e5iAnNFqx"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Joni",
         "url": "https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Ten Years of It",
-        "url": "https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA"
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/0tsawKgTplw8ILM9tkIpIs"
       },
       "artists": [
         {
-          "name": "Ian O'Neil",
-          "url": "https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX"
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
         }
       ],
-      "duration_ms": 209480,
-      "name": "The Offer",
-      "url": "https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK"
+      "duration_ms": 235591,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/1vrowatdp0nH5e5iAnNFqx"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 215759,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Ten Years of It",
+        "url": "https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA"
+      },
+      "artists": [
+        {
+          "name": "Ian O'Neil",
+          "url": "https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "The Offer",
+      "url": "https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK"
     },
     {
       "added_at": "2024-10-15 04:00:00",

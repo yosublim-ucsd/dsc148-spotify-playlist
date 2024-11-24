@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18606,
+  "num_followers": 18608,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Slo Mo",
-        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
+        "name": "My Dawgs",
+        "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
       },
       "artists": [
         {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
         }
       ],
-      "duration_ms": 494760,
-      "name": "Slo Mo",
-      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
+      "duration_ms": 175542,
+      "name": "My Dawgs",
+      "url": "https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -495,22 +499,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "My Dawgs",
-        "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
+        "name": "Slo Mo",
+        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
       },
       "artists": [
         {
-          "name": "Hp Boyz",
-          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
-        },
-        {
-          "name": "Stallyano",
-          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
         }
       ],
-      "duration_ms": 175542,
-      "name": "My Dawgs",
-      "url": "https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK"
+      "duration_ms": 494760,
+      "name": "Slo Mo",
+      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "AKL Girls",
+        "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        }
+      ],
+      "duration_ms": 259625,
+      "name": "AKL Girls",
+      "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 371200,
       "name": "Next Stop",
       "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "AKL Girls",
-        "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
-      },
-      "artists": [
-        {
-          "name": "Church & AP",
-          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
-        }
-      ],
-      "duration_ms": 259625,
-      "name": "AKL Girls",
-      "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "HIRL",
-        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
-      },
-      "artists": [
-        {
-          "name": "Marlin's Dreaming",
-          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Country Plaines",
-      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 166250,
       "name": "RNZ\u014c SZN",
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "HIRL",
+        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Country Plaines",
+      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Boys & Guitars",
-        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 235524,
-      "name": "Boys & Guitars",
-      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 192125,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Boys & Guitars",
+        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 235524,
+      "name": "Boys & Guitars",
+      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+        "name": "Mumma and Me",
+        "url": "https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+      "duration_ms": 212615,
+      "name": "Mumma and Me",
+      "url": "https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Moneypenny",
         "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
       },
@@ -1247,38 +1263,6 @@
       "duration_ms": 258191,
       "name": "Moneypenny",
       "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
-      },
-      "artists": [
-        {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Mumma and Me",
-        "url": "https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Mumma and Me",
-      "url": "https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn"
     },
     {
       "added_at": "2024-11-07 11:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 213130,
       "name": "Try",
       "url": "https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     }
   ],
   "unique_name": "The Local List Aotearoa",

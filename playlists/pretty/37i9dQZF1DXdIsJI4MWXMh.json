@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 70057,
+  "num_followers": 70074,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
-      },
-      "artists": [
-        {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -371,18 +351,38 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
       },
       "artists": [
         {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
         }
       ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Ella, La Que No Quiso",
+        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 275676,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "Cumpliendo Sue\u00f1os",
         "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
       },
@@ -499,18 +515,34 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Ella, La Que No Quiso",
-        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 275676,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "En 3d y a Todo Color",
+        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 223085,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -535,34 +567,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -579,22 +595,6 @@
       "duration_ms": 268031,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Relatos de Mi Vida",
         "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 264448,
       "name": "Cantina de Mi Barrio",
       "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 692845,
-      "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Cumbias Campesinas",
         "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 237975,
       "name": "Guaijirito",
       "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 692845,
+      "name": "Ni Por Mil Pu\u00f1ados de Oro / Dos Monedas / De Padre Desconocido (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "El Hijo Ausente",
         "url": "https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 178289,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "El Corrido Del R-15",
-        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia Chilena",
-          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "El Corrido Del R-15",
-      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+        "name": "El Corrido Del R-15",
+        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
       },
       "artists": [
         {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+          "name": "La Descendencia Chilena",
+          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
         }
       ],
-      "duration_ms": 194481,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+      "duration_ms": 204970,
+      "name": "El Corrido Del R-15",
+      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2024-10-14 19:21:32",

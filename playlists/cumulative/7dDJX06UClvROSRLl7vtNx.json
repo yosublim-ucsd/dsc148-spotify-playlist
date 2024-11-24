@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1en0Ebfk3rMdDBSzuWbWpE"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180380,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JbqhKKK8jOi23SRKZ1hUC"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/1fD4dmOFr7TEmwq9tVTQM4"
       },

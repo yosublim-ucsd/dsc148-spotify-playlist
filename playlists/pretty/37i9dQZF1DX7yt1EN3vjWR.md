@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 全セットリスト公開: 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,727 likes - 263 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,726 likes - 263 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 118 | [今日くらいはいい子でいようよ](https://open.spotify.com/track/2yBDb6rcghZVi5vmKknh5I) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [今日くらいはいい子でいようよ](https://open.spotify.com/album/6rbLCikhRD7IxY2lC1lhBi) | 2:25 |
 | 119 | [もう一度キスをして](https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [もう一度キスをして](https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs) | 2:37 |
 | 120 | [なんでも言っちゃって](https://open.spotify.com/track/0seVGIvvhHrA2rlUG4PgHL) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [なんでも言っちゃって \(feat\. JP THE WAVY\)](https://open.spotify.com/album/0sD1pdp06lRmKWtQPX93RJ) | 2:26 |
-| 121 | [WAVEBODY \(Remix\) feat\. OZworld, LEX & ¥ellow Bucks](https://open.spotify.com/track/5t9aACNhF1IWKID3rkWPQM) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [WAVY TAPE 2\(Deluxe\)](https://open.spotify.com/album/75kZW5cinyEdTy8rkkBO3w) | 3:43 |
+| 121 | [WAVEBODY \(Remix\) feat\. OZworld, LEX & ¥ellow Bucks](https://open.spotify.com/track/5t9aACNhF1IWKID3rkWPQM) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [WAVY TAPE 2（Deluxe）](https://open.spotify.com/album/75kZW5cinyEdTy8rkkBO3w) | 3:43 |
 | 122 | [STRANGER](https://open.spotify.com/track/5T6U7udvNbgFDTkYwsI186) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Yung sticky wom](https://open.spotify.com/artist/6KkO28vY94gSfjYCd0zhw3) | [COSMO WORLD](https://open.spotify.com/album/6qL6l1XFVsT1jORl3PrpL5) | 3:38 |
 | 123 | [Romeo & Juliet](https://open.spotify.com/track/15ueqDtpGZiLqFgvMhSO4g) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LiFE](https://open.spotify.com/album/31u6IEytVZAg4vMJDDRg8Q) | 1:57 |
 | 124 | [Stay \(feat\. LEX\)](https://open.spotify.com/track/1iEaCBJFzT2FXscW5B6dR4) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Stay \(feat\. LEX\)](https://open.spotify.com/album/5x9i82ZhE1NiNP6TQshiOJ) | 3:21 |

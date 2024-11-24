@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I"
@@ -1224,7 +1224,7 @@
           "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
         },
         {
-          "name": "Zai",
+          "name": "Zai1k",
           "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
         }
       ],

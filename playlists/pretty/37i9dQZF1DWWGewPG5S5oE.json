@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c0f\u66fd\u6839 \u771f",
-  "num_followers": 40178,
+  "num_followers": 40187,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -54,6 +54,10 @@
         {
           "name": "Sara Wakui",
           "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
         }
       ],
       "duration_ms": 280626,
@@ -247,7 +251,7 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "Round Midnight",
+        "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2"
       },
       "artists": [
@@ -257,7 +261,7 @@
         }
       ],
       "duration_ms": 264029,
-      "name": "Round Midnight",
+      "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3"
     },
     {
@@ -403,6 +407,22 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+      },
+      "artists": [
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2024-11-19 15:00:00",
+      "album": {
         "name": "Liquid Yellow Portraits",
         "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
@@ -423,22 +443,6 @@
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
-    },
-    {
-      "added_at": "2024-11-19 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
-      },
-      "artists": [
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
       "added_at": "2024-11-19 15:00:00",
@@ -547,22 +551,6 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "Straying In Alpacas",
-        "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Straying In Alpacas",
-      "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
-    },
-    {
-      "added_at": "2024-11-19 15:00:00",
-      "album": {
         "name": "The Bottle",
         "url": "https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy"
       },
@@ -579,6 +567,22 @@
       "duration_ms": 146800,
       "name": "JAPAN THREE",
       "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
+    },
+    {
+      "added_at": "2024-11-19 15:00:00",
+      "album": {
+        "name": "Straying In Alpacas",
+        "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 358520,
+      "name": "Straying In Alpacas",
+      "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
     },
     {
       "added_at": "2024-11-19 15:00:00",
@@ -791,22 +795,6 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "GOLD\uff06TURQUOISE",
-        "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 262499,
-      "name": "GOLD\uff06TURQUOISE",
-      "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
-    },
-    {
-      "added_at": "2024-11-19 15:00:00",
-      "album": {
         "name": "Silent Jazz Case 4",
         "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
       },
@@ -823,18 +811,38 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/3OeoTPhCDrJjoLv7k4q0xX"
+        "name": "GOLD\uff06TURQUOISE",
+        "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 217000,
-      "name": "\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/3X4bZvUv6kTIfCSuYlLBSR"
+      "duration_ms": 262499,
+      "name": "GOLD\uff06TURQUOISE",
+      "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
+    },
+    {
+      "added_at": "2024-11-19 15:00:00",
+      "album": {
+        "name": "M-P-C \"Mentality, Physicality, Computer\"",
+        "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "\u9577\u5ca1\u4eae\u4ecb",
+          "url": "https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
     },
     {
       "added_at": "2024-11-19 15:00:00",
@@ -871,22 +879,18 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "M-P-C \"Mentality, Physicality, Computer\"",
-        "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
+        "name": "\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/3OeoTPhCDrJjoLv7k4q0xX"
       },
       "artists": [
         {
-          "name": "Tomita Lab.",
-          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
-        },
-        {
-          "name": "\u9577\u5ca1\u4eae\u4ecb",
-          "url": "https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 272666,
-      "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
+      "duration_ms": 217000,
+      "name": "\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/3X4bZvUv6kTIfCSuYlLBSR"
     },
     {
       "added_at": "2024-11-19 15:00:00",
@@ -919,30 +923,22 @@
     {
       "added_at": "2024-11-19 15:00:00",
       "album": {
-        "name": "Take the S Line",
-        "url": "https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS"
+        "name": "All in your palms",
+        "url": "https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
         },
         {
-          "name": "\u6cb3\u91ce\u7950\u4eae",
-          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
-        },
-        {
-          "name": "\u6749\u6d66\u7766",
-          "url": "https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G"
-        },
-        {
-          "name": "\u5927\u6d25\u60c7",
-          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
         }
       ],
-      "duration_ms": 391261,
-      "name": "Take the S Line",
-      "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"
+      "duration_ms": 244029,
+      "name": "All in your palms",
+      "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
     }
   ],
   "unique_name": "Modern Jazz Japan",

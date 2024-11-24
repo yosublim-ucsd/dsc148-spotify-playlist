@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 250537,
       "name": "1984",
       "url": "https://open.spotify.com/track/3OT1OWjqzG5aqAqUrN297t"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Better in My Head",
       "url": "https://open.spotify.com/track/31r5NLOx5L31PWYT9GvCQV"
@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 224000,
       "name": "Dialtone",
       "url": "https://open.spotify.com/track/1ZU4sfiDDvSTvFfLMNr6su"
@@ -8732,7 +8732,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 211880,
       "name": "Go With You",
       "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
@@ -10332,7 +10332,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 216533,
       "name": "I COULD BE YOUR WORLD",
       "url": "https://open.spotify.com/track/39VjqNkBMqgU0UE70Gip4l"
@@ -14920,7 +14920,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 275400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H"
@@ -16254,7 +16254,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 198890,
       "name": "Now We Know",
       "url": "https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ"
@@ -16712,7 +16712,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
@@ -18180,7 +18180,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 217656,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs"
@@ -18652,7 +18652,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 200816,
       "name": "Run",
       "url": "https://open.spotify.com/track/2WZsatd6Cmvj7fVmPnh2j0"
@@ -19234,6 +19234,24 @@
       "duration_ms": 234249,
       "name": "See You When I See You",
       "url": "https://open.spotify.com/track/41mXWvI0EhbT8oeMDyZQgb"
+    },
+    {
+      "album": {
+        "name": "Seeing Things",
+        "url": "https://open.spotify.com/album/6l1byJ41PU7kF2NaeudfOn"
+      },
+      "artists": [
+        {
+          "name": "Rhineland",
+          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Seeing Things",
+      "url": "https://open.spotify.com/track/5ijeJQFNNXE6m0fYfZ3x72"
     },
     {
       "album": {
@@ -20102,7 +20120,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 228080,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"

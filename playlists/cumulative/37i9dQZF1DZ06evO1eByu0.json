@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Luz da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311515,
+      "name": "Luz da Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
+    },
+    {
+      "album": {
         "name": "Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
       },

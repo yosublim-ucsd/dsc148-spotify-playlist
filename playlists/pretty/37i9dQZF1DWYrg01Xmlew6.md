@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,166 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,219 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 15 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 |
 | 16 | [Lonely \(feat\. Christian Revo\)](https://open.spotify.com/track/51qaHCvkdBGe4hIruc0ucO) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Lonely \(feat\. Christian Revo\)](https://open.spotify.com/album/2nAjv2gB9U51oIJB0h2yLz) | 2:32 |
 | 17 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
-| 18 | [TRAP](https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [SKUGNIZZO](https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6) | 2:35 |
+| 18 | [TRAP](https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [SKUGNIZZO](https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6) | 2:34 |
 | 19 | [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 |
 | 20 | [BEE](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 |
 | 21 | [PROVA VIVENTE](https://open.spotify.com/track/5NnRhwXUVIc7EAxnJ9e7Hy) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [PROVA VIVENTE](https://open.spotify.com/album/3LtEbDNS4fQzu4NWYsl6tl) | 2:06 |

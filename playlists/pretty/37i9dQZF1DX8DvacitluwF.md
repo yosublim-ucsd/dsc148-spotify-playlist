@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=11mOaw8DS3edYE3\-wyf\_lw">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,154 likes - 68 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,176 likes - 68 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

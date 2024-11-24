@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Sute Iwar
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,125 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,135 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
 | 2 | [Summer](https://open.spotify.com/track/3PPqIW224FnGVkETbcrZU2) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 3:42 |
 | 3 | [Selfish](https://open.spotify.com/track/47c3T4umi0phpbU6lrR9iY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Selfish](https://open.spotify.com/album/0NB2SFsGwFANKEOjGt56tc) | 2:42 |
-| 4 | [Escapism](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Escapism](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
+| 4 | [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
 | 5 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 |
 | 6 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 |
 | 7 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |

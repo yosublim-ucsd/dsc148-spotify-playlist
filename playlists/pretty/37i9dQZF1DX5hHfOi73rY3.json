@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 296170,
+  "num_followers": 296236,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
+        "name": "Finder",
+        "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 206368,
+      "name": "Finder - Radio-Edit",
+      "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
         "name": "Bump Artist EP",
         "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
-        "name": "Finder",
-        "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 206368,
-      "name": "Finder - Radio-Edit",
-      "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
     },
     {
       "added_at": "2024-10-25 00:00:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+        "name": "8-track",
+        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
       },
       "artists": [
         {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+      "duration_ms": 275806,
+      "name": "Buggin' - Edit",
+      "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
     }
   ],
   "unique_name": "Warehouse Party",

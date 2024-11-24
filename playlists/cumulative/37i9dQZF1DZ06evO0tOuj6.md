@@ -4,7 +4,7 @@
 
 > This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 31 min
+85 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Te Quiero con Bugalú](https://open.spotify.com/track/19AG2FmshFkNm5FVTDZj0E) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Glorious](https://open.spotify.com/album/1sshEtkwfrCyY8kJWojThg) | 4:11 | 2023-02-13 | 2023-02-15 |
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 | 2024-10-19 |
 | [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-11-11 |
-| [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 |  |
+| [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 | 2024-11-24 |
 | [Wings Of Phoenix](https://open.spotify.com/track/7sxuNxmyl7qdsBfpn3q3q4) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:05 | 2024-11-12 |  |
 | [あの夏のあいまいME \- feat.SUPER EIGHT](https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [あの夏のあいまいME \(feat.SUPER EIGHT\)](https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm) | 3:53 | 2024-08-10 |  |
 | [しらけちまうぜ](https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:53 | 2023-01-14 |  |
@@ -80,6 +80,7 @@
 | [暗夜行路](https://open.spotify.com/track/1uC00Bl7GJUxSNzh0kKMAE) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 4:15 | 2023-01-14 | 2023-02-12 |
 | [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 | 2023-01-14 |  |
 | [流星とバラード](https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 4:33 | 2023-01-14 |  |
+| [火の玉ジャイヴ](https://open.spotify.com/track/1gBs17LyDgSWD6WDBtjLPu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 3:50 | 2024-11-24 |  |
 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 | 2024-01-03 |  |
 | [白と黒のモントゥーノ](https://open.spotify.com/track/6fHZjCE9bQH7SR1oPRLFRM) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [斎藤宏介](https://open.spotify.com/artist/0QpGuycOM3kFnbZmrucNl2) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 3:31 | 2023-02-16 | 2023-03-01 |
 | [紋白蝶 \- feat\. 石原慎也 \(Saucy Dog\)](https://open.spotify.com/track/70uJr9I7fSA0DUrnSzyCvZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [石原 慎也](https://open.spotify.com/artist/7M6jvaUIrKDZK9rhjjv5x8) | [紋白蝶 \[feat\. 石原慎也 \(Saucy Dog\)\]](https://open.spotify.com/album/6RBgLMu6RSKhzp0qw6l9kz) | 4:44 | 2023-01-14 |  |

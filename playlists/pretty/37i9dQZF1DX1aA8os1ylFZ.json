@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243937,
+  "num_followers": 243939,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -106,6 +106,10 @@
         {
           "name": "Nana Fofie",
           "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
       "duration_ms": 170380,
@@ -323,6 +327,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "JUST LIKE THAT (with Ari Lennox)",
+        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "JUST LIKE THAT (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
       },
@@ -371,26 +395,6 @@
       "duration_ms": 215198,
       "name": "guidance",
       "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "JUST LIKE THAT (with Ari Lennox)",
-        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "JUST LIKE THAT (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -531,42 +535,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 238185,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "act iv: fckin u again (18+)",
-        "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 195528,
-      "name": "act iv: fckin u again (18+)",
-      "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
       },
@@ -591,6 +559,42 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "act iv: fckin u again (18+)",
+        "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 195528,
+      "name": "act iv: fckin u again (18+)",
+      "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 238185,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Luv 4 U",
         "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
       },
@@ -611,22 +615,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Fold",
-        "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 157606,
-      "name": "Fold",
-      "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Cranes in the Sky (Spotify Singles)",
         "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
       },
@@ -639,6 +627,22 @@
       "duration_ms": 268875,
       "name": "Cranes in the Sky - Spotify Singles",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 157606,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -787,22 +791,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "LOVE/HATE Pt. 2",
-        "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -819,6 +807,22 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "LOVE/HATE Pt. 2",
+        "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1147,18 +1151,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW"
+        "name": "LOML",
+        "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
       },
       "artists": [
         {
-          "name": "Sar\u00e0h Phenom",
-          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
-      "duration_ms": 171999,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ"
+      "duration_ms": 177760,
+      "name": "LOML",
+      "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1179,34 +1183,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "LOML",
-        "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
+        "name": "10%",
+        "url": "https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW"
       },
       "artists": [
         {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+          "name": "Sar\u00e0h Phenom",
+          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
         }
       ],
-      "duration_ms": 177760,
-      "name": "LOML",
-      "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3"
-      },
-      "artists": [
-        {
-          "name": "Eloy",
-          "url": "https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ"
+      "duration_ms": 171999,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1227,6 +1215,22 @@
       "duration_ms": 152138,
       "name": "ANTICIPATE",
       "url": "https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1351,6 +1355,30 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
+      },
+      "artists": [
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "whereislema",
+          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
+        },
+        {
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        }
+      ],
+      "duration_ms": 235732,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Give It All to Me",
         "url": "https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8"
       },
@@ -1363,6 +1391,38 @@
       "duration_ms": 149333,
       "name": "Give It All to Me",
       "url": "https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Major Minor",
+        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
+      },
+      "artists": [
+        {
+          "name": "Donna Lugassy",
+          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Major Minor",
+      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Baby Boy 2",
+        "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
+      },
+      "artists": [
+        {
+          "name": "Ruskey",
+          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "So Fresh So Clean",
+      "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1387,18 +1447,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Baby Boy 2",
-        "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
       },
       "artists": [
         {
-          "name": "Ruskey",
-          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
         }
       ],
-      "duration_ms": 135211,
-      "name": "So Fresh So Clean",
-      "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1427,54 +1487,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Nobody believes me",
-        "url": "https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth"
-      },
-      "artists": [
-        {
-          "name": "Jueles Chloe",
-          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Nobody believes me",
-      "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Major Minor",
-        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
-      },
-      "artists": [
-        {
-          "name": "Donna Lugassy",
-          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Major Minor",
-      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH"
       },
@@ -1495,26 +1507,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
+        "name": "Nobody believes me",
+        "url": "https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth"
       },
       "artists": [
         {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
-        },
-        {
-          "name": "whereislema",
-          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
-        },
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+          "name": "Jueles Chloe",
+          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
         }
       ],
-      "duration_ms": 235732,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
+      "duration_ms": 158571,
+      "name": "Nobody believes me",
+      "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
     },
     {
       "added_at": "2024-11-21 23:00:00",

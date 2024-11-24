@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,996 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,108 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 59 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
 | 60 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
 | 61 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
-| 62 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
-| 63 | [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 |
-| 64 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
+| 62 | [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 |
+| 63 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
+| 64 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 65 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
 | 66 | [Not in a Hurry \- Reimagined](https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX) | [GONZO HERNAN](https://open.spotify.com/artist/3vHvxRyq0vUmEqix9UR1TX), [Amen Worldwide](https://open.spotify.com/artist/6Mu547AIaCO3QiD1N2ZfKU), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Not in a Hurry \(Reimagined\)](https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK) | 4:14 |
 | 67 | [Rest](https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp) | [Enterline](https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK) | [Kingdoms](https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R) | 3:27 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 77 | [Foolish & Ruined](https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Foolish & Ruined](https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK) | 4:59 |
 | 78 | [King of Eternity](https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde) | [LW Music](https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG), [Garett Serban](https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj), [Nixaide Lopez](https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx) | [King of Eternity](https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq) | 6:48 |
 | 79 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |
-| 80 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
-| 81 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
+| 80 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
+| 81 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
 | 82 | [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 |
 | 83 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 |
 | 84 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 93069,
+  "num_followers": 93057,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "forever on my mind",
         "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 173812,
       "name": "forever on my mind",
       "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "wildflower",
         "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 174692,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "HJERTET MITT ER HELT OK",
-        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
-      },
-      "artists": [
-        {
-          "name": "Hkeem",
-          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
-        },
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "HJERTET MITT ER HELT OK",
-      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "HJERTET MITT ER HELT OK",
+        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+      },
+      "artists": [
+        {
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        },
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "HJERTET MITT ER HELT OK",
+      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Indre liv",
-        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 151893,
-      "name": "Ikke lenger din",
-      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+        "name": "Indre liv",
+        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+      "duration_ms": 151893,
+      "name": "Ikke lenger din",
+      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Hollywood Hills",
-        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 157791,
-      "name": "Hollywood Hills",
-      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199500,
       "name": "Keeps Me Going",
       "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 157791,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Sommerfl\u00f8rt",
         "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165882,
       "name": "25 bare fem \u00e5r til",
       "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Ti tusen",
-        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
-      },
-      "artists": [
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Ti tusen",
-      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Indre liv",
         "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 187173,
       "name": "Dum og lovende",
       "url": "https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Ti tusen",
+        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
+      },
+      "artists": [
+        {
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Ti tusen",
+      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
-        "url": "https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy"
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
       },
       "artists": [
         {
-          "name": "Regnv\u00e6r",
-          "url": "https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki"
-        },
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 138982,
-      "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
-      "url": "https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh"
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+        "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
+        "url": "https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Regnv\u00e6r",
+          "url": "https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki"
+        },
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
         }
       ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+      "duration_ms": 138982,
+      "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
+      "url": "https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Mad Women",
-        "url": "https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 203656,
-      "name": "Something Like This (feat. Dagny)",
-      "url": "https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa"
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

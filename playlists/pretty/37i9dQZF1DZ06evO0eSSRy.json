@@ -1,12 +1,12 @@
 {
   "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
-  "num_followers": 696,
+  "num_followers": 697,
   "original_name": "This Is P\u00c6RISH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAADRylkFUhjYIfpDrGQNv0qH",
+  "snapshot_id": "Zz/JgAAAAAC8FADBXExC82R/V3xrkHAD",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 261301,
       "name": "Fixed It All",
       "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
     },
     {
       "added_at": null,

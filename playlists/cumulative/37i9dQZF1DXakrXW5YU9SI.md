@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-284 songs - 15 hr 58 min
+285 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Od jutra zacznę się modlić](https://open.spotify.com/track/3sX1KgURKWdt92RNy35Hhj) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk) | [Od jutra zacznę się modlić](https://open.spotify.com/album/1exMof1QSx2gzJW3qiO86O) | 3:08 | 2024-10-07 | 2024-10-15 |
 | [Od kiedy jesteś](https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Od kiedy jesteś](https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo) | 3:02 | 2024-07-18 | 2024-09-13 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-27 | 2024-11-22 |
+| [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 | 2024-11-21 |  |
 | [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-07-05 | 2024-07-12 |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2024-09-13 |
 | [pamiętam](https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [pamiętam](https://open.spotify.com/album/3deHWsaVOQ62u2hyQ2JceC) | 3:09 | 2024-07-18 | 2024-07-27 |
@@ -289,7 +290,7 @@
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-07-06 |
 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 | 2024-08-23 | 2024-11-22 |
 | [Zdolna](https://open.spotify.com/track/32I23NQM4JHjLVZxwxXhDE) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Unikając Odpowiedzi EP](https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ) | 3:10 | 2024-11-21 |  |
-| [Zima](https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Zima](https://open.spotify.com/album/3FwdYr7JH0uddOIiyKizw2) | 3:57 | 2024-11-21 |  |
+| [Zima](https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Zima](https://open.spotify.com/album/3FwdYr7JH0uddOIiyKizw2) | 3:57 | 2024-11-21 | 2024-11-24 |
 | [Znak](https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Znak](https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C) | 2:53 | 2024-09-20 | 2024-10-08 |
 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 | 2024-11-21 |  |
 

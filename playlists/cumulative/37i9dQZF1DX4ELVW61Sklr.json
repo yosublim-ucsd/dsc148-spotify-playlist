@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 240000,
       "name": "1st Noel",
       "url": "https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 247251,
       "name": "Jesus What A Wonderful Child",
       "url": "https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr"
@@ -2170,6 +2170,24 @@
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
+    },
+    {
+      "album": {
+        "name": "Coco By The Fireplace",
+        "url": "https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Santa Is Me",
+      "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
     },
     {
       "album": {
@@ -3100,6 +3118,28 @@
       "duration_ms": 173961,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/4pI7CEVufQCp9WAssZLecU"
+    },
+    {
+      "album": {
+        "name": "A Legendary Christmas (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7pm8YR7cEh5i0nRoqEutzd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160226,
+      "name": "What Christmas Means to Me (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/4YzayQhtm0lFenr0qVLbUy"
     },
     {
       "album": {

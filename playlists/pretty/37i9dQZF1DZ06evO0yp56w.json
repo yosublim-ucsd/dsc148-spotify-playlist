@@ -1,6 +1,6 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 791745,
+  "num_followers": 791816,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 295373,
+      "name": "Supremacy",
+      "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1685 (feat. Muse)",
         "url": "https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e"
       },
@@ -319,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
       "artists": [
         {
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 295373,
-      "name": "Supremacy",
-      "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
+      "duration_ms": 262973,
+      "name": "Muscle Museum",
+      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
       "duration_ms": 180302,
       "name": "You Make Me Feel Like It\u2019s Halloween",
       "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Muscle Museum",
-      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 28 min
+77 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 | 2023-11-10 |  |
 | [Desde Cero \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:13 | 2023-11-10 |  |
 | [El mañana \(feat\. Meny Méndez\)](https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:16 | 2023-11-10 |  |
+| [El Más Travieso](https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Más Travieso](https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO) | 2:42 | 2024-11-24 |  |
 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 | 2023-11-10 |  |
 | [En El Alcohol](https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [En El Alcohol](https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D) | 3:13 | 2024-10-19 |  |
 | [Esta Vida Me Encanta Remix \(feat\. Smoky, MC Davo, T\-Killa, Don Aero, Tanke, Little el Crack, Big Metra, Santa RM, Zimple & DJ Maxo\)](https://open.spotify.com/track/4EMnuIxITWPhErDRfxQUuK) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv), [Tanke](https://open.spotify.com/artist/4IUiUtBRDlsoaOVtAMuTKp), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [DJ Maxo](https://open.spotify.com/artist/1egxVNTkxulcLB6iBDwdV6) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 7:51 | 2024-05-12 | 2024-08-21 |

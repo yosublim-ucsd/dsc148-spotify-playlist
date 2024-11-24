@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 157141,
+  "num_followers": 157164,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAABCJ2Wi1XQ/ExEuVNA1mMpZ",
+  "snapshot_id": "Zz/JgAAAAAA+MKyEz3gYy0dKnh4U7juu",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Under A Bad Sign (Remastered 2024)",
-        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 490006,
-      "name": "Born Under A Bad Sign - Remastered 2024",
-      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "Born Under A Bad Sign (Remastered 2024)",
+        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 335160,
-      "name": "I'm Leaving You (Commit A Crime) - Live",
-      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
     },
     {
       "added_at": null,

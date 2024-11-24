@@ -1,6 +1,6 @@
 {
   "description": "New music from ROS\u00c9, Jack Harlow, Wizkid, Lil Nas X, Quevedo, and more!",
-  "num_followers": 4239593,
+  "num_followers": 4240287,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
       "duration_ms": 177598,
-      "name": "luther",
+      "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
@@ -481,7 +485,7 @@
         }
       ],
       "duration_ms": 292355,
-      "name": "H.B.W.",
+      "name": "H.B.W",
       "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
     },
     {

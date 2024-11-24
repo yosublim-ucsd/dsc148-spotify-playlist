@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 354397,
+  "num_followers": 354492,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Sunrise Sunfall (Edit)",
         "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 193105,
       "name": "Sunrise Sunfall - Edit",
       "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "House of LION BABE",
-        "url": "https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ"
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
       },
       "artists": [
         {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
         }
       ],
-      "duration_ms": 226451,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi"
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Happy Ending (A.G Remix)",
-        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
+        "name": "House of LION BABE",
+        "url": "https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A.G",
-          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
         }
       ],
-      "duration_ms": 195800,
-      "name": "Happy Ending - A.G Remix",
-      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+      "duration_ms": 226451,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi"
     }
   ],
   "unique_name": "Soultronic",

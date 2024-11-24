@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Edgardo Nuñez y Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,028 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,370 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 34 | [O Disfrutas O Te Mueres](https://open.spotify.com/track/5tNFLHuRUqVHpGxaNa3Wbd) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7), [Oscar Gomez](https://open.spotify.com/artist/68sHRTJuqTR0aNbMuAyPoC) | [O Disfrutas O Te Mueres](https://open.spotify.com/album/3acjVanHgPGHszarTRxDh9) | 2:45 |
 | 35 | [PERDIENDO](https://open.spotify.com/track/2UTPVm0XHPCmTpWB6AZwes) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [PERDIENDO](https://open.spotify.com/album/7ybMPhkwxR50sRMBw0dSrc) | 3:38 |
 | 36 | [Muerto o en prisión](https://open.spotify.com/track/7LbHjrjICzpqoz9WGDvGGO) | [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Muerto o en prision](https://open.spotify.com/album/4snMIKqLhO0xtRn7Kwh24p) | 3:16 |
-| 37 | [Por Clave P1](https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Por Clave P1](https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo) | 3:07 |
+| 37 | [Por Clave P1](https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Por Clave P1](https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo) | 3:07 |
 | 38 | [Carnalito](https://open.spotify.com/track/0Yz6u4XqbrOfU5T7vPV3cZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Carnalito](https://open.spotify.com/album/3QZWIob5yTnT3TSUwodM8f) | 2:52 |
 | 39 | [Yo Por Ti](https://open.spotify.com/track/3oUAh9VbxTClL83OC7sp8P) | [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [Yo Por Ti](https://open.spotify.com/album/1uhjsUpbM3nNq7HMB2xSDz) | 2:46 |
 | 40 | [El Escapulario](https://open.spotify.com/track/6InmLctnqvl0RO1LEN2td2) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Escapulario](https://open.spotify.com/album/36wAgG5pia0pn0KhtsMJ1c) | 3:29 |

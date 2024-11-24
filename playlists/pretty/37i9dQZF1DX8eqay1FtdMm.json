@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BEN(\ubca4)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378270,
+  "num_followers": 378289,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
         "name": "Story Of Two Years",
         "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
         "name": "WONDO Project : LOVE RECIPE, Vol.1",
         "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+      },
+      "artists": [
+        {
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+        }
+      ],
+      "duration_ms": 266292,
+      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "Cho Jang Hyuck",
-          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 266292,
-      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "Peach Tree",
-      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -1487,6 +1471,38 @@
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
+        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "Peach Tree",
+      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
         "name": "YOUNHA Studio Live Album 'MINDSET'",
         "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2024-11-05 09:17:00",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2024-11-05 09:17:00",
       "album": {
-        "name": "LEECHANGSUB PRE-RELEASE <1991>",
-        "url": "https://open.spotify.com/album/10EMWG95AX2RCFkLiMhQEL"
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 242013,
-      "name": "vain hope",
-      "url": "https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-11-05 09:17:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 236880,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
+    },
+    {
+      "added_at": "2024-11-05 09:17:00",
+      "album": {
+        "name": "LEECHANGSUB PRE-RELEASE <1991>",
+        "url": "https://open.spotify.com/album/10EMWG95AX2RCFkLiMhQEL"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "vain hope",
+      "url": "https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi"
     },
     {
       "added_at": "2024-11-05 09:17:00",

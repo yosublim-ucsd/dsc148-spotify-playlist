@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
+    },
+    {
+      "album": {
         "name": "Remi",
         "url": "https://open.spotify.com/album/0TQ6jZxyhhE1BT5b2spxYj"
       },
@@ -28200,7 +28218,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 199705,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue"
@@ -58078,7 +58096,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-24",
       "duration_ms": 200800,
       "name": "Rotten Peaches",
       "url": "https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV"

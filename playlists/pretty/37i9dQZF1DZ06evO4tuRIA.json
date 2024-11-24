@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 86662,
+  "num_followers": 86778,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAC9I34tmwkVqPZqHDdvJVmU",
+  "snapshot_id": "Zz/JgAAAAABY9GYJUKPGwcWOXgOt6yhP",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 203398,
-      "name": "En El Humaderon",
-      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -679,22 +663,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bravo 57",
-        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
+      "duration_ms": 203398,
+      "name": "En El Humaderon",
+      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "El Chili Willy",
+      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+        "name": "Bravo 57",
+        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
       },
       "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 217250,
-      "name": "El Chili Willy",
-      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
+        "name": "L.A. Lumbre",
+        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
       },
       "artists": [
         {
-          "name": "Eduardo Laguna",
-          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 201208,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
+      "duration_ms": 153250,
+      "name": "El Jeffrey",
+      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Lumbre",
-        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Eduardo Laguna",
+          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
         },
         {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 153250,
-      "name": "El Jeffrey",
-      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+      "duration_ms": 201208,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Vida Peligrosa El Solecito (En Vivo)",
+      "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
     },
     {
       "added_at": null,
@@ -887,38 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Vida Peligrosa El Solecito (En Vivo)",
-      "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Doble M",
-        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 146749,
-      "name": "El Doble M",
-      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diecinueve",
         "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 171925,
       "name": "El Diecinueve",
       "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Doble M",
+        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 146749,
+      "name": "El Doble M",
+      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-669 songs - 1 day 15 hr 24 min
+670 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Hice Todo Mal \(Las Ligas Menores\)](https://open.spotify.com/track/6GUzpE7WqXbyLL7RScJgBy) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Hice Todo Mal \(Las Ligas Menores\)](https://open.spotify.com/album/049Fpkgc9KSXYVQlcP5cw7) | 3:03 | 2022-07-01 | 2022-07-28 |
 | [Hienas](https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c) | [mamá glitch](https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn) | [Hienas](https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF) | 4:26 | 2024-05-10 | 2024-07-19 |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-07-01 | 2022-07-18 |
+| [Hipercandombe](https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u) | [Sueños Dorados](https://open.spotify.com/artist/1Gxd9wJiusIwHWSTt8Lk8y), [Crewrod](https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk) | [Hipercandombe](https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn) | 4:26 | 2024-11-22 |  |
 | [Hojas de Sombra](https://open.spotify.com/track/7koV9ojFGsDXkZMBxfEmWZ) | [Pájaro](https://open.spotify.com/artist/4nmLAzSOQNI1YZKhGqmHwP) | [Hojas de Sombra](https://open.spotify.com/album/2ir033W52DI2aqS7n50nFO) | 7:17 | 2022-07-01 | 2022-07-24 |
 | [Hombre Paloma](https://open.spotify.com/track/33MjnTrlEgYbra2prv0l5i) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Hombre Paloma](https://open.spotify.com/album/2yZ4h4VN6iWBjseopIbsS7) | 3:02 | 2022-07-01 | 2022-07-16 |
 | [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 | 2022-12-02 |
@@ -414,7 +415,7 @@
 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 | 2024-07-13 |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 | 2023-10-27 |
-| [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 |  |
+| [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2024-11-24 |
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 | 2024-04-19 |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 |  |
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
