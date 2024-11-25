@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 167142,
+  "num_followers": 167214,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAACQ9KPRj/4mUFWdaH8DNSTB",
+  "snapshot_id": "Z0EbAAAAAAC6MTC2H5Ep1v5DlyQS46ck",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
-        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 174480,
       "name": "Y Como Es El",
       "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
+        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 156213,
       "name": "La Chica Est\u00e1 Enojada",
       "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
     },
     {
       "added_at": null,

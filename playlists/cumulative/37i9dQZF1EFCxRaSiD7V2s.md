@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-329 songs - 17 hr 10 min
+331 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 | 2021-12-27 | 2022-08-22 |
 | [Golden Coast](https://open.spotify.com/track/2FQ0Hd6S45peO7nYHoB3ul) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:33 | 2022-08-21 |  |
 | [Goldenrod](https://open.spotify.com/track/6zZXMsaXU3DtpFaRrmCRyV) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:25 | 2023-09-25 |  |
-| [Goldenrod \- Generationals Remix](https://open.spotify.com/track/7AZy8qLXCiFNi6dVMQdElQ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Goldenrod \(Generationals Remix\)](https://open.spotify.com/album/0MVblOECcH4HnwLxvrxzoS) | 5:02 | 2024-11-06 |  |
+| [Goldenrod \- Generationals Remix](https://open.spotify.com/track/3IemqtqObJd0wnMQ9V8DCd) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Avalanche \(Deluxe\)](https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp) | 5:02 | 2024-11-24 |  |
+| [Goldenrod \- Generationals Remix](https://open.spotify.com/track/7AZy8qLXCiFNi6dVMQdElQ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Goldenrod \(Generationals Remix\)](https://open.spotify.com/album/0MVblOECcH4HnwLxvrxzoS) | 5:02 | 2024-11-06 | 2024-11-25 |
 | [Gone](https://open.spotify.com/track/72xd7UNBG1IXdaZs40tequ) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:17 | 2021-12-27 |  |
 | [Good Way](https://open.spotify.com/track/6fDGDqFQuGmNb0Pistebne) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:39 | 2022-08-21 |  |
 | [Good Way](https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:39 | 2021-12-27 | 2022-08-22 |
@@ -258,7 +259,8 @@
 | [Sleeper](https://open.spotify.com/track/2pXbkFs0YDqCuPIoiJoRcs) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 3:04 | 2022-11-10 |  |
 | [Smashed](https://open.spotify.com/track/7HaXfTIGGe612Qp4RNKc0y) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Cory Branan](https://open.spotify.com/artist/0uzmoK3E1j2Cvl9XkFs1JR), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:42 | 2021-12-27 |  |
 | [Some Assembly Required](https://open.spotify.com/track/7nMaZu5IqXajAi19foNCzh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:04 | 2021-12-27 |  |
-| [Someone's Ex](https://open.spotify.com/track/6ggwRoo9tHtG41UyIVtdtu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Someone's Ex](https://open.spotify.com/album/4aqFErwrP7HpJdDTa5I5xh) | 3:51 | 2024-10-05 |  |
+| [Someone's Ex](https://open.spotify.com/track/5R4jixRQStTjUu8cbOpgEY) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche \(Deluxe\)](https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp) | 3:51 | 2024-11-24 |  |
+| [Someone's Ex](https://open.spotify.com/track/6ggwRoo9tHtG41UyIVtdtu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Someone's Ex](https://open.spotify.com/album/4aqFErwrP7HpJdDTa5I5xh) | 3:51 | 2024-10-05 | 2024-11-25 |
 | [Something Blue](https://open.spotify.com/track/59Sj8fjzniSWwvsosM1A7R) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:36 | 2021-12-27 |  |
 | [Spiral](https://open.spotify.com/track/5HCGLesUSHEPpoWglWbpxD) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:53 | 2021-12-27 |  |
 | [Start + Stop](https://open.spotify.com/track/42U4EYKZykqpYQZv60Id33) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 2:59 | 2021-12-27 | 2022-08-19 |

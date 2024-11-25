@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,391 likes - 64 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,393 likes - 64 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

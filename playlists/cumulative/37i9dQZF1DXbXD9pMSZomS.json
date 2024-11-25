@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 188852,
       "name": "Alone Girl",
       "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
@@ -1742,6 +1742,24 @@
       "duration_ms": 422278,
       "name": "Flutes of Gold",
       "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+    },
+    {
+      "album": {
+        "name": "Focused",
+        "url": "https://open.spotify.com/album/4K2cLtuDtXlBuAFdWDi2Fh"
+      },
+      "artists": [
+        {
+          "name": "Belikeme",
+          "url": "https://open.spotify.com/artist/3bq5uvcwCx8g4xdHTW8qaG"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/1YMzWMfkMEosGxNywl46IW"
     },
     {
       "album": {

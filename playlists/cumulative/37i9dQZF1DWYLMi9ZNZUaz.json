@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "C\u00e1c homie \u0111\u00e3 s\u1eb5n s\u00e0ng g\u1eb7p Wxrdie, Andree Right Hand, Karik t\u1ea1i GENfest 2024?",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 24111,
       "name": "Andree Right Hand xin ch\u00e0o",
       "url": "https://open.spotify.com/track/7Gno6uCKe4TUabuw4HPxiI"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 206162,
       "name": "B\u0103ng Qua C\u1ea7u Gi\u1ea5y",
       "url": "https://open.spotify.com/track/0aCGgK13SbfXx1UexI76rB"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 227142,
       "name": "B\u1edd Nh\u01b0 \u00c0o",
       "url": "https://open.spotify.com/track/3JfSDK5jUpMb2iUHeQR6tl"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 256000,
       "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
       "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 29936,
       "name": "Karik xin ch\u00e0o",
       "url": "https://open.spotify.com/track/4WAHjjURfcrpo5YN6lfsk0"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 244947,
       "name": "Khu Tao S\u1ed1ng",
       "url": "https://open.spotify.com/track/14khFA3ijq29og5P6GJqDP"
@@ -2775,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "L\u01b0\u1edbt",
+        "url": "https://open.spotify.com/album/4rVaK1jtsm2vqueVG8um6u"
+      },
+      "artists": [
+        {
+          "name": "C\u01b0\u1eddng Seven",
+          "url": "https://open.spotify.com/artist/6uPQqRyJMiXn3lHCh0oJIt"
+        },
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192375,
+      "name": "L\u01b0\u1edbt Tr\u00ean Con Xe (feat. Blacka)",
+      "url": "https://open.spotify.com/track/277NJkEbAQPmSAsm2ZTz46"
+    },
+    {
+      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "M\u01b0a C\u1ee9 R\u01a1i",
       "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
@@ -3416,7 +3438,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 168600,
       "name": "Nh\u1ea1c Anh (feat. Wxrdie)",
       "url": "https://open.spotify.com/track/0BOFCIDygXWLtAD08nJDFV"
@@ -4130,7 +4152,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 202171,
       "name": "sao tr\u00f4ng em l\u1ea1i nh\u01b0 th\u1ebf n\u00e0y",
       "url": "https://open.spotify.com/track/4uEtp8xmFuV2aT9O2QFRMf"
@@ -4538,7 +4560,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
@@ -5296,7 +5318,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 18390,
       "name": "Wxrdie xin ch\u00e0o",
       "url": "https://open.spotify.com/track/2wKXtatrvpIWuSm2eOQaIZ"
@@ -5436,7 +5458,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 252892,
       "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
       "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"
@@ -5498,7 +5520,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 223636,
       "name": "\u0110au \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/1HSig0QkU1mbUhnZ6vdivA"

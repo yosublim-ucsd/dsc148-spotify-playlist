@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,423 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,424 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 53 | [LOGIA](https://open.spotify.com/track/1Yz4HZyfi8U1yxvGEghicp) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [LOGIA](https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq) | 3:04 |
 | 54 | [KSIRASIA](https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [KSIRASIA](https://open.spotify.com/album/7sh9ZtpnyLT9anmYqOSxAY) | 3:28 |
 | 55 | [KARMA](https://open.spotify.com/track/3Qa8rrt0bAA2VAYkbEY2pX) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [lefmav](https://open.spotify.com/artist/4Xn5nkh24fr61RNgXHMeEU) | [KARMA](https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ) | 2:33 |
-| 56 | [Peace](https://open.spotify.com/track/19FzUF92VhkyD9HrLdD9ST) | [Oge](https://open.spotify.com/artist/1r9GJXN6FxIluigNRpnRII) | [Peace](https://open.spotify.com/album/7vPG5hH3hAfFcpCY9tHxta) | 1:15 |
+| 56 | [Peace](https://open.spotify.com/track/19FzUF92VhkyD9HrLdD9ST) | [Ebube2](https://open.spotify.com/artist/0sY5s0NbYEbOdbL0c0y25y) | [Peace](https://open.spotify.com/album/7vPG5hH3hAfFcpCY9tHxta) | 1:15 |
 | 57 | [FMB](https://open.spotify.com/track/69ElqU5PknHHN5BxXzADaA) | [ZiZZi](https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [FMB](https://open.spotify.com/album/2taoSszr3MTwZoZYOtm42e) | 2:10 |
 | 58 | [DYNAMITIS](https://open.spotify.com/track/6ezZQYmtO52Yn5CvAymm5Y) | [levi](https://open.spotify.com/artist/6pCBW77mTsAvyZIdnePyGH), [Tanto](https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [mi368](https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK) | [DYNAMITIS](https://open.spotify.com/album/6qFWRo4vADVtCbnr2MlErD) | 3:04 |
 | 59 | [Oneira Se Spiti Magissas](https://open.spotify.com/track/3htk2N2ly7gweqbQFgMv4p) | [Fi Vita Sigma](https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I), [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [Rio](https://open.spotify.com/artist/5521NezFH11BqC62R1WCWW), [Dj Mode](https://open.spotify.com/artist/3G85NIbs2Vox1KYCguH62c) | [Oneira Se Spiti Magissas](https://open.spotify.com/album/7uteQBw0IsyhqL0qZ3MaRj) | 5:38 |

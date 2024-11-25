@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Future, Metro, Kendrick, Tyler and Carti make All\-RapCaviar's 1st Team\. Plus new music from Jack Harlow and BossMan Dlow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,097,667 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,098,440 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

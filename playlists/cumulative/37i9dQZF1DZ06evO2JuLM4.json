@@ -124,10 +124,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 111040,
       "name": "Broken Bricks",
       "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151009,
+      "name": "Cannon",
+      "url": "https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch"
     },
     {
       "album": {

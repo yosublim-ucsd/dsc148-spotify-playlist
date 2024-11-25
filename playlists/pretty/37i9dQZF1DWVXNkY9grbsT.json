@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 101711,
+  "num_followers": 101760,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -755,6 +755,30 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 517000,
+      "name": "Locomotion (In Key)",
+      "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "What Is Not Strange?",
         "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 415526,
       "name": "Human By Mistake",
       "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Consumed In Key",
-        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        },
-        {
-          "name": "Plastikman",
-          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
-        },
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 517000,
-      "name": "Locomotion (In Key)",
-      "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "In Electric Time",
-        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Seawater Swell",
-      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1115,6 +1115,22 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/65mYEI6vEjGink0prK6Len"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 238029,
       "name": "Belt & Carpet",
       "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "HYbr:ID Ectopia Field 1",
         "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Winter's Melt",
+        "url": "https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd"
+      },
+      "artists": [
+        {
+          "name": "Carl Lord",
+          "url": "https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN"
+        }
+      ],
+      "duration_ms": 385433,
+      "name": "Winter's Melt",
+      "url": "https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Bancha",
         "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 231000,
       "name": "Hot Milk",
       "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Periphera",
-        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
-      },
-      "artists": [
-        {
-          "name": "Pataphysical",
-          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
-        }
-      ],
-      "duration_ms": 279304,
-      "name": "Aun Cyc",
-      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
     }
   ],
   "unique_name": "Electronic X",

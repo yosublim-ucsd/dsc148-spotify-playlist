@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 
 > <a href="spotify:artist:3l0CmX0FuQjFxr8SK7Vqag">Clairo</a> shares the songs she finds charming ✨ Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,520 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,595 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 | 3 | [My Dear Life](https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C) | [Mariangela Celeste](https://open.spotify.com/artist/2zuG4hA1xyS484HTQWx9Ih), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Mariangela](https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J) | 3:41 |
 | 4 | [Thank You](https://open.spotify.com/track/34vOILAz1FuRDbqIz9K17Q) | [Monik](https://open.spotify.com/artist/0X1VlaIWuQLvvBNHT3cOEJ) | [Thank You](https://open.spotify.com/album/6MZvHJiJm1YERlh2hiT2D7) | 3:07 |
 | 5 | [Who I am](https://open.spotify.com/track/70EOI7haPUwLx2gQu6gATR) | [Joanne Grauer](https://open.spotify.com/artist/0lpJi1x47ItOCuFgnnZFOh) | [Joanne Grauer](https://open.spotify.com/album/1KcegDm0HBgo5XCxcHWlwF) | 3:07 |
-| 6 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 |
+| 6 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 |
 | 7 | [Cherish](https://open.spotify.com/track/5P73WXkTKt8lDyMkCLA07F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:21 |
 | 8 | [Tomorrow Is Gone](https://open.spotify.com/track/5YiJN3PMNN3NzgHYlyneq2) | [Jode](https://open.spotify.com/artist/5bGgmhHUiWfRcpoBUTybdZ) | [Jode](https://open.spotify.com/album/1Ty1hPK3Xpzzy72AS7KT64) | 3:10 |
 | 9 | [When It's Time to Go](https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl) | 2:43 |

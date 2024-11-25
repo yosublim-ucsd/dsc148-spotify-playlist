@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,128 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,129 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 42 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
 | 43 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
 | 44 | [Mouthfeel 1](https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x) | 1:48 |
-| 45 | [DINORWIC](https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [DINORWIC](https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX) | 11:51 |
-| 46 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 47 | [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 |
-| 48 | [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 |
+| 45 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
+| 46 | [DINORWIC](https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [DINORWIC](https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX) | 11:51 |
+| 47 | [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 |
+| 48 | [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 |
 | 49 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 | 50 | [Understanding Body Messages](https://open.spotify.com/track/2sN5abLA5FVFwgbqbR7vx5) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 1:24 |
 | 51 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 90 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
 | 91 | [Constants](https://open.spotify.com/track/5fADM7Z3CuEAizjPvibuKe) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [The Head As Form’d In The Crier’s Choir](https://open.spotify.com/album/58EaF3YZMvJJR3GKHvx1LH) | 9:19 |
 | 92 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 |
-| 93 | [Dance Steve](https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Dance Steve](https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA) | 4:45 |
-| 94 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
+| 93 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
+| 94 | [Dance Steve](https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Dance Steve](https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA) | 4:45 |
 | 95 | [Simple Math](https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Simple Math](https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N) | 2:44 |
 | 96 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 97 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 |
 | 98 | [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/track/399FYmfl4OxB7WaBtvLSE0) | [Ben Inui](https://open.spotify.com/artist/6nImy4rxQdr49blY4x32hu), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/album/5LZT84DiB70F5EBD07kGCo) | 3:30 |
 | 99 | [DARK SIDE OF THE STAR／地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
-| 100 | [All That the Air Allows](https://open.spotify.com/track/0jiHm4PhDqu7vWtFkFAbiZ) | [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [All That the Air Allows](https://open.spotify.com/album/5xAdKLGG3O1KywUQG9s2Ha) | 5:02 |
+| 100 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
 
 Snapshot ID: `ZzdTfAAAAACCMSN1fyjntaFvplLReZ9Z`

@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/0boTtw9H8hyNw1dNs8EqVH"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99262,
+      "name": "Addison",
+      "url": "https://open.spotify.com/track/1IokvoB3TZTb1O7fKy7f2O"
+    },
+    {
+      "album": {
         "name": "Adele",
         "url": "https://open.spotify.com/album/7ID9pP53DPzfpgXA03soZi"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 104615,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DdyQ17UMfabOkbkXrwZpZ"
@@ -10510,7 +10528,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 104594,
       "name": "Buoyant",
       "url": "https://open.spotify.com/track/0qgrapBbyeoDtHhsuWEC0N"
@@ -77356,7 +77374,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 108424,
       "name": "Tiranium",
       "url": "https://open.spotify.com/track/3tEBXW0NhsUPuf4NrVp2pQ"

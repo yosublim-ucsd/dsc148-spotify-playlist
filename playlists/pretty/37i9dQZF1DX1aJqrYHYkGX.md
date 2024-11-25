@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,901 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,017 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 9 | [Mesmeric Quietude](https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4) | [Wes Gold](https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH) | [Mesmeric Quietude](https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9) | 2:29 |
 | 10 | [Vishram \- Yoga Version](https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Yoga Version](https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi) | 2:45 |
 | 11 | [Tranquil](https://open.spotify.com/track/1VmsFLsFl9lrKeIm6Ok1sw) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Tranquil](https://open.spotify.com/album/1q5ZaHcamTvYgXameiiLtR) | 3:26 |
-| 12 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 |
+| 12 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 |
 | 13 | [Pune](https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Pune](https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE) | 2:56 |
 | 14 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 |
 | 15 | [Tonal Calmness](https://open.spotify.com/track/3PDE4uafLyorNaIWTos0MA) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Tonal Calmness](https://open.spotify.com/album/3UIe0Q2nz2FJOPKj01Kiut) | 3:45 |

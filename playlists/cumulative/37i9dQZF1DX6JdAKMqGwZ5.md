@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Barry B.
 
-251 songs - 13 hr 5 min
+252 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [No Puedo Más](https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [No Puedo Más](https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj) | 3:04 | 2024-07-11 | 2024-08-09 |
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2024-06-27 |  |
 | [NO SÉ DE AMOR](https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO SÉ DE AMOR](https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb) | 3:04 | 2024-10-24 |  |
-| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
+| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-11-25 |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-11-07 |  |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-19 | 2024-10-18 |
 | [Nuevo Romántico](https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Contenido Sensible](https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm) | 2:38 | 2024-10-17 |  |
@@ -244,6 +244,7 @@
 | [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 | 2024-08-03 |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2024-06-27 |  |
 | [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 | 2024-10-31 |
+| [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 | 2024-11-22 |  |
 | [Vespa Verde Agua](https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A) | [Vespa Verde Agua](https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz) | 2:46 | 2024-09-19 |  |
 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 | 2024-10-10 |  |
 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 | 2024-11-21 |  |

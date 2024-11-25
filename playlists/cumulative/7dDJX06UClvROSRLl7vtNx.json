@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 176129,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/221YfSBqhocIartpTjwhx0"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 115121,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0ZPzbrko3DYrApzqTpPKnm"
@@ -4900,10 +4900,54 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 138688,
       "name": "High Road",
       "url": "https://open.spotify.com/track/0yDBKfisazexaBGTrdsqNp"
+    },
+    {
+      "album": {
+        "name": "Higher Power (Put It On Me)",
+        "url": "https://open.spotify.com/album/1yudNSSpDDqOooXNdVdHLS"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Higher Power (Put It On Me)",
+      "url": "https://open.spotify.com/track/7xhoyvrN5qvw0IzqVDwR2h"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/27P1sGNefBx0BKdsOMDICy"
+      },
+      "artists": [
+        {
+          "name": "JDM",
+          "url": "https://open.spotify.com/artist/0ypVB4coLY48d4te3lUYoo"
+        },
+        {
+          "name": "Byrinic30",
+          "url": "https://open.spotify.com/artist/7iR8YWVuxCSaka0U2iaa68"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/09Sn4ujUQagRbM9LAMmcJE"
     },
     {
       "album": {
@@ -8173,6 +8217,28 @@
     },
     {
       "album": {
+        "name": "Make This Last",
+        "url": "https://open.spotify.com/album/5dBWzddC9YrLlqRHUXjqXZ"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130731,
+      "name": "Make This Last",
+      "url": "https://open.spotify.com/track/4tmj9VS29WKSq56ONqkjjs"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/0yzzqTBdTGa0aQn3GnMYpB"
       },
@@ -8910,6 +8976,32 @@
       "duration_ms": 138782,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU"
+    },
+    {
+      "album": {
+        "name": "Nice To Meet You",
+        "url": "https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "Feeve",
+          "url": "https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ"
     },
     {
       "album": {

@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Do What Makes You Happy",
+        "url": "https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186969,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6YxZS8ihXa33a757v0cTZ7"
+    },
+    {
+      "album": {
         "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
         "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
       },

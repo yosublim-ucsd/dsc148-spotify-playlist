@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 47779,
+  "num_followers": 47784,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAAAbsiERi62SqBppq47KrnRv",
+  "snapshot_id": "Z0EbAAAAAABPjkhIhlsECk066npvLF6i",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 96053,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 132026,
-      "name": "Back Where I Belong",
-      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
+      "duration_ms": 96053,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
     },
     {
       "added_at": null,

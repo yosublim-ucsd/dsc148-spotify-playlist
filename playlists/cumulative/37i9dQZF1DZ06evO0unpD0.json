@@ -1823,6 +1823,44 @@
     },
     {
       "album": {
+        "name": "Yamore (Remix III)",
+        "url": "https://open.spotify.com/album/2BobkJ1Ut6Aq4mO1mD8dG1"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Yamore - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/1JNNOAHVr3hxuhdZ73hrl8"
+    },
+    {
+      "album": {
         "name": "Yamore (Remix)",
         "url": "https://open.spotify.com/album/37KUHRtoiijZAiHHCLfwDT"
       },

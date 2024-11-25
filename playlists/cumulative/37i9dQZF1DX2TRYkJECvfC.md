@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-558 songs - 1 day 22 hr 55 min
+559 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Palermo](https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Palermo / Fractals](https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM) | 3:15 | 2024-08-02 |  |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2021-12-08 | 2022-07-29 |
 | [Palms](https://open.spotify.com/track/4cWrrjsKvHnKV8uqlUF8kb) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/3LZ2WSfLEVEIy7PRi672MC) | 4:15 | 2022-05-03 | 2024-01-05 |
-| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 |  |
+| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 | 2024-11-25 |
 | [Paradigm](https://open.spotify.com/track/1vY7MXnKBpwmmQfZEyGn2F) | [Arkangel](https://open.spotify.com/artist/4crDJZ41E0jOp0XX5MXJJy) | [Paradigm](https://open.spotify.com/album/3JJYj2V6kyfo3turvi7dEj) | 5:10 | 2024-04-12 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2021-12-08 | 2023-01-06 |
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |
@@ -421,6 +421,7 @@
 | [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-11-24 |  |
 | [Save Us](https://open.spotify.com/track/1jBoW8YIgtkXowgc3RPxnq) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Save Us](https://open.spotify.com/album/2Ias0xFLvCVO6MQd31vzyy) | 5:12 | 2024-08-02 |  |
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
+| [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-08 | 2022-02-22 |
 | [searchingforthelights](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [searchingforthelights](https://open.spotify.com/album/0PHUdMruU2l6acvyz0RvXD) | 3:12 | 2024-10-11 |  |
 | [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 |  |

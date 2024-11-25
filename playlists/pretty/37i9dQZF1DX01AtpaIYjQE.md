@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,402 likes - 58 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,385 likes - 58 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 43 | [土曜日のわたしたちは](https://open.spotify.com/track/0h0VPPZ99UwmOy3gylbrAk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:10 |
 | 44 | [say my nameの片想い](https://open.spotify.com/track/3VCNGorhyDctdlJ6QLYGtI) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:07 |
 | 45 | [GL](https://open.spotify.com/track/6ehNNmlPGa1MlG1RyhT0I8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 3:00 |
-| 46 | [Yobanashi Deseive](https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Maria](https://open.spotify.com/artist/4BaJdxkFoGLQFYOwcg2ik4) | [Mekakucity M's 2 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 3:21 |
+| 46 | [Yobanashi Deseive](https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Maria](https://open.spotify.com/artist/4BaJdxkFoGLQFYOwcg2ik4) | [Mekakucity M's 2 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 3:21 |
 | 47 | [dis/connect](https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:25 |
 | 48 | [ジェットロケット](https://open.spotify.com/track/7qhndu9caI7FUlfmKORIOD) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG) | 4:53 |
 | 49 | [DOCTOR](https://open.spotify.com/track/5UXfC09ZN5Vj1Rm1wckSHh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 3:04 |

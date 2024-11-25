@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Kendall Pe\u00f1a en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79186,
+  "num_followers": 79185,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "BAD INTENCIONES",
+        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "BAD INTENCIONES",
+      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "Complicada",
         "url": "https://open.spotify.com/album/1W4e3zUTAa39vJY19cSv3m"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 273609,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3hbkGcYrz1nlFfPAq0w72i"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "BAD INTENCIONES",
-        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "BAD INTENCIONES",
-      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "Come&Go (funnynoiseclub002)",
         "url": "https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06"
       },
@@ -423,38 +439,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "Ojal\u00e1 Te Vaya Mal",
-        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Ojal\u00e1 Te Vaya Mal",
-      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Me Caga Tu Novia",
         "url": "https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 170124,
       "name": "Me Caga Tu Novia",
       "url": "https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -491,38 +491,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "rimel",
-        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 126066,
-      "name": "rimel",
-      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 139506,
       "name": "Antisocial",
       "url": "https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "rimel",
+        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 126066,
+      "name": "rimel",
+      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -559,6 +543,22 @@
       "duration_ms": 155482,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "EMILIANO",
         "url": "https://open.spotify.com/album/3uFvFpPz0Mr1TcW8fJSOim"
       },
@@ -787,6 +771,42 @@
       "duration_ms": 146250,
       "name": "Cotorreo",
       "url": "https://open.spotify.com/track/7K27fNsluLKHw9ptLS4nTa"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -959,26 +943,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "Noche Estrellada",
-        "url": "https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO"
-      },
-      "artists": [
-        {
-          "name": "Lul\u00fa Bulos",
-          "url": "https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj"
-        },
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 221610,
-      "name": "Noche Estrellada",
-      "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -995,6 +959,42 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "Noche Estrellada",
+        "url": "https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO"
+      },
+      "artists": [
+        {
+          "name": "Lul\u00fa Bulos",
+          "url": "https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj"
+        },
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "Noche Estrellada",
+      "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "Un Largo Viaje",
-        "url": "https://open.spotify.com/album/1YU69lHJMWl1r6pGE6gr7X"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 158510,
-      "name": "Un Largo Viaje",
-      "url": "https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "El Principal",
         "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "Un Largo Viaje",
+        "url": "https://open.spotify.com/album/1YU69lHJMWl1r6pGE6gr7X"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 158510,
+      "name": "Un Largo Viaje",
+      "url": "https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
+        "name": "1 veranito sad",
+        "url": "https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "1 veranito sad",
+      "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
         "name": "Mientras tanto cantar\u00e9",
         "url": "https://open.spotify.com/album/3kYtEbf0M5b5C1ypmgZSvP"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-11-22 06:14:38",
       "album": {
-        "name": "1 veranito sad",
-        "url": "https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "1 veranito sad",
-      "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
         "name": "Tengo Que Hacer Esto Por M\u00ed",
         "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
       },
@@ -1187,6 +1187,42 @@
       "duration_ms": 150347,
       "name": "Tengo Que Hacer Esto Por Mi",
       "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc"
+    },
+    {
+      "added_at": "2024-11-22 06:14:38",
+      "album": {
+        "name": "aunque digas que lo sientes (og)",
+        "url": "https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML"
+      },
+      "artists": [
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "Yakashi X",
+          "url": "https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ"
+        }
+      ],
+      "duration_ms": 115105,
+      "name": "aunque digas que lo sientes (og)",
+      "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
     },
     {
       "added_at": "2024-11-22 06:14:38",
@@ -1223,42 +1259,6 @@
       "duration_ms": 208213,
       "name": "La Humedad",
       "url": "https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "aunque digas que lo sientes (og)",
-        "url": "https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML"
-      },
-      "artists": [
-        {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "Yakashi X",
-          "url": "https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ"
-        }
-      ],
-      "duration_ms": 115105,
-      "name": "aunque digas que lo sientes (og)",
-      "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
-    },
-    {
-      "added_at": "2024-11-22 06:14:38",
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc"
     },
     {
       "added_at": "2024-11-22 06:14:38",

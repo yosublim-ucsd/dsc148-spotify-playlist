@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,367 likes - 165 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,395 likes - 165 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 146 | [everlasting](https://open.spotify.com/track/45te5r880nl86sqoPIfB2X) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [everlasting](https://open.spotify.com/album/6doZlIgO3A1TgWGJVq55Z6) | 2:32 |
 | 147 | [Westcoast](https://open.spotify.com/track/1W3vO8ruXxFBdBBkfXBRTb) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Westcoast](https://open.spotify.com/album/5QOKXie53iPkrIHLUayNUZ) | 2:33 |
 | 148 | [Wall\-E](https://open.spotify.com/track/61KFcsEDfs8Qo8sjxP6C0f) | [Lion Loft](https://open.spotify.com/artist/4hFPba5e1qOarbpIbqwTrj) | [Pyrex](https://open.spotify.com/album/4L6VpDJRIyeEjkk0xECky9) | 3:25 |
-| 149 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 |
+| 149 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 |
 | 150 | [30 30](https://open.spotify.com/track/65sdOSWPi0yNwqTkgR7pJK) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [30 30](https://open.spotify.com/album/2SgXvw9j5YcmyarliH5nct) | 3:10 |
 | 151 | [One Call Away](https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [One Call Away](https://open.spotify.com/album/3BwfSQ7LGLCkCAREkpcsDP) | 2:28 |
 | 152 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 |

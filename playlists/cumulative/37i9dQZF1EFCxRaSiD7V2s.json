@@ -2221,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Avalanche (Deluxe)",
+        "url": "https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302596,
+      "name": "Goldenrod - Generationals Remix",
+      "url": "https://open.spotify.com/track/3IemqtqObJd0wnMQ9V8DCd"
+    },
+    {
+      "album": {
         "name": "Goldenrod (Generationals Remix)",
         "url": "https://open.spotify.com/album/0MVblOECcH4HnwLxvrxzoS"
       },
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 302596,
       "name": "Goldenrod - Generationals Remix",
       "url": "https://open.spotify.com/track/7AZy8qLXCiFNi6dVMQdElQ"
@@ -4929,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Avalanche (Deluxe)",
+        "url": "https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231423,
+      "name": "Someone's Ex",
+      "url": "https://open.spotify.com/track/5R4jixRQStTjUu8cbOpgEY"
+    },
+    {
+      "album": {
         "name": "Someone's Ex",
         "url": "https://open.spotify.com/album/4aqFErwrP7HpJdDTa5I5xh"
       },
@@ -4940,7 +4980,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 231424,
       "name": "Someone's Ex",
       "url": "https://open.spotify.com/track/6ggwRoo9tHtG41UyIVtdtu"

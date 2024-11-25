@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-604 songs - 1 day 7 hr 15 min
+605 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 | 2024-01-19 | 2024-03-01 |
 | [I'm Sorry Mom](https://open.spotify.com/track/2CAeXJD9xcJ11QEDmqiV0F) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [I'm Sorry Mom](https://open.spotify.com/album/7hw4DxnzleEOLXRRVxonDO) | 3:10 | 2022-05-06 | 2022-07-29 |
 | [Ice Box](https://open.spotify.com/track/71aAxHJfjmffbueCChnUSL) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Ice Box](https://open.spotify.com/album/1EhUG1fYA7PfGG6Iao9HZR) | 2:48 | 2022-05-06 | 2022-07-29 |
+| [Ice Cream](https://open.spotify.com/track/0yWR1M14e8S4cw4Ej7dS5T) | [TOESUP](https://open.spotify.com/artist/0WKvu53uG29knR1NuVxRbi), [Che Ree](https://open.spotify.com/artist/0uE1EtHOaikpnTVHqDzR2Q) | [Ice Cream](https://open.spotify.com/album/2PPWYSMXafkEU9Z7wa3UCb) | 3:02 | 2024-11-22 |  |
 | [Ignite](https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [SEUNGRI](https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx) | [Ignite](https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1) | 3:30 | 2022-07-14 | 2023-07-19 |
 | [Ignite](https://open.spotify.com/track/1SYznEzeOiYEduZtqez1mL) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [Hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Ignite](https://open.spotify.com/album/4NuBsIBSNzxpbETG78JjlI) | 2:41 | 2022-05-06 | 2022-07-29 |
 | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/track/0TuMPEUwvdKnLQcnq4RS8L) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/album/3zq4pkMU7nSZ7eXGRstvt0) | 2:46 | 2022-05-06 | 2022-07-29 |
@@ -286,7 +287,7 @@
 | [Invisible](https://open.spotify.com/track/2BgagqJWYfrKPhz3f5V0Sw) | [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR), [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq) | [Invisible](https://open.spotify.com/album/1aFmxF4v2F31uUWcySqV0Y) | 3:21 | 2022-05-06 | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-07-14 | 2023-05-06 |
 | [Irish Waterfall](https://open.spotify.com/track/6cX3NRnRQaA1FNPMkTwEVy) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Fluent](https://open.spotify.com/artist/3dQMtxmIaprzw569eEWUKs) | [Irish Waterfall](https://open.spotify.com/album/3hkNdJT5b4kG7PsliPTVVT) | 4:24 | 2022-05-06 | 2022-07-28 |
-| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-08-16 |  |
+| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-08-16 | 2024-11-25 |
 | [It's My Drug](https://open.spotify.com/track/7qPDkCTydnExGePRTzRun4) | [M3RTGL](https://open.spotify.com/artist/4yPsEpvzzFjk5taRQXwynf), [GROXBE](https://open.spotify.com/artist/5QvqgWIJqUrc9hGVIIBP5e) | [It's My Drug](https://open.spotify.com/album/2aOwreNpAOV8DDgre5jmsm) | 2:57 | 2022-06-24 | 2022-07-04 |
 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 | 2023-09-22 | 2023-09-30 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-10-07 |  |

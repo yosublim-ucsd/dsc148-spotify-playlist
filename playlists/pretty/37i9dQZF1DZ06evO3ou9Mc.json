@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 403042,
+  "num_followers": 403108,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAADRlMMNBo7IE8Jd7kQnItpG",
+  "snapshot_id": "Z0EbAAAAAAAC+ChoqVavEU/wXTbCoNgE",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 168893,
-      "name": "Dammit, I Changed Again",
-      "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 165146,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+      "duration_ms": 168893,
+      "name": "Dammit, I Changed Again",
+      "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
     },
     {
       "added_at": null,

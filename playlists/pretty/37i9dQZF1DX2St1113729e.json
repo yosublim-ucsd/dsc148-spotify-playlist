@@ -119,22 +119,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "I'm So Happy",
-        "url": "https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "I'm So Happy",
-      "url": "https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "BABASONICO",
         "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 106500,
       "name": "BABASONICO",
       "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "I'm So Happy",
+        "url": "https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "I'm So Happy",
+      "url": "https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "10percs",
-        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 126810,
-      "name": "10percs",
-      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Floren",
         "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 198501,
       "name": "Floren",
       "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "10percs",
+        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 126810,
+      "name": "10percs",
+      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -459,26 +459,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Astrozorras 2",
-        "url": "https://open.spotify.com/album/6OVzdAOxEcF9AxZDLA0wUa"
+        "name": "TIGUERON",
+        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
       },
       "artists": [
         {
-          "name": "Slappy Av",
-          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
         },
         {
-          "name": "G.Lesson",
-          "url": "https://open.spotify.com/artist/5iZOu0IjAq1WI8RiaJMsOK"
-        },
-        {
-          "name": "Young Lesson",
-          "url": "https://open.spotify.com/artist/5B8frooErLcElqJxvUPhwa"
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Volver Con Mi Ex",
-      "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
+      "duration_ms": 116000,
+      "name": "TIGUERON",
+      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -503,22 +499,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "LA MANO",
-        "url": "https://open.spotify.com/album/5bCKTho60Tv0HFkXpos0MN"
+        "name": "ADEL^NTOS ^^7^ 24",
+        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
       },
       "artists": [
         {
-          "name": "Bik\u00f4k\u00f4",
-          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         },
         {
-          "name": "Crystal Murray",
-          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+          "name": "1adaaaan",
+          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
         }
       ],
-      "duration_ms": 183750,
-      "name": "LA MANO",
-      "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
+      "duration_ms": 117986,
+      "name": "SOY TU MAM\u00c1",
+      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -543,42 +539,46 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "ADEL^NTOS ^^7^ 24",
-        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
+        "name": "Astrozorras 2",
+        "url": "https://open.spotify.com/album/6OVzdAOxEcF9AxZDLA0wUa"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+          "name": "Slappy Av",
+          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
         },
         {
-          "name": "1adaaaan",
-          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
+          "name": "G.Lesson",
+          "url": "https://open.spotify.com/artist/5iZOu0IjAq1WI8RiaJMsOK"
+        },
+        {
+          "name": "Young Lesson",
+          "url": "https://open.spotify.com/artist/5B8frooErLcElqJxvUPhwa"
         }
       ],
-      "duration_ms": 117986,
-      "name": "SOY TU MAM\u00c1",
-      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
+      "duration_ms": 178536,
+      "name": "Volver Con Mi Ex",
+      "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
     },
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "TIGUERON",
-        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
+        "name": "LA MANO",
+        "url": "https://open.spotify.com/album/5bCKTho60Tv0HFkXpos0MN"
       },
       "artists": [
         {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+          "name": "Bik\u00f4k\u00f4",
+          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
         },
         {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
         }
       ],
-      "duration_ms": 116000,
-      "name": "TIGUERON",
-      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
+      "duration_ms": 183750,
+      "name": "LA MANO",
+      "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -595,6 +595,38 @@
       "duration_ms": 150902,
       "name": "para siempre(\uff61>\ufe4f<)",
       "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "^^7^ 24",
+        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Revel\u00aaciones (M\u00aarcos intro)",
+      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 90270,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -659,22 +691,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "^^7^ 24",
-        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Revel\u00aaciones (M\u00aarcos intro)",
-      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Salud Mental",
         "url": "https://open.spotify.com/album/4n4C9mf3PtE9qEGBawFp1I"
       },
@@ -703,6 +719,26 @@
       "duration_ms": 188903,
       "name": "Lejos del ruido",
       "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -755,22 +791,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 90270,
-      "name": "TUSSI",
-      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "El circo de Carlos",
         "url": "https://open.spotify.com/album/38J29JIGgbrCqDukml8Z1G"
       },
@@ -811,50 +831,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
-      },
-      "artists": [
-        {
-          "name": "Nevo Angel",
-          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
-        },
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 149230,
-      "name": "SUPERBETA",
-      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Manos En La Mesa (Opening)",
         "url": "https://open.spotify.com/album/4RoHRwHDKCqJK0jJcnHXXt"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 166285,
       "name": "\u20b3ngeles",
       "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        },
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 149230,
+      "name": "SUPERBETA",
+      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -931,6 +931,30 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "PADAWVN",
+        "url": "https://open.spotify.com/album/1uK2hPf4xJJJGrGE0KC3As"
+      },
+      "artists": [
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        },
+        {
+          "name": "guayaba",
+          "url": "https://open.spotify.com/artist/0xQdyXL9KWwUlPWlIqGZQO"
+        },
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "duration_ms": 177513,
+      "name": "YONOSOYAS\u00cd",
+      "url": "https://open.spotify.com/track/50zqzpEoENdoS7BvTBR9m2"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -955,26 +979,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "PADAWVN",
-        "url": "https://open.spotify.com/album/1uK2hPf4xJJJGrGE0KC3As"
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
       },
       "artists": [
         {
-          "name": "PADAWVN",
-          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
-        },
-        {
-          "name": "guayaba",
-          "url": "https://open.spotify.com/artist/0xQdyXL9KWwUlPWlIqGZQO"
-        },
-        {
-          "name": "doppel gangs",
-          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
         }
       ],
-      "duration_ms": 177513,
-      "name": "YONOSOYAS\u00cd",
-      "url": "https://open.spotify.com/track/50zqzpEoENdoS7BvTBR9m2"
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+        "name": "Quiero estar solo",
+        "url": "https://open.spotify.com/album/3WMarwEftG8gpMUK0HTlgy"
       },
       "artists": [
         {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+          "name": "NOFEEL",
+          "url": "https://open.spotify.com/artist/0n0Ed4g26prWqvyF0nQApK"
         }
       ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
+      "duration_ms": 138352,
+      "name": "Quiero estar solo",
+      "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 142500,
       "name": "sofocao",
       "url": "https://open.spotify.com/track/6EuzBdcfKZTsX1CILyiqQF"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Quiero estar solo",
-        "url": "https://open.spotify.com/album/3WMarwEftG8gpMUK0HTlgy"
-      },
-      "artists": [
-        {
-          "name": "NOFEEL",
-          "url": "https://open.spotify.com/artist/0n0Ed4g26prWqvyF0nQApK"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Quiero estar solo",
-      "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1227,94 +1227,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "FFANTAS\u00cdAAX2",
-        "url": "https://open.spotify.com/album/5pGOgHSECYJdvvHIPKEPcB"
+        "name": "Indoor",
+        "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
       "artists": [
         {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+          "name": "Di\u00e1cono",
+          "url": "https://open.spotify.com/artist/6tsYWyXqbe8TXwVrj4qKWR"
         },
         {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+          "name": "Tony Cobb",
+          "url": "https://open.spotify.com/artist/1h1ZJo2XR9jcThf9Z1CdOJ"
         }
       ],
-      "duration_ms": 172020,
-      "name": "FFANTAS\u00cdAAX2",
-      "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "OBSESI\u00d3N",
-        "url": "https://open.spotify.com/album/7oTTGkCyu156jFSWIT05Bh"
-      },
-      "artists": [
-        {
-          "name": "Ratchet Racer",
-          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
-        },
-        {
-          "name": "BETWEENLINES",
-          "url": "https://open.spotify.com/artist/5MEv3ijpoLWwsmYksxyzNW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "OBSESI\u00d3N",
-      "url": "https://open.spotify.com/track/4KtI4DjdVhTT2oueVV70Xi"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Blindado",
-        "url": "https://open.spotify.com/album/2jS4f0Mxo8VOkJOhxBhTlr"
-      },
-      "artists": [
-        {
-          "name": "iloveyoubrazzy",
-          "url": "https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Blindado",
-      "url": "https://open.spotify.com/track/0Lh4O9WBaE2sfshCUQh0mU"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "PIENSONTI",
-        "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        },
-        {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "PIENSONTI",
-      "url": "https://open.spotify.com/track/3WdhSire2QD1kosUb2Qepl"
+      "duration_ms": 136634,
+      "name": "Indoor",
+      "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1339,6 +1267,78 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "FFANTAS\u00cdAAX2",
+        "url": "https://open.spotify.com/album/5pGOgHSECYJdvvHIPKEPcB"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "FFANTAS\u00cdAAX2",
+      "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Blindado",
+        "url": "https://open.spotify.com/album/2jS4f0Mxo8VOkJOhxBhTlr"
+      },
+      "artists": [
+        {
+          "name": "iloveyoubrazzy",
+          "url": "https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Blindado",
+      "url": "https://open.spotify.com/track/0Lh4O9WBaE2sfshCUQh0mU"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "OBSESI\u00d3N",
+        "url": "https://open.spotify.com/album/7oTTGkCyu156jFSWIT05Bh"
+      },
+      "artists": [
+        {
+          "name": "Ratchet Racer",
+          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
+        },
+        {
+          "name": "BETWEENLINES",
+          "url": "https://open.spotify.com/artist/5MEv3ijpoLWwsmYksxyzNW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "OBSESI\u00d3N",
+      "url": "https://open.spotify.com/track/4KtI4DjdVhTT2oueVV70Xi"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "I`m Done",
         "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
       },
@@ -1355,6 +1355,26 @@
       "duration_ms": 125649,
       "name": "I`m Done",
       "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "PIENSONTI",
+        "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        },
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "PIENSONTI",
+      "url": "https://open.spotify.com/track/3WdhSire2QD1kosUb2Qepl"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Indoor",
-        "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
-      },
-      "artists": [
-        {
-          "name": "Di\u00e1cono",
-          "url": "https://open.spotify.com/artist/6tsYWyXqbe8TXwVrj4qKWR"
-        },
-        {
-          "name": "Tony Cobb",
-          "url": "https://open.spotify.com/artist/1h1ZJo2XR9jcThf9Z1CdOJ"
-        }
-      ],
-      "duration_ms": 136634,
-      "name": "Indoor",
-      "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "q va",
         "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 106187,
       "name": "q va",
       "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "No Llores",
-        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 178091,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 153750,
       "name": "NIGHTMARE",
       "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
-      },
-      "artists": [
-        {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
-        },
-        {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Rituales",
-      "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Te Hice una Cancion! (Remix)",
         "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 193714,
       "name": "Te Hice una Cancion! - Remix",
       "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
+      },
+      "artists": [
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Rituales",
+      "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
       "artists": [
         {
-          "name": "Alberto BLUE",
-          "url": "https://open.spotify.com/artist/6TgGyBWdmcQrdFEIN8o5KJ"
-        },
-        {
-          "name": "Disson",
-          "url": "https://open.spotify.com/artist/5fWmHn9OoM4xO9sCDFaFFh"
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
         }
       ],
-      "duration_ms": 150769,
-      "name": "OTRA MANERA",
-      "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1667,34 +1663,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
       },
       "artists": [
         {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "mario crush",
-        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
-      },
-      "artists": [
+          "name": "Alberto BLUE",
+          "url": "https://open.spotify.com/artist/6TgGyBWdmcQrdFEIN8o5KJ"
+        },
         {
-          "name": "resaca emocional",
-          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
+          "name": "Disson",
+          "url": "https://open.spotify.com/artist/5fWmHn9OoM4xO9sCDFaFFh"
         }
       ],
-      "duration_ms": 187086,
-      "name": "mario crush",
-      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
+      "duration_ms": 150769,
+      "name": "OTRA MANERA",
+      "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1715,6 +1699,38 @@
       "duration_ms": 150000,
       "name": "LYL",
       "url": "https://open.spotify.com/track/1u2xllM9lxeHhRAetkNlcn"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Hard Cor",
+        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
+      },
+      "artists": [
+        {
+          "name": "Anna Ralb",
+          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
+        }
+      ],
+      "duration_ms": 150856,
+      "name": "bcn love y hate",
+      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "mario crush",
+        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
+      },
+      "artists": [
+        {
+          "name": "resaca emocional",
+          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "mario crush",
+      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1771,42 +1787,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/763dSAPuxFSCCskbyPkym1"
-      },
-      "artists": [
-        {
-          "name": "Aguh",
-          "url": "https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8"
-        },
-        {
-          "name": "Leirosee",
-          "url": "https://open.spotify.com/artist/0Vlphxx9US07CsfgR3dTK9"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Hard Cor",
-        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
-      },
-      "artists": [
-        {
-          "name": "Anna Ralb",
-          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
-        }
-      ],
-      "duration_ms": 150856,
-      "name": "bcn love y hate",
-      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "AnKur",
         "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
       },
@@ -1839,6 +1819,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/763dSAPuxFSCCskbyPkym1"
+      },
+      "artists": [
+        {
+          "name": "Aguh",
+          "url": "https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8"
+        },
+        {
+          "name": "Leirosee",
+          "url": "https://open.spotify.com/artist/0Vlphxx9US07CsfgR3dTK9"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 179166,
       "name": "Cansao de to",
       "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Peke\u00f1o",
+        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
+        }
+      ],
+      "duration_ms": 138677,
+      "name": "Secret0-0",
+      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1907,26 +1923,6 @@
       "duration_ms": 148000,
       "name": "<3",
       "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Vivir De M\u00e1s",
-        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
-      },
-      "artists": [
-        {
-          "name": "Mydros",
-          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
-        },
-        {
-          "name": "G3D3R",
-          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Vivir De M\u00e1s",
-      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
     }
   ],
   "unique_name": "helium",

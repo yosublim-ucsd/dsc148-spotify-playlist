@@ -81,7 +81,7 @@
 | [Unfolding Light 963 Hz](https://open.spotify.com/track/06NWigNtwotY9EsIuBoNl9) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Unfolding Light 963 Hz](https://open.spotify.com/album/5o2R2PpEs5WfNRaipVWSHJ) | 2:54 | 2024-05-11 |  |
 | [Unrushed](https://open.spotify.com/track/4W6T0dEvuRxi9FE5SrqVwI) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 3:17 | 2023-07-13 |  |
 | [Vast and Blue](https://open.spotify.com/track/4vPn1w8F2RVZWL1RJW7nu4) | [Gloaming Days](https://open.spotify.com/artist/5ZiQ5zqmQTnqqWqbHRBm2W) | [Vast and Blue](https://open.spotify.com/album/6dZY0ClK1TwoV7ISsnepfk) | 2:21 | 2023-07-13 |  |
-| [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 | 2023-07-13 |  |
+| [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 | 2023-07-13 |  |
 | [We're All Miracles 963 Hz](https://open.spotify.com/track/2MtRwOaDYfRHJY9np3t2Wc) | [Tide Machine](https://open.spotify.com/artist/1dwB5V858hnmHhR9tCIor2) | [We're All Miracles 963 Hz](https://open.spotify.com/album/41t5CmcZcW738Ng7euE8sF) | 2:33 | 2023-11-30 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

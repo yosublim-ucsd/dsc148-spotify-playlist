@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-418 songs - 1 day 3 hr 17 min
+419 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Things New \- Reimagined](https://open.spotify.com/track/7qrTWsRVx2ePwTpgZwnPbH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [All Things New \(Reimagined\)](https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX) | 4:49 | 2021-12-24 |  |
 | [All You Are](https://open.spotify.com/track/0BkZ5pna6FsPROtvBUUwUc) | [The Kramers](https://open.spotify.com/artist/4YQIgHKADGuqRbq7NvSQiV) | [All You Are](https://open.spotify.com/album/7ew7mqpVYNTN9ncPENf8vc) | 4:25 | 2021-12-24 | 2022-07-29 |
 | [Anchor of Our Hearts](https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Here With Us](https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH) | 4:25 | 2021-12-24 |  |
-| [Angels](https://open.spotify.com/track/0d0wBhnr1S59sv4tYYYQtP) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Angels](https://open.spotify.com/album/1vtLtqeCvCkRSCXjnxuUHq) | 3:18 | 2021-12-24 |  |
+| [Angels](https://open.spotify.com/track/0d0wBhnr1S59sv4tYYYQtP) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Angels](https://open.spotify.com/album/1vtLtqeCvCkRSCXjnxuUHq) | 3:18 | 2021-12-24 | 2024-11-25 |
 | [Angels \(Glory To God\)](https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u) | 3:43 | 2024-09-12 |  |
 | [Angels From the Realms of Glory](https://open.spotify.com/track/5ANHrVp2TiBxAcvasVBuBo) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Christmas \- The Greatest Story](https://open.spotify.com/album/2EwGLwaMzXBTH2j7rl12Ow) | 2:53 | 2021-12-24 | 2022-12-06 |
 | [Angels We Have Heard \(Glory Be\)](https://open.spotify.com/track/4LM76b7TackkkRLSRJs7DW) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Angels We Have Heard \(Glory Be\)](https://open.spotify.com/album/27NMKibjqADlJiUEQKBH25) | 3:52 | 2021-12-11 | 2024-08-01 |
@@ -35,6 +35,7 @@
 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 | 2022-11-26 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3DuIxCNLv9H0lZX9TNGhbX) | [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Auld Lang Syne](https://open.spotify.com/album/45mEBa1g8I8rsOO2wgk9y2) | 4:20 | 2021-12-24 | 2022-07-27 |
 | [Ave \(King of Kings\)](https://open.spotify.com/track/6hIvMQCt2bebDdycbZuQtc) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/26hBnMAG5XC03FjZ3esooG) | 4:24 | 2023-11-17 |  |
+| [Away In A Manger](https://open.spotify.com/track/4KaeuZrZE9mk2fyAUuhUBU) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Away In A Manger](https://open.spotify.com/album/3Y3681sbw2hCiPsVAXLw07) | 2:29 | 2024-11-23 |  |
 | [Away in a Manger](https://open.spotify.com/track/2UN1AXWKmalDgTawYPoIOK) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Praise Sah'Laana](https://open.spotify.com/album/0tRBCHj38VbZWCEbI3wTDw) | 2:59 | 2024-11-17 |  |
 | [Away In a Manger](https://open.spotify.com/track/1lXmhrsTDe9QT7G5QYEnLr) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 3:35 | 2021-12-11 | 2023-12-16 |
 | [Away In a Manger](https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Comfort and Joy](https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9) | 3:20 | 2021-12-24 |  |

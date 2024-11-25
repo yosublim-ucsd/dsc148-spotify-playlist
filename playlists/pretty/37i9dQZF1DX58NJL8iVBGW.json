@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 782723,
+  "num_followers": 782814,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+      "duration_ms": 567906,
+      "name": "Thoroughfare",
+      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 567906,
-      "name": "Thoroughfare",
-      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "Hy-Brasil",
-      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 335586,
+      "name": "Hy-Brasil",
+      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 213590,
-      "name": "You Don't Fool Me",
-      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Sorrow Bound",
         "url": "https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 124706,
       "name": "Sun to Sun",
       "url": "https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 213590,
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Stumbler's Business",
-        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
-      },
-      "artists": [
-        {
-          "name": "Kendl Winter",
-          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "The River's Will",
-      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "What Does It Matter Now?",
         "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 275720,
       "name": "What Does It Matter Now?",
       "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Stumbler's Business",
+        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
+      },
+      "artists": [
+        {
+          "name": "Kendl Winter",
+          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "The River's Will",
+      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Let Love In",
+        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
       },
@@ -1355,18 +1371,34 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Let Love In",
-        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
         }
       ],
-      "duration_ms": 370573,
-      "name": "Red Right Hand",
-      "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Common Faults",
+        "url": "https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1387,18 +1419,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Singing Bones",
-        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg"
       },
       "artists": [
         {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+          "name": "The Eagle Rock Gospel Singers",
+          "url": "https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Far From Any Road",
-      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
+      "duration_ms": 199278,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1471,18 +1503,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "At Night",
-        "url": "https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg"
+        "name": "Fantastic Negrito - EP",
+        "url": "https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk"
       },
       "artists": [
         {
-          "name": "The Eagle Rock Gospel Singers",
-          "url": "https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 199278,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk"
+      "duration_ms": 244110,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1535,22 +1567,6 @@
       "duration_ms": 225760,
       "name": "Beat The Devil's Tattoo",
       "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Common Faults",
-        "url": "https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3"
-      },
-      "artists": [
-        {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1619,22 +1635,6 @@
       "duration_ms": 175320,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/0mWh2QcnFNYzBpRVitQIrk"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Heaven Depends",
-        "url": "https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5"
-      },
-      "artists": [
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 245070,
-      "name": "Ireland",
-      "url": "https://open.spotify.com/track/2RSenaqtDSbjwLWkVdngHW"
     }
   ],
   "unique_name": "Southern Gothic",

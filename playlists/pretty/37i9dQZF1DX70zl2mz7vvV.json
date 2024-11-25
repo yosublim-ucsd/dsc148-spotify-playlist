@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 57632,
+  "num_followers": 57648,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "A Moment In Time",
         "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 178840,
       "name": "So Special",
       "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "One Man Against The World",
-        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
-      },
-      "artists": [
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Two Sevens Clash (40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6"
       },
@@ -591,6 +575,38 @@
       "duration_ms": 209186,
       "name": "Two Sevens Clash",
       "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -663,22 +679,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Mr. Budy Bye",
-        "url": "https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw"
-      },
-      "artists": [
-        {
-          "name": "Johnny Osbourne",
-          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Budy Bye",
-      "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Jah Love",
         "url": "https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 241333,
       "name": "Put Down The Weapon (feat. Capleton)",
       "url": "https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Mr. Budy Bye",
+        "url": "https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Budy Bye",
+      "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
+        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
+      },
+      "artists": [
+        {
+          "name": "Super Beagle",
+          "url": "https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Dust A Sound Boy",
+      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -783,22 +799,6 @@
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
-        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
-      },
-      "artists": [
-        {
-          "name": "Super Beagle",
-          "url": "https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Dust A Sound Boy",
-      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
     },
     {
       "added_at": "2020-10-19 09:02:25",

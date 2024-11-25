@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 118961,
+  "num_followers": 119010,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
       },
       "artists": [
         {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -331,6 +347,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "El Rey del Norte",
         "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
@@ -347,34 +379,18 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
       "artists": [
         {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+      "duration_ms": 203253,
+      "name": "Que Loco Amor",
+      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -411,22 +427,6 @@
       "duration_ms": 189733,
       "name": "En Un Solo Dia",
       "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Que Loco Amor",
-      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "T\u00e1cito",
         "url": "https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "I Will Be: Like Big Stars!",
-        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
-      },
-      "artists": [
-        {
-          "name": "Chapa C",
-          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "No Llores por M\u00ed",
-      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Canciones Rotas",
         "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 169928,
       "name": "La Semilla",
       "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "I Will Be: Like Big Stars!",
+        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
+      },
+      "artists": [
+        {
+          "name": "Chapa C",
+          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "No Llores por M\u00ed",
+      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -791,6 +791,34 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+        }
+      ],
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Es Mi Culpa",
         "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
@@ -819,34 +847,6 @@
       "duration_ms": 245720,
       "name": "Que Divague",
       "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2024-06-13 21:06:26",

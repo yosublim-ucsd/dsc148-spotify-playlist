@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,032 likes - 150 songs - 8 hr 25 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,033 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 16 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 |
 | 17 | [I Don't Want U](https://open.spotify.com/track/0riaqupdgVCf58PyhOoh26) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [I Don't Want U](https://open.spotify.com/album/1APiHnDcdonUwy6mtfUpeO) | 2:59 |
 | 18 | [Echo](https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Echo](https://open.spotify.com/album/0NO9y6VJiLnDYZJiYwvh5L) | 2:55 |
-| 19 | [Superhuman](https://open.spotify.com/track/5cW6kaOqjfMLZTJ76KVqcN) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Wisner](https://open.spotify.com/artist/3f9LQiU8YQ1zZTM40CaNCc) | [Superhuman](https://open.spotify.com/album/7Ifsnp06kbvNxqSA1vtrQ9) | 3:54 |
+| 19 | [Superhuman](https://open.spotify.com/track/5cW6kaOqjfMLZTJ76KVqcN) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [WISNER](https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L) | [Superhuman](https://open.spotify.com/album/7Ifsnp06kbvNxqSA1vtrQ9) | 3:54 |
 | 20 | [Until Dawn](https://open.spotify.com/track/5ni1ABhErtF3yXqXyntNlV) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Until Dawn](https://open.spotify.com/album/7178AFp3L4IP4oEmzODr2k) | 3:19 |
 | 21 | [Bulletin](https://open.spotify.com/track/1V3V46W111MdP63ziN4kwE) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Bulletin](https://open.spotify.com/album/4e3Cw6nhupd8kKl6IRnNLA) | 3:53 |
 | 22 | [World on Fire](https://open.spotify.com/track/47pIAb5BLYGWDEr9YjShED) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [World on Fire](https://open.spotify.com/album/4HgOamSb7rU4gf95jLtJgs) | 3:26 |

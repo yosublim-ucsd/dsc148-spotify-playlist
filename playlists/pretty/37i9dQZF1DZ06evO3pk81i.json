@@ -1,13 +1,37 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6591,
+  "num_followers": 6597,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAAD2EKOjBMNMnpe3fAPXgogv",
+  "snapshot_id": "Z0EbAAAAAACy8U3UXHrVrAv+YinzXogE",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
+    },
     {
       "added_at": null,
       "album": {
@@ -115,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Acordar\u00e1s De M\u00ed",
         "url": "https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An"
       },
@@ -151,6 +155,26 @@
       "duration_ms": 156038,
       "name": "Te Acordar\u00e1s De M\u00ed",
       "url": "https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
     },
     {
       "added_at": null,
@@ -691,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Ronda",
-        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
+        "name": "Capuchino",
+        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
       },
       "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Otra Ronda",
-      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
+      "duration_ms": 204799,
+      "name": "Capuchino",
+      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
     },
     {
       "added_at": null,
@@ -727,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra Ronda",
+        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 225462,
+      "name": "Otra Ronda",
+      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -743,22 +783,6 @@
       "duration_ms": 260000,
       "name": "Ni\u00f1a Buena",
       "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capuchino",
-        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 204799,
-      "name": "Capuchino",
-      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
     },
     {
       "added_at": null,
@@ -895,22 +919,6 @@
       "duration_ms": 142880,
       "name": "Ferragamo",
       "url": "https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

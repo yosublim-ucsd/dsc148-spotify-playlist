@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439786,
+      "name": "Como En El Cielo",
+      "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
+    },
+    {
+      "album": {
         "name": "Como En El Cielo (feat. Marcos Brunet)",
         "url": "https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn"
       },
@@ -234,7 +256,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 439810,
       "name": "Como En El Cielo (feat. Marcos Brunet)",
       "url": "https://open.spotify.com/track/3ysJ1hNyG3eAy3IdPVFd4R"
@@ -360,6 +382,24 @@
     {
       "album": {
         "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376840,
+      "name": "Cuanto M\u00e1s Me Rindo",
+      "url": "https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
       "artists": [
@@ -370,7 +410,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 376840,
       "name": "Cuanto M\u00e1s Me Rindo",
       "url": "https://open.spotify.com/track/2YkJvapduvbtgS0oc4MwUu"
@@ -392,6 +432,28 @@
       "duration_ms": 97735,
       "name": "Cu\u00e1n Grande Es \u00c9l",
       "url": "https://open.spotify.com/track/22iiCha6DBYzDBpRE3VBRS"
+    },
+    {
+      "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "album": {
@@ -556,7 +618,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 349186,
       "name": "Encuentro Glorioso",
       "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
@@ -582,6 +644,28 @@
     {
       "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi",
+      "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
+    },
+    {
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
       "artists": [
@@ -596,7 +680,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 280886,
       "name": "Eres Todo Para Mi (feat. Alex Campos))",
       "url": "https://open.spotify.com/track/3vAnKEiuCiAMhrCTHrVB28"
@@ -837,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Me Decid\u00ed por Ti",
+      "url": "https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg"
+    },
+    {
+      "album": {
         "name": "Somos Uno",
         "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
       },
@@ -874,6 +976,24 @@
     {
       "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
+    },
+    {
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
       "artists": [
@@ -884,7 +1004,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 208770,
       "name": "Mientras Viva",
       "url": "https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0"
@@ -902,10 +1022,32 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 388860,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG"
+    },
+    {
+      "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352706,
+      "name": "M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/72W9xuz77twKpF55BXwMJk"
     },
     {
       "album": {
@@ -1052,7 +1194,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 358459,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/0sLDtkjsVFrP4qntssprMh"
@@ -1160,7 +1302,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 314493,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E"
@@ -1280,6 +1422,28 @@
     {
       "album": {
         "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
       "artists": [
@@ -1294,7 +1458,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 612165,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"

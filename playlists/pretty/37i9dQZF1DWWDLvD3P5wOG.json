@@ -1,6 +1,6 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 679968,
+  "num_followers": 680128,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Art And Life",
-        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "Girls Dem Sugar",
-      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Give It All To Me",
         "url": "https://open.spotify.com/album/4sHrUYhZdfAdGM0s628Isq"
       },
@@ -407,6 +387,42 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Art And Life",
+        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Girls Dem Sugar",
+      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Throat - Single",
         "url": "https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5"
       },
@@ -419,26 +435,6 @@
       "duration_ms": 172174,
       "name": "Throat",
       "url": "https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Best Of (collector's Edition)",
-        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Chevelle Franklyn",
-          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Dancehall Queen (feat. Chevelle Franklyn)",
-      "url": "https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -471,22 +467,6 @@
       "duration_ms": 214533,
       "name": "Nah Let Go",
       "url": "https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Mr. Brooks...A Better Tomorrow",
-        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -575,6 +555,26 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Best Of (collector's Edition)",
+        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Dancehall Queen (feat. Chevelle Franklyn)",
+      "url": "https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Strictly The Best Vol 33",
         "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Pon Di Gaza 2.0",
-        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Gal a Weh Do You",
-      "url": "https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/2jM1fMmu0314gtf5yM8ugY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/13YwTYF5hUBz9VKuxL4QA5"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Pon Di Gaza 2.0",
+        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Gal a Weh Do You",
+      "url": "https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -687,22 +687,6 @@
       "duration_ms": 287786,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3uz5tvXgo73lxn0mtYGP2h"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Ragga Ragga Ragga 2011 (Explicit Version)",
-        "url": "https://open.spotify.com/album/1U5D9QrLf64GVzkEL5nEUz"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Benz Punany",
-      "url": "https://open.spotify.com/track/3zhbuPvV9RpW3RiV1s8nsb"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Ragga Ragga Ragga 2011 (Explicit Version)",
+        "url": "https://open.spotify.com/album/1U5D9QrLf64GVzkEL5nEUz"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Benz Punany",
+      "url": "https://open.spotify.com/track/3zhbuPvV9RpW3RiV1s8nsb"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Riddim Driven: Gully Slime",
         "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Bruck It Down - Single",
+        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 171003,
+      "name": "Bruck It Down",
+      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Best Of (collector's Edition)",
         "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
       },
@@ -887,38 +903,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Bruck It Down - Single",
-        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 171003,
-      "name": "Bruck It Down",
-      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Stukie - EP",
         "url": "https://open.spotify.com/album/54FJbfg7KSQCJAMkFPHUXn"
       },
@@ -931,6 +915,38 @@
       "duration_ms": 157400,
       "name": "Stukie",
       "url": "https://open.spotify.com/track/2G55si1hdJpWe9XgaeRV25"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Wine Pon Di Edge",
+      "url": "https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Wine Pon Di Edge",
-      "url": "https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Wine and Jiggle",
         "url": "https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Dutty Wine",
         "url": "https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 183533,
       "name": "Dutty Wine",
       "url": "https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "The Biggest Ragga Dancehall Anthems 2006",
+        "url": "https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "Hot Fuk / Hot Wuk",
+      "url": "https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim",
         "url": "https://open.spotify.com/album/09pax8uRRPpG0LpMI9HaSr"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 176587,
       "name": "One Man Raw (feat. Vybz Kartel)",
       "url": "https://open.spotify.com/track/7Kh8RtMvZrGrkjM7TXYnBi"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1195,22 +1195,6 @@
       "duration_ms": 150279,
       "name": "Pull Up to Mi Bumper",
       "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "The Biggest Ragga Dancehall Anthems 2006",
-        "url": "https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "Hot Fuk / Hot Wuk",
-      "url": "https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Settle Down (Destiny)",
         "url": "https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Reggae Gold 2003",
-        "url": "https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "IT (Incomparable Talent)",
         "url": "https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 186265,
       "name": "Dye Dye (Raw)",
       "url": "https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Reggae Gold 2003",
+        "url": "https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD"
     },
     {
       "added_at": "2024-08-05 20:38:42",

@@ -815,24 +815,6 @@
     },
     {
       "album": {
-        "name": "Bla\u030aregn",
-        "url": "https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "date_added": "2023-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160000,
-      "name": "Bla\u030aregn",
-      "url": "https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz"
-    },
-    {
-      "album": {
         "name": "Lupi",
         "url": "https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68"
       },
@@ -848,6 +830,24 @@
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
+    },
+    {
+      "album": {
+        "name": "Bl\u00e5regn",
+        "url": "https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bl\u00e5regn",
+      "url": "https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz"
     },
     {
       "album": {

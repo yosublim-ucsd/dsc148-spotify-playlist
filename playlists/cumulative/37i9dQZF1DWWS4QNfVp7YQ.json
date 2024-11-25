@@ -242,7 +242,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229240,
-      "name": "Beso Al Aire (feat. Ame\u0301rica Sierra & Smoky)",
+      "name": "Beso Al Aire (feat. Am\u00e9rica Sierra & Smoky)",
       "url": "https://open.spotify.com/track/44Tu2rpOsIlu69qrRZaahl"
     },
     {
@@ -740,6 +740,28 @@
       "duration_ms": 180280,
       "name": "L0JI",
       "url": "https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI"
+    },
+    {
+      "album": {
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI"
     },
     {
       "album": {
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 170149,
       "name": "Trippyal",
       "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"

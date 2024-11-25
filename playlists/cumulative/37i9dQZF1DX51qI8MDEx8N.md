@@ -21,7 +21,6 @@
 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 | 2022-04-28 |  |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-04-28 | 2022-07-21 |
 | [Avignon](https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Avignon](https://open.spotify.com/album/3McxyA2RxYVWvjDOBMrM9a) | 2:30 | 2024-07-26 |  |
-| [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-28 |  |
 | [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 | 2024-08-13 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-28 | 2022-07-21 |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2022-04-28 |  |
@@ -197,5 +196,6 @@
 | [You Always Know](https://open.spotify.com/track/2UplxXCt0101pQTIQNqTFt) | [Cora Rowland](https://open.spotify.com/artist/3kkMltkZDtkuQKcv6F08LT) | [You Always Know](https://open.spotify.com/album/65qqGdavJdfswruyu8x9NO) | 2:48 | 2022-04-28 |  |
 | [You This Year](https://open.spotify.com/track/6ShwNJzALpViUaWO0N1K0I) | [Anna Angelina](https://open.spotify.com/artist/19MgpkvAqYd9cAdIxQIFbn) | [You This Year](https://open.spotify.com/album/7s6hLAOYPwaTfZJXnlxO8S) | 2:50 | 2022-04-28 |  |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2022-04-28 |  |
+| [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-28 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

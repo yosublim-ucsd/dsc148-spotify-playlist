@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DJ Carpenter, Kasbo & Izza Gara
 
-892 songs - 2 day 1 hr 19 min
+893 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Fun \(I Just Want\)](https://open.spotify.com/track/3AxT9OeBPzHQHNTZDotZ4A) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Fun \(I Just Want\)](https://open.spotify.com/album/4PckjAkkKAkVmT8f0LkrTk) | 2:59 | 2024-09-26 | 2024-10-11 |
 | [game point](https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ) | [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [game point](https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ) | 3:15 | 2021-08-06 | 2023-05-13 |
 | [GarraGarra](https://open.spotify.com/track/1yE1gkhMwOERD571EKUYcn) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [GarraGarra](https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi) | 3:17 | 2024-11-15 |  |
+| [GEMINI](https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [GEMINI](https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi) | 3:48 | 2024-11-21 |  |
 | [Get Closer](https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT) | [Sem](https://open.spotify.com/artist/3MNRl7HX8LItpUynecii15), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Get Closer](https://open.spotify.com/album/4I3MgTn8Qods1j0HpYeqPa) | 3:08 | 2021-08-06 | 2022-04-19 |
 | [Get Lost](https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7) | 3:32 | 2024-11-07 |  |
 | [get my way](https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [iloveitwhentheyrun](https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo) | 3:08 | 2024-06-13 | 2024-07-27 |
@@ -754,7 +755,7 @@
 | [Sunrise](https://open.spotify.com/track/6YiN3NPoIN35zCRJ17C7v0) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K) | [Sunrise](https://open.spotify.com/album/6vVcYDuLnPxT7OfXK4Xa2l) | 2:59 | 2022-03-18 | 2022-04-20 |
 | [Sunsets With You](https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sunsets With You](https://open.spotify.com/album/6a3OAugRshmqyRyDZ6FVgP) | 3:48 | 2021-08-06 | 2023-03-04 |
 | [Supercharged](https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Supercharged](https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2) | 2:19 | 2023-03-10 | 2023-09-16 |
-| [Supercharger](https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [1996Montana](https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD) | [The Sun Comes Up](https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO) | 2:51 | 2024-09-19 |  |
+| [Supercharger](https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [1996Montana](https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD) | [The Sun Comes Up](https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO) | 2:51 | 2024-09-19 | 2024-11-25 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2021-08-06 |  |
 | [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 | 2024-11-15 |  |
 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 | 2023-12-08 | 2024-09-13 |

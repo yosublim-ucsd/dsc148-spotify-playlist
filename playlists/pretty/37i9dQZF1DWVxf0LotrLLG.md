@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,957 likes - 624 songs - 1 day 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,980 likes - 624 songs - 1 day 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

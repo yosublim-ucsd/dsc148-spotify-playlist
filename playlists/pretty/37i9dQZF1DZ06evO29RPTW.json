@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 125343,
+  "num_followers": 125363,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAADuhQj5lL0PAIvqfNUpoL+f",
+  "snapshot_id": "Z0EbAAAAAAC4xcORbA6Ds/eE+Vt6+8Yp",
   "tracks": [
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween Hootenanny",
-        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
+        "name": "The Matrix Reloaded: The Album",
+        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         },
         {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+          "name": "Charlie Clouser",
+          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Halloween (She's So Mean)",
-      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
+      "duration_ms": 265160,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Matrix Reloaded: The Album",
-        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
+        "name": "Halloween Hootenanny",
+        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
       "artists": [
         {
@@ -784,13 +784,13 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         },
         {
-          "name": "Charlie Clouser",
-          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
+      "duration_ms": 170066,
+      "name": "Halloween (She's So Mean)",
+      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
     },
     {
       "added_at": null,

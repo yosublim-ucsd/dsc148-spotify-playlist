@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Abbot",
-  "num_followers": 132733,
+  "num_followers": 132754,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,30 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "RANDANDAN",
+      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -503,26 +527,38 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "Para Todas do Job",
+        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
         }
       ],
-      "duration_ms": 160000,
-      "name": "RANDANDAN",
-      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+      "duration_ms": 255157,
+      "name": "Seu Job",
+      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "added_at": "2024-11-22 13:37:18",
@@ -559,42 +595,6 @@
       "duration_ms": 228571,
       "name": "MAL INTENCIONADA (J\u00c1 FOI, J\u00c1 ERA)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
-        "name": "Para Todas do Job",
-        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        }
-      ],
-      "duration_ms": 255157,
-      "name": "Seu Job",
-      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "added_at": "2024-11-22 13:37:18",
@@ -647,6 +647,30 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 150000,
       "name": "PABLO",
       "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "added_at": "2024-11-22 13:37:18",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 151797,
-      "name": "Macetinho Lento - B\u00f4nus",
-      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
         "name": "Outra Hora",
         "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 197333,
       "name": "Outra Hora",
       "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 151797,
+      "name": "Macetinho Lento - B\u00f4nus",
+      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
     },
     {
       "added_at": "2024-11-22 13:37:18",
@@ -971,34 +971,6 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
-        "name": "MUITA LUTA MIXTAPE",
-        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        },
-        {
-          "name": "SHAK",
-          "url": "https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL"
-        },
-        {
-          "name": "VCR Slim",
-          "url": "https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "BrusaDaNike e GShock",
-      "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
         "name": "ESSA PORR@ \u00c9 A MATILHA",
         "url": "https://open.spotify.com/album/0fUOXEzOn0Yhhsmo9xxqUq"
       },
@@ -1039,6 +1011,34 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
+        "name": "MUITA LUTA MIXTAPE",
+        "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "SHAK",
+          "url": "https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL"
+        },
+        {
+          "name": "VCR Slim",
+          "url": "https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "BrusaDaNike e GShock",
+      "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
         "name": "Caninana",
         "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
       },
@@ -1075,30 +1075,6 @@
       "duration_ms": 158400,
       "name": "Sorento",
       "url": "https://open.spotify.com/track/2rOqtBzFO9jNj9PH7NV7U6"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
-        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Real Bege",
-          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
-        }
-      ],
-      "duration_ms": 121540,
-      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
-      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
     },
     {
       "added_at": "2024-11-22 13:37:18",
@@ -1163,6 +1139,30 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "duration_ms": 121540,
+      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
+      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
         "name": "Hennessy",
         "url": "https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-22 13:37:18",
       "album": {
-        "name": "Jovem Negro",
-        "url": "https://open.spotify.com/album/2cSvynWbRrTEa0kHtYA2J9"
-      },
-      "artists": [
-        {
-          "name": "Kroos",
-          "url": "https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "Jovem Negro",
-      "url": "https://open.spotify.com/track/0IAHL2PfkRD8wweJsYG9RN"
-    },
-    {
-      "added_at": "2024-11-22 13:37:18",
-      "album": {
         "name": "Amor de folclore",
         "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 150897,
       "name": "Amor de folclore",
       "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
+    },
+    {
+      "added_at": "2024-11-22 13:37:18",
+      "album": {
+        "name": "Jovem Negro",
+        "url": "https://open.spotify.com/album/2cSvynWbRrTEa0kHtYA2J9"
+      },
+      "artists": [
+        {
+          "name": "Kroos",
+          "url": "https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Jovem Negro",
+      "url": "https://open.spotify.com/track/0IAHL2PfkRD8wweJsYG9RN"
     },
     {
       "added_at": "2024-11-22 13:37:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: eńau
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,339 likes - 112 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,361 likes - 112 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

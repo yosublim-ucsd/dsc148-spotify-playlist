@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 161693,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
@@ -266,6 +266,36 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
+    },
+    {
+      "album": {
+        "name": "SOUL VISION",
+        "url": "https://open.spotify.com/album/1BWLKNP3j1XqLv4avK874f"
+      },
+      "artists": [
+        {
+          "name": "Nneka",
+          "url": "https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Frank Fitzpatrick",
+          "url": "https://open.spotify.com/artist/6xnvYc9KEUaCsJQhX5oiJz"
+        },
+        {
+          "name": "Eeday",
+          "url": "https://open.spotify.com/artist/0VHM0UdeTigh5S74sgtNoB"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254745,
+      "name": "Express Yourself (Amplified Mix)",
+      "url": "https://open.spotify.com/track/5onx5emgJUwxgJ9Osoywzq"
     },
     {
       "album": {

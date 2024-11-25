@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 7644,
+  "num_followers": 7656,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -175,18 +159,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 307173,
-      "name": "Meda Wase",
-      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -203,38 +187,6 @@
       "duration_ms": 377280,
       "name": "Awanwan Do",
       "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Philipa Baafi",
-          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -267,6 +219,38 @@
       "duration_ms": 302628,
       "name": "Me Da Wase",
       "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Philipa Baafi",
+          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Meda Wase",
+      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -315,6 +299,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 442409,
-      "name": "Akristofoo Adooso",
-      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -379,6 +363,58 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 442409,
+      "name": "Akristofoo Adooso",
+      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "I Am Noble",
+        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        },
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 244297,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
       },
@@ -411,22 +447,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Am Noble",
-        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
-        },
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 244297,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+      "duration_ms": 301400,
+      "name": "Aseda Nwom",
+      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -443,38 +475,6 @@
       "duration_ms": 374230,
       "name": "Obi Nyanime",
       "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "Aseda Nwom",
-      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -507,6 +507,22 @@
       "duration_ms": 354150,
       "name": "Hymm",
       "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Asomdwoe Hene",
+        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 312058,
+      "name": "Twediampong Nyame",
+      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Yehowa Ne Mabankese",
-        "url": "https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx"
-      },
-      "artists": [
-        {
-          "name": "Rev. Mensah Bonsu",
-          "url": "https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0"
-        }
-      ],
-      "duration_ms": 383120,
-      "name": "Asem kese bi reba",
-      "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Asomdwoe Hene",
-        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+        "name": "Moving Forward",
+        "url": "https://open.spotify.com/album/7diObPzwppZEKJjTNrGlHr"
       },
       "artists": [
         {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 312058,
-      "name": "Twediampong Nyame",
-      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
+      "duration_ms": 306026,
+      "name": "Moving Forward",
+      "url": "https://open.spotify.com/track/4qVOF4NQeIxRCWGfHxCPwT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Moving Forward",
-        "url": "https://open.spotify.com/album/7diObPzwppZEKJjTNrGlHr"
+        "name": "Yehowa Ne Mabankese",
+        "url": "https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Rev. Mensah Bonsu",
+          "url": "https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0"
         }
       ],
-      "duration_ms": 306026,
-      "name": "Moving Forward",
-      "url": "https://open.spotify.com/track/4qVOF4NQeIxRCWGfHxCPwT"
+      "duration_ms": 383120,
+      "name": "Asem kese bi reba",
+      "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Yesom Nyame Otease",
+        "url": "https://open.spotify.com/album/7nuaCvUOo6iDURklwaSHuV"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 325851,
+      "name": "Oko Yi",
+      "url": "https://open.spotify.com/track/24dqjLGwUan37c1bPKGN1N"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "The Counselor I",
         "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 258821,
       "name": "ADOM BI",
       "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Yesom Nyame Otease",
-        "url": "https://open.spotify.com/album/7nuaCvUOo6iDURklwaSHuV"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 325851,
-      "name": "Oko Yi",
-      "url": "https://open.spotify.com/track/24dqjLGwUan37c1bPKGN1N"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-857 songs - 1 day 22 hr 37 min
+858 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [LIFE BEEN LIFIN'](https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 |  |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [Light Your Light](https://open.spotify.com/track/1nJvndyJtILLvRKC428rAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis](https://open.spotify.com/album/0EuclPLvAGjgMyVG9xkvoE) | 3:24 | 2023-06-09 | 2023-07-03 |
+| [Lil Mama Theme Song](https://open.spotify.com/track/0ZvdsKZ4pfXzqJDIX5z9NQ) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Lil Mama Theme Song](https://open.spotify.com/album/78oeiLjGLP80U0YbrQrLCe) | 3:18 | 2024-11-22 |  |
 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 | 2023-02-12 | 2023-08-26 |
 | [Little Nothings](https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Little Nothings](https://open.spotify.com/album/0FID2WHAhfMQ2vxcTU1C3B) | 3:42 | 2024-03-08 |  |
 | [Little Thangs](https://open.spotify.com/track/3D8igV9yINYFtN65Di9NqH) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Little Thangs](https://open.spotify.com/album/45fXacALm4MEGCAGETPdQX) | 3:18 | 2022-04-07 | 2022-04-21 |
@@ -570,7 +571,7 @@
 | [over](https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [over](https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj) | 2:13 | 2024-02-17 |  |
 | [Overreacting](https://open.spotify.com/track/1uhmq7gvmcyfeC2vd96Ns7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Overreacting](https://open.spotify.com/album/1VdFWgk2E4wy3UVBrRct0D) | 3:32 | 2021-12-15 | 2022-07-29 |
 | [Own2](https://open.spotify.com/track/5yeLepyINbTDBadOF56V7i) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [You Are Here](https://open.spotify.com/album/2N1NssWo9QEXqnpKLL3c9a) | 3:37 | 2021-12-15 | 2022-07-29 |
-| [Oyster](https://open.spotify.com/track/5dVfBpvcz0LYoY6KFyitCk) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Oyster](https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54) | 2:00 | 2023-09-08 |  |
+| [Oyster](https://open.spotify.com/track/5dVfBpvcz0LYoY6KFyitCk) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Oyster](https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54) | 2:00 | 2023-09-08 | 2024-11-25 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-06-22 |
 | [Paradise](https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Paradise](https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B) | 3:38 | 2023-09-15 | 2023-11-03 |
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2023-09-15 | 2024-04-19 |

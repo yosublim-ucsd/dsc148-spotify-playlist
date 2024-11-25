@@ -167,7 +167,6 @@
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-05-26 | 2024-05-12 |
 | [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-26 |  |
 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 | 2024-08-30 |  |
-| [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2022-05-26 |  |
 | [Fading Eyes](https://open.spotify.com/track/5OEbevYkmGcsiJXjx5QCcz) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Fading Eyes](https://open.spotify.com/album/1MjhVGlZeiFSLpP3QNQU3w) | 3:40 | 2022-05-26 | 2024-03-27 |
 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 | 2022-07-08 |  |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2022-05-26 | 2024-05-12 |
@@ -501,5 +500,6 @@
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2022-05-26 | 2024-03-27 |
 | [Zeus](https://open.spotify.com/track/2GYTptoTuIkLgybnQ8BwfA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Healing](https://open.spotify.com/album/0hYu8TXqNHB4qjl1AgDpge) | 3:27 | 2022-05-26 |  |
 | [Zwijgzaam](https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF) | [Arend Van de Berg](https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn) | [Zwijgzaam](https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA) | 3:14 | 2023-04-21 |  |
+| [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2022-05-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

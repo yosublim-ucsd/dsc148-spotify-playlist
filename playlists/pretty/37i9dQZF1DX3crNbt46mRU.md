@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Pegasus
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,219 likes - 126 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,227 likes - 126 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

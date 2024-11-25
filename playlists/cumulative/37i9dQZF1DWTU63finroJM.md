@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,750 songs - 3 day 23 hr 9 min
+1,751 songs - 3 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 | 2023-05-30 | 2024-03-09 |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2023-01-20 | 2023-10-06 |
 | [Ginger \(Feel Good\)](https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Ginger \(Feel Good\)](https://open.spotify.com/album/6qmw05iQrBvOnMMcWIDyjK) | 2:46 | 2024-06-21 | 2024-10-05 |
+| [GINGER JUICE](https://open.spotify.com/track/5N2YFIStAASpM38DAYoCMO) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [RULE MI HEART](https://open.spotify.com/album/6c1OAicLapz9uBk0MGxuNt) | 2:25 | 2024-11-22 |  |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-02-10 | 2022-12-15 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2022-08-02 |
 | [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-06-28 |  |
@@ -1012,7 +1013,7 @@
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-02-03 | 2023-01-21 |
 | [No Le Contestes](https://open.spotify.com/track/3WtU9uawNMMEweexmATPDW) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:10 | 2022-03-24 | 2022-08-02 |
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-23 |  |
-| [No Love](https://open.spotify.com/track/2IFSm0WKnEoyiBwdCQ1w8L) | [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [No Love](https://open.spotify.com/album/4SVFRFKRsJvnIkWeT2Olen) | 2:16 | 2024-07-05 |  |
+| [No Love](https://open.spotify.com/track/2IFSm0WKnEoyiBwdCQ1w8L) | [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [No Love](https://open.spotify.com/album/4SVFRFKRsJvnIkWeT2Olen) | 2:16 | 2024-07-05 | 2024-11-25 |
 | [No Quiero Na'](https://open.spotify.com/track/46lrIMeedN60uf6gmPmLu1) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:25 | 2022-04-07 | 2022-04-21 |
 | [No Scrubs](https://open.spotify.com/track/5SAprtHupMshMwlPuqan9c) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Featherweight](https://open.spotify.com/album/4m09VoIuOBrIT6oDwTQ0jO) | 4:27 | 2024-02-09 | 2024-03-16 |
 | [No Te Das Cuenta](https://open.spotify.com/track/7Lh3Rxv9V0XIVC1cCki1pV) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [No Te Das Cuenta](https://open.spotify.com/album/65pya5BvRjm3a1AGd63taZ) | 3:29 | 2022-03-24 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,152 songs - 3 day 10 hr 2 min
+2,153 songs - 3 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1509,6 +1509,7 @@
 | [Puzzle Games](https://open.spotify.com/track/1hU8XWa2YZiQQK78ypYZNP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Puzzle Games](https://open.spotify.com/album/7o7ujWd4hMX1EfVaXSfgNi) | 1:48 | 2023-03-20 | 2024-02-02 |
 | [pássaro](https://open.spotify.com/track/2M7EWn8Wer8ERj8LWWr73l) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [pássaro](https://open.spotify.com/album/6EvrdQnoT8sEAmCfN8elzk) | 1:46 | 2022-07-29 | 2022-08-19 |
 | [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 |  |
+| [Quiet Pulse](https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Quiet Pulse](https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT) | 2:00 | 2024-11-22 |  |
 | [Quirky](https://open.spotify.com/track/0usxlpPSwsOD7bdWfpHsGR) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Quirky](https://open.spotify.com/album/2OVFFrqLWmfQq0vFurkahF) | 2:12 | 2024-10-18 |  |
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
@@ -1847,7 +1848,7 @@
 | [Supernova](https://open.spotify.com/track/4VUEKRdgmVP7ZvsrnDlWvt) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Supernova](https://open.spotify.com/album/0cywMV3yuEW9GNUutqbfNn) | 2:16 | 2023-03-20 | 2023-10-27 |
 | [Sure Thing](https://open.spotify.com/track/4FlEeZGyEX4YFkemYosHlp) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/4Tgn8uLSmKuC1rXuzR0FTj) | 1:44 | 2022-11-11 | 2022-11-24 |
 | [Sure Thing](https://open.spotify.com/track/5ckDJdpOfwyQQHjaSV3JNj) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/0aajqsRSt6q8OBeUVtFecR) | 1:44 | 2022-11-18 | 2023-09-16 |
-| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 |  |
+| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 | 2024-11-25 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2023-11-17 |  |
 | [Survival](https://open.spotify.com/track/0f9hjKIkQqW6IVrX3CMuof) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Survival](https://open.spotify.com/album/6gbpld3gTD8mNXRfSvMLoC) | 2:32 | 2023-11-17 |  |

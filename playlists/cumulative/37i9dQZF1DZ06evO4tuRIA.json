@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 137256,
       "name": "El Gori",
       "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
@@ -1616,6 +1616,28 @@
       "duration_ms": 181800,
       "name": "Vida Peligrosa El Solecito (En Vivo)",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
+    },
+    {
+      "album": {
+        "name": "Voy A Llegar",
+        "url": "https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Voy A Llegar",
+      "url": "https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw"
     },
     {
       "album": {

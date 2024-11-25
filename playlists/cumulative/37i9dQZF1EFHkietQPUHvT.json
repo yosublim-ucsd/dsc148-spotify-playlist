@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP"
+    },
+    {
+      "album": {
         "name": "Here to Stay",
         "url": "https://open.spotify.com/album/3J9wxDOwgdBIf3gyAeuHSK"
       },

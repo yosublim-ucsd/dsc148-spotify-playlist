@@ -2867,24 +2867,6 @@
     },
     {
       "album": {
-        "name": "e\u0301ternite\u0301",
-        "url": "https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc"
-      },
-      "artists": [
-        {
-          "name": "Eric Ardouin",
-          "url": "https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199488,
-      "name": "e\u0301ternite\u0301",
-      "url": "https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku"
-    },
-    {
-      "album": {
         "name": "Fading Eyes",
         "url": "https://open.spotify.com/album/1MjhVGlZeiFSLpP3QNQU3w"
       },
@@ -8880,6 +8862,24 @@
       "duration_ms": 194861,
       "name": "Zwijgzaam",
       "url": "https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF"
+    },
+    {
+      "album": {
+        "name": "\u00e9ternit\u00e9",
+        "url": "https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc"
+      },
+      "artists": [
+        {
+          "name": "Eric Ardouin",
+          "url": "https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "\u00e9ternit\u00e9",
+      "url": "https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1T2fEo0ROQ2"

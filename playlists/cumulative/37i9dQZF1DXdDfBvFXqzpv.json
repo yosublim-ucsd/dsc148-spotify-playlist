@@ -556,13 +556,17 @@
         {
           "name": "Teddybears",
           "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
         }
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179853,
-      "name": "Cobrastyle",
+      "name": "Cobrastyle (feat. Mad Cobra)",
       "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
@@ -2168,7 +2172,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 151943,
       "name": "Pop Boy (feat. Aitch)",
       "url": "https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d"
@@ -2488,7 +2492,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 288166,
       "name": "Seguimos",
       "url": "https://open.spotify.com/track/1MrRrD8A0aUdRcuAhCh1Ui"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,211 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,212 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 14 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W) | 3:19 |
 | 15 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
 | 16 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
-| 17 | [Jauh Di Sana \- Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 |
+| 17 | [Jauh Di Sana \- From "Moana 2"/Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 |
 | 18 | [it's you](https://open.spotify.com/track/04yS3H0ynQj1yXQkhX01cC) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Aseekmars](https://open.spotify.com/artist/13XDJTv59THUVpthxagkmV) | [it's you](https://open.spotify.com/album/2g1H3yNirvgv6IrTvexrgv) | 3:05 |
 | 19 | [Love, Loss](https://open.spotify.com/track/7nAUlC3MHfeZZES2RodnoA) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Love, Loss](https://open.spotify.com/album/2T2GpwqFEvJGSxslD8WakI) | 3:55 |
 | 20 | [Malam Gelap](https://open.spotify.com/track/7yGQ4taqCr5TKNUjOSsdWh) | [Flight Further](https://open.spotify.com/artist/4CvwP9xTmQhU54kam0LRUK), [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Malam Gelap](https://open.spotify.com/album/5eibFONmaemDONJ3BpLWO7) | 2:30 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 106 | [Pistol](https://open.spotify.com/track/6ZMuShn3Pi0iRkef4edCbY) | [mess.](https://open.spotify.com/artist/6kRuMeWznsiXAIF2GriqkF), [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Pistol](https://open.spotify.com/album/6jbI2J1zgKYKyfHKOlRXE3) | 2:34 |
 | 107 | [I'm Not Saying](https://open.spotify.com/track/1AjfEfBLMsVD2u9EeIuH4I) | [TananTana](https://open.spotify.com/artist/5iOb46D5AmJwQ7KT9Y9mzp) | [I'm Not Saying](https://open.spotify.com/album/12VOXAVIrl7bpo6eG8pUwM) | 3:23 |
 
-Snapshot ID: `Z0AQpwAAAAAVT4vIkpYNKkSyFxnJ+jXU`
+Snapshot ID: `Z0PZEwAAAABUOIiyFM+O1v86ziforTlG`

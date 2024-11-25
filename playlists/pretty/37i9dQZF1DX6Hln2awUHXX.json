@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 102822,
+  "num_followers": 102845,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -443,30 +443,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Overtures",
-        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 532000,
-      "name": "Das Liebesverbot: Overture",
-      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 195753,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: Orchestervorspiel",
       "url": "https://open.spotify.com/track/2tn9Hf5ErsHvhDFKZFaqqm"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Overtures",
+        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 532000,
+      "name": "Das Liebesverbot: Overture",
+      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -815,34 +815,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hans Hotter",
-          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 138768,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
-      "url": "https://open.spotify.com/track/3JjGDVzq9HKgDJhdf3V4nE"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Parsifal - Highlights",
         "url": "https://open.spotify.com/album/6OO27o75UtOX5ZFcuPmzqV"
       },
@@ -871,6 +843,34 @@
       "duration_ms": 176800,
       "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
       "url": "https://open.spotify.com/track/4YdLA4kxmuaJEMhXOYfbHD"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hans Hotter",
+          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 138768,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
+      "url": "https://open.spotify.com/track/3JjGDVzq9HKgDJhdf3V4nE"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1095,6 +1095,62 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Bernd Weikl",
+          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
+      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
+        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Bayreuth Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Wagner: Die Walk\u00fcre, Act 1: \"Winterst\u00fcrme wichen dem Wonnemond\" (Siegmund)",
+      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
@@ -1127,8 +1183,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
-        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
       },
       "artists": [
         {
@@ -1136,49 +1192,25 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
         },
         {
-          "name": "Bayreuth Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Wagner: Die Walk\u00fcre, Act 1: \"Winterst\u00fcrme wichen dem Wonnemond\" (Siegmund)",
-      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Ben Heppner",
-          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
-        },
-        {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
-      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+      "duration_ms": 413466,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
+      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1239,38 +1271,6 @@
       "duration_ms": 200120,
       "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
       "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 413466,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
-      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
     },
     {
       "added_at": "2022-06-28 08:58:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,516 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
 | 19 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
 | 20 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
-| 21 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
-| 22 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
+| 21 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
+| 22 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
 | 23 | [Here Again](https://open.spotify.com/track/6anKq8vb5g5FvYm0Q91c5A) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Here Again](https://open.spotify.com/album/4ZHO5oxcVKziyr5Z0eBhTc) | 2:56 |
 | 24 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
 | 25 | [Baddietransfer](https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Baddietransfer](https://open.spotify.com/album/55g02frKoCk9d1jKn9NsPH) | 2:31 |
 | 26 | [Allez, allez](https://open.spotify.com/track/7sR3UMUqPzeK5LdgwGiYWJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Allez, allez](https://open.spotify.com/album/5rNPYsKaeA03ZvV9ZfcqqT) | 2:53 |
 | 27 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
-| 28 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
-| 29 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
+| 28 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
+| 29 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
 | 30 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
 | 31 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |
 | 32 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
 | 35 | [Awful Start](https://open.spotify.com/track/4kxO0jjziawjZg1nBh45Jl) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Awful Start](https://open.spotify.com/album/0ygiIkoeJR9zrjmYoQShnc) | 3:06 |
 | 36 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |
-| 37 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
-| 38 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 |
+| 37 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 |
+| 38 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
 | 39 | [Resilience](https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [LUZ1E](https://open.spotify.com/artist/1uHDi1l9z2tGckArGriA7B) | [Resilience](https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs) | 5:00 |
 | 40 | [riding it](https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [spirallore](https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF) | 2:28 |
 | 41 | [Welcome Back](https://open.spotify.com/track/1lmaPGAWk6bAq2PlZU5YN8) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Welcome Back](https://open.spotify.com/album/4qP2cbqLyu4sHbEiRARY8z) | 2:48 |

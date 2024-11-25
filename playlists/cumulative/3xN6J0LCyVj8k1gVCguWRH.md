@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,208 songs - 9 day 20 hr 3 min
+4,211 songs - 9 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2715,6 +2715,7 @@
 | [only the beginning](https://open.spotify.com/track/2GoCmpyyMy9A794jxEWDs3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [only the beginning](https://open.spotify.com/album/6dADrYm5dkxm9dyX4wnbza) | 3:55 | 2024-05-05 | 2024-05-19 |
 | [Only Us](https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Only Us](https://open.spotify.com/album/3gAF3FpWgNZKX3RfpFohQ0) | 3:07 | 2021-07-23 | 2021-08-08 |
 | [Only You](https://open.spotify.com/track/4FvLKbcWxrlLJMt22h1LsS) | [Nana M\. Rose](https://open.spotify.com/artist/11vVr1ilkEZxce5560jPmC) | [Only You](https://open.spotify.com/album/5XDHAQz6BNkw24l8mhpqVd) | 3:31 | 2023-03-17 | 2023-04-09 |
+| [Ooh La La](https://open.spotify.com/track/70gaDGj65yIeJqcLYBNRhR) | [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie), [Neil O'neil](https://open.spotify.com/artist/2SISNHcx3gEveHpNBplytN), [Luke Skidmore](https://open.spotify.com/artist/1DD7tJeFfZITbBpGHSzS2Q), [Packy Lundholm](https://open.spotify.com/artist/607PEixjGGMKhlSOh8iFZE) | [Ooh La La](https://open.spotify.com/album/0izqkKd1OZ6IbhBnYQUbIw) | 4:10 | 2024-11-24 |  |
 | [Open](https://open.spotify.com/track/14sDCw3S0JDCZ4XaBoU1D2) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Open](https://open.spotify.com/album/0ZIVRIn9rEXuIQQmVkZ1P7) | 2:31 | 2024-10-11 | 2024-11-20 |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-30 | 2024-09-21 |
 | [Open Wide](https://open.spotify.com/track/6YirAMBxccnZ5TA4U34nB4) | [Tatiana DeMaria](https://open.spotify.com/artist/4AMHe2q7lq8woNeHgRCXD6) | [Open Wide](https://open.spotify.com/album/08E8zFIwWGGZER3mI4GzYF) | 4:14 | 2023-12-15 | 2024-03-24 |
@@ -3013,6 +3014,7 @@
 | [Revive](https://open.spotify.com/track/6yuUveGrbhurhBYvGOQwHc) | [Avori](https://open.spotify.com/artist/2bmc3H14pJQmoiCTOiCtjd) | [Revive](https://open.spotify.com/album/5DppeqqT7tZY9iXzgRMCez) | 3:38 | 2022-08-26 | 2022-09-11 |
 | [REWIND](https://open.spotify.com/track/4hnAHyIpmizaRT4zAYewBz) | [Chozen 1ne](https://open.spotify.com/artist/1rTdAoKCSDF7G2SHfy7BWm) | [REWIND](https://open.spotify.com/album/4AXhsOA6HHPuVGReqZjI3G) | 2:34 | 2023-02-11 | 2023-03-11 |
 | [Rewind](https://open.spotify.com/track/5Ow0Fuch661ZXx2HbxFB9T) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji) | [World Tour](https://open.spotify.com/album/5cq15tQAhKkW3N6OTqj3HP) | 2:52 | 2020-05-30 | 2020-06-10 |
+| [Rewind Again](https://open.spotify.com/track/1O54akjNodye3j35EE5zE2) | [Noah Solomon](https://open.spotify.com/artist/42mHZbVpqFrhFBAR11STEQ) | [Rewind Again](https://open.spotify.com/album/7emAYJwg1MMtbt5CkZ2fkT) | 3:13 | 2024-11-24 |  |
 | [RGT](https://open.spotify.com/track/5a6OuYsZsNdynbsRMyrENl) | [RiViGi](https://open.spotify.com/artist/7hFivlSa04N5OKeTlKS4Ck) | [RGT](https://open.spotify.com/album/2kkm0zTtc2xDa7kJjx9Y3n) | 2:33 | 2023-07-29 | 2023-08-10 |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2020-11-17 | 2021-05-05 |
 | [Ride](https://open.spotify.com/track/4ku1cVNeyuDvzpmv90tIok) | [Asa Rivera](https://open.spotify.com/artist/4CEkCkM3EXcNDhtjBDXAFO), [JayTSeven](https://open.spotify.com/artist/1Z9w8pPKaCtdz4q8NJPUR9) | [Ride](https://open.spotify.com/album/3jssFFwi9GPcq23Mf1h3QD) | 2:14 | 2021-02-19 | 2021-03-06 |
@@ -4081,6 +4083,7 @@
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2024-08-12 |  |
 | [Why Try](https://open.spotify.com/track/4pWmqre0qCQ6K2eS0L0yfQ) | [Ashleyy Christina](https://open.spotify.com/artist/0Sd7AmhEpAQbTzRHyes29l) | [Why Try](https://open.spotify.com/album/35LIc23QOgxNroTasbj45p) | 2:37 | 2024-08-07 | 2024-08-19 |
 | [Why Wait](https://open.spotify.com/track/4pdzDOdu7f2DyVOztk5b4b) | [Man.You?](https://open.spotify.com/artist/26yxMLQtqaJ2DIHY7Gn929), [Rasneek](https://open.spotify.com/artist/1sN37BHcFAxk5O7r7vLqo4) | [Why Wait](https://open.spotify.com/album/59gQbC6zsACvkdl76SneoZ) | 2:07 | 2024-09-03 | 2024-09-12 |
+| [Why?](https://open.spotify.com/track/7uescjDzKiGph2bnvj8G4a) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Stuck In LA](https://open.spotify.com/album/1Ihv3k42Livf5NCbWOIIxm) | 3:01 | 2024-11-24 |  |
 | [Wicked](https://open.spotify.com/track/1Y83OZgKlLsSnQBbk1UL7o) | [Kai Straw](https://open.spotify.com/artist/1zXCFUgH6FWS0iCiCKsH55) | [Wicked](https://open.spotify.com/album/2TZ8zOXRPnffg4wYOcG606) | 2:50 | 2020-12-24 | 2021-01-12 |
 | [Wicked](https://open.spotify.com/track/67dt1br9QqXBFMI5WQzlNU) | [TAM BOY](https://open.spotify.com/artist/6vOqCFxk4d0jIH9TonhiCb) | [Wicked](https://open.spotify.com/album/2YY1O6kyYVRa1MEepKaAvS) | 2:55 | 2024-04-06 | 2024-04-17 |
 | [Wicked \(Chan’s Edit\)](https://open.spotify.com/track/4lGQg8lLjMYGXUCSzypuwv) | [Caleb Nichols](https://open.spotify.com/artist/0T0HuEmQHT1O1tMsDJcE5H) | [Chan Says & Other Songs](https://open.spotify.com/album/19h3hck4qRF6GfpizZC9rI) | 3:42 | 2023-04-28 | 2023-05-16 |

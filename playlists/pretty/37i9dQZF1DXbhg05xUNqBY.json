@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348814,
+  "num_followers": 348815,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Be Still and Know",
+        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Gospel is Rest",
         "url": "https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 280120,
       "name": "The Gospel is Rest",
       "url": "https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Be Still and Know",
-        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Praise (Acoustic)",
         "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 215000,
       "name": "Praise - Acoustic",
       "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Sanctuary (Live from Ocean Way)",
         "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 233709,
       "name": "Sanctuary - Live from Ocean Way",
       "url": "https://open.spotify.com/track/5H2SMaHabl8CZue8O6NQDX"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "The Lord's Prayer",
-        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 176852,
-      "name": "The Lord's Prayer",
-      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
         "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 169846,
       "name": "Refiner's Fire",
       "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "The Lord's Prayer",
+        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 176852,
+      "name": "The Lord's Prayer",
+      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 130927,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 180000,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 130927,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
     }
   ],
   "unique_name": "Be Still",

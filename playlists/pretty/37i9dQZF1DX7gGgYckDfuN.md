@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,647 likes - 52 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,724 likes - 52 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 45 | [Crazy my Beat](https://open.spotify.com/track/1Ede7hqh9UORZs0pjqVfbC) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [ジョジョの奇妙な冒険 The anthology songs \(2\)](https://open.spotify.com/album/5Wt00VWCuKtFUnlciNG91T) | 4:29 |
 | 46 | [未来への遺産\-Jonathan's Ballad\-](https://open.spotify.com/track/1MTNb1Zj1gmSaEV4kzfzyI) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [ジョジョの奇妙な冒険 The anthology songs \(1\)](https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0) | 6:44 |
 | 47 | [awake](https://open.spotify.com/track/0pxzDUEn0AMwBMiVIMBKWZ) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [ジョジョの奇妙な冒険 O.S.T Battle Tendency \[leicht verwendbar\]](https://open.spotify.com/album/72i3cDJpDso05bMzPQKTtO) | 3:21 |
-| 48 | [石仮面\~序章\~](https://open.spotify.com/track/3SYpvSrmxfwOZYGik5qfQk) | [松尾早人](https://open.spotify.com/artist/0AJFWjU9y4C16lrdCrM9bn) | [ジョジョの奇妙な冒険 O.S.T Phantom Blood \[Destiny\]](https://open.spotify.com/album/4vT8j08jVMHOO3nbkefEH5) | 2:17 |
+| 48 | [石仮面～序章～](https://open.spotify.com/track/3SYpvSrmxfwOZYGik5qfQk) | [松尾早人](https://open.spotify.com/artist/0AJFWjU9y4C16lrdCrM9bn) | [ジョジョの奇妙な冒険 O.S.T Phantom Blood \[Destiny\]](https://open.spotify.com/album/4vT8j08jVMHOO3nbkefEH5) | 2:17 |
 | 49 | [憩い \- Piano Ver.](https://open.spotify.com/track/6swnNYtCU8YnwucoN6LAa2) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険スターダストクルセイダースO.S.T\. \[Journey\]](https://open.spotify.com/album/4MopTqedSUFAD4fykTiy4p) | 2:01 |
-| 50 | [昼下がりの杜王町](https://open.spotify.com/track/79bIwBHgDgy8qYsECBtAVU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T\~Daydream\~](https://open.spotify.com/album/0wNAe0GDTckyWF7cdFZqmx) | 1:29 |
-| 51 | [狡猾な鼠](https://open.spotify.com/track/7emhF0OnsOkZbzLdtEsCjn) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T\~Nightwalk\~](https://open.spotify.com/album/7dabC3QeC7JAxJw5bLVaDF) | 3:15 |
+| 50 | [昼下がりの杜王町](https://open.spotify.com/track/79bIwBHgDgy8qYsECBtAVU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Daydream～](https://open.spotify.com/album/0wNAe0GDTckyWF7cdFZqmx) | 1:29 |
+| 51 | [狡猾な鼠](https://open.spotify.com/track/7emhF0OnsOkZbzLdtEsCjn) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Nightwalk～](https://open.spotify.com/album/7dabC3QeC7JAxJw5bLVaDF) | 3:15 |
 | 52 | [canzoni preferite](https://open.spotify.com/track/22pURPCv8K4XGzM7q1b8Rb) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 黄金の風 O.S.T \(vol.1 Overture\)](https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL) | 2:24 |
 
 Snapshot ID: `ZtGwiwAAAAAhSqRRciRZqoOfbQmAWMLG`

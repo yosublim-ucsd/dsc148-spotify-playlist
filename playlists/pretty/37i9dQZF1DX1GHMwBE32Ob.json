@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Kashcoming",
-  "num_followers": 73422,
+  "num_followers": 73486,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 176333,
       "name": "Stubborn (with Asake)",
       "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -623,26 +623,6 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo (with Shallipopi)",
-      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -679,6 +659,26 @@
       "duration_ms": 164760,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo (with Shallipopi)",
+      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
+        "name": "Beamer",
+        "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Beamer",
+      "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
         "name": "Till Thy Kingdom Come",
         "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
@@ -771,18 +787,38 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
-        "name": "Beamer",
-        "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Beamer",
-      "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+      "duration_ms": 179272,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -803,26 +839,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 179272,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -871,42 +887,6 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
-        "name": "Muyeez (Deluxe)",
-        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 154689,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
-    },
-    {
-      "added_at": "2024-11-22 05:39:09",
-      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 165517,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2024-11-22 05:39:09",
+      "album": {
+        "name": "Muyeez (Deluxe)",
+        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 154689,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2024-11-22 05:39:09",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
-        "name": "Different Lane",
-        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
       "artists": [
         {
@@ -1108,33 +1108,37 @@
           "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/534w3xm1EQmh0SzbrV2Dgc"
         }
       ],
-      "duration_ms": 157758,
-      "name": "My Niqqa",
-      "url": "https://open.spotify.com/track/71xowQywqqeA2EV6wGLC3S"
+      "duration_ms": 147192,
+      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
     },
     {
       "added_at": "2024-11-22 05:39:09",
       "album": {
-        "name": "More Kashcoming, Vol. 2",
-        "url": "https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz"
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 141678,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp"
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     }
   ],
   "unique_name": "Street Energy ",

@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-202 songs - 11 hr 11 min
+203 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beauty and the Beast \- Japanese Version](https://open.spotify.com/track/4tvIQ57fWca31AYe7NujCz) | [POPURA](https://open.spotify.com/artist/3FlYS9aq8N81ifZ7eVJY4N) | [Beauty and the Beast \(Special Edition\) \[Original Motion Picture Soundtrack/Japanese Version\]](https://open.spotify.com/album/0Bv3oUYbsQkrhByAy8U3ZB) | 2:46 | 2022-12-28 | 2024-04-19 |
 | [Belle](https://open.spotify.com/track/1nQ681mi9D5HtmU1GEppue) | [Natsumi Kon](https://open.spotify.com/artist/4BAbHdOUnCdzrUyq8H9EhP), [Mitsuo Yoshihara](https://open.spotify.com/artist/3zwcdmzcjO5SbqOrJjfIpY), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fqZVTbMaJjEDYHDSnCXlh) | 5:33 | 2022-12-28 | 2024-04-19 |
 | [Belle](https://open.spotify.com/track/6uQsgT4W0Ml0SwByuXjgxY) | [Natsumi Kon](https://open.spotify.com/artist/4BAbHdOUnCdzrUyq8H9EhP), [Mitsuo Yoshihara](https://open.spotify.com/artist/3zwcdmzcjO5SbqOrJjfIpY), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/6UukgujkH5uU8VFMmoUnfK) | 5:33 | 2024-04-18 |  |
+| [Beyond \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [Beyond \(From "Moana 2"/Japanese Soundtrack Version\)](https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w) | 3:50 | 2024-11-25 |  |
 | [Bokura Ha Hitotsu \- Japanese Version](https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd) | [Ryuta Yamamoto](https://open.spotify.com/artist/3riv8ZTBmroQGrncwF029G) | [Disney Best Japanese](https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4) | 4:13 | 2022-12-28 |  |
 | [Bon Fire Dance \- Edited Version](https://open.spotify.com/track/19eUx0mqauCxsPjUfxJEMo) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [Tokyo Disney Resort Summer Fun!](https://open.spotify.com/album/1jg6m5TvY95Qpu6M8ceN2g) | 4:46 | 2023-07-14 | 2024-08-31 |
 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 | 2022-12-28 | 2024-08-31 |

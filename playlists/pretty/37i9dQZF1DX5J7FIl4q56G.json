@@ -1,12 +1,12 @@
 {
   "description": "This week's best new tracks in metal, hard rock, and all things heavy. Cover: Architects",
-  "num_followers": 728725,
+  "num_followers": 728836,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAD7VrRNfXazyZ+Frz3Sfc57",
+  "snapshot_id": "Z0M+/gAAAADlFWwkxpSezYVI+UoFrOQb",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "200 Years",
-        "url": "https://open.spotify.com/album/710ZHlyDKvPm19EDJDLMTK"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        },
-        {
-          "name": "Ally Storch",
-          "url": "https://open.spotify.com/artist/2ycBazv9dXJO8RNkBl15ft"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "200 Years",
-      "url": "https://open.spotify.com/track/3rdzlbN9DLQEzoEIViHsm3"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "I Will Rise",
         "url": "https://open.spotify.com/album/5gySg9JabtuZjqdp8XMn49"
       },
@@ -639,6 +619,38 @@
       "duration_ms": 277040,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/6mlBcaiVlhavQunxtiGDtc"
+    },
+    {
+      "added_at": "2024-11-24 14:58:06",
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/5bow49ccuChSD08hs0Uv31"
+      },
+      "artists": [
+        {
+          "name": "Obscura",
+          "url": "https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt"
+        }
+      ],
+      "duration_ms": 279327,
+      "name": "Silver Linings",
+      "url": "https://open.spotify.com/track/2GwRUWL6Fz3YDduk4sQimH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/5fF8hRaavkF5n0LI07B0Ps"
+      },
+      "artists": [
+        {
+          "name": "Exist Immortal",
+          "url": "https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/7rYHa5cdr84Xlpn0zudmml"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -675,22 +687,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Chronicles of Lunacy",
-        "url": "https://open.spotify.com/album/3cZm2j8dxlmoaFzVmIWR5V"
-      },
-      "artists": [
-        {
-          "name": "Defeated Sanity",
-          "url": "https://open.spotify.com/artist/0dy6peOuKo2QkwaNWPoJpx"
-        }
-      ],
-      "duration_ms": 256153,
-      "name": "A Patriarchy Perverse",
-      "url": "https://open.spotify.com/track/3Js1v2k0wxswkOfRLceab7"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mortis Imperium",
         "url": "https://open.spotify.com/album/7bMQmD0o6WK7oNwop341Rc"
       },
@@ -703,6 +699,26 @@
       "duration_ms": 246457,
       "name": "Mortis Imperium",
       "url": "https://open.spotify.com/track/0Xo8aVobCzQIOPogwQfnmT"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "200 Years",
+        "url": "https://open.spotify.com/album/710ZHlyDKvPm19EDJDLMTK"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        },
+        {
+          "name": "Ally Storch",
+          "url": "https://open.spotify.com/artist/2ycBazv9dXJO8RNkBl15ft"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "200 Years",
+      "url": "https://open.spotify.com/track/3rdzlbN9DLQEzoEIViHsm3"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "By Design",
-        "url": "https://open.spotify.com/album/5fF8hRaavkF5n0LI07B0Ps"
+        "name": "Chronicles of Lunacy",
+        "url": "https://open.spotify.com/album/3cZm2j8dxlmoaFzVmIWR5V"
       },
       "artists": [
         {
-          "name": "Exist Immortal",
-          "url": "https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV"
+          "name": "Defeated Sanity",
+          "url": "https://open.spotify.com/artist/0dy6peOuKo2QkwaNWPoJpx"
         }
       ],
-      "duration_ms": 258880,
-      "name": "By Design",
-      "url": "https://open.spotify.com/track/7rYHa5cdr84Xlpn0zudmml"
+      "duration_ms": 256153,
+      "name": "A Patriarchy Perverse",
+      "url": "https://open.spotify.com/track/3Js1v2k0wxswkOfRLceab7"
     },
     {
       "added_at": "2024-11-22 05:00:00",

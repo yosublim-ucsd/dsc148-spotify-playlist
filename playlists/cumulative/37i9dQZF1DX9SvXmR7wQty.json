@@ -15567,6 +15567,28 @@
     },
     {
       "album": {
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "En rapide",
+      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
+    },
+    {
+      "album": {
         "name": "En roulant vers Perc\u00e9",
         "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
       },
@@ -35070,7 +35092,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"

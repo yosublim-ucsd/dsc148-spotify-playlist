@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 33531,
+  "num_followers": 33547,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439",
-        "url": "https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "\u0426\u0456\u043b\u0443\u0439",
-      "url": "https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
         "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
         "url": "https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
+        "name": "\u0426\u0456\u043b\u0443\u0439",
+        "url": "https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "\u0426\u0456\u043b\u0443\u0439",
+      "url": "https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -599,38 +599,6 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
-      },
-      "artists": [
-        {
-          "name": "Zea",
-          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
-        }
-      ],
-      "duration_ms": 191090,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
         "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
         "url": "https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG"
       },
@@ -647,6 +615,22 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 168000,
       "name": "\u0413\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-10-18 16:50:39",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
-        "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
-        "url": "https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9"
-      },
-      "artists": [
-        {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
-      "url": "https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
         "name": "\u0412\u043e\u043b\u044f (full version)",
         "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 164636,
       "name": "\u0412\u043e\u043b\u044f - full version",
       "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
+        "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik"
     },
     {
       "added_at": "2024-10-18 16:50:39",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-10-18 16:50:39",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
-      },
-      "artists": [
-        {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
         "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
         "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
       },
@@ -927,38 +907,6 @@
       "duration_ms": 112262,
       "name": "\u041b\u0438\u043d\u0443",
       "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
-        "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
-        "url": "https://open.spotify.com/album/6hrmqnMFPmyKjLeeiPFhdc"
-      },
-      "artists": [
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 132705,
-      "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
-      "url": "https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8"
-    },
-    {
-      "added_at": "2024-10-18 16:50:39",
-      "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
-      },
-      "artists": [
-        {
-          "name": "Spiv Brativ",
-          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
-        }
-      ],
-      "duration_ms": 210248,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
     },
     {
       "added_at": "2024-10-18 16:50:39",
@@ -979,6 +927,58 @@
       "duration_ms": 155076,
       "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
       "url": "https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
+        "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
+        "url": "https://open.spotify.com/album/6hrmqnMFPmyKjLeeiPFhdc"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "duration_ms": 132705,
+      "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
+      "url": "https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
+        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
+    },
+    {
+      "added_at": "2024-10-18 16:50:39",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
+      },
+      "artists": [
+        {
+          "name": "Spiv Brativ",
+          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
+        }
+      ],
+      "duration_ms": 210248,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
     },
     {
       "added_at": "2024-10-18 16:50:39",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,855 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,868 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vampirina Theme \- From "Vampirina"](https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 0:54 |
-| 2 | [Halloween](https://open.spotify.com/track/4lQaBlZBMqPs8IFHIEROWV) | [Pica\-Pica](https://open.spotify.com/artist/79RXqubzHwVBxnefxJTpoS) | [Halloween](https://open.spotify.com/album/7GODKOQ30ouMDFRKIJ4ldH) | 3:07 |
+| 2 | [Halloween](https://open.spotify.com/track/4lQaBlZBMqPs8IFHIEROWV) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Halloween](https://open.spotify.com/album/7GODKOQ30ouMDFRKIJ4ldH) | 3:07 |
 | 3 | [Panic and Run](https://open.spotify.com/track/28ue0jkqhRH38bXyCovuKw) | [Hyenas](https://open.spotify.com/artist/6aRtWTn0xuTAHtPRsfSJla) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/2j0DcsT9z1Q7ilScfRxJbS) | 1:34 |
 | 4 | [Tumbas por Aquí, Tumbas por Allá](https://open.spotify.com/track/7c6lG7uCwpi3xssBVqQbli) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Tumbas por Aquí, Tumbas por Allá](https://open.spotify.com/album/6bGWOPmkCd1eFPTQ9s3dlu) | 3:06 |
 | 5 | [La Brujita Boba Bo](https://open.spotify.com/track/1LJdY1blaClDtfUbog9K7v) | [Duply Kids](https://open.spotify.com/artist/34WdtIWAO1ID6qYnhGCEhn) | [Solo para Niños, vol\. 3](https://open.spotify.com/album/5J1aVBsBqbexh0l3PsDnFo) | 3:14 |

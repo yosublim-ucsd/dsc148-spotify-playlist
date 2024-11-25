@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,651 likes - 48 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,669 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 30 | [Everlasting](https://open.spotify.com/track/3D73y76E5mWefQZlb2P15z) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [GREEN](https://open.spotify.com/album/3u3gQjtXbYQFKeSp4OKLJJ) | 3:39 |
 | 31 | [always](https://open.spotify.com/track/7BUTvMscLY29cBxspSOsY6) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:06 |
 | 32 | [あなたがいるから](https://open.spotify.com/track/19YFHOpIg62fgbueUQIesK) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [あなたがいるから](https://open.spotify.com/album/1DIfZ8vzCX0xNENyBQIZhW) | 4:33 |
-| 33 | [ONE](https://open.spotify.com/track/4nWtds0cKVjWcDv5yFbl1D) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The Ballads \~Love & B'z\~](https://open.spotify.com/album/0hbj2cplJOMdpWUeq168l1) | 4:10 |
+| 33 | [ONE](https://open.spotify.com/track/4nWtds0cKVjWcDv5yFbl1D) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The Ballads ～Love & B'z～](https://open.spotify.com/album/0hbj2cplJOMdpWUeq168l1) | 4:10 |
 | 34 | [キミがいれば \- 世紀末ヴァージョン](https://open.spotify.com/track/7M1SJuMlbIA0LP6Uw6Ca5O) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 3:04 |
 | 35 | [少女の頃に戻ったみたいに](https://open.spotify.com/track/6FR9iaD43udVBRu82ahlgw) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:09 |
 | 36 | [Happy Birthday \- Single Version Remix](https://open.spotify.com/track/5HXBw6QxmZYf0uaPHnZdpV) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [TOKYO DEEP LONDON HIGH](https://open.spotify.com/album/1wZjZ2d5g19JNRDhkTc3IU) | 4:50 |

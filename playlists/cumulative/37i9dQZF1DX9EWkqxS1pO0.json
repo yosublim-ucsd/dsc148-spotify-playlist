@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 148349,
       "name": "Elveda",
       "url": "https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w"
@@ -1152,6 +1152,24 @@
       "duration_ms": 176800,
       "name": "G\u00fczel Olmaz M\u0131?",
       "url": "https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW"
+    },
+    {
+      "album": {
+        "name": "Hala Akl\u0131mda",
+        "url": "https://open.spotify.com/album/3l5p9eyMeyJJcbbmbVQwjA"
+      },
+      "artists": [
+        {
+          "name": "Meri\u00e7 \u0130zgi",
+          "url": "https://open.spotify.com/artist/06BMyGi6T6nmrRqp9P4B6H"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Hala Akl\u0131mda",
+      "url": "https://open.spotify.com/track/6EgzIwY7XSH9C3K7Ahzxu8"
     },
     {
       "album": {
@@ -1967,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Son Perde",
+        "url": "https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA"
+      },
+      "artists": [
+        {
+          "name": "Melis Karaduman",
+          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203141,
+      "name": "Son Perde",
+      "url": "https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ"
+    },
+    {
+      "album": {
         "name": "Sonu Gelmesin",
         "url": "https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj"
       },
@@ -2688,7 +2724,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 202702,
       "name": "Yoksa",
       "url": "https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695"

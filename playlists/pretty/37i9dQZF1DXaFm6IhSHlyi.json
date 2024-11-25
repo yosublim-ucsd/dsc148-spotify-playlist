@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 145708,
+  "num_followers": 145722,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 265363,
+      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 265363,
-      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 198280,
       "name": "My Only One (No Hay Nadie M\u00e1s)",
       "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Read All About It, Pt. III",
-      "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 258937,
       "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
-      },
-      "artists": [
-        {
-          "name": "Mari Kraimbrery",
-          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ang Kwento Ng Pag-Ibig",
         "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
+      },
+      "artists": [
+        {
+          "name": "Mari Kraimbrery",
+          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u767d\u663c\u5922",
         "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
       },
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Mghayarni",
         "url": "https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2"
       },
@@ -1703,6 +1671,22 @@
       "duration_ms": 237000,
       "name": "Mghayarni",
       "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Global Citizen \u2162",
         "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 177481,
       "name": "The Hunting Field",
       "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1891,6 +1875,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 191171,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Your Song (My One and Only You)",
         "url": "https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU"
       },
@@ -1943,6 +1943,38 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 231870,
+      "name": "But it's Destiny",
+      "url": "https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sa Paghimig Mo",
+        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 236516,
+      "name": "Sa Paghimig Mo",
+      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
       },
@@ -1979,22 +2011,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 231870,
-      "name": "But it's Destiny",
-      "url": "https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
       },
@@ -2011,6 +2027,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Here I Am Again",
+      "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
         "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
       },
@@ -2023,22 +2055,6 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
       "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sa Paghimig Mo",
-        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 236516,
-      "name": "Sa Paghimig Mo",
-      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2071,22 +2087,6 @@
       "duration_ms": 225076,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Here I Am Again",
-      "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 169748,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Hanggang Sa Huli (From \"24/7\")",
         "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 258906,
       "name": "Hanggang Sa Huli - From \"24/7\"",
       "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 169748,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
     },
     {
       "added_at": "2022-10-17 15:00:00",

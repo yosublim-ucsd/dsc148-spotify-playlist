@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-2,975 songs - 6 day 14 hr 17 min
+2,976 songs - 6 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [En Fer](https://open.spotify.com/track/0EazHE6FVycKN0gomfHHRi) | [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [En Fer](https://open.spotify.com/album/2RRiwgGSSf7hrNHCBkvLBI) | 3:25 | 2022-02-18 | 2022-03-05 |
 | [En joue](https://open.spotify.com/track/1VaVDSQ9il8WQe9npBUWm0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [En joue](https://open.spotify.com/album/61RQcQB19W2KFWqRJxPpCY) | 3:19 | 2024-11-15 | 2024-11-23 |
 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-13 | 2023-01-28 |
+| [En rapide](https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [CAPITALE DU CRIME RADIO](https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k) | 2:34 | 2024-11-22 |  |
 | [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 | 2022-06-24 | 2022-07-16 |
 | [En secret](https://open.spotify.com/track/247SK4pES5gcJ0mPHewm4b) | [BB PUMA](https://open.spotify.com/artist/5Q7dy4aeHaq0YWKkwUpUa3) | [En secret](https://open.spotify.com/album/7eNK90Ot99LdRvMAG09hJY) | 3:09 | 2022-04-08 | 2022-04-16 |
 | [En silence \(feat\. Marie\-Mai\)](https://open.spotify.com/track/3iqIEKFRUZly68TILnRhtQ) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [En silence \(feat\. Marie\-Mai\)](https://open.spotify.com/album/22EcAcbDrlNmAkfmfyJ9QY) | 2:36 | 2022-06-17 | 2022-07-09 |
@@ -1811,7 +1812,7 @@
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 | 2024-08-08 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2024-09-20 | 2024-11-23 |
-| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 |  |
+| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 | 2024-11-25 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |
 | [MONEY MAKER](https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE) | 2:32 | 2023-12-08 | 2024-01-03 |

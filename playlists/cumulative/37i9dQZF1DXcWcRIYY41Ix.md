@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Inés Errandonea.
 
-705 songs - 1 day 17 hr 59 min
+706 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Recuérdame](https://open.spotify.com/track/7zpVwSOoFqDa1c42D6EzwF) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Cenizas en el aire](https://open.spotify.com/album/5wTCsh7UUqLRfH146aAgAl) | 4:38 | 2022-07-22 | 2022-07-29 |
 | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033) | 4:40 | 2024-10-04 |  |
 | [Regalizz](https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Regalizz](https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3) | 3:44 | 2024-05-30 | 2024-09-11 |
+| [Regresaré](https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Sergio Ch.](https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf) | [Regresaré](https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls) | 6:08 | 2024-11-22 |  |
 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 | 2022-07-22 | 2022-07-25 |
 | [Remanso para morrer \(con Tanxugueiras\) \- Sesiones Moraima 2](https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Remanso para morrer \(con Tanxugueiras\) \[Sesiones Moraima 2\]](https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb) | 3:06 | 2024-07-11 | 2024-09-25 |
 | [REMOLINO](https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [ENCORE](https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6) | 4:12 | 2024-02-09 |  |
@@ -597,7 +598,7 @@
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2021-12-24 |  |
 | [Solo Solomon](https://open.spotify.com/track/2NvrWbODcR4dlfV0aQmmCZ) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Solo Solomon](https://open.spotify.com/album/57LAHUqTLA6y7yQ6BhS5bA) | 4:06 | 2024-01-26 | 2024-02-10 |
 | [Sombra y Animal](https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [NIDO](https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4) | 4:47 | 2023-06-16 | 2023-07-01 |
-| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 |  |
+| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 | 2024-11-25 |
 | [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 | 2024-03-02 |
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-01-19 | 2024-03-09 |
 | [Surcando el cielo](https://open.spotify.com/track/5VClfo0FSATmCOiHRoO3bJ) | [Julián Olivares](https://open.spotify.com/artist/03WQPoPoQBTsOjPLJVE7ek), [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Surcando el cielo](https://open.spotify.com/album/4T2rhow9CPvxOoGuv9CO7k) | 2:40 | 2024-10-11 | 2024-11-19 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (17/11/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (24/11/2024)",
   "tracks": [
     {
       "album": {
@@ -38,6 +38,28 @@
       "duration_ms": 143636,
       "name": "4 KISSUS",
       "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
+    },
+    {
+      "album": {
+        "name": "4-3-3",
+        "url": "https://open.spotify.com/album/6Bk9nvL7XFojCy544fLrkf"
+      },
+      "artists": [
+        {
+          "name": "Els Amics De Les Arts",
+          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193996,
+      "name": "4-3-3",
+      "url": "https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212"
     },
     {
       "album": {
@@ -1920,7 +1942,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"

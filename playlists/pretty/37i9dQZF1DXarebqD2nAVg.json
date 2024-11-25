@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454180,
+  "num_followers": 454213,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZtbFXgAAAACGzgTWM3DSKbhh2hy7IM5g",
   "tracks": [
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Island Bounce",
+        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Island Bounce",
+      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 139000,
       "name": "headway",
       "url": "https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Island Bounce",
-        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
-      },
-      "artists": [
-        {
-          "name": "Hi Hat Henry",
-          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Island Bounce",
-      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Call It A Night",
+        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+      },
+      "artists": [
+        {
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Call It A Night",
+      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Watching Walls",
         "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Call It A Night",
-        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
-      },
-      "artists": [
-        {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Call It A Night",
-      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "no reply",
         "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "a day with the kids",
-        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
-      },
-      "artists": [
-        {
-          "name": "blank maxxymus",
-          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "a day with the kids",
-      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "a day with the kids",
+        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "a day with the kids",
+      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Cozy Nights",
-        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
-      },
-      "artists": [
-        {
-          "name": "Weekly Bagel",
-          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
-        }
-      ],
-      "duration_ms": 123290,
-      "name": "Cozy Nights",
-      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "superabundance",
         "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Cozy Nights",
+        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "duration_ms": 123290,
+      "name": "Cozy Nights",
+      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
-      },
-      "artists": [
-        {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -815,38 +799,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
       },
       "artists": [
         {
-          "name": "Lunar Lo-Fi",
-          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
         }
       ],
-      "duration_ms": 151111,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Snoozy Stardust",
-        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
-      },
-      "artists": [
-        {
-          "name": "COSMOGLOW",
-          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Snoozy Stardust",
-      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -871,6 +835,26 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lo-Fi",
+          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Snoozy Stardust",
+        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
+      },
+      "artists": [
+        {
+          "name": "COSMOGLOW",
+          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Snoozy Stardust",
+      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "diary 2018",
+        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
+      },
+      "artists": [
+        {
+          "name": "Gnavis",
+          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
+        }
+      ],
+      "duration_ms": 124974,
+      "name": "dreary",
+      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "another time",
         "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 154250,
       "name": "another time",
       "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "diary 2018",
-        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
-      },
-      "artists": [
-        {
-          "name": "Gnavis",
-          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
-        }
-      ],
-      "duration_ms": 124974,
-      "name": "dreary",
-      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
     },
     {
       "added_at": "2024-09-03 08:14:22",

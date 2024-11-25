@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,725 likes - 55 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,836 likes - 56 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,25 +43,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 33 | [Wearing Hell](https://open.spotify.com/track/2Gm7nwbZey4FLAaZP15PTB) | [Frontierer](https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt) | [Wearing Hell](https://open.spotify.com/album/3HWiweaD0WJe5aTiUhdRS4) | 2:30 |
 | 34 | [Acolytes of Damnation \(feat\. Alex Erian of Despised Icon\)](https://open.spotify.com/track/6GPWjq0uos0trGkJKQQemK) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Alex Erian](https://open.spotify.com/artist/1iN9yrbjvsHTZbDpvPwlEq), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Acolytes of Damnation \(feat\. Alex Erian of Despised Icon\)](https://open.spotify.com/album/3LijkRPbecmvpFufb9nD0f) | 3:27 |
 | 35 | [Wildfire](https://open.spotify.com/track/7AldN91bbk84n9scD4rqIQ) | [Last Temptation](https://open.spotify.com/artist/51YUofJUntKtvL4Vc1eorR) | [Heart Starter](https://open.spotify.com/album/0tAiljqayVv8MsWcnI0xeU) | 4:19 |
-| 36 | [200 Years](https://open.spotify.com/track/3rdzlbN9DLQEzoEIViHsm3) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL), [Ally Storch](https://open.spotify.com/artist/2ycBazv9dXJO8RNkBl15ft) | [200 Years](https://open.spotify.com/album/710ZHlyDKvPm19EDJDLMTK) | 4:41 |
-| 37 | [I Will Rise](https://open.spotify.com/track/6mlBcaiVlhavQunxtiGDtc) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [I Will Rise](https://open.spotify.com/album/5gySg9JabtuZjqdp8XMn49) | 4:37 |
-| 38 | [The Dark](https://open.spotify.com/track/65RNQiRNdrcGSxump2YRbu) | [Night Rider](https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6) | [The Dark](https://open.spotify.com/album/54wEQHT6CJgmFOh0pfpfj3) | 4:13 |
-| 39 | [Skull Gatherers](https://open.spotify.com/track/7oa5n8pby7RLfRWOpU1lAL) | [Grima](https://open.spotify.com/artist/7KSPZyeCKkfkhMkX8rYIhD) | [Skull Gatherers](https://open.spotify.com/album/1ps1gd8oDH9Vtf9o8VxOge) | 5:37 |
-| 40 | [A Patriarchy Perverse](https://open.spotify.com/track/3Js1v2k0wxswkOfRLceab7) | [Defeated Sanity](https://open.spotify.com/artist/0dy6peOuKo2QkwaNWPoJpx) | [Chronicles of Lunacy](https://open.spotify.com/album/3cZm2j8dxlmoaFzVmIWR5V) | 4:16 |
+| 36 | [I Will Rise](https://open.spotify.com/track/6mlBcaiVlhavQunxtiGDtc) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [I Will Rise](https://open.spotify.com/album/5gySg9JabtuZjqdp8XMn49) | 4:37 |
+| 37 | [Silver Linings](https://open.spotify.com/track/2GwRUWL6Fz3YDduk4sQimH) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Silver Linings](https://open.spotify.com/album/5bow49ccuChSD08hs0Uv31) | 4:39 |
+| 38 | [By Design](https://open.spotify.com/track/7rYHa5cdr84Xlpn0zudmml) | [Exist Immortal](https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV) | [By Design](https://open.spotify.com/album/5fF8hRaavkF5n0LI07B0Ps) | 4:18 |
+| 39 | [The Dark](https://open.spotify.com/track/65RNQiRNdrcGSxump2YRbu) | [Night Rider](https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6) | [The Dark](https://open.spotify.com/album/54wEQHT6CJgmFOh0pfpfj3) | 4:13 |
+| 40 | [Skull Gatherers](https://open.spotify.com/track/7oa5n8pby7RLfRWOpU1lAL) | [Grima](https://open.spotify.com/artist/7KSPZyeCKkfkhMkX8rYIhD) | [Skull Gatherers](https://open.spotify.com/album/1ps1gd8oDH9Vtf9o8VxOge) | 5:37 |
 | 41 | [Mortis Imperium](https://open.spotify.com/track/0Xo8aVobCzQIOPogwQfnmT) | [Molotov Solution](https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa) | [Mortis Imperium](https://open.spotify.com/album/7bMQmD0o6WK7oNwop341Rc) | 4:06 |
-| 42 | [Who I Am](https://open.spotify.com/track/3Dctv6jEJVcT09RAZOpTV4) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Who I Am](https://open.spotify.com/album/70BzrqagLKzhC7qup9KVf2) | 3:05 |
-| 43 | [By Design](https://open.spotify.com/track/7rYHa5cdr84Xlpn0zudmml) | [Exist Immortal](https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV) | [By Design](https://open.spotify.com/album/5fF8hRaavkF5n0LI07B0Ps) | 4:18 |
-| 44 | [Amidst the Ruins](https://open.spotify.com/track/61XP1WQjS3zoWXmDRODsda) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Amidst the Ruins](https://open.spotify.com/album/2X0Uw1xgkh2NfUOg3NdiiK) | 12:40 |
-| 45 | [Absentia](https://open.spotify.com/track/31Zonjdcnm2QB7tF61vjJU) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Absentia](https://open.spotify.com/album/4SdEHHpXGRge0PCmsa9Hpt) | 4:04 |
-| 46 | [In the Mouth of Madness](https://open.spotify.com/track/4eFQVeKeM0wVw8s1EejwWE) | [The Great Old Ones](https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC) | [In the Mouth of Madness](https://open.spotify.com/album/7k5Gf8pHzCgjs8QGsBQj8o) | 7:10 |
-| 47 | [Bunker Vaults](https://open.spotify.com/track/1C2Ed6Sj89SQQgAyRrLHyc) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Odd Love](https://open.spotify.com/album/6Jz2cHNVR0LseJWSBcm7DR) | 7:24 |
-| 48 | [Vultures](https://open.spotify.com/track/0jAUffimTfqsRUZwLXHKkO) | [Mallavora](https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY) | [Echoes](https://open.spotify.com/album/1GzutIGiUKzUTWDSzg7ju5) | 3:33 |
-| 49 | [LIES](https://open.spotify.com/track/5nkiyBlaoac3n1DOU1jB61) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [LIES](https://open.spotify.com/album/65ou9w6hIflHJZFrAzlc84) | 3:22 |
-| 50 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
-| 51 | [Dead Forever](https://open.spotify.com/track/6EzZvAwVxRYLBMmZ9d1bIh) | [Hurakan](https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU) | [Dead Forever](https://open.spotify.com/album/1aqti8cE9vfyq2c9FzsFAK) | 2:20 |
-| 52 | [Blood God](https://open.spotify.com/track/1hyujRV5yiPsaUQFKCPpuC) | [Past Bedtime](https://open.spotify.com/artist/5g7VngXSsEo9Ok2RsMk76C) | [Blood God](https://open.spotify.com/album/2i9syLURvXsuTgEPoHmesI) | 4:42 |
-| 53 | [Bound To The Throne](https://open.spotify.com/track/20XiXFR2t3uPTdrqVgYkdf) | [Maat](https://open.spotify.com/artist/7JQE27h6vpefkS9yGs1rPw) | [From Origin To Decay](https://open.spotify.com/album/4V6fAShGZuxNj99DzxwmUq) | 6:26 |
-| 54 | [Resist](https://open.spotify.com/track/5QtI7HglrWGshe2zebEbZW) | [Admire the Grim](https://open.spotify.com/artist/02jaI5XYUmrDbYrk7I0W02), [Antti Hyyrynen](https://open.spotify.com/artist/0CD81kzZT6jPDUxbmEDf7V) | [Resist](https://open.spotify.com/album/0yUArmXbxDaEAID9aZ9KAZ) | 4:18 |
-| 55 | [Stolen](https://open.spotify.com/track/4YHHYZ16CmTviZP0qXfasU) | [Talia Hoit](https://open.spotify.com/artist/3XtANhnSi6eU5Ol9zegWvW), [Frank Pitters](https://open.spotify.com/artist/7qaVM7mCLqJGNoh9CJRQrz) | [Stolen](https://open.spotify.com/album/25N7qDZvEee8kyihpatDoA) | 5:28 |
+| 42 | [200 Years](https://open.spotify.com/track/3rdzlbN9DLQEzoEIViHsm3) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL), [Ally Storch](https://open.spotify.com/artist/2ycBazv9dXJO8RNkBl15ft) | [200 Years](https://open.spotify.com/album/710ZHlyDKvPm19EDJDLMTK) | 4:41 |
+| 43 | [Who I Am](https://open.spotify.com/track/3Dctv6jEJVcT09RAZOpTV4) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Who I Am](https://open.spotify.com/album/70BzrqagLKzhC7qup9KVf2) | 3:05 |
+| 44 | [A Patriarchy Perverse](https://open.spotify.com/track/3Js1v2k0wxswkOfRLceab7) | [Defeated Sanity](https://open.spotify.com/artist/0dy6peOuKo2QkwaNWPoJpx) | [Chronicles of Lunacy](https://open.spotify.com/album/3cZm2j8dxlmoaFzVmIWR5V) | 4:16 |
+| 45 | [Amidst the Ruins](https://open.spotify.com/track/61XP1WQjS3zoWXmDRODsda) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Amidst the Ruins](https://open.spotify.com/album/2X0Uw1xgkh2NfUOg3NdiiK) | 12:40 |
+| 46 | [Absentia](https://open.spotify.com/track/31Zonjdcnm2QB7tF61vjJU) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Absentia](https://open.spotify.com/album/4SdEHHpXGRge0PCmsa9Hpt) | 4:04 |
+| 47 | [In the Mouth of Madness](https://open.spotify.com/track/4eFQVeKeM0wVw8s1EejwWE) | [The Great Old Ones](https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC) | [In the Mouth of Madness](https://open.spotify.com/album/7k5Gf8pHzCgjs8QGsBQj8o) | 7:10 |
+| 48 | [Bunker Vaults](https://open.spotify.com/track/1C2Ed6Sj89SQQgAyRrLHyc) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Odd Love](https://open.spotify.com/album/6Jz2cHNVR0LseJWSBcm7DR) | 7:24 |
+| 49 | [Vultures](https://open.spotify.com/track/0jAUffimTfqsRUZwLXHKkO) | [Mallavora](https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY) | [Echoes](https://open.spotify.com/album/1GzutIGiUKzUTWDSzg7ju5) | 3:33 |
+| 50 | [LIES](https://open.spotify.com/track/5nkiyBlaoac3n1DOU1jB61) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [LIES](https://open.spotify.com/album/65ou9w6hIflHJZFrAzlc84) | 3:22 |
+| 51 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
+| 52 | [Dead Forever](https://open.spotify.com/track/6EzZvAwVxRYLBMmZ9d1bIh) | [Hurakan](https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU) | [Dead Forever](https://open.spotify.com/album/1aqti8cE9vfyq2c9FzsFAK) | 2:20 |
+| 53 | [Blood God](https://open.spotify.com/track/1hyujRV5yiPsaUQFKCPpuC) | [Past Bedtime](https://open.spotify.com/artist/5g7VngXSsEo9Ok2RsMk76C) | [Blood God](https://open.spotify.com/album/2i9syLURvXsuTgEPoHmesI) | 4:42 |
+| 54 | [Bound To The Throne](https://open.spotify.com/track/20XiXFR2t3uPTdrqVgYkdf) | [Maat](https://open.spotify.com/artist/7JQE27h6vpefkS9yGs1rPw) | [From Origin To Decay](https://open.spotify.com/album/4V6fAShGZuxNj99DzxwmUq) | 6:26 |
+| 55 | [Resist](https://open.spotify.com/track/5QtI7HglrWGshe2zebEbZW) | [Admire the Grim](https://open.spotify.com/artist/02jaI5XYUmrDbYrk7I0W02), [Antti Hyyrynen](https://open.spotify.com/artist/0CD81kzZT6jPDUxbmEDf7V) | [Resist](https://open.spotify.com/album/0yUArmXbxDaEAID9aZ9KAZ) | 4:18 |
+| 56 | [Stolen](https://open.spotify.com/track/4YHHYZ16CmTviZP0qXfasU) | [Talia Hoit](https://open.spotify.com/artist/3XtANhnSi6eU5Ol9zegWvW), [Frank Pitters](https://open.spotify.com/artist/7qaVM7mCLqJGNoh9CJRQrz) | [Stolen](https://open.spotify.com/album/25N7qDZvEee8kyihpatDoA) | 5:28 |
 
-Snapshot ID: `Z0AP0AAAAAD7VrRNfXazyZ+Frz3Sfc57`
+Snapshot ID: `Z0M+/gAAAADlFWwkxpSezYVI+UoFrOQb`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Budi Doremi, Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,239 likes - 96 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,249 likes - 96 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
-| 2 | [Jauh Di Sana \- Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 |
+| 2 | [Jauh Di Sana \- From "Moana 2"/Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 |
 | 3 | [Manusia Super](https://open.spotify.com/track/62mI04lTuGDUmxuUSwhBHn) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Manusia Super](https://open.spotify.com/album/1WDCOetWYCDWz6N5OvgtF2) | 4:17 |
 | 4 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 |
 | 5 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 |

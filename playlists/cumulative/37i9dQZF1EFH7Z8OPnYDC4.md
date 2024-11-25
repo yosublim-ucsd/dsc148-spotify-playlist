@@ -342,6 +342,6 @@
 | [You’ve Got To Be Carefully Taught](https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [American Standard](https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh) | 2:26 | 2024-07-26 |  |
 | [Zanies and Fools](https://open.spotify.com/track/500qWQEycoFAUVK8ijpD5O) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 5:23 | 2024-07-26 |  |
 | [Zip](https://open.spotify.com/track/0mX8IFooUYgQqNq4sPCuks) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 3:13 | 2024-07-26 |  |
-| [イーガー・ビーバー](https://open.spotify.com/track/2wTsNc77FA13OLbvZNbScV) | [BBCビッグバンド](https://open.spotify.com/artist/4j3UsaMzU4Ut0drw6zrKA8) | [栄光のビッグバンド・ジャズ 3](https://open.spotify.com/album/1iRQzVNkXjkQjKvvRRO8U9) | 3:22 | 2024-07-26 |  |
+| [イーガー・ビーバー](https://open.spotify.com/track/2wTsNc77FA13OLbvZNbScV) | [BBCビッグバンド](https://open.spotify.com/artist/4j3UsaMzU4Ut0drw6zrKA8) | [栄光のビッグバンド・ジャズ ３](https://open.spotify.com/album/1iRQzVNkXjkQjKvvRRO8U9) | 3:22 | 2024-07-26 |  |
 
 \*This playlist was first scraped on 2024-07-27. Prior content cannot be recovered.

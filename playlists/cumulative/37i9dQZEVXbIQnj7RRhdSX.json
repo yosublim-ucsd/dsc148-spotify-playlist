@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 205354,
       "name": "ALTROVE",
       "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -3770,7 +3770,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 168000,
       "name": "Bad vibes",
       "url": "https://open.spotify.com/track/45H1AuA4Qr3qGFuq1QepEp"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Beatrice (feat. Annalisa)",
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
@@ -10770,7 +10770,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 215517,
       "name": "Di abbattere le mura (18 Donne)",
       "url": "https://open.spotify.com/track/7epj7aCJVc64qGuQBCfcIU"
@@ -16962,7 +16962,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 149091,
       "name": "HELLO KITTY (feat. Sillyelly)",
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
@@ -18174,7 +18174,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 147326,
       "name": "Ieri",
       "url": "https://open.spotify.com/track/2KX4nDFDp9cUymIvxpRRYg"
@@ -21156,7 +21156,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 210400,
       "name": "La grande fuga",
       "url": "https://open.spotify.com/track/7Jd8IDnjQUshDnQZDRj016"
@@ -26786,7 +26786,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 143306,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/0veAb65c3NyIKOROiyn5E1"
@@ -29624,7 +29624,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 117230,
       "name": "NUN \u00c8 OVER",
       "url": "https://open.spotify.com/track/5Tte5M4saQ25z2ZI83wgYU"
@@ -31822,7 +31822,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -32974,7 +32974,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 140000,
       "name": "Poter scegliere",
       "url": "https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC"
@@ -35498,7 +35498,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 147361,
       "name": "Sant'allegria - Jack Sani Remix",
       "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
@@ -36024,7 +36024,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 197922,
       "name": "Se corri",
       "url": "https://open.spotify.com/track/7DxqiiGuALz7bfVzb71jkU"
@@ -36388,7 +36388,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 186000,
       "name": "Serie TV",
       "url": "https://open.spotify.com/track/3vnu6l7joTbVlwYedSm1H7"
@@ -38461,6 +38461,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "album": {
         "name": "sFaCioLaTe miXTaPe",
         "url": "https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq"
       },
@@ -38818,7 +38836,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 175153,
       "name": "STORIE BREVI",
       "url": "https://open.spotify.com/track/1yZIX0bRGjVH6CqyUW8Dkw"
@@ -42170,7 +42188,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 170869,
       "name": "Un'altra strada",
       "url": "https://open.spotify.com/track/0NqfLlSAJ4ZPDB8KMz4kKE"

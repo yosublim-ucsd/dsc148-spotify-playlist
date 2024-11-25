@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 19838,
+  "num_followers": 19846,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Easter In Miami",
         "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Wolf Talk",
-        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
-      },
-      "artists": [
-        {
-          "name": "Grind2hard Osh\u2019a",
-          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Nowhere 2 Run",
-      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Wolf Talk",
+        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
+      },
+      "artists": [
+        {
+          "name": "Grind2hard Osh\u2019a",
+          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Nowhere 2 Run",
+      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
-      },
-      "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "1-800-HIT-EAZY",
         "url": "https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 149508,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -535,6 +535,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 148330,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "missunderstood\u2026still",
         "url": "https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235797,
       "name": "Love Is... (feat. J.I the Prince of N.Y)",
       "url": "https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 143772,
+      "name": "Florida Nights",
+      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "No More Body's",
         "url": "https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx"
       },
@@ -859,26 +875,6 @@
       "duration_ms": 110000,
       "name": "No More Body's",
       "url": "https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Wordplay",
-        "url": "https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX"
-      },
-      "artists": [
-        {
-          "name": "Canjelae",
-          "url": "https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp"
-        },
-        {
-          "name": "TK Kravitz",
-          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Wordplay",
-      "url": "https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -899,18 +895,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+        "name": "Wordplay",
+        "url": "https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX"
       },
       "artists": [
         {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+          "name": "Canjelae",
+          "url": "https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp"
+        },
+        {
+          "name": "TK Kravitz",
+          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
         }
       ],
-      "duration_ms": 143772,
-      "name": "Florida Nights",
-      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
+      "duration_ms": 196923,
+      "name": "Wordplay",
+      "url": "https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm"
     },
     {
       "added_at": "2022-10-01 20:31:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 
 > Peaceful music box tunes for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,915 likes - 154 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,932 likes - 154 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 | 53 | [Joy Of Life](https://open.spotify.com/track/1Sxo51aL87nB09fUMtFqN9) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Joy Of Life](https://open.spotify.com/album/0TpOUKViK62E0UPMm7gNwb) | 1:28 |
 | 54 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 |
 | 55 | [My Bonny is over the ocean](https://open.spotify.com/track/7ztbL1bA5mHNrxmFHJedkP) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Every Breath You Take](https://open.spotify.com/album/1OlKIxUf4J99nPCFVC6DMS) | 1:13 |
-| 56 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 |
+| 56 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 |
 | 57 | [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 |
 | 58 | [A Mother's Embrace](https://open.spotify.com/track/6Ei6AIq1k3kcGNXFmUGlZU) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [A Mother's Embrace](https://open.spotify.com/album/1CjVstZsmXVWyeUduC5n7Y) | 2:03 |
 | 59 | [Blow Me A Kiss](https://open.spotify.com/track/3hGa4W9QcfGEjmSjSyXDgN) | [Yasu Carter](https://open.spotify.com/artist/1a5lbgjd8frJ8UirtYdtpQ) | [Blow Me A Kiss](https://open.spotify.com/album/0kll38lENG3yiWNG88geKR) | 1:15 |

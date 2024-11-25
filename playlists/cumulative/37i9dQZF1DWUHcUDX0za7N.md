@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Bils
 
-519 songs - 1 day 0 hr 38 min
+520 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 | 2024-11-22 |
 | [Beng Beng Beng](https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Beng Beng Beng](https://open.spotify.com/album/3xm1v6Cpd221YgVdfhEPFm) | 2:22 | 2024-08-02 | 2024-10-18 |
 | [Bestfriend](https://open.spotify.com/track/5yPuzx6e37uehcBxjI37aU) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [We Not Done Yet \(Deluxe\)](https://open.spotify.com/album/0PtvLy4eCkA6VM9KVxQmVk) | 2:35 | 2024-10-25 | 2024-11-16 |
+| [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 | 2024-11-22 |  |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-11-11 |
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-11-10 | 2024-04-19 |
 | [BIG CHIEF](https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [BIG CHIEF](https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S) | 3:04 | 2024-06-21 |  |
@@ -78,7 +79,7 @@
 | [Bougie and Thick](https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [AT Martian](https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9) | [Bougie and Thick](https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR) | 1:51 | 2023-03-18 | 2023-03-25 |
 | [Boujee](https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Boujee](https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk) | 3:27 | 2023-03-30 | 2023-05-30 |
 | [Bounce](https://open.spotify.com/track/3mUr3rVSJMJxceAjxjSx0v) | [Bu$h](https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Bounce](https://open.spotify.com/album/3pD7Y7svoHpLchyLhRQpTm) | 2:39 | 2023-08-03 | 2023-10-18 |
-| [Bounce](https://open.spotify.com/track/0pF7FJ5l9IOiMftn6FXbsm) | [Steeky](https://open.spotify.com/artist/6gROVClcGS9TtyHnIJGurd) | [Girls & Lamba](https://open.spotify.com/album/2vfPQSrdOOpcKhjOTlanaa) | 2:19 | 2024-11-22 |  |
+| [Bounce](https://open.spotify.com/track/0pF7FJ5l9IOiMftn6FXbsm) | [Steeky](https://open.spotify.com/artist/6gROVClcGS9TtyHnIJGurd) | [Girls & Lamba](https://open.spotify.com/album/2vfPQSrdOOpcKhjOTlanaa) | 2:19 | 2024-11-22 | 2024-11-25 |
 | [Boytoy](https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Boytoy](https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7) | 2:19 | 2023-07-13 | 2023-08-02 |
 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 | 2024-01-26 | 2024-11-22 |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-03 | 2023-10-13 |

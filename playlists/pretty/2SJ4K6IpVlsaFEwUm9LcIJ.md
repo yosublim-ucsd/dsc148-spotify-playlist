@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,154 likes - 24 songs - 1 hr 24 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,159 likes - 31 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 22 | [Private Armies](https://open.spotify.com/track/1eBTlFwFojxaUjKSVysx2r) | [Vivien Goldman](https://open.spotify.com/artist/5qS1FvS2piwbC0YMEkXz0z) | [Resolutionary \(Songs 1979\-1982\)](https://open.spotify.com/album/2m5TBTAN0FD3usyySTsOZW) | 6:17 |
 | 23 | [Ivy](https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 4:26 |
 | 24 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 |
+| 25 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 |
+| 26 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 |
+| 27 | [A Way To Survive](https://open.spotify.com/track/5v6mIa5qIQuPspYkEIjW9g) | [Snowpony](https://open.spotify.com/artist/6zeIzXom65EtpRZJgGLHZj) | [The Slow\-Motion World Of Snowpony](https://open.spotify.com/album/16DhidWzZeHn2xdCAGJF0S) | 4:26 |
+| 28 | [Fussball Politics](https://open.spotify.com/track/0ndmRaklMcl9CVBahHrPHw) | [Cousin](https://open.spotify.com/artist/2E58ObVipz7mTA9iW95VdE) | [Alternate Tunings for Regular People](https://open.spotify.com/album/7tIPyrgJ8OMQBqMmIm0Znf) | 3:33 |
+| 29 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 |
+| 30 | [See What I Need](https://open.spotify.com/track/38czcDNnalIA2OfXXw7oME) | [West Coast Modern Day Punk Rock Orchestra](https://open.spotify.com/artist/2ArRDH9p0aQ4SlKUAnAbKA) | [Correspondence](https://open.spotify.com/album/7tqYJyAD2OCNX3E93VS6h2) | 4:11 |
+| 31 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 |
 
-Snapshot ID: `AAALaA3d5yqOmVBcfd9XGoKFUQhYWvtA`
+Snapshot ID: `AAALcHFwqw0T0B+3YLxWFXRUL6LwThAR`

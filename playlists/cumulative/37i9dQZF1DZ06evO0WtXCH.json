@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 187595,
       "name": "Spoken Through Clouds",
       "url": "https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G"
@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "The Liberation Frequency",
+        "url": "https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "The Liberation Frequency",
+      "url": "https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe"
+    },
+    {
+      "album": {
         "name": "The Shape Of Punk To Come Obliterated",
         "url": "https://open.spotify.com/album/1fLjNWaFClYtAzdOc3u6ns"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 245800,
       "name": "The Liberation Frequency",
       "url": "https://open.spotify.com/track/2sijKTsIlVVyE0cszC2lYL"

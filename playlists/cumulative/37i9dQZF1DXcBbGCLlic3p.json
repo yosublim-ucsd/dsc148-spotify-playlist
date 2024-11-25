@@ -1715,24 +1715,6 @@
     },
     {
       "album": {
-        "name": "e\u0301ternite\u0301",
-        "url": "https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc"
-      },
-      "artists": [
-        {
-          "name": "Eric Ardouin",
-          "url": "https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199488,
-      "name": "e\u0301ternite\u0301",
-      "url": "https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku"
-    },
-    {
-      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V"
       },
@@ -5896,6 +5878,24 @@
       "duration_ms": 152000,
       "name": "\u00c9jszakai",
       "url": "https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t"
+    },
+    {
+      "album": {
+        "name": "\u00e9ternit\u00e9",
+        "url": "https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc"
+      },
+      "artists": [
+        {
+          "name": "Eric Ardouin",
+          "url": "https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "\u00e9ternit\u00e9",
+      "url": "https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku"
     },
     {
       "album": {

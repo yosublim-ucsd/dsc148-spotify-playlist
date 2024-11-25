@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325543,
+      "name": "Asi Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/53eMfrcWvyJZwPei8r5kSp"
+    },
+    {
+      "album": {
         "name": "15 Rolitas de Amor, Vol. 2",
         "url": "https://open.spotify.com/album/7HZJJvCk1dP3YSAoLioVW4"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 325293,
       "name": "As\u00ed Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/34h5DWjlO3AoBIAyehencQ"

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 168696,
+  "num_followers": 168750,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Hank Levy",
+          "url": "https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc"
+        }
+      ],
+      "duration_ms": 115360,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 236506,
       "name": "A Lovely Night",
       "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Hank Levy",
-          "url": "https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc"
-        }
-      ],
-      "duration_ms": 115360,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 180706,
       "name": "The Bare Necessities",
       "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Allied (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Dug Days (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 111266,
       "name": "Bigger Than Us",
       "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Born to Play",
-      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Singing in the Rain (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 175226,
       "name": "Singing in the Rain",
       "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Born to Play",
+      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Peanuts Greatest Hits (Music From The TV Specials)",
         "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 107034,
       "name": "The Thrombey Family Theme",
       "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Don't Look Up (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
       },
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
+        "name": "Chico & Rita",
+        "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
       "artists": [
         {
-          "name": "Piero Piccioni",
-          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
+          "name": "Idania Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx"
+        },
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Amore mio aiutami - Version 6",
-      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
+      "duration_ms": 76773,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Chico & Rita",
-        "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
+        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
       },
       "artists": [
         {
-          "name": "Idania Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx"
-        },
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+          "name": "Piero Piccioni",
+          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
         }
       ],
-      "duration_ms": 76773,
-      "name": "Sabor a M\u00ed",
-      "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
+      "duration_ms": 181080,
+      "name": "Amore mio aiutami - Version 6",
+      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Who Framed Roger Rabbit",
         "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 151999,
       "name": "Lullaby Of Birdland - From \"Fabulous Baker Boys\" Soundtrack",
       "url": "https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
     },
     {
       "added_at": "2024-06-14 07:09:21",

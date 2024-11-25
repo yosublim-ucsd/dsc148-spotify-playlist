@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,344 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,346 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 33 | [Polynomial\-C](https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 |
 | 34 | [Blue Shost](https://open.spotify.com/track/7oxT7jprQ8TSfviTpGnWLx) | [Trancemaster](https://open.spotify.com/artist/1ltmzHvseKWZDjQotyJX1l) | [Blue Shost](https://open.spotify.com/album/6KZE26mUePrl8QdfeIinD1) | 8:57 |
 | 35 | [Punk Coding](https://open.spotify.com/track/17PxRve6HMubrjkioWYqCd) | [LDS](https://open.spotify.com/artist/6d9eyCKSzKbGK4bTM2erwG) | [Organic Computer Awareness](https://open.spotify.com/album/3TRTjyxDqR2eY17o9djsZ5) | 4:57 |
-| 36 | [El Sueño de Kogi](https://open.spotify.com/track/77yLpdIfbJLZTx8OurWDXq) | [TMH Tranzit](https://open.spotify.com/artist/4fOi16EGs3serE7qzaqmTt) | [El Sueño de Kogi](https://open.spotify.com/album/0CKnKc80sS8gjnzgbX8JTk) | 6:03 |
+| 36 | [El Sueño de Kogi](https://open.spotify.com/track/77yLpdIfbJLZTx8OurWDXq) | [TMH Tranzit](https://open.spotify.com/artist/4fOi16EGs3serE7qzaqmTt) | [El Sueño de Kogi](https://open.spotify.com/album/0CKnKc80sS8gjnzgbX8JTk) | 6:03 |
 | 37 | [Crystal Wonders](https://open.spotify.com/track/2ZJ9M6258T9yyTKBwg4Vyn) | [FMSAO](https://open.spotify.com/artist/6Zn5oumrPxS3fq3oxvOjzJ) | [Tales of Severe Damage](https://open.spotify.com/album/2rEId06UIFvktn1uDiS43Y) | 3:19 |
 | 38 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 | 39 | [Emotion 1 \- Ibon's Dizzy Stomp Mix](https://open.spotify.com/track/4mPYDK4WxzlFOomg1pFp2x) | [Reece Cox](https://open.spotify.com/artist/2bx3KsJqq7KUSF4F1EwE3q), [DJ Ibon](https://open.spotify.com/artist/0N7LQYE6ZG0drzW1REL5A4) | [Emotion 1](https://open.spotify.com/album/6wqS25vi3EhIsbZC53J5bX) | 8:41 |

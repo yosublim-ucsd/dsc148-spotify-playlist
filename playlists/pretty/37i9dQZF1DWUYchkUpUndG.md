@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=n4D7V\_B8SO2AlBcDtjFUyQ>Spotlite Nation</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,224 likes - 95 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,319 likes - 95 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 19 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 |
 | 20 | [Ohlonishwayo](https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ohlonishwayo](https://open.spotify.com/album/4ia3MqnSbmwoDAYzI3aNbH) | 8:04 |
 | 21 | [Oh Holy Night \(Village Christmas\)](https://open.spotify.com/track/6QxSZ2mVgPPz6mRqnLKtoq) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Oh Holy Night \(Village Christmas\)](https://open.spotify.com/album/673xwUEmvUg0tESpxIdWtC) | 3:10 |
-| 22 | [Stay Happy ACAPELLA \- Special Version](https://open.spotify.com/track/1qWWh0LV516aTKk6EsgHpv) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Stay Happy ACAPELLA \(Special Version\)](https://open.spotify.com/album/6xNT0VA3tRtIQWwMMW8LFO) | 1:27 |
+| 22 | [Stay Happy ACAPELLA \- Special Version](https://open.spotify.com/track/1qWWh0LV516aTKk6EsgHpv) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Stay Happy ACAPELLA \(Special Version\)](https://open.spotify.com/album/6xNT0VA3tRtIQWwMMW8LFO) | 1:27 |
 | 23 | [Thank You for Showing Me Mercy](https://open.spotify.com/track/27Q22uWiv9mpCczxbpYHiK) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [Thank You for Showing Me Mercy](https://open.spotify.com/album/5gPDF9iXONEg5UQRIW8M31) | 8:42 |
 | 24 | [Joy To The World](https://open.spotify.com/track/4g0sjUcO6twtXRqEC5RjGe) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Joy To The World](https://open.spotify.com/album/13olYnyfqvwxvASzzziCSE) | 2:04 |
 | 25 | [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 |

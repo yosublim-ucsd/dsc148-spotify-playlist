@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 136381,
+  "num_followers": 136411,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAABYcJ9IG3m5TkT8sTCE3py4",
+  "snapshot_id": "Z0EbAAAAAADHjGcvPAM3ifamKeiHV1fS",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 250893,
-      "name": "La raza m\u00e1s chida",
-      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
+      "duration_ms": 246506,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246506,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
+      "duration_ms": 250893,
+      "name": "La raza m\u00e1s chida",
+      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dama De Los Callejones",
         "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 190093,
       "name": "Dama De Los Callejones",
       "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
     },
     {
       "added_at": null,
@@ -895,26 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Blues del Diablo y la Enfermedad",
-        "url": "https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq"
+        "name": "En vivo y a todo calor (En el Hollywood Palladium)",
+        "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
       },
       "artists": [
         {
-          "name": "T\u00e9 de Brujas",
-          "url": "https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj"
-        },
-        {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 267500,
-      "name": "El Blues del Diablo y la Enfermedad",
-      "url": "https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d"
+      "duration_ms": 442800,
+      "name": "Encuentros cercanos del 3er. sexo - En vivo",
+      "url": "https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm"
     }
   ],
   "unique_name": "This Is El Tri",

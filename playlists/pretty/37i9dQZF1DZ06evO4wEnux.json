@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAADlVTtpnIdS9A5eBb5ijFWO",
+  "snapshot_id": "Z0EbAAAAAAANiwrY01PZPfECCnMZ81bB",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 203668,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piece Of Mind",
         "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 201951,
       "name": "Piece Of Mind",
       "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 203668,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
     },
     {
       "added_at": null,
@@ -290,15 +290,11 @@
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        },
-        {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 284973,
-      "name": "Nothing to No One",
-      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
     },
     {
       "added_at": null,
@@ -358,11 +354,15 @@
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
     },
     {
       "added_at": null,

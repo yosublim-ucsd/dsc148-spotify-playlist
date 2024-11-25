@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1929,
+  "num_followers": 1932,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz54AAAAAABKoenpo4JVfpR5VZeIldWh",
+  "snapshot_id": "Z0EbAAAAAAAplt9qIq4ma6uBUAtyWfLw",
   "tracks": [
     {
       "added_at": null,
@@ -163,30 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 146289,
-      "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
-      "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart",
         "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
       },
@@ -263,6 +239,34 @@
       "duration_ms": 110000,
       "name": "Popsicle",
       "url": "https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PULSE (Remixes)",
+        "url": "https://open.spotify.com/album/6gnuh3z8Zrg6m9qk4oy8d3"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Phrva",
+          "url": "https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ENEMIES (feat. bludnymph& Shift K3Y) (Phrva Remix)",
+      "url": "https://open.spotify.com/track/33Yb60HyRCGC17s6YnsBQb"
     },
     {
       "added_at": null,
@@ -379,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lickity Splickity",
-        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Lickity Splickity",
-      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6izarre RAVE (with 6arelyhuman)",
         "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
       },
@@ -415,6 +403,22 @@
       "duration_ms": 168000,
       "name": "6izarre RAVE (with 6arelyhuman)",
       "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lickity Splickity",
+        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Lickity Splickity",
+      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
     },
     {
       "added_at": null,

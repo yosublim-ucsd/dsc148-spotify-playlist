@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/0xkvEKLxHa7F1lnLIl1sCO"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        }
+      ],
+      "date_added": "2024-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "CHECKMATE",
+      "url": "https://open.spotify.com/track/0nSAl0W9em1KhLuHbJjFqt"
+    },
+    {
+      "album": {
         "name": "Chef's Kiss (Samplifire Remix)",
         "url": "https://open.spotify.com/album/03mXFpwHn0eHzxvIBtwrzN"
       },
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 181846,
       "name": "FEEL THIS",
       "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"

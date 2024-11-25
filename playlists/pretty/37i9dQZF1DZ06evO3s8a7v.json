@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42218,
+  "num_followers": 42235,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAADO7xg83vniAGq3T1zwtTmV",
+  "snapshot_id": "Z0EbAAAAAACy2XyGdsWNw2vXH1Lihr2q",
   "tracks": [
     {
       "added_at": null,
@@ -1007,22 +1007,6 @@
       "duration_ms": 150000,
       "name": "Ta Pa Estar",
       "url": "https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAZA TAZA",
-        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 158522,
-      "name": "TAZA TAZA",
-      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
     }
   ],
   "unique_name": "This Is MYA",

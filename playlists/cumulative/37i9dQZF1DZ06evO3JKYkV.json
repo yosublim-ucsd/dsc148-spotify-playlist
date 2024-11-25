@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/6Roy2uPdfseTq8BWeIz2Ta"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364611,
+      "name": "Blackbox Life Recorder 20 [Ambient 760]",
+      "url": "https://open.spotify.com/track/1VLV3SIawyPmme1zP7a1PG"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-25",
       "duration_ms": 432893,
       "name": "On",
       "url": "https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S"

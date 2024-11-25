@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > ¡Gracias por vivir MEXCLA con nosotros! ✨💚 La Adictiva, Calle 24, y Justin Quiles en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,920 likes - 118 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,531 likes - 118 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

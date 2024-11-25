@@ -4,7 +4,7 @@
 
 > 
 
-241 songs - 15 hr 31 min
+242 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-19 |  |
 | [Bumpty](https://open.spotify.com/track/4Z49Jk7c8P5kypkXhGozX5) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Bumpty / Ferry Boat](https://open.spotify.com/album/6q52atNyTX9T1TEVanL8pn) | 3:24 | 2023-02-12 |  |
 | [Burning Down The House](https://open.spotify.com/track/3lTw81XyZsrZPiNvrOz0sN) | [Stanny Abram](https://open.spotify.com/artist/7H8yej1uexvZZLdON4b2k8), [Lab Doctors](https://open.spotify.com/artist/3H3JQ3JkEAidVAXhs6mZsK) | [Burning Down The House EP](https://open.spotify.com/album/6UjRDN4mQFqRK4z8Uvupid) | 3:17 | 2022-12-12 |  |
+| [Came To The Club](https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 2:45 | 2024-11-24 |  |
 | [Can You Feel It \- Radio Edit](https://open.spotify.com/track/6CGd0uFmGFxbFOJFVxQdBe) | [FOLEY \(UK\)](https://open.spotify.com/artist/6anTdfcXpebpP1MVwq4BZD) | [Can You Feel It](https://open.spotify.com/album/0S4iMIlBf2y3wH3sdGVz4v) | 3:27 | 2023-12-04 |  |
 | [Can You Move To The Beat](https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn) | [RETNA](https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz) | [Can You Move To The Beat](https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi) | 3:06 | 2023-02-02 |  |
 | [Caroline](https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Caroline](https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm) | 3:00 | 2023-07-19 |  |

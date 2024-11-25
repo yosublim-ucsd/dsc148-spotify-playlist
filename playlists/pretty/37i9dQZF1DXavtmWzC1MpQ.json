@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 141676,
+  "num_followers": 141733,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
         "name": "Country Birds",
         "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Soothing Birdsong by the River",
-      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+      },
+      "artists": [
+        {
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Soothing Birdsong by the River",
+      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Light Forest Rain Long",
-      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 2",
+      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
     },
     {
       "added_at": "2024-08-23 13:01:20",

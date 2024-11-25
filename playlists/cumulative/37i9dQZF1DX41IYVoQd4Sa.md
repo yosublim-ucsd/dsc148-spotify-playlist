@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. : אהוד בנאי
 
-136 songs - 8 hr 10 min
+137 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 | 2024-06-27 |  |
 | [האזרח האחד / ריבונו של עולם \- Live](https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [האזרח האחד / ריבונו של עולם \(Live\)](https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu) | 5:43 | 2024-06-27 | 2024-11-08 |
 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 | 2024-06-27 | 2024-10-29 |
+| [הבא שנוגע בי מת](https://open.spotify.com/track/1i4kcAV0Sbs9wJPmD8GPAD) | [Efrat Gosh](https://open.spotify.com/artist/31rjcnxNmi1OZHp6Ld7LLA) | [הבא שנוגע בי מת](https://open.spotify.com/album/7DUxPFr2TgIYc5jdLGBAWS) | 3:31 | 2024-11-21 |  |
 | [הדבר האמיתי](https://open.spotify.com/track/424f6LZLl4MpDRBFhCJVJw) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [דניאל ברזילאי](https://open.spotify.com/artist/5iklnNC2aChGQXXhheEyzF) | [הדבר האמיתי](https://open.spotify.com/album/6pfsgNjqvF5SvLbpQv9xil) | 3:27 | 2024-08-22 | 2024-09-13 |
 | [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 | 2024-08-09 |
 | [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 | 2024-10-17 | 2024-11-10 |
@@ -109,7 +110,7 @@
 | [מגדל המים](https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [מגדל המים](https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU) | 3:47 | 2024-06-27 |  |
 | [מה לעשות עם הזאב](https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [איך האהבה הזאת חומקת בין האצבעות](https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP) | 2:49 | 2024-06-27 |  |
 | [מה קורה](https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ) | [Assaf Amdursky](https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B) | [שירים שלא נכנסו לאלבום הראשון](https://open.spotify.com/album/0bPqS7b3y1MCdBXFEBSvxs) | 5:06 | 2024-06-27 | 2024-07-19 |
-| [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 | 2024-11-21 |  |
+| [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 | 2024-11-21 | 2024-11-25 |
 | [מה שצריך עכשיו](https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo) | [ניצן אלון](https://open.spotify.com/artist/0GHCd1IWetBFg2HuAelOSy), [Aviv Peck](https://open.spotify.com/artist/5fw6WCTMo2YveO5IP6cz6W) | [מה שצריך עכשיו](https://open.spotify.com/album/7ySfWffSk48imvNnivpPhd) | 3:19 | 2024-06-27 | 2024-07-12 |
 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 |  |
 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 | 2024-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gapes
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,332 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,325 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 12 | [Sem Sofrimento](https://open.spotify.com/track/7uuEDlKZAW0pYHOqjNOow0) | [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Sem Sofrimento](https://open.spotify.com/album/2AvdVu0uR1za758IJHOkAT) | 2:57 |
 | 13 | [Drive By](https://open.spotify.com/track/3vzhAsFp7MQ2vPidyUC5i0) | [Apenas Killua](https://open.spotify.com/artist/3YKyGoZV0cSOTXPUHi6vxe), [LK OG](https://open.spotify.com/artist/6uu0xGy8OBXwdw039u0H0M), [Marcelinx](https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI) | [Drive By](https://open.spotify.com/album/6ojG3gu6Md1xMyzVQ1kzQx) | 2:38 |
 | 14 | [Sua Culpa](https://open.spotify.com/track/3kmJF640M0mE8SiGapXnWY) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Sua Culpa](https://open.spotify.com/album/5jJZpWRypZy8ZZCqzromQc) | 1:58 |
-| 15 | [Canino](https://open.spotify.com/track/1ZIgNqkdknrvq9LsiFiXbh) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Tuti](https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM) | [2 L3Trinha \(Deluxe\)](https://open.spotify.com/album/57kZZd9aelpP8EDZrJ0Whl) | 2:45 |
+| 15 | [Canino](https://open.spotify.com/track/1ZIgNqkdknrvq9LsiFiXbh) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Tuti](https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM) | [2 L3Trinha \(Deluxe\)](https://open.spotify.com/album/57kZZd9aelpP8EDZrJ0Whl) | 2:45 |
 | 16 | [LEI R.I.C.O](https://open.spotify.com/track/5mPugR7pxteMwPTP5SN1rr) | [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7) | [LEI R.I.C.O](https://open.spotify.com/album/1rAr8SO9TQ6AWe2L52gaca) | 2:23 |
 | 17 | [CONDUTA](https://open.spotify.com/track/1TEg5pNsMnthX1rpehPcAy) | [DEH.](https://open.spotify.com/artist/24QBXmQdL8Mitbs4tSvXmv), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd) | [CONDUTA](https://open.spotify.com/album/6ZKuKvs1NFScCDmW4DKU46) | 3:02 |
 | 18 | [Ruído Azul](https://open.spotify.com/track/0GLQjqeTaMjt7aTacUKPsC) | [Nik](https://open.spotify.com/artist/0seMdVniNc5nmoS6kiPlbS), [Francê](https://open.spotify.com/artist/5gijtI85cwYFczCLzmMED7), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Ruído Azul](https://open.spotify.com/album/6C0uTS11ksLTUIp141k53n) | 2:22 |

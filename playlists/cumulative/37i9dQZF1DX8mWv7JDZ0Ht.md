@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavitória
 
-747 songs - 1 day 13 hr 16 min
+748 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 | 2024-05-09 |
 | [Cofre](https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cofre](https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2023-11-07 |
+| [Coisa de Casa](https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Coisa de Casa](https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ) | 3:32 | 2024-11-22 |  |
 | [Coisa de Cinema](https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV), [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Coisa de Cinema](https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk) | 2:55 | 2024-10-04 |  |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
 | [Coisa Rara](https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Coisa Rara](https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn) | 2:45 | 2024-06-21 | 2024-11-09 |
@@ -436,7 +437,7 @@
 | [Noites De Monza](https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Noites De Monza](https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH) | 2:51 | 2024-07-26 |  |
 | [Nos Seus Olhos](https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Nos Seus Olhos](https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT) | 3:35 | 2023-06-16 | 2023-07-08 |
 | [Nossa Resenha](https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Nossa Resenha](https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr) | 2:41 | 2024-01-12 |  |
-| [Nosso Carnaval](https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6) | [Brandão](https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U) | [Nosso Carnaval](https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK) | 2:45 | 2024-05-10 |  |
+| [Nosso Carnaval](https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6) | [Brandão](https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U) | [Nosso Carnaval](https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK) | 2:45 | 2024-05-10 | 2024-11-25 |
 | [Nossos Dias](https://open.spotify.com/track/50uEFZ86rXLP30bCtrNUFQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Nossos Dias](https://open.spotify.com/album/7tKjDAziaGsgERy2q4nvEb) | 2:44 | 2024-04-26 | 2024-06-08 |
 | [Nova Bad](https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:08 | 2023-07-11 | 2023-10-07 |
 | [Nova Bad \- Ao Vivo](https://open.spotify.com/track/3T1E29Lyz9fIDK2WM5zB10) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melhor De Três \(Ao Vivo\)](https://open.spotify.com/album/2YkAm2Wrk9iL36VNt0gXLI) | 3:15 | 2023-11-10 | 2024-02-10 |

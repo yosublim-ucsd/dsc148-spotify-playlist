@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 77557,
+  "num_followers": 77579,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -135,46 +135,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "RIP TO MOZART",
-        "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 122117,
-      "name": "RIP TO MOZART",
-      "url": "https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Hardcore MF",
-        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
-      },
-      "artists": [
-        {
-          "name": "Access One",
-          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
-        }
-      ],
-      "duration_ms": 166308,
-      "name": "Hardcore MF",
-      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Trip to Scotland",
         "url": "https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB"
       },
@@ -195,6 +155,46 @@
       "duration_ms": 175800,
       "name": "Trip to Scotland",
       "url": "https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Hardcore MF",
+        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
+      },
+      "artists": [
+        {
+          "name": "Access One",
+          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
+        }
+      ],
+      "duration_ms": 166308,
+      "name": "Hardcore MF",
+      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "RIP TO MOZART",
+        "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 122117,
+      "name": "RIP TO MOZART",
+      "url": "https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "No Time To Lose",
-        "url": "https://open.spotify.com/album/3FVY38q25PPbxrAUSlk4f2"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "No Time To Lose",
-      "url": "https://open.spotify.com/track/7Hqzl4HDknxOZTUzWb9duw"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Trip to Greece",
         "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 186559,
       "name": "Trip to Greece",
       "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "No Time To Lose",
+        "url": "https://open.spotify.com/album/3FVY38q25PPbxrAUSlk4f2"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "No Time To Lose",
+      "url": "https://open.spotify.com/track/7Hqzl4HDknxOZTUzWb9duw"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -343,26 +343,6 @@
       "duration_ms": 155024,
       "name": "Major Bounce",
       "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -415,34 +395,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Straight To The Brain",
-        "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Straight To The Brain",
-      "url": "https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
-      },
-      "artists": [
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
         }
       ],
-      "duration_ms": 152093,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -475,6 +443,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "Hardcore Life",
         "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Bring It Hardcore",
-        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+        "name": "Straight To The Brain",
+        "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
       },
       "artists": [
         {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         }
       ],
-      "duration_ms": 284494,
-      "name": "Bring It Hardcore",
-      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+      "duration_ms": 125333,
+      "name": "Straight To The Brain",
+      "url": "https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -523,46 +507,6 @@
       "duration_ms": 166800,
       "name": "In Synergy",
       "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Life's A Bitch",
-        "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 213073,
-      "name": "Life's A Bitch",
-      "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Trip to Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Trip to Espa\u00f1a",
-      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -591,6 +535,62 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Trip to Espa\u00f1a",
+        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Trip to Espa\u00f1a",
+      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Bring It Hardcore",
+        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 284494,
+      "name": "Bring It Hardcore",
+      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Life's A Bitch",
+        "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 213073,
+      "name": "Life's A Bitch",
+      "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "The Deadly Fist",
         "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194710,
       "name": "The Deadly Fist",
       "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "The Apocalypse",
         "url": "https://open.spotify.com/album/0isNxwaR0jiaJwNMrGRUiZ"
       },
@@ -775,22 +759,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "The Light (Defqon.1 2024 BLACK OST)",
-        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
       },
       "artists": [
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
         }
       ],
-      "duration_ms": 215785,
-      "name": "The Light (Defqon.1 2024 BLACK OST)",
-      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "The Light (Defqon.1 2024 BLACK OST)",
+        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "duration_ms": 215785,
+      "name": "The Light (Defqon.1 2024 BLACK OST)",
+      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "HYPER",
         "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
       },
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Zware Jongens",
-        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
-      },
-      "artists": [
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Zware Jongens",
-      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Meteor",
         "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 220800,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Zware Jongens",
+        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
+      },
+      "artists": [
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Zware Jongens",
+      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Thunder In Paradise",
-        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
       },
@@ -987,22 +971,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Bounce To This (Official Bounce Anthem 2024)",
-        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
       },
       "artists": [
         {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Bounce To This - Official Bounce Anthem 2024",
-      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
+      "duration_ms": 159600,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -1023,6 +1003,26 @@
       "duration_ms": 201600,
       "name": "Deep In The Underground",
       "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Bounce To This (Official Bounce Anthem 2024)",
+        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
+      },
+      "artists": [
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Bounce To This - Official Bounce Anthem 2024",
+      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "Het Beest Is Wakker",
         "url": "https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "ART IS DEAD",
         "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 214670,
       "name": "ART IS DEAD",
       "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -1171,6 +1155,22 @@
       "duration_ms": 207290,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

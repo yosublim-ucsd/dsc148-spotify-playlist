@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Hijos de Barron
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,213 likes - 287 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,231 likes - 287 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

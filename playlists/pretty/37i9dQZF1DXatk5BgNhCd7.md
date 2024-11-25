@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Gilberto Santa Rosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,065 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,111 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 17 | [Te Amo Más](https://open.spotify.com/track/1BvWAA04l26fFKN1IiSIgm) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Lita Pezo](https://open.spotify.com/artist/5Gk5zGAY0oOPITgVzcIEVN) | [Te Amo Más](https://open.spotify.com/album/4uiEjvxm5P9yvvs76ASkMf) | 3:44 |
 | 18 | [Que Me Puedas Amar \- Live Session](https://open.spotify.com/track/6CAJqwEmHJ5ILgEzlXGVNh) | [Los K Morales](https://open.spotify.com/artist/1fGyfOQwyXQgEPePzrFQ63), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS) | [Que Me Puedas Amar \(Live Session\)](https://open.spotify.com/album/3S2xS0UtvN9j9i9t5DGS56) | 7:54 |
 | 19 | [La Colombiana](https://open.spotify.com/track/2NrjfuyNrrH4gouFkaLeAv) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR), [Tato Marenco](https://open.spotify.com/artist/1upEKnNDuDztoMvdR1sbHq) | [La Colombiana](https://open.spotify.com/album/5sNaRMjLmcswwXxA7SZDpz) | 3:28 |
-| 20 | [Prometo Olvidarte \(feat\. Maffio\) \- Maffio Mix](https://open.spotify.com/track/3vJ6PTPcyOw0TG4H7X3w4p) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Prometo Olvidarte \(feat\. Maffio\) \[Maffio Mix\]](https://open.spotify.com/album/4AcXNPEcucdGBQPfZLw7Bo) | 3:36 |
+| 20 | [Prometo Olvidarte \(feat\. Arturo Sandoval\) \- Maffio Mix](https://open.spotify.com/track/3vJ6PTPcyOw0TG4H7X3w4p) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Prometo Olvidarte \(feat\. Arturo Sandoval\) \[Maffio Mix\]](https://open.spotify.com/album/4AcXNPEcucdGBQPfZLw7Bo) | 3:36 |
 | 21 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
 | 22 | [Lo De Los Dos](https://open.spotify.com/track/1h6A97LKGkFLUXI3MUX7vu) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Lo De Los Dos](https://open.spotify.com/album/3HdUwjOB7REHv4AQDtw4Hp) | 2:37 |
 | 23 | [No Son Horas](https://open.spotify.com/track/3JOshySBmF3ngMe87GGoIy) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [No Son Horas](https://open.spotify.com/album/5tT7mhK6jeGnGFnxqU1UZE) | 4:01 |

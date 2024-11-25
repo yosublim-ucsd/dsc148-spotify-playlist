@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Architects
 
-7,962 songs - 22 day 8 hr 38 min
+7,963 songs - 22 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5973,6 +5973,7 @@
 | [Silk Ash Cascade](https://open.spotify.com/track/2KOCGIlNJdv9JtRpBsK9FG) | [Gridlink](https://open.spotify.com/artist/1g4NlVGPbmZ7nDWHZ1voV1) | [Silk Ash Cascade](https://open.spotify.com/album/11uNJnpnq5j0dvtn5wc9X7) | 2:24 | 2023-08-04 | 2023-08-12 |
 | [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 | 2023-03-17 | 2023-03-25 |
 | [Silver Lining](https://open.spotify.com/track/13cJ2yKnuaUUotfAoQQGIK) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Silver Lining](https://open.spotify.com/album/0XVMZJr6K4crXvOmm0x1tJ) | 3:55 | 2023-03-17 | 2023-03-25 |
+| [Silver Linings](https://open.spotify.com/track/2GwRUWL6Fz3YDduk4sQimH) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Silver Linings](https://open.spotify.com/album/5bow49ccuChSD08hs0Uv31) | 4:39 | 2024-11-24 |  |
 | [Silver Romance](https://open.spotify.com/track/7jlz3baObFmxllxrhYiEox) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Silver Romance](https://open.spotify.com/album/5jbyUcBtTrfrUM4FMaZJTO) | 4:07 | 2024-05-10 | 2024-05-18 |
 | [Silver Surfer](https://open.spotify.com/track/5IM3ek11JGxvh3bxAWYN2E) | [Callejon](https://open.spotify.com/artist/1ce15ppX5OYxPsBVESZG3W) | [Silver Surfer](https://open.spotify.com/album/2EWuSpTkSIRDJksC6Srycp) | 3:31 | 2022-09-02 | 2022-09-10 |
 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 | 2022-08-05 | 2022-08-13 |

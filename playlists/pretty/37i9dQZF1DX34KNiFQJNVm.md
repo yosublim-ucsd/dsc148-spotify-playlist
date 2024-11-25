@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira, Mumuzinho com Thiaguinho, MC PH, Lou Garcia com Mc Livinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,957,678 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958,016 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [hoje \(tanto faz\)](https://open.spotify.com/track/7Czo8exKcYohS7NDOkOePd) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [hoje \(tanto faz\)](https://open.spotify.com/album/6CMYkED6oa2RoyzPRwuHCh) | 2:54 |
 | 23 | [\#SV 09 \- Raflow / Nasci pra ser](https://open.spotify.com/track/2QCa8ZLC1ZKqMjzLhh5jRY) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 09 \- Raflow / Nasci pra ser](https://open.spotify.com/album/11YU7N2GD9nTsMKZlZC82g) | 2:25 |
 | 24 | [Namora Ela \- Ao Vivo](https://open.spotify.com/track/28lX0N3Fa1L5YzzPfklvc0) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Namora Ela \(Ao Vivo\)](https://open.spotify.com/album/5fadpHFKpJUfyLr1kcPwpA) | 2:37 |
-| 25 | [Melhores Estranhos](https://open.spotify.com/track/6mnZwniJUi2nRzDZ3LJNwi) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 3:03 |
+| 25 | [Melhores Estranhos \- Ao Vivo](https://open.spotify.com/track/6mnZwniJUi2nRzDZ3LJNwi) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 3:03 |
 | 26 | [Desapego \- Ao Vivo](https://open.spotify.com/track/7xEh7mjymlbiTiUhg7zdON) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Desapego \(Ao Vivo\)](https://open.spotify.com/album/3uYS8Zc6M6ArNUl1MupOnF) | 2:36 |
 | 27 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 |
 | 28 | [Pinturas e Telas](https://open.spotify.com/track/3o5TzYJ2YbMCRrZuIia5sk) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Pinturas e Telas](https://open.spotify.com/album/2NU4xofFgAIx4RzQnKBzi4) | 3:44 |

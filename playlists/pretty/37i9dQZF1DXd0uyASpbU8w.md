@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Kf6RONZ3Raueyz2jlsKnYA">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,049 likes - 81 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,086 likes - 81 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 8 | [Onole Kae \(feat\. CowBoii\)](https://open.spotify.com/track/0KQT0AbkQSGkClVEV0W6eh) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [Onole Kae \(feat\. CowBoii\)](https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea) | 7:20 |
 | 9 | [Ngivuma Ngemizwa](https://open.spotify.com/track/5UffX4fqFG5lUnqpWvejcV) | [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro) | [IKIGAI THE SECOND SAMURAI SIDE B](https://open.spotify.com/album/6yOTiIY9Kpul4vExGoJzhl) | 6:52 |
 | 10 | [Kumbuka](https://open.spotify.com/track/3pBXGBdrpugqgqPQc7dzKi) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [IDQ](https://open.spotify.com/artist/7hnjjhKjLH0brVHm5Bi3gc) | [Kumbuka](https://open.spotify.com/album/7pW7fIb6K86bSaJLDX1dT2) | 3:26 |
-| 11 | [Sthandwa Sam](https://open.spotify.com/track/7ArSWQyK8hluBei4bzMdqO) | [Genesis 99](https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX), [Brightness](https://open.spotify.com/artist/6lP1TZWvL5uDrfdd6Ltsh2), [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq) | [Sthandwa Sam](https://open.spotify.com/album/5CqELzH2sRFn6cj9dId6b3) | 6:59 |
+| 11 | [Sthandwa Sam](https://open.spotify.com/track/7ArSWQyK8hluBei4bzMdqO) | [Genesis 99](https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX), [Brightness](https://open.spotify.com/artist/6lP1TZWvL5uDrfdd6Ltsh2), [Sam Deep](https://open.spotify.com/artist/5NjCXFVJ72QUzqYPd6oPEz) | [Sthandwa Sam](https://open.spotify.com/album/5CqELzH2sRFn6cj9dId6b3) | 6:59 |
 | 12 | [My Love \(feat\. De Mthuda\)](https://open.spotify.com/track/5Y87zQQrgmddByYkM24VDA) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [My Love \(feat\. De Mthuda\)](https://open.spotify.com/album/7h0e8z0Xxyer0RBxzxq9hr) | 6:22 |
 | 13 | [Dangerous](https://open.spotify.com/track/4fgJvKOlQZ7tJYv42vjtss) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku), [Section Five](https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS) | [Dangerous](https://open.spotify.com/album/4kChvG2Mn0eCTXVezJY9SP) | 4:21 |
 | 14 | [Shayi'Zule](https://open.spotify.com/track/6d00JflAgJ7r5sfyo68szo) | [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Dark or Durban 2](https://open.spotify.com/album/1mimaWKWM30PPOG0Q7qhOQ) | 5:45 |

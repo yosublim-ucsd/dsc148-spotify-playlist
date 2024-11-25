@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 289734,
+  "num_followers": 289812,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAAB+R9T3jmwdvishTknvYVft",
+  "snapshot_id": "Z0EbAAAAAAA4VmCqvouQ+hxqpU2Wrkr3",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 271933,
-      "name": "Circus for a Psycho",
-      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
+      "duration_ms": 226506,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 226506,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
+      "duration_ms": 271933,
+      "name": "Circus for a Psycho",
+      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
       "duration_ms": 211149,
       "name": "Beyond Incredible",
       "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 197586,
       "name": "You Get Me High",
       "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
     }
   ],
   "unique_name": "This Is Skillet",

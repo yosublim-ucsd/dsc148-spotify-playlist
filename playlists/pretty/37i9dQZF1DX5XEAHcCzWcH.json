@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 43192,
+  "num_followers": 43225,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Wake Up And Live!",
-        "url": "https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 205866,
-      "name": "Hey, Bartender",
-      "url": "https://open.spotify.com/track/0eIvaD41ZuT8Eg5uDvfSKs"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -119,6 +119,22 @@
       "duration_ms": 175773,
       "name": "Hard Times (No One Knows Better Than I)",
       "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Wake Up And Live!",
+        "url": "https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Hey, Bartender",
+      "url": "https://open.spotify.com/track/0eIvaD41ZuT8Eg5uDvfSKs"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -167,6 +183,22 @@
       "duration_ms": 190733,
       "name": "Milk And Water",
       "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -235,22 +267,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 154400,
       "name": "One For The Highway",
       "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "The Essential Leroy Carr",
-        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
       },
       "artists": [
         {
-          "name": "Leroy Carr",
-          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Papa's on the House Top",
-      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -355,18 +355,34 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+        "name": "The Essential Leroy Carr",
+        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Leroy Carr",
+          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
         }
       ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
+      "duration_ms": 175400,
+      "name": "Papa's on the House Top",
+      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -403,22 +419,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Solo Ride",
         "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "New York City Blues",
-      "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "New York City Blues",
+      "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 250877,
-      "name": "Wade In The Water",
-      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 180866,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 250877,
+      "name": "Wade In The Water",
+      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Pinetop",
-      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "That's All Right (When the Sun Goes Down series)",
         "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 150613,
       "name": "Rockin' with Red - Remastered 2002",
       "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -783,6 +751,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
         "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 185600,
       "name": "Early in the Morning",
       "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Pinetop",
+      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -867,6 +867,22 @@
       "duration_ms": 187160,
       "name": "Whistling Alex Moore's Blues",
       "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -959,22 +975,6 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2024-05-30 16:22:42",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,284 songs - 6 day 19 hr 24 min
+4,285 songs - 6 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Across the River](https://open.spotify.com/track/426RlrJbfmYhYimbrUF96W) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Across the River](https://open.spotify.com/album/2aGLbBtI2gkYtKZ10Na7VA) | 2:48 | 2021-11-17 | 2022-04-22 |
 | [Across the valley](https://open.spotify.com/track/37FTjS7kvGkvw4ftZpO59H) | [l'Outlander](https://open.spotify.com/artist/5tvVRGHiqZjsZDIYvLDdl5) | [Across the valley](https://open.spotify.com/album/4B68R4nArFnb2cgqCUz3Iq) | 2:28 | 2020-12-11 | 2021-03-02 |
 | [Actually Urgent](https://open.spotify.com/track/1eK24FCLgi5Z5zWWdVwfso) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Actually Urgent](https://open.spotify.com/album/5ifLueEAuHLdiaa48LXZEG) | 1:40 | 2022-01-20 | 2022-09-23 |
+| [Addison](https://open.spotify.com/track/1IokvoB3TZTb1O7fKy7f2O) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Addison](https://open.spotify.com/album/0boTtw9H8hyNw1dNs8EqVH) | 1:39 | 2024-11-11 |  |
 | [Adele](https://open.spotify.com/track/1eeoMyqCQP0sKUjwH6pPcj) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Adele](https://open.spotify.com/album/7ID9pP53DPzfpgXA03soZi) | 2:15 | 2023-01-20 | 2023-03-03 |
-| [Adrenaline](https://open.spotify.com/track/0DdyQ17UMfabOkbkXrwZpZ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Adrenaline](https://open.spotify.com/album/7x5ddLYIrA5fcVXGZqjy7j) | 1:44 | 2023-11-13 |  |
+| [Adrenaline](https://open.spotify.com/track/0DdyQ17UMfabOkbkXrwZpZ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Adrenaline](https://open.spotify.com/album/7x5ddLYIrA5fcVXGZqjy7j) | 1:44 | 2023-11-13 | 2024-11-25 |
 | [Adriatica](https://open.spotify.com/track/37k4ukRm7nCkyU6ymyCx0t) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Adriatica](https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3) | 2:24 | 2021-09-10 | 2022-01-21 |
 | [Adrift](https://open.spotify.com/track/1cTBFPIJNSK17JMXoKqVpo) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Adrift](https://open.spotify.com/album/4CtzJMnMngbZaje4tDnh9l) | 2:09 | 2023-01-12 | 2023-02-17 |
 | [Adu](https://open.spotify.com/track/54D5XaShAOfQ4O8djPa100) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Adu](https://open.spotify.com/album/5wqZksUCwHNWIGpbP7fiTw) | 1:57 | 2021-09-18 | 2022-05-06 |
@@ -531,7 +532,7 @@
 | [Bumpin](https://open.spotify.com/track/30BzCeRTe7p6m0RZHDZ9xq) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [Bumpin](https://open.spotify.com/album/5631pfIPZjkwQ3plcEGPf1) | 1:54 | 2021-02-08 | 2021-05-28 |
 | [Bunny Blues](https://open.spotify.com/track/0QB2dYuFPEhno0dCzG5Md9) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Bunny Blues](https://open.spotify.com/album/4RNYwEYdCSieKtrhIWPsRC) | 1:55 | 2023-11-13 | 2023-12-15 |
 | [bunny slope](https://open.spotify.com/track/2zUCoPcGyBgFXACg3Eh21a) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [bunny slope](https://open.spotify.com/album/0yraOO8JSEOKwzDuauiZ9m) | 2:55 | 2021-12-17 | 2022-01-21 |
-| [Buoyant](https://open.spotify.com/track/0qgrapBbyeoDtHhsuWEC0N) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Buoyant](https://open.spotify.com/album/5bob9pHXLXlVzAQFsbqfPr) | 1:44 | 2022-08-18 |  |
+| [Buoyant](https://open.spotify.com/track/0qgrapBbyeoDtHhsuWEC0N) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Buoyant](https://open.spotify.com/album/5bob9pHXLXlVzAQFsbqfPr) | 1:44 | 2022-08-18 | 2024-11-25 |
 | [Burning](https://open.spotify.com/track/4lAO371GLzhw5FZZdzl4Fr) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Burning](https://open.spotify.com/album/5sbY77swkgHs7rfyLivaEM) | 2:24 | 2021-07-04 | 2021-07-30 |
 | [Burnt Toast](https://open.spotify.com/track/7lzHHJ9Q8Sxbz45L4tgPDU) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Debris](https://open.spotify.com/album/0O4o6u8rcsBZacMwNnHgtY) | 2:10 | 2022-10-25 | 2023-02-17 |
 | [But Not For Me](https://open.spotify.com/track/2TBMHEJgPUvxsaoQ5W4YwP) | [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [But Not For Me](https://open.spotify.com/album/6OK95kft518XyEuoG0pR26) | 1:47 | 2024-08-22 |  |
@@ -3832,7 +3833,7 @@
 | [timeout](https://open.spotify.com/track/1hayxE5H7NXNf8E35XhqEh) | [Spaze Windu](https://open.spotify.com/artist/0yAQ48yJ94zWFTs0YUIdcE) | [timeout](https://open.spotify.com/album/3PxiWE0hIdcT1qYP53bLS1) | 2:11 | 2020-07-03 | 2021-02-26 |
 | [Tiny Sailboat](https://open.spotify.com/track/3bPsHHJ6EL2xZSflLsIve3) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Coniferous](https://open.spotify.com/album/2dPa5nSDfNDStYSYJBc6sU) | 2:30 | 2019-09-06 | 2020-03-10 |
 | [Tiptoes](https://open.spotify.com/track/71vjpbJNssg9VHQdwIa7O1) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Tiptoes](https://open.spotify.com/album/4OLPpFlJdhGMB2u6Q1hI6P) | 2:06 | 2024-02-15 | 2024-04-05 |
-| [Tiranium](https://open.spotify.com/track/3tEBXW0NhsUPuf4NrVp2pQ) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Tiranium](https://open.spotify.com/album/30gQL93RyGgZzP906g5khA) | 1:48 | 2024-10-24 | 2024-10-29 |
+| [Tiranium](https://open.spotify.com/track/3tEBXW0NhsUPuf4NrVp2pQ) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Tiranium](https://open.spotify.com/album/30gQL93RyGgZzP906g5khA) | 1:48 | 2024-10-24 |  |
 | [To Do What](https://open.spotify.com/track/27gEraMIPg2vvCXDLZo9sk) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [To Do What](https://open.spotify.com/album/4U6KCEOrWuFYLxzLGboorU) | 2:32 | 2021-02-26 | 2021-07-30 |
 | [To The Stars](https://open.spotify.com/track/0hy1DFR21Ap96tmwWr6btQ) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [To The Stars](https://open.spotify.com/album/3GbBWakbRyyR2CDurt8gCk) | 2:14 | 2021-02-26 | 2021-04-23 |
 | [Toada](https://open.spotify.com/track/0wRBLhXKcxODx9734qcZ9h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Boranda](https://open.spotify.com/album/78zZ4BLZVCszy6iRBCKk9F) | 1:36 | 2022-02-17 | 2022-03-11 |

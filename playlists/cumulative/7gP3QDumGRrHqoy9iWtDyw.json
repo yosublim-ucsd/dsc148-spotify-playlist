@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "Came To The Club",
+      "url": "https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0"
+    },
+    {
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/0S4iMIlBf2y3wH3sdGVz4v"
       },

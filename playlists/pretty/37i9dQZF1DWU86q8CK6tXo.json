@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!",
-  "num_followers": 59751,
+  "num_followers": 59754,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "LEFT EYE",
+        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "LEFT EYE",
+      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
         "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 308946,
       "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
       "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "LEFT EYE",
-        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "LEFT EYE",
-      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
     },
     {
       "added_at": "2024-11-01 04:00:00",

@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2024-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183808,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P"
+    },
+    {
+      "album": {
         "name": "Turn Off The Rain",
         "url": "https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp"
       },

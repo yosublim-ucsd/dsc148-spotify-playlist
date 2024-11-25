@@ -103,7 +103,6 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-12-23 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 | 2023-05-06 |
-| [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [Finding Answers](https://open.spotify.com/track/1s9khyr4VgXtGG2SavtYk9) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Finding Answers](https://open.spotify.com/album/4YFZZHnj0MjZZjA4UbVE9u) | 3:19 | 2024-05-11 |  |
 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/2co7WVDd5eQEiBZm3egDlJ) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 | 2024-03-14 |  |
@@ -335,6 +334,7 @@
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2021-12-23 | 2022-09-03 |
 | [Yamuna](https://open.spotify.com/track/3kzMuziVFP7PTOry77H9W7) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Yamuna](https://open.spotify.com/album/4t0Y3UVW4APwGMvdRn2g47) | 3:01 | 2021-12-23 | 2023-05-06 |
 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 | 2021-12-23 | 2023-07-14 |
+| [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [Étoile Filante](https://open.spotify.com/track/6el7dUWCVjTxmmuiJ5ZOZi) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Étoile Filante](https://open.spotify.com/album/7MuvhPd12QlybjsIsQeGY1) | 2:29 | 2024-06-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

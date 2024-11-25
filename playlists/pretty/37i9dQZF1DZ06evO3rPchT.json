@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73528,
+  "num_followers": 73537,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/JgAAAAAD0xaWI/kFCXbh6o8gnXXBu",
+  "snapshot_id": "Z0EbAAAAAAAaxpFO0kYppZiNUlfHzZ/+",
   "tracks": [
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whiskey On Whiskey",
-        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168525,
-      "name": "Colorado (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 189336,
       "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
       "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whiskey On Whiskey",
+        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168525,
+      "name": "Colorado (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
     },
     {
       "added_at": null,

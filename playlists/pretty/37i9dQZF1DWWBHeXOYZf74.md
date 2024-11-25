@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340,099 likes - 109 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340,100 likes - 109 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 5 | [Ash \(feat\. Deb Never\)](https://open.spotify.com/track/0txPmhnFeaK0KlTZGRrYGE) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ash \(feat\. Deb Never\)](https://open.spotify.com/album/3m2kDWdLz7Yp3VW7EW9ErO) | 3:38 |
 | 6 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
 | 7 | [Losing You](https://open.spotify.com/track/1z5gCDJRjiRcDyJ7WVFpOL) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Losing You](https://open.spotify.com/album/28o6OgrsIcPU8z9xONlxNV) | 3:11 |
-| 8 | [dodger blue \(feat\. wallie the sensei, roddy ricch, siete7x\)](https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:11 |
+| 8 | [dodger blue \(feat\. wallie the sensei, siete7x, roddy ricch\)\)](https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:11 |
 | 9 | [ydoifeel?](https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [ydoifeel?](https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2) | 3:10 |
 | 10 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
 | 11 | [Found](https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Found](https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g) | 2:43 |

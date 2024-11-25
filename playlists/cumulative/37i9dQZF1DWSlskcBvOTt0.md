@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-800 songs - 2 day 23 hr 3 min
+801 songs - 2 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 | 2023-05-03 |
 | [After All](https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [After All / Hidden Place](https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD) | 5:20 | 2024-11-08 | 2024-11-14 |
 | [After Glow](https://open.spotify.com/track/7EukyOmsxbTvdaCAxlaSF0) | [Clarian](https://open.spotify.com/artist/2polW59xyLfTDB4E5Ig7Xa) | [After Glow](https://open.spotify.com/album/5hVnONvAlyPC01bq90TvL8) | 8:41 | 2021-07-02 | 2022-07-27 |
+| [After The Love](https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [After The Love](https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH) | 3:00 | 2024-11-22 |  |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-07-01 | 2023-09-30 |
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-01-21 | 2022-10-28 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-04-21 | 2022-04-23 |
@@ -193,7 +194,7 @@
 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 | 2023-08-11 | 2024-04-19 |
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-09-30 | 2023-06-22 |
 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 | 2023-07-28 | 2024-10-05 |
-| [Dope Dance \- Hugo Cantarra Remix](https://open.spotify.com/track/0eVAFurxrzU6kJwHwZDUiD) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n) | [Dope Dance \(Hugo Cantarra Remix\)](https://open.spotify.com/album/3GnMLftJutXtkO0jj96u7Q) | 4:43 | 2024-10-25 |  |
+| [Dope Dance \- Hugo Cantarra Remix](https://open.spotify.com/track/0eVAFurxrzU6kJwHwZDUiD) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n) | [Dope Dance \(Hugo Cantarra Remix\)](https://open.spotify.com/album/3GnMLftJutXtkO0jj96u7Q) | 4:43 | 2024-10-25 | 2024-11-25 |
 | [Down Under](https://open.spotify.com/track/21vpeJhpOxj1cJBoePQ7r0) | [Raphael Mader](https://open.spotify.com/artist/5bHTqDmjxo8or1zMRPFaYM) | [Down Under EP](https://open.spotify.com/album/16Y843bg8bLoatMatYZ909) | 3:49 | 2021-05-28 | 2022-07-28 |
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Dreaming](https://open.spotify.com/track/48ZWrSQx1KWJlpSf7xVERc) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [DJ VITOTO](https://open.spotify.com/artist/6Yr8wYy6BC4h2BbVLAL5aF), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Dreaming](https://open.spotify.com/album/78DAt8TfxZFuA9bszrMu30) | 4:11 | 2024-10-18 |  |

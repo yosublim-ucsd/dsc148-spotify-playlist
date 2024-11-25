@@ -49,7 +49,7 @@
 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 | 2020-03-13 |  |
 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 | 2020-03-13 |  |
 | [Rockstar](https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6) | 4:27 | 2020-03-13 | 2023-03-02 |
-| [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 | 2020-03-13 | 2024-11-18 |
+| [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 | 2020-03-13 |  |
 | [Rombos \(Un Cuarto Lleno de Rombos\)](https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:23 | 2024-03-25 |  |
 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 | 2020-03-13 |  |
 | [Sabado A La Noche](https://open.spotify.com/track/3Aa4WYAaWgoZLrvwsTgKD8) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Belleza](https://open.spotify.com/album/5fo4yhqxaQ9fYwbuT8xxtB) | 2:45 | 2020-03-13 |  |
@@ -68,6 +68,6 @@
 | [Viva Satana](https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Dopadromo](https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl) | 3:51 | 2020-03-13 |  |
 | [Weekend](https://open.spotify.com/track/79Naq0ymabqPjjX3jMa1k7) | [DDT](https://open.spotify.com/artist/20s5z4UebbOjqn71EYXdiT) | [Demonios De Tasmania](https://open.spotify.com/album/13Q4tQt4MwkKOUUDFRxOL2) | 3:20 | 2020-03-13 | 2023-05-30 |
 | [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 | 2020-03-13 | 2024-04-19 |
-| [Weekend](https://open.spotify.com/track/1OsyjumiWfSmFY8XQqNxAo) | [Demonios de Tasmania](https://open.spotify.com/artist/0mARcA4ibtJXGnWhEJa9Z0) | [Modelo 96](https://open.spotify.com/album/2uGNKMnLRyyBPNFh7X1qho) | 3:23 | 2020-03-13 |  |
+| [Weekend](https://open.spotify.com/track/1OsyjumiWfSmFY8XQqNxAo) | [Demonios de Tasmania](https://open.spotify.com/artist/0mARcA4ibtJXGnWhEJa9Z0) | [Modelo 96](https://open.spotify.com/album/2uGNKMnLRyyBPNFh7X1qho) | 3:23 | 2020-03-13 | 2024-11-25 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.
