@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η LILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,664 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,660 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

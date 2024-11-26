@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 40721,
+  "num_followers": 40804,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Vents Calmes",
-        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
-      },
-      "artists": [
-        {
-          "name": "Ellis Atkins",
-          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Vents Calmes",
-      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 147374,
       "name": "Nereal Beauty",
       "url": "https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Vents Calmes",
+        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
+      },
+      "artists": [
+        {
+          "name": "Ellis Atkins",
+          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Vents Calmes",
+      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Devotions",
-        "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
-      },
-      "artists": [
-        {
-          "name": "Hans Heeler",
-          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Devotions",
-      "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "The Banks Of Juru",
         "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5"
+        "name": "Devotions",
+        "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
       "artists": [
         {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
         }
       ],
-      "duration_ms": 153010,
-      "name": "Bask",
-      "url": "https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0"
+      "duration_ms": 176666,
+      "name": "Devotions",
+      "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1543,6 +1527,22 @@
       "duration_ms": 203442,
       "name": "Silver Glass",
       "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "duration_ms": 153010,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
         "name": "Restful Days",
         "url": "https://open.spotify.com/album/1qdQorBzd93vJb4iRS43b8"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 136009,
       "name": "Peace Within",
       "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
-      },
-      "artists": [
-        {
-          "name": "Hontoni",
-          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "432 Hz - Din Aur Raat",
         "url": "https://open.spotify.com/album/0bFlvpmQGGiH43x1n29ptn"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 152915,
       "name": "432 Hz - Din Aur Raat",
       "url": "https://open.spotify.com/track/3TM9284Jq1JRm0EouDrEGa"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
+      },
+      "artists": [
+        {
+          "name": "Hontoni",
+          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Shimmering Forest",
-        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
-      },
-      "artists": [
-        {
-          "name": "Ashcan Johansen",
-          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
-        }
-      ],
-      "duration_ms": 187169,
-      "name": "Shimmering Forest",
-      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "741 Hz Detox",
         "url": "https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 171991,
       "name": "741 Hz Detox",
       "url": "https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Shimmering Forest",
+        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
+      },
+      "artists": [
+        {
+          "name": "Ashcan Johansen",
+          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
+        }
+      ],
+      "duration_ms": 187169,
+      "name": "Shimmering Forest",
+      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Sounds Of The Earth",
-        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
-      },
-      "artists": [
-        {
-          "name": "Soliaga",
-          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "Sounds Of The Earth",
-      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 160759,
       "name": "Sakshi / Witness",
       "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Sounds Of The Earth",
+        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "Sounds Of The Earth",
+      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
     },
     {
       "added_at": "2024-11-14 13:48:43",

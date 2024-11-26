@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "FREQUENCY - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "FREQUENCY - Korean Version",
+      "url": "https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb"
+    },
+    {
+      "album": {
         "name": "I'm a mess.",
         "url": "https://open.spotify.com/album/5BA4WQunvYgNb3VLaziamV"
       },
@@ -4570,7 +4588,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 182040,
       "name": "HIGH FIVE",
       "url": "https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW"

@@ -3177,24 +3177,6 @@
     },
     {
       "album": {
-        "name": "Tu Corazon",
-        "url": "https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "date_added": "2020-11-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244545,
-      "name": "Tu Corazo\u0301n",
-      "url": "https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41"
-    },
-    {
-      "album": {
         "name": "Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
       },
@@ -3210,6 +3192,24 @@
       "duration_ms": 244545,
       "name": "Tu Corazo\u0301n",
       "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
+    },
+    {
+      "album": {
+        "name": "Tu Corazon",
+        "url": "https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244545,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41"
     },
     {
       "album": {

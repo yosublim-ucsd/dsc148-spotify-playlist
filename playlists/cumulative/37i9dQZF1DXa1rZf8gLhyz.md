@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-606 songs - 1 day 6 hr 50 min
+609 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Before last month](https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Before last month](https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS) | 2:04 | 2023-04-13 |  |
 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2023-01-19 |  |
 | [Between the Devil and the Deep Blue Sea](https://open.spotify.com/track/649ZNkGmrhFhrJHjB8iVs6) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:49 | 2023-02-09 |  |
+| [Between the Streets](https://open.spotify.com/track/7H89YncjtSi7kxi4ZiO7zq) | [Novo Alonso](https://open.spotify.com/artist/5CswSV6SeGqATyFK4cEUqg) | [Between the Streets](https://open.spotify.com/album/3cRol0xoRVAjQRUfi12Uo2) | 3:00 | 2024-11-25 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2021-12-07 | 2024-08-27 |
 | [Black Orpheus](https://open.spotify.com/track/5crwi7w4axA84xOKxRhpXt) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Black Orpheus](https://open.spotify.com/album/34FIW4OJyTWzbeRwxLWKM4) | 3:40 | 2021-12-07 | 2022-02-16 |
 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 | 2021-12-07 |  |
@@ -265,6 +266,7 @@
 | [In Search of Lost Time](https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [In Search of Lost Time](https://open.spotify.com/album/5c3RmJbnZ42tbB5yccGvl8) | 3:04 | 2023-05-25 |  |
 | [In That Moment, I Knew](https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [In That Moment, I Knew](https://open.spotify.com/album/2yxjOPdaR1r41D3J2V4zXG) | 3:05 | 2023-10-27 |  |
 | [In the city](https://open.spotify.com/track/2KT7qCT0QEeqKYaj0RjZeE) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [In the city](https://open.spotify.com/album/6Rx9kNFho1FSZDDgqrlCT3) | 2:20 | 2024-04-17 |  |
+| [In the middle of the night](https://open.spotify.com/track/2af2UPhdEtudXa3Ge4VfeD) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [In the middle of the night](https://open.spotify.com/album/4UoJK5IO5khsCtJtcQiWIW) | 2:46 | 2024-11-25 |  |
 | [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 | 2023-05-26 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2021-12-07 | 2024-10-09 |
 | [In Your Arms](https://open.spotify.com/track/2VgzITxiBNDy3515oJkLgy) | [Noah Henderson](https://open.spotify.com/artist/4MEyaNwWOgwNnjTAgyttao) | [In Your Arms](https://open.spotify.com/album/7jANDkizXW9Ir7zNpZjAba) | 1:53 | 2024-08-19 |  |
@@ -418,7 +420,7 @@
 | [Please, Stay](https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Please, Stay](https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv) | 2:30 | 2023-06-01 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-07 | 2022-09-15 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 | 2024-10-22 |
-| [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 |  |
+| [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 | 2024-11-26 |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2021-12-07 | 2023-08-11 |
 | [Quebec](https://open.spotify.com/track/0JQjizdC8uucjdx8IogkZ3) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Quebec](https://open.spotify.com/album/7AfHXBL9mXhwptOXSXw0yz) | 2:50 | 2024-07-22 |  |
 | [Quiet Now](https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Quiet Now](https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2) | 2:48 | 2023-03-30 |  |
@@ -467,6 +469,7 @@
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2021-12-07 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2021-12-07 | 2024-08-07 |
 | [Snap of a finger](https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Snap of a finger](https://open.spotify.com/album/34KNU4mGRc7c1ovoBIkSOr) | 2:36 | 2023-05-11 |  |
+| [So Much More At Stake](https://open.spotify.com/track/6s9qtZYThBMktqaG2QfDw9) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [So Much More At Stake](https://open.spotify.com/album/6uBIRDL7z4V1xP8wJ2bODC) | 2:50 | 2024-11-25 |  |
 | [Social Call](https://open.spotify.com/track/2ZGcva06g0MbxrJdSNtAjU) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Social Call](https://open.spotify.com/album/4rSYJQxfq50gNYLkPgrKbR) | 3:52 | 2023-09-29 | 2024-07-23 |
 | [Soft Winds](https://open.spotify.com/track/6mc9tEyC3rHVy92x3eIbS2) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Soft Winds](https://open.spotify.com/album/5UlRw2dBsjAZ08fBXt5R0b) | 2:45 | 2024-11-18 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-20 |  |

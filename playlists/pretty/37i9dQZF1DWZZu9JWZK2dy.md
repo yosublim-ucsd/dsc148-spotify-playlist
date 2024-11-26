@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,885 likes - 62 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,967 likes - 62 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 45 | [君の知らない物語](https://open.spotify.com/track/4EKMD4grPTUzXjHpKvvaY7) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [君の知らない物語](https://open.spotify.com/album/7g2QUFVpJnkBkbGKzi85PB) | 5:41 |
 | 46 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 |
 | 47 | [人として軸がぶれている](https://open.spotify.com/track/0D4mD3IcmPLoFFxANcWC5N) | [大槻ケンヂと絶望少女達](https://open.spotify.com/artist/4xtFnyqFy83Y1p5RTINfiI) | [人として軸がぶれている](https://open.spotify.com/album/0i1fGlZRpLA27BQO8krKsT) | 3:27 |
-| 48 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ\~Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 |
+| 48 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ～Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 |
 | 49 | [崖の上のポニョ\(崖の上のポニョ\)](https://open.spotify.com/track/1Afz8sEPXEkwiDxHFbnx9Z) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 2:46 |
 | 50 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」ＯＰテーマ　旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 |
 | 51 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |

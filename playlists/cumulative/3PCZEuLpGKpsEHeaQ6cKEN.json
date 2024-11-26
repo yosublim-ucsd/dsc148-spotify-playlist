@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV"
+    },
+    {
+      "album": {
         "name": "King Street: Beat Match",
         "url": "https://open.spotify.com/album/1rw7qjn9LyPkblXSspxSt9"
       },
@@ -5192,6 +5210,28 @@
       "duration_ms": 139965,
       "name": "Don't Turn Your Back - Housequake 20 Year Anniversary Mix",
       "url": "https://open.spotify.com/track/62bbXuo9fKeto8QDdUzLtY"
+    },
+    {
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/0ed7zAIrD6uFH8KuYrmg40"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Don't You Cry - Radio Edit",
+      "url": "https://open.spotify.com/track/5FWRqtzJT77FBUGVfVVVdP"
     },
     {
       "album": {

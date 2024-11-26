@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 221896,
       "name": "A New Story",
       "url": "https://open.spotify.com/track/2vgXZPi6Kh0iKWzI0Cw1pf"
@@ -1396,6 +1396,24 @@
       "duration_ms": 264101,
       "name": "Alma",
       "url": "https://open.spotify.com/track/6Tb2bIfXcBmajMseEi8IvV"
+    },
+    {
+      "album": {
+        "name": "Almost December",
+        "url": "https://open.spotify.com/album/1xzG0QPmPpTUvwHfntsySm"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150874,
+      "name": "Almost December",
+      "url": "https://open.spotify.com/track/2wqbv4BQyIGF9E7p65fimU"
     },
     {
       "album": {
@@ -2829,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Brushes",
+        "url": "https://open.spotify.com/album/0suoUZ0mna0L1VewdeUiZu"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Brushes",
+      "url": "https://open.spotify.com/track/30Lae8YujBdA3nTc3UVWPp"
+    },
+    {
+      "album": {
         "name": "Lost in the Highlands",
         "url": "https://open.spotify.com/album/3pYq97dv4T7e9Gtgp6keBF"
       },
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 195860,
       "name": "Buachaille Etive Mor",
       "url": "https://open.spotify.com/track/3xp6Mjv32lpul7WO4ZE94n"
@@ -9538,7 +9574,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 216636,
       "name": "Late Afternoon",
       "url": "https://open.spotify.com/track/4ySYI3lRedo9iXbrraPsQN"
@@ -9736,7 +9772,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 161444,
       "name": "Leaf Line",
       "url": "https://open.spotify.com/track/6GD9L0BqpyENa325mplxQ9"
@@ -11482,7 +11518,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 178930,
       "name": "Monica",
       "url": "https://open.spotify.com/track/63BOtS2JTJ6WQcLVbcVf3n"
@@ -12652,7 +12688,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 293653,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/05yByCb0WmmE3c23Ppl5NO"
@@ -14243,6 +14279,24 @@
     },
     {
       "album": {
+        "name": "Satin Waltz",
+        "url": "https://open.spotify.com/album/0yAvuc7VVniZC3iaUqSDJD"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Satin Waltz",
+      "url": "https://open.spotify.com/track/4iJBksjCOW8Q5oUTwJuHcQ"
+    },
+    {
+      "album": {
         "name": "For Celia",
         "url": "https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT"
       },
@@ -14348,7 +14402,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 252128,
       "name": "Serendipity Swing",
       "url": "https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm"
@@ -14798,7 +14852,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 215074,
       "name": "Slow fox",
       "url": "https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03"
@@ -17448,7 +17502,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 231901,
       "name": "Think of refusing",
       "url": "https://open.spotify.com/track/0xczcAK509NavYmwkard4Q"
@@ -18294,7 +18348,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 204000,
       "name": "Unveiling the Mysteries",
       "url": "https://open.spotify.com/track/6YOWRZtVkEjzEkcRRsoAuG"
@@ -18366,7 +18420,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 293750,
       "name": "Views Of Dawn",
       "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
@@ -19490,7 +19544,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 304609,
       "name": "Wondering The Streets",
       "url": "https://open.spotify.com/track/1obGKffzqT4IFDKVIxthJH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: ONEFOUR, Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,220 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,217 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

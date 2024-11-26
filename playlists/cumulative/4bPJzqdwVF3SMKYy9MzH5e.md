@@ -4,7 +4,7 @@
 
 > 
 
-2,022 songs - 4 day 12 hr 36 min
+2,024 songs - 4 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Banana Peel](https://open.spotify.com/track/0D9QRM4ReHHMth2wjBOC37) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 2:50 | 2023-02-07 |  |
 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [How Does That Grab You?](https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL) | 2:42 | 2021-08-05 |  |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2022-04-05 |  |
+| [Barracuda](https://open.spotify.com/track/1SGfDkWeya5TIBhuHPgcMW) | [SARCOMA HORROR](https://open.spotify.com/artist/1DH5gB0AVs87Vg3webgJAV) | [Error 404](https://open.spotify.com/album/5aqPadDUgNwDnYWgR7ojbK) | 2:28 | 2024-11-26 |  |
 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 | 2021-08-05 |  |
 | [Batsu Forever](https://open.spotify.com/track/40b648tmm8eB92nB3AovHt) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:51 | 2023-05-02 |  |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2022-02-04 |  |
@@ -676,6 +677,7 @@
 | [Full Circle](https://open.spotify.com/track/7GSfkeT2OcsPln1L8onHXm) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 3:41 | 2022-11-24 |  |
 | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/track/2AD0AClM5SLRuw6N5J0tFi) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/album/2MNt1A6zTasukEQpd8QCoc) | 2:33 | 2021-08-05 |  |
 | [GAME OVER](https://open.spotify.com/track/1bTmG9Oir37ggslW0sl4c6) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [GAME OVER](https://open.spotify.com/album/4Si8ak6IhfNjzpfl9fSJ9R) | 2:20 | 2021-08-05 |  |
+| [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-11-25 |  |
 | [GASLIGHT!](https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:28 | 2022-11-10 |  |
 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 | 2021-08-05 |  |
 | [Gavotte in D Major, "Rosine" \(arr\. for violin and piano\)](https://open.spotify.com/track/2fO2ZY4Ohi3Uq1m4GYikvL) | [Francois\-Joseph Gossec](https://open.spotify.com/artist/1KBWt9hc5YE25x6Bcr1zps), [Shinichi Suzuki](https://open.spotify.com/artist/1tNdPYwlFcKzrIaE7WBl8z), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 1](https://open.spotify.com/album/7Df8y0VuRQFjakK7V95akg) | 2:39 | 2021-08-05 |  |

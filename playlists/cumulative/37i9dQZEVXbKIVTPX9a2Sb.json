@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -10954,7 +10954,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -11934,7 +11934,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 203225,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/7coQkwYe6khE4Y0oQfAf4u"
@@ -12144,6 +12144,28 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2UEF6KRc3bGoii8LvhnOAu"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137160,
+      "name": "GOAT (feat. Separ)",
+      "url": "https://open.spotify.com/track/1boq9dEeYMxDFOzmqK1ODO"
     },
     {
       "album": {
@@ -14228,7 +14250,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 218313,
       "name": "Hory Kazachst\u00e1nu",
       "url": "https://open.spotify.com/track/1S1WtutWfm67FSZqvSQFul"
@@ -17530,7 +17552,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 173181,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN"
@@ -19511,6 +19533,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2UEF6KRc3bGoii8LvhnOAu"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7sK6ThDvuZPH9T158FPpKN"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -20310,6 +20350,32 @@
       "duration_ms": 158048,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/54W6vz0JQoTmbxK4bvVECc"
+    },
+    {
+      "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
       "album": {
@@ -22265,6 +22331,28 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2UEF6KRc3bGoii8LvhnOAu"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160028,
+      "name": "My dvaja (feat. SIMILIVINLIFE)",
+      "url": "https://open.spotify.com/track/2WGbAvCCRcgjDeG3ruwgAS"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -23740,7 +23828,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 167647,
       "name": "NESTARAM SA",
       "url": "https://open.spotify.com/track/2sfL5PDP2uid2zbDYOLaPv"
@@ -25532,7 +25620,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 241304,
       "name": "Oko za Oko",
       "url": "https://open.spotify.com/track/6Ff60h7fShfKTq3T8mONlB"
@@ -26758,7 +26846,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 181016,
       "name": "Peaky Blinders",
       "url": "https://open.spotify.com/track/5YnGm9ezx6z6xPIH35IncQ"
@@ -26854,7 +26942,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 217070,
       "name": "Peniaze",
       "url": "https://open.spotify.com/track/51wzXdbSUBQt0bcjBpLqXR"
@@ -36610,7 +36698,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -36628,7 +36716,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 167154,
       "name": "Tvoje ru\u017ee",
       "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
@@ -37218,7 +37306,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 201355,
       "name": "Uprost\u0159ed Oce\u00e1nu",
       "url": "https://open.spotify.com/track/50BH51Li0jpINkZmubG6Fb"
@@ -38886,7 +38974,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
@@ -41122,6 +41210,24 @@
       "duration_ms": 249000,
       "name": "ZL\u00dd SEN",
       "url": "https://open.spotify.com/track/1hgJSjONYG7dRb4yDrTBZe"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2UEF6KRc3bGoii8LvhnOAu"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160034,
+      "name": "Znova",
+      "url": "https://open.spotify.com/track/1oY0GrXCvkk4Ka4lEPuimU"
     },
     {
       "album": {

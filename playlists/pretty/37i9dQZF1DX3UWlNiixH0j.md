@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Hedigan’s
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,499 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,510 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 46 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
 | 47 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
 | 48 | [リズム](https://open.spotify.com/track/2rImdgqiuyvfwTlfCnmtS3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Golden Child](https://open.spotify.com/album/31NxRGGXtEXb3a54YRZgYF) | 3:27 |
-| 49 | [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 |
-| 50 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 49 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 50 | [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 |
 | 51 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
 | 52 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 |
 | 53 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 |
 | 54 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 |
 | 55 | [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 |
 | 56 | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ) | 3:12 |
-| 57 | [友達さ](https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [友達さ](https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP) | 2:30 |
-| 58 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
-| 59 | [SUKIYAKI](https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [SUKIYAKI](https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0) | 2:29 |
+| 57 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
+| 58 | [SUKIYAKI](https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [SUKIYAKI](https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0) | 2:29 |
+| 59 | [友達さ](https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [友達さ](https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP) | 2:30 |
 | 60 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
 | 61 | [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 |
 | 62 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 67 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
 | 68 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 |
 | 69 | [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 |
-| 70 | [MEBAE](https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [MEBAE](https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3) | 4:05 |
+| 70 | [美化](https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [美化](https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR) | 4:36 |
 | 71 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 |
 | 72 | [グレー](https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [グレー](https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR) | 3:29 |
-| 73 | [美化](https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [美化](https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR) | 4:36 |
-| 74 | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 |
-| 75 | [世界に君一人だけ](https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [世界に君一人だけ](https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0) | 4:07 |
+| 73 | [MEBAE](https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [MEBAE](https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3) | 4:05 |
+| 74 | [世界に君一人だけ](https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [世界に君一人だけ](https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0) | 4:07 |
+| 75 | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 |
 
 Snapshot ID: `Zzy8dgAAAACI9XDL5WeflBYm+5vxS3cV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,226 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,249 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Blonde](https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\)](https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl) | 4:43 |
 | 100 | [Picture It](https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Picture It](https://open.spotify.com/album/6YpQUgFqCQfXOCbgdsPVqD) | 3:31 |
 
-Snapshot ID: `Z0AP0AAAAADvJNOb37qw3IekCVzEyS0M`
+Snapshot ID: `Z0UNRQAAAACyMpQJm4+6no9qg28m7XuV`

@@ -9570,7 +9570,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 188299,
       "name": "ride home",
       "url": "https://open.spotify.com/track/0FcC5OWqZ77FDBgzgq50tW"
@@ -10276,6 +10276,28 @@
       "duration_ms": 183849,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/3oP5dVJOnHv56ts1YGaU2d"
+      },
+      "artists": [
+        {
+          "name": "Jonah Marais",
+          "url": "https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205410,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/3ap14qzQ7z04QEPHcKKLog"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,951 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,982 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 45 | [Two Two Two \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/6C8JJFoGC4dkVtAHVK3iif) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Two Two Two \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/05sVssLlubTOwlcp2pYpio) | 2:56 |
 | 46 | [Polakattum Para Para](https://open.spotify.com/track/2K058s9yrpoUfANaQt7Zu4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:34 |
 | 47 | [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 |
-| 48 | [Sodakku](https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Thaanaa Serndha Koottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JnJeimcabagrnJyFtNty1) | 3:58 |
-| 49 | [Marana Mass \- From "Petta"](https://open.spotify.com/track/612T2qs3Xaj72F8M0bj9gL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Marana Mass \(From "Petta"\)](https://open.spotify.com/album/2LMXdbmXRQaEkwYkVPIqnk) | 3:36 |
+| 48 | [Marana Mass \- From "Petta"](https://open.spotify.com/track/612T2qs3Xaj72F8M0bj9gL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Marana Mass \(From "Petta"\)](https://open.spotify.com/album/2LMXdbmXRQaEkwYkVPIqnk) | 3:36 |
+| 49 | [Sodakku](https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Thaanaa Serndha Koottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JnJeimcabagrnJyFtNty1) | 3:58 |
 | 50 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 |
 
 Snapshot ID: `ZzSsmAAAAABp21i56kvc/4jCB3WuogLm`

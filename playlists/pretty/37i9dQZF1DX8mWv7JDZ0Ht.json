@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavit\u00f3ria",
-  "num_followers": 436525,
+  "num_followers": 436565,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -101,7 +101,7 @@
         }
       ],
       "duration_ms": 165427,
-      "name": "Anunciac\u0327a\u0303o - Sessions",
+      "name": "Anuncia\u00e7\u00e3o - Sessions",
       "url": "https://open.spotify.com/track/2KHy5ac4tiPYXCzMd1rRrK"
     },
     {
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2024-11-22 14:36:34",
+      "album": {
         "name": "Beb\u00ea",
         "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 173672,
       "name": "Beb\u00ea",
       "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
-    },
-    {
-      "added_at": "2024-11-22 14:36:34",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2024-11-22 14:36:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
-        "name": "A Cara do Amor da Minha Vida",
-        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 151128,
-      "name": "A Cara do Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
-    },
-    {
-      "added_at": "2024-11-22 14:36:34",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 178864,
       "name": "Viva O Amor",
       "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
+    },
+    {
+      "added_at": "2024-11-22 14:36:34",
+      "album": {
+        "name": "A Cara do Amor da Minha Vida",
+        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 151128,
+      "name": "A Cara do Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
     },
     {
       "added_at": "2024-11-22 14:36:34",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
+        "name": "TUDO ACONTECE AGORA PT.2",
+        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
+      },
+      "artists": [
+        {
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        }
+      ],
+      "duration_ms": 213338,
+      "name": "Sombra No Sol",
+      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
+    },
+    {
+      "added_at": "2024-11-22 14:36:34",
+      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
-    },
-    {
-      "added_at": "2024-11-22 14:36:34",
-      "album": {
-        "name": "TUDO ACONTECE AGORA PT.2",
-        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
-      },
-      "artists": [
-        {
-          "name": "O Grilo",
-          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
-        }
-      ],
-      "duration_ms": 213338,
-      "name": "Sombra No Sol",
-      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
     },
     {
       "added_at": "2024-11-22 14:36:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-11-22 14:36:34",
-      "album": {
         "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
         "url": "https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175653,
       "name": "Coisa de Cinema",
       "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
+    },
+    {
+      "added_at": "2024-11-22 14:36:34",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-11-22 14:36:34",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Ainda Bem Que Chegou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
+    },
+    {
+      "added_at": "2024-11-22 14:36:34",
+      "album": {
         "name": "Tanto Tanto",
         "url": "https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-11-22 14:36:34",
       "album": {
-        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
-        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+        "name": "Fita do Bonfim",
+        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 201250,
-      "name": "Ainda Bem Que Chegou - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
+      "duration_ms": 205961,
+      "name": "Fita do Bonfim",
+      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-11-22 14:36:34",
@@ -1267,22 +1283,6 @@
       "duration_ms": 124212,
       "name": "Cart\u00f5es Postais",
       "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
-    },
-    {
-      "added_at": "2024-11-22 14:36:34",
-      "album": {
-        "name": "Fita do Bonfim",
-        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 205961,
-      "name": "Fita do Bonfim",
-      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-11-22 14:36:34",

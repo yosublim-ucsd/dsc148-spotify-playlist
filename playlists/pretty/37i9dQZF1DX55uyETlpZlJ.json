@@ -1,13 +1,33 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde,  Sonu Nigam",
-  "num_followers": 23849,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vijay Prakash",
+  "num_followers": 23859,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz1fsAAAAAAHy9QPah5qPxKGPo6AQLyA",
+  "snapshot_id": "Z0QUTgAAAABrn51Xf1H9/snLw/37c60e",
   "tracks": [
+    {
+      "added_at": "2024-11-25 06:08:14",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/6S9gwDfmsjMrZRApoQvwTQ"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Meghana Kulkarni",
+          "url": "https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs"
+        }
+      ],
+      "duration_ms": 302422,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/34TonGz5g4F0ZQ2fWPGNG6"
+    },
     {
       "added_at": "2024-11-06 13:00:45",
       "album": {

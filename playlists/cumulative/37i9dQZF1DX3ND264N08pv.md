@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-295 songs - 16 hr 19 min
+296 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 | 2024-10-03 |  |
 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 | 2022-12-08 | 2023-12-22 |
 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 | 2024-05-17 | 2024-06-28 |
+| [Back In The Game](https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy) | [KEMAL](https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg), [D\-Tempo](https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot) | [Back In The Game](https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj) | 2:54 | 2024-11-18 |  |
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 | 2023-12-22 |
 | [BANG BANG](https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [BANG BANG](https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4) | 2:48 | 2024-05-02 |  |
 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 | 2024-02-08 | 2024-11-09 |
@@ -188,7 +189,7 @@
 | [No Time To Lose](https://open.spotify.com/track/7Hqzl4HDknxOZTUzWb9duw) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [No Time To Lose](https://open.spotify.com/album/3FVY38q25PPbxrAUSlk4f2) | 2:56 | 2023-10-25 |  |
 | [Nobody Harder \(2019 Remaster\) \- G\-Town Madness Remix](https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk) | [Rotterdam Terror Corps](https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM), [G\-Town Madness](https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp) | [RTC is the legacy](https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b) | 6:12 | 2024-06-13 | 2024-08-31 |
 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 | 2024-11-18 |  |
-| [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |
+| [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 | 2024-11-26 |
 | [Numb](https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Numb](https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta) | 3:41 | 2023-04-28 |  |
 | [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Skorned](https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 | 2023-09-07 | 2024-07-20 |
 | [Oasis \- The Dark Horror Remix](https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Oasis \(The Dark Horror Remix\)](https://open.spotify.com/album/37PYdrUtg45otbte44i8C1) | 3:14 | 2023-01-26 |  |

@@ -154,7 +154,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -392,7 +392,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -402,24 +402,6 @@
       "duration_ms": 284333,
       "name": "attack\u97f3D",
       "url": "https://open.spotify.com/track/4N8afuNJ6B2pRhdyZAYriL"
-    },
-    {
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221426,
-      "name": "Barricades",
-      "url": "https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt"
     },
     {
       "album": {
@@ -438,6 +420,24 @@
       "duration_ms": 221426,
       "name": "Barricades",
       "url": "https://open.spotify.com/track/6iaQi9uPzHoXLMo5g490Bj"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt"
     },
     {
       "album": {
@@ -464,7 +464,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -504,7 +504,7 @@
           "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
         },
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -535,24 +535,6 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178213,
-      "name": "Call of Silence",
-      "url": "https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe"
-    },
-    {
-      "album": {
         "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
       },
@@ -571,6 +553,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Call of Silence",
+      "url": "https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
       },
@@ -580,7 +580,7 @@
           "url": "https://open.spotify.com/artist/3zrqQQY3hSf5B7HIjDeQEQ"
         },
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         },
         {
@@ -638,7 +638,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -674,7 +674,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -710,7 +710,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         },
         {
@@ -786,7 +786,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -840,7 +840,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -858,7 +858,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1343,24 +1343,6 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289680,
-      "name": "So ist es immer",
-      "url": "https://open.spotify.com/track/6h5xFKEgxlD7QEHxEFMjgJ"
-    },
-    {
-      "album": {
         "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
       },
@@ -1376,6 +1358,24 @@
       "duration_ms": 289680,
       "name": "So Ist Es Immer",
       "url": "https://open.spotify.com/track/7ANDXcz3rVfPjFcIZeVVbL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289680,
+      "name": "So ist es immer",
+      "url": "https://open.spotify.com/track/6h5xFKEgxlD7QEHxEFMjgJ"
     },
     {
       "album": {
@@ -1492,7 +1492,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1500,7 +1500,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 310693,
-      "name": "SymphonicSuite[AoT]Part2-1st:\u0259t\u02c8\u00e6k 0N t\u1f71\u026atn <WMId>",
+      "name": "SymphonicSuite[AoT]Part2-1st:\u0259t\u02c8\u00e6k 0N t\u03ac\u026atn <WMId>",
       "url": "https://open.spotify.com/track/3CmOvopN8tQQbU1bR5s0CH"
     },
     {
@@ -1510,7 +1510,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1528,7 +1528,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1546,7 +1546,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1564,7 +1564,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1690,7 +1690,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         },
         {
@@ -1797,12 +1797,12 @@
     },
     {
       "album": {
-        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5f8c\u7de8~\u81ea\u7531\u306e\u7ffc~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de theDOGS produced by \u6fa4\u91ce\u5f18\u4e4b",
+        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5f8c\u7de8\uff5e\u81ea\u7531\u306e\u7ffc\uff5e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de theDOGS produced by \u6fa4\u91ce\u5f18\u4e4b",
         "url": "https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV"
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -1986,7 +1986,7 @@
           "url": "https://open.spotify.com/artist/3gMQIwIzRRTX8tQg5COTaX"
         },
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2035,24 +2035,6 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
-        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "date_added": "2022-06-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257466,
-      "name": "YouSee-Power",
-      "url": "https://open.spotify.com/track/517GTpatzMITcAIqsM74BU"
-    },
-    {
-      "album": {
         "name": "Attack On Titan The Final Season Original Soundtrack 02",
         "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
       },
@@ -2071,12 +2053,30 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "YouSee-Power",
+      "url": "https://open.spotify.com/track/517GTpatzMITcAIqsM74BU"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2130,7 +2130,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2152,7 +2152,7 @@
           "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
         },
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2174,7 +2174,7 @@
           "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
         },
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2192,7 +2192,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
@@ -2426,7 +2426,7 @@
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
+          "name": "Sawano Hiroyuki",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],

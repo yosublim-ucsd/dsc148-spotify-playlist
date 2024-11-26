@@ -1,13 +1,37 @@
 {
   "description": "Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.",
-  "num_followers": 41907,
+  "num_followers": 41906,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAazYTo5JKZYf3B0mfEhWmsusXz3i9O",
+  "snapshot_id": "AAAaz3y3TpbuW/RpHLLET050FMFZ75YD",
   "tracks": [
+    {
+      "added_at": "2024-11-25 18:53:43",
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
     {
       "added_at": "2024-11-18 18:19:19",
       "album": {

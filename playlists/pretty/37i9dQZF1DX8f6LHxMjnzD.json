@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Dasha",
-  "num_followers": 867068,
+  "num_followers": 867073,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -582,6 +582,10 @@
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
       "duration_ms": 218701,

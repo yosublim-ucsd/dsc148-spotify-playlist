@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6597,
+  "num_followers": 6604,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAACy8U3UXHrVrAv+YinzXogE",
+  "snapshot_id": "Z0JsgAAAAAC+so5StbkIEFiyGfUBqiRh",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
+        "name": "Bailando (live)",
+        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         },
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 170150,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
+      "duration_ms": 189867,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
     },
     {
       "added_at": null,
@@ -287,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando (live)",
-        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
       },
       "artists": [
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 189867,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+      "duration_ms": 170150,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
     },
     {
       "added_at": null,

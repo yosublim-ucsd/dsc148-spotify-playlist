@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 562088,
+  "num_followers": 562129,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1331,34 +1331,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Sweet Dreams (are Made of This)",
-        "url": "https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B"
-      },
-      "artists": [
-        {
-          "name": "Winati",
-          "url": "https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk"
-        },
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "BELLMAN",
-          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
-        },
-        {
-          "name": "Louise CS",
-          "url": "https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Sweet Dreams (Are Made of This)",
-      "url": "https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
@@ -1399,6 +1371,50 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Sweet Dreams (are Made of This)",
+        "url": "https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B"
+      },
+      "artists": [
+        {
+          "name": "Winati",
+          "url": "https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "BELLMAN",
+          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+        },
+        {
+          "name": "Louise CS",
+          "url": "https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Just Got Paid",
         "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
       },
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+        "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+        "url": "https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 228111,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+      "duration_ms": 183750,
+      "name": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1483,26 +1503,6 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Don't Leave Me Alone (feat. Anne-Marie)",
-        "url": "https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Don't Leave Me Alone (feat. Anne-Marie)",
-      "url": "https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk"
     },
     {
       "added_at": "2024-02-01 12:54:41",

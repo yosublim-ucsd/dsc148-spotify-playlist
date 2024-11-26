@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 205000,
       "name": "A Rainy Night",
       "url": "https://open.spotify.com/track/3Ny1CmI8hRfDpwi1tyJut3"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 188000,
       "name": "Back in Tulsa Again",
       "url": "https://open.spotify.com/track/5QmETBZy4QKilXKJepCS0Y"
@@ -7369,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "Going to Get It",
+        "url": "https://open.spotify.com/album/0CqR5zi9ZsgCY7czY36kxc"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268892,
+      "name": "Going to Get It",
+      "url": "https://open.spotify.com/track/4LxIdMwN00B0bwmu3q6dNo"
+    },
+    {
+      "album": {
         "name": "Golden Moments",
         "url": "https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K"
       },
@@ -9114,7 +9132,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 226610,
       "name": "I'll Take Romance",
       "url": "https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H"
@@ -9690,7 +9708,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 220019,
       "name": "In the Days of our Love",
       "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
@@ -12010,7 +12028,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 180841,
       "name": "Lone Pine",
       "url": "https://open.spotify.com/track/6n53sSnd8THaUSPvAOEMY7"
@@ -15930,6 +15948,24 @@
     {
       "album": {
         "name": "Passing Time",
+        "url": "https://open.spotify.com/album/0kTe5gq2d4niVHPl5zOAjc"
+      },
+      "artists": [
+        {
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247332,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/0LbpnwkwjrMUWS2umxG4UB"
+    },
+    {
+      "album": {
+        "name": "Passing Time",
         "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
       },
       "artists": [
@@ -16704,6 +16740,24 @@
       "duration_ms": 236367,
       "name": "Reflecting",
       "url": "https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X"
+    },
+    {
+      "album": {
+        "name": "Reflections of Idle Days",
+        "url": "https://open.spotify.com/album/4MqWpGufV4J2Q3hCNcqkGL"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Reed Quartet",
+          "url": "https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210354,
+      "name": "Reflections of Idle Days",
+      "url": "https://open.spotify.com/track/1zjWJQjYg7irJe3y5pQMh9"
     },
     {
       "album": {
@@ -17510,7 +17564,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 211617,
       "name": "She Said Goodbye to Me",
       "url": "https://open.spotify.com/track/1NZhSVsiZblW5AlaaLsMX3"
@@ -18558,6 +18612,24 @@
       "duration_ms": 230088,
       "name": "Soulful Stroll",
       "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
+    },
+    {
+      "album": {
+        "name": "Soulful Touch",
+        "url": "https://open.spotify.com/album/1UNGuqGaBB9Tqdm3CKfFY4"
+      },
+      "artists": [
+        {
+          "name": "Downtown Caf\u00e9",
+          "url": "https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201105,
+      "name": "Soulful Touch",
+      "url": "https://open.spotify.com/track/59VCExAG8io5iu3Li3QYBn"
     },
     {
       "album": {
@@ -19656,6 +19728,24 @@
       "duration_ms": 264127,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/0LJbfswcuffz1VZjBNI1Pr"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/1SJNqS8rBmRj28yWw7Uh3r"
     },
     {
       "album": {
@@ -20988,6 +21078,24 @@
       "duration_ms": 245681,
       "name": "Things To Look Forward To",
       "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
+    },
+    {
+      "album": {
+        "name": "Things You Should Mention",
+        "url": "https://open.spotify.com/album/7fAHlTmyMpFXeclwlAgmAO"
+      },
+      "artists": [
+        {
+          "name": "Swing City Affair",
+          "url": "https://open.spotify.com/artist/61VUtRySMVPXlpOCFILlpX"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238538,
+      "name": "Things You Should Mention",
+      "url": "https://open.spotify.com/track/6YgAO785fxKfWRI7fx6c6S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring GENESI 👽👽 50% techno, 50% house
 
-1,851 songs - 4 day 6 hr 58 min
+1,852 songs - 4 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Boyz N Da Club](https://open.spotify.com/track/6UnIzJce5oPkbZNLtOrQpR) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club](https://open.spotify.com/album/6KasM8IauF480u29Vmfww8) | 6:17 | 2021-11-26 | 2022-01-06 |
 | [Bracadu](https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Bracadu](https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt) | 2:36 | 2023-04-21 | 2023-07-12 |
 | [BRAZIL](https://open.spotify.com/track/1ORp1yoMlfMqlRn83VTB2O) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BRAZIL](https://open.spotify.com/album/1XpQBTKoUEImwzvgolPS0K) | 3:32 | 2023-04-28 | 2023-06-17 |
+| [Bread \(Odd Mob Remix\)](https://open.spotify.com/track/2a7S20OOYMYdwka6SxCynO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Bread: The Remixes](https://open.spotify.com/album/0fdeYl2s70ftEpAfpU6JPh) | 3:08 | 2024-11-25 |  |
 | [Break Me](https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Break Me](https://open.spotify.com/album/5pRertvO2FCoqev0BYRZ9E) | 3:24 | 2024-01-05 | 2024-02-17 |
 | [Break The House Down](https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Break The House Down](https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq) | 3:28 | 2024-10-04 |  |
 | [Breathe \(feat\. No/Me\)](https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Breathe \(feat\. No/Me\)](https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL) | 4:19 | 2023-06-16 | 2023-08-13 |
@@ -578,7 +579,7 @@
 | [Freakquency](https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Freakquency](https://open.spotify.com/album/0Ow8u9nyecPbgJZ5eXrnj3) | 2:59 | 2024-10-11 | 2024-11-16 |
 | [Freaky](https://open.spotify.com/track/4kGKb76jdupromKClU6Udl) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Freaky](https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ) | 3:46 | 2022-12-16 | 2023-03-25 |
 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 |  |
-| [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 | 2023-07-21 |  |
+| [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 | 2023-07-21 | 2024-11-26 |
 | [Free \- Bruno Furlan Remix](https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 3:49 | 2023-03-03 | 2023-04-29 |
 | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [DAIJAH](https://open.spotify.com/artist/1slMspXp4UdnAyQbkbgJJ9) | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO) | 2:48 | 2022-12-02 | 2023-03-25 |
 | [Free Your Mind](https://open.spotify.com/track/3LCmWRVsEDSwB4Q16Z3EYF) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Nick Francis](https://open.spotify.com/artist/4VQyjHVrLyfCrUQtOiNmh3) | [Free Your Mind](https://open.spotify.com/album/6JAhfai1CGXVzXo3REiSDG) | 2:57 | 2022-04-15 | 2022-06-11 |

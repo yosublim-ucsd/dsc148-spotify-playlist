@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: MEOVV",
+  "description": "Future K-Pop hits! Cover: TWS",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "STAGE FIGHTER(STF) Original, Vol. 5",
+        "url": "https://open.spotify.com/album/47hFMgaVVpElZtUiTxtORs"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "Addiction (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/7MaaYNvsQybaRhn5usk5K3"
+    },
+    {
+      "album": {
         "name": "Adore you",
         "url": "https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 199000,
       "name": "All Day",
       "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 171293,
       "name": "Black Out",
       "url": "https://open.spotify.com/track/5xJWKlQO3wDUgoyNrmm4Bg"
@@ -4823,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Derre",
+        "url": "https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156474,
+      "name": "Derre",
+      "url": "https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d"
+    },
+    {
+      "album": {
         "name": "Subconscious",
         "url": "https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ"
       },
@@ -5348,7 +5384,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 179200,
       "name": "Done",
       "url": "https://open.spotify.com/track/1ISSgsyLmSguaJSM3pnPGk"
@@ -5720,7 +5756,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 179426,
       "name": "Dunk Shot",
       "url": "https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t"
@@ -5948,7 +5984,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 170373,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/1ARMCwjWcFqDRKnCsLhxzd"
@@ -6258,7 +6294,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 164986,
       "name": "Falling Down (feat. Wonstein)",
       "url": "https://open.spotify.com/track/2SbxB27svPKLCoDkavwdHW"
@@ -7012,6 +7048,24 @@
       "duration_ms": 182653,
       "name": "Freeze Tag",
       "url": "https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ"
+    },
+    {
+      "album": {
+        "name": "FREQUENCY - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "FREQUENCY - Korean Version",
+      "url": "https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb"
     },
     {
       "album": {
@@ -10437,6 +10491,24 @@
     },
     {
       "album": {
+        "name": "TWS 1st Single 'Last Bell'",
+        "url": "https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Last Festival",
+      "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
+    },
+    {
+      "album": {
         "name": "BAMESIS",
         "url": "https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF"
       },
@@ -12983,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "NALLINA",
+        "url": "https://open.spotify.com/album/05c8EK434eE6IMbBhKPDzn"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162449,
+      "name": "NALLINA",
+      "url": "https://open.spotify.com/track/5WdsDQttADJ05fHt2vlt8O"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -14733,6 +14823,24 @@
     },
     {
       "album": {
+        "name": "YOUNHA 7th Album Repackage \u2018GROWTH THEORY : Final Edition\u2019",
+        "url": "https://open.spotify.com/album/6TvXkVvQAoztPhy1zFomdu"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Point Nemo",
+      "url": "https://open.spotify.com/track/3cKR6eNYOujXr4tEc9xTHe"
+    },
+    {
+      "album": {
         "name": "Poison (Crime Puzzle)",
         "url": "https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg"
       },
@@ -14972,6 +15080,24 @@
       "duration_ms": 207613,
       "name": "Promise U",
       "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
+    },
+    {
+      "album": {
+        "name": "LOVE XX",
+        "url": "https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Psycho and Beautiful",
+      "url": "https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV"
     },
     {
       "album": {
@@ -15458,7 +15584,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 152426,
       "name": "Retro Romance",
       "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"
@@ -17704,7 +17830,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 172235,
       "name": "Stand Out",
       "url": "https://open.spotify.com/track/1jQbHZEM4Qoes0hAbMmAF9"
@@ -17726,6 +17852,28 @@
       "duration_ms": 249173,
       "name": "STAR",
       "url": "https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        },
+        {
+          "name": "LOGOS",
+          "url": "https://open.spotify.com/artist/3YXWMZlEFZ5rNF80rYw9G7"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194214,
+      "name": "Star (prod.LOGOS)",
+      "url": "https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT"
     },
     {
       "album": {
@@ -19071,6 +19219,24 @@
     },
     {
       "album": {
+        "name": "THE BEACON OF HOPE",
+        "url": "https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284121,
+      "name": "THE BEACON OF HOPE",
+      "url": "https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A"
+    },
+    {
+      "album": {
         "name": "The knight who can't die and the silk cradle",
         "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
       },
@@ -20156,7 +20322,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 175240,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/2SZV68dIWppxeD6y7ndQXk"

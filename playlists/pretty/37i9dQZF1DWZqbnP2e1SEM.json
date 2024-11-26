@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320888,
+  "num_followers": 320878,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "A Feeling",
-        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 158809,
-      "name": "A Feeling",
-      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "At Night EP",
         "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "A Feeling",
+        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158809,
+      "name": "A Feeling",
+      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1951,22 +1951,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sima Agua (feat. Mayra Andrade)",
-        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm"
       },
       "artists": [
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
         }
       ],
-      "duration_ms": 227333,
-      "name": "Sima Agua (feat. Mayra Andrade)",
-      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
+      "duration_ms": 185196,
+      "name": "Brothers & Sisters",
+      "url": "https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT"
     }
   ],
   "unique_name": "Island Anthems",

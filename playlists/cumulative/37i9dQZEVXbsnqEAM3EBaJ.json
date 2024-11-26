@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 241940,
       "name": "All the young dudes / West End girls (with the Manchester Camerata)",
       "url": "https://open.spotify.com/track/3Q9y4pe7zu4Uq85z8bPosd"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 237302,
       "name": "All the young dudes / West End girls (with the Manchester Camerata) - orchestral version",
       "url": "https://open.spotify.com/track/1bn885NPAHPiK2tOuKLIKt"
@@ -7398,7 +7398,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 236379,
       "name": "Cuando Tenga la Tierra (En Vivo NY)",
       "url": "https://open.spotify.com/track/2HK4kHLBfeWn6cWBOnOXPL"
@@ -8120,7 +8120,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 165860,
       "name": "Detroit 442",
       "url": "https://open.spotify.com/track/1oFracRrYMP5214pdmG6C3"
@@ -9800,6 +9800,24 @@
       "duration_ms": 325173,
       "name": "El Juicio del Ganso - En Vivo",
       "url": "https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR"
+    },
+    {
+      "album": {
+        "name": "Mercedes Sosa en New York, 1974",
+        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141701,
+      "name": "El Manco Arana (En Vivo NY)",
+      "url": "https://open.spotify.com/track/5WpaTDwLufvWofN4HLyB19"
     },
     {
       "album": {
@@ -28136,6 +28154,24 @@
       "duration_ms": 134427,
       "name": "Riot Act - Live 1995",
       "url": "https://open.spotify.com/track/1LZxzhgC2YudzmEW3B7GHt"
+    },
+    {
+      "album": {
+        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296159,
+      "name": "Rip Her To Shreds",
+      "url": "https://open.spotify.com/track/4gW1KtDU7ZTKijuttCmX2v"
     },
     {
       "album": {

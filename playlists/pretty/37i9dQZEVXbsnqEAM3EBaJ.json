@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABSbTtmNQ2dLJbH+nbkg3lH",
+  "snapshot_id": "AAAAAAAAAAAy/cmP+zRAcNzavoRFTzMr",
   "tracks": [
     {
       "added_at": "2024-11-22 03:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "One Assassination Under God - Chapter 1",
+        "url": "https://open.spotify.com/album/16PEiWfVzjHWJ6i8nGtfLd"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 328332,
+      "name": "One Assassination Under God",
+      "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Whiplash",
         "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
       },
@@ -43,18 +59,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "One Assassination Under God - Chapter 1",
-        "url": "https://open.spotify.com/album/16PEiWfVzjHWJ6i8nGtfLd"
+        "name": "The Last Will And Testament",
+        "url": "https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6"
       },
       "artists": [
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
         }
       ],
-      "duration_ms": 328332,
-      "name": "One Assassination Under God",
-      "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
+      "duration_ms": 420320,
+      "name": "\u00a74",
+      "url": "https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -75,18 +91,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Live At 55",
-        "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
+        "name": "Forever Aligned",
+        "url": "https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
         }
       ],
-      "duration_ms": 338546,
-      "name": "25 Or 6 To 4 - Live",
-      "url": "https://open.spotify.com/track/4dUBxnTb1TtrAa5LlPprUT"
+      "duration_ms": 245979,
+      "name": "Forever Aligned",
+      "url": "https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -107,18 +123,34 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "The Last Will And Testament",
-        "url": "https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
       },
       "artists": [
         {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 420320,
-      "name": "\u00a74",
-      "url": "https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb"
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Live At 55",
+        "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 338546,
+      "name": "25 Or 6 To 4 - Live",
+      "url": "https://open.spotify.com/track/4dUBxnTb1TtrAa5LlPprUT"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -175,22 +207,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Forever Aligned",
-        "url": "https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 245979,
-      "name": "Forever Aligned",
-      "url": "https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Obsession (2024 Remaster - Deluxe Edition)",
         "url": "https://open.spotify.com/album/0hqgjnpgUwdooBbDSzj3mJ"
       },
@@ -223,22 +239,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/4fgTXGMq9ztbf3L90gyWCg"
       },
@@ -251,6 +251,42 @@
       "duration_ms": 274041,
       "name": "Disease - The Antidote Live",
       "url": "https://open.spotify.com/track/6CshsTmLmHKEHlJo0zADrs"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Mercedes Sosa en New York, 1974",
+        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 141701,
+      "name": "El Manco Arana (En Vivo NY)",
+      "url": "https://open.spotify.com/track/5WpaTDwLufvWofN4HLyB19"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -275,22 +311,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Mercedes Sosa en New York, 1974",
-        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 236379,
-      "name": "Cuando Tenga la Tierra (En Vivo NY)",
-      "url": "https://open.spotify.com/track/2HK4kHLBfeWn6cWBOnOXPL"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Jack Frost and the Hooded Crow (2024 Remix)",
         "url": "https://open.spotify.com/album/5MfN5qExNr5WIPfJUoMT52"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 217906,
       "name": "Jack Frost and the Hooded Crow - 2024 Remix",
       "url": "https://open.spotify.com/track/5yplPjqUNnqOmo1rLFjXbd"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/10CN0hgny4siXOeTeWtVRN"
-      },
-      "artists": [
-        {
-          "name": "Lashin Culpa",
-          "url": "https://open.spotify.com/artist/4OsxAPu2ZdcKW5Zz2Z7xBl"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/3aOQTmYHmeWCT7hPiaG3hH"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "all we get is life",
         "url": "https://open.spotify.com/album/47sI5yYyYUmTTNo0CyMDAm"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 257760,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/10CN0hgny4siXOeTeWtVRN"
+      },
+      "artists": [
+        {
+          "name": "Lashin Culpa",
+          "url": "https://open.spotify.com/artist/4OsxAPu2ZdcKW5Zz2Z7xBl"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/3aOQTmYHmeWCT7hPiaG3hH"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -507,50 +507,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Tuli Bulala",
-        "url": "https://open.spotify.com/album/4XOCcs3R0Yelk0X8ie42cV"
-      },
-      "artists": [
-        {
-          "name": "Carryme 256",
-          "url": "https://open.spotify.com/artist/2MBi3iBFJ0WBmuiiI9jVOG"
-        },
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        },
-        {
-          "name": "Bash Vybz",
-          "url": "https://open.spotify.com/artist/537kKvgw5v6nC4CeUtepVB"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Tuli Bulala",
-      "url": "https://open.spotify.com/track/6eozPwarDSX1cggPc7IQLg"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "3 Pieces, Op. 9",
-        "url": "https://open.spotify.com/album/2czczDiRpyHYPRLh3cnVND"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luis Kolodin",
-          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
-        }
-      ],
-      "duration_ms": 465180,
-      "name": "3 Pieces, Op. 9: No. 1 in D Major 'R\u00eaverie'. Andante capriccioso",
-      "url": "https://open.spotify.com/track/5Gb2y7Mm1YZyGtWKA1C9Os"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Lively Up Yourself",
         "url": "https://open.spotify.com/album/2Y704v34H2j9hylnujr6Pj"
       },
@@ -575,6 +531,30 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Tuli Bulala",
+        "url": "https://open.spotify.com/album/4XOCcs3R0Yelk0X8ie42cV"
+      },
+      "artists": [
+        {
+          "name": "Carryme 256",
+          "url": "https://open.spotify.com/artist/2MBi3iBFJ0WBmuiiI9jVOG"
+        },
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        },
+        {
+          "name": "Bash Vybz",
+          "url": "https://open.spotify.com/artist/537kKvgw5v6nC4CeUtepVB"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Tuli Bulala",
+      "url": "https://open.spotify.com/track/6eozPwarDSX1cggPc7IQLg"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Nice 'N' Easy (Remastered 2024)",
         "url": "https://open.spotify.com/album/7h6eW4DaAtwvPO1KwHPy3k"
       },
@@ -587,6 +567,46 @@
       "duration_ms": 168145,
       "name": "Nice 'N Easy - Remastered",
       "url": "https://open.spotify.com/track/2lolsQbTZLzq5kneZ6R8Aj"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "3 Pieces, Op. 9",
+        "url": "https://open.spotify.com/album/2czczDiRpyHYPRLh3cnVND"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luis Kolodin",
+          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
+        }
+      ],
+      "duration_ms": 465180,
+      "name": "3 Pieces, Op. 9: No. 1 in D Major 'R\u00eaverie'. Andante capriccioso",
+      "url": "https://open.spotify.com/track/5Gb2y7Mm1YZyGtWKA1C9Os"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "Let\u2019s Get Money Together",
+      "url": "https://open.spotify.com/track/6YA9UQbO4iCOYXPG1BPApi"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -631,26 +651,6 @@
       "duration_ms": 185142,
       "name": "Tr\u1ebb Tu\u1ed5i & L\u00e0m Li\u1ec1u",
       "url": "https://open.spotify.com/track/3NZVgs83nXzMIKkaTpa6Dw"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "Let\u2019s Get Money Together",
-      "url": "https://open.spotify.com/track/6YA9UQbO4iCOYXPG1BPApi"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -776,25 +776,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 165860,
-      "name": "Detroit 442",
-      "url": "https://open.spotify.com/track/1oFracRrYMP5214pdmG6C3"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Say Hello To The Angels (Live)",
-        "url": "https://open.spotify.com/album/6dFYQprTCu1Sj9LtP5W4cM"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 264355,
-      "name": "Say Hello To The Angels - Live",
-      "url": "https://open.spotify.com/track/7vP0uh4EEQkw1tEDoDIc4X"
+      "duration_ms": 296159,
+      "name": "Rip Her To Shreds",
+      "url": "https://open.spotify.com/track/4gW1KtDU7ZTKijuttCmX2v"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -815,22 +799,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Tapping The Vein (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1YVnToAiUQMVLfRAABQBGP"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Body Parts - 2024 Remaster",
-      "url": "https://open.spotify.com/track/4eG7rnzKsFwTuB5f13HBqL"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Bad Sisters (Season 2) [Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj"
       },
@@ -847,6 +815,54 @@
       "duration_ms": 181146,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Say Hello To The Angels (Live)",
+        "url": "https://open.spotify.com/album/6dFYQprTCu1Sj9LtP5W4cM"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 264355,
+      "name": "Say Hello To The Angels - Live",
+      "url": "https://open.spotify.com/track/7vP0uh4EEQkw1tEDoDIc4X"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Tapping The Vein (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1YVnToAiUQMVLfRAABQBGP"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Body Parts - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4eG7rnzKsFwTuB5f13HBqL"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Through Storms Ahead",
+        "url": "https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "The Void Within",
+      "url": "https://open.spotify.com/track/0e3PFJptQimRYX3TUIbRmD"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -884,41 +900,9 @@
           "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
         }
       ],
-      "duration_ms": 241940,
-      "name": "All the young dudes / West End girls (with the Manchester Camerata)",
-      "url": "https://open.spotify.com/track/3Q9y4pe7zu4Uq85z8bPosd"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Through Storms Ahead",
-        "url": "https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "The Void Within",
-      "url": "https://open.spotify.com/track/0e3PFJptQimRYX3TUIbRmD"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "The Reaping",
-        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 227959,
-      "name": "The Reaping",
-      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
+      "duration_ms": 237302,
+      "name": "All the young dudes / West End girls (with the Manchester Camerata) - orchestral version",
+      "url": "https://open.spotify.com/track/1bn885NPAHPiK2tOuKLIKt"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 253560,
       "name": "Original Sin - Ian Green Mix",
       "url": "https://open.spotify.com/track/1LoG6GxBtdD5nD2AnsnsvH"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "The Reaping",
+        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 227959,
+      "name": "The Reaping",
+      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Ategnatos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 229914,
+      "name": "Ategnatos - Acoustic Version",
+      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Leave Me to Bleed (feat. Brandon Saller)",
         "url": "https://open.spotify.com/album/37LZExXprGsgP6b5Y7FJdx"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 218384,
       "name": "Leave Me to Bleed (feat. Brandon Saller)",
       "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Ategnatos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 229914,
-      "name": "Ategnatos - Acoustic Version",
-      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Her\u00e9ticas",
         "url": "https://open.spotify.com/album/43zeSy5vbq782vpaYsKrER"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Rompecorazones",
         "url": "https://open.spotify.com/album/1sp7wuB1DRQxrgt619csnZ"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 193124,
       "name": "Rompecorazones",
       "url": "https://open.spotify.com/track/6ZUgI1yKPFieqew3ri5Drx"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1187,34 +1167,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Mayonaka no Door~stay with me 2024",
-        "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk"
       },
       "artists": [
         {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Mayonaka no Door~stay with me 2024",
-      "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Bailando Con Tu Sombra",
-        "url": "https://open.spotify.com/album/1MzQUDd2NYkdu92IbdlAqU"
-      },
-      "artists": [
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        },
         {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 309080,
-      "name": "Bailando Con Tu Sombra",
-      "url": "https://open.spotify.com/track/7qK8TNOfbFz56niplqdDhZ"
+      "duration_ms": 218360,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1263,22 +1231,34 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Belize",
-        "url": "https://open.spotify.com/album/4pqwyhTr7IasEsMxAlvpB1"
+        "name": "Bailando Con Tu Sombra",
+        "url": "https://open.spotify.com/album/1MzQUDd2NYkdu92IbdlAqU"
       },
       "artists": [
         {
-          "name": "Aerstame",
-          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
-        },
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
         }
       ],
-      "duration_ms": 182571,
-      "name": "Belize",
-      "url": "https://open.spotify.com/track/0yo9e9TdaDq6Evjuhne3CO"
+      "duration_ms": 309080,
+      "name": "Bailando Con Tu Sombra",
+      "url": "https://open.spotify.com/track/7qK8TNOfbFz56niplqdDhZ"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Mayonaka no Door~stay with me 2024",
+        "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Mayonaka no Door~stay with me 2024",
+      "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1299,6 +1279,26 @@
       "duration_ms": 220240,
       "name": "We Gotta Power (from Dragon Ball Z) (feat. ThatViolaKid)",
       "url": "https://open.spotify.com/track/1z04Ns1kFACBMF0tZ6oWUe"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Belize",
+        "url": "https://open.spotify.com/album/4pqwyhTr7IasEsMxAlvpB1"
+      },
+      "artists": [
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Belize",
+      "url": "https://open.spotify.com/track/0yo9e9TdaDq6Evjuhne3CO"
     },
     {
       "added_at": "2024-11-22 03:00:00",

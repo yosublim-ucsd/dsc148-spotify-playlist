@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-454 songs - 1 day 1 hr 34 min
+455 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 | 2023-09-21 |
+| [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-25 |  |
 | [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 | 2024-09-12 | 2024-09-30 |
 | [Chand Ka Takiya](https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Chand Ka Takiya](https://open.spotify.com/album/05OhJuZZurrrrTo2j5pnq6) | 2:49 | 2024-09-17 |  |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 | 2024-04-19 |
@@ -260,7 +261,7 @@
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 | 2024-07-23 |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-09 |  |
 | [Main Badal Gaya](https://open.spotify.com/track/7zDWmBat5hPhGzrvsz4aGH) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [Main Badal Gaya](https://open.spotify.com/album/4uIseloolEIePDsVQAW6hh) | 3:48 | 2024-04-19 | 2024-06-13 |
-| [Main Na Jaanu Kyun](https://open.spotify.com/track/7ePPBTUfDOj5t6UCXecSLI) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 | 2024-04-19 |  |
+| [Main Na Jaanu Kyun](https://open.spotify.com/track/7ePPBTUfDOj5t6UCXecSLI) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 | 2024-04-19 | 2024-11-26 |
 | [Main Tujhe Phir Miloongi](https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR) | [Vibha Saraf](https://open.spotify.com/artist/4aL6PYF766njiW0WELvEzj), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 5:32 | 2024-02-19 | 2024-11-13 |
 | [Main Tujhe Phir Miloongi](https://open.spotify.com/track/7qnflfkgOUMbVQ7YjlkOT7) | [Vibha Saraf](https://open.spotify.com/artist/4aL6PYF766njiW0WELvEzj), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Article 370 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO) | 5:32 | 2024-02-20 | 2024-04-19 |
 | [Malang Sa \- Acoustic](https://open.spotify.com/track/2Eai5asMu911MtRd4eyHHF) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Malang Sa \(Acoustic\)](https://open.spotify.com/album/2Rzu58Cx0ajSRkqcDPNGap) | 2:54 | 2023-05-17 | 2023-07-08 |

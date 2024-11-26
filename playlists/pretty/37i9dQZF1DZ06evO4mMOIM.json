@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2106,
+  "num_followers": 2107,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAAVyeIru9TKT2U+YVA2Sj/o",
+  "snapshot_id": "Z0JsgAAAAAC1TyJ1bWyj7pH3xGUPYoU6",
   "tracks": [
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 183893,
-      "name": "Cosmopolitan Blood Loss",
-      "url": "https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS"
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+      "duration_ms": 183893,
+      "name": "Cosmopolitan Blood Loss",
+      "url": "https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Color Green (The Singles)",
         "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 307309,
       "name": "Jesus Glue",
       "url": "https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 141759,
-      "name": "citizen",
-      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Color Green (The Singles)",
         "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 141759,
+      "name": "citizen",
+      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 322106,
       "name": "Daytona White",
       "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "golgotha",
-      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "golgotha",
+      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "bibleland 6",
-      "url": "https://open.spotify.com/track/3WPZDwLiA7L5S95JN3I6BN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mark",
         "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
@@ -563,6 +547,54 @@
       "duration_ms": 303746,
       "name": "The Number No Good Things Can Come Of",
       "url": "https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Rabbits",
+        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
+      },
+      "artists": [
+        {
+          "name": "Bad Rabbits",
+          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        },
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        },
+        {
+          "name": "Justin Beck",
+          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
+        },
+        {
+          "name": "Dres",
+          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
+        }
+      ],
+      "duration_ms": 98776,
+      "name": "U Mean I'm Not",
+      "url": "https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "bibleland 6",
+      "url": "https://open.spotify.com/track/3WPZDwLiA7L5S95JN3I6BN"
     },
     {
       "added_at": null,

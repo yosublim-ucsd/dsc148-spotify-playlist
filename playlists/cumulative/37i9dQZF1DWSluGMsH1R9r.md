@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-705 songs - 1 day 6 hr 11 min
+706 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 | 2023-09-05 | 2024-02-06 |
 | [Abuelo](https://open.spotify.com/track/6Oimt1bnKnDzmRn4RiB7D4) | [ANTICLEA](https://open.spotify.com/artist/2ksAWinh38Fp03NmgzuJTv) | [Abuelo](https://open.spotify.com/album/7nm2rqvpNj3pSKIvlNwmNE) | 2:33 | 2021-12-07 | 2022-07-16 |
 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 | 2022-02-15 | 2022-07-16 |
+| [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 | 2024-11-25 |  |
 | [Across the Currents](https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Across the Currents](https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz) | 2:03 | 2023-10-04 |  |
 | [Adela](https://open.spotify.com/track/1bWZPuueQsBbU5BEgYuynn) | [Francesco de Galdeano](https://open.spotify.com/artist/4vihcZjBHiBslHO1b9JPPH) | [Adela](https://open.spotify.com/album/1riQYFOXYqcKR3dLxh1w9R) | 2:26 | 2021-12-07 | 2023-01-27 |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2021-12-07 |  |

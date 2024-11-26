@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,948 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,020 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 78 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 |
 | 79 | [invierno/verano \(de mierda\)](https://open.spotify.com/track/4AB8CmFbtVoCzBEhBuPiIy) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [invierno/verano \(de mierda\)](https://open.spotify.com/album/7zLnDcuO0jbTs1oTOEeSqc) | 3:15 |
 
-Snapshot ID: `Zz+7cAAAAAA3K+y9Ob+bJb8XTrlUrN5t`
+Snapshot ID: `Z0Q8ggAAAAAYT1m0AonZu0pLrvmqMPv5`

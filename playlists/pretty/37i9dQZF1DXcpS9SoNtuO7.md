@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,294 likes - 96 songs - 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,295 likes - 96 songs - 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 68 | [一期一会](https://open.spotify.com/track/4cwb05Zagi3vzdv338fNnz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 4:38 |
 | 69 | [コネクト \-2017\-](https://open.spotify.com/track/0Yvh6rUn42qYGxNBHeQXo6) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:30 |
 | 70 | [Get Wild](https://open.spotify.com/track/4u3Xyot6RXdzrwbJq2cdgC) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Get Wild](https://open.spotify.com/album/1Fm21EmKUIntsVv1QviIoI) | 4:15 |
-| 71 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/2cYj0KTuNwvjA0TWEoA8EW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 4:21 |
+| 71 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/2cYj0KTuNwvjA0TWEoA8EW) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 4:21 |
 | 72 | [STILL LOVE HER \(失われた風景\)](https://open.spotify.com/track/7rwf6R24PsBczJ1IbQkD2I) | [くるり](https://open.spotify.com/artist/5BYFbATLjrs46UDCsKbOQY) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 6:26 |
 | 73 | [ELECTRIC PROPHET \(電気じかけの予言者\)](https://open.spotify.com/track/4QCc649rdzPZkg9ISa2eAK) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 8:36 |
 | 74 | [\#53 『怪獣8号』『ザ・ファブル』『終末トレイン』etc…激推し春アニソン！／年間再生数ランキングBEST5発表!!](https://open.spotify.com/episode/5Ibt5FtYb8kQkM8awyEN3b) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 52:34 |

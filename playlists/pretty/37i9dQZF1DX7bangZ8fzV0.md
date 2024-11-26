@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=\_ZU7PtVVQ8\-c57T0nCEagQ">Danny Smoke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,423 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,467 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

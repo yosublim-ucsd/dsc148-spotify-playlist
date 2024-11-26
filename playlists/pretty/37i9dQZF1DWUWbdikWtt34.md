@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Iis Dahlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,609 likes - 91 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,621 likes - 91 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

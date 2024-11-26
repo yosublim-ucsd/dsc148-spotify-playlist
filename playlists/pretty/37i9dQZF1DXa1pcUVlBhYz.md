@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,838 likes - 55 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,841 likes - 55 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
-| 2 | [Caged Bird \- Full Vocal Mix](https://open.spotify.com/track/2RdvcDItpcEQ4RjG71c3ii) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [Caged Bird](https://open.spotify.com/album/6pe4kcu3Yod004YHf9Z9I8) | 8:02 |
+| 2 | [Caged Bird \- Full Vocal Mix](https://open.spotify.com/track/2RdvcDItpcEQ4RjG71c3ii) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [Caged Bird](https://open.spotify.com/album/6pe4kcu3Yod004YHf9Z9I8) | 8:03 |
 | 3 | [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 |
 | 4 | [CUNTY](https://open.spotify.com/track/6LhRu1fLeGpTvOvyrbBEO5) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [CUNTY](https://open.spotify.com/album/5OseEgpeXcRW39Jfim15QN) | 3:52 |
 | 5 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 |

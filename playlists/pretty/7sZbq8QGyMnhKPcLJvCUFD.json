@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 731694,
+  "num_followers": 731686,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAYCA6s+4oHTRgGApkXC30idIg8SsO8",
+  "snapshot_id": "AAAYCY03jaZDYKyGQnS4HfQPYCJceedg",
   "tracks": [
     {
       "added_at": "2024-11-19 14:35:07",
@@ -2115,6 +2115,34 @@
       "duration_ms": 134250,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4"
+    },
+    {
+      "added_at": "2024-11-25 13:28:24",
+      "album": {
+        "name": "Royalty (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Royalty - Super Slowed + Reverb",
+      "url": "https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob"
     }
   ],
   "unique_name": "NCS Releases",

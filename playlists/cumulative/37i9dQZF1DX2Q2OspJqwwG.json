@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
+    },
+    {
+      "album": {
         "name": "Bambola",
         "url": "https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m"
       },
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 166426,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
@@ -1857,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Inimi",
+        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176756,
+      "name": "Inimi",
+      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+    },
+    {
+      "album": {
         "name": "it boy",
         "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
@@ -2326,7 +2366,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 204375,
       "name": "Scrum",
       "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
@@ -3272,7 +3312,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 156705,
       "name": "Show cu Banii",
       "url": "https://open.spotify.com/track/4tdmnkmIO0CC9XYfOjcJ6R"
@@ -3711,6 +3751,24 @@
     },
     {
       "album": {
+        "name": "Topeste-mi iarna",
+        "url": "https://open.spotify.com/album/5f2lwLel0GQtVN2QBj2nHI"
+      },
+      "artists": [
+        {
+          "name": "Oana Radu",
+          "url": "https://open.spotify.com/artist/2czHSa8nbQL3v6MxMLzXRd"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Topeste-mi iarna",
+      "url": "https://open.spotify.com/track/4VM9HfG2RY9qdyMXvb6Qpb"
+    },
+    {
+      "album": {
         "name": "Totul meu",
         "url": "https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7"
       },
@@ -3766,10 +3824,54 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 160000,
       "name": "Turbo Orange",
       "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
+    },
+    {
+      "album": {
+        "name": "Ultimul Dans",
+        "url": "https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Ultimul Dans",
+      "url": "https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR"
+    },
+    {
+      "album": {
+        "name": "Ultimul s\u0103rut",
+        "url": "https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Project",
+          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Ultimul s\u0103rut",
+      "url": "https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2"
     },
     {
       "album": {

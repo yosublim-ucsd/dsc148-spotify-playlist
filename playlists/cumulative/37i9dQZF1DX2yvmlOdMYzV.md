@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-858 songs - 1 day 22 hr 41 min
+859 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2023-01-27 | 2023-08-12 |
 | [Say It](https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub) | [Oliv Blu](https://open.spotify.com/artist/68iX9SpJQmbuaDfBjJSOlr) | [Say It](https://open.spotify.com/album/3s7NZeo46K9lNNre5Cvpdw) | 3:33 | 2021-12-15 | 2022-07-26 |
 | [Say Something](https://open.spotify.com/track/0P8ndUdukXaLD07VY5Kkmk) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Say Something](https://open.spotify.com/album/31JAgjW1z3qZaOsNarS1P4) | 2:08 | 2024-04-19 | 2024-06-01 |
-| [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 | 2024-01-26 |  |
+| [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 | 2024-01-26 | 2024-11-26 |
 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 | 2024-02-16 | 2024-02-18 |
 | [Scrimmage \- Remix](https://open.spotify.com/track/4RLpPmjpcuXdOVqizQVnc5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu), [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Scrimmage \(Remix\)](https://open.spotify.com/album/29QSUuMItml4GM3ktc4M2m) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 | 2023-03-10 | 2023-09-13 |
@@ -772,6 +772,7 @@
 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 | 2023-12-17 |
 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 | 2023-07-14 | 2024-07-20 |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-23 |  |
+| [Tomorrow](https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Tomorrow](https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt) | 3:16 | 2024-11-22 |  |
 | [Too Late \(feat\. James Fauntleroy & Elena Pinderhughes\)](https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Fine Tune](https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ) | 4:31 | 2023-06-30 | 2023-09-02 |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2024-07-09 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-867 songs - 2 day 1 hr 23 min
+868 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Run Right Back](https://open.spotify.com/track/2sSn4HVYNcaegvazLKG0dz) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Run Right Back](https://open.spotify.com/album/6HR3uI5fIW1a9gq2Aa44Uw) | 4:04 | 2024-04-30 | 2024-07-20 |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Rush](https://open.spotify.com/track/2CO0oj3F0zhFQwKjKD7H5h) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Rush](https://open.spotify.com/album/4kCmOv70f0zmMMS3rLYhIR) | 2:31 | 2023-06-14 | 2023-09-26 |
+| [S.O.S](https://open.spotify.com/track/6GILOzBgkTHtyinx0SvI4r) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [S.O.S](https://open.spotify.com/album/0z7xVubreIoeySVXQuAPN3) | 3:26 | 2024-11-25 |  |
 | [Safer Place](https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Safer Place / Work My Body](https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs) | 2:52 | 2023-06-21 | 2023-09-26 |
 | [Saganaki](https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Saganaki](https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob) | 3:28 | 2023-04-04 | 2023-06-28 |
 | [Sailor's Cry \- djimboh Remix](https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [A Place For Everything \(The Remixes\)](https://open.spotify.com/album/51aOQOP4DhqzNkXtVCa8RR) | 3:51 | 2022-12-16 | 2023-03-18 |
@@ -771,7 +772,7 @@
 | [This Is The Life We Dreamed Of](https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [This Is The Life We Dreamed Of](https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE) | 3:48 | 2022-03-11 | 2022-05-24 |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 | 2022-09-29 |
 | [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 | 2023-03-28 |
-| [Through The Inversion](https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Through The Inversion](https://open.spotify.com/album/58KZYuS7Afr2W7Rxj2cJm4) | 3:22 | 2024-09-03 |  |
+| [Through The Inversion](https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Through The Inversion](https://open.spotify.com/album/58KZYuS7Afr2W7Rxj2cJm4) | 3:22 | 2024-09-03 | 2024-11-26 |
 | [Tidal Wave](https://open.spotify.com/track/1omHvO3u6OmOUp7arSDuF2) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Tidal Wave](https://open.spotify.com/album/31e7BFs4JJJtYsSc20tGnr) | 3:55 | 2024-10-28 |  |
 | [Time](https://open.spotify.com/track/2G0nmOKGQds2EJjjIsu91J) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Time](https://open.spotify.com/album/4GK69DAIe79SoNuOkSCElS) | 2:28 | 2024-06-17 | 2024-09-10 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |

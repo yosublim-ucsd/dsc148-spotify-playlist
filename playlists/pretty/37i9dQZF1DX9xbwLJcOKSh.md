@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,244 likes - 72 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,245 likes - 72 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 46 | [MOON](https://open.spotify.com/track/67Dpq4ZbKvolhCCQEAnQce) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [劇場版∀ガンダム 地球光・月光蝶 Soundtracks \- 惑星の午後、僕らはキスをした](https://open.spotify.com/album/5i1aksZfivMYaxvOWPPgik) | 5:13 |
 | 47 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 |
 | 48 | [白い色は恋人の色](https://open.spotify.com/track/5JFiKpdKaJa0vyRxWywTYk) | [Yoshiko Goshima](https://open.spotify.com/artist/7iyJFgBAagks6G2cfqQDJO) | [Five Island Resort](https://open.spotify.com/album/2iQW4NFuhLFIpH5KDt4r5x) | 3:44 |
-| 49 | [THUNDERBIRD](https://open.spotify.com/track/2OujnD7bikTNQ9xtETVSeg) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [UNDER:COVER](https://open.spotify.com/album/3znmLzx9wimdLrSnu1MD5R) | 5:18 |
+| 49 | [THUNDERBIRD](https://open.spotify.com/track/2OujnD7bikTNQ9xtETVSeg) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [UNDER：COVER](https://open.spotify.com/album/3znmLzx9wimdLrSnu1MD5R) | 5:18 |
 | 50 | [Petitsavon](https://open.spotify.com/track/0SR4s4FT0LkCMNgIoTuDau) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Petitsavon](https://open.spotify.com/album/6qfsLcM8V6nMaGAIItOfOG) | 1:05 |
 | 51 | [Eternal Memories](https://open.spotify.com/track/1RZzyWN5TrVWhbiuVIyMEV) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [C.L.L CRYSTAL LOVER LIGHT](https://open.spotify.com/album/2FX4dpAlJo5DXw2aUzKKve) | 5:08 |
 | 52 | [時には昔の話を](https://open.spotify.com/track/7rm41eGxxk8lyJ2sAosdr0) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [さくらんぼの実る頃](https://open.spotify.com/album/5Yt5vWydeqF3awoI9FQWYe) | 3:57 |
-| 53 | [von](https://open.spotify.com/track/3oUgh8bLNkEF0ul6cdMW46) | [菅野 よう子 feat\. Arnor Dan](https://open.spotify.com/artist/0iUhLWdoD8Sy0TxeeAellF) | [残響のテロル オリジナル・サウンドトラック](https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF) | 6:14 |
+| 53 | [von](https://open.spotify.com/track/3oUgh8bLNkEF0ul6cdMW46) | [菅野 よう子 feat\. Arnor Dan](https://open.spotify.com/artist/0iUhLWdoD8Sy0TxeeAellF) | [残響のテロル　オリジナル・サウンドトラック](https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF) | 6:14 |
 | 54 | [流し目プレイ☆](https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq) | [Kei Kobayashi](https://open.spotify.com/artist/79kDeWonZGfPMKoubNNBx4) | [Keiスタンダード～the best of Kei Kobayashi](https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52) | 3:31 |
 | 55 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 |
 | 56 | [星と翼のパラドクス](https://open.spotify.com/track/2dJ7ZiPigk0LOqdeFbgSey) | [chelly \(EGOIST\)](https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk), [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [星と翼のパラドクス](https://open.spotify.com/album/66watoSstc1CxFL0MMa7YR) | 4:54 |
-| 57 | [Trigger](https://open.spotify.com/track/1oCMgEq64rcOTOEvyTraY7) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [残響のテロル オリジナル・サウンドトラック 2 \-crystalized\-](https://open.spotify.com/album/5JhONeB41irLN6oHc1r3I6) | 5:04 |
+| 57 | [Trigger](https://open.spotify.com/track/1oCMgEq64rcOTOEvyTraY7) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [残響のテロル　オリジナル・サウンドトラック 2　\-crystalized\-](https://open.spotify.com/album/5JhONeB41irLN6oHc1r3I6) | 5:04 |
 | 58 | [木漏れび](https://open.spotify.com/track/2mfGMATyARqZny4SqeF6uH) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [雪のワルツ](https://open.spotify.com/album/36uDS3bXbHIXtF9286vaYs) | 3:29 |
 | 59 | [海街diary](https://open.spotify.com/track/7kY6SVaSuLmvFTUfZsutFX) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [海街diary オリジナルサウンドトラック](https://open.spotify.com/album/3zjLKUBam57KIIlHfuSXWX) | 2:04 |
 | 60 | [WO QUI NON COIN](https://open.spotify.com/track/785rHlWIQg67RVPuzOv07u) | [多田葵](https://open.spotify.com/artist/2GA3vR0niTdN9RJItcLMtK) | [「COWBOY BEBOP」オリジナルサウンドトラック3　BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:41 |

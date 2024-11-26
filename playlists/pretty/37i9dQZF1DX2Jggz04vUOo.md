@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,207 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 59 | [Intellijel Bell \- Nutia Remix](https://open.spotify.com/track/5WDCdwgh4eTxlF3YXWKUrc) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Nutia](https://open.spotify.com/artist/66znpbIBZzFtvn4iqGh2Lp) | [MOD Remixes](https://open.spotify.com/album/5k8QthOlc9CTW0TFAxkSkU) | 6:29 |
 | 60 | [Cosmosamba](https://open.spotify.com/track/19VtJkoau2GFsmMFeP4faP) | [Projeto Mujique](https://open.spotify.com/artist/7ygEGVpG4Y6WtOMV5iTzlN), [Thomash](https://open.spotify.com/artist/2NVvuhg7tKjsMeFfv8JQiQ) | [Cosmosamba](https://open.spotify.com/album/2IkOJqiLz0FEsVqoCi0ItM) | 7:56 |
 | 61 | [Elefante](https://open.spotify.com/track/02yNOCdIFQ227lXa15JcoC) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY), [Tolga Bilgin](https://open.spotify.com/artist/2n0mROXhyTtUEk8cb8Fyck) | [Elefante](https://open.spotify.com/album/7Gpe9w3QcW4f8mPGFvtXWt) | 5:48 |
-| 62 | [For Sha \- Cornelius Doctor, Tushen Raï Remix](https://open.spotify.com/track/4nGVNUxLgbE5U1QQMb79Ye) | [Paul Traeumer](https://open.spotify.com/artist/6QtYRtIKQPKhChX5ZKAD5C), [Cornelius Doctor & Tushen Raï](https://open.spotify.com/artist/1j2w2mPCYgklKXKy0u3wTq) | [No Spell Left for Sha](https://open.spotify.com/album/07emdGDEqUTrVUcazED7hp) | 6:56 |
+| 62 | [For Sha \- Cornelius Doctor, Tushen Raï Remix](https://open.spotify.com/track/4nGVNUxLgbE5U1QQMb79Ye) | [Paul Traeumer](https://open.spotify.com/artist/6QtYRtIKQPKhChX5ZKAD5C), [Cornelius Doctor & Tushen Raï](https://open.spotify.com/artist/1j2w2mPCYgklKXKy0u3wTq) | [No Spell Left for Sha](https://open.spotify.com/album/07emdGDEqUTrVUcazED7hp) | 6:56 |
 | 63 | [Mango](https://open.spotify.com/track/1K0x7b9eFfhXy348hdOBRD) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L), [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n) | [Mango](https://open.spotify.com/album/4z7Z8H5ZBi1T2XFvC8J9m8) | 6:37 |
 | 64 | [Gatluak \- Nandu Remix](https://open.spotify.com/track/4V0jgQL7DCdEtbRlBteYJJ) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Gatluak Remixes](https://open.spotify.com/album/1xj2pQVh1YAUaVqB8Bcw2C) | 6:20 |
 | 65 | [Johannesburg](https://open.spotify.com/track/4k8KRqfMhT8ubZVEeCf2iB) | [Powel](https://open.spotify.com/artist/7lswylDlldiV65bPXGD46m) | [Iblard](https://open.spotify.com/album/38rQXjQuFgPyuTKQkXjQSB) | 5:56 |

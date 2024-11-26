@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,148 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,142 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 15 | [解読不能](https://open.spotify.com/track/7qmHiAnigN9lTQK4KhwSkF) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [レミングス](https://open.spotify.com/album/3cUiVzXIOabDLPvZQpIwrx) | 3:02 |
 | 16 | [モザイクカケラ](https://open.spotify.com/track/7nB11IuwyP6f66ISyhapMn) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [モザイクカケラ](https://open.spotify.com/album/1zJRzbC0EwtahkAEEqZywG) | 4:38 |
 | 17 | [瞳ノ翼](https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu) | [access](https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H) | [瞳ノ翼](https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR) | 3:32 |
-| 18 | [O2](https://open.spotify.com/track/288vboftuy8Zrin0FuBLuQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [O2](https://open.spotify.com/album/22kOuNqfrdRaThyuPJ384I) | 3:58 |
+| 18 | [Ｏ2](https://open.spotify.com/track/288vboftuy8Zrin0FuBLuQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Ｏ2](https://open.spotify.com/album/22kOuNqfrdRaThyuPJ384I) | 3:58 |
 | 19 | [シアワセネイロ](https://open.spotify.com/track/1DDh2Kh9vK5rKnaLHoWVCE) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/5yvSj14hylJ7jhZrCF77E3) | 4:17 |
 | 20 | [WORLD END](https://open.spotify.com/track/04ZiUGAkCcZkITctDSXa8j) | [フロウ](https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g) | [WORLD END](https://open.spotify.com/album/6f9A01DHyzSB9P8SM7xdNF) | 3:48 |
 | 21 | [わが臈たし悪の華](https://open.spotify.com/track/3MJqgOdP2nNb8QzfIaV0io) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [桂冠詩人 SINGLE COLLECTION PLUS](https://open.spotify.com/album/004c28tUoHBiyAxdzO0z8e) | 4:30 |

@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 155174,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 135901,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y"
@@ -14353,6 +14353,24 @@
     },
     {
       "album": {
+        "name": "Les r\u00eaveries \u00e9lusives",
+        "url": "https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "Les r\u00eaveries \u00e9lusives",
+      "url": "https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw"
+    },
+    {
+      "album": {
         "name": "Les Soir",
         "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
@@ -23575,6 +23593,24 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126383,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM"
       },
@@ -28136,7 +28172,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 204375,
       "name": "to god knows where - silence",
       "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
@@ -28518,6 +28554,24 @@
       "duration_ms": 186000,
       "name": "Trieste",
       "url": "https://open.spotify.com/track/64ltkWiXTteDM5x4s1XP1M"
+    },
+    {
+      "album": {
+        "name": "Trinity's Tears",
+        "url": "https://open.spotify.com/album/7aB70ESTbXVRpVHEn3eDD1"
+      },
+      "artists": [
+        {
+          "name": "Morpheus Two",
+          "url": "https://open.spotify.com/artist/1YFyublQissuj82xACfDxj"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137555,
+      "name": "Trinity's Tears",
+      "url": "https://open.spotify.com/track/56n46IJIz5ToaFJBxy3Y5B"
     },
     {
       "album": {
@@ -31050,7 +31104,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 159124,
       "name": "Winterfall",
       "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"

@@ -8695,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "Chinese Class",
+        "url": "https://open.spotify.com/album/4Ti6mR2JMGB1BV3ozax7Hc"
+      },
+      "artists": [
+        {
+          "name": "Peculiar Ethan",
+          "url": "https://open.spotify.com/artist/3wujrunrSvJAihTXWjUxKl"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Chinese Class",
+      "url": "https://open.spotify.com/track/3aEcdMLsaKEFM3Ok7AzsB7"
+    },
+    {
+      "album": {
         "name": "choices choices choices",
         "url": "https://open.spotify.com/album/5cMmhToNnO0pLKjdmgx9TL"
       },

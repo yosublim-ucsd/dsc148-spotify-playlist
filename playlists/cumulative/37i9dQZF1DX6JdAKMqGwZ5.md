@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Barry B.
 
-252 songs - 13 hr 8 min
+253 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Enamorado de tu reverb](https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Enamorado de tu reverb](https://open.spotify.com/album/273Bae4idLgIuVnJFuLYQz) | 4:02 | 2024-10-31 | 2024-11-15 |
 | [Ens hem guanyat l'estiu](https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9) | [Pau Vallvé](https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s) | [Ens hem guanyat l'estiu](https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR) | 3:39 | 2024-07-12 | 2024-10-28 |
 | [Es una pena](https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH), [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Es una pena](https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL) | 3:33 | 2024-06-27 |  |
+| [escocia](https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [escocia](https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j) | 2:57 | 2024-11-22 |  |
 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 | 2024-10-10 |  |
 | [Especial](https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Especial](https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF) | 3:27 | 2024-08-08 | 2024-09-06 |
 | [Espera](https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe), [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [Espera](https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT) | 3:33 | 2024-06-27 |  |
@@ -114,7 +115,7 @@
 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:23 | 2024-06-27 | 2024-09-06 |
 | [Igual hemos roto y no me he enterado](https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Igual hemos roto y no me he enterado](https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt) | 3:02 | 2024-09-05 | 2024-10-18 |
 | [II\. Flores](https://open.spotify.com/track/5gwsRfaDuWLnh7OBXfU9Co) | [laespadayelclavel](https://open.spotify.com/artist/4v3KjF83OHIONLLYCVBm7Y), [Quince](https://open.spotify.com/artist/2R1oJmkl57oERIg2zv2nKQ) | [EL AMOR](https://open.spotify.com/album/56wDiCTzay7s8cH1QR8HNN) | 3:44 | 2024-07-04 | 2024-07-12 |
-| [Imparables](https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Imparables](https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa) | 3:07 | 2024-08-15 |  |
+| [Imparables](https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Imparables](https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa) | 3:07 | 2024-08-15 | 2024-11-26 |
 | [Importante](https://open.spotify.com/track/7EST4cNrgPyNyMFKnVWeKV) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Importante](https://open.spotify.com/album/05cwZJZmICYgHxcdJMl77u) | 3:35 | 2024-10-24 |  |
 | [INRI](https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [INRI](https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT) | 2:25 | 2024-07-11 | 2024-10-04 |
 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 | 2024-06-27 | 2024-08-02 |

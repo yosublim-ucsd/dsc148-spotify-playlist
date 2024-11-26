@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 
 > Enjoy the world of “Sgt\. Frog”! 地球侵略のために派遣された宇宙人・ケロロ軍曹と仲間たちによる物語。オマージュ満載な傑作コメディを彩る歴代OP/ED曲、挿入歌を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,511 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,519 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 |
 | 2 | [全国無責任時代](https://open.spotify.com/track/0ray7DfjTyRNYcuUuX8iYo) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [つなひき帝国／全国無責任時代](https://open.spotify.com/album/0rdnQB3lAWV5YyWROriKT7) | 3:56 |
-| 3 | [君にジュースを買ってあげる\_\_](https://open.spotify.com/track/5FHeJb862sFte8uomm4OYK) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [TMC](https://open.spotify.com/album/31uiMxs1vwERv10xG7XJFu) | 3:38 |
+| 3 | [君にジュースを買ってあげる＿＿](https://open.spotify.com/track/5FHeJb862sFte8uomm4OYK) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [TMC](https://open.spotify.com/album/31uiMxs1vwERv10xG7XJFu) | 3:38 |
 | 4 | [晴れる道 ～宇宙人\(オメェら\)に合わせる顔がねぇ!～](https://open.spotify.com/track/45f7leiwgx1YXncySOxgV6) | [JK\(次長課長\)](https://open.spotify.com/artist/7ha5TmeM3a83uPoNL9mZsc) | [晴れる道 ～宇宙人\(オメェら\)に合わせる顔がねぇ!～](https://open.spotify.com/album/4MiZX0gDNFZMtMuW97q2lt) | 3:19 |
 | 5 | [You\-You\-You](https://open.spotify.com/track/3Pa99zDMXiENdifoCRVLtN) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [You\-You\-You](https://open.spotify.com/album/6E41GAnYiC7AVkRoEWcor9) | 3:45 |
 | 6 | [帰ってきたケロッ! とマーチ](https://open.spotify.com/track/43onsTwoCVclwuCvfVNt6D) | [財津一郎](https://open.spotify.com/artist/6xP5KiQFT3DsRqoFfwMTHP), [小倉優子](https://open.spotify.com/artist/5re6qQEZDRMp3KiynB1aBo) | [TVアニメ『ケロロ軍曹』ケロロソング③](https://open.spotify.com/album/43wq3O2UCQZfVsL2C5mZj0) | 3:12 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 | 14 | [地球侵略音頭](https://open.spotify.com/track/2jtdtkUs0LxjXxhhpFfLsb) | [オンド☆ガール meets ケロロ小隊](https://open.spotify.com/artist/4LD5ze9rYWXL0J6ZUs5m38) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:27 |
 | 15 | [ケロロ小隊公認! 熱烈歓迎的えかきうた!!](https://open.spotify.com/track/3lFNw9RBMJZCgNmmMdzSwL) | [ケロロ小隊\(渡辺久美子・中田譲治・小桜エツ子・子安武人・草尾毅\)](https://open.spotify.com/artist/4IMX9LF1MXLPrgVY6YLLq1) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 6:32 |
 | 16 | [勝手に侵略者](https://open.spotify.com/track/5uNmyqvrfvEP8Sy9SH7vSL) | [小川 直也 ★ 岩佐 真悠子](https://open.spotify.com/artist/0vgOdjhQ4kbxFMXuHU3nDl) | [勝手に侵略者](https://open.spotify.com/album/10k4xZFC0uqpMFSaeEsJAH) | 3:27 |
-| 17 | [ココロの問題](https://open.spotify.com/track/6opggbF2DFeDmGcYXYBChK) | [toutou](https://open.spotify.com/artist/5FWTGUtPRqqTUjBMdROQf7) | [ココロの問題/お願い!プライムミニスター](https://open.spotify.com/album/7h7QabTbs5uDvphCO9rp4a) | 4:01 |
+| 17 | [ココロの問題](https://open.spotify.com/track/6opggbF2DFeDmGcYXYBChK) | [toutou](https://open.spotify.com/artist/5FWTGUtPRqqTUjBMdROQf7) | [ココロの問題／お願い！プライムミニスター](https://open.spotify.com/album/7h7QabTbs5uDvphCO9rp4a) | 4:01 |
 | 18 | [勝利の花びら](https://open.spotify.com/track/0vT1AYbLcua5F1NWtGOOXz) | [チナッチャブル](https://open.spotify.com/artist/1LcsXu8RJEJAB87kRATMEl) | [勝利の花びら／ハルハラリ](https://open.spotify.com/album/25i0oWjp9JL8HbTo30WOw8) | 3:44 |
 | 19 | [サイクリングリサイクル](https://open.spotify.com/track/430cF3Ig5yVJP9tE1n1Y7l) | [きりん](https://open.spotify.com/artist/57sr9vyNpuInna9ovwxxcd) | [サイクリングリサイクル](https://open.spotify.com/album/28WJeAU1Eyjuct43yAREbt) | 3:39 |
 | 20 | [永遠に](https://open.spotify.com/track/2Ow2g186QoD3dbzv2DRvAm) | [アフロマニア](https://open.spotify.com/artist/1P5lwPlatQhDxie5r7TLRv) | [KING OF AFROCK](https://open.spotify.com/album/7eCFxIC5VnyLXpB0q41VrG) | 4:07 |

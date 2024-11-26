@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19889,
+  "num_followers": 19893,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAABPK64o6E8NOkVDudYqOg5R",
+  "snapshot_id": "Z0JsgAAAAAAOp5Ntys8fvF5S4fP6gelX",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Sou do Meu Deus: Live Session",
+        "url": "https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Eu Sou do Meu Deus: Live Session",
+      "url": "https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Sou do Meu Deus: Live Session",
-        "url": "https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Eu Sou do Meu Deus: Live Session",
-      "url": "https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet"
     },
     {
       "added_at": null,

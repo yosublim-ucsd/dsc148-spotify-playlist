@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14812,
+  "num_followers": 14814,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAAv4Ol29dZhFSRPdeRGQQ7i",
+  "snapshot_id": "Z0JsgAAAAAB5Ij63w9xpWZqtLmfUImGn",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 218146,
       "name": "Every Little Thing (feat. Fiji)",
       "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202479,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Million Stylez",
+          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+        }
+      ],
+      "duration_ms": 197848,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loose Shakas",
         "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Million Stylez",
-          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
-        }
-      ],
-      "duration_ms": 197848,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't No Love Like",
         "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Audio",
         "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 235684,
       "name": "My Audio",
       "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Petals",
         "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 214767,
       "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
       "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 221666,
       "name": "Good Cry (feat. Chaka Demus)",
       "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
     },
     {
       "added_at": null,
@@ -1007,22 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
+        "name": "Independently Bizarre",
+        "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
       },
       "artists": [
         {
-          "name": "Monsta Ganjah",
-          "url": "https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL"
+          "name": "Kiwini Vaitai",
+          "url": "https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi"
         },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 243218,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
+      "duration_ms": 250733,
+      "name": "Pina Colada",
+      "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
     }
   ],
   "unique_name": "This Is J Boog",

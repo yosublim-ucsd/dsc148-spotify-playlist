@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di  Diss Gacha, Capo Plaza, Icy Subzero, Lorenzza e tanti altri! 🔥
+> Sempre aggiornata\. Con nuovi brani di Nayt, Geolier, Néza, Plaza e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,082 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,106 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [Dispari](https://open.spotify.com/track/57riTBjpeF1KqZsK6CLoVA) | [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt) | [Dispari](https://open.spotify.com/album/2q8nWxvsGjkbDC13YV3pWm) | 4:46 |
 | 90 | [Level up](https://open.spotify.com/track/4q4wKLaPJAuLGq0qzF0AwQ) | [Rico Mendossa](https://open.spotify.com/artist/4eXlyJqMlVt2JSNIvxqkr6) | [Level up](https://open.spotify.com/album/2EuCEH5VelNB7OoEcqLq1T) | 2:36 |
 
-Snapshot ID: `Zz/XzAAAAAB+xNcjMCLZySytKGCdoaNV`
+Snapshot ID: `Z0RY/AAAAADDKyBNUAW6kWexaHytcMg+`

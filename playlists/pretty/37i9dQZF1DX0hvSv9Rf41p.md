@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a>  🚀🚀 with Subtronics & Alison Wonderland
+> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Subtronics & Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,880 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,908 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 91 | [Uncaged](https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [Uncaged](https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07) | 2:30 |
 | 92 | [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 |
 | 93 | [Conquer](https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Conquer](https://open.spotify.com/album/5Xm75RRp45CHs7F7kvrPoa) | 3:01 |
-| 94 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
-| 95 | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP) | 2:20 |
+| 94 | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP) | 2:20 |
+| 95 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
 | 96 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 97 | [NIGHTHAWK](https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb) | 3:06 |
 | 98 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 |
 | 99 | [Young Majestic](https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Young Majestic](https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq) | 2:27 |
-| 100 | [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 |
+| 100 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
 
-Snapshot ID: `Z0AP0AAAAAC44l53B8sZsP1+cwGqd5dg`
+Snapshot ID: `Z0TrjwAAAABJmmtJQZ2DCis+9V6DTTpx`

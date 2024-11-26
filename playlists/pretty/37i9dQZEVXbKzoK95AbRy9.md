@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,972 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,011 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Calculista](https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Coração de Ouro](https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1) | 3:06 |
 | 50 | [Sorriso no Rosto](https://open.spotify.com/track/1lflD04lIdgV10sCMwFYOu) | [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Deliverymusic](https://open.spotify.com/artist/54DpD2uxqh2jQtstvXxCag), [Dj L Martins](https://open.spotify.com/artist/4MQAbRFF5xtTAIYG8jzfZm) | [Menino Maluquinho](https://open.spotify.com/album/2sYKQv22lrZBp1BwWT2cKr) | 2:35 |
 
-Snapshot ID: `LtaWoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtfoIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

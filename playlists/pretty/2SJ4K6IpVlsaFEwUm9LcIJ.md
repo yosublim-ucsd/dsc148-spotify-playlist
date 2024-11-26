@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,159 likes - 31 songs - 1 hr 53 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,163 likes - 33 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 |
 | 30 | [See What I Need](https://open.spotify.com/track/38czcDNnalIA2OfXXw7oME) | [West Coast Modern Day Punk Rock Orchestra](https://open.spotify.com/artist/2ArRDH9p0aQ4SlKUAnAbKA) | [Correspondence](https://open.spotify.com/album/7tqYJyAD2OCNX3E93VS6h2) | 4:11 |
 | 31 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 |
+| 32 | [Rhubarb Pie](https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio) | [Fan Modine](https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy) | [Slow Road to Tiny Empire](https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm) | 4:05 |
+| 33 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 |
 
-Snapshot ID: `AAALcHFwqw0T0B+3YLxWFXRUL6LwThAR`
+Snapshot ID: `AAALclKMeaESPCn6KmqYqJfrNaiwkkt9`

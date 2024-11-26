@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 233314,
+  "num_followers": 233438,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Really Tight",
-        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
+        "name": "Wavelord Bizniz",
+        "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
       },
       "artists": [
         {
-          "name": "Danny Dennett",
-          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
         },
         {
-          "name": "Sando",
-          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
+          "name": "Napes",
+          "url": "https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5"
         }
       ],
-      "duration_ms": 244444,
-      "name": "Really Tight",
-      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
+      "duration_ms": 280656,
+      "name": "Wavelord Bizniz",
+      "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Wavelord Bizniz",
-        "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
+        "name": "Really Tight",
+        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
       },
       "artists": [
         {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+          "name": "Danny Dennett",
+          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
         },
         {
-          "name": "Napes",
-          "url": "https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5"
+          "name": "Sando",
+          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
         }
       ],
-      "duration_ms": 280656,
-      "name": "Wavelord Bizniz",
-      "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
+      "duration_ms": 244444,
+      "name": "Really Tight",
+      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
+        "name": "Rude Boyz",
+        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Rude Boyz",
+      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
         "name": "Badda (Sinais VIP)",
         "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
       },
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Rude Boyz",
-        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Rude Boyz",
-      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
-      },
-      "artists": [
-        {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "IMMACULATE SKANK",
         "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 222500,
       "name": "IMMACULATE SKANK",
       "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -1371,18 +1371,26 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "BABE?",
-        "url": "https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi"
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+          "name": "Duckworthsound",
+          "url": "https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Duckplates",
+          "url": "https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu"
         }
       ],
-      "duration_ms": 210635,
-      "name": "STUCK ON U",
-      "url": "https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT"
+      "duration_ms": 225692,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7"
     }
   ],
   "unique_name": "Bassline Bangers",

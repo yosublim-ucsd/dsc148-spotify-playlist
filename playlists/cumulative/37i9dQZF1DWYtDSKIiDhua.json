@@ -13874,7 +13874,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 216000,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/4AJT8fFwkN9YJt7MDPyFdN"
@@ -14452,6 +14452,24 @@
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+    },
+    {
+      "album": {
+        "name": "shadow of you",
+        "url": "https://open.spotify.com/album/0Pqfe5mdkuFnHVX8GpuKCC"
+      },
+      "artists": [
+        {
+          "name": "Celine Wanyi",
+          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204549,
+      "name": "shadow of you",
+      "url": "https://open.spotify.com/track/0EeB1wGl2hRmgrj7cXlMUR"
     },
     {
       "album": {

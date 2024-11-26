@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jeff Parker
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,035 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,129 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Freakadelic](https://open.spotify.com/track/5ZeRWelRRIdTR2aF3l01oc) | [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [ETA IVtet](https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw), [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jay Bellerose](https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freakadelic](https://open.spotify.com/album/0NS06JX0LP7npQbLEr6X33) | 23:50 |
+| 1 | [Freakadelic \(feat\. Anna Butterss, Jay Bellerose & Josh Johnson\)](https://open.spotify.com/track/4Q0VBHJoJy9qDN2RUb3lk7) | [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [ETA IVtet](https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw), [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jay Bellerose](https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freakadelic \(feat\. Anna Butterss, Jay Bellerose & Josh Johnson\)](https://open.spotify.com/album/3Zb6VrGFCf6L8RG3gPufhz) | 23:50 |
 | 2 | [Moving Day](https://open.spotify.com/track/64bHwwaOJkBIrfDrKTiwxV) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Moving Day](https://open.spotify.com/album/54vUryKSf0hBgXYhkrjctH) | 11:39 |
 | 3 | [La Tijera](https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS) | [LA LOM](https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ) | [La Tijera](https://open.spotify.com/album/1L1JAUSpOepPg6EWoPXd6A) | 3:44 |
 | 4 | [5th Symphony In Congo Square](https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [5th Symphony In Congo Square](https://open.spotify.com/album/64ODw4RjSYqKbCNnyhA40l) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Valencia](https://open.spotify.com/track/7B5OKGINZQoicJXUffXFLb) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Valencia](https://open.spotify.com/album/0lxIxueK2Lsq8nrFAYpK0k) | 5:30 |
 | 100 | [あの素晴しい愛をもう一度](https://open.spotify.com/track/1XK941hxwyMaPQuQNB2Yk2) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [SPEED MUSIC ソクドノオンガク vol\. 9](https://open.spotify.com/album/0pA58EFSrEJpKr3vaqBxWw) | 4:02 |
 
-Snapshot ID: `Z0AP0AAAAABL8V+/rhLJK2tAuF/+I8vd`
+Snapshot ID: `Z0SC+wAAAAAluE15JoKf6S3LHzc2jYm+`

@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374631,
+  "num_followers": 374580,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2024-11-22 13:41:28",
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 170454,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
-    },
-    {
-      "added_at": "2024-11-22 13:41:28",
-      "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2024-11-22 13:41:28",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
+        "name": "Saudade Tatuada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 193192,
+      "name": "Saudade Tatuada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
+    },
+    {
+      "added_at": "2024-11-22 13:41:28",
+      "album": {
         "name": "Sigo Frio",
         "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 269508,
       "name": "Sigo Frio",
       "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
-    },
-    {
-      "added_at": "2024-11-22 13:41:28",
-      "album": {
-        "name": "Saudade Tatuada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "Saudade Tatuada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
     },
     {
       "added_at": "2024-11-22 13:41:28",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 101029,
+  "num_followers": 101039,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "FULL FULL",
+        "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "duration_ms": 111115,
+      "name": "FULL FULL",
+      "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "GHETTO LOVE (feat. CLARA)",
         "url": "https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "FULL FULL",
-        "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
+        "name": "COPACABANA",
+        "url": "https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ"
       },
       "artists": [
         {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
         }
       ],
-      "duration_ms": 111115,
-      "name": "FULL FULL",
-      "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
+      "duration_ms": 138320,
+      "name": "COPACABANA",
+      "url": "https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -731,26 +751,6 @@
       "duration_ms": 172071,
       "name": "Nino Nino",
       "url": "https://open.spotify.com/track/4IAtZ4qQeXewkgSr062hfe"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "COPACABANA",
-        "url": "https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "COPACABANA",
-      "url": "https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1231,26 +1231,30 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Banda Kawasaki",
-        "url": "https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t"
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
       "artists": [
         {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 191682,
-      "name": "Banda Kawasaki",
-      "url": "https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda"
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1283,30 +1287,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+        "name": "Banda Kawasaki",
+        "url": "https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t"
       },
       "artists": [
         {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+      "duration_ms": 191682,
+      "name": "Banda Kawasaki",
+      "url": "https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "duration_ms": 197673,
+      "name": "No JoJo",
+      "url": "https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "In Piazza",
         "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 183801,
       "name": "In Piazza",
       "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "DELINQUENTE",
-        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 197673,
-      "name": "No JoJo",
-      "url": "https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS"
     },
     {
       "added_at": "2024-09-20 19:52:57",

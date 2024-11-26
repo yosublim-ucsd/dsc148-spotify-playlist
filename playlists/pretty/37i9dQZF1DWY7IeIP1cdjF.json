@@ -1,6 +1,6 @@
 {
   "description": "Reggaeton hits from Blessd, Anuel AA, KAROL G, FEID  and more.\ud83d\udd25\ud83c\udf51",
-  "num_followers": 10778898,
+  "num_followers": 10778868,
   "original_name": "Baila Reggaeton",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
       "duration_ms": 218701,

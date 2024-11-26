@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,010 songs - 4 day 11 hr 52 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,012 songs - 4 day 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2018,5 +2018,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2008 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 |
 | 2009 | [You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:21 |
 | 2010 | [Spletter Techno](https://open.spotify.com/track/6vvdKKpfb645nvLkO2C1tH) | [Triangler](https://open.spotify.com/artist/4qs4QsC3mHzptvkqrGMlBg) | [Spletter Techno](https://open.spotify.com/album/7sb4lbePIX6MzCivAO1zAE) | 1:08 |
+| 2011 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 |
+| 2012 | [Barracuda](https://open.spotify.com/track/1SGfDkWeya5TIBhuHPgcMW) | [SARCOMA HORROR](https://open.spotify.com/artist/1DH5gB0AVs87Vg3webgJAV) | [Error 404](https://open.spotify.com/album/5aqPadDUgNwDnYWgR7ojbK) | 2:28 |
 
-Snapshot ID: `AAADkODZmVJCTIK27rHNUcIf9/QPwdn9`
+Snapshot ID: `AAADkmYISlNdw0VZmosHO5Jf3H1XfKtn`

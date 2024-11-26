@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 
 > Our editor’s picks for the best songs from The Indie List in 2023\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,617 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,086 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 | 49 | [manifest\*](https://open.spotify.com/track/6B3uxVkSkgLr1vN59oLJqf) | [Ben Gregory](https://open.spotify.com/artist/5ySqcP3quTUGx0l48NMDGm) | [manifest\*](https://open.spotify.com/album/4NIBcdoYFDmpfUD031ErU4) | 4:51 |
 | 50 | [Thank You](https://open.spotify.com/track/0lorKpjcdy36a7m5CdvGAf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Bunny](https://open.spotify.com/album/6hRE1QhZfpKB03kvvF6jTG) | 4:18 |
 
-Snapshot ID: `ZWcrRAAAAABDGlWr5OknWhCi0FFmitG1`
+Snapshot ID: `Z0Rb1QAAAAA1USzsRDJoxkq/WXQlaBke`

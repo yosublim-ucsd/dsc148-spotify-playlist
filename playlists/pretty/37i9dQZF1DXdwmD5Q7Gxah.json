@@ -1,12 +1,12 @@
 {
   "description": "sam austins its your time",
-  "num_followers": 1172977,
+  "num_followers": 1173020,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AT/QAAAADlgceg903/acVEx7aT5k/0",
+  "snapshot_id": "Z0U2AgAAAABxQlj7raHTv5caBXOyi4em",
   "tracks": [
     {
       "added_at": "2024-11-15 00:36:59",
@@ -57,40 +57,40 @@
       "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-25 17:40:33",
       "album": {
-        "name": "harvest sky / obvious",
-        "url": "https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 233896,
-      "name": "harvest sky (feat. underscores)",
-      "url": "https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q"
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2024-11-22 05:17:49",
       "album": {
-        "name": "BLUE SUPER LOVE",
-        "url": "https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1"
+        "name": "Te Maldigo (From \"Queer\")",
+        "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
       },
       "artists": [
         {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 144725,
-      "name": "Throes",
-      "url": "https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao"
+      "duration_ms": 173013,
+      "name": "Te Maldigo (From \"Queer\")",
+      "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -111,6 +111,26 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "harvest sky / obvious",
+        "url": "https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 233896,
+      "name": "harvest sky (feat. underscores)",
+      "url": "https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q"
     },
     {
       "added_at": "2024-11-14 19:19:39",
@@ -161,6 +181,22 @@
       "url": "https://open.spotify.com/track/0RKIMdppII9toNNpqY8tWF"
     },
     {
+      "added_at": "2024-11-22 05:17:49",
+      "album": {
+        "name": "BLUE SUPER LOVE",
+        "url": "https://open.spotify.com/album/1HVwx87u8IJ1l12HQTrbE1"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 144725,
+      "name": "Throes",
+      "url": "https://open.spotify.com/track/0VkZMbytZcaQOrVMbqVaao"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "this is my california",
@@ -191,26 +227,6 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-11-22 05:17:49",
-      "album": {
-        "name": "Te Maldigo (From \"Queer\")",
-        "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Te Maldigo (From \"Queer\")",
-      "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
     },
     {
       "added_at": "2024-11-22 05:17:49",
@@ -309,22 +325,6 @@
       "url": "https://open.spotify.com/track/3TwfAgMEfaerj8XmrMZZRb"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "watering can",
-        "url": "https://open.spotify.com/album/06aajlYjOeDFlwfsoNkbSZ"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "watering can",
-      "url": "https://open.spotify.com/track/5C9gcImzMk5AKHyLtfCyn6"
-    },
-    {
       "added_at": "2024-10-29 17:06:57",
       "album": {
         "name": "Image (Grimes Special)",
@@ -391,6 +391,22 @@
       "duration_ms": 180558,
       "name": "Just for Now",
       "url": "https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "watering can",
+        "url": "https://open.spotify.com/album/06aajlYjOeDFlwfsoNkbSZ"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "watering can",
+      "url": "https://open.spotify.com/track/5C9gcImzMk5AKHyLtfCyn6"
     },
     {
       "added_at": "2024-11-07 18:40:39",

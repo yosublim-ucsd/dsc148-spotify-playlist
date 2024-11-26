@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Pegasus
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,227 likes - 126 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,226 likes - 126 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 11 | [Dicen](https://open.spotify.com/track/7giO5LPF9hDzkE2zxKWOSK) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Dicen](https://open.spotify.com/album/3bauE6t9KXAbh4080WE7VI) | 2:34 |
 | 12 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 |
 | 13 | [last dance](https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [last dance](https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX) | 3:07 |
-| 14 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/22Z9WhtCQhQ3ksjIi6Ps4I) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
+| 14 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
 | 15 | [Can you play hard](https://open.spotify.com/track/1vehPKPfPVSPjOa1wRNhQ8) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Can you play hard](https://open.spotify.com/album/4LmnPglyN5Q0Erbe7Vjx91) | 2:11 |
 | 16 | [Rebel Heart](https://open.spotify.com/track/1uSMVWFeZr3sLfCjZPYYOZ) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Rebel Heart](https://open.spotify.com/album/6IXEiaAZLwz49AiaHq01kk) | 2:07 |
 | 17 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |

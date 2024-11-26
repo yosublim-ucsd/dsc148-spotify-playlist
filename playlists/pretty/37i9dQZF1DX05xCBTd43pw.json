@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36835,
+  "num_followers": 36834,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -407,8 +407,8 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
         "name": "Tribut",
         "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 187993,
       "name": "last dance",
       "url": "https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -787,34 +787,18 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -831,6 +815,22 @@
       "duration_ms": 193271,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        },
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 177317,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
       },
@@ -903,38 +883,6 @@
       "duration_ms": 214340,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
-        "name": "Ich Kann's Nicht Glauben",
-        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Nenn Es Liebe",
-      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -955,6 +903,58 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
+        "name": "my religion",
+        "url": "https://open.spotify.com/album/2toUGxyi3JsWxsa2WzCzv1"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "my religion",
+      "url": "https://open.spotify.com/track/35NEKJnyj2waAPPSyCpgKC"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        },
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 177317,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Ich Kann's Nicht Glauben",
+        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 202363,
+      "name": "Nenn Es Liebe",
+      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-11-22 10:31:44",
@@ -1019,6 +1035,38 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+    },
+    {
+      "added_at": "2024-11-22 10:31:44",
+      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1039,38 +1087,6 @@
     {
       "added_at": "2024-11-22 10:31:44",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
-        "name": "my religion",
-        "url": "https://open.spotify.com/album/2toUGxyi3JsWxsa2WzCzv1"
-      },
-      "artists": [
-        {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "my religion",
-      "url": "https://open.spotify.com/track/35NEKJnyj2waAPPSyCpgKC"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 185759,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
-    },
-    {
-      "added_at": "2024-11-22 10:31:44",
-      "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2024-11-22 10:31:44",

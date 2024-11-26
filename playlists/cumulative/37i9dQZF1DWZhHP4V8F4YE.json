@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+    },
+    {
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 385747,
       "name": "Amalanga (feat. TO Starquality, Chley & Kabza De Small)",
       "url": "https://open.spotify.com/track/0nW9PrcihaknNnldmEx08O"
@@ -1292,6 +1310,28 @@
       "duration_ms": 135576,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+    },
+    {
+      "album": {
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "album": {
@@ -2352,7 +2392,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 322793,
       "name": "Bula Nthweo (feat. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora)",
       "url": "https://open.spotify.com/track/1p77bVbZdKaMv4CgRys5Gu"
@@ -3685,6 +3725,40 @@
     },
     {
       "album": {
+        "name": "Dear Ex Yami",
+        "url": "https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56"
+      },
+      "artists": [
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        },
+        {
+          "name": "Fanatic SA",
+          "url": "https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo"
+        },
+        {
+          "name": "Stallin Matsitsa",
+          "url": "https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI"
+        },
+        {
+          "name": "Caeser",
+          "url": "https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw"
+        },
+        {
+          "name": "Ayanda Art",
+          "url": "https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278875,
+      "name": "Dear Ex Yami",
+      "url": "https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW"
+    },
+    {
+      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -4420,6 +4494,36 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
+        "name": "Feel D Mood",
+        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
+      },
+      "artists": [
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133172,
+      "name": "Feel D Mood",
+      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "album": {
@@ -5878,7 +5982,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 217500,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T"
@@ -7118,7 +7222,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
@@ -9362,7 +9466,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 315116,
       "name": "Ndisize",
       "url": "https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO"
@@ -11121,6 +11225,28 @@
     },
     {
       "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "album": {
         "name": "Pikkewyne (Remix)",
         "url": "https://open.spotify.com/album/2ey9B7pswyDTFAcu6oRAfV"
       },
@@ -12440,7 +12566,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 177005,
       "name": "Something Something - Remix",
       "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
@@ -12750,7 +12876,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 380199,
       "name": "Sthandwa Sam",
       "url": "https://open.spotify.com/track/7xDarhJmf6HSN4NbxShpUO"
@@ -14270,6 +14396,28 @@
       "duration_ms": 344453,
       "name": "Vivienne",
       "url": "https://open.spotify.com/track/6JBpIXX9feVqbKn0COvnEM"
+    },
+    {
+      "album": {
+        "name": "Vuma dlozi lami",
+        "url": "https://open.spotify.com/album/3ZoThYnijWEV30wJ10Nyja"
+      },
+      "artists": [
+        {
+          "name": "Issa sisdoh",
+          "url": "https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI"
+        },
+        {
+          "name": "Ancestral Rituals",
+          "url": "https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380238,
+      "name": "Vuma dlozi lami",
+      "url": "https://open.spotify.com/track/5brPPINztdtbkZG2HrB14G"
     },
     {
       "album": {

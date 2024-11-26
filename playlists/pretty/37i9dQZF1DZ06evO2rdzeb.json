@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 11154,
+  "num_followers": 11179,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAA7JehQOdzLuHlFNlapdKD3",
+  "snapshot_id": "Z0JsgAAAAAAGLeoFLhrT2yMY4OOwqVfk",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
     },
     {
       "added_at": null,
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
+      "duration_ms": 150266,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
     }
   ],
   "unique_name": "This Is Adrianne Lenker",

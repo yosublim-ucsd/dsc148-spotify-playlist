@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only, Brenno",
-  "num_followers": 175747,
+  "num_followers": 175824,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Autenticidade",
+        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "Autenticidade",
+      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Trap Gospel Existe",
         "url": "https://open.spotify.com/album/45y3zKT3swOm8ZKdbftDvl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 256285,
       "name": "Trap Gospel Existe",
       "url": "https://open.spotify.com/track/00nGa6T0InHfVSky5nDYrw"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Autenticidade",
-        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "Autenticidade",
-      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 134050,
       "name": "\u00c9 Real",
       "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-11-22 03:01:00",

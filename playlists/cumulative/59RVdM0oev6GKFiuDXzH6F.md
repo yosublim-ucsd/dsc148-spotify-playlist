@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-760 songs - 1 day 14 hr 7 min
+761 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Kill Me](https://open.spotify.com/track/3pUliSgTWnfJnqHdjYGflL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Kill Me](https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP) | 2:35 | 2023-02-12 | 2023-04-13 |
 | [Kupalele](https://open.spotify.com/track/3VzOzoNoNKo9Dx7c7IllVR) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Kupalele](https://open.spotify.com/album/3i4exGNWEl6vXaDfR281ae) | 3:02 | 2023-06-22 | 2023-07-14 |
 | [Kush \(Millean\. Remix\)](https://open.spotify.com/track/3j4JjaLmPGgJAumxaDOUd5) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Kush \(Millean\. Remix\)](https://open.spotify.com/album/2YmRbiQxX45TRtJgHV9HwS) | 2:27 | 2023-07-27 | 2023-12-14 |
+| [La Fiesta](https://open.spotify.com/track/3iNgpFSd83TnhQsOInuks9) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [La Fiesta](https://open.spotify.com/album/6EuzMPXjBD0eBeq2BNoBPX) | 2:53 | 2024-11-25 |  |
 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-07-21 | 2023-12-14 |
 | [La Vida Loca](https://open.spotify.com/track/19QzTHzb0hLAQcuTLhsEJA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [La Vida Loca](https://open.spotify.com/album/6OXbQEdRNvirPoMuLJYIrs) | 2:10 | 2024-03-08 | 2024-04-13 |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 3:31 | 2023-08-18 | 2023-08-28 |

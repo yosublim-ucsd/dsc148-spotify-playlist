@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Drunken Slide",
+      "url": "https://open.spotify.com/track/0eLC9r8sHWFmWrErNVXkYr"
+    },
+    {
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 286645,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5"

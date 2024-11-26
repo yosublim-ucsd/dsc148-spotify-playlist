@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
-264 songs - 12 hr 26 min
+265 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 | 2023-06-16 | 2024-07-13 |
 | [Elevador \- Ao Vivo](https://open.spotify.com/track/20yfr4F5QmZ5V3Cu1Rx4Kp) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/5SClWm6m0wwcS3hb766KBg) | 2:47 | 2022-07-29 | 2022-11-11 |
 | [ENTRA NA DEFENDER](https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [ENTRA NA DEFENDER](https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO) | 2:54 | 2024-03-29 | 2024-06-01 |
-| [Entregador de Flor \- \#Quintou Ao Vivo](https://open.spotify.com/track/38MiIYlhGASln9jXnOmX04) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Entregador de Flor \(\#Quintou Ao Vivo\)](https://open.spotify.com/album/5qNi2wGWJesKLpfxFmEcBJ) | 2:57 | 2024-09-27 |  |
+| [Entregador de Flor \- \#Quintou Ao Vivo](https://open.spotify.com/track/38MiIYlhGASln9jXnOmX04) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Entregador de Flor \(\#Quintou Ao Vivo\)](https://open.spotify.com/album/5qNi2wGWJesKLpfxFmEcBJ) | 2:57 | 2024-09-27 | 2024-11-26 |
+| [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 | 2024-11-25 |  |
 | [Equivocada \- Ao Vivo](https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Equivocada \(Ao Vivo\)](https://open.spotify.com/album/1DtqMgoWe5pdqFUuk5Bh6n) | 3:27 | 2024-03-29 | 2024-06-06 |
 | [Erro do Ficante \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/4nDOZT5fC3sUxP7UgjEd57) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Erro do Ficante \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/21wcJSlfv1KBvNYRIPtx0G) | 2:45 | 2022-01-21 | 2022-02-05 |
 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 | 2023-02-15 | 2024-03-30 |

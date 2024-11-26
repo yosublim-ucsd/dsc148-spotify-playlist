@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Across The Bridge",
+        "url": "https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN"
+      },
+      "artists": [
+        {
+          "name": "Isora Hill",
+          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135867,
+      "name": "Across The Bridge",
+      "url": "https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d"
+    },
+    {
+      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 202713,
       "name": "Everything Is You",
       "url": "https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9"
@@ -14600,7 +14618,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 127000,
       "name": "Zu Hause",
       "url": "https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x"

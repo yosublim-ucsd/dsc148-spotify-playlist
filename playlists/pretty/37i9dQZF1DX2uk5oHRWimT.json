@@ -1,12 +1,12 @@
 {
   "description": "Have yourself a little cozy Christmas.",
-  "num_followers": 350934,
+  "num_followers": 351206,
   "original_name": "Acoustic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAABy6ZvQASKmdOF4sdfa+RE7",
+  "snapshot_id": "Z0SvOwAAAAAh/oiRwUdj/pYD1vo2xzqu",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -105,6 +105,26 @@
       "url": "https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ"
     },
     {
+      "added_at": "2024-11-25 17:09:15",
+      "album": {
+        "name": "Snow in LA",
+        "url": "https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Snow in LA",
+      "url": "https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "O Holy Night",
@@ -135,6 +155,22 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/2NnZ0WkPHuDd3IYiROdB7E"
+      },
+      "artists": [
+        {
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+        }
+      ],
+      "duration_ms": 125415,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/7rTHZv5l8ibgPUW24qfmwj"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -175,22 +211,6 @@
       "duration_ms": 163018,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/6g2yyTTnyEVr9VZjVexg1J"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/2NnZ0WkPHuDd3IYiROdB7E"
-      },
-      "artists": [
-        {
-          "name": "David Shaw",
-          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
-        }
-      ],
-      "duration_ms": 125415,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/7rTHZv5l8ibgPUW24qfmwj"
     },
     {
       "added_at": "2024-11-15 05:00:00",

@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,678 songs - 10 day 7 hr 55 min
+4,680 songs - 10 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 | 2022-07-03 |
 | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/track/2DBOmejw6oWH4P9uJ73xga) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [DANCE FOREVER \(feat\. thatboykwame & Ninajirachi\)](https://open.spotify.com/album/1Mp29E8N0Fj7waCNmTwLYZ) | 4:11 | 2024-03-15 | 2024-04-13 |
 | [Dance With The Devil](https://open.spotify.com/track/0HNfe25n1gwx8Mm7iCEXIN) | [Sasilya](https://open.spotify.com/artist/5KZISXP8HwRtJvhOJkvRe1) | [Dance With The Devil](https://open.spotify.com/album/6O1ZTvyj4xdIUecboKE1cq) | 3:06 | 2021-10-30 | 2021-11-20 |
+| [Danced On The Wire](https://open.spotify.com/track/0qPJRE8kRZISzDBhcIKLiB) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Danced On The Wire](https://open.spotify.com/album/1ah9918MVRqcxIeWjy5vee) | 4:14 | 2024-11-25 |  |
 | [Dancefloor](https://open.spotify.com/track/2hD56oskDXbCwi2UOppJ5n) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Dancefloor](https://open.spotify.com/album/4RBKXYyBgmDkQzfZ2mRcfl) | 3:43 | 2021-07-24 | 2021-08-28 |
 | [Dancers Road](https://open.spotify.com/track/6KsWBJozswnjeFi376YhoM) | [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD), [FELIXCW](https://open.spotify.com/artist/0pH0voqRBqWscSPfZ4FuHO) | [Dancers Road](https://open.spotify.com/album/5a4156VYXUKVWqZyqXWuN7) | 2:45 | 2024-10-18 | 2024-11-02 |
 | [Dancing Alone](https://open.spotify.com/track/1eGOABsA0NdhU6LiLQzhWe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Dancing Alone](https://open.spotify.com/album/6q6Gt6KC25qRfyoq6RHIz1) | 3:00 | 2021-01-16 | 2021-06-19 |
@@ -1169,6 +1170,7 @@
 | [Double Visage](https://open.spotify.com/track/0g2LONVxyi1P9muGjcm0Rq) | [Ashéo](https://open.spotify.com/artist/5jvx3xT9YR3YkWfa3t90CN) | [Double Visage](https://open.spotify.com/album/6Veq44UCYj95JIa0Kmoj2C) | 3:42 | 2023-04-07 | 2023-04-29 |
 | [Doucement](https://open.spotify.com/track/1kT1MwpOUHIFjAyC5yego2) | [Mayböw](https://open.spotify.com/artist/6kYuyypvHX7qxXTKXWN8GZ) | [Doucement](https://open.spotify.com/album/3lrzYQpGCO1zg09JGIDNxJ) | 2:56 | 2023-01-27 | 2023-02-18 |
 | [Down](https://open.spotify.com/track/6w6il2pfFaG1J7x0mKaYTw) | [Luke & Friends](https://open.spotify.com/artist/7usgQwRW6IYF5oChwlPpMT), [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV) | [Down](https://open.spotify.com/album/5Mzl7QXUVFGDuFfV2qBfGU) | 2:41 | 2022-02-04 | 2022-03-12 |
+| [Down](https://open.spotify.com/track/3XB4y4Sbcjq0tYXnsXSDy5) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Danced On The Wire](https://open.spotify.com/album/1ah9918MVRqcxIeWjy5vee) | 5:01 | 2024-11-25 |  |
 | [Down In Boots](https://open.spotify.com/track/2L2U4LFR1cYUQbckzdlnO4) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Down In Boots](https://open.spotify.com/album/6pa9tFzCCn7FQdobQ2Rdyk) | 3:22 | 2024-09-27 | 2024-10-19 |
 | [Down With Me](https://open.spotify.com/track/7aBFkYFwfSI1rAnlABHHgy) | [Yaz](https://open.spotify.com/artist/3zndnfRPOvKMshWivaeyHq), [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [Down With Me](https://open.spotify.com/album/1GNrVAo06KJY7SF8jY5leY) | 2:58 | 2022-06-24 | 2022-07-23 |
 | [Downtime](https://open.spotify.com/track/6tH82om51kBMAz9Da839nI) | [Dennie Valentino](https://open.spotify.com/artist/6dOJI9AK1zHaiXPiINsh3x) | [Downtime](https://open.spotify.com/album/4dtKY2kGyoaq7lQBTPUpN4) | 3:45 | 2020-11-14 | 2020-12-08 |

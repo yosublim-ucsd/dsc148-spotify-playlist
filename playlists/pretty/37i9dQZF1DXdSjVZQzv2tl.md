@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,769,715 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,770,289 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 20 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |
 | 21 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |
 | 22 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/3whfTX0NBHhjynUlARMf7q) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Desconhecido \(Ao Vivo\)](https://open.spotify.com/album/3C0hakkn04yiefoCYqdJ5O) | 2:52 |
-| 23 | [Entregador de Flor \- \#Quintou Ao Vivo](https://open.spotify.com/track/38MiIYlhGASln9jXnOmX04) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Entregador de Flor \(\#Quintou Ao Vivo\)](https://open.spotify.com/album/5qNi2wGWJesKLpfxFmEcBJ) | 2:57 |
-| 24 | [Chorosa \- Ao Vivo](https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs) | 2:35 |
-| 25 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
-| 26 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
+| 23 | [Chorosa \- Ao Vivo](https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs) | 2:35 |
+| 24 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
+| 25 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
+| 26 | [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 |
 | 27 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
 | 28 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 29 | [Me Caiu Tão Bem \- Ao Vivo](https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Fortaleza, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 | 50 | [Gotejou No Celular \- Ao Vivo](https://open.spotify.com/track/1sTGINNEM4sT3H2hDdQiPe) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Gotejou No Celular \(Ao Vivo\)](https://open.spotify.com/album/1n4L1WBeL8o3NTArmtXGUr) | 2:56 |
 
-Snapshot ID: `ZzOHOQAAAACFc3czN8oZ8qKgvP1qJFle`
+Snapshot ID: `Z0TEfQAAAAC03cARsorM/ya+iNPh/Z6O`

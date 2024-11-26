@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Night",
+        "url": "https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m"
+      },
+      "artists": [
+        {
+          "name": "Ana Grieg",
+          "url": "https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132478,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm"
+    },
+    {
+      "album": {
         "name": "A New Way",
         "url": "https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo"
       },

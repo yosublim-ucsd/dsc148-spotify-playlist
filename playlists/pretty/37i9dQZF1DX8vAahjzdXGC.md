@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,205 likes - 108 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,253 likes - 108 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

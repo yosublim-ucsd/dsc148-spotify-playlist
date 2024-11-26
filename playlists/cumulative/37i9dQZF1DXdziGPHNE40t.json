@@ -690,7 +690,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 153225,
       "name": "Another Fairytale",
       "url": "https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ"
@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 166000,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy"
@@ -2706,6 +2706,24 @@
       "duration_ms": 324250,
       "name": "Everything To Me",
       "url": "https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev"
+    },
+    {
+      "album": {
+        "name": "Face to face",
+        "url": "https://open.spotify.com/album/712rWFgG3hT5qXJnHmSAiU"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193831,
+      "name": "Face to face",
+      "url": "https://open.spotify.com/track/5lqAVs7UBlE7zWIDcxkckj"
     },
     {
       "album": {
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 213837,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 196214,
       "name": "It\u2019s forgotten",
       "url": "https://open.spotify.com/track/6DaCxtHBz3EbVh6dYn6RuW"
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 171448,
       "name": "Lots of It",
       "url": "https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP"
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 208096,
       "name": "My Friend In Tanganyika",
       "url": "https://open.spotify.com/track/2xVVCXzIuILeIRoQrZYlQD"
@@ -7889,6 +7907,24 @@
     },
     {
       "album": {
+        "name": "Satin Waltz",
+        "url": "https://open.spotify.com/album/0yAvuc7VVniZC3iaUqSDJD"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Satin Waltz",
+      "url": "https://open.spotify.com/track/4iJBksjCOW8Q5oUTwJuHcQ"
+    },
+    {
+      "album": {
         "name": "Say What You Mean",
         "url": "https://open.spotify.com/album/47aVJWrtJZNVxg9Gwa5T9w"
       },
@@ -8701,6 +8737,24 @@
     },
     {
       "album": {
+        "name": "Sophisticated Is Cool",
+        "url": "https://open.spotify.com/album/4CfZZz7EVhqHw67JlWUGGS"
+      },
+      "artists": [
+        {
+          "name": "Trio Sonoro",
+          "url": "https://open.spotify.com/artist/5eywpGwjtNctkXge310fvs"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217039,
+      "name": "Sophisticated Is Cool",
+      "url": "https://open.spotify.com/track/0iFv7r0ANkjeSumplKMJzw"
+    },
+    {
+      "album": {
         "name": "Soulful Serenade",
         "url": "https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S"
       },
@@ -8748,7 +8802,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 179061,
       "name": "Spend More Than Make",
       "url": "https://open.spotify.com/track/2GlhNN9XoiMYvXXT1bqF2x"
@@ -9922,6 +9976,24 @@
       "duration_ms": 245681,
       "name": "Things To Look Forward To",
       "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
+    },
+    {
+      "album": {
+        "name": "Things You Should Mention",
+        "url": "https://open.spotify.com/album/7fAHlTmyMpFXeclwlAgmAO"
+      },
+      "artists": [
+        {
+          "name": "Swing City Affair",
+          "url": "https://open.spotify.com/artist/61VUtRySMVPXlpOCFILlpX"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238538,
+      "name": "Things You Should Mention",
+      "url": "https://open.spotify.com/track/6YgAO785fxKfWRI7fx6c6S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jack Harlow, Kendrick Lamar, Wizkid, Saya Gray, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,569 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,590 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 69 | [Let’s Get Money Together](https://open.spotify.com/track/6YA9UQbO4iCOYXPG1BPApi) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Man Down](https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7) | 3:00 |
 | 70 | [Let You Down](https://open.spotify.com/track/5UMDe0VgyOtT6goWUht88Y) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Let You Down](https://open.spotify.com/album/3LEO5ErPp42OUWFDk7qp0j) | 3:32 |
 | 71 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 |
-| 72 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/22Z9WhtCQhQ3ksjIi6Ps4I) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
+| 72 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
 | 73 | [Indifferent](https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Sprig](https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS) | 3:00 |
 | 74 | [Is it fun for you?](https://open.spotify.com/track/6vgQ5R04b4pbPk0TxlPIP2) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Is it fun for you?](https://open.spotify.com/album/6Q6kH5zoYQq3F7rYMcuAHK) | 2:52 |
 | 75 | [baby bye bye](https://open.spotify.com/track/0PmWqF3kWiBPhQQ6Y9CGX1) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [baby bye bye](https://open.spotify.com/album/7F496nPn7R9KA5Cz4oWTjy) | 1:54 |

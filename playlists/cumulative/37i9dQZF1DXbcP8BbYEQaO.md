@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-709 songs - 1 day 15 hr 49 min
+710 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-07-10 | 2022-03-09 |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 | 2023-07-12 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-19 | 2021-07-17 |
-| [ride home](https://open.spotify.com/track/0FcC5OWqZ77FDBgzgq50tW) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [inner monologue](https://open.spotify.com/album/34QvOwMN3lWQOD2D1eeTnZ) | 3:08 | 2024-08-30 |  |
+| [ride home](https://open.spotify.com/track/0FcC5OWqZ77FDBgzgq50tW) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [inner monologue](https://open.spotify.com/album/34QvOwMN3lWQOD2D1eeTnZ) | 3:08 | 2024-08-30 | 2024-11-26 |
 | [Ripped Up T\-Shirts](https://open.spotify.com/track/2CK4P116Q5fc1QlvZTM4D3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Ripped Up T\-Shirts](https://open.spotify.com/album/3lbqV25ud1OAok1D5dIR4E) | 2:45 | 2022-06-24 | 2022-07-19 |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2021-06-26 | 2021-07-17 |
 | [Rude Girl](https://open.spotify.com/track/4aaFbuneAqTpAxSDzlwf5g) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [The Duality In Me](https://open.spotify.com/album/2yFvAXTjCAsfQ5PRZIrAZR) | 3:04 | 2022-05-13 | 2022-07-28 |
@@ -561,6 +561,7 @@
 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK) | 2:55 | 2022-10-28 | 2023-03-11 |
 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/5XLyFoBmLC4iV9R1Uqsfzw) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/2qmHuGpt0yKHpkD95a0XEt) | 2:55 | 2022-04-16 | 2022-10-14 |
 | [Slow Motion](https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Slow Motion](https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d) | 3:03 | 2021-02-19 | 2021-06-19 |
+| [Slow Motion](https://open.spotify.com/track/3ap14qzQ7z04QEPHcKKLog) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Slow Motion](https://open.spotify.com/album/3oP5dVJOnHv56ts1YGaU2d) | 3:25 | 2024-11-25 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-18 |  |
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2021-07-04 | 2022-01-22 |
 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 | 2022-07-21 | 2024-04-19 |

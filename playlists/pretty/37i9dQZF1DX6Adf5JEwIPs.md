@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Edgardo Nuñez y Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,537 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,670 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 27 | [Gustos Exclusivos](https://open.spotify.com/track/6L3GFsrnrx7KclCUn7upB2) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Grupo Definitivo](https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR) | [Gustos Exclusivos](https://open.spotify.com/album/6mdscVbMo9KQydy1bdq8GH) | 1:55 |
 | 28 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/1A27qahPwFrvTw8BYy1l4U) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/1F0obSuAOR9VunaPm6dtfx) | 3:25 |
 | 29 | [Fuera De Serie](https://open.spotify.com/track/3rAW7i1PrBsrY1q2Wb4JgM) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Fuera De Serie](https://open.spotify.com/album/1bxFCFSq2Z4EScg7ACahEA) | 2:15 |
-| 30 | [SORRY](https://open.spotify.com/track/35ItZbYHrXT2ARzlMzrOyU) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [La Maquinaria Nortena](https://open.spotify.com/artist/4pWtgw92CjgNZ3pQWYPTws) | [SORRY](https://open.spotify.com/album/4LxkrY2Lo16Mq1bxtDWQQO) | 2:39 |
+| 30 | [SORRY](https://open.spotify.com/track/35ItZbYHrXT2ARzlMzrOyU) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [SORRY](https://open.spotify.com/album/4LxkrY2Lo16Mq1bxtDWQQO) | 2:39 |
 | 31 | [Tu Conciencia](https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tu Conciencia](https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq) | 3:49 |
 | 32 | [Películas de Miedo](https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn) | [Los HH](https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w) | [Películas de Miedo](https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm) | 3:18 |
 | 33 | [AEBL](https://open.spotify.com/track/3jlFH2wcIxE9Mn35IqGb34) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [AEBL](https://open.spotify.com/album/1BlUb5scyi7FF9zeguKbhg) | 2:34 |

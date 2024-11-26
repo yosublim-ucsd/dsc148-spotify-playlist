@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 61131,
+  "num_followers": 61145,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAAY4Jmwob7nx89jFf9Ztu0Y",
+  "snapshot_id": "Z0JsgAAAAAAuVnRqdxUadDbm5H7ZZjEO",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "De Nada Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambi\u00e9n De Los Ranchos Bajan",
         "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 194146,
       "name": "En Mil Pedazos",
       "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "De Nada Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
       "duration_ms": 168880,
       "name": "Que Dios Me Perdone",
       "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "12 Corridos",
-        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Leonardo Reyes",
-      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
     }
   ],
   "unique_name": "This Is Lalo Mora",

@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 333250,
+  "num_followers": 333330,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Czu\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        }
+      ],
+      "duration_ms": 337952,
+      "name": "Czu\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Loving You / Don't Let Me Go",
         "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 152610,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Czu\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV"
-      },
-      "artists": [
-        {
-          "name": "Mikromusic",
-          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
-        }
-      ],
-      "duration_ms": 337952,
-      "name": "Czu\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN"
     },
     {
       "added_at": "2024-11-21 23:00:00",

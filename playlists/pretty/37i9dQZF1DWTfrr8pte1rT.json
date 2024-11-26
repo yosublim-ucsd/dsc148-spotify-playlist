@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 335599,
+  "num_followers": 335644,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -2003,8 +2003,8 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
       },
       "artists": [
         {
@@ -2012,13 +2012,13 @@
           "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
         },
         {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+          "name": "Zaug",
+          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+      "duration_ms": 162916,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -2151,8 +2151,8 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Warzone",
-        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
       },
       "artists": [
         {
@@ -2160,13 +2160,13 @@
           "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
         },
         {
-          "name": "Zaug",
-          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
         }
       ],
-      "duration_ms": 162916,
-      "name": "Warzone",
-      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -2315,18 +2315,22 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -2351,22 +2355,18 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -2407,30 +2407,6 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Play the Game",
-        "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Play the Game",
-      "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
-    },
-    {
-      "added_at": "2024-11-15 20:29:39",
-      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2451,6 +2427,30 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+    },
+    {
+      "added_at": "2024-11-15 20:29:39",
+      "album": {
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -2495,30 +2495,6 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Dangerous / Villains",
-        "url": "https://open.spotify.com/album/7o6DLIUm0rnYlK8dUBhvOT"
-      },
-      "artists": [
-        {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        },
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Outlaw The Artist",
-          "url": "https://open.spotify.com/artist/1YhxBKC8qBwysiotxjYF57"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DANGEROUS",
-      "url": "https://open.spotify.com/track/1xaracPgjTre1S0jTBr2Tx"
-    },
-    {
-      "added_at": "2024-11-15 20:29:39",
-      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2539,6 +2515,30 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "added_at": "2024-11-15 20:29:39",
+      "album": {
+        "name": "Dangerous / Villains",
+        "url": "https://open.spotify.com/album/7o6DLIUm0rnYlK8dUBhvOT"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Outlaw The Artist",
+          "url": "https://open.spotify.com/artist/1YhxBKC8qBwysiotxjYF57"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/1xaracPgjTre1S0jTBr2Tx"
     }
   ],
   "unique_name": "Rocktronic",

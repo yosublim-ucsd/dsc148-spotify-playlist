@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: REA
 
-225 songs - 11 hr 3 min
+226 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Basilico](https://open.spotify.com/track/6XkkzEM5GJZRrJUOnKJ0h3) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Basilico](https://open.spotify.com/album/3MsSeDl0DyyG3HX46FsV23) | 2:19 | 2024-06-27 | 2024-07-12 |
 | [BELLA BALLA](https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1) | [Questo e Quello](https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI), [Francesco Mannella](https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7), [Stefano](https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW) | [BELLA BALLA](https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp) | 2:56 | 2024-11-14 |  |
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
+| [bimbapazza](https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1) | [sonoalaska](https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP) | [bimbapazza](https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg) | 2:21 | 2024-11-21 |  |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
@@ -117,7 +118,7 @@
 | [MANGO E PAPAYA](https://open.spotify.com/track/5u5aDmTlNkqWaSqiLRIwtM) | [Malpelo](https://open.spotify.com/artist/3yfbIVTJBT6kawT1yjQvOZ) | [MANGO E PAPAYA](https://open.spotify.com/album/21GqHWVGIPw4Vno0DFOj1r) | 2:46 | 2024-08-29 | 2024-09-27 |
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 | 2024-11-15 |
 | [Mar mar mar](https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ) | [Mar mar mar](https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9) | 4:01 | 2024-07-18 | 2024-10-08 |
-| [Mare](https://open.spotify.com/track/6vUs0F0y2ve87fcEhUIJTB) | [Nuelle](https://open.spotify.com/artist/2cSYXikLR11kVLQBYnl9oQ) | [Mare](https://open.spotify.com/album/0n2GKpaDXJrm1V5IvfLOTV) | 3:19 | 2024-11-14 |  |
+| [Mare](https://open.spotify.com/track/6vUs0F0y2ve87fcEhUIJTB) | [Nuelle](https://open.spotify.com/artist/2cSYXikLR11kVLQBYnl9oQ) | [Mare](https://open.spotify.com/album/0n2GKpaDXJrm1V5IvfLOTV) | 3:19 | 2024-11-14 | 2024-11-26 |
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |

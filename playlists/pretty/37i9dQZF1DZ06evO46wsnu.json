@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 166904,
+  "num_followers": 166945,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAC56MXDbfNClM9FWY48IQQT",
+  "snapshot_id": "Z0JsgAAAAAAGsf8bXI1+K6zl0dJkA9eh",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Injection",
-      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
+      "duration_ms": 165173,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Under The Knife",
-      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
+      "duration_ms": 199213,
+      "name": "Injection",
+      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 178545,
+  "num_followers": 178614,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "SB1",
+        "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "duration_ms": 134656,
+      "name": "Just Chillin'",
+      "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Play & Play: The B Sides",
         "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
       },
@@ -1375,18 +1407,34 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "SB1",
-        "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
       "artists": [
         {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 134656,
-      "name": "Just Chillin'",
-      "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1423,22 +1471,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Versus",
         "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
       },
@@ -1455,22 +1487,6 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Cold Krush Cuts",
         "url": "https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 379360,
       "name": "Night over Manaus",
       "url": "https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     },
     {
       "added_at": "2024-07-12 16:10:01",

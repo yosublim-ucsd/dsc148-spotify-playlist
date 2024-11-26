@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: egy5egy",
-  "num_followers": 13939,
+  "num_followers": 13942,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 127885,
-      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
         "name": "Legszebb Hib\u00e1nk",
         "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 164705,
       "name": "Legszebb Hib\u00e1nk",
       "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
         }
       ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+      "duration_ms": 127885,
+      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
         "name": "F\u00fcgg\u0151h\u00edd",
         "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 153005,
       "name": "F\u00fcgg\u0151h\u00edd",
       "url": "https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
+        "name": "KEIKO",
+        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 302538,
+      "name": "Bez\u00e1rul",
+      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
         "name": "024",
         "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "KEIKO",
-        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 302538,
-      "name": "Bez\u00e1rul",
-      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
         "name": "pontnem",
         "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 205980,
       "name": "pontnem",
       "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
-        "name": "RENDEZ\u0150I V\u00c1LTOZAT",
-        "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "RENDEZ\u0150I V\u00c1LTOZAT",
-      "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Cloudy Skies",
-        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+        "name": "RENDEZ\u0150I V\u00c1LTOZAT",
+        "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
       "artists": [
         {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
-        },
-        {
-          "name": "Haquin",
-          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
         }
       ],
-      "duration_ms": 253171,
-      "name": "Cloudy Skies",
-      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+      "duration_ms": 202400,
+      "name": "RENDEZ\u0150I V\u00c1LTOZAT",
+      "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1331,6 +1311,26 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "L\u00e1thatatlanul",
-        "url": "https://open.spotify.com/album/1prNcKucqDQo4jNnbPYykB"
+        "name": "Diszkomfort",
+        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
       },
       "artists": [
         {
-          "name": "Kiscsillag",
-          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
         }
       ],
-      "duration_ms": 242025,
-      "name": "L\u00e1thatatlanul",
-      "url": "https://open.spotify.com/track/6EN9Gl6ohRhvIHwavlDfJm"
+      "duration_ms": 155278,
+      "name": "Diszkomfort",
+      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
     }
   ],
   "unique_name": "Nemazapop",

@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67610,
+  "num_followers": 67611,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQPArGDU0Ia750wrPbuo6d76yLu25M",
+  "snapshot_id": "AAAQPTjRpEwNjDSzZWkukFjy13YT9hOi",
   "tracks": [
     {
       "added_at": "2024-11-21 10:20:48",
@@ -55,6 +55,22 @@
       "duration_ms": 195802,
       "name": "UPWARDS",
       "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
+    },
+    {
+      "added_at": "2024-11-25 09:59:53",
+      "album": {
+        "name": "Boxing Day sales",
+        "url": "https://open.spotify.com/album/4CHbPhGxxnrpmc2N5oNpGA"
+      },
+      "artists": [
+        {
+          "name": "Richard Dawson",
+          "url": "https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "Boxing Day sales",
+      "url": "https://open.spotify.com/track/1TdFnDGVbOGSqiq5LgxAqW"
     },
     {
       "added_at": "2024-11-20 15:11:50",

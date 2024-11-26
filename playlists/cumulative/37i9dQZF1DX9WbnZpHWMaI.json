@@ -3195,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "honestly, does this smell off to you?",
+        "url": "https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151013,
+      "name": "girls just wanna have fun",
+      "url": "https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc"
+    },
+    {
+      "album": {
         "name": "GIRLZ",
         "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
       },
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"

@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 214495,
       "name": "Naattu Koothu",
       "url": "https://open.spotify.com/track/7IV5c9eF72Y9FxRQaHJ0bd"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 191107,
       "name": "Raawadi",
       "url": "https://open.spotify.com/track/2akGl5QjvPr5Prw8a5D513"
@@ -2928,6 +2928,32 @@
       "duration_ms": 247455,
       "name": "Rakita Rakita Rakita (From \"Jagame Thandhiram\")",
       "url": "https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C"
+    },
+    {
+      "album": {
+        "name": "Rakkayi",
+        "url": "https://open.spotify.com/album/2D1tC3vqiG9dDdaCxeiDkm"
+      },
+      "artists": [
+        {
+          "name": "Karthik Srinivas",
+          "url": "https://open.spotify.com/artist/2K1khAOvY0oyvdGpC25uXn"
+        },
+        {
+          "name": "Vrusha Balu",
+          "url": "https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT"
+        },
+        {
+          "name": "A K PRRIYAN",
+          "url": "https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "Rakkayi",
+      "url": "https://open.spotify.com/track/2T1jVCp6093Hb72UZwBgjH"
     },
     {
       "album": {
@@ -4030,6 +4056,28 @@
       "duration_ms": 239750,
       "name": "Yaathi Yaathi",
       "url": "https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd"
+    },
+    {
+      "album": {
+        "name": "Yennai Izhukkuthadi (From \"Kadhalikka Neramillai\")",
+        "url": "https://open.spotify.com/album/3cLJAPVZYNc3dBESRtSQwc"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228792,
+      "name": "Yennai Izhukkuthadi (From \"Kadhalikka Neramillai\")",
+      "url": "https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5"
     },
     {
       "album": {

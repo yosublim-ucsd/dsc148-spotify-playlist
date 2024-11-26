@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "The Long Arm of Coincidence",
+        "url": "https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ"
+      },
+      "artists": [
+        {
+          "name": "Jessamine",
+          "url": "https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399266,
+      "name": "All the Same",
+      "url": "https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc"
+    },
+    {
+      "album": {
         "name": "Forever Changes (2015 Remaster)",
         "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },
@@ -4798,6 +4816,24 @@
       "duration_ms": 261293,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
+    },
+    {
+      "album": {
+        "name": "Slow Road to Tiny Empire",
+        "url": "https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm"
+      },
+      "artists": [
+        {
+          "name": "Fan Modine",
+          "url": "https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "Rhubarb Pie",
+      "url": "https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio"
     },
     {
       "album": {

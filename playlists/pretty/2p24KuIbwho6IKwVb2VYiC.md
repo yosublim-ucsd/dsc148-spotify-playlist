@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Martin Garrix, Jex
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,857 likes - 142 songs - 7 hr 28 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,862 likes - 142 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 141 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 142 | [Touching Heaven](https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Touching Heaven](https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY) | 2:38 |
 
-Snapshot ID: `AAAe/WShQZHZzE0x3IYZLY50nA49Nbd6`
+Snapshot ID: `AAAe/48zfxG6c8EibB3f4HQDgQSAdiv5`

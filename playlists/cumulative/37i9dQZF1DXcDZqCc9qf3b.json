@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Spellbound",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -334,6 +334,32 @@
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/6ClXqnFK000PWmFiK2F3I6"
+    },
+    {
+      "album": {
+        "name": "Barbie Mysteries: The Great Horse Chase",
+        "url": "https://open.spotify.com/album/7gyDpqd4ZXFC2iM7YELLct"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        },
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166958,
+      "name": "Came to Win - feat. Hayes Warner",
+      "url": "https://open.spotify.com/track/4WwrBxBCIhIy3pzwwcHQVf"
     },
     {
       "album": {
@@ -694,6 +720,32 @@
       "duration_ms": 223800,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR"
+    },
+    {
+      "album": {
+        "name": "Barbie Mysteries: The Great Horse Chase",
+        "url": "https://open.spotify.com/album/7gyDpqd4ZXFC2iM7YELLct"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165549,
+      "name": "Glittering - feat. Jordin Sparks",
+      "url": "https://open.spotify.com/track/5Ng86GfSfE5mi6SiR83APq"
     },
     {
       "album": {
@@ -1570,6 +1622,32 @@
       "duration_ms": 230895,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP"
+    },
+    {
+      "album": {
+        "name": "Barbie Mysteries: The Great Horse Chase",
+        "url": "https://open.spotify.com/album/7gyDpqd4ZXFC2iM7YELLct"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        },
+        {
+          "name": "Journi",
+          "url": "https://open.spotify.com/artist/7fuTziCrGgeg5UpOvlDS1H"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209863,
+      "name": "Meet Me at the Top - feat. Journi",
+      "url": "https://open.spotify.com/track/4caOw0lZ0Kujg9lEZJgXz3"
     },
     {
       "album": {
@@ -2722,6 +2800,32 @@
       "duration_ms": 101000,
       "name": "We Are The Planets",
       "url": "https://open.spotify.com/track/6T6reDGarkisz8OraafLRy"
+    },
+    {
+      "album": {
+        "name": "Barbie Mysteries: The Great Horse Chase",
+        "url": "https://open.spotify.com/album/7gyDpqd4ZXFC2iM7YELLct"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        },
+        {
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171472,
+      "name": "We Ride Together - feat. Madison Reyes",
+      "url": "https://open.spotify.com/track/47hU6a9wd2cbc2lMFabgOe"
     },
     {
       "album": {

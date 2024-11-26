@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22159,
+  "num_followers": 22163,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALcHFwqw0T0B+3YLxWFXRUL6LwThAR",
+  "snapshot_id": "AAALclKMeaESPCn6KmqYqJfrNaiwkkt9",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -515,6 +515,38 @@
       "duration_ms": 223813,
       "name": "Left Handed - Maxi Version",
       "url": "https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn"
+    },
+    {
+      "added_at": "2024-11-25 02:11:27",
+      "album": {
+        "name": "Slow Road to Tiny Empire",
+        "url": "https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm"
+      },
+      "artists": [
+        {
+          "name": "Fan Modine",
+          "url": "https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy"
+        }
+      ],
+      "duration_ms": 245813,
+      "name": "Rhubarb Pie",
+      "url": "https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio"
+    },
+    {
+      "added_at": "2024-11-25 02:28:09",
+      "album": {
+        "name": "The Long Arm of Coincidence",
+        "url": "https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ"
+      },
+      "artists": [
+        {
+          "name": "Jessamine",
+          "url": "https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG"
+        }
+      ],
+      "duration_ms": 399266,
+      "name": "All the Same",
+      "url": "https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc"
     }
   ],
   "unique_name": "thoughts never said aloud",

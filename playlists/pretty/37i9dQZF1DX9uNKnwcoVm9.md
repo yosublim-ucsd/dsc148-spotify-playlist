@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,989 likes - 55 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,146 likes - 55 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 26 | [Jesucristo Basta \(Ver\. Acústica\) feat\. Living](https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Jesucristo Basta \(Versión Acústica\)](https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96) | 4:39 |
 | 27 | [Donde Tú Estás](https://open.spotify.com/track/4FL3CwpFlwLO4Uf1ToHN1a) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [Donde Tú Estás](https://open.spotify.com/album/6sllr3vU5YPt5xwHdi3Z72) | 6:33 |
 | 28 | [Vine a Adorarte \(feat\. Marcela Gândara\)](https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR) | [Visión Juvenil](https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [ResplanDC](https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx) | 6:48 |
-| 29 | [Tu Corazón](https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazon](https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B) | 4:04 |
+| 29 | [Tu Corazón](https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazon](https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B) | 4:04 |
 | 30 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 |
 | 31 | [La Sunamita](https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt) | [La Sunamita](https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N) | 12:53 |
 | 32 | [Way Maker](https://open.spotify.com/track/5CBMIfSbwEqytxeN9gEaVM) | [Priscilla Bueno](https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM), [Centro Vida Cristiana Band](https://open.spotify.com/artist/5m2TP17FEpGsmPrKetDVGk) | [Way Maker](https://open.spotify.com/album/19vhTnN6vnEBP67UfKAKSN) | 7:28 |

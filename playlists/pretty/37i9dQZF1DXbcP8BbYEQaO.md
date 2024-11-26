@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,825 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,872 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 19 | [Scantily Clad](https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Scantily Clad](https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2) | 3:17 |
 | 20 | [Loud](https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration \(Deluxe\)](https://open.spotify.com/album/2SclrCGehY3IuaVhp3MJpP) | 2:19 |
 | 21 | [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Secret](https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI) | 3:41 |
-| 22 | [ride home](https://open.spotify.com/track/0FcC5OWqZ77FDBgzgq50tW) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [inner monologue](https://open.spotify.com/album/34QvOwMN3lWQOD2D1eeTnZ) | 3:08 |
+| 22 | [Slow Motion](https://open.spotify.com/track/3ap14qzQ7z04QEPHcKKLog) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Slow Motion](https://open.spotify.com/album/3oP5dVJOnHv56ts1YGaU2d) | 3:25 |
 | 23 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 |
 | 24 | [Galina](https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Galina](https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx) | 4:30 |
 | 25 | [Queen of the Night](https://open.spotify.com/track/3kllpCSz33i8TKTAdARRFz) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Queen of the Night](https://open.spotify.com/album/72sw6HtTdCmRqFcT7EBFJi) | 3:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 84 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 |
 | 85 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 
-Snapshot ID: `ZzbVUAAAAABPQWxRizL6kbfa+yFAfwyK`
+Snapshot ID: `Z0T6+QAAAABsH+NKtNMNnXdYTwQe2IzP`

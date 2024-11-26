@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Moana 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,937 likes - 146 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,159 likes - 146 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

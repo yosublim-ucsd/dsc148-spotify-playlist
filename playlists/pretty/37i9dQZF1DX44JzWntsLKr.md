@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,944 likes - 132 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,932 likes - 132 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 47 | [WANTED](https://open.spotify.com/track/6N05xLfdMZvRN4B1ksLi4B) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [WANTED](https://open.spotify.com/album/3dfC0XVjUGulciucTt3pBT) | 3:33 |
 | 48 | [NEO UNIVERSE](https://open.spotify.com/track/62XPYDpiO9bTf1NOllJpPx) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [WANTED](https://open.spotify.com/album/3dfC0XVjUGulciucTt3pBT) | 4:02 |
 | 49 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 |
-| 50 | [갈증](https://open.spotify.com/track/0qgeQ8XdmXbqTGiyre27zb) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:58 |
+| 50 | [갈증](https://open.spotify.com/track/0qgeQ8XdmXbqTGiyre27zb) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:58 |
 | 51 | [Thriller](https://open.spotify.com/track/3biqfRb3wRbU9Kqk1UxUFh) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:39 |
 | 52 | [Guess Who](https://open.spotify.com/track/180VPsis7DEfxa6uoA3FhP) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:25 |
 | 53 | [Nobody Else](https://open.spotify.com/track/68qPGupXKOqzykZVJrWEpe) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 |
 | 54 | [BEASTMODE](https://open.spotify.com/track/1eE7QzYxnnh06pJaZ4QhwN) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:15 |
-| 55 | [대동단결](https://open.spotify.com/track/5D6RMJ23dre5lxGuZF7Q2d) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:03 |
+| 55 | [대동단결](https://open.spotify.com/track/5D6RMJ23dre5lxGuZF7Q2d) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:03 |
 | 56 | [Night View](https://open.spotify.com/track/0cCodghRuNyt6AOtz46y5L) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:09 |
 | 57 | [Last Carnival](https://open.spotify.com/track/2ToiAuPuVZGOUC96jOvmmW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 2:54 |
 | 58 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0SEy222w1gkxs6eJioH794) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:27 |

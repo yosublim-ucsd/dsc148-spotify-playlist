@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 329408,
+  "num_followers": 329495,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 385842,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/2YOtce7fA4wusxvFQqGqCo"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 385842,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ"
     },
     {
       "added_at": "2024-06-22 23:17:20",

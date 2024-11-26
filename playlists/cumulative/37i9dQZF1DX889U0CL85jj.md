@@ -4,7 +4,7 @@
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-635 songs - 1 day 12 hr 49 min
+639 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Everything You've Always Wanted](https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Everything You've Always Wanted](https://open.spotify.com/album/36ow8IpG5355jkilVe48kD) | 3:10 | 2023-06-02 | 2023-09-12 |
 | [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 | 2022-10-29 |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 | 2023-02-15 |
-| [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-27 |  |
+| [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-27 | 2024-11-26 |
 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-19 | 2024-04-19 |
 | [Excalibur](https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0otqoDLNYY23IMA9xZyZKl) | 3:25 | 2024-03-19 |  |
 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-03-19 | 2024-03-26 |
@@ -243,6 +243,7 @@
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-04 |  |
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2020-05-04 | 2022-08-06 |
 | [High \(Remix\)](https://open.spotify.com/track/32R9F2G42rDjgkZg3k5ecx) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8) | [High \(Remix\)](https://open.spotify.com/album/7g2RU49bcG38WFQ0VJTZNv) | 2:50 | 2020-04-24 | 2022-01-22 |
+| [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 | 2024-11-25 |  |
 | [Hoboken](https://open.spotify.com/track/0i3pE7eoqghj9gdRoBd8tU) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Hoboken](https://open.spotify.com/album/6DuIkYLO8uu4Yz1GEsMivZ) | 4:08 | 2023-05-02 |  |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2022-09-02 |  |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-04-28 |  |
@@ -252,7 +253,7 @@
 | [Hope You Are Okay](https://open.spotify.com/track/6vYbNeMUIMGRSX2OLhQQOk) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Hope You Are Okay](https://open.spotify.com/album/6T3wQsFNhRoYPbVB6mOd4T) | 1:55 | 2020-08-10 | 2022-01-22 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-09-07 |  |
 | [How Far We've Come](https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [How Far We've Come](https://open.spotify.com/album/7692cF5NNEjB7l9ky4X4ID) | 3:07 | 2023-04-28 |  |
-| [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 | 2023-01-27 |  |
+| [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 | 2023-01-27 | 2024-11-26 |
 | [How It Was](https://open.spotify.com/track/2chYHCTlDhpNfZIPzgZ9dS) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [How It Was](https://open.spotify.com/album/0CgN4X2knXtH8trDKPVd5W) | 3:09 | 2020-06-12 | 2022-07-29 |
 | [How It Was](https://open.spotify.com/track/45dU8v0zOoOztRfRHdjvNk) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [A Few Brief Moments](https://open.spotify.com/album/7l546OR4pOy6BebdJBtALd) | 3:09 | 2022-06-10 | 2022-09-28 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-07 | 2023-06-24 |
@@ -284,6 +285,7 @@
 | [idc](https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/21BTuOsSFi3Rrhl13jHuxA) | 2:23 | 2021-10-15 | 2022-11-19 |
 | [idc](https://open.spotify.com/track/1wjoepBCP3UGg8iOVic3nn) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/5blZ7qGfVOC8yglUn3A9Lg) | 2:23 | 2022-08-19 | 2023-04-22 |
 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 | 2019-10-25 | 2023-05-23 |
+| [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 | 2024-11-25 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2020-03-04 | 2022-11-12 |
 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [In My Baby's Arms](https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE) | 3:40 | 2023-05-26 |  |
@@ -470,6 +472,7 @@
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-25 | 2024-06-29 |
 | [senses](https://open.spotify.com/track/5R9TWqXOVzHfRjpZQd8Dc0) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [komorebi](https://open.spotify.com/album/6JZtYt3v32a9sTRxPlMZEn) | 3:23 | 2019-10-04 | 2022-01-22 |
 | [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 | 2022-06-18 |
+| [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-11-25 |  |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-19 | 2023-08-19 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-10-03 |
 | [Settle Down](https://open.spotify.com/track/2N1xPOMaQRyQ9SAIiLkESd) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA) | 3:51 | 2022-08-19 | 2024-04-19 |
@@ -566,6 +569,7 @@
 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 | 2024-08-23 |  |
 | [The Modern Western World](https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:21 | 2022-12-22 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2020-05-01 | 2022-01-22 |
+| [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-11-25 |  |
 | [The Shaman](https://open.spotify.com/track/7FzTEzwDcjfxCFlNGkkrAU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Shaman](https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir) | 2:36 | 2021-11-19 | 2023-03-18 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-06-28 |  |
 | [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 |  |

@@ -60,7 +60,6 @@
 | [No Choice but to Fight](https://open.spotify.com/track/1akSEWYcnn2AufW9brxZN1) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [「コードギアス　亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 3:19 | 2023-07-06 |  |
 | [No Choice But To Fight](https://open.spotify.com/track/1rx42qnXkwokP9FzbJEw0u) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [CODE GEASS Akito the Exiled Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5Ev0jcgJU0cr2aQHX57xlb) | 3:19 | 2022-08-04 | 2024-04-19 |
 | [O2](https://open.spotify.com/track/4RMQc14Cq14LmPpKXtFDHx) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:57 | 2022-08-04 | 2024-04-19 |
-| [O2](https://open.spotify.com/track/288vboftuy8Zrin0FuBLuQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [O2](https://open.spotify.com/album/22kOuNqfrdRaThyuPJ384I) | 3:58 | 2023-07-06 |  |
 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-08-04 |  |
 | [Picaresque](https://open.spotify.com/track/4hl2IKRPMWYMpI4EXnJDFm) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:01 | 2022-08-04 | 2024-04-19 |
 | [Previous Notice](https://open.spotify.com/track/1TEsJpkMbjKcsjZDo0I0Mp) | [Kotaro Nakagawa](https://open.spotify.com/artist/799szdFb1vmNTMYNDRjmo8) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 2](https://open.spotify.com/album/1tjAa8I8rFlgavizBlAGdc) | 1:16 | 2022-08-04 | 2024-04-19 |
@@ -129,5 +128,6 @@
 | [解読不能](https://open.spotify.com/track/0TKKGAyysdP5DTxc3zRuCW) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [解読不能](https://open.spotify.com/album/7hLgA6PTXN6K1CgMkQlfFS) | 3:07 | 2022-08-04 | 2024-04-19 |
 | [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris](https://open.spotify.com/artist/6evnR1U9Fy15Ca4PGumVKT) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 | 2022-08-04 | 2024-04-19 |
 | [赤だけが足りない](https://open.spotify.com/track/6U8Bjx6vO0I8XKMH8guDqw) | [Iris](https://open.spotify.com/artist/6evnR1U9Fy15Ca4PGumVKT) | [赤だけが足りない](https://open.spotify.com/album/2BEfgnegfkWGGKXqmrtEC0) | 4:27 | 2023-07-06 |  |
+| [Ｏ2](https://open.spotify.com/track/288vboftuy8Zrin0FuBLuQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Ｏ2](https://open.spotify.com/album/22kOuNqfrdRaThyuPJ384I) | 3:58 | 2023-07-06 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

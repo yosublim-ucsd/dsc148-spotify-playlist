@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 338790,
+  "num_followers": 338856,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
+        "name": "Eu Vou Anunciar",
+        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Eu Vou Anunciar",
+      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 281739,
       "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
       "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
-        "name": "Eu Vou Anunciar",
-        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Eu Vou Anunciar",
-      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
     },
     {
       "added_at": "2024-11-15 03:01:00",

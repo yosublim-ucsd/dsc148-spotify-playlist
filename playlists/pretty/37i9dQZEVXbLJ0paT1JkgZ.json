@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Chile.",
-  "num_followers": 24789,
+  "num_followers": 24803,
   "original_name": "Top Songs - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LtaWoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtfoIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-22 13:57:10",
@@ -846,6 +846,10 @@
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
       "duration_ms": 218701,

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Paul Partohap
 
-1,005 songs - 2 day 6 hr 2 min
+1,006 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,7 @@
 | [Ruin](https://open.spotify.com/track/6qltYwOOeBPILmT9qYuAYd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:01 | 2024-02-15 | 2024-07-27 |
 | [Ruined Me](https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Ruined Me](https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV) | 3:16 | 2024-07-25 | 2024-10-25 |
 | [Running Into You](https://open.spotify.com/track/1LA129OOQmzv4mqKAnwwo1) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [Running Into You](https://open.spotify.com/album/6fMmsTrM38lqeCYhOacjrr) | 3:12 | 2022-12-01 | 2022-12-17 |
-| [RUSH](https://open.spotify.com/track/4AJT8fFwkN9YJt7MDPyFdN) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [RUSH](https://open.spotify.com/album/7IoaTCZ1DDCxyvmwpx06Jg) | 3:36 | 2024-09-26 |  |
+| [RUSH](https://open.spotify.com/track/4AJT8fFwkN9YJt7MDPyFdN) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [RUSH](https://open.spotify.com/album/7IoaTCZ1DDCxyvmwpx06Jg) | 3:36 | 2024-09-26 | 2024-11-26 |
 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 | 2024-06-13 |  |
 | [Safe Space](https://open.spotify.com/track/4qPYKAuPtGskn6gDfWmtVi) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [Safe Space](https://open.spotify.com/album/6JKj3EO00S2Zmsqi5lviiM) | 3:34 | 2023-11-09 | 2023-11-24 |
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2023-10-13 | 2024-02-02 |
@@ -741,6 +741,7 @@
 | [Settle 4 Less](https://open.spotify.com/track/55TqRwJoKEh7b7ZzNFh1sR) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Settle 4 Less](https://open.spotify.com/album/7eApwkHooJ3YKCfAOaROXq) | 2:36 | 2023-07-27 | 2023-08-18 |
 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 | 2024-03-28 | 2024-04-19 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-04-01 |
+| [shadow of you](https://open.spotify.com/track/0EeB1wGl2hRmgrj7cXlMUR) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [shadow of you](https://open.spotify.com/album/0Pqfe5mdkuFnHVX8GpuKCC) | 3:24 | 2024-11-25 |  |
 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 | 2024-02-01 | 2024-07-27 |
 | [SHAME](https://open.spotify.com/track/4dv6f5PpEIf5nt1vE1xu6M) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [kinu](https://open.spotify.com/artist/2P04gMM2tzgMQFKL3e4UTm) | [SHAME](https://open.spotify.com/album/2Kt26AIMRk6hdkHfJ6csB5) | 2:34 | 2023-07-13 | 2023-08-04 |
 | [She Don't](https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU) | [She Don't](https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf) | 3:36 | 2024-10-03 | 2024-10-11 |

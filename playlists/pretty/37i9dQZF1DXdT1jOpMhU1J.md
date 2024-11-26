@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,751 likes - 288 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 288 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Când dormi](https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY) | [Fatima Tozer](https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA) | [Când dormi](https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO) | 1:30 |
+| 1 | [Când dormi](https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY) | [Fatima Tozer](https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA) | [Când dormi](https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO) | 1:30 |
 | 2 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2xommCoPThPqwJU5N6XYsE) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/6ISpvvDYcoojaaJ35jEQpE) | 3:13 |
 | 3 | [Dos Oruguitas \(Piano Version\)](https://open.spotify.com/track/1NTvZQLUtEtsPOKD8XPKsO) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest Disney, Vol\. 2](https://open.spotify.com/album/6Mv8UV6h54ddT5HwvRk2OD) | 3:09 |
 | 4 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 |

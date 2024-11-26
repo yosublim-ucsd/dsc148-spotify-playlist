@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,027 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,107 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 9 | [フィードバックを鳴らして](https://open.spotify.com/track/13LCTa1YcwoUlFV3fFbGi2) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [フィードバックを鳴らして](https://open.spotify.com/album/3f3dzu18c2eidt4Mhng7Pz) | 4:02 |
 | 10 | [Game of Love](https://open.spotify.com/track/1O6qBKeEXYbSH7ia1mwDdl) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Game of Love](https://open.spotify.com/album/6nwZ30BMjF9XY1eI9GWUWm) | 2:57 |
 | 11 | [アイノリユニオン](https://open.spotify.com/track/3QGzeacL4Eer2EZCoo2mPd) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [アイノリユニオン](https://open.spotify.com/album/6hhDmyhePvzgiyH8vbV1Q3) | 3:07 |
-| 12 | [VORTEX](https://open.spotify.com/track/2TfW5LGOPSwJDkdhRBkZyb) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 3:13 |
+| 12 | [VORTEX](https://open.spotify.com/track/2TfW5LGOPSwJDkdhRBkZyb) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 3:13 |
 | 13 | [アウフタクト](https://open.spotify.com/track/1PVDZ1kzEJDcL120PgiJxQ) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [アウフタクト](https://open.spotify.com/album/1KN5tFUThHjzjy5nVhlTTn) | 3:48 |
 | 14 | [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 |
 | 15 | [わっちゅあね？](https://open.spotify.com/track/72a4zVpEBvhnkRsEPc6LpE) | [来栖りん](https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA) | [わっちゅあね？](https://open.spotify.com/album/6q74dOGMbq44Bjm9i3KhTu) | 3:26 |
 | 16 | [葛藤Tomorrow](https://open.spotify.com/track/2glkogVYqyahYd31l9dyic) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [葛藤Tomorrow](https://open.spotify.com/album/3FKVinRjL5nftm4sL1Ea6U) | 3:56 |
 | 17 | [バッドゥドゥドゥ](https://open.spotify.com/track/7FxpXE4L0qfqE5yEvG2yxg) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [バッドゥドゥドゥ](https://open.spotify.com/album/1cZLc22uX6jIjUY5KMpmwV) | 3:55 |
 | 18 | [KATAWARA](https://open.spotify.com/track/0YXwlA1KffuEdnqeYfb9Ra) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [KATAWARA](https://open.spotify.com/album/1BuyA7L7w3eRY5XQqKdxG6) | 3:38 |
-| 19 | [karma](https://open.spotify.com/track/7ixUdlQj30OVbP2Jbi8BY4) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 2:36 |
+| 19 | [karma](https://open.spotify.com/track/7ixUdlQj30OVbP2Jbi8BY4) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 2:36 |
 | 20 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 |
 | 21 | [クランシック](https://open.spotify.com/track/2Bl5D08JrQTfY1OcZwsm3d) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [クランシック](https://open.spotify.com/album/6jNDEvVwbdyOt5g0qMfLJY) | 3:02 |
 | 22 | [UNFAIR](https://open.spotify.com/track/3m2xqpFQxXZmhVdRaA2Qsc) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [UNFAIR](https://open.spotify.com/album/3eEEOm3tQy6YSHlWD0iSKS) | 3:50 |

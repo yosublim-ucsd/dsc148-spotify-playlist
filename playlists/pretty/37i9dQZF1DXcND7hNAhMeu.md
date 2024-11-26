@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: <a href="spotify:artist:07eEGn8bSAJF9sUqeTtAmN">Baran Mengüç</a>, <a href="spotify:artist:4F85cxjAmlT0r7DZKu3ABX">Ceren Sagu</a>, <a href="spotify:artist:0nllPfFG95RzZnqdWLLDCD">Lotusx</a>, <a href="spotify:artist:2FkaZzzDTwnz1l1mK9DoT6">TUANA</a>, <a href="spotify:artist:71B1UV4HrPQk6TdNHM3h9h">Rana Türkyılmaz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,550 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,646 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

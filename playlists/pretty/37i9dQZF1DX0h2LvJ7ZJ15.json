@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1441948,
+  "num_followers": 1442537,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -375,30 +375,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
-        "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 83576,
-      "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
-      "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+        "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 83576,
+      "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
+      "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
     },
     {
       "added_at": "2024-05-24 04:38:40",

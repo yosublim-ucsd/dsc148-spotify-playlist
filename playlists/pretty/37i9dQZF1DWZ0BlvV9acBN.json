@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 141162,
+  "num_followers": 141174,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/6qwE5HKEYKA4oak3S4Q9OA"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 336307,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/0Knupzr9ZhMApMjiwSAQBx"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Ningu\u00e9m Pode Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 341666,
       "name": "Ningu\u00e9m Pode Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/6qwE5HKEYKA4oak3S4Q9OA"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 336307,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/0Knupzr9ZhMApMjiwSAQBx"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "A Alegria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 220185,
       "name": "A Alegria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
         "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 536192,
       "name": "Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -539,18 +539,34 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+        "name": "Registrado",
+        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
       },
       "artists": [
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Catedral",
+          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+      "duration_ms": 136083,
+      "name": "O Perfeito Mundo Imperfeito",
+      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -575,38 +591,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "A Est\u00e1tua",
         "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
@@ -623,6 +607,38 @@
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -663,18 +679,50 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Registrado",
-        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "Catedral",
-          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 136083,
-      "name": "O Perfeito Mundo Imperfeito",
-      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
+      },
+      "artists": [
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 197936,
+      "name": "Na Contra M\u00e3o",
+      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -711,38 +759,6 @@
       "duration_ms": 254762,
       "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
       "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -823,22 +839,6 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
-      },
-      "artists": [
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 197936,
-      "name": "Na Contra M\u00e3o",
-      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
     },
     {
       "added_at": "2024-11-22 03:01:00",

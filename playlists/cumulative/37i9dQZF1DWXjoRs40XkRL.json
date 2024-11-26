@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Ae Ri Sakhi",
+      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
+    },
+    {
+      "album": {
         "name": "Ae Ri Sakhi",
         "url": "https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH"
       },
@@ -2932,7 +2954,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 191063,
       "name": "Kautilya (The Echo Project)",
       "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"

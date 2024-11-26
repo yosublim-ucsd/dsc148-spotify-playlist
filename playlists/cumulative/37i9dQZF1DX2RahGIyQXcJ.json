@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of DHH. Cover:  Karan Aujla",
+  "description": "Best of DHH. Cover:  Dhanda Nyoliwala",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -1429,6 +1429,28 @@
     },
     {
       "album": {
+        "name": "BTDT (Been There Done That)",
+        "url": "https://open.spotify.com/album/1tRD8Rx1R1BbfRXBhUyEwU"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169902,
+      "name": "BTDT (Been There Done That)",
+      "url": "https://open.spotify.com/track/0hVdUJRUZYDNtOztuJSWoz"
+    },
+    {
+      "album": {
         "name": "Defcon 1",
         "url": "https://open.spotify.com/album/7rSDYG1PEOQP6aToDGxLNQ"
       },
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 181000,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 166021,
       "name": "Daaku",
       "url": "https://open.spotify.com/track/32OPGHl98lfojGFca3Ib5O"
@@ -4974,6 +4996,28 @@
       "duration_ms": 170666,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/05LRDnFLYhWwUkYX1DlWUo"
+    },
+    {
+      "album": {
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164926,
+      "name": "No Break",
+      "url": "https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN"
     },
     {
       "album": {

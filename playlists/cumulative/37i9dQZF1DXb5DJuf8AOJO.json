@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Sa Pasko Sasapit Din",
+        "url": "https://open.spotify.com/album/5a39rVj8mAStHAcUhTxWfN"
+      },
+      "artists": [
+        {
+          "name": "Bukas Palad Music Ministry",
+          "url": "https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348243,
+      "name": "Sa Pasko Sasapit Din",
+      "url": "https://open.spotify.com/track/5u40x4t7UUsUJ37sqAsXjL"
+    },
+    {
+      "album": {
         "name": "Sa'Yong Pangalan",
         "url": "https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR"
       },

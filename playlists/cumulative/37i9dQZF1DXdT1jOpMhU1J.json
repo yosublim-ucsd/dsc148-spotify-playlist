@@ -967,24 +967,6 @@
     },
     {
       "album": {
-        "name": "Ca\u0302nd dormi",
-        "url": "https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO"
-      },
-      "artists": [
-        {
-          "name": "Fatima Tozer",
-          "url": "https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA"
-        }
-      ],
-      "date_added": "2021-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 90250,
-      "name": "Ca\u0302nd dormi",
-      "url": "https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY"
-    },
-    {
-      "album": {
         "name": "Chanson De Berceau",
         "url": "https://open.spotify.com/album/3ksCDiVFTXCwVKxTRV6qh7"
       },
@@ -1288,6 +1270,24 @@
       "duration_ms": 133138,
       "name": "Curious James",
       "url": "https://open.spotify.com/track/2ugAWsrnj4ZGq5hXYnziTY"
+    },
+    {
+      "album": {
+        "name": "C\u00e2nd dormi",
+        "url": "https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO"
+      },
+      "artists": [
+        {
+          "name": "Fatima Tozer",
+          "url": "https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90250,
+      "name": "C\u00e2nd dormi",
+      "url": "https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY"
     },
     {
       "album": {

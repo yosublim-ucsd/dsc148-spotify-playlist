@@ -4,13 +4,14 @@
 
 > Soft, soothing piano for you and your baby.
 
-145 songs - 6 hr 1 min
+146 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7Am\. Mattina](https://open.spotify.com/track/4XCllplNqVdOZQXn28Xe83) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [7Am\. Mattina \(Dreaming of Chopin\)](https://open.spotify.com/album/1Hxzv6PAmHIa1Inn9mWVhM) | 3:58 | 2023-05-09 |  |
 | [A burnished stone](https://open.spotify.com/track/0F8SuamdgugyK1UWMM2clz) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A burnished stone](https://open.spotify.com/album/002uBgCwLK0STGuPGxnsWj) | 1:52 | 2023-06-20 |  |
 | [A love Diary](https://open.spotify.com/track/6wHoQBzV27mxCxj6O6ZiEt) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [A love Diary](https://open.spotify.com/album/4iMXEYAl0NcvMEUtoK1qu2) | 2:27 | 2023-05-09 |  |
+| [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 | 2024-11-25 |  |
 | [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2023-05-09 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2023-05-09 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-04 |  |

@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 220645,
       "name": "Lost",
       "url": "https://open.spotify.com/track/521c3uJHm5aaqRhWcairlf"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 153725,
       "name": "Play It",
       "url": "https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y"
@@ -1346,10 +1346,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 150476,
       "name": "Ponder",
       "url": "https://open.spotify.com/track/2aPkC8UGlOtEcYTl0aGyt8"
+    },
+    {
+      "album": {
+        "name": "The Boat House 2019 Sampler",
+        "url": "https://open.spotify.com/album/15eiIsoLMskLCzWZZT0gjh"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Pop - Original Mix",
+      "url": "https://open.spotify.com/track/5SaqN8fWIBuWxLSNLbF2J9"
     },
     {
       "album": {

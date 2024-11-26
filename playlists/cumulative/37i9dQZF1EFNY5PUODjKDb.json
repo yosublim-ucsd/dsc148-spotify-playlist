@@ -2823,6 +2823,44 @@
     },
     {
       "album": {
+        "name": "Evita",
+        "url": "https://open.spotify.com/album/1EouxVBwsa075eOl2xuMEw"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Tim Rice",
+          "url": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "name": "Bob Gunton",
+          "url": "https://open.spotify.com/artist/0JXtvYFClrY0ZG8CqQaw3M"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Original Broadway Cast Of Evita",
+          "url": "https://open.spotify.com/artist/6Whtp9puNT13fmLkVBAab7"
+        },
+        {
+          "name": "Rene Wiegert",
+          "url": "https://open.spotify.com/artist/6FM2MrJ3jLKFgrQnJsgvZh"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308026,
+      "name": "Dice Are Rolling - Original Cast Recording/1979",
+      "url": "https://open.spotify.com/track/77oGCKCmNpw60Q1Vc6tymx"
+    },
+    {
+      "album": {
         "name": "Cats",
         "url": "https://open.spotify.com/album/1VoTIOGVbLa0adUfBmFNoD"
       },
@@ -2964,7 +3002,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 348226,
       "name": "Dive Are Rolling - New Broadway Cast Recording 2012",
       "url": "https://open.spotify.com/track/5IDAIDvVf9fToly8DamGhL"

@@ -9993,6 +9993,36 @@
     },
     {
       "album": {
+        "name": "Royalty (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Royalty - Super Slowed + Reverb",
+      "url": "https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob"
+    },
+    {
+      "album": {
         "name": "Royalty (Wiguez & Alltair Remix)",
         "url": "https://open.spotify.com/album/6JmrofiP260WXR2BhVOfLK"
       },

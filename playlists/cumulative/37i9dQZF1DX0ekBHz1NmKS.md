@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,700 songs - 3 day 16 hr 14 min
+1,701 songs - 3 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-05-16 | 2024-06-14 |
 | [Blommor och vin](https://open.spotify.com/track/1UzjSwv0Y4mfR0poaMXBD2) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Blommor och vin](https://open.spotify.com/album/466YolZMVkiRuWjUsCHGEr) | 3:01 | 2024-05-23 | 2024-06-21 |
 | [Blommorna på min tapet](https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Blommorna på min tapet](https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe) | 2:56 | 2023-10-19 | 2023-11-12 |
+| [Blue Ruin](https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust](https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW) | 4:10 | 2024-11-21 |  |
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 | 2022-09-16 |
 | [blundar](https://open.spotify.com/track/16HbAjgmQF7gq2o6f9cQit) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [romantik på svenska](https://open.spotify.com/album/4I2ZKhs5KWb8FFqfcHizOc) | 3:52 | 2024-04-11 | 2024-05-17 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
@@ -754,7 +755,7 @@
 | [Ingen reklam tack](https://open.spotify.com/track/7cNfQb7pMKKRQygje3oerX) | [Ninjaneers](https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW), [Magnus Rytterstam](https://open.spotify.com/artist/27HfAM9HQFIzt33cg0ilcf) | [Ingen reklam tack](https://open.spotify.com/album/1IsTiCFLSJIdYNGe6bbr4k) | 2:24 | 2024-08-08 | 2024-09-19 |
 | [Ingen sorg utan kärlek](https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Ingen sorg utan kärlek](https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX) | 3:07 | 2023-11-30 | 2024-03-08 |
 | [Ingen, bara du](https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv) | [VIOL](https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt) | [Ingen, bara du](https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA) | 2:46 | 2024-06-13 | 2024-08-16 |
-| [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 |  |
+| [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 | 2024-11-26 |
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
 | [Inget Lyckligt Slut](https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Inget Lyckligt Slut](https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs) | 2:24 | 2024-08-08 | 2024-09-29 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-06-27 | 2024-10-13 |

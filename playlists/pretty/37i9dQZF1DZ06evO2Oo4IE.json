@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182219,
+  "num_followers": 182240,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAAlAAV3vir9DNfgx3oaN876",
+  "snapshot_id": "Z0JsgAAAAABmQx9PFfKn1ZI9sGPlhoQd",
   "tracks": [
     {
       "added_at": null,
@@ -207,42 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Bye, Bye Baby",
-      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell Song",
         "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
       },
@@ -263,6 +227,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Bye, Bye Baby",
+      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -275,6 +275,38 @@
       "duration_ms": 235160,
       "name": "Try (Just a Little Bit Harder)",
       "url": "https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 - Remastered from Original Tape",
+        "url": "https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 278061,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -299,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 - Remastered from Original Tape",
-        "url": "https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 278061,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -343,42 +343,6 @@
       "duration_ms": 313066,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 567973,
-      "name": "Ball and Chain",
-      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -399,6 +363,42 @@
       "duration_ms": 46964,
       "name": "\"Are We Taping Now?\"",
       "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 567973,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
     },
     {
       "added_at": null,

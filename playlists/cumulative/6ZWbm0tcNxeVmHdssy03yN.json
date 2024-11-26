@@ -19043,6 +19043,24 @@
     },
     {
       "album": {
+        "name": "Danced On The Wire",
+        "url": "https://open.spotify.com/album/1ah9918MVRqcxIeWjy5vee"
+      },
+      "artists": [
+        {
+          "name": "The Ting Tings",
+          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254872,
+      "name": "Danced On The Wire",
+      "url": "https://open.spotify.com/track/0qPJRE8kRZISzDBhcIKLiB"
+    },
+    {
+      "album": {
         "name": "Dancefloor",
         "url": "https://open.spotify.com/album/4RBKXYyBgmDkQzfZ2mRcfl"
       },
@@ -22804,6 +22822,24 @@
       "duration_ms": 161465,
       "name": "Down",
       "url": "https://open.spotify.com/track/6w6il2pfFaG1J7x0mKaYTw"
+    },
+    {
+      "album": {
+        "name": "Danced On The Wire",
+        "url": "https://open.spotify.com/album/1ah9918MVRqcxIeWjy5vee"
+      },
+      "artists": [
+        {
+          "name": "The Ting Tings",
+          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301925,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3XB4y4Sbcjq0tYXnsXSDy5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Ghemon in cover.",
-  "num_followers": 43899,
+  "num_followers": 43917,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 224000,
       "name": "Notte Blu",
       "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -631,26 +631,18 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
-        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Coppa Italia (feat. Ensi & Nerone)",
-      "url": "https://open.spotify.com/track/7dWbTK0WbZQm1LQLURFF5S"
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -675,42 +667,26 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         },
         {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
         }
       ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night",
-      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+      "duration_ms": 152000,
+      "name": "Coppa Italia (feat. Ensi & Nerone)",
+      "url": "https://open.spotify.com/track/7dWbTK0WbZQm1LQLURFF5S"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -731,6 +707,30 @@
       "duration_ms": 166208,
       "name": "MALEDETTI",
       "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+        }
+      ],
+      "duration_ms": 233786,
+      "name": "Bolo By Night",
+      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Formula (feat. Raige & Ensi)",
-        "url": "https://open.spotify.com/album/6zyTM0pcUTapaLY9Hb3Au4"
-      },
-      "artists": [
-        {
-          "name": "Joelz",
-          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
-        },
-        {
-          "name": "Raige",
-          "url": "https://open.spotify.com/artist/2Nsm5iGxbJxHoGZwrsOurY"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 229629,
-      "name": "Formula (feat. Raige & Ensi)",
-      "url": "https://open.spotify.com/track/6aJuccoMllaZpSdDiWK1O2"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Ci sentiamo poi",
         "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
       },
@@ -1247,46 +1223,26 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "MUSICA ETERNA",
-        "url": "https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT"
+        "name": "Formula (feat. Raige & Ensi)",
+        "url": "https://open.spotify.com/album/6zyTM0pcUTapaLY9Hb3Au4"
       },
       "artists": [
         {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
         },
         {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+          "name": "Raige",
+          "url": "https://open.spotify.com/artist/2Nsm5iGxbJxHoGZwrsOurY"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         }
       ],
-      "duration_ms": 203181,
-      "name": "MUSICA ETERNA",
-      "url": "https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Struggle Music",
-        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 216086,
-      "name": "Con i soldi in testa",
-      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
+      "duration_ms": 229629,
+      "name": "Formula (feat. Raige & Ensi)",
+      "url": "https://open.spotify.com/track/6aJuccoMllaZpSdDiWK1O2"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1319,6 +1275,50 @@
       "duration_ms": 249729,
       "name": "Sembra scritto",
       "url": "https://open.spotify.com/track/75ABtnZla7EfemFVkUr2BD"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "MUSICA ETERNA",
+        "url": "https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT"
+      },
+      "artists": [
+        {
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "MUSICA ETERNA",
+      "url": "https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "BRAVA GENTE - EXTRA",
-        "url": "https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Brava Gente",
-          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
-        }
-      ],
-      "duration_ms": 146222,
-      "name": "Workout",
-      "url": "https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "BRAVA GENTE - EXTRA",
+        "url": "https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "duration_ms": 146222,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1795,6 +1795,34 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
+      },
+      "artists": [
+        {
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+        },
+        {
+          "name": "Dave_Zeta",
+          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "duration_ms": 242758,
+      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
+      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Nuova Forma",
         "url": "https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs"
       },
@@ -1807,22 +1835,6 @@
       "duration_ms": 199365,
       "name": "Nuova Forma",
       "url": "https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1867,6 +1879,22 @@
       "duration_ms": 201818,
       "name": "Portami lontano",
       "url": "https://open.spotify.com/track/1iWumdzVHTdebdSLqhIh02"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1947,30 +1975,22 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
       "artists": [
         {
-          "name": "Joelz",
-          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
         },
         {
-          "name": "Dave_Zeta",
-          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
         }
       ],
-      "duration_ms": 242758,
-      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
-      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -1999,42 +2019,6 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -2099,6 +2083,22 @@
       "duration_ms": 185893,
       "name": "Sapori e sostanza",
       "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -2343,30 +2343,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Neurodeliri 2024",
-        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Maury B",
-          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Neurodeliri 2024",
-      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Disco Inverno",
         "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
       },
@@ -2447,6 +2423,30 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Neurodeliri 2024",
+        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Maury B",
+          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Neurodeliri 2024",
+      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "The Waiter",
         "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
       },
@@ -2495,26 +2495,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        },
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Parte Di Me",
-      "url": "https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "Delacroix",
         "url": "https://open.spotify.com/album/4JszbcB0Tng0GqCF2gmYUS"
       },
@@ -2531,6 +2511,26 @@
       "duration_ms": 121874,
       "name": "Delacroix",
       "url": "https://open.spotify.com/track/0mW9Y9YZqGKCON2QJ1HSbB"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Parte Di Me",
+      "url": "https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -2619,38 +2619,6 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
         "name": "METRONOMO",
         "url": "https://open.spotify.com/album/0qF140qL8FEOqbTUokuDZ6"
       },
@@ -2671,6 +2639,38 @@
       "duration_ms": 168607,
       "name": "METRONOMO",
       "url": "https://open.spotify.com/track/60KMbrrUJx9Azph2keQ3b2"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2024-11-21 23:01:00",
@@ -2827,6 +2827,30 @@
     {
       "added_at": "2024-11-21 23:01:00",
       "album": {
+        "name": "Io Speriamo Che Me La Cavo",
+        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
+      },
+      "artists": [
+        {
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+        }
+      ],
+      "duration_ms": 142213,
+      "name": "Io Speriamo Che Me La Cavo",
+      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
+    },
+    {
+      "added_at": "2024-11-21 23:01:00",
+      "album": {
         "name": "Galassia",
         "url": "https://open.spotify.com/album/1QQ1d5TeUqPbV4j8TUWyM4"
       },
@@ -2851,30 +2875,6 @@
       "duration_ms": 270697,
       "name": "Galassia",
       "url": "https://open.spotify.com/track/1rJ4uHHqZLFo7vrhcgnKkP"
-    },
-    {
-      "added_at": "2024-11-21 23:01:00",
-      "album": {
-        "name": "Io Speriamo Che Me La Cavo",
-        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
-      },
-      "artists": [
-        {
-          "name": "Warez",
-          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "LDO",
-          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
-        }
-      ],
-      "duration_ms": 142213,
-      "name": "Io Speriamo Che Me La Cavo",
-      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
     },
     {
       "added_at": "2024-11-21 23:01:00",

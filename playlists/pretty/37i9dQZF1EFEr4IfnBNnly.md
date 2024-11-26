@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 45 | [Coco Rouge](https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Coco Rouge](https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t) | 3:27 |
 | 46 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AbiZIAAAAAD8foMPAJcFH3NWE1KZJBW+`
+Snapshot ID: `AbieygAAAADzSClK5h72CLWQTLSxA1EF`

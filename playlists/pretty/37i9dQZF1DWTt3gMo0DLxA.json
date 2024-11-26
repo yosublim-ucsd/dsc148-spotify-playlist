@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 222081,
+  "num_followers": 223128,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzWSogAAAAAf3vDxNpWVGqXAcjxiAJiF",
+  "snapshot_id": "Z0RM6gAAAAAhYV4tn1wNMGbJFQj199C1",
   "tracks": [
     {
       "added_at": "2024-08-05 12:07:26",
@@ -33,6 +33,34 @@
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
     },
     {
+      "added_at": "2024-11-25 10:09:45",
+      "album": {
+        "name": "Hey Rangule (From \"Amaran\") (Telugu)",
+        "url": "https://open.spotify.com/album/120PLlSxNHGkpMThOP3dvU"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 229833,
+      "name": "Hey Rangule (From \"Amaran\") (Telugu)",
+      "url": "https://open.spotify.com/track/7peNClR7CbF9bDYCmOiy4L"
+    },
+    {
       "added_at": "2024-06-05 09:12:34",
       "album": {
         "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
@@ -57,26 +85,6 @@
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
     },
     {
-      "added_at": "2024-10-21 06:33:22",
-      "album": {
-        "name": "Manasunna Maaraju",
-        "url": "https://open.spotify.com/album/1HdqYSGcMPtxGvGW40JPuQ"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Anuradha Paudwal",
-          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
-        }
-      ],
-      "duration_ms": 316743,
-      "name": "Nenugaali Gopuram",
-      "url": "https://open.spotify.com/track/03nqAoFAEn7Q1XmABl87zw"
-    },
-    {
       "added_at": "2024-04-18 09:25:53",
       "album": {
         "name": "Om Bheem Bush",
@@ -99,6 +107,34 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
+    },
+    {
+      "added_at": "2024-05-01 12:02:24",
+      "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
+        "url": "https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 256032,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
+      "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
     },
     {
       "added_at": "2024-10-21 06:33:22",
@@ -267,30 +303,6 @@
       "duration_ms": 196812,
       "name": "Kakinada Kaja",
       "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
-    },
-    {
-      "added_at": "2024-06-16 12:40:05",
-      "album": {
-        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
-        "url": "https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 163354,
-      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
-      "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
     },
     {
       "added_at": "2024-08-09 13:11:08",
@@ -495,34 +507,6 @@
       "duration_ms": 216558,
       "name": "Kurchi Madathapetti (From \"Guntur Kaaram\")(Telugu)",
       "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
-    },
-    {
-      "added_at": "2024-05-01 12:02:24",
-      "album": {
-        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-        "url": "https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 256032,
-      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-      "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
     },
     {
       "added_at": "2023-12-11 04:40:35",

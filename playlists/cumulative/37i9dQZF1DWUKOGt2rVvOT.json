@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5b6b\u76db\u5e0c (Shi Shi)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u71b1\u72d7 (MC HotDog)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 172282,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL"
@@ -242,6 +242,24 @@
       "duration_ms": 168588,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/2qBJN3eYfsr4vUjyG1MUg5"
+    },
+    {
+      "album": {
+        "name": "Jocelyn 9.4.0",
+        "url": "https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "r u happy now?",
+      "url": "https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT"
     },
     {
       "album": {
@@ -502,6 +520,24 @@
       "duration_ms": 233000,
       "name": "\u4e16\u754c\u4e0a\u4e0d\u5b58\u5728\u7684\u6b4c - 2020 \u91cd\u5531\u7248",
       "url": "https://open.spotify.com/track/0ed5FkaLBW8TuuBLFOJpsr"
+    },
+    {
+      "album": {
+        "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
+        "url": "https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369926,
+      "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
+      "url": "https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0"
     },
     {
       "album": {
@@ -917,6 +953,24 @@
     },
     {
       "album": {
+        "name": "\u9ad2\u85dd\u8853\u5bb6",
+        "url": "https://open.spotify.com/album/5qfvZYTRNedzR4sNWKc73k"
+      },
+      "artists": [
+        {
+          "name": "MC HotDog",
+          "url": "https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199310,
+      "name": "\u5341\u5c40\u4e0a\u534a",
+      "url": "https://open.spotify.com/track/3YCWozDHFG8NX6BNKnyx7w"
+    },
+    {
+      "album": {
         "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
         "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
       },
@@ -950,7 +1004,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 250494,
       "name": "\u540c\u611f",
       "url": "https://open.spotify.com/track/1qgb3pIoFgsOOAWERPaAAs"
@@ -1268,7 +1322,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 274285,
       "name": "\u5973\u5b57\u65c1 (\u300a\u53f0\u5317\u5973\u5b50\u5716\u9451\u300b\u6232\u5287\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/4ctSTDHcpW4bz90mDvjJcv"
@@ -1322,7 +1376,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 274400,
       "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
@@ -1701,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "\u60c5\u52d2",
+        "url": "https://open.spotify.com/album/4R24nFxGHvAj4yTv3Q3wt9"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226925,
+      "name": "\u60c5\u52d2",
+      "url": "https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj"
+    },
+    {
+      "album": {
         "name": "\u83ef\u8207\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
@@ -1774,6 +1850,24 @@
       "duration_ms": 224400,
       "name": "\u611b\u6211\u7684\u6642\u5019",
       "url": "https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH"
+    },
+    {
+      "album": {
+        "name": "\u611b\u6c92\u6709\u932f",
+        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281237,
+      "name": "\u611b\u6c92\u6709\u932f",
+      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
     },
     {
       "album": {
@@ -2499,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "\u91ce\u751f",
+        "url": "https://open.spotify.com/album/01uFo7ZroCYizAlV7I4V5m"
+      },
+      "artists": [
+        {
+          "name": "Jam Hsiao",
+          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "\u767d\u591c",
+      "url": "https://open.spotify.com/track/2vC6yUemor24BSBW652MHI"
+    },
+    {
+      "album": {
         "name": "\u767d\u6708\u5149\u4e0e\u6731\u7802\u75e3",
         "url": "https://open.spotify.com/album/59oQqDR4PppWowikQ1GeLA"
       },
@@ -2600,7 +2712,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 206500,
       "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
       "url": "https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa"
@@ -3344,7 +3456,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 273233,
       "name": "\u9918\u4eba\u7bc0\u5feb\u6a02",
       "url": "https://open.spotify.com/track/7ngCnNNMl7KrpUkmZMwbeC"

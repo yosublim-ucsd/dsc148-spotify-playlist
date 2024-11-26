@@ -4,7 +4,7 @@
 
 > Future, Metro, Kendrick, Tyler and Carti make All\-RapCaviar's 1st Team\. Plus new music from Jack Harlow and BossMan Dlow.
 
-2,233 songs - 4 day 19 hr 41 min
+2,234 songs - 4 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1150,7 +1150,7 @@
 | [MALIBU \(WITH TEE GRIZZLEY & G HERBO\)](https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:13 | 2024-08-16 | 2024-09-21 |
 | [MAMACITA](https://open.spotify.com/track/51wFQM8W0YfXTmHusXUr5i) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [MAMACITA](https://open.spotify.com/album/2JNmVgpBCt1nnobJ3Mvzim) | 3:22 | 2019-10-25 | 2019-11-15 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-12 | 2024-09-07 |
-| [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-22 |  |
+| [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-22 | 2024-11-26 |
 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 | 2021-12-10 | 2022-03-12 |
 | [Mandem](https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Mandem](https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga) | 4:01 | 2023-08-04 | 2023-08-12 |
 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 | 2022-09-23 | 2022-10-08 |
@@ -2038,6 +2038,7 @@
 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 | 2024-09-27 | 2024-10-05 |
 | [Turn Yo Cap Back \(Cap Backwards\) \(feat\. Swae Lee\)](https://open.spotify.com/track/6TYtBk4v0NClXRrTKHy42N) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 3:01 | 2024-11-22 |  |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 | 2023-07-14 | 2024-01-13 |
+| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-25 |  |
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-05-22 | 2021-07-24 |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-02-25 |
 | [Twin Flame](https://open.spotify.com/track/4jrty1wv4nGiD1XXejKnix) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 3:17 | 2020-11-06 | 2020-11-13 |

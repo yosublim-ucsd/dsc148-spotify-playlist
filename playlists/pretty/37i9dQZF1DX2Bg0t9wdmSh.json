@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 13094,
+  "num_followers": 13100,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "No More Parties",
+        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140920,
+      "name": "No More Parties",
+      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Muwop (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "No More Parties",
-        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "No More Parties",
-      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
-      },
-      "artists": [
-        {
-          "name": "Lil Duval",
-          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
-        },
-        {
-          "name": "Charlamagne Tha God",
-          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
+      },
+      "artists": [
+        {
+          "name": "Lil Duval",
+          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
+        },
+        {
+          "name": "Charlamagne Tha God",
+          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
     },
     {
       "added_at": "2022-10-01 16:09:56",

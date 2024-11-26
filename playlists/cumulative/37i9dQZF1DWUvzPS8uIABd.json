@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 246789,
       "name": "Ei rakkaus mua varten oo (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/1IXRTae88I3UzJAufBJZvf"
@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 178274,
       "name": "S\u00e4 voitit jo",
       "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 212688,
       "name": "The Islander (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/78qcak7x9dVCapzlxt0yDG"
@@ -6266,6 +6266,24 @@
       "duration_ms": 212613,
       "name": "Viinii",
       "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"
+    },
+    {
+      "album": {
+        "name": "Virheist\u00e4 t\u00e4rkein",
+        "url": "https://open.spotify.com/album/2ivGSIkBHP8iy3qlLF0IyJ"
+      },
+      "artists": [
+        {
+          "name": "Elsa Brotherus",
+          "url": "https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Virheist\u00e4 t\u00e4rkein",
+      "url": "https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,828 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,850 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 53 | [Rain](https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 4:53 |
 | 54 | [言ノ葉](https://open.spotify.com/track/6ktyTmXjfehtEO5wWFyjkP) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 5:02 |
 | 55 | [A Rainy Morning ～Main Title～](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 |
-| 56 | [Hello Goodbye & Hello \(For Movie\)](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 |
+| 56 | [Hello Goodbye & Hello \(For Movie）](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 |
 | 57 | [One more time，One more chance](https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [One more time，One more chance](https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z) | 5:30 |
 | 58 | [空と海の詩](https://open.spotify.com/track/0KJiMu4yueVH0gIgpCnYfU) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 2:00 |
 | 59 | [桜花抄](https://open.spotify.com/track/5vgbpz9DQTLPa91f0wxUOH) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 4:51 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 61 | [きみのこえ](https://open.spotify.com/track/4K1MF8LEThwlvklwxvobLN) | [ハート](https://open.spotify.com/artist/7pmcLNwJyf09QTxgqZRk0z) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/59CGpIQ02102FKPMemsKtr) | 5:36 |
 | 62 | [メインテーマ](https://open.spotify.com/track/5ynaMlHUTnUwcKQQ2wgRdk) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1) | 1:28 |
 | 63 | [雲のむこう、約束の場所](https://open.spotify.com/track/2TVZyozGqvsbpcYfptk3nJ) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1) | 3:58 |
-| 64 | [THROUGH THE YEARS AND FAR AWAY\(劇中version\)](https://open.spotify.com/track/0SCZSOB5XrOon6ZHP6eY18) | [Low](https://open.spotify.com/artist/6UY0ZhbmOUWnNPmlDaQsjG) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/5oTXx8twYo5f82j3tFEPzD) | 3:37 |
+| 64 | [THROUGH THE YEARS AND FAR AWAY（劇中version）](https://open.spotify.com/track/0SCZSOB5XrOon6ZHP6eY18) | [Low](https://open.spotify.com/artist/6UY0ZhbmOUWnNPmlDaQsjG) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/5oTXx8twYo5f82j3tFEPzD) | 3:37 |
 | 65 | [The voices of distant star ～PREVIEW～](https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf) | 1:11 |
 | 66 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 |
 

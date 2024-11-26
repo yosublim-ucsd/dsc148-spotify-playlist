@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-241 songs - 18 hr 43 min
+242 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Kill This Love \- Live](https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 3:11 | 2023-08-18 |  |
 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 | 2022-04-14 |  |
 | [Land Of Confusion \- Live From Helsinki,Finland/2007](https://open.spotify.com/track/79q1innJON7NybaUwagqpv) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Live Over Europe 2007](https://open.spotify.com/album/6DviLZLFXtlqsNysPchTuU) | 5:11 | 2022-04-14 | 2022-07-29 |
-| [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 8:06 | 2022-04-14 |  |
+| [last night's mascara \- live from Short n' Sweet Tour](https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara \(live from Short n' Sweet Tour\)](https://open.spotify.com/album/2RyExw05UDb33LK7uoz302) | 2:45 | 2024-11-25 |  |
+| [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 8:06 | 2022-04-14 | 2024-11-26 |
 | [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 8:06 | 2023-09-01 | 2024-04-19 |
 | [Leave a Light on \(Live at Indigo at the O2, London, 13/10/2017\)](https://open.spotify.com/track/41jjFXH6MJ0taltgtXXsP6) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Leave a Light on \(Live at Indigo at the O2, London, 13/10/2017\)](https://open.spotify.com/album/0jQthGUuCRr3WA3v3iYdw8) | 4:33 | 2022-04-14 | 2022-07-29 |
 | [Leave a Light on \(Live at Indigo at the O2, London, 13/10/2017\)](https://open.spotify.com/track/4NCZKdCLPo7ZJ9R2xueItL) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [The Heaven on Earth Tour](https://open.spotify.com/album/6yjlSS4enVYWCgTx7g54jL) | 4:33 | 2022-04-29 | 2022-07-25 |

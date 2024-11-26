@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 34015,
+  "num_followers": 34030,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LtaWoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtfoIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-22 13:57:12",
@@ -170,6 +170,10 @@
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
       "duration_ms": 218701,

@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: MXFRUIT
 
-607 songs - 1 day 12 hr 2 min
+608 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 | 2024-09-13 |
 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-10-31 |  |
-| [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 |  |
+| [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 | 2024-11-26 |
 | [TRAP U](https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [TRAP U](https://open.spotify.com/album/4I17f75qSQFip4K3R8s9dg) | 4:24 | 2024-08-29 | 2024-11-01 |
 | [TRY](https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [TRY](https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa) | 3:32 | 2024-04-04 | 2024-04-19 |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
@@ -347,6 +347,7 @@
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/5ozsFNcATFgJUXSdi6fxrf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/6RGRYegVNxklqsZR0x4yDp) | 3:39 | 2022-07-28 | 2022-08-26 |
 | [พูดน้อย \(เพราะชอบเธอไม่ใช่น้อย\) \- Speechless](https://open.spotify.com/track/68FRyAbUdIDv4bXAORiY2W) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [พูดน้อย \(เพราะชอบเธอไม่ใช่น้อย\) \[Speechless\]](https://open.spotify.com/album/3tuJL3tnAUJgyosMUzS21d) | 3:42 | 2023-10-19 | 2023-11-10 |
 | [พูดได้ไหม \(Let Me Tell You\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/2U1hTTT8zpG58iAlcjCPGg) | 3:29 | 2023-03-02 | 2023-03-10 |
+| [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/track/0OnFk90WfcNXqhIHUGLwXO) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/album/5WJgXFFKfnAid6JGwECYOQ) | 3:54 | 2024-11-25 |  |
 | [พูดไม่ออก \(Mute\)](https://open.spotify.com/track/18PwDfOlpsz2PvGU1SXV7Q) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [พูดไม่ออก \(Mute\)](https://open.spotify.com/album/5Wq6kTJU9h1F2GgJifHOZ7) | 3:11 | 2023-09-28 | 2023-11-03 |
 | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/track/51XcWthCJU8nY22ARPHav8) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/album/3VU3OpwYZ5zpqE74jPzTcy) | 2:59 | 2023-02-10 | 2023-02-17 |
 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 | 2024-03-14 | 2024-03-27 |

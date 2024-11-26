@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,582 likes - 138 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,585 likes - 138 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 41 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
 | 42 | [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 |
 | 43 | [Palmaille](https://open.spotify.com/track/47IaIWJmpBCbksEiCtXlg7) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Palmaille](https://open.spotify.com/album/0K6JSOVeSDT93tjITOl6TZ) | 1:37 |
-| 44 | [Grand\-père le pirate](https://open.spotify.com/track/2mbliew6kCBxW2OJ8lUKJW) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [Grand\-père le pirate](https://open.spotify.com/album/6u0GZoQ3sru1NkWWJSy74s) | 1:50 |
+| 44 | [Grand\-père le pirate](https://open.spotify.com/track/2mbliew6kCBxW2OJ8lUKJW) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [Grand\-père le pirate](https://open.spotify.com/album/6u0GZoQ3sru1NkWWJSy74s) | 1:50 |
 | 45 | [Ker Yegu](https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker Yegu](https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt) | 4:34 |
 | 46 | [Les Pillow Sisters sans électronique](https://open.spotify.com/track/2vMA9FuXiwliJqwDyo18UI) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Les Pillow Sisters sans électronique](https://open.spotify.com/album/2G6iQn1DCLgcLiA6hmRA2T) | 2:47 |
 | 47 | [Retracing Home](https://open.spotify.com/track/7McxawbM1mYYoeyjRHJYxY) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 5:11 |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa J\. Karjalainen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,785 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,784 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 |
-| 2 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
-| 3 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
-| 4 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
-| 5 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
-| 6 | [salaisuutes](https://open.spotify.com/track/6xvc1O8WYsU6BerNd7kwTL) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [salaisuutes](https://open.spotify.com/album/4yxsJkx44tv5Mm0IV84yfj) | 2:16 |
-| 7 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
-| 8 | [Mary Ann](https://open.spotify.com/track/4ujuS5LvHAwF8A9KfRSK39) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Mary Ann](https://open.spotify.com/album/1zqVVGv1axNYVWsy39xiBV) | 2:07 |
-| 9 | [Yhdet liikaa](https://open.spotify.com/track/4GWh5r8RgOMtwWpGlmQT4x) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Yhdet liikaa](https://open.spotify.com/album/6xDS4ftSPTKy0qxjWm5Vfc) | 3:35 |
+| 1 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
+| 2 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 3 | [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 |
+| 4 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
+| 5 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
+| 6 | [Yhdet liikaa](https://open.spotify.com/track/4GWh5r8RgOMtwWpGlmQT4x) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Yhdet liikaa](https://open.spotify.com/album/6xDS4ftSPTKy0qxjWm5Vfc) | 3:35 |
+| 7 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
+| 8 | [salaisuutes](https://open.spotify.com/track/6xvc1O8WYsU6BerNd7kwTL) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [salaisuutes](https://open.spotify.com/album/4yxsJkx44tv5Mm0IV84yfj) | 2:16 |
+| 9 | [Mary Ann](https://open.spotify.com/track/4ujuS5LvHAwF8A9KfRSK39) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Mary Ann](https://open.spotify.com/album/1zqVVGv1axNYVWsy39xiBV) | 2:07 |
 | 10 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
 | 11 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
 | 12 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 |
 | 80 | [Jätkän humppa](https://open.spotify.com/track/0tBzPIIuAFNtFPUALFHf73) | [Korpi](https://open.spotify.com/artist/3nYmoJdWrdcipVu77SiZps) | [Jätkän humppa](https://open.spotify.com/album/1acHgIkgfloIJKkrpiVBeU) | 2:35 |
 
-Snapshot ID: `Zz+tnAAAAABCCmpkcbMkFuIVvm4QFF1i`
+Snapshot ID: `Z0SZywAAAABy7AiAMZaI8POohKhKGVLl`

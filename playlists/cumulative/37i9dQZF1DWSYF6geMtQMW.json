@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 131803,
       "name": "BA DA BING",
       "url": "https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI"
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -904,7 +926,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 196310,
       "name": "\u05d7\u05d5\u05de\u05e8 \u05de\u05de\u05db\u05e8",
       "url": "https://open.spotify.com/track/2vR9gmLutur2qzskoEcYna"
@@ -962,6 +984,32 @@
       "duration_ms": 202000,
       "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0\u05d1\u05d0 \u05e9\u05dc\u05d9 \u05d9\u05e9 \u05e1\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/76ohIksFNoUs7r3s4IbBeh"
+      },
+      "artists": [
+        {
+          "name": "\u05d5\u05ea\u05df \u05d7\u05dc\u05e7\u05e0\u05d5",
+          "url": "https://open.spotify.com/artist/6Odeor35vCn3mr7VIiqIiq"
+        },
+        {
+          "name": "Amir Benayoun",
+          "url": "https://open.spotify.com/artist/4wIMqGM5IPTDNFLUGxvWkK"
+        },
+        {
+          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
+          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224526,
+      "name": "\u05dc\u05d0\u05d1\u05d0 \u05e9\u05dc\u05d9 \u05d9\u05e9 \u05e1\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/4wynpm7WtwueimncaeNp6I"
     },
     {
       "album": {
@@ -1269,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d5\u05e3 \u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225046,
+      "name": "\u05e1\u05d5\u05e3 \u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn"
       },
@@ -1530,7 +1596,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 175000,
       "name": "\u05e8\u05e7 \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1KMT5j1608afIjko14UBNP"

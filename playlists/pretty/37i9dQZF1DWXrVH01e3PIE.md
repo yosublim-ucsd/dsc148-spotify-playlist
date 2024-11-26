@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > YSY A en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,466 likes - 103 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,493 likes - 103 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

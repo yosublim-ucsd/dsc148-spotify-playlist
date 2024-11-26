@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: FLO
 
-1,359 songs - 2 day 20 hr 58 min
+1,361 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2024-11-15 |
 | [Forward Motion \- Original](https://open.spotify.com/track/4wrrjT0SKCv2Edoqj6M74K) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Forward Motion](https://open.spotify.com/album/6Nt79d5qlmaomNePah92jP) | 5:26 | 2023-09-16 | 2023-09-19 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-25 | 2022-03-11 |
-| [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-10 |  |
+| [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-10 | 2024-11-26 |
 | [FREE SLIME / SEXY GIRLS](https://open.spotify.com/track/4KzbUS6vwCexTYH7JZgAOy) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FREE SLIME / SEXY GIRLS](https://open.spotify.com/album/6AJW9zpQPn7MOgxky2YeEB) | 4:25 | 2023-07-27 | 2023-09-08 |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-07-27 | 2023-08-18 |
 | [Frenches](https://open.spotify.com/track/6i9JtGfEJmQuz2aftQsgT1) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA) | [Frenches](https://open.spotify.com/album/2GJsauhPIzgi871o1r1qK6) | 3:00 | 2022-07-14 | 2022-09-23 |
@@ -513,6 +513,7 @@
 | [Heaven or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-09 | 2024-04-19 |
 | [Heist](https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Lost Files](https://open.spotify.com/album/01qB0DsD06IlN8dm8x8eLQ) | 3:34 | 2023-11-17 | 2024-01-26 |
 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 | 2022-07-14 | 2022-09-10 |
+| [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-25 |  |
 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 | 2023-11-10 | 2024-02-02 |
 | [Hide & Seek](https://open.spotify.com/track/6EDz39y5ILQfCt1E3vNg3n) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Alpha House / Hide & Seek](https://open.spotify.com/album/6ptUXOnSBYwWPbRM0x4f9f) | 3:51 | 2022-02-25 | 2022-03-04 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2023-02-25 |
@@ -714,6 +715,7 @@
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-10 | 2024-02-16 |
 | [LSW](https://open.spotify.com/track/4HYYvnNZg3sZCGr0NkS8S1) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LSW](https://open.spotify.com/album/2knHvyFM8HCBs3KCM8Om9k) | 2:14 | 2022-06-03 | 2022-06-17 |
 | [Lucious](https://open.spotify.com/track/1c90f63JrnaQZxKBdJdbPn) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Lucious](https://open.spotify.com/album/73UXINJanT7sabQxcbL2Am) | 3:18 | 2022-09-09 | 2022-10-23 |
+| [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-25 |  |
 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 | 2023-10-19 | 2024-01-12 |
 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 | 2023-11-17 | 2024-01-26 |
 | [Mad Dawgs](https://open.spotify.com/track/3kEgs2Z7fv0IUxBtTjnAyl) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Mad Dawgs](https://open.spotify.com/album/6vFcul1OLKllwf1UTfgwKs) | 2:14 | 2023-09-22 | 2023-11-18 |

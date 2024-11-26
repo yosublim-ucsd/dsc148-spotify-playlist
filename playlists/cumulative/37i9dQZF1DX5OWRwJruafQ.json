@@ -4889,6 +4889,32 @@
     },
     {
       "album": {
+        "name": "Jaahli Note",
+        "url": "https://open.spotify.com/album/3rELBAZu5Qa06YaSNSt6Jf"
+      },
+      "artists": [
+        {
+          "name": "GKhan",
+          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Mahi Sharma",
+          "url": "https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184727,
+      "name": "Jaahli Note",
+      "url": "https://open.spotify.com/track/0fZdVoavYTc9d4Yb0ZArnk"
+    },
+    {
+      "album": {
         "name": "Jaan",
         "url": "https://open.spotify.com/album/3N87c6BhUiUYqIsz8xKhZ7"
       },

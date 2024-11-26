@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-812 songs - 1 day 10 hr 52 min
+813 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-23 |  |
 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-09-23 | 2024-01-03 |
 | [Ache](https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Ache](https://open.spotify.com/album/32HmaNE93uxhghyiJFIZmP) | 2:24 | 2021-12-13 | 2022-10-14 |
+| [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 | 2024-11-25 |  |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-20 | 2024-02-13 |
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2022-01-18 | 2022-12-22 |
 | [Adaptation](https://open.spotify.com/track/01skgeWTKAdGTKtgNyS1BC) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Adaptation](https://open.spotify.com/album/3W36IZRNb6SMGFFkOqQmkv) | 3:01 | 2021-12-13 | 2022-05-27 |
@@ -243,7 +244,7 @@
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2021-12-13 | 2022-12-22 |
 | [Eventus Memoria](https://open.spotify.com/track/4fGktu4RYSYuF05at1ToLu) | [Adelaide Fleur](https://open.spotify.com/artist/4Na9Ks6Pua1oqm1kv3qGum) | [Eventus Memoria](https://open.spotify.com/album/6RDIJwN77xFkVrkHelxNUW) | 2:07 | 2022-12-05 |  |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2021-12-13 | 2024-03-26 |
-| [Everything Is You](https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Everything Is You](https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY) | 3:22 | 2023-02-27 |  |
+| [Everything Is You](https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Everything Is You](https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY) | 3:22 | 2023-02-27 | 2024-11-26 |
 | [Expecting](https://open.spotify.com/track/5IZkV8mhcxxFyLduTPtnw0) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Expecting](https://open.spotify.com/album/7cEaMylwXOO3NopOoGlzvJ) | 2:38 | 2021-12-13 | 2022-07-22 |
 | [Expecting](https://open.spotify.com/track/4ONnpRLMllzCj31t12QCaT) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Expecting](https://open.spotify.com/album/18cBfSx9THaio8UlONjJBj) | 1:55 | 2023-03-13 | 2023-08-22 |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-02 |  |
@@ -816,7 +817,7 @@
 | [You've awakened me](https://open.spotify.com/track/7oMTdu5RSdESB6XbkDMpeG) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [You've awakened me](https://open.spotify.com/album/7o0cfnB2UbPp90t72z4ury) | 2:20 | 2023-08-21 |  |
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2021-12-13 | 2023-06-15 |
 | [Zašto](https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW) | [Suzana Tomić](https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL) | [Zašto](https://open.spotify.com/album/6ruV80tj4ul5kL8hbjYZI0) | 2:19 | 2022-10-13 | 2024-04-04 |
-| [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 |  |
+| [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 | 2024-11-26 |
 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 |  |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2022-07-28 | 2022-10-25 |
 | [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-13 | 2022-07-29 |

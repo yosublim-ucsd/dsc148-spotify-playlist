@@ -131,24 +131,6 @@
     },
     {
       "album": {
-        "name": "Greatest Hits 2011 2017 Alter Ego",
-        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "date_added": "2022-07-14",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 187213,
-      "name": "Departures Anata Ni Okuru Ai No Uta (Acoustic Version) - 2017 Remastered",
-      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
-    },
-    {
-      "album": {
         "name": "Extra Terrestrial Biological Entities",
         "url": "https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F"
       },
@@ -239,6 +221,42 @@
     },
     {
       "album": {
+        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
+        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08Acoustic Ver.\uff09 (from BEST AL\u201cALTER EGO\u201d)",
+      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
+    },
+    {
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95333,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
+      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+    },
+    {
+      "album": {
         "name": "Departures - Anata Ni Okuru Ai No Uta",
         "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 95506,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
       "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 324066,
       "name": "Ghost of a smile -Instrumental-",
       "url": "https://open.spotify.com/track/2kTIkgJpJHrNNMdE9kZjNj"

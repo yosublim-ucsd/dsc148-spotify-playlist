@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-2,072 songs - 3 day 20 hr 23 min
+2,073 songs - 3 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:18 | 2022-11-18 | 2022-12-03 |
 | [2 Name](https://open.spotify.com/track/24CM98kAG2vgb0gYB58oso) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [2 Name](https://open.spotify.com/album/7q9D5uslB8VArX4M3Aq5CZ) | 1:40 | 2023-09-01 | 2023-09-16 |
 | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/7nfkuao1AhviRSUU5BXpYQ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/album/7cBXapGzVCQsld2gtyhCBG) | 2:39 | 2024-07-27 |  |
+| [2+2](https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [2+2](https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV) | 3:25 | 2024-11-25 |  |
 | [20 Min](https://open.spotify.com/track/19AhClvBOL7mzjTlYsfbfw) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [20 Min](https://open.spotify.com/album/0eB3S5NOj4OGWOILkr7uOH) | 1:25 | 2024-07-27 |  |
 | [2016](https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Same Ole Bizzy](https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs) | 2:42 | 2022-12-16 | 2023-02-18 |
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-07-28 | 2023-10-21 |
@@ -469,7 +470,7 @@
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 | 2021-12-26 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-27 | 2022-09-10 |
 | [Different](https://open.spotify.com/track/2l5WPsV6FPChUFVzFx7hJQ) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4) | [Different](https://open.spotify.com/album/4B0k2ugCAjuBiWbk82P6NZ) | 1:49 | 2022-04-15 | 2022-06-04 |
-| [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 | 2024-09-20 |  |
+| [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 | 2024-09-20 | 2024-11-26 |
 | [Different Goals](https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Different Goals](https://open.spotify.com/album/0fWDgzqcJIOy5bcsBgyCIt) | 2:29 | 2023-09-08 | 2023-09-30 |
 | [Dior Store](https://open.spotify.com/track/0FWnQtQEkeTzgqVvd23VCV) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [The Collection](https://open.spotify.com/album/45IjS6hcKPro3aEeOgwThD) | 3:09 | 2022-06-03 | 2022-06-18 |
 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 | 2022-08-19 | 2022-10-01 |

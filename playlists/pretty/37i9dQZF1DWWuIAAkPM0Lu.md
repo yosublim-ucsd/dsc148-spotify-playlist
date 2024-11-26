@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...en smooth Bossanova flirt er cooking ❤️‍🔥<a href="spotify:artist:2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a>❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,604 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,597 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

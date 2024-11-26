@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,414 likes - 86 songs - 4 hr 15 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,414 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 84 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/6qwKim3TjZJYL7qtLveRjf) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1qxVnaGvYE6fJYafoqlabj) | 2:59 |
 | 85 | [Superstar](https://open.spotify.com/track/0r5pBTXatUyaDpHyFfL5Tx) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd) | [Superstar](https://open.spotify.com/album/1UIOQjRNLUFmEddI7OczSu) | 3:00 |
 | 86 | [Hands On Me](https://open.spotify.com/track/28U1yepoE6kr24dhqw38Ud) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq), [All Cane](https://open.spotify.com/artist/2UpaFH42coV1qhfMKaDiL9) | [Hands On Me](https://open.spotify.com/album/41eUxjvUsVteNG4PzXyHjF) | 2:36 |
+| 87 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |
+| 88 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 |
 
-Snapshot ID: `AAAKIa3Nm2/k6WRuiSjUPVvgnURXWiG1`
+Snapshot ID: `AAAKIzzvPz9eqPku8ek1jqm1VMPmR9kx`

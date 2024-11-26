@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-269 songs - 14 hr 49 min
+270 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 | 2021-12-24 |  |
 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/4qBejt9FeqLI9blHI1Nq1x) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:39 | 2021-12-24 |  |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 | 2021-12-24 |  |
-| [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5uc4qE5jfadE9BM5fWU0oI) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:22 | 2023-12-07 |  |
+| [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5uc4qE5jfadE9BM5fWU0oI) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:22 | 2023-12-07 | 2024-11-26 |
 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 | 2022-11-11 | 2023-12-08 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-24 | 2022-10-26 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-24 |  |
@@ -188,6 +188,7 @@
 | [Perfect Holiday](https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/3BvrInE7zjaCeJHke6V00J) | 3:13 | 2021-12-24 | 2022-10-23 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Please Come Home for Christmas](https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9) | 2:57 | 2021-12-24 | 2022-10-26 |
 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 | 2021-12-24 |  |
+| [Please Santa Please](https://open.spotify.com/track/2eesOzilqjDBePl9nSiUoz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Please Santa Please](https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7) | 3:17 | 2024-11-25 |  |
 | [Please Santa Please](https://open.spotify.com/track/398egUWDwedHWTPQmlel9E) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:17 | 2023-11-20 | 2024-10-19 |
 | [Ring Out The Bells](https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Ring Out The Bells](https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn) | 3:59 | 2022-11-11 | 2023-10-28 |
 | [Ring Out The Bells](https://open.spotify.com/track/51ENvfID6cZE2i08sqy7as) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night \(The Cozy Edition\)](https://open.spotify.com/album/1EcCxcRK4DX7ol3JrvxKOs) | 3:59 | 2023-11-17 |  |

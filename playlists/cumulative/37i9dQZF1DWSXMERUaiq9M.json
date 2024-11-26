@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 331609,
       "name": "All Of It",
       "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
@@ -6166,6 +6166,24 @@
       "duration_ms": 201650,
       "name": "Shake For Me, Dance For Me",
       "url": "https://open.spotify.com/track/4glTWtWx78n6xjHWh8HFb1"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "album": {

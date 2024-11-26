@@ -1109,7 +1109,7 @@
     },
     {
       "album": {
-        "name": "UNDER:COVER",
+        "name": "UNDER\uff1aCOVER",
         "url": "https://open.spotify.com/album/3znmLzx9wimdLrSnu1MD5R"
       },
       "artists": [
@@ -1127,7 +1127,7 @@
     },
     {
       "album": {
-        "name": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2 -crystalized-",
+        "name": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2\u3000-crystalized-",
         "url": "https://open.spotify.com/album/5JhONeB41irLN6oHc1r3I6"
       },
       "artists": [
@@ -1271,7 +1271,7 @@
     },
     {
       "album": {
-        "name": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "name": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF"
       },
       "artists": [

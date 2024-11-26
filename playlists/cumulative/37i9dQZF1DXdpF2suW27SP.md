@@ -4,7 +4,7 @@
 
 > Guga entra na zona.
 
-678 songs - 1 day 12 hr 3 min
+679 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-16 | 2023-01-20 |
 | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/track/6y7gYOHjUbj0HdTx5iGDuI) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/album/7kyvtUprGFS8S2poWsYtEt) | 3:15 | 2022-12-02 | 2023-12-14 |
 | [Praça Onze](https://open.spotify.com/track/0hMUCxx0QJfxOmWq7D5oi0) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/6BBDRshfbJrNM9yJJSZhPD) | 4:23 | 2023-05-11 | 2023-12-14 |
-| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 |  |
+| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 | 2024-11-26 |
 | [Praça Onze](https://open.spotify.com/track/6uY21EQEwRsEWiHeYggvOe) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:23 | 2023-12-08 | 2024-04-19 |
 | [Preço](https://open.spotify.com/track/5sMRW0YQaamnnSDok5EEvj) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq) | [Preço](https://open.spotify.com/album/6bU9EUg8WgzYif0lbeoQ2w) | 3:30 | 2023-11-10 | 2023-12-14 |
 | [Preço](https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2), [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Preço](https://open.spotify.com/album/0ErHkdC4omVhUWM5syHNe9) | 3:15 | 2022-11-04 | 2023-01-06 |
@@ -680,6 +680,7 @@
 | [Zero Sentimentos](https://open.spotify.com/track/0uwRg1k8wUQiCeSsztoGDE) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Zero Sentimentos](https://open.spotify.com/album/45XnSpBKMBfhda0PX0drw0) | 3:30 | 2024-04-18 | 2024-06-07 |
 | [ZONA VIP](https://open.spotify.com/track/1N5QYK8cHKeP8jNTacR5xX) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [ZONA VIP](https://open.spotify.com/album/3zqgPrVEwFEdAl4hs6ekNI) | 3:47 | 2024-03-08 | 2024-04-19 |
 | [À Vontade](https://open.spotify.com/track/6tt9gbrs55be5KgeBqd7co) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [Modo Superstar](https://open.spotify.com/album/3knxREXKQ0Ku1vFMmd2JgR) | 2:23 | 2024-03-01 | 2024-09-13 |
+| [Água do Crime](https://open.spotify.com/track/25UEoprN5VsvSzdFX3wBO5) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Água do Crime](https://open.spotify.com/album/1dHxlHBIODoGqxsf7hYMK6) | 3:24 | 2024-11-25 |  |
 | [Ávontadi](https://open.spotify.com/track/7pLHh6ePIP1hgQxVUkrzac) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Zirio](https://open.spotify.com/artist/0Xy3jsLhph06j8nYJInhTz) | [Ávontadi](https://open.spotify.com/album/4ZGB1bvAzuJehYRUGPJINd) | 3:09 | 2023-09-21 | 2023-12-14 |
 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-07-16 | 2022-10-28 |
 | [É Verdade](https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [É Verdade](https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw) | 3:29 | 2023-03-03 | 2023-04-28 |

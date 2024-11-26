@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
-  "num_followers": 42785,
+  "num_followers": 42799,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Seul au monde (feat. Soolking)",
-        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
       },
       "artists": [
         {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 180361,
-      "name": "Seul au monde (feat. Soolking)",
-      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -459,18 +455,42 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "penelope",
-        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
       },
       "artists": [
         {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 194902,
-      "name": "penelope",
-      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "1 Minute",
+        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "1 Minute",
+      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -539,26 +559,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "1 Minute",
-        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "1 Minute",
-      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "LA VIE CONTINUE",
         "url": "https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Chacun son chacun",
         "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
@@ -627,18 +643,42 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Chaque seconde (Edition deluxe)",
-        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+        "name": "STACKS",
+        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Adieu, nous deux",
-      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+      "duration_ms": 220160,
+      "name": "STACKS",
+      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "En rapide",
+      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -663,42 +703,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "La v\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 140583,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "STACKS",
-        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "STACKS",
-      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Obrigado",
         "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
       },
@@ -711,26 +715,6 @@
       "duration_ms": 139416,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "soleil",
-        "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        {
-          "name": "P3GASE",
-          "url": "https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe"
-        }
-      ],
-      "duration_ms": 159377,
-      "name": "soleil",
-      "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -755,18 +739,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ah les crocodiles",
-        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
+        "name": "La v\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Ah les crocodiles",
-      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
+      "duration_ms": 140583,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "soleil",
+        "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "P3GASE",
+          "url": "https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe"
+        }
+      ],
+      "duration_ms": 159377,
+      "name": "soleil",
+      "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -803,42 +807,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "CAPITALE DU CRIME RADIO",
-        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
+        "name": "Ah les crocodiles",
+        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
       },
       "artists": [
         {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 154285,
-      "name": "En rapide",
-      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Des rires et des pleurs",
-        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "No stress",
-      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+      "duration_ms": 165386,
+      "name": "Ah les crocodiles",
+      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 172000,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
     },
     {
       "added_at": "2024-11-22 05:00:00",

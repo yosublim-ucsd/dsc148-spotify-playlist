@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Leonie Biney
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,939 likes - 214 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,937 likes - 214 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

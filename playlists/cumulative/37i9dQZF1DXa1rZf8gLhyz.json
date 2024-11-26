@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Between the Streets",
+        "url": "https://open.spotify.com/album/3cRol0xoRVAjQRUfi12Uo2"
+      },
+      "artists": [
+        {
+          "name": "Novo Alonso",
+          "url": "https://open.spotify.com/artist/5CswSV6SeGqATyFK4cEUqg"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180005,
+      "name": "Between the Streets",
+      "url": "https://open.spotify.com/track/7H89YncjtSi7kxi4ZiO7zq"
+    },
+    {
+      "album": {
         "name": "Bewitched, Bothered and Bewildered",
         "url": "https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP"
       },
@@ -4631,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "In the middle of the night",
+        "url": "https://open.spotify.com/album/4UoJK5IO5khsCtJtcQiWIW"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "In the middle of the night",
+      "url": "https://open.spotify.com/track/2af2UPhdEtudXa3Ge4VfeD"
+    },
+    {
+      "album": {
         "name": "In the Still of the Night",
         "url": "https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S"
       },
@@ -7396,7 +7432,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 141500,
       "name": "Poor Butterfly",
       "url": "https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X"
@@ -8268,6 +8304,24 @@
       "duration_ms": 156243,
       "name": "Snap of a finger",
       "url": "https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS"
+    },
+    {
+      "album": {
+        "name": "So Much More At Stake",
+        "url": "https://open.spotify.com/album/6uBIRDL7z4V1xP8wJ2bODC"
+      },
+      "artists": [
+        {
+          "name": "Wayne Buckley",
+          "url": "https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170757,
+      "name": "So Much More At Stake",
+      "url": "https://open.spotify.com/track/6s9qtZYThBMktqaG2QfDw9"
     },
     {
       "album": {

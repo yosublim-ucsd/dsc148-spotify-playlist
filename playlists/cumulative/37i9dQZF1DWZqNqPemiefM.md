@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-667 songs - 2 day 3 hr 59 min
+668 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Levitate](https://open.spotify.com/track/7EMteO0dlSLubgeYbTplsO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [made in bebe.](https://open.spotify.com/album/3qD9pj02W8jjatkBXnpLX6) | 4:10 | 2022-04-26 | 2022-07-27 |
 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 | 2024-02-08 | 2024-08-23 |
 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 | 2022-04-07 | 2024-02-09 |
-| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 |  |
+| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 | 2024-11-26 |
 | [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 | 2023-11-24 |
 | [Lipsynch](https://open.spotify.com/track/1FOyi1kvs83OApHPPtPlqv) | [Kazumichi Komatsu](https://open.spotify.com/artist/3yUHV7CvOnKXqZ3D4KB0C9) | [Emboss Star](https://open.spotify.com/album/1M3z7GjsBnhtk1wfIUTK96) | 2:34 | 2022-03-31 | 2022-07-08 |
 | [Little Song at Little Time](https://open.spotify.com/track/42Syy15FClLY4OIb9EW6DV) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Light in August, Later](https://open.spotify.com/album/5DC0TO8peA6IGhux6OMyCz) | 4:41 | 2022-04-07 | 2022-04-19 |
@@ -600,6 +600,7 @@
 | [Utano](https://open.spotify.com/track/3ybZjIcq1JIYLoc88xEfDe) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 4:15 | 2022-03-31 | 2022-07-29 |
 | [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 | 2024-02-08 | 2024-02-28 |
 | [Vanished Garden](https://open.spotify.com/track/3iScMPhH2AjZ0YwFpyUx3z) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Invisible Island](https://open.spotify.com/album/2AoNiTLj9aTVAn7FU0VQ8P) | 3:13 | 2022-04-07 | 2022-06-28 |
+| [Vapors](https://open.spotify.com/track/36IKYrCq4bWJAI2NHbQRlI) | [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6) | [4 \| 2 \| 3](https://open.spotify.com/album/3eqCTYlnPPoRVtq9039lkT) | 2:29 | 2024-11-15 |  |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 | 2024-02-09 |
 | [View 4](https://open.spotify.com/track/1yaOmrXya2YvrVk6ypnnlW) | [COMPUMA](https://open.spotify.com/artist/3FoF5nY23QZfvFlrOAmb5f) | [A View](https://open.spotify.com/album/6zWAv8ROkziYVAbhCSiTiR) | 4:34 | 2023-03-01 | 2023-04-21 |

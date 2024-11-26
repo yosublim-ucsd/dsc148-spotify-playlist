@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Kf6RONZ3Raueyz2jlsKnYA\">Wizkid</a>",
-  "num_followers": 106086,
+  "num_followers": 106131,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AkewAAAACGLhZxx60EuICnmOxFH7et",
+  "snapshot_id": "Z0QqlgAAAAAW6x22JHOoM5KX92zBuwYZ",
   "tracks": [
     {
       "added_at": "2024-11-21 22:00:00",
@@ -265,28 +265,32 @@
       "url": "https://open.spotify.com/track/3pBXGBdrpugqgqPQc7dzKi"
     },
     {
-      "added_at": "2024-11-21 22:00:00",
+      "added_at": "2024-11-25 07:43:18",
       "album": {
-        "name": "Sthandwa Sam",
-        "url": "https://open.spotify.com/album/5CqELzH2sRFn6cj9dId6b3"
+        "name": "Hit Factory",
+        "url": "https://open.spotify.com/album/02xqlv14S1HkKwfVcyVKwA"
       },
       "artists": [
         {
-          "name": "Genesis 99",
-          "url": "https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX"
-        },
-        {
-          "name": "Brightness",
-          "url": "https://open.spotify.com/artist/6lP1TZWvL5uDrfdd6Ltsh2"
-        },
-        {
           "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/5NjCXFVJ72QUzqYPd6oPEz"
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/5oEGngZTsEKSaImCUNERCR"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5"
         }
       ],
-      "duration_ms": 419317,
-      "name": "Sthandwa Sam",
-      "url": "https://open.spotify.com/track/7ArSWQyK8hluBei4bzMdqO"
+      "duration_ms": 406117,
+      "name": "Walala Wasala",
+      "url": "https://open.spotify.com/track/3onnz3CntBG38zD7OulQ92"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -623,38 +627,6 @@
       "duration_ms": 393685,
       "name": "Mlenze (feat. Tman Xpress & Kamza HeavyPoint)",
       "url": "https://open.spotify.com/track/7lkjeP9URiDtYghNlQtzmb"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/6lyck37ShZdY8DJooTpCMq"
-      },
-      "artists": [
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        },
-        {
-          "name": "Groove Terminator",
-          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Don*7",
-          "url": "https://open.spotify.com/artist/3npa7tEJpQSEE80Vb1L2Wn"
-        },
-        {
-          "name": "De confident DJ",
-          "url": "https://open.spotify.com/artist/1J5KlqGl8ibNwqCbh8LrRk"
-        }
-      ],
-      "duration_ms": 431340,
-      "name": "Children - Don*7 & De Confident DJ Remix",
-      "url": "https://open.spotify.com/track/6aZuPGUbSOH8bBY3pBMcBS"
     },
     {
       "added_at": "2024-11-21 22:00:00",

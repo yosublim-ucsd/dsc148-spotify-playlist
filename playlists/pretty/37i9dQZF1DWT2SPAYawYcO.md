@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,371 likes - 109 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,378 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 108 | [Seventeen](https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Seventeen](https://open.spotify.com/album/69RbJjVaNSYD8zEtA8M9J1) | 2:58 |
 | 109 | [I Fight Hard](https://open.spotify.com/track/0sX5u8ywg0gA53SXs4Tb16) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41) | [I Fight Hard](https://open.spotify.com/album/0tNg29z85fEgS8Yp4jn6Wm) | 2:37 |
 
-Snapshot ID: `Z0AP0AAAAACt+kCadcSvJJnv/pY3SN9C`
+Snapshot ID: `Z0RHqgAAAAA1Dkn+uvrwZxlSE2pUyCAF`

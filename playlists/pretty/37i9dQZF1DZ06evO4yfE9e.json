@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1932,
+  "num_followers": 1935,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAAplt9qIq4ma6uBUAtyWfLw",
+  "snapshot_id": "Z0JsgAAAAAC6NTFccBPbPQFzV3CPxdab",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lickity Splickity",
+        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Lickity Splickity",
+      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6izarre RAVE (with 6arelyhuman)",
         "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 168000,
       "name": "6izarre RAVE (with 6arelyhuman)",
       "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lickity Splickity",
-        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Lickity Splickity",
-      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
     },
     {
       "added_at": null,

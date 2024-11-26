@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 195000,
       "name": "How Can It Be Christmas",
       "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
@@ -3602,6 +3602,24 @@
       "duration_ms": 223133,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL"
+    },
+    {
+      "album": {
+        "name": "Winter Dream",
+        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Winter Dream",
+      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
     },
     {
       "album": {

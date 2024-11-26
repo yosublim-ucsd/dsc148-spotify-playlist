@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Ela Minus
 
-473 songs - 1 day 6 hr 5 min
+474 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Ghostin'](https://open.spotify.com/track/6GhIDGCeX6GD3aEb7jaj9J) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Coolest In The City](https://open.spotify.com/album/6slqT0LqNWErkUQU22eIY9) | 3:32 | 2024-09-06 |  |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-24 |  |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-12 |  |
+| [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 | 2024-11-25 |  |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 |  |
 | [Giving You](https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Giving You](https://open.spotify.com/album/3rSZJ1Z8oLbisX53IND80e) | 3:29 | 2024-03-01 | 2024-05-25 |
 | [Glistening](https://open.spotify.com/track/7A0I80UN67Ca2jyITyMawh) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Glistening](https://open.spotify.com/album/6xEiInYbttwxio1otemsGq) | 3:06 | 2024-03-01 | 2024-06-25 |
@@ -333,7 +334,7 @@
 | [Poodle Power](https://open.spotify.com/track/4eGE2I4OAH6aOvnirdg5jH) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/3irqFgGYXXDKIZryxbcmGQ) | 6:03 | 2021-03-01 | 2022-07-29 |
 | [Poodle Power \- DJ\-Kicks](https://open.spotify.com/track/5TBec4bs5VxUy3WxL37HJY) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/1So6YhUbOoEtwFKRpW7SUz) | 6:03 | 2022-03-08 | 2023-03-08 |
 | [Power](https://open.spotify.com/track/5CGgG5sXmXFqhF35EnieyO) | [DI SUN](https://open.spotify.com/artist/3XEiW1QhEfeShL5jTcewlA) | [Power](https://open.spotify.com/album/3nYgGtO5jHxOPRp1XZa30G) | 3:22 | 2024-03-01 | 2024-04-19 |
-| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
+| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2024-11-26 |
 | [Pretoria](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Pretoria](https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO) | 3:27 | 2024-06-18 | 2024-09-14 |
 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 | 2024-03-01 | 2024-03-23 |
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-01 | 2024-05-25 |

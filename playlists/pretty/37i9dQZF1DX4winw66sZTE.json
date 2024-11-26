@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 24051,
+  "num_followers": 24065,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "My Last Love OST Part.4",
         "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 195216,
       "name": "Hold my hand",
       "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -819,22 +835,6 @@
       "duration_ms": 212244,
       "name": "Bubble Pop!",
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "BIGBANG Special Edition",
-        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223786,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 282806,
-      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
-      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "KARA 3rd Album STEP",
         "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 203586,
       "name": "STEP",
       "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Let's not fall in love - KR Ver.",
+      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "PRODUCE 101 - 35 Boys 5 Concepts",
         "url": "https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Love Ya",
-      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The Spring of Twenty",
         "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Let's not fall in love - KR Ver.",
-      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
+      "duration_ms": 205506,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1483,6 +1483,22 @@
       "duration_ms": 228080,
       "name": "Erase (feat.Iron)",
       "url": "https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "SOBER - KR Ver.",
+      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "JANUS (1)",
-        "url": "https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP"
-      },
-      "artists": [
-        {
-          "name": "BOYFRIEND",
-          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
-        }
-      ],
-      "duration_ms": 208248,
-      "name": "JANUS",
-      "url": "https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Nitpicking",
         "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+        "name": "JANUS (1)",
+        "url": "https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "BOYFRIEND",
+          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
         }
       ],
-      "duration_ms": 238480,
-      "name": "SOBER - KR Ver.",
-      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
+      "duration_ms": 208248,
+      "name": "JANUS",
+      "url": "https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v"
     },
     {
       "added_at": "2024-08-05 16:58:20",

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57373,
+  "num_followers": 57383,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
         }
       ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
       "artists": [
         {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -815,6 +815,30 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "WELCOME TO WONDAH:LAND",
+        "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
+      },
+      "artists": [
+        {
+          "name": "Wondah",
+          "url": "https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Bomaye",
+      "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L"
       },
@@ -851,6 +875,26 @@
       "duration_ms": 184800,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "W\u00e0s\u00e9r\u00e8",
+        "url": "https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE"
+      },
+      "artists": [
+        {
+          "name": "Shakez Baba",
+          "url": "https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky"
+        },
+        {
+          "name": "Jamz FR",
+          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "W\u00e0s\u00e9r\u00e8",
+      "url": "https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -911,50 +955,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "W\u00e0s\u00e9r\u00e8",
-        "url": "https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE"
-      },
-      "artists": [
-        {
-          "name": "Shakez Baba",
-          "url": "https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky"
-        },
-        {
-          "name": "Jamz FR",
-          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "W\u00e0s\u00e9r\u00e8",
-      "url": "https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "WELCOME TO WONDAH:LAND",
-        "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
-      },
-      "artists": [
-        {
-          "name": "Wondah",
-          "url": "https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Bomaye",
-      "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 192269,
       "name": "Defender",
       "url": "https://open.spotify.com/track/6qP0ZLEdVLpmbDlHS0nDue"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "[escapism]",
-        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "[escapism]",
-      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Escober (feat. Superwozzy)",
         "url": "https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC"
       },
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Drip (Remix)",
-        "url": "https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6"
-      },
-      "artists": [
-        {
-          "name": "GINGO",
-          "url": "https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 140176,
-      "name": "Drip - Remix",
-      "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 208432,
       "name": "BETELGEUSE",
       "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Drip (Remix)",
+        "url": "https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6"
+      },
+      "artists": [
+        {
+          "name": "GINGO",
+          "url": "https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 140176,
+      "name": "Drip - Remix",
+      "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "I Met Nas in a Dream",
-        "url": "https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT"
+        "name": "Girls & Lamba",
+        "url": "https://open.spotify.com/album/2vfPQSrdOOpcKhjOTlanaa"
       },
       "artists": [
         {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
-        },
-        {
-          "name": "Tonee C",
-          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
+          "name": "Steeky",
+          "url": "https://open.spotify.com/artist/6gROVClcGS9TtyHnIJGurd"
         }
       ],
-      "duration_ms": 162089,
-      "name": "I Met Nas in a Dream",
-      "url": "https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc"
+      "duration_ms": 139200,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0pF7FJ5l9IOiMftn6FXbsm"
     }
   ],
   "unique_name": "Naija Bars ",

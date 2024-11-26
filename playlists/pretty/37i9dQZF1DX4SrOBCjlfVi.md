@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BossMan Dlow, Kendrick Lamar, Nicki Minaj, Jack Harlow and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,403 likes - 52 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,542 likes - 52 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

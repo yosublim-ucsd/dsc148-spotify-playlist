@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,728 likes - 119 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,732 likes - 119 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 49 | [SING!!!!!](https://open.spotify.com/track/3a7f747Xv3UGGvRbhKKvpv) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [G20](https://open.spotify.com/album/6YcYx94kcYhcXuumKVrwhU) | 4:13 |
 | 50 | [22世紀への架け橋](https://open.spotify.com/track/7plfrGpD3sEegeTV2WATwG) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Tetsuya Komuro JOBS\#1](https://open.spotify.com/album/24QyMQhx1lxkYfvFG9xsmg) | 4:36 |
 | 51 | [はすっぱ](https://open.spotify.com/track/7cX1R3VUSnX2rPIBNSY2kb) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [万謡集](https://open.spotify.com/album/2iFMzTeny0SdTHzj0oJKD6) | 4:58 |
-| 52 | [おつかれサマー!](https://open.spotify.com/track/5gUiqZwbDPLqPRZtrb4T4S) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [おつかれサマー!](https://open.spotify.com/album/4G5H1O2UYBISiywMPEiTdg) | 4:34 |
+| 52 | [おつかれサマー！](https://open.spotify.com/track/5gUiqZwbDPLqPRZtrb4T4S) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [おつかれサマー！](https://open.spotify.com/album/4G5H1O2UYBISiywMPEiTdg) | 4:34 |
 | 53 | [えびぞりダイアモンド!!](https://open.spotify.com/track/3l9lRw474hlmpgBYvz1L0B) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [エビ中の絶盤ベスト〜おわらない青春〜](https://open.spotify.com/album/1Zryn01YlILizK2SEnZsVC) | 4:28 |
 | 54 | [開雲見日 〜スーパーJチャンネルのテーマ〜](https://open.spotify.com/track/7KDYIIJEHPIULDtabF19T2) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [テレビ朝日「スーパーJチャンネル」2020テーマ曲](https://open.spotify.com/album/3Z2aAAtsS4PcOuunrPyYNe) | 1:12 |
 | 55 | [REASON](https://open.spotify.com/track/3ERIqXHoQnhhiRuQxyjXcL) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [LAND](https://open.spotify.com/album/6HFINxP6sxXmWkzEVMye3F) | 5:04 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. : \u05d0\u05d4\u05d5\u05d3 \u05d1\u05e0\u05d0\u05d9",
-  "num_followers": 30827,
+  "num_followers": 30838,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
         "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 206000,
       "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -951,6 +951,38 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
+        "name": "Goodbye Mary",
+        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Goodbye Mary",
+      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
         "name": "Fix Me Up",
         "url": "https://open.spotify.com/album/3Fhez0srDCcHwcMEPMTE5p"
       },
@@ -975,34 +1007,18 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
+        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
       "artists": [
         {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
         }
       ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "Goodbye Mary",
-        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
-      },
-      "artists": [
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 183331,
-      "name": "Goodbye Mary",
-      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+      "duration_ms": 196914,
+      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
-        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 196914,
-      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
         "name": "\u05d4\u05d1\u05d0 \u05e9\u05e0\u05d5\u05d2\u05e2 \u05d1\u05d9 \u05de\u05ea",
         "url": "https://open.spotify.com/album/7DUxPFr2TgIYc5jdLGBAWS"
       },
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
-        "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
+        "name": "31",
+        "url": "https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Zizi Trippo",
+          "url": "https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci"
+        },
+        {
+          "name": "\u05d2\u05d9\u05d0\u05d2\u05d9\u05d0",
+          "url": "https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ"
         }
       ],
-      "duration_ms": 159679,
-      "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
-      "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
+      "duration_ms": 197866,
+      "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

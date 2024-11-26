@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,103 likes - 249 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,106 likes - 249 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 94 | [Stay Long Love You \(feat\. Gunna\)](https://open.spotify.com/track/397AkOxBC7w8j5J6fVsGk0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:01 |
 | 95 | [One Mo' Gen](https://open.spotify.com/track/7pwAOy7WJBeSBPbH9lXvI8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:25 |
 | 96 | [Babydoll](https://open.spotify.com/track/2Me3nF2ee0DCQ0MXuMxaGj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 5:06 |
-| 97 | [Thirsty](https://open.spotify.com/track/6uK1iGVrmBP6UgsecrTFV3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:25 |
-| 98 | [Fourth of July](https://open.spotify.com/track/1YisXNr4DPHcPB4v5XfQ0t) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:22 |
+| 97 | [Fourth of July](https://open.spotify.com/track/1YisXNr4DPHcPB4v5XfQ0t) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:22 |
+| 98 | [Thirsty](https://open.spotify.com/track/6uK1iGVrmBP6UgsecrTFV3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:25 |
 | 99 | [Boy \(I Need You\)](https://open.spotify.com/track/4vAfVTBWBZ2AP8avoLV0n1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:14 |
 | 100 | [Crybaby \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 5:19 |
 | 101 | [Cry.](https://open.spotify.com/track/61HjlsDWWrPv8XgSBBY1aC) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:48 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 218 | [Heartbreaker / "If You Should Ever Be Lonely" \- Junior's Heartbreaker Club Mix](https://open.spotify.com/track/3Ekhg6QIzoT0rsgd8xFZa8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 10:17 |
 | 219 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 |
 | 220 | [Heat \- Bonus Track](https://open.spotify.com/track/4d59cDM5IT0lq20ndnIs4H) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:34 |
-| 221 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 |
-| 222 | [He Carves The Roast Beast \(Includes 'Welcome Christmas'\)](https://open.spotify.com/track/49FESktMRSRCny8wJmePIc) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How the Grinch Stole Christmas \(Original Motion Picture Soundtrack\) \- Expanded Edition](https://open.spotify.com/album/5UTagyRGjK71V8fzE1Q6XO) | 3:11 |
+| 221 | [He Carves The Roast Beast \(Includes 'Welcome Christmas'\)](https://open.spotify.com/track/49FESktMRSRCny8wJmePIc) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How the Grinch Stole Christmas \(Original Motion Picture Soundtrack\) \- Expanded Edition](https://open.spotify.com/album/5UTagyRGjK71V8fzE1Q6XO) | 3:11 |
+| 222 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 |
 | 223 | [Sprung](https://open.spotify.com/track/1tuOq9faRrIusMELg46ffk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:25 |
 | 224 | [Secret Love](https://open.spotify.com/track/1jpQFCa60KDXScn2ZzvwUq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:10 |
 | 225 | [4real4real \- Bonus Track](https://open.spotify.com/track/7o4yb0AhZFmzsp19mlfiHq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:13 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbiZNAAAAAAgnx8AMRzodee40cAXiTaJ`
+Snapshot ID: `Abie1AAAAADYwMUKIboAanUP9TrqMeOK`

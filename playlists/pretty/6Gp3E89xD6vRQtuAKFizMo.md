@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,245 likes - 223 songs - 10 hr 26 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,246 likes - 223 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Something 2 Believe In \(feat\. Bella Renee\)](https://open.spotify.com/track/0MKm4kyCdLHz1rzN2BJm5N) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Something 2 Believe In \(feat\. Bella Renee\)](https://open.spotify.com/album/5SkxH8h7JKulRmT9Rbj7Cx) | 3:14 |
-| 2 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [shotgunknights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 |
+| 2 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shotgun Knights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 |
 | 3 | [Feel It](https://open.spotify.com/track/3dGFEUTGK8gTQHrsmJrlrW) | [Shelco](https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD), [STRBLAST](https://open.spotify.com/artist/7waCeZR7phX8e6XMbijhiT) | [Feel It](https://open.spotify.com/album/17DTZRbt1LCoNMeHTWuKK9) | 2:17 |
 | 4 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 |
 | 5 | [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/album/7EubmHn3suSP7ROZPbp16R) | 2:45 |

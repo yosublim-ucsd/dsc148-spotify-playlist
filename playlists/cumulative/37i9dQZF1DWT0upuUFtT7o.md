@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover:  Haute & Freddy
 
-2,885 songs - 6 day 15 hr 28 min
+2,886 songs - 6 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Childish Things](https://open.spotify.com/track/5d3r10fWikQnh5vPD8FWsn) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Honeyglaze](https://open.spotify.com/album/2EKzD1PtSyL1hvPlrOv4Hz) | 5:58 | 2022-05-11 | 2022-06-30 |
 | [Chillin' Out](https://open.spotify.com/track/0BiYf33TmtR0IOuxsZ4k2s) | [Blufog](https://open.spotify.com/artist/3OfoDFGHN7ha7DUDbDXjqi) | [Chillin' Out](https://open.spotify.com/album/2AdLh4ohvMjgZtqGShhYKu) | 3:03 | 2024-05-22 | 2024-06-20 |
 | [Chin Up](https://open.spotify.com/track/2yD1KmOZ54EI1vnS9iFO6T) | [juney](https://open.spotify.com/artist/545pbk2OYVDjfX8P2DTe7A) | [Chin Up](https://open.spotify.com/album/5KbOCxRiuiuPHV73Nwwacn) | 4:14 | 2024-05-01 | 2024-05-09 |
+| [Chinese Class](https://open.spotify.com/track/3aEcdMLsaKEFM3Ok7AzsB7) | [Peculiar Ethan](https://open.spotify.com/artist/3wujrunrSvJAihTXWjUxKl) | [Chinese Class](https://open.spotify.com/album/4Ti6mR2JMGB1BV3ozax7Hc) | 3:00 | 2024-11-25 |  |
 | [choices choices choices](https://open.spotify.com/track/4buJICZdGDZf7hURkJ2rnQ) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [choices choices choices](https://open.spotify.com/album/5cMmhToNnO0pLKjdmgx9TL) | 1:28 | 2024-01-10 | 2024-01-18 |
 | [Chorus Girl](https://open.spotify.com/track/7r60Ixrw40H484k3XwhWwy) | [Raavi](https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64) | [Chorus Girl](https://open.spotify.com/album/1ZkwaMYRZvEmsNqXEFg05d) | 2:23 | 2022-04-27 | 2022-05-26 |
 | [Chow](https://open.spotify.com/track/4mAPF5TsEQW0rGvwAmHkee) | [Sun Era](https://open.spotify.com/artist/15wl7Y9VZVXUWvjSurSwO5) | [Chow](https://open.spotify.com/album/4lghrveo673J4knOFgxdPF) | 2:44 | 2022-03-16 | 2022-04-27 |

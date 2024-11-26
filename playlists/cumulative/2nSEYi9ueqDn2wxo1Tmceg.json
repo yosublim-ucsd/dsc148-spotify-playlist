@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Boxing Day sales",
+        "url": "https://open.spotify.com/album/4CHbPhGxxnrpmc2N5oNpGA"
+      },
+      "artists": [
+        {
+          "name": "Richard Dawson",
+          "url": "https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230706,
+      "name": "Boxing Day sales",
+      "url": "https://open.spotify.com/track/1TdFnDGVbOGSqiq5LgxAqW"
+    },
+    {
+      "album": {
         "name": "Boy Girl",
         "url": "https://open.spotify.com/album/4vPiad7HD61wqTLgshRrYB"
       },

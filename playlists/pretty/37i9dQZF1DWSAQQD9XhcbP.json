@@ -1,12 +1,12 @@
 {
   "description": "Cozy Christmas vibes. Cover: Lyn Lapid",
-  "num_followers": 47683,
+  "num_followers": 47809,
   "original_name": "Mellow Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzqKkwAAAADEpaZqd32rd6S5vgtzQPPM",
+  "snapshot_id": "Z0TWegAAAACU7F7plS4o8RkRqpHWYUIw",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -627,6 +627,26 @@
       "duration_ms": 187853,
       "name": "Christmas Valentine",
       "url": "https://open.spotify.com/track/5KenUsmrGeU2qscgE9ZHgD"
+    },
+    {
+      "added_at": "2024-11-25 19:56:42",
+      "album": {
+        "name": "Snow in LA",
+        "url": "https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Snow in LA",
+      "url": "https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98"
     },
     {
       "added_at": "2024-11-04 15:46:39",

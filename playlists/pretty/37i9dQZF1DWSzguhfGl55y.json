@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 637926,
+  "num_followers": 637975,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,18 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
-        "name": "Beat of Life, Vol. 1",
-        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "DJ Tomekk",
-          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Trooper Da Don",
-          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
         }
       ],
-      "duration_ms": 209626,
-      "name": "Kimnotyze",
-      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2024-10-10 15:53:30",
@@ -519,6 +511,30 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
+        "name": "Beat of Life, Vol. 1",
+        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomekk",
+          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Trooper Da Don",
+          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Kimnotyze",
+      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2024-10-10 15:53:30",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -526,11 +542,15 @@
         {
           "name": "Beginner",
           "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2024-10-10 15:53:30",
@@ -551,26 +571,6 @@
       "duration_ms": 330409,
       "name": "Irgendwie, Irgendwo, Irgendwann",
       "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2024-10-10 15:53:30",
-      "album": {
-        "name": "Quadratur des Kreises",
-        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
-      },
-      "artists": [
-        {
-          "name": "Freundeskreis",
-          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
-        },
-        {
-          "name": "Max Herre",
-          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
-        }
-      ],
-      "duration_ms": 366133,
-      "name": "A-N-N-A",
-      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
     },
     {
       "added_at": "2024-10-10 15:53:30",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
+        "name": "Quadratur des Kreises",
+        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
+      },
+      "artists": [
+        {
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
+        },
+        {
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        }
+      ],
+      "duration_ms": 366133,
+      "name": "A-N-N-A",
+      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
+    },
+    {
+      "added_at": "2024-10-10 15:53:30",
+      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 231800,
       "name": "Traumreise",
       "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
-    },
-    {
-      "added_at": "2024-10-10 15:53:30",
-      "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2024-10-10 15:53:30",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
+        "name": "Blast Action Heroes",
+        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Gustav Gans",
+      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
+    },
+    {
+      "added_at": "2024-10-10 15:53:30",
+      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -763,6 +779,22 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Das Urteil",
+      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
+    },
+    {
+      "added_at": "2024-10-10 15:53:30",
+      "album": {
         "name": "Ich bin jung und brauche das Geld",
         "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
       },
@@ -783,22 +815,6 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Das Urteil",
-      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
-    },
-    {
-      "added_at": "2024-10-10 15:53:30",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 252013,
       "name": "Susanne Zur Freiheit",
       "url": "https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw"
-    },
-    {
-      "added_at": "2024-10-10 15:53:30",
-      "album": {
-        "name": "Blast Action Heroes",
-        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Gustav Gans",
-      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
     },
     {
       "added_at": "2024-10-10 15:53:30",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-10-10 15:53:30",
       "album": {
-        "name": "German Dream Allstars",
-        "url": "https://open.spotify.com/album/0I3oXP3UnoBGzKAsyPpvxi"
-      },
-      "artists": [
-        {
-          "name": "Eko Fresh",
-          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
-        },
-        {
-          "name": "German Dream Allstars",
-          "url": "https://open.spotify.com/artist/4v4APTxh7SMlIW7kshRjc5"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Die Abrechnung",
-      "url": "https://open.spotify.com/track/3fGDoRUzlcfbawlW6aCXlz"
-    },
-    {
-      "added_at": "2024-10-10 15:53:30",
-      "album": {
         "name": "Deluxe Soundsystem",
         "url": "https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL"
       },
@@ -911,6 +891,22 @@
       "duration_ms": 168000,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/1EebWRQAfXwltoDXH2QVK5"
+    },
+    {
+      "added_at": "2024-10-10 15:53:30",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

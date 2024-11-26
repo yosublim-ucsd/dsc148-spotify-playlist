@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KAa52.md) - [plain]
 
 > This is Justin Timberlake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,353 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,393 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KAa52.md) - [plain]
 | 48 | [Trolls 2 Many Hits Mashup](https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Pop Trolls](https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 1:01 |
 | 49 | [What U Workin' With?](https://open.spotify.com/track/3IxRWXccxjVsUjyQZnKqYa) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:12 |
 | 50 | [Love Sex Magic \(feat\. Justin Timberlake\)](https://open.spotify.com/track/1BIENruTnjKdB7HD2YIlRr) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fantasy Ride](https://open.spotify.com/album/6TpQvLoBuLgVM2XDSJ1VF9) | 3:40 |
-| 51 | [Flame](https://open.spotify.com/track/23OGhdXxQUyaBiWJhBV0zc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 5:41 |
+| 51 | [Technicolor](https://open.spotify.com/track/347FqcQK09FdgKiBDAiq0V) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 7:17 |
 
-Snapshot ID: `Z0EbAAAAAADvjxw0At/6RglpNDUMO2EH`
+Snapshot ID: `Z0JsgAAAAACAKmvQ0CP3fYx7+CtJA8yM`

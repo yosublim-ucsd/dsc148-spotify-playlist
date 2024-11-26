@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,441 likes - 104 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,449 likes - 104 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 48 | [La Frase Importante](https://open.spotify.com/track/6W4kU5OcSgSsn0e0yrZ6Na) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:02 |
 | 49 | [Das Kaleidoskop](https://open.spotify.com/track/1Lpp0iLabE9C5J1aQJkYS9) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:14 |
 | 50 | [Rancho Abandonado](https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:09 |
-| 51 | [Un Año Mas](https://open.spotify.com/track/1GgBjyvoBqQynzlXOwyPpV) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Un Año Mas](https://open.spotify.com/album/5Cq1bfBUuMeM64jy4TmmBQ) | 2:26 |
+| 51 | [Un Año Mas](https://open.spotify.com/track/1GgBjyvoBqQynzlXOwyPpV) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Un Año Mas](https://open.spotify.com/album/5Cq1bfBUuMeM64jy4TmmBQ) | 2:26 |
 | 52 | [Horizonte](https://open.spotify.com/track/2GnkchiEEX9BvQOrCD7Rh7) | [Ferdinand Eisner](https://open.spotify.com/artist/7Ag3zdwV2fqC7BKdXwjVsD) | [White Stone](https://open.spotify.com/album/1YoEhz6VaIj5IL7xFBuOmy) | 2:40 |
 | 53 | [Adios](https://open.spotify.com/track/1EP8DalFg4OMvwK8QzfHcY) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Adios](https://open.spotify.com/album/31iA73hlTloOrhyFSK6qVl) | 3:24 |
 | 54 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 60 | [La Fogata](https://open.spotify.com/track/0lIee3QNGXfs0AVJr29yIo) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [La Fogata](https://open.spotify.com/album/72AEnJLKgvXxsPuVQAWPvi) | 2:32 |
 | 61 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 |
 | 62 | [Anita](https://open.spotify.com/track/2bFCZbUVSciR3EYIhx3phY) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:06 |
-| 63 | [Parisian café](https://open.spotify.com/track/5DNJ9Clp6dEnElKALIkoD6) | [Dennis Branko](https://open.spotify.com/artist/7aN5qcfrx1Jbu1bVC4Mn3j) | [train travel](https://open.spotify.com/album/6I4Kkgr7saTYxD4ahsTMuJ) | 3:26 |
+| 63 | [Parisian café](https://open.spotify.com/track/5DNJ9Clp6dEnElKALIkoD6) | [Dennis Branko](https://open.spotify.com/artist/7aN5qcfrx1Jbu1bVC4Mn3j) | [train travel](https://open.spotify.com/album/6I4Kkgr7saTYxD4ahsTMuJ) | 3:26 |
 | 64 | [D' Jobi D' Joba](https://open.spotify.com/track/7LqhroAS99iurwW34veR46) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 2:46 |
 | 65 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 |
 | 66 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 98 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 |
 | 99 | [Porro](https://open.spotify.com/track/0vPCJQTYGTOhEpO1diLYSO) | [Gentil Montaña](https://open.spotify.com/artist/1xhGE4Jo5IQkanmyVtGF8T), [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 3:35 |
 | 100 | [MIA \(Acoustic Cover\)](https://open.spotify.com/track/5J42gkKWho5iHm8JTOO0uE) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [MIA \(Acoustic Cover\)](https://open.spotify.com/album/013OQf5I0OmgLdzZcjhR0k) | 3:20 |
-| 101 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
+| 101 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 | 102 | [Viajero Nocturno](https://open.spotify.com/track/1nmKXLM6SMQv4GDyhwsMwz) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Viajero Nocturno](https://open.spotify.com/album/4yRqSzWG3u4PuE2UNpauc3) | 2:47 |
 | 103 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 104 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |

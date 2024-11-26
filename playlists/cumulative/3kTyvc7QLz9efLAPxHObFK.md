@@ -4,7 +4,7 @@
 
 > 
 
-1,853 songs - 4 day 3 hr 8 min
+1,855 songs - 4 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Demons In My Head Again](https://open.spotify.com/track/2PLZvF2SpJQ8uEt4Eo0TxP) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Cry Louder](https://open.spotify.com/artist/7lfG1euNRBmLHhKVwoWbbs) | [Demons In My Head Again](https://open.spotify.com/album/4qJM7BjlzDmbvVfnOd2Do2) | 2:43 | 2023-07-14 |  |
 | [DERBUS](https://open.spotify.com/track/0XjgvLjLhQnhcJv6BF6WFc) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8) | [DERBUS](https://open.spotify.com/album/5cZr3ryNH9lwE1LLIwLUCN) | 2:34 | 2024-09-20 |  |
 | [Destiny Awakes](https://open.spotify.com/track/2L3xAX7ibbYLpgTF339zfE) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [Destiny Awakes](https://open.spotify.com/album/6XSmtN4JajxXJ8rAOVrPXZ) | 3:14 | 2024-08-06 |  |
+| [Destroy All Humans](https://open.spotify.com/track/6X6aZt3teEhWmCwR6s6rYE) | [Storah](https://open.spotify.com/artist/6ewrmG7aoWCOiUyabJb6CC), [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm) | [Destroy All Humans](https://open.spotify.com/album/4jqAZDR90a7b1VvQPEWHqK) | 2:54 | 2024-11-25 |  |
 | [Destroyer](https://open.spotify.com/track/5bI2cNS1i0OtGcb8xZsN6T) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Destroyer](https://open.spotify.com/album/0aBJ8z0BUR8KC76iNyfJOm) | 2:32 | 2024-01-12 |  |
 | [Detonate](https://open.spotify.com/track/2c7Jv9fSxjPS0kxMZkqHky) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Detonate](https://open.spotify.com/album/517fKTIPfH45YYWLIp4zGf) | 2:50 | 2023-12-08 |  |
 | [Devil](https://open.spotify.com/track/3nUnCEIxM1SIdnbkwr76zN) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Devil](https://open.spotify.com/album/1TlQ9SoUfYzcVNkD5kTu9z) | 3:17 | 2024-06-17 |  |
@@ -739,6 +740,7 @@
 | [Haters](https://open.spotify.com/track/2fI9COQg3SOUXKHOr1y1CV) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [The Need For Speed](https://open.spotify.com/album/1xISRKDxS8VSVQl55g0HL2) | 3:53 | 2022-09-09 |  |
 | [Haunted](https://open.spotify.com/track/1c76N9QprvsTLqLAY51Q6z) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Haunted EP](https://open.spotify.com/album/1waRfrw9AJdVPJbARp2cYQ) | 5:00 | 2024-06-28 |  |
 | [Haunted](https://open.spotify.com/track/30QoUWN5TGIFwIlg41MRtv) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Haunted](https://open.spotify.com/album/74FKVr39ANqFpmWgV9VHn1) | 3:24 | 2024-09-07 |  |
+| [Haunting](https://open.spotify.com/track/2op1G8PQYntJs8UUobkkU8) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Haunting](https://open.spotify.com/album/4zZ0gKeyiKKDwF0s0OXaRg) | 2:48 | 2024-11-25 |  |
 | [Haunting Me](https://open.spotify.com/track/3IJpRUtI89pgCzLz0HF3T0) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Haunting Me](https://open.spotify.com/album/1SHA5qwfAU0halwBuXaSbt) | 3:31 | 2024-06-21 |  |
 | [Headbanger](https://open.spotify.com/track/3wGj6TFWHRmuQrnInBUItl) | [Bionator Project](https://open.spotify.com/artist/6IbzmZw1iBjZkVnPXTwyHt) | [Headbanger](https://open.spotify.com/album/4M9EzrrrWNHBItxDZ9Bi1O) | 2:29 | 2023-03-02 |  |
 | [Hear the beat commin](https://open.spotify.com/track/3cJUkJjyRXP6dbSBGqgssf) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 3:06 | 2023-08-07 |  |

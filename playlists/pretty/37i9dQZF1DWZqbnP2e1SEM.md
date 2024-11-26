@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,888 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,878 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 68 | [Something Real](https://open.spotify.com/track/4NKNCbsOkg6vvc2EqUMAfR) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Something Real](https://open.spotify.com/album/5OROEoB8xdt3WKR3vZ0SIX) | 4:05 |
 | 69 | [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 |
 | 70 | [All That You Need \(feat\. Caroline Byrne\)](https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [All That You Need \(feat\. Caroline Byrne\)](https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV) | 2:58 |
-| 71 | [A Feeling](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [A Feeling](https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe) | 2:38 |
-| 72 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 |
-| 73 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
+| 71 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 |
+| 72 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
+| 73 | [A Feeling](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [A Feeling](https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe) | 2:38 |
 | 74 | [Sugar Baby](https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Sugar Baby](https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5) | 2:36 |
 | 75 | [Bota Bota](https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Bota Bota](https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV) | 3:12 |
 | 76 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 97 | [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 |
 | 98 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 99 | [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 |
-| 100 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 |
+| 100 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 |
 
 Snapshot ID: `Zuys8AAAAACQq0AC4jBxDVCP8WxJohQJ`

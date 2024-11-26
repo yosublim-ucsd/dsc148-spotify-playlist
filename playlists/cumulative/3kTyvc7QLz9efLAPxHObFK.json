@@ -7999,6 +7999,28 @@
     },
     {
       "album": {
+        "name": "Destroy All Humans",
+        "url": "https://open.spotify.com/album/4jqAZDR90a7b1VvQPEWHqK"
+      },
+      "artists": [
+        {
+          "name": "Storah",
+          "url": "https://open.spotify.com/artist/6ewrmG7aoWCOiUyabJb6CC"
+        },
+        {
+          "name": "The Smiler",
+          "url": "https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Destroy All Humans",
+      "url": "https://open.spotify.com/track/6X6aZt3teEhWmCwR6s6rYE"
+    },
+    {
+      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/0aBJ8z0BUR8KC76iNyfJOm"
       },
@@ -15052,6 +15074,24 @@
       "duration_ms": 204000,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/30QoUWN5TGIFwIlg41MRtv"
+    },
+    {
+      "album": {
+        "name": "Haunting",
+        "url": "https://open.spotify.com/album/4zZ0gKeyiKKDwF0s0OXaRg"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/2op1G8PQYntJs8UUobkkU8"
     },
     {
       "album": {

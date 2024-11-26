@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Barbi Baba",
+        "url": "https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb"
+      },
+      "artists": [
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Barbi Baba",
+      "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
+    },
+    {
+      "album": {
         "name": "SISTAHOOD",
         "url": "https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE"
       },
@@ -476,10 +494,28 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 186091,
       "name": "Boldogtalans\u00e1g",
       "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
+    },
+    {
+      "album": {
+        "name": "BORDERLINE",
+        "url": "https://open.spotify.com/album/5nLoYASDNsAxJX0yOHczhX"
+      },
+      "artists": [
+        {
+          "name": "MANDULA",
+          "url": "https://open.spotify.com/artist/6kTUJP5LhCKtj2g9mvHjnr"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128365,
+      "name": "BORDERLINE",
+      "url": "https://open.spotify.com/track/4vzIpVAedHnbl24j2FVsiE"
     },
     {
       "album": {
@@ -710,6 +746,24 @@
       "duration_ms": 165772,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/63XN4EP6ilZCrBAGH3LELS"
+    },
+    {
+      "album": {
+        "name": "Dobban",
+        "url": "https://open.spotify.com/album/41UoEnEUZWkLLrkkIPHet9"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Dobban",
+      "url": "https://open.spotify.com/track/6DXBuh7nkFfCCutMnUrPmc"
     },
     {
       "album": {
@@ -1466,7 +1520,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 136212,
       "name": "Huncut menyecsk\u00e9k",
       "url": "https://open.spotify.com/track/0zFBtxhLtKsQJEaLJz0nNv"
@@ -1560,7 +1614,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 190166,
       "name": "Itt Hagyt\u00e1l (Z\u00f6ld Erd\u0151ben J\u00e1rtam)",
       "url": "https://open.spotify.com/track/3KZYIgl7STYUIKpDxdlbTU"
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 157408,
       "name": "Krisz x Jaki-Prikezsia",
       "url": "https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa"
@@ -1944,6 +1998,54 @@
       "duration_ms": 171734,
       "name": "L\u00e9legzetv\u00e9tel",
       "url": "https://open.spotify.com/track/2eoEPVFTrjiWae3LlpcRCq"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+    },
+    {
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/6FMlLDj5Pw3gw2D6RL1Yvf"
+      },
+      "artists": [
+        {
+          "name": "HENN",
+          "url": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/1COHPOyq0Qoh9nuiId7Wvz"
     },
     {
       "album": {
@@ -2351,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "R\u00f6ppenj\u00fcnk",
+        "url": "https://open.spotify.com/album/5g0qUDs0xBV1z6s2pN0KVT"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Nem b\u00edrn\u00e1d",
+      "url": "https://open.spotify.com/track/6EFmqiNCGoNMDvkFrL8uGa"
+    },
+    {
+      "album": {
         "name": "NEM B\u00cdRN\u00c1L VELEM",
         "url": "https://open.spotify.com/album/6eWJKqIVXtDChfdtqA95ZT"
       },
@@ -2486,7 +2610,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 146968,
       "name": "OROSZ RULETT",
       "url": "https://open.spotify.com/track/1VMJQ30pkOz4yTXNC32kJB"
@@ -2744,6 +2868,24 @@
       "duration_ms": 305161,
       "name": "PR\u00c9MIUM VIP GANG EXTRA POSSE EXKLUZ\u00cdV",
       "url": "https://open.spotify.com/track/3kGn7euZy2g0Km0Bjxv9at"
+    },
+    {
+      "album": {
+        "name": "P\u00c1LYAUDVAR",
+        "url": "https://open.spotify.com/album/7iVmPHOelgG2K9CzbdJdGT"
+      },
+      "artists": [
+        {
+          "name": "Wellhello",
+          "url": "https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "P\u00c1LYAUDVAR",
+      "url": "https://open.spotify.com/track/4xRDX4ZBRHQPDVMfv1RJyu"
     },
     {
       "album": {
@@ -3018,7 +3160,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
@@ -3326,7 +3468,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 164571,
       "name": "Sz\u00f6kj\u00fcnk el",
       "url": "https://open.spotify.com/track/3QrPDksFeUPHm84nyxoSmp"

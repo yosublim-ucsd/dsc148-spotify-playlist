@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160702,
+  "num_followers": 160710,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Beamin\u2019",
-        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 140724,
-      "name": "Beamin\u2019",
-      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "No One Does It Like",
         "url": "https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Beamin\u2019",
+        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 140724,
+      "name": "Beamin\u2019",
+      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 184457,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1515,6 +1515,42 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "You Want Me (VIP)",
+        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "You Want Me - VIP",
+      "url": "https://open.spotify.com/track/0y2jMpPZQgoqnlmxhYuebT"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Autonomy",
         "url": "https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N"
       },
@@ -1527,50 +1563,6 @@
       "duration_ms": 232579,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
-        "url": "https://open.spotify.com/album/3F6S5cU7BDdYZ82mgRPP66"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Jessee",
-          "url": "https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ"
-        },
-        {
-          "name": "Aresta",
-          "url": "https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
-      "url": "https://open.spotify.com/track/0mvry4vm6Xyhjxl3EcqY4o"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Killamanjaro",
-        "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Killamanjaro",
-      "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
     }
   ],
   "unique_name": "Proper Naughty ",

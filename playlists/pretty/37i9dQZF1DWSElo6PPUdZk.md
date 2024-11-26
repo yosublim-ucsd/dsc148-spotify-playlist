@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,145 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,156 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 5 | [Baby](https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:25 |
 | 6 | [Haase Thode](https://open.spotify.com/track/76MrBHxJVet38xAtxqc0xg) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Spidy's Music](https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Haase Thode](https://open.spotify.com/album/7o3jdiuwEuHvFAy4IkavQa) | 3:16 |
 | 7 | [Naal Naal](https://open.spotify.com/track/5oS0I3HkOPsr39H4JEEvGh) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Preet Ahluwalia](https://open.spotify.com/artist/1TKw4lrjy1H3kIS6Tkmm5Q), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Naal Naal](https://open.spotify.com/album/4iEbTYxyRl0hlRvs9TkoMl) | 2:53 |
-| 8 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 |
-| 9 | [Sukoon](https://open.spotify.com/track/4tYzK8WBdYB609O0jKRVGC) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [Sukoon](https://open.spotify.com/album/3DIeuVx4Sqw1HDty8t5qsg) | 3:20 |
+| 8 | [Diwaane](https://open.spotify.com/track/63rDH882LRDY1HEGNDkW42) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Diwaane](https://open.spotify.com/album/2vvJYR6gsRnHTJMSF5oHT1) | 3:25 |
+| 9 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 |
 | 10 | [Jamanat Pakki](https://open.spotify.com/track/6ipe1JZXmL2iFV9iEBMHxM) | [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q), [Bhana Sidhu](https://open.spotify.com/artist/3JXtvUVyycGu7AItCpMKYT) | [Jamanat Pakki](https://open.spotify.com/album/5SwyGRbynubS2miE9RhCRd) | 2:34 |
 | 11 | [KAHANI](https://open.spotify.com/track/1HBT2aq5MwWncKt4H4SiBr) | [Avin Gill](https://open.spotify.com/artist/0jl5MrF3Ry8ROjsl5Opfdp) | [KAHANI](https://open.spotify.com/album/5EktebJF2fNgJMROjzlPGS) | 2:46 |
 | 12 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Badmashi](https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Badmashi](https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM) | 3:19 |
 | 50 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 |
 
-Snapshot ID: `Z0BSqAAAAADfRftZIGpJ/aI1qRz2nMOs`
+Snapshot ID: `Z0RpWQAAAADBqRhoazIZbE7i4Mx/HT42`

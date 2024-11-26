@@ -1,15 +1,79 @@
 {
   "description": "Tinsel! Lights! Yelling! These family-friendly Christmas songs will get the party started.",
-  "num_followers": 120370,
+  "num_followers": 120660,
   "original_name": "Family Christmas Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtHyDwAAAAD2DtSa6R+3v++QkpcNY5Tn",
+  "snapshot_id": "Z0TSWQAAAAD8KBTH6chPWuXh4zIvoyGt",
   "tracks": [
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 148154,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Meet The Vamps (Christmas Edition)",
+        "url": "https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 135206,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7hPtrGqzMOO0KMevkaQnYR"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/489nZybL79w209ELXWJyVK"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
@@ -33,151 +97,7 @@
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree",
-        "url": "https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 148154,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Meet The Vamps (Christmas Edition)",
-        "url": "https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 135206,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7hPtrGqzMOO0KMevkaQnYR"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Dr. Seuss' How The Grinch Stole Christmas",
-        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
-      },
-      "artists": [
-        {
-          "name": "Jim Carrey",
-          "url": "https://open.spotify.com/artist/30MCPVWV1iZrs2gxciRRk4"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "You're A Mean One Mr. Grinch - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
-      "url": "https://open.spotify.com/track/2KNt0BWMJwB8uEqus75mRB"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "A Very Darren Crissmas",
-        "url": "https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC"
-      },
-      "artists": [
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 148552,
-      "name": "I Want A Hippopotamus For Christmas (Hippo The Hero)",
-      "url": "https://open.spotify.com/track/6qE5c4FQ8NVl6JcUgQhGbX"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/489nZybL79w209ELXWJyVK"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "Christmas Tree Farm",
-        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Christmas Tree Farm",
-      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
@@ -193,23 +113,87 @@
       "url": "https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
-        "name": "JoJo's Rockin' Christmas",
-        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+        "name": "Dr. Seuss' How The Grinch Stole Christmas",
+        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
       },
       "artists": [
         {
-          "name": "Jojo Siwa (Kids)",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+          "name": "Jim Carrey",
+          "url": "https://open.spotify.com/artist/30MCPVWV1iZrs2gxciRRk4"
         }
       ],
-      "duration_ms": 134408,
-      "name": "Run Run Rudolph",
-      "url": "https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E"
+      "duration_ms": 151533,
+      "name": "You're A Mean One Mr. Grinch - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
+      "url": "https://open.spotify.com/track/2KNt0BWMJwB8uEqus75mRB"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "A Very Darren Crissmas",
+        "url": "https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "duration_ms": 148552,
+      "name": "I Want A Hippopotamus For Christmas (Hippo The Hero)",
+      "url": "https://open.spotify.com/track/6qE5c4FQ8NVl6JcUgQhGbX"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Chipmunks Christmas",
         "url": "https://open.spotify.com/album/2Gf2s2XavIPCpOacM0BSXU"
@@ -229,7 +213,23 @@
       "url": "https://open.spotify.com/track/43Ny7pWynD5nncoDHpbUPh"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "JoJo's Rockin' Christmas",
+        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+      },
+      "artists": [
+        {
+          "name": "Jojo Siwa (Kids)",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas Songs for Kids",
         "url": "https://open.spotify.com/album/1qPzTVWMBb13dtBH1LOaO7"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2W6PhqzPHHbppHqe3LbGC0"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas Is Here!",
         "url": "https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3MzKm4pMJ8gbz9251xxLAU"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
         "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/1dtIaSlyrLI04sqYa8nLyN"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Snowman (Sped Up Version)",
         "url": "https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "We Need Christmas",
         "url": "https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3J0gUsBf8rRdHYQDKqYC7Q"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
         "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0Nzivfp90nH1WCPAMm7PV4"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "The Muppets: A Green and Red Christmas",
         "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/016NunpM8jiU0bjSvxi9yF"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Like It's Christmas",
         "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Let's Jump In! The Album (Deluxe)",
         "url": "https://open.spotify.com/album/2ane689azA1Q2g1RE8IEMo"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/0Ar318cfljZEyc6nLN8CxG"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "My Only Wish (This Year)",
         "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "KIDZ BOP Christmas",
         "url": "https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5W2wJUsVxy9l9jONK5LvGB"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Feliz Navidad (with The Simpsons)",
         "url": "https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Olaf's Frozen Adventure (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3b3AsnYeNitsCctPjm7uGV"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/5kQ1YHITOrzelWO3UOUaGt"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "I Love Holidays",
         "url": "https://open.spotify.com/album/1qXvs0Uyu3Kw2JYgbTZ4Rp"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/5tN00QECQb12DGmsxH1aUa"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "KIDZ BOP Christmas Wish List",
         "url": "https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Snowed In",
         "url": "https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas (Baby Please Come Home) [From Sing 2]",
         "url": "https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "The Magic Of Christmas",
         "url": "https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Ashanti's Christmas",
         "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/7dk0b3SvjLohoPtz2uBv4U"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
         "url": "https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Walk Off the Earth Christmas",
         "url": "https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/7qCZOApel8eCUQXICqfxL8"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Still Home For The Holidays",
         "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
@@ -789,7 +789,23 @@
       "url": "https://open.spotify.com/track/2qyscWonOE3DcCWSxCQMHO"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 19:39:05",
+      "album": {
+        "name": "Winter Dream",
+        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Winter Dream",
+      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Disney Family Christmas Collection",
         "url": "https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/5gH7DnufZr1PylgkCqB9uH"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "The Muppets: A Green and Red Christmas",
         "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/6wBQYLB2ANxGi1gfACyoRL"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Very Kacey Christmas",
         "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/7us9KL6g1bLBAoUSVu7Qzb"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas: A Season Of Love",
         "url": "https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/5nglKcNAb8j8hq3iNHNwir"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas Wishes",
         "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/541mKUH89gViH3rPkSDecP"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
         "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "MmmBop : The Collection",
         "url": "https://open.spotify.com/album/0IaT8AWtzOSAzWB1KXoTD8"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/1BTB6sWAbvXjdDzauL2Ndh"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
@@ -957,23 +973,7 @@
       "url": "https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
-      "album": {
-        "name": "How Can It Be Christmas",
-        "url": "https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "How Can It Be Christmas",
-      "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
-    },
-    {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Man With The Bag",
         "url": "https://open.spotify.com/album/12VFW6qpEFjwKbMphXZpQG"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/3E1DLz9jCFpvtQp9u9kKnH"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas: A Season Of Love",
         "url": "https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5GMaaILYpTiAo1SAhvvBKi"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Very Kacey Christmas",
         "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7DNB4gBzWIe8Pwml3hGHbH"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "We Need A Little Christmas",
         "url": "https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5kQ6UcHEUizCPFQM3E3dZ0"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Glee: The Music, The Complete Season Two",
         "url": "https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1KTopLtzIdyLEa9fxSlpjp"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Mini Pop Kids Christmas",
         "url": "https://open.spotify.com/album/62F8g6Yj3GHsl6cK8dNnVP"
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1zaWQe9uY98hFWyQVe5Duz"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas & Chill",
         "url": "https://open.spotify.com/album/5BFg8l4NYyZ90DWqcBjbt6"
@@ -1109,7 +1109,7 @@
       "url": "https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "PTXmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3eJ3HI0rEodDcOF3NpbHXH"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0eiFwEYsRxsNzPBHLwAMaJ"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "A Very Trainor Christmas",
         "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
@@ -1145,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Pop Party Christmas",
         "url": "https://open.spotify.com/album/6dIiuXDADs8W0HCn7HoYFa"
@@ -1161,7 +1161,7 @@
       "url": "https://open.spotify.com/track/1xpknUJU5WnCILL3UpiXQs"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/2RRdk9dTPqgDdeEWRSflbg"
@@ -1177,7 +1177,7 @@
       "url": "https://open.spotify.com/track/37L7EPenK5SI5ydjF8XWNm"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "That's Christmas To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Disney Family Christmas Collection",
         "url": "https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/6MIdJ2pvSLkkP2gv6DGzbQ"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6BqE2EzcqW6sNYf7SeGfuN"
     },
     {
-      "added_at": "2024-08-30 16:23:43",
+      "added_at": "2024-11-25 17:11:08",
       "album": {
         "name": "Elf Pets: A Fox Cub's Christmas Tale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju"

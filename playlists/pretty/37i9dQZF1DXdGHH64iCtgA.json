@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 81014,
+  "num_followers": 81035,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 360987,
+      "name": "they told us it was hard, but they were wrong.",
+      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
         "name": "VSOD (Velvet Sky of Dreams)",
         "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 342000,
       "name": "VSOD - Velvet Sky of Dreams",
       "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 360987,
-      "name": "they told us it was hard, but they were wrong.",
-      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 413600,
       "name": "Musique",
       "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
+        "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
+        "url": "https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Sanchez",
+          "url": "https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9"
+        }
+      ],
+      "duration_ms": 82200,
+      "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
+      "url": "https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
         "name": "Dance Vault Mixes - Where Love Lives",
         "url": "https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
-        "url": "https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Sanchez",
-          "url": "https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9"
-        }
-      ],
-      "duration_ms": 82200,
-      "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
-      "url": "https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "DIAMOND TAPE",
         "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
       },
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Eat The Runway",
-        "url": "https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0"
-      },
-      "artists": [
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        },
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Eat The Runway",
-      "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Orvnge",
         "url": "https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 262327,
       "name": "Orvnge",
       "url": "https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Eat The Runway",
+        "url": "https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Eat The Runway",
+      "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
     },
     {
       "added_at": "2024-10-24 17:18:17",

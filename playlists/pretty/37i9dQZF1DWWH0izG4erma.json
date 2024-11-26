@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 610355,
+  "num_followers": 610377,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Livin\u2019 My Life Like a Country Song",
         "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 199574,
       "name": "Livin\u2019 My Life Like a Country Song",
       "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2024-11-08 05:00:00",

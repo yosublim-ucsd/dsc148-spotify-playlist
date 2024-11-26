@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,753 songs - 3 day 5 hr 50 min
+1,756 songs - 3 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2020-06-02 | 2021-02-03 |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2021-11-11 | 2022-07-16 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2021-09-09 | 2022-07-07 |
-| [Amor Eterno](https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg) | [Elisa Avaria](https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp) | [Amor Eterno](https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu) | 2:35 | 2022-10-24 |  |
+| [Amor Eterno](https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg) | [Elisa Avaria](https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp) | [Amor Eterno](https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu) | 2:35 | 2022-10-24 | 2024-11-26 |
 | [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2019-09-12 | 2021-08-12 |
 | [An Elevation](https://open.spotify.com/track/0tR800fZrSvw5pZc0j8Y3X) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Redefine](https://open.spotify.com/album/0vog80iNYUeezmXJeNBg5s) | 2:53 | 2020-11-03 | 2021-02-17 |
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2020-02-26 | 2022-05-27 |
@@ -229,7 +229,7 @@
 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 | 2021-03-09 | 2022-05-13 |
 | [Bon voyage](https://open.spotify.com/track/6nGQqDK4y0pZjv8g5BYCQo) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Bon voyage](https://open.spotify.com/album/4BEbsjTnrZTmikiq7Rq170) | 2:37 | 2021-08-05 | 2021-09-09 |
 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 | 2023-12-05 |  |
-| [Borrowed Time](https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [Borrowed Time](https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz) | 2:15 | 2023-01-09 |  |
+| [Borrowed Time](https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [Borrowed Time](https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz) | 2:15 | 2023-01-09 | 2024-11-26 |
 | [Borrowed Time](https://open.spotify.com/track/6sdG0HUpvMNfsOiwtj6E6j) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/0HkQ5lRS5R77z79ixPpWRL) | 2:31 | 2021-11-11 | 2022-05-21 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2021-09-16 | 2022-12-06 |
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2022-08-08 | 2023-09-23 |
@@ -802,6 +802,7 @@
 | [Les Etudes](https://open.spotify.com/track/57YVVhWcChlS42r0EmA9aT) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Les Etudes](https://open.spotify.com/album/20xAiDerOnti3f8MWMmpg7) | 1:45 | 2019-10-04 | 2020-12-15 |
 | [Les malentendus](https://open.spotify.com/track/4zS5Vlq0AaQTjNpOX9AcaQ) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Soirées sans toi](https://open.spotify.com/album/2jr93PoNSOId5WOYxIJtgJ) | 5:10 | 2020-03-31 | 2020-06-09 |
 | [Les Nouveaux Riches](https://open.spotify.com/track/3FLBEqzjKi91wq2mbrX4VP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Les Nouveaux Riches](https://open.spotify.com/album/4ikvzIFgTJvx0cjXsOhoCP) | 4:49 | 2019-05-26\* | 2019-10-04 |
+| [Les rêveries élusives](https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Les rêveries élusives](https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC) | 2:23 | 2024-11-25 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-13 |  |
 | [Letting Go](https://open.spotify.com/track/2aLgFG14lYLiV8YYziZI7Q) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Letting Go](https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr) | 3:01 | 2022-05-12 | 2023-09-23 |
 | [Liberations \(Scaled Down Version\)](https://open.spotify.com/track/3tBSK5WCWFTa5SZ5uelB4P) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:22 | 2019-05-26\* | 2019-11-12 |
@@ -1311,6 +1312,7 @@
 | [Shouganai](https://open.spotify.com/track/2fKUHlU2YvmZbSi0DVWA8A) | [Jitka Kubr](https://open.spotify.com/artist/2AnS9arngrjxzamktyEB8D) | [Shouganai](https://open.spotify.com/album/3FRBfQSC5FTxNsSPLoDtva) | 2:12 | 2019-12-04 | 2020-11-17 |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2020-06-02 | 2022-05-05 |
 | [Sicilienne](https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Sicilienne](https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0) | 3:00 | 2022-11-21 | 2023-12-06 |
+| [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 | 2024-11-25 |  |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2020-04-21 | 2022-02-24 |
 | [Silent Dusk](https://open.spotify.com/track/0IjOLaGtgjYKC5MOxEhEel) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Silent Dusk / Beside The Spring](https://open.spotify.com/album/4eNl0A3k0p9f08yE7gaeqC) | 3:29 | 2020-01-22 | 2020-09-30 |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-03-31 | 2022-07-29 |
@@ -1562,7 +1564,7 @@
 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 | 2024-07-22 |  |
 | [To Bring Rest](https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [To Bring Rest](https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5) | 2:17 | 2023-09-04 |  |
 | [To Brodie](https://open.spotify.com/track/5ByK15THRduWp3LYKJrx5p) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [To Brodie](https://open.spotify.com/album/2q5nbVAbsFkfwvdarg2Da2) | 2:16 | 2019-10-16 | 2021-08-25 |
-| [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-03-06 |  |
+| [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-03-06 | 2024-11-26 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-08-26 | 2024-03-12 |
 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 | 2023-10-02 |  |
 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 | 2022-05-26 | 2024-05-01 |
@@ -1584,6 +1586,7 @@
 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 | 2021-07-01 | 2022-04-23 |
 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 | 2020-05-19 | 2022-04-29 |
 | [Trieste](https://open.spotify.com/track/64ltkWiXTteDM5x4s1XP1M) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Trieste](https://open.spotify.com/album/3wQuhHuQd4OSvxQSnZ0EP9) | 3:06 | 2019-05-26\* | 2020-06-09 |
+| [Trinity's Tears](https://open.spotify.com/track/56n46IJIz5ToaFJBxy3Y5B) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Trinity's Tears](https://open.spotify.com/album/7aB70ESTbXVRpVHEn3eDD1) | 2:17 | 2024-11-25 |  |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2021-09-09 | 2022-05-21 |
 | [trouvaille](https://open.spotify.com/track/2zHfLa85aTxLsQWBZYKJv8) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [trouvaille](https://open.spotify.com/album/0K5KmgmB5dQOcYPJPu4idV) | 1:50 | 2020-01-08 | 2022-03-18 |
 | [True Self](https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL) | [Izzy Rubin](https://open.spotify.com/artist/3i9R9BlH4QfTzP3DZIEj86) | [True Self](https://open.spotify.com/album/6sqaTWutALgbYSSmYbSGnH) | 3:57 | 2021-06-03 | 2022-05-13 |
@@ -1723,7 +1726,7 @@
 | [Windspiel](https://open.spotify.com/track/3g3Xf5ANiiv91xwMsN8KJs) | [Kris Steininger](https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [DNA II](https://open.spotify.com/album/7mlJEU7EAn7LqgBmLX8b2p) | 3:01 | 2023-10-23 | 2023-11-14 |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2020-11-10 | 2021-09-09 |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2021-02-09 | 2022-06-04 |
-| [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-01-17 |  |
+| [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-01-17 | 2024-11-26 |
 | [Winterwald](https://open.spotify.com/track/2m7XqU0gRlcPasjZCKvp6f) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Winterwald](https://open.spotify.com/album/5l4elAOnQGnjKJc3sbHCrP) | 2:11 | 2023-01-17 | 2024-05-23 |
 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-05 |  |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2022-01-19 | 2022-07-29 |

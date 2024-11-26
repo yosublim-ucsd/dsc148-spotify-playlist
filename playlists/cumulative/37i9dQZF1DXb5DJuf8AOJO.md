@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-186 songs - 11 hr 39 min
+187 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Purihin ang Panginoon](https://open.spotify.com/track/32P4SZgDZSwSCLnQWq6xeq) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Jesuit Music Ministry](https://open.spotify.com/artist/1uuFddQffRild1ln1W0u8v) | [Mga Awitin sa Misang Pilipino](https://open.spotify.com/album/7Mkl7K31ZcnRzjGKBXVI2s) | 2:17 | 2023-05-27 |  |
 | [Sa Hapag Ng Panginoon](https://open.spotify.com/track/5h3hHg9tDnnET1KjmTtSCE) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Tinapay Ng Buhay \(Mga Bagong Awiting Pangmisa\)](https://open.spotify.com/album/0hpX5mAcXTuHfZinhpsVAc) | 2:24 | 2023-05-27 | 2024-04-19 |
 | [Sa Hapag Ng Panginoon](https://open.spotify.com/track/5lvhBwTDQYR2GBe1vdBJ3f) | [Jesuit Music Ministry](https://open.spotify.com/artist/1uuFddQffRild1ln1W0u8v) | [Our Hope of Glory \(Songs for the Eucharist\)](https://open.spotify.com/album/4fppZuXqHNrNFF6siuGtnJ) | 2:26 | 2023-05-27 |  |
+| [Sa Pasko Sasapit Din](https://open.spotify.com/track/5u40x4t7UUsUJ37sqAsXjL) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Sa Pasko Sasapit Din](https://open.spotify.com/album/5a39rVj8mAStHAcUhTxWfN) | 5:48 | 2024-11-25 |  |
 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 | 2023-05-27 |  |
 | [Santa Teresita Aking Gabay](https://open.spotify.com/track/0yCANqOpOyhoSeSG9Dh3CK) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [KC Lawenko](https://open.spotify.com/artist/25zTu16WbjQLs7fYNzCqY3) | [Santa Teresita Aking Gabay](https://open.spotify.com/album/7y5jmgDyv0LOsLEWJvhae1) | 4:41 | 2023-05-27 | 2024-04-19 |
 | [Santa Teresita Aking Gabay](https://open.spotify.com/track/76zkgkskxFLaJDhoZzd6wG) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [KC Lawenko](https://open.spotify.com/artist/25zTu16WbjQLs7fYNzCqY3) | [Santa Teresita Aking Gabay](https://open.spotify.com/album/4LfvveWINsQVUMiSm5q7Bf) | 4:41 | 2023-05-27 |  |

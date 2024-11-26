@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Kendall Peña en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,185 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,186 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 66 | [1 veranito sad](https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [1 veranito sad](https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ) | 2:48 |
 | 67 | [Mientras tanto cantaré](https://open.spotify.com/track/3ywWSKfrT8dNKnTQYYr6pL) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Mientras tanto cantaré](https://open.spotify.com/album/3kYtEbf0M5b5C1ypmgZSvP) | 3:26 |
 | 68 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
-| 69 | [Sentimental](https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Sentimental](https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g) | 3:09 |
-| 70 | [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 |
+| 69 | [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 |
+| 70 | [Sentimental](https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Sentimental](https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g) | 3:09 |
 | 71 | [Palabras](https://open.spotify.com/track/4rndNVqAVEaQbmaQQDYpw7) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Palabras](https://open.spotify.com/album/7xsmfNsxoHN7QzBD5w4ppr) | 4:05 |
 | 72 | [La Humedad](https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [La Humedad](https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv) | 3:28 |
 | 73 | [CHOCOMIL](https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5) | [chicano wei](https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt) | [CHOCOMIL](https://open.spotify.com/album/7LVZYnNMLBAtqpJVC5htfN) | 2:48 |

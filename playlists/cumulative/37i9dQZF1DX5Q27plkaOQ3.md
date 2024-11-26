@@ -2,7 +2,7 @@
 
 ### [Dubstep Don](https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3)
 
-> All <a href="spotify:genre:bass">wobble</a>\. Cover: INFEKT
+> All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a>\. Cover: INFEKT
 
 840 songs - 1 day 22 hr 39 min
 

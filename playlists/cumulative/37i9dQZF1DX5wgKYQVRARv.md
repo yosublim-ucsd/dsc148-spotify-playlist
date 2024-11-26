@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-773 songs - 2 day 18 hr 12 min
+774 songs - 2 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [L'Envol](https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:02 | 2024-11-22 |  |
 | [Lacquer](https://open.spotify.com/track/0Jv7Bkh389i8nFOPg31tyU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Lacquer](https://open.spotify.com/album/3rQuPBaqtwTwkNXSVf9YYj) | 4:42 | 2021-12-17 | 2022-07-29 |
 | [Lacquer](https://open.spotify.com/track/0qA9j2IpP4voAIj9FXxHeb) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [City Burials](https://open.spotify.com/album/1DX36PVNNEo2o9RAZN6OYJ) | 4:42 | 2022-07-08 | 2022-09-03 |
+| [Lamentations By The Lochan](https://open.spotify.com/track/4fKscys0eDaqU6K3KCF2en) | [Sgàile](https://open.spotify.com/artist/0kTaZFlAaJlbEkeNTjOYe1) | [Traverse The Bealach](https://open.spotify.com/album/4kYj0QKl8LsfhFuLwMJx3P) | 9:22 | 2024-11-22 |  |
 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 | 2024-11-22 |  |
 | [Lavos \(feat\. Mick Gordon\) \- single version](https://open.spotify.com/track/6zZWfiI6YTpEaF6yUENer6) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Lavos \(feat\. Mick Gordon\)](https://open.spotify.com/album/24oX2HkDQFdNAcoAmsj830) | 4:15 | 2021-12-17 | 2023-01-21 |
 | [Leaves of Yesteryear](https://open.spotify.com/track/1paRTCqdLLz4ohFJ9NrFFg) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [Leaves of Yesteryear](https://open.spotify.com/album/7GloNSvJElEwT2rzMnvFCW) | 8:03 | 2021-12-17 | 2022-07-27 |
@@ -482,7 +483,7 @@
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 | 2024-06-28 |
-| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 |  |
+| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2024-11-26 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Peruvian Skies \(Basic Tracks\)](https://open.spotify.com/track/7lXJWraADeGngycPUcBngY) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:44 | 2023-04-07 | 2024-11-23 |

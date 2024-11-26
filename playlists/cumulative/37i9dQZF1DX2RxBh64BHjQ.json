@@ -463,6 +463,28 @@
     },
     {
       "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205190,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64"
+    },
+    {
+      "album": {
         "name": "20 Min",
         "url": "https://open.spotify.com/album/0eB3S5NOj4OGWOILkr7uOH"
       },
@@ -9378,7 +9400,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-26",
       "duration_ms": 141754,
       "name": "Different Color Stones",
       "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"

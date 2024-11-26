@@ -4,7 +4,7 @@
 
 > make it pop! cover: KAIRO
 
-1,184 songs - 2 day 10 hr 59 min
+1,186 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2023-07-28 | 2023-11-25 |
 | [Daylight](https://open.spotify.com/track/3pY1IOu26ZNJUPBPFWpktQ) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Daylight](https://open.spotify.com/album/3bn2s3qK3pJxPwX294M40M) | 3:13 | 2023-06-30 | 2023-07-29 |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-07-15 |
+| [Dead Giveaway](https://open.spotify.com/track/4dtmcT8mCwcLz6FsU1gGPs) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [Dead Giveaway](https://open.spotify.com/album/415l9oFuz0aNkReg9THQa3) | 3:26 | 2024-11-25 |  |
 | [Dead Man Walking](https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Dead Man Walking](https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF) | 3:07 | 2022-01-28 | 2022-04-16 |
 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-28 | 2024-08-17 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
@@ -320,7 +321,7 @@
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-06-29 |
-| [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 |  |
+| [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 | 2024-11-26 |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
 | [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 | 2024-07-16 |
 | [EVERYTHING YOU WANTED](https://open.spotify.com/track/2gvdqsxVtVayLEclQIFDRk) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [EVERYTHING YOU WANTED\*ALL I EVER WANTED](https://open.spotify.com/album/5sP9gedfCsXH9VvjbzHbYh) | 2:52 | 2024-11-08 | 2024-11-16 |
@@ -378,7 +379,7 @@
 | [Gelato](https://open.spotify.com/track/1FOVnwpspev8ASJOylLPP7) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Gelato](https://open.spotify.com/album/2JFOcEr9K5Wm4IJ3A8JNQp) | 3:04 | 2022-10-07 | 2022-12-03 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2023-04-22 |
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-08-20 |
-| [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-07-05 |  |
+| [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-07-05 | 2024-11-26 |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-25 | 2022-04-29 |
 | [Girls Like You](https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt) | [Songs About Girls Like You](https://open.spotify.com/album/6onQxxLCtldrdnQUkhAzHE) | 2:43 | 2022-03-18 | 2022-06-11 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
@@ -944,6 +945,7 @@
 | [Spilled My Coffee \(feat\. Allday\) \- HONNE Rework](https://open.spotify.com/track/7mVAOwhLfl5htPDL738wrB) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Spilled My Coffee \(feat\. Allday\) \[HONNE Rework\]](https://open.spotify.com/album/6OfR7z0MDFFx2jEoRcD2ih) | 2:51 | 2021-10-29 | 2022-01-15 |
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-29 | 2022-02-26 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 | 2024-04-28 |
+| [stacy's song](https://open.spotify.com/track/2612sZ6C1AhcvasbJlQCjC) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ), [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K) | [stacy's song](https://open.spotify.com/album/29LFtpTS5iYd1KZvhRwmpT) | 2:22 | 2024-11-25 |  |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2023-03-04 |
 | [Stargirl](https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Stargirl](https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE) | 2:53 | 2023-04-21 | 2023-07-22 |
 | [stars](https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [stars](https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk) | 2:31 | 2023-07-07 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > Manque plus qu'une p'tite Pauline \#fyp
 
-547 songs - 1 day 4 hr 56 min
+548 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-02-02 | 2024-03-23 |
 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-12 | 2024-05-04 |
 | [Il est marié](https://open.spotify.com/track/6tr6JVAIjhpQ02jtmzMPtm) | [Dj Sad](https://open.spotify.com/artist/3hLERkA9u0qj3A6S4yGeTb), [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Ninocess](https://open.spotify.com/artist/4IjjueQMO8pGfgrjh13Bh3), [pitroipa](https://open.spotify.com/artist/4JJKg8bePqpcxXob8gQVC8) | [Il est marié](https://open.spotify.com/album/23MQNuBqiNuRdeeUX7OrH5) | 2:32 | 2024-06-21 |  |
-| [Ils se demandent](https://open.spotify.com/track/1nCzYAumI9KtAmT21Ntzoo) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva) | 1:42 | 2024-11-15 |  |
+| [Ils se demandent](https://open.spotify.com/track/1nCzYAumI9KtAmT21Ntzoo) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva) | 1:42 | 2024-11-15 | 2024-11-26 |
+| [Ils se demandent](https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/4q2sSOHQcDpVsZ7oFFGDaF) | 1:42 | 2024-11-25 |  |
 | [Imaginaste](https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:18 | 2023-11-24 | 2023-12-15 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-05-07 | 2024-09-14 |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2023-12-14 | 2024-04-06 |

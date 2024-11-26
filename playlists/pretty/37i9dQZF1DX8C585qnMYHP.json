@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179733,
+  "num_followers": 179852,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -533,38 +533,6 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "Aprender a Ser: Extended",
@@ -583,6 +551,38 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Everything but the Hate",
+        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
+      },
+      "artists": [
+        {
+          "name": "Otala",
+          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Everything but the Hate",
+      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
+    },
+    {
       "added_at": "2024-10-23 05:18:13",
       "album": {
         "name": "SHOW OFF",
@@ -981,22 +997,6 @@
       "url": "https://open.spotify.com/track/2naYWFOkEHp1u5DrbdKC0P"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1u5Xq1nY6Gbfp2aVJueTi8"
-      },
-      "artists": [
-        {
-          "name": "Killer Bee",
-          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
-        }
-      ],
-      "duration_ms": 338515,
-      "name": "setitinstone*!_black cat",
-      "url": "https://open.spotify.com/track/2dvlyxiu5rvZfd4DbfDQWP"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-23 05:18:13",
       "album": {
-        "name": "Everything but the Hate",
-        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1u5Xq1nY6Gbfp2aVJueTi8"
       },
       "artists": [
         {
-          "name": "Otala",
-          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
+          "name": "Killer Bee",
+          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
         }
       ],
-      "duration_ms": 171827,
-      "name": "Everything but the Hate",
-      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
+      "duration_ms": 338515,
+      "name": "setitinstone*!_black cat",
+      "url": "https://open.spotify.com/track/2dvlyxiu5rvZfd4DbfDQWP"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
         }
       ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+      "duration_ms": 190066,
+      "name": "Oase",
+      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1091,22 +1091,6 @@
       "duration_ms": 265548,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Oase",
-      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1139,6 +1123,22 @@
       "duration_ms": 236000,
       "name": "Most Beautiful Imaginary Dialogues",
       "url": "https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Within",
-        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
-      },
-      "artists": [
-        {
-          "name": "AINON",
-          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Framework 1 (Vladislav Delay Remix)",
@@ -1565,20 +1549,20 @@
       "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-09-18 04:00:00",
       "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+        "name": "Within",
+        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
       },
       "artists": [
         {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+          "name": "AINON",
+          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
         }
       ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
+      "duration_ms": 161840,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1601,6 +1585,22 @@
       "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
     },
     {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Vapor",
@@ -1615,6 +1615,22 @@
       "duration_ms": 264000,
       "name": "Trying To Get That Sound",
       "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Cosmic Flute Rides Again",
+        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
+      },
+      "artists": [
+        {
+          "name": "NTHNL",
+          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Full Spectrum",
+      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1639,22 +1655,6 @@
       "duration_ms": 221621,
       "name": "Guerreiro Nicanor",
       "url": "https://open.spotify.com/track/0nPRFC9qFvFbNtf62aHaq6"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Cosmic Flute Rides Again",
-        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
-      },
-      "artists": [
-        {
-          "name": "NTHNL",
-          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Full Spectrum",
-      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1687,6 +1687,26 @@
       "duration_ms": 216699,
       "name": "Waves & Wonders",
       "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Time (Nick Walters Remix)",
+        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
+      },
+      "artists": [
+        {
+          "name": "Beats & Pieces Big Band",
+          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
+        },
+        {
+          "name": "Nick Walters",
+          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Time - Nick Walters Remix",
+      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1727,26 +1747,6 @@
       "duration_ms": 174787,
       "name": "No Lo Son",
       "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
-    },
-    {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Time (Nick Walters Remix)",
-        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
-      },
-      "artists": [
-        {
-          "name": "Beats & Pieces Big Band",
-          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
-        },
-        {
-          "name": "Nick Walters",
-          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Time - Nick Walters Remix",
-      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
     },
     {
       "added_at": "2024-10-09 01:34:34",

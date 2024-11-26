@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Blaue Blume",
-  "num_followers": 45593,
+  "num_followers": 45588,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "JEG VIL IKKE VIDE DU FINDES",
         "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 174240,
       "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
       "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "DR\u00d8MMEHUG",
         "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 168090,
       "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
       "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 222537,
-      "name": "Regn",
-      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Uvejr - Del 1",
         "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 215625,
       "name": "Krystalklart Kaos",
       "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
         }
       ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
       },
       "artists": [
         {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+      "duration_ms": 222537,
+      "name": "Regn",
+      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Bl\u00f8d",
-        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Bl\u00f8d",
-      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Bl\u00f8d",
+        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 141653,
+      "name": "Bl\u00f8d",
+      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "D\u00e5rligste Bedste Id\u00e9",
         "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196510,
       "name": "D\u00e5rligste Bedste Id\u00e9",
       "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
+        "name": "Frav\u00e6r",
+        "url": "https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
         }
       ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
+      "duration_ms": 128115,
+      "name": "Frav\u00e6r",
+      "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Frav\u00e6r",
-        "url": "https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy"
+        "name": "I Wanna Dive in the Seven Seas",
+        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
         }
       ],
-      "duration_ms": 128115,
-      "name": "Frav\u00e6r",
-      "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
+      "duration_ms": 164523,
+      "name": "I Wanna Dive in the Seven Seas",
+      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     },
     {
       "added_at": "2024-11-21 23:00:00",

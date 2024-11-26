@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: BIBI\(비비\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: WONHO\(원호\)\)
 
-770 songs - 1 day 17 hr 2 min
+772 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-13 |  |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2022-04-19 |  |
 | [BDBD](https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [BDBD](https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6) | 2:38 | 2023-07-21 | 2023-07-25 |
+| [Be Alright](https://open.spotify.com/track/5kcWOS5jxkScla3hmY8K94) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Alright](https://open.spotify.com/album/44iqPAjVuw1qlHaFAsjtMw) | 3:38 | 2024-11-25 |  |
 | [Be Okay \(Feat\. nobody likes you pat, Sonny Zero\)](https://open.spotify.com/track/7nSk5xQBnGdg46SneEbM1f) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Midsummer](https://open.spotify.com/album/4qFlDvHc9wb2kWJTuXT6I1) | 3:25 | 2022-04-22 | 2022-06-14 |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2022-10-13 |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-19 | 2022-07-30 |
@@ -331,7 +332,7 @@
 | [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-23 | 2023-02-15 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 | 2023-12-09 |
 | [I was a Hero](https://open.spotify.com/track/6y2u3p63XWKrJr3PG9YGd3) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [I was a Hero](https://open.spotify.com/album/7o7JkBnQg1EK3kP6JSBKFD) | 3:19 | 2022-07-04 | 2022-07-08 |
-| [I'm gonna change](https://open.spotify.com/track/5vfuJfkb777TwMGBCtEVlS) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I'm gonna change](https://open.spotify.com/album/0AaZdCzbTqYFovfZNmjlZn) | 3:58 | 2024-11-22 |  |
+| [I'm gonna change](https://open.spotify.com/track/5vfuJfkb777TwMGBCtEVlS) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I'm gonna change](https://open.spotify.com/album/0AaZdCzbTqYFovfZNmjlZn) | 3:58 | 2024-11-22 | 2024-11-26 |
 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 | 2022-04-19 |  |
 | [icy girl \(feat\. SOLE\)](https://open.spotify.com/track/7bGxdCtB8BzkJ7N8jaLKBs) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [icy girl \(feat\. SOLE\)](https://open.spotify.com/album/3dtOMGj8Ip8MleWbuZ3hKv) | 2:49 | 2022-06-13 | 2022-07-26 |
 | [If I Success](https://open.spotify.com/track/7beMq9H2hpiINjKNAapFZE) | [Pa!nter](https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T) | [If I Success](https://open.spotify.com/album/1xEaYx0QmF3qOGwbSkACVA) | 2:39 | 2023-06-13 | 2023-07-06 |
@@ -689,7 +690,7 @@
 | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN) | 3:19 | 2023-04-17 | 2023-05-04 |
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-09 | 2022-06-21 |
 | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 | 2022-12-19 | 2022-12-28 |
-| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-19 |  |
+| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-19 | 2024-11-26 |
 | [Treasure](https://open.spotify.com/track/4PSPmhEsbuBVizYKGNZ0CN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Backstreet Rookie \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/6uGnOboMjfiQ9ZOuPgmU7Q) | 3:43 | 2022-06-20 | 2022-06-24 |
 | [Treat Me Better](https://open.spotify.com/track/1hmaRc3ZDI9M1v06q0sDom) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Treat Me Better](https://open.spotify.com/album/0FhphJWHqernJzgewzKawK) | 2:57 | 2024-07-31 | 2024-08-11 |
 | [Trigger](https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Trigger](https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde) | 3:20 | 2022-05-09 | 2022-07-13 |
@@ -732,6 +733,7 @@
 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 | 2022-04-21 | 2023-08-13 |
 | [What If \(feat\. Hoody\)](https://open.spotify.com/track/3TkhE34ixqskGRjE5hBnxB) | [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [NOAIR](https://open.spotify.com/artist/5qbEjv3igyF5n8CKWingvy), [plan8](https://open.spotify.com/artist/6qCHNsRkTTF2YQrsuUOeFw), [CHANNEL 201](https://open.spotify.com/artist/1kLaTi0lthkPxr7wPnvMTm), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [NEXT](https://open.spotify.com/album/3S7x2DLS1aHbXLDduiIJci) | 2:50 | 2022-06-18 | 2022-07-05 |
 | [what is life?](https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 3:10 | 2022-05-11 | 2022-07-29 |
+| [What Would You Do](https://open.spotify.com/track/3o2O6F7QfoEwhmUyAZfk9h) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [What Would You Do](https://open.spotify.com/album/6LhyeuCcGZJ5cZ6CxNZ8di) | 2:59 | 2024-11-25 |  |
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2022-04-19 | 2022-07-29 |
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-18 | 2022-08-31 |
 | [When My Loneliness Calls You](https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc) | 4:17 | 2022-05-04 | 2022-05-12 |

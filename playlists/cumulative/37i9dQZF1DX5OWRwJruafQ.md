@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-516 songs - 1 day 0 hr 39 min
+517 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 | 2023-07-13 |
 | [Issa Flex](https://open.spotify.com/track/0chF5H6p4exI8iUO8OIBUU) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Issa Flex](https://open.spotify.com/album/34N3wiKUWE3VZUDzeIpzuC) | 3:00 | 2024-07-22 | 2024-08-13 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2023-03-29 | 2023-07-15 |
+| [Jaahli Note](https://open.spotify.com/track/0fZdVoavYTc9d4Yb0ZArnk) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Jaahli Note](https://open.spotify.com/album/3rELBAZu5Qa06YaSNSt6Jf) | 3:04 | 2024-11-25 |  |
 | [Jaan](https://open.spotify.com/track/4fWxieoPIFyOJxzXwdlFuQ) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Jaan](https://open.spotify.com/album/3N87c6BhUiUYqIsz8xKhZ7) | 2:29 | 2023-03-29 | 2023-04-09 |
 | [Jaan Vaardi](https://open.spotify.com/track/5vFYS7eKsrq4HdeKrzZhfu) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Jaan Vaardi](https://open.spotify.com/album/0knl45XLCOvvGfiJWoTjkq) | 2:28 | 2023-04-24 | 2023-07-21 |
 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 | 2024-05-31 | 2024-06-12 |

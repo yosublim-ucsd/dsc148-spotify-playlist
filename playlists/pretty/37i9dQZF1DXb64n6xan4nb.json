@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 32075,
+  "num_followers": 32098,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "The Ray's Rainbow",
+        "url": "https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7"
+      },
+      "artists": [
+        {
+          "name": "THE RAY",
+          "url": "https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g"
+        }
+      ],
+      "duration_ms": 235941,
+      "name": "\uccad\uc18c",
+      "url": "https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "TIME FOR LOVE",
         "url": "https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi"
       },
@@ -1151,26 +1167,6 @@
       "duration_ms": 228780,
       "name": "What if",
       "url": "https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Quiet Storm",
-        "url": "https://open.spotify.com/album/0RezqDGvQvKLKhfvp30H2u"
-      },
-      "artists": [
-        {
-          "name": "Untouchable",
-          "url": "https://open.spotify.com/artist/2HDRkPTO5A59sFcC2ROGbw"
-        },
-        {
-          "name": "Song Ji Eun",
-          "url": "https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "\ub2e4\uc904\uaed8 (feat. \uc1a1\uc9c0\uc740)",
-      "url": "https://open.spotify.com/track/5OqpfkerEQGI9QppSObwkQ"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Ray's Rainbow",
-        "url": "https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7"
+        "name": "Quiet Storm",
+        "url": "https://open.spotify.com/album/0RezqDGvQvKLKhfvp30H2u"
       },
       "artists": [
         {
-          "name": "THE RAY",
-          "url": "https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g"
+          "name": "Untouchable",
+          "url": "https://open.spotify.com/artist/2HDRkPTO5A59sFcC2ROGbw"
+        },
+        {
+          "name": "Song Ji Eun",
+          "url": "https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8"
         }
       ],
-      "duration_ms": 235941,
-      "name": "\uccad\uc18c",
-      "url": "https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7"
+      "duration_ms": 232986,
+      "name": "\ub2e4\uc904\uaed8 (feat. \uc1a1\uc9c0\uc740)",
+      "url": "https://open.spotify.com/track/5OqpfkerEQGI9QppSObwkQ"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "ASTROMANTIC",
-        "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
-      },
-      "artists": [
-        {
-          "name": "m-flo loves melody. & \u5c71\u672c\u9818\u5e73",
-          "url": "https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL"
-        },
-        {
-          "name": "melody.",
-          "url": "https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8"
-        },
-        {
-          "name": "Ryohei Yamamoto",
-          "url": "https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn"
-        }
-      ],
-      "duration_ms": 350960,
-      "name": "miss you",
-      "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 244386,
       "name": "Y (feat.BUMZU)",
       "url": "https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "ASTROMANTIC",
+        "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
+      },
+      "artists": [
+        {
+          "name": "m-flo loves melody. & \u5c71\u672c\u9818\u5e73",
+          "url": "https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL"
+        },
+        {
+          "name": "melody.",
+          "url": "https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8"
+        },
+        {
+          "name": "Ryohei Yamamoto",
+          "url": "https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn"
+        }
+      ],
+      "duration_ms": 350960,
+      "name": "miss you",
+      "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uc870\uc601\uc218 All Star 2.5",
-        "url": "https://open.spotify.com/album/4NOKqwYDL5ND9X54eHHyyW"
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l"
       },
       "artists": [
         {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        },
-        {
-          "name": "VOS",
-          "url": "https://open.spotify.com/artist/45VJJ9hSs1yXq9er4kcXNP"
+          "name": "\ubd80\uac00\ud0b9\uc988",
+          "url": "https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U"
         }
       ],
-      "duration_ms": 223294,
-      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4",
-      "url": "https://open.spotify.com/track/20tw8khOaoSrt1NFgeit9s"
+      "duration_ms": 235810,
+      "name": "Tic Tac Toe",
+      "url": "https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

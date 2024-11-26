@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 33814,
+  "num_followers": 33834,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz3OMAAAAADCOO8JVXmKtPU9UK2I+Fs4",
+  "snapshot_id": "Z0RAuAAAAAAtCYHDCRUSQtuZraCgftJZ",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -25,28 +25,48 @@
       "url": "https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW"
     },
     {
-      "added_at": "2024-11-04 10:48:09",
+      "added_at": "2024-11-25 09:17:44",
       "album": {
-        "name": "Kale Theera",
-        "url": "https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ"
+        "name": "Nanna",
+        "url": "https://open.spotify.com/album/3eL5FMWu5bZe9DsWXamVWd"
       },
       "artists": [
+        {
+          "name": "Thiru Vakkalanka",
+          "url": "https://open.spotify.com/artist/1Jfep509KGV0j7lfzENtWk"
+        },
         {
           "name": "Krishna Tejasvi",
           "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
         },
         {
-          "name": "Usha Prasanna",
-          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+          "name": "Rakesh Venkatapuram",
+          "url": "https://open.spotify.com/artist/0ySVAlgEEqvaixvNc4uLHR"
         },
         {
-          "name": "Akshay Yesodharan",
-          "url": "https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN"
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/345nU7mkTHfA5mnCYnsain"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Kale Theera",
-      "url": "https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7"
+      "duration_ms": 202767,
+      "name": "Nanna",
+      "url": "https://open.spotify.com/track/7kXi71MJ5Xja1zlIN5PzhZ"
+    },
+    {
+      "added_at": "2024-11-25 09:17:44",
+      "album": {
+        "name": "Soundarya Lahari",
+        "url": "https://open.spotify.com/album/2GqhuwmW6iptfgG0p2Zvuy"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Joshi",
+          "url": "https://open.spotify.com/artist/6AqbTkpCtH1Tb8hwGgIC7l"
+        }
+      ],
+      "duration_ms": 178535,
+      "name": "Soundarya Lahari",
+      "url": "https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX"
     },
     {
       "added_at": "2024-10-23 12:10:14",
@@ -191,6 +211,30 @@
       "duration_ms": 265384,
       "name": "Naa Kannula Mungitlo",
       "url": "https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4"
+    },
+    {
+      "added_at": "2024-11-04 10:48:09",
+      "album": {
+        "name": "Kale Theera",
+        "url": "https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        },
+        {
+          "name": "Akshay Yesodharan",
+          "url": "https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Kale Theera",
+      "url": "https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7"
     },
     {
       "added_at": "2024-11-06 07:41:10",
@@ -429,30 +473,6 @@
       "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
     },
     {
-      "added_at": "2024-06-29 06:47:19",
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp"
-      },
-      "artists": [
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Dinker kalvala",
-          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
-        },
-        {
-          "name": "Tushar Budhwani",
-          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
-        }
-      ],
-      "duration_ms": 207310,
-      "name": "Kala",
-      "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
-    },
-    {
       "added_at": "2024-09-12 04:34:33",
       "album": {
         "name": "Janaki",
@@ -471,34 +491,6 @@
       "duration_ms": 240270,
       "name": "Janaki",
       "url": "https://open.spotify.com/track/3ZAQJr4l7GxjTZ1LxR5imO"
-    },
-    {
-      "added_at": "2024-08-02 16:52:03",
-      "album": {
-        "name": "Nene ila",
-        "url": "https://open.spotify.com/album/5sy2tWFF8emaC4E7s3NiYS"
-      },
-      "artists": [
-        {
-          "name": "Shravan Pakalapati",
-          "url": "https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ"
-        },
-        {
-          "name": "Ayaan",
-          "url": "https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP"
-        },
-        {
-          "name": "Stanley Sajeev",
-          "url": "https://open.spotify.com/artist/48ZCF46lcsGvMQ3keWLY44"
-        },
-        {
-          "name": "Srirag Vadlakonda",
-          "url": "https://open.spotify.com/artist/35nglePPpoof0Yl8rIOpXX"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "Nene ila",
-      "url": "https://open.spotify.com/track/5DpLSzttzURdtjRqiqhuLx"
     },
     {
       "added_at": "2024-07-16 09:28:33",

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: HENN
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Pogány Induló
 
 80 songs - 3 hr 57 min
 

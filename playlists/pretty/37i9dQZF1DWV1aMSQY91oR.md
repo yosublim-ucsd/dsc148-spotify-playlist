@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,068 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,075 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 16 | [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 |
 | 17 | [School Daze](https://open.spotify.com/track/3TH6uniZv0sJO9ApNojQoo) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 3:52 |
 | 18 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 |
-| 19 | [Beamers And Bentayga's](https://open.spotify.com/track/4Gpt0YVe0KuL7HXMKjnyPB) | [Kamaiyah QuakeBeatz](https://open.spotify.com/artist/4slTTddhpdDsPdwsFByrkN) | [Ms Everything](https://open.spotify.com/album/5X2haycHT2PrQklCUE9eDz) | 2:49 |
+| 19 | [Beamers And Bentayga's](https://open.spotify.com/track/4Gpt0YVe0KuL7HXMKjnyPB) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Ms Everything](https://open.spotify.com/album/5X2haycHT2PrQklCUE9eDz) | 2:49 |
 | 20 | [Too Bad](https://open.spotify.com/track/1WDjFpLgiMgtcPk2ObFmQf) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [She.](https://open.spotify.com/album/7fMcS6WbnDIIiuZiiUNUzF) | 2:44 |
 | 21 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
 | 22 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 |
-| 23 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/22Z9WhtCQhQ3ksjIi6Ps4I) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
+| 23 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 |
 | 24 | [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 |
 | 25 | [Let It Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let It Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 26 | [War Ready](https://open.spotify.com/track/6Ngjnxwv3ZLYtp1YuSazr3) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [War Ready](https://open.spotify.com/album/78gkUlbvvPIlWZmeazEr7P) | 3:03 |

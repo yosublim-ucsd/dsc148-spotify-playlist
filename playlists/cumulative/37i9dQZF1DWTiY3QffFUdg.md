@@ -2,7 +2,7 @@
 
 ### [techno party](https://open.spotify.com/playlist/37i9dQZF1DWTiY3QffFUdg)
 
-> we are small party people but we do a love <a href="spotify:genre:techno">techno</a> rave
+> we are small party people but we do love a <a href="spotify:genre:techno">techno</a> rave
 
 235 songs - 12 hr 36 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,103 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,202 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 27 | [こまりわらい](https://open.spotify.com/track/2n3VVGO20mQskqGRUu4T1w) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp) | [こまりわらい](https://open.spotify.com/album/00DeFhBiMsWTraxBRxu7PZ) | 3:25 |
 | 28 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 |
 | 29 | [ホロウ](https://open.spotify.com/track/68h5GA0fhtfMy3elaTKJBP) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ホロウ](https://open.spotify.com/album/716VqzwOdkvB6Sy38ItzDK) | 2:46 |
-| 30 | [VORTEX](https://open.spotify.com/track/2TfW5LGOPSwJDkdhRBkZyb) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 3:13 |
+| 30 | [VORTEX](https://open.spotify.com/track/2TfW5LGOPSwJDkdhRBkZyb) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/3BR6cbql7aotdLJxiI6C0e) | 3:13 |
 | 31 | [NANIWAROTONNENN](https://open.spotify.com/track/0oFeqtKx3jf2Xq2RJEcR8L) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [NANIWAROTONNENN](https://open.spotify.com/album/0MdHehfKem66oyTfkrVv0o) | 3:07 |
 | 32 | [KiraKira](https://open.spotify.com/track/2VlqaqtfBfR1Q9ZRMGH9Qo) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [Kotoha](https://open.spotify.com/artist/76pJHTMyTukyWJNR6yRrZS) | [KiraKira](https://open.spotify.com/album/3RY5fYYy5Gv70UXc1SNZDz) | 4:03 |
 | 33 | [Bigger Bigger BaNG!!!](https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show \-Battle of Unity\- Unit A](https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C) | 3:35 |

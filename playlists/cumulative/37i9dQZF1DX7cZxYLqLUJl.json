@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Les r\u00eaveries \u00e9lusives",
+        "url": "https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "Les r\u00eaveries \u00e9lusives",
+      "url": "https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw"
+    },
+    {
+      "album": {
         "name": "Litany",
         "url": "https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5"
       },

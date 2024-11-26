@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 614 likes - 489 songs - 1 day 9 hr 57 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 615 likes - 489 songs - 1 day 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 43 | [Muscari](https://open.spotify.com/track/13ODXswoVw5BGcEPYhA5ub) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Japanese Hardcore BEST \- Mixed by RoughSketch](https://open.spotify.com/album/4TxS8TVxHcvKe7asjpurh8) | 3:11 |
 | 44 | [The Joker is Back](https://open.spotify.com/track/51gw1ElF7NfXlEthRbRYgc) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [CARDS: JOKER](https://open.spotify.com/album/5ciVIIyZKkKfLyWrcakN6G) | 4:52 |
 | 45 | [Still Underground](https://open.spotify.com/track/6vtsHAeI7hAwPwU0IID0Xe) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [ALICE IN VOODOOLAND](https://open.spotify.com/album/231AeotAakmnCpgRpAqiNP) | 4:55 |
-| 46 | [Aboot Phaze](https://open.spotify.com/track/5KdrkVpxusziGAesTvDDs9) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Mad Child](https://open.spotify.com/artist/5buy1YGVIYbcYIS1cq72oX) | [Aboot Phaze \~Notebook Aboot\~](https://open.spotify.com/album/4yPTvHCXImGzn1C6bXKdhc) | 5:00 |
+| 46 | [Aboot Phaze](https://open.spotify.com/track/5KdrkVpxusziGAesTvDDs9) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Mad Child](https://open.spotify.com/artist/5buy1YGVIYbcYIS1cq72oX) | [Aboot Phaze ～Notebook Aboot～](https://open.spotify.com/album/4yPTvHCXImGzn1C6bXKdhc) | 5:00 |
 | 47 | [Akihabara Warriors with ちよこ](https://open.spotify.com/track/1DQXg9S8KqtLnGyLatbPHR) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [uno](https://open.spotify.com/artist/5v5ud2uHRi6waqeNUyhlWq), [Chiyoko](https://open.spotify.com/artist/7hKAguLXi4URr6u8PFWIL4) | [KAKATTEKOYEAH!!!!](https://open.spotify.com/album/7aANqJcQFdjQYX59vtyRAT) | 5:07 |
 | 48 | [DX超性能フルメタル少女](https://open.spotify.com/track/2vu0goP36p6tiU9kUMRqb4) | [IOSYS TRAX : uno](https://open.spotify.com/artist/7i3tmVvVx1zIdRaDDj4CDt), [Chiyoko](https://open.spotify.com/artist/7hKAguLXi4URr6u8PFWIL4) | [グルーヴコースター オリジナルサウンドトラック](https://open.spotify.com/album/3O9nLzTc3mgIaglp7QKJfh) | 1:55 |
 | 49 | [Samurai Terrorist \(DJ Myosuke Remix\)](https://open.spotify.com/track/0s8HDVEUZHv28HZphRkgZd) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [CARDS: KING](https://open.spotify.com/album/43BauWO1WIHc2NEAycBRtJ) | 4:52 |

@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-190 songs - 9 hr 23 min
+191 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/7Lm2SpRFSiBUnojsvJUWuf) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Bonus Version\)](https://open.spotify.com/album/1TTRKFwM6ccmHdEpt37L7Z) | 3:21 | 2021-12-07 | 2022-11-13 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/3J0gUsBf8rRdHYQDKqYC7Q) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 2:20 | 2023-11-06 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 | 2021-12-07 | 2023-11-07 |
-| [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2021-12-07 |  |
+| [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2021-12-07 | 2024-11-26 |
 | [I Got My Love To Keep Me Warm](https://open.spotify.com/track/5nglKcNAb8j8hq3iNHNwir) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 4:04 | 2021-12-07 |  |
 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 | 2021-12-07 | 2023-11-07 |
 | [I Want A Hippopotamus For Christmas](https://open.spotify.com/track/346kb2dEzafAXU1hHYvy81) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [I Want A Hippopotamus For Christmas](https://open.spotify.com/album/1cijsC9Q5xrvGHzKzBT1bI) | 2:43 | 2021-12-07 | 2023-11-07 |
@@ -194,6 +194,7 @@
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5dprErk5AByFjoQa5BFNw6) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney Family Christmas Collection](https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX) | 1:44 | 2021-12-07 | 2022-07-29 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/0DOcya9iTOAPaRfI6lDpA9) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [A Very Merry Disney Christmas](https://open.spotify.com/album/7kDTXR2Qxv7PNvNjHE6HmJ) | 1:44 | 2021-12-07 | 2022-11-14 |
 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 | 2021-12-07 |  |
+| [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 | 2024-11-25 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7jxK15ZEaXqGl1FDLxKMJR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 1:52 | 2021-12-07 | 2023-11-07 |
 | [Wonderful Christmastime \(with MIKA\)](https://open.spotify.com/track/0xayyhWqB60xkkcZ6A4v71) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 3:42 | 2021-12-07 | 2023-11-07 |
 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 | 2021-12-07 |  |

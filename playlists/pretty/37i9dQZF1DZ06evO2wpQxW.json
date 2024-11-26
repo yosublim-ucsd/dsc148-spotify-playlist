@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 686719,
+  "num_followers": 686815,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0EbAAAAAAD0WpY3hjtRE9WOpvOX8QPp",
+  "snapshot_id": "Z0JsgAAAAABAKqwuRDODq5DpV/xwIUH9",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
-        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup"
       },
       "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 228461,
-      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
-      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+      "duration_ms": 190160,
+      "name": "Mujer De Todos, Mujer De Nadie",
+      "url": "https://open.spotify.com/track/4opZ5wxWDao2No6CivRDtg"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup"
+        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
+        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
       "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Mujer De Todos, Mujer De Nadie",
-      "url": "https://open.spotify.com/track/4opZ5wxWDao2No6CivRDtg"
+      "duration_ms": 228461,
+      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
+      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
     },
     {
       "added_at": null,

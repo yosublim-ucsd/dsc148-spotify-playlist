@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-372 songs - 20 hr 2 min
+374 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alagoas](https://open.spotify.com/track/0eXS5ijxTdz78D630arGBJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:50 | 2024-07-12 | 2024-09-08 |
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2024-02-20 | 2024-03-10 |
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 | 2024-03-10 |
+| [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 | 2024-11-25 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 | 2024-03-10 |
 | [Amponsah](https://open.spotify.com/track/3QXQ4J0akuPQjXS8SRpOrd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 4:17 | 2024-05-16 | 2024-07-12 |
 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 | 2024-09-28 | 2024-11-14 |
@@ -268,6 +269,7 @@
 | [Rememember Me](https://open.spotify.com/track/2vLbrVvtkqFp7AiuDk80fI) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 2:23 | 2024-10-19 | 2024-11-14 |
 | [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 | 2024-10-07 |
 | [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 | 2024-09-23 | 2024-11-14 |
+| [Rhubarb Pie](https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio) | [Fan Modine](https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy) | [Slow Road to Tiny Empire](https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm) | 4:05 | 2024-11-25 |  |
 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 | 2024-09-27 | 2024-11-14 |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-24 | 2024-11-14 |

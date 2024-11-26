@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,768 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,803 likes - 132 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 59 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 60 | [幾星霜の宇宙 \(feat\. ShishiGami\)](https://open.spotify.com/track/6AJ0Fd29hhxzgnOF3cl8h2) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | [「SDガンダム バトルアライアンス」テーマソング](https://open.spotify.com/album/4RKwUIOBPXwnD8GLDtpL5i) | 4:29 |
 | 61 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
-| 62 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
+| 62 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
 | 63 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 |
 | 64 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 |
 | 65 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 119 | [trust you](https://open.spotify.com/track/2IH72ONP0ljHypHaAzv594) | [Yuna Ito](https://open.spotify.com/artist/0yKgtrXFlFG2rbA5vamkC5) | [DREAM](https://open.spotify.com/album/5jsAIpaLQb8bzmXevDkhTG) | 5:18 |
 | 120 | [クオリア](https://open.spotify.com/track/4TcjO7rdbOHjkoiucQ3rCc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [クオリア](https://open.spotify.com/album/6qLF3MgVFNqPEO5f3FgVaG) | 4:32 |
 | 121 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 |
-| 122 | [泪のムコウ](https://open.spotify.com/track/4I663Yw4XM2eqFmc1ipws0) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ハイド.ランジアが咲いている](https://open.spotify.com/album/3Ry7whbErdLdXUivzpV6oY) | 3:30 |
+| 122 | [泪のムコウ](https://open.spotify.com/track/4I663Yw4XM2eqFmc1ipws0) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ハイド．ランジアが咲いている](https://open.spotify.com/album/3Ry7whbErdLdXUivzpV6oY) | 3:30 |
 | 123 | [流星のナミダ](https://open.spotify.com/track/1OKOtLh0yUNlDK7tUOM73M) | [Chiaki Kuriyama](https://open.spotify.com/artist/5jPUEjgQTelKH4IV12KDIr) | [流星のナミダ](https://open.spotify.com/album/4z6gpbY2ih3jBEzUwzhJnG) | 4:58 |
 | 124 | [ココロオドル \-original version\-](https://open.spotify.com/track/0zmBxLyCOMoiZY1VOFFNhd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [best of nobodyknows+](https://open.spotify.com/album/1nmW5Xs5x64Rvd4tDfzHoI) | 4:12 |
 | 125 | [wimp](https://open.spotify.com/track/4deAcev969KEs1YrSgnhmS) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [Lil' Fang \(from FAKY\)](https://open.spotify.com/artist/1Uv1E9YZ94w2ExlLGN08cJ) | [RELOAD](https://open.spotify.com/album/3TpgBK0jom391y7SdJF1iO) | 3:43 |

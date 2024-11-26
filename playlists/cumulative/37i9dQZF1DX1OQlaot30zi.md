@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di  Diss Gacha, Capo Plaza, Icy Subzero, Lorenzza e tanti altri! 🔥
+> Sempre aggiornata\. Con nuovi brani di Nayt, Geolier, Néza, Plaza e tanti altri! 🔥
 
 4,496 songs - 8 day 9 hr 41 min
 

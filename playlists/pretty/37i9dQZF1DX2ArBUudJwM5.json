@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40468,
+  "num_followers": 40463,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "los ausentes",
+        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 179635,
+      "name": "los ausentes",
+      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Todo vuelve al punto de partida",
         "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "los ausentes",
-        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 179635,
-      "name": "los ausentes",
-      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 144071,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Hacia el Sur",
-        "url": "https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4"
-      },
-      "artists": [
-        {
-          "name": "Rocio Igarzabal",
-          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
-        },
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 211828,
-      "name": "Hacia el Sur",
-      "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Tiene Que Haber Un Mapa",
         "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 208216,
       "name": "Aforismos",
       "url": "https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Hacia el Sur",
+        "url": "https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4"
+      },
+      "artists": [
+        {
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 211828,
+      "name": "Hacia el Sur",
+      "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Los Inviernos",
-        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Los Inviernos",
-      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "querido diario:",
         "url": "https://open.spotify.com/album/4e5h1N7LWzK5ECyZKLtpge"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 187378,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/3vjA2YS5WwCbcydMf3t2UN"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Los Inviernos",
+        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Los Inviernos",
+      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Cuando Sea Grande",
-        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 147316,
-      "name": "Cuando Sea Grande",
-      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "A veces est\u00e1 bien",
         "url": "https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 170500,
       "name": "Conocerte m\u00e1s",
       "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Cuando Sea Grande",
+        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 147316,
+      "name": "Cuando Sea Grande",
+      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
     },
     {
       "added_at": "2024-11-07 03:00:00",

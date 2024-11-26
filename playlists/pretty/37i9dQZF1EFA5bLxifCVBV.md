@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 188 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 188 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 75 | [Finale](https://open.spotify.com/track/4CaOipzBZZzxRf8UY5tsMn) | [Zanna Don't! Ensemble](https://open.spotify.com/artist/0TPM1lF53DEdI5bFC8JUVu) | [Zanna, Don't!: A Musical Fairy Tale](https://open.spotify.com/album/2dBuG3ogsRCpCkGbupoNQ2) | 1:47 |
 | 76 | [Rain Dance Ballet](https://open.spotify.com/track/0tFq1gYM9ctdxshldzbAsc) | [Finian's Rainbow \- Warner Bros\. Orchestra](https://open.spotify.com/artist/2ga6WwcN4IyFrXz0Z3jDSF) | [Finian's Rainbow O.S.T.](https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz) | 2:40 |
 | 77 | [Roses Red, Violets Blue \- Remastered Version](https://open.spotify.com/track/2Vjw8cQQYuNFiiEUP5qush) | [Gay Purr\-ee \- Judy Garland](https://open.spotify.com/artist/3GszhfhNYHgpvh1kYQv884) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:02 |
-| 78 | [Bubbles](https://open.spotify.com/track/1Z3HciVgsl8530cJk8lNjL) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Bubbles & Ballads](https://open.spotify.com/album/46eVO60uaj6O5XwnI2KuaZ) | 4:09 |
-| 79 | [Take My Hand Paree](https://open.spotify.com/track/780dLsCO313bNS7k9J2Jeg) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [City History](https://open.spotify.com/artist/6yNWNQ9HxFBAOFEHcRQN5Z) | [PARIS CITY HISTORY 1927 \- 1962](https://open.spotify.com/album/3HXPR1gcbyHOJ4zlQBFoQJ) | 2:56 |
+| 78 | [Take My Hand Paree](https://open.spotify.com/track/780dLsCO313bNS7k9J2Jeg) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [City History](https://open.spotify.com/artist/6yNWNQ9HxFBAOFEHcRQN5Z) | [PARIS CITY HISTORY 1927 \- 1962](https://open.spotify.com/album/3HXPR1gcbyHOJ4zlQBFoQJ) | 2:56 |
+| 79 | [Bubbles](https://open.spotify.com/track/1Z3HciVgsl8530cJk8lNjL) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Bubbles & Ballads](https://open.spotify.com/album/46eVO60uaj6O5XwnI2KuaZ) | 4:09 |
 | 80 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 |
 | 81 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 |
 | 82 | [The End Of A Beutiful Friendship \- Live](https://open.spotify.com/track/4FdZGAT4noVSMUwTK0s3WM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable](https://open.spotify.com/album/2iTU0F5TbfWfYMk9ZVK8ui) | 3:35 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbiZKgAAAABUeNdVxWVGu1QnHNItSBUn`
+Snapshot ID: `AbiewAAAAAB/2NmlbAkmMPGkpROkQofQ`

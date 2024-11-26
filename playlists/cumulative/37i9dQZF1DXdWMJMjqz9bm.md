@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: 347aidan
+> A little bit of pop, a little bit of rap\. Cover: ericdoa
 
-663 songs - 1 day 6 hr 18 min
+665 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Skin like summer](https://open.spotify.com/track/3BMjaR4kVrlefsdlcMJteK) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Skin like summer](https://open.spotify.com/album/609HfWohVgTcur5W1e9SYM) | 1:57 | 2022-05-20 | 2022-07-07 |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-11-16 | 2022-02-26 |
 | [slow](https://open.spotify.com/track/0OsBYGVkUv8htOal8W5Wiw) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [slow](https://open.spotify.com/album/4xbP5uCoRcocDrvZujOm7Y) | 1:52 | 2023-02-17 | 2023-04-09 |
+| [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-25 |  |
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-11-16 | 2022-02-19 |
 | [smiley water](https://open.spotify.com/track/1PEShB5zDPDvnnAbf4CGcy) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [smiley water](https://open.spotify.com/album/3Y2Xo3MzxhWSVFY2HvTCYd) | 3:59 | 2023-09-07 | 2024-06-01 |
 | [Smooth](https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Smooth](https://open.spotify.com/album/78vpDD60PJ8zJx19YP5qcj) | 2:17 | 2022-04-01 | 2022-07-13 |
@@ -533,6 +534,7 @@
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-02 | 2024-06-01 |
 | [Someday](https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW) | [SMILEZ](https://open.spotify.com/artist/0lRdxaQbuLSVm4DpUPCinB) | [Ur in My World](https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL) | 2:06 | 2023-07-03 | 2024-06-01 |
+| [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-25 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 | 2022-10-13 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/3pq8h5l46v9qk2Cx03qX0q) | 2:40 | 2022-09-09 | 2022-10-15 |
 | [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 | 2024-03-15 |  |

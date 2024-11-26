@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,103 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,090 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 214 | [1,000,000 TIMES feat\. chelly \(EGOIST\)](https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [chelly \(EGOIST\)](https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk) | [1,000,000 TIMES](https://open.spotify.com/album/505IJWUZGRdwSp4AeTwvmP) | 5:15 |
 | 215 | [REVIVER](https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [S･S･S](https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC) | 4:50 |
 | 216 | [The Other Side of the Sea](https://open.spotify.com/track/6lpuacrTTu38mGNdjOfqmI) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 4:57 |
-| 217 | [Symphonicsuite \(Aot\) Part2\-5th: Apple Seed](https://open.spotify.com/track/2WT4MG0M4R3RmkPUQj8Xct) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | ["Attack on Titan" Season 3 Original Soundtrack](https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h) | 2:46 |
-| 218 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
+| 217 | [Symphonicsuite \(Aot\) Part2\-5th: Apple Seed](https://open.spotify.com/track/2WT4MG0M4R3RmkPUQj8Xct) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | ["Attack on Titan" Season 3 Original Soundtrack](https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h) | 2:46 |
+| 218 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
 | 219 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
 | 220 | [Zettaiteki Sanpunkan](https://open.spotify.com/track/7BUXJOYpgglQveaqsDe3hc) | [Sokoninaru](https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF) | [ISSEN](https://open.spotify.com/album/6IgyoTPAuCmUsofLP7V2Wm) | 3:02 |
 | 221 | [Purgatorium](https://open.spotify.com/track/09Gy2And4Ys7RtuMUvaLfK) | [お月さま交響曲](https://open.spotify.com/artist/6C3lQzZk0S0JZO2MfruFGc) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 2:31 |
