@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 206705,
+  "num_followers": 206716,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Ciega Por El",
-        "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 208461,
-      "name": "Ciega Por El",
-      "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
+      "duration_ms": 194452,
+      "name": "Te Presento A Mi Amante",
+      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+        "name": "Ciega Por El",
+        "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 194452,
-      "name": "Te Presento A Mi Amante",
-      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
+      "duration_ms": 208461,
+      "name": "Ciega Por El",
+      "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Lo que no fue no ser\u00e1",
-        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
       "artists": [
         {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Lo que no fue no ser\u00e1",
-      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "No Me Deja De Doler",
-        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+        "name": "Lo que no fue no ser\u00e1",
+        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 157946,
-      "name": "No Me Deja De Doler",
-      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+      "duration_ms": 217693,
+      "name": "Lo que no fue no ser\u00e1",
+      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 180059,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2024-11-15 06:00:00",

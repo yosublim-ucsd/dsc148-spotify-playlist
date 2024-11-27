@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η LILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,660 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,664 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 4 | [Magissa](https://open.spotify.com/track/5J2YUox2WiYovjAcjzI0X2) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY) | [Di' Efchon](https://open.spotify.com/album/3ky1sgmFT8jSRwpsPmGdVz) | 3:18 |
 | 5 | [O Aggelos Mou](https://open.spotify.com/track/3ztYi1EQmeNOKSyiUJglNL) | [Alkistis Protopsalti](https://open.spotify.com/artist/514w90CKIw9w84Zh3NSNyA) | [Na Se Vlepo Na Gelas](https://open.spotify.com/album/5QFPRnPpbNX2PjjAmSxRrw) | 4:23 |
 | 6 | [Aeroplano](https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Aeroplano](https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU) | 3:00 |
-| 7 | [Mavra Gialia](https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Beyond](https://open.spotify.com/artist/6AR9kA5fYGjpH8uAflO3Up), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Mavra Gialia](https://open.spotify.com/album/4bOTyitTQMaaN4I3ObGIre) | 2:37 |
+| 7 | [Mavra Gialia](https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Mavra Gialia](https://open.spotify.com/album/4bOTyitTQMaaN4I3ObGIre) | 2:37 |
 | 8 | [Ego S' Agapisa Edo](https://open.spotify.com/track/1U0v8Skcs83D3KoNmQ4X8g) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [San Psemata](https://open.spotify.com/album/5TTzMERsMJw6OO00Sw4fKJ) | 3:38 |
 | 9 | [An Isouna Agapi](https://open.spotify.com/track/7bdisBQxwSA5cKBWxKERgB) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Giro Apo T' Oniro](https://open.spotify.com/album/5J8Ou9yDIP85Wpoe2Tq15B) | 4:17 |
 | 10 | [Ela Pou...Fovame](https://open.spotify.com/track/5NEf7gE03uUKKOQqCvYO3u) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [The Love Collection](https://open.spotify.com/album/3gFmbaGcoHaqgunje9sq1j) | 5:20 |

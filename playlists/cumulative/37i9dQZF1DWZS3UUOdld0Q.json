@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "44 (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/1FCkjSZ69WuSXFyvjhPZXy"
+      },
+      "artists": [
+        {
+          "name": "Maria Preta MC",
+          "url": "https://open.spotify.com/artist/1Rk1WfvNaBxlWRWJQG8qyJ"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "44 (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/53hMi931cMBHPZKHQHAWfA"
+    },
+    {
+      "album": {
         "name": "A Procura da Batida Perfeita",
         "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
       },

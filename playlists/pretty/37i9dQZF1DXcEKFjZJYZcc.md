@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,158 likes - 192 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,223 likes - 192 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 |
 | 2 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 |
-| 3 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 |
-| 4 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
-| 5 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 |
-| 6 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
-| 7 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 3 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
+| 4 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 |
+| 5 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
+| 6 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 7 | [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 |
 | 8 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 |
 | 9 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 |
-| 10 | [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 |
-| 11 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
+| 10 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
+| 11 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 |
 | 12 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
-| 13 | [Gullviva](https://open.spotify.com/track/55bj8Rq2M6IG9Pj2qPcZjb) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Gullviva](https://open.spotify.com/album/3MbUackTQWioRis2NbNg1W) | 2:37 |
+| 13 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
 | 14 | [Notions](https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Notions](https://open.spotify.com/album/30kwvznWYzuaYvZedSFPkK) | 2:23 |
 | 15 | [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 |
-| 16 | [Glimmer](https://open.spotify.com/track/4gZbGwcZ7FJnRPtGkluln8) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Glimmer](https://open.spotify.com/album/5NwEhz0nDDaEQEBmLXvmLR) | 3:12 |
-| 17 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 |
-| 18 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
+| 16 | [Gullviva](https://open.spotify.com/track/55bj8Rq2M6IG9Pj2qPcZjb) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Gullviva](https://open.spotify.com/album/3MbUackTQWioRis2NbNg1W) | 2:37 |
+| 17 | [Glimmer](https://open.spotify.com/track/4gZbGwcZ7FJnRPtGkluln8) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Glimmer](https://open.spotify.com/album/5NwEhz0nDDaEQEBmLXvmLR) | 3:12 |
+| 18 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 |
 | 19 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
 | 20 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 |
 | 21 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 191 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 |
 | 192 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 |
 
-Snapshot ID: `ZzyMrwAAAAARf4F6sHbMSBmN0jE0HbUj`
+Snapshot ID: `Z0WewQAAAACdCOAcCRgL63gRXq204Pg6`

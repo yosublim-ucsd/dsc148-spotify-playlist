@@ -1,13 +1,29 @@
 {
   "description": "Generations of blood have lead to this. Listen to the music from Yellowstone, airing Sundays on Paramount Network. ",
-  "num_followers": 548596,
+  "num_followers": 549817,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzqfoAAAAABX6YSdr+coSWDlH7DEYP0l",
+  "snapshot_id": "Z0YfnAAAAACbhPJRMej51IasW0EiBhUb",
   "tracks": [
+    {
+      "added_at": "2024-11-26 19:21:00",
+      "album": {
+        "name": "How the Mighty Fall",
+        "url": "https://open.spotify.com/album/2a0WpuqyjACGd5VmXflGu7"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 242510,
+      "name": "Temporary Town",
+      "url": "https://open.spotify.com/track/2WH77R5lLir7ZHW8ey7t8H"
+    },
     {
       "added_at": "2024-11-18 02:00:00",
       "album": {

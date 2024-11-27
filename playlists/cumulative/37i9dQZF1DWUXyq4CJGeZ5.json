@@ -8265,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "Walking in Heather",
+        "url": "https://open.spotify.com/album/6aFRiK3N6EOQeseoQDJmff"
+      },
+      "artists": [
+        {
+          "name": "Qunfan Wen",
+          "url": "https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Walking in Heather",
+      "url": "https://open.spotify.com/track/4pI5rX7Bm7xSoWsTpmhGQj"
+    },
+    {
+      "album": {
         "name": "Waltz in F minor",
         "url": "https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi"
       },
@@ -8550,6 +8568,24 @@
       "duration_ms": 162000,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198649,
+      "name": "Wind Song",
+      "url": "https://open.spotify.com/track/48i1p3R9l9f7zjcHPJysZZ"
     },
     {
       "album": {

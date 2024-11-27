@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "American Interior",
+        "url": "https://open.spotify.com/album/6k0bHeyykC3CvfGhVknU3S"
+      },
+      "artists": [
+        {
+          "name": "Gruff Rhys",
+          "url": "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "American Interior",
+      "url": "https://open.spotify.com/track/6EOe3uRQUF6o4CzNwZmUV2"
+    },
+    {
+      "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
       },

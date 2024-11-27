@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,837 songs - 1 day 13 hr 42 min
+1,838 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,6 +1021,7 @@
 | [Momentum](https://open.spotify.com/track/7u8W2XNaxh0rZOFsvu8DN1) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Momentum](https://open.spotify.com/album/6IaefFpzGzX4FGBRx4tJr6) | 2:33 | 2022-01-12 | 2024-01-30 |
 | [Mono No Aware](https://open.spotify.com/track/4KYfr2Zla3Myf4sbao5GKb) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Mono No Aware](https://open.spotify.com/album/3B7SAl0B5q6mdiJnHZECnr) | 2:08 | 2022-01-12 | 2024-01-30 |
 | [Montage](https://open.spotify.com/track/1hUxtE3QSHEZyJc2JiVmTL) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [It Gets Easier](https://open.spotify.com/album/0EW3aoyP9FPHtR68DFZxmC) | 1:49 | 2022-01-12 | 2024-02-13 |
+| [Moon](https://open.spotify.com/track/6PC58M1Jjt9aaXqo6h4d3g) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Moon](https://open.spotify.com/album/1YTBsGT2r0ecfTmJiya6n0) | 1:00 | 2024-11-26 |  |
 | [Moon Song Revisited](https://open.spotify.com/track/6nPTBJ66syw2UZEypuxtGA) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Moon Song Revisited](https://open.spotify.com/album/004ef7mcKbuk538CyRj9ml) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Moonlight Echoes](https://open.spotify.com/track/1R4jHCzDcxyadZxB0ZCZqg) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Moonlight Echoes](https://open.spotify.com/album/0jMKVVOxTLjUcM2Ti6urpr) | 2:51 | 2022-01-12 | 2023-04-09 |
 | [Moonlight Mystery \- Cello Version](https://open.spotify.com/track/6MEjGr3WtTNHiE2WQINTS2) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Moonlight Mystery](https://open.spotify.com/album/7AAPLcfkp1OoQAuDLe8Typ) | 1:01 | 2024-02-09 | 2024-02-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48350,
+  "num_followers": 48360,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAAk6GatzKTMC1K2TS7rEk4l",
+  "snapshot_id": "Z0O+AAAAAABy9LyVOwZgYXiO8K2ty6tY",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hola Mi Amor (Version Banda)",
         "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 194461,
       "name": "Mas Fuerte Que el Viento",
       "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,

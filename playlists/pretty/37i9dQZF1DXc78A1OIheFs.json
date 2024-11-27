@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18606,
+  "num_followers": 18607,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
       },
       "artists": [
         {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        },
-        {
-          "name": "MC Slave",
-          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
         }
       ],
-      "duration_ms": 371200,
-      "name": "Next Stop",
-      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
       },
       "artists": [
         {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
         }
       ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
     },
     {
       "added_at": "2024-11-07 11:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "RNZ\u014c SZN",
-        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
-      },
-      "artists": [
-        {
-          "name": "RNZ\u014c",
-          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "RNZ\u014c SZN",
-      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Run It Back",
-        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
       },
       "artists": [
         {
-          "name": "Home Brew",
-          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
         }
       ],
-      "duration_ms": 233413,
-      "name": "Drinking In The Morning",
-      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
+      "duration_ms": 149234,
+      "name": "Time Of My Life",
+      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
       },
       "artists": [
         {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+          "name": "Home Brew",
+          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
         }
       ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
+      "duration_ms": 233413,
+      "name": "Drinking In The Morning",
+      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
     }
   ],
   "unique_name": "The Local List Aotearoa",

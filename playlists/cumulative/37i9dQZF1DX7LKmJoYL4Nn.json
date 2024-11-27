@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 206933,
       "name": "Crush of Judgment",
       "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 248226,
       "name": "Honeycomb Summer",
       "url": "https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 263493,
       "name": "Magic for your Switch",
       "url": "https://open.spotify.com/track/0z6tCrKS7tjuCWgee0xn2P"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "NEW DAYBREAK",
       "url": "https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
+        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
+      },
+      "artists": [
+        {
+          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334213,
+      "name": "Temptation Magic",
+      "url": "https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
         "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
       },
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 231293,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1JfvP6CDhv0exkrjzZOBpj"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 267186,
       "name": "\u5929\u4e0b\u7121\u6575\u2606\u30e1\u30c6\u30aa\u30ec\u30f3\u30b8\u30e3\u30fc!",
       "url": "https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD"
@@ -1990,6 +2008,24 @@
       "duration_ms": 243426,
       "name": "\u795d\u798f\u306eLibrary",
       "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba fine",
+        "url": "https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl"
+      },
+      "artists": [
+        {
+          "name": "fine/\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3\u62d3\u4e5f)\u3001\u59eb\u5bae\u6843\u674e(CV.\u6751\u702c \u6b69)\u3001\u4f0f\u898b\u5f13\u5f26(CV.\u6a4b\u672c\u6643\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "\u7d42\u308f\u3089\u306a\u3044\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/4wCMUwMxEl4pgMq9RAQBmm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,685 likes - 96 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,701 likes - 96 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 13 | [The Lion's Roar \- Remastered](https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:54 |
 | 14 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
 | 15 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 |
-| 16 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 |
+| 16 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 |
 | 17 | [I'll Remember April](https://open.spotify.com/track/4RLNFZ5CHaLH1URS90ycgP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 4:41 |
 | 18 | [With A Song In My Heart \- Remastered 1998](https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 7:55 |
 | 19 | [Just You, Just Me](https://open.spotify.com/track/5beii4gDylW7eFnWJ1uZaH) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 7:37 |

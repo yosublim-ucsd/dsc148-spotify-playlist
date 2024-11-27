@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,142 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,146 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 36 | [Shirley](https://open.spotify.com/track/5vgsReLHruzforPeG19bWP) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:38 |
 | 37 | [GREEN GIRL](https://open.spotify.com/track/4HFEQxji2Bk232ops71Thm) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 3:24 |
 | 38 | [モアザンワーズ](https://open.spotify.com/track/3Ujwh566BdLD746tBogDZ8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「コードギアス　亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 5:05 |
-| 39 | [アルコ](https://open.spotify.com/track/6oNNZZ8muMk2VhehkpnoAH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [コードギアス 亡国のアキト O.S.T.2](https://open.spotify.com/album/0HDCyBbbjUaA3AHalV2MWR) | 5:38 |
+| 39 | [アルコ](https://open.spotify.com/track/6oNNZZ8muMk2VhehkpnoAH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [コードギアス　亡国のアキト　O.S.T.2](https://open.spotify.com/album/0HDCyBbbjUaA3AHalV2MWR) | 5:38 |
 | 40 | [Masquerade](https://open.spotify.com/track/0WeJnDwWCwhBRv9mASWGyZ) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 4:40 |
 | 41 | [Alone](https://open.spotify.com/track/31xxzAePWwf1Sw4LoPxztS) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 3:47 |
 | 42 | [Innocent Days](https://open.spotify.com/track/0WYWXGlTjTvqpogtR27HtV) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:27 |

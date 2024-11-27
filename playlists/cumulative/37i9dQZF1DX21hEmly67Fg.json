@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/2M9ZtQ3aTk9jAkpdXHWY09"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/1ROhfJh9EDvt77VXHoCCfH"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2019, Vol. 2",
         "url": "https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB"
       },
@@ -2671,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/7IKvo8hshGA91Zk8BQqjJ7"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/2Z5xXgTm80Q2hE6ulkRwiX"
+    },
+    {
+      "album": {
         "name": "VSQ Performs Modern Rock Hits 2011 Vol. 2",
         "url": "https://open.spotify.com/album/2GF8X4yqyIqazuGB40zoO5"
       },
@@ -2758,6 +2794,24 @@
       "duration_ms": 149000,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/10wIsjWouNqeMlOAGFYPTD"
+    },
+    {
+      "album": {
+        "name": "Mistletoe & Like It's Christmas",
+        "url": "https://open.spotify.com/album/51TWJ9iMRzKkCeiMthl1Vi"
+      },
+      "artists": [
+        {
+          "name": "Merry Pines",
+          "url": "https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147543,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/1g59CgM7CvLSRqpmFGGHeG"
     },
     {
       "album": {
@@ -4182,6 +4236,42 @@
       "duration_ms": 163268,
       "name": "Un-break My Heart (arr. piano)",
       "url": "https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO"
+    },
+    {
+      "album": {
+        "name": "Underneath the Tree",
+        "url": "https://open.spotify.com/album/25UwcfDISTNctF6O3DruVM"
+      },
+      "artists": [
+        {
+          "name": "warmest depths",
+          "url": "https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171487,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/2V82vAe3zDgdsTn5xZ7h8m"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/0Tvoo673A3bqsAnXkcPRma"
+      },
+      "artists": [
+        {
+          "name": "Davide Ambrosia",
+          "url": "https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156036,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/0Ug2sprcGoWHbQYzvTA1ry"
     },
     {
       "album": {

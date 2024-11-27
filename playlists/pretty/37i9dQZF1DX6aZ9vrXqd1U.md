@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,803 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,833 likes - 132 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 39 | [Fields of hope](https://open.spotify.com/track/2MHA3CFfUDzevCObI5KNnI) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [Fields of hope](https://open.spotify.com/album/5pcdOMEf4nheJM0K0R4QOo) | 5:09 |
 | 40 | [ミッション開始](https://open.spotify.com/track/6LZ0S8FJJH8dfyKN7AkDjv) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 1](https://open.spotify.com/album/16DdBDLzmENeSblH6B5bVy) | 1:57 |
 | 41 | [覚醒シン・アスカ](https://open.spotify.com/track/7CX8iF94cbuiZT9DTBqJPg) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 2](https://open.spotify.com/album/5kSfKduD6kLQ76JmOpeh24) | 1:49 |
-| 42 | [出撃! インパルス](https://open.spotify.com/track/2nZG3hwPMjzBOaSDkgD3gk) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 2](https://open.spotify.com/album/5kSfKduD6kLQ76JmOpeh24) | 1:29 |
+| 42 | [出撃! インパルス](https://open.spotify.com/track/2nZG3hwPMjzBOaSDkgD3gk) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 2](https://open.spotify.com/album/5kSfKduD6kLQ76JmOpeh24) | 1:29 |
 | 43 | [キラ、その心のままに](https://open.spotify.com/track/7ooLn21DfEl2LZvivc11JH) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 3](https://open.spotify.com/album/7zA6RJRov58p4W6nmNVImz) | 2:55 |
 | 44 | [Result](https://open.spotify.com/track/4FQ8NOw5D10LRlQjwESDUI) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Graduation 〜Singles〜](https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2) | 4:16 |
 | 45 | [tears](https://open.spotify.com/track/0MLhX6Najd6lo8wZEnjLTq) | [lisa](https://open.spotify.com/artist/1sReh6VMvZSAXWOE4zX5sf) | [tears](https://open.spotify.com/album/0wsiSUnH2aTP3NiYVdQ8j3) | 4:23 |

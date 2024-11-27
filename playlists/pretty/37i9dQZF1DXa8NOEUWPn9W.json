@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Max Styler.",
-  "num_followers": 1950808,
+  "num_followers": 1950785,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "By Myself (feat. XKYLAR)",
-        "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "XKYLAR",
-          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "By Myself (feat. XKYLAR)",
-      "url": "https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "By Myself (feat. XKYLAR)",
+        "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "By Myself (feat. XKYLAR)",
+      "url": "https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "B Somebody",
-        "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 172033,
-      "name": "B Somebody",
-      "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "See You Sweat",
         "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
       },
@@ -1947,26 +1927,6 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "I Like Dancing",
-        "url": "https://open.spotify.com/album/55RB7beoraMelRsQ2V1DXx"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "I Like Dancing",
-      "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1991,6 +1951,46 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "B Somebody",
+        "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 172033,
+      "name": "B Somebody",
+      "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "I Like Dancing",
+        "url": "https://open.spotify.com/album/55RB7beoraMelRsQ2V1DXx"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "I Like Dancing",
+      "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Bump Artist EP",
         "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
       },
@@ -2007,30 +2007,6 @@
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
-        "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
-      "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2071,6 +2047,30 @@
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+        "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+      "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Disco Boy",
+        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 221370,
+      "name": "Disco Boy",
+      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Fallin In Love",
         "url": "https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 203134,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Disco Boy",
-        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 221370,
-      "name": "Disco Boy",
-      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2323,6 +2323,26 @@
       "duration_ms": 160942,
       "name": "Mad Motion",
       "url": "https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Let's Go (Magalenha)",
+        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "Let's Go (Magalenha)",
+      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2463,26 +2483,6 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Give It To Me Good",
-        "url": "https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Give It To Me Good",
-      "url": "https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK"
     }
   ],
   "unique_name": "Housewerk",

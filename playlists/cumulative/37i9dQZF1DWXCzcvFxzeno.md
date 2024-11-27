@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-198 songs - 15 hr 30 min
+199 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
+| [Blow Up The Speakers vs\. Hard One \[Live At Tomorrowland\]](https://open.spotify.com/track/5jaiP1qbLsetMAKuXOY3kj) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [The Moon](https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6), [DJ Ghost](https://open.spotify.com/artist/6ZIKPrjoaYURaSRnwPw1pg) | [Vinyl Only \(Live at Tomorrowland\)](https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6) | 2:31 | 2024-11-22 |  |
 | [Bomb Drop Rhythm](https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE) | [JVRM](https://open.spotify.com/artist/5jtReR2dGUE1x3kxkTyfu7) | [Bomb Drop Rhythm](https://open.spotify.com/album/1y8NI4TIhiI2vYGrzf20nT) | 6:19 | 2024-07-14 | 2024-07-22 |
 | [Bounce Back](https://open.spotify.com/track/3H470QOFLgh6CuUj7CuhAL) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back](https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o) | 5:24 | 2024-04-09 |  |
 | [Bounce It](https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by) | [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Bounce It](https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR) | 6:30 | 2024-10-14 |  |
@@ -156,7 +157,7 @@
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 |  |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
-| [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 |  |
+| [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 | 2024-10-24 |  |

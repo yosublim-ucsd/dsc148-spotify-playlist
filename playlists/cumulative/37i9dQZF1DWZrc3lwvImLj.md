@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-441 songs - 19 hr 19 min
+445 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,11 +101,13 @@
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-12-14 | 2023-06-21 |
 | [Diomede](https://open.spotify.com/track/1PBHmvZAJesTPz7UPnci1k) | [Charly Martin](https://open.spotify.com/artist/0hO3nAl0tbOlhLN99WasSE) | [Diomede](https://open.spotify.com/album/5YyBMY3ZqNsPDQFxfNche8) | 1:54 | 2023-08-07 | 2023-11-16 |
 | [Dreaming of you](https://open.spotify.com/track/5WxjB6nmjKOOnNnOisKbTo) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Dreaming of you](https://open.spotify.com/album/4PQClkMFUBwAEyKDq45nC3) | 2:12 | 2023-11-14 |  |
+| [Dreams of a Silent Fjord](https://open.spotify.com/track/1VcE5vUj3cVzhWKWufB7V8) | [Ely Ève](https://open.spotify.com/artist/4tcvZoHbBrHpRZMhL8E9ku) | [Dreams of a Silent Fjord](https://open.spotify.com/album/4HP1M85hC3a7WBjKDwwDOX) | 2:10 | 2024-11-26 |  |
 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 | 2023-11-14 |  |
 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 | 2021-12-14 |  |
 | [Dès vu](https://open.spotify.com/track/4xrojcxCFJ26E8JUB5fDfE) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Dès vu](https://open.spotify.com/album/0r4jrdVyggFR6n8EA9s1fm) | 2:09 | 2022-06-06 |  |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-03-17 | 2024-10-16 |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2021-12-14 | 2022-05-21 |
+| [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 | 2024-11-26 |  |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-10 |  |
 | [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 | 2024-05-07 |  |
 | [Elmegyünk](https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Elmegyünk](https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24) | 2:18 | 2022-05-04 |  |
@@ -213,6 +215,7 @@
 | [Ma Dette Envers Toi](https://open.spotify.com/track/7A92FFdkNRvdXiYgI5Ohgr) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Ma Dette Envers Toi](https://open.spotify.com/album/233emtLMcu5tl9chdIbThW) | 3:49 | 2024-10-22 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2021-12-14 | 2022-05-05 |
 | [Mari](https://open.spotify.com/track/5AsYLazJhOnZaAxfQgTwte) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Mari](https://open.spotify.com/album/4U1tuF9PINDX3hGsp0OCRg) | 2:01 | 2022-12-21 | 2023-11-16 |
+| [Melancholy](https://open.spotify.com/track/6PWInaX3jHRXhrqdji0Bgz) | [Adjoa Bekoe](https://open.spotify.com/artist/0cQsoeN9sMLe32WaCK5PhU) | [Melancholy](https://open.spotify.com/album/2GarQcK74YUexmQH2D5jIz) | 3:07 | 2024-11-26 |  |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-09 |  |
 | [Mellow Moonlit Melody](https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Mellow Moonlit Melody](https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu) | 2:41 | 2024-02-02 |  |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2021-12-14 | 2023-11-16 |
@@ -320,6 +323,7 @@
 | [Serendipitous Moments](https://open.spotify.com/track/4U5cOQybpKtE5UU3uanEPi) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Serendipitous Moments](https://open.spotify.com/album/5gPa0qiVCOINiP66aBGGie) | 2:55 | 2023-09-05 |  |
 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 | 2024-10-08 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-14 | 2023-05-10 |
+| [Seville](https://open.spotify.com/track/5PG8FLh4LZbWTtWX4F1wCw) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Seville](https://open.spotify.com/album/7b0pD04k9cAOX2li8p0wpl) | 2:17 | 2024-11-26 |  |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |
 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-14 |  |

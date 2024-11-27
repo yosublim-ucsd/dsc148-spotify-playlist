@@ -4,14 +4,14 @@
 
 > All the stuff that will blow your speakers!
 
-431 songs - 20 hr 39 min
+432 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 | 2024-10-10 |  |
 | [365 Hot!](https://open.spotify.com/track/3HmaA8d5hgIn4t1CKece95) | [TØRISMAD](https://open.spotify.com/artist/48TwJJw5yBLn6sqZqJR5re) | [365 Hot!](https://open.spotify.com/album/6atK82QbiyLYCpF1Fn3hGd) | 2:40 | 2024-11-07 |  |
 | [90s Bitch](https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [90s Bitch](https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt) | 3:16 | 2023-12-14 |  |
-| [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 | 2024-04-04 |  |
+| [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 | 2024-04-04 | 2024-11-27 |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-31 | 2024-01-06 |
 | [Adagio For Strings \- Klubfiller Remix](https://open.spotify.com/track/0s63tzi2LdLCzkAFAbfxcf) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO), [Klubfiller](https://open.spotify.com/artist/21CTwCPVk35jNlil50YBJZ) | [Adagio For Strings \(Klubfiller Remix\)](https://open.spotify.com/album/2sIdhe4HhA4PGsnsVHujK6) | 3:06 | 2023-10-26 | 2023-11-17 |
 | [Addicted \- BLK RSE Remix](https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [MICK \(Deluxe Edition\)](https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc) | 2:58 | 2023-10-19 | 2023-11-17 |
@@ -224,6 +224,7 @@
 | [Love Lies Bleeding](https://open.spotify.com/track/6cDMgUFxcz6SOzSW5HjCxg) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Love Lies Bleeding](https://open.spotify.com/album/4oL72qIblVT6v4PqY53yyB) | 2:20 | 2024-03-21 | 2024-04-05 |
 | [Low \(LUNAX Remix\)](https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Low \(LUNAX Remix\)](https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H) | 2:40 | 2023-08-31 | 2024-01-06 |
 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 | 2023-10-05 | 2024-02-02 |
+| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-07 |  |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-25 |  |
 | [Lullaby](https://open.spotify.com/track/3BAjEeh5aXku904NIK0nfR) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [Lullaby](https://open.spotify.com/album/2aRFXAUffmR3oMkQv3hMyG) | 2:14 | 2023-10-05 | 2023-10-13 |
 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 | 2023-12-08 | 2024-02-23 |

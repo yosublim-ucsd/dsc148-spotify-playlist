@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-206 songs - 11 hr 23 min
+209 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,10 @@
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 |  |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 | 2023-01-04 |
 | [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 | 2022-07-29 |  |
+| [Murmuration](https://open.spotify.com/track/12rhKpjbc9EnL9bGQKxCBl) | [Evgeny Grinko](https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C) | [Murmuration](https://open.spotify.com/album/6h9XLJzx2ZBKu4ALIWjkfj) | 3:08 | 2024-11-26 |  |
 | [Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 | 2021-12-10 | 2023-03-15 |
 | [Necessary Things](https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Necessary Things](https://open.spotify.com/album/5KlfW6GEYoTWTbT4TSy2fo) | 3:52 | 2021-12-10 |  |
+| [Night, Pt\. 1: Snow](https://open.spotify.com/track/1V7Wv5yTEZIh6eFJe4oP0T) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 1:56 | 2024-11-26 |  |
 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 | 2022-01-28 |  |
 | [Nocturne](https://open.spotify.com/track/3T6Soe6AKNkeE5PfOlV6Uv) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09), [David Chalmin](https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT) | [Dessner: Nocturne](https://open.spotify.com/album/5XMhyMS1tKETQKTxYfkhqW) | 3:01 | 2024-09-27 |  |
 | [Nocturne III \(Arr\. for Piano from Nocturne Op\. 15 No\. 3 in G Minor by Olivia Belli\)](https://open.spotify.com/track/42ZuTRXsLZG4qpYFsTa4y3) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) | [Nocturne III \(Arr\. for Piano from Nocturne Op\. 15 No\. 3 in G Minor by Olivia Belli\)](https://open.spotify.com/album/1rdYxnDw29Kf0Hr9Ob3eij) | 2:35 | 2022-10-28 | 2023-03-15 |
@@ -212,6 +214,7 @@
 | [Wavering Heart](https://open.spotify.com/track/01Obe4SWMXoUKak13Uue71) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Wavering Heart](https://open.spotify.com/album/6Te7V9eLNY1300KEYrosRk) | 2:21 | 2021-12-10 | 2023-01-04 |
 | [When Orange is the Sky](https://open.spotify.com/track/17xaw9sDx8gyw1ZAOUb1Ns) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [When Orange is the Sky](https://open.spotify.com/album/2OCteDOA3yS9yKZqVjxpZv) | 1:39 | 2021-12-10 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-12-10 | 2023-01-04 |
+| [You Name It \(Paris\)](https://open.spotify.com/track/11UzclAxRYv3zNqEVd7ci1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [You Name It \(Paris\)](https://open.spotify.com/album/1NWW3unIQGqIgVGpruCzIU) | 3:28 | 2024-11-26 |  |
 | [æfre](https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [æfre](https://open.spotify.com/album/4qvfeDEPDNmJFIJdOjGoaW) | 3:06 | 2021-12-10 |  |
 | […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 | 2021-12-10 | 2023-01-04 |
 

@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -12848,7 +12848,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 202629,
       "name": "M\u1ed8NG YU",
       "url": "https://open.spotify.com/track/5oFEvbM7lGnx8jfAkuhVyo"
@@ -13848,7 +13848,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -15910,7 +15910,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
@@ -17162,7 +17162,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -19408,6 +19408,36 @@
       "duration_ms": 196866,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f"
+    },
+    {
+      "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "LVK",
+          "url": "https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279605,
+      "name": "Tim Anh Ghen",
+      "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
     },
     {
       "album": {

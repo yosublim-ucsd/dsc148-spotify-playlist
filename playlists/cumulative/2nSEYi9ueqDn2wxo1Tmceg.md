@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,152 songs - 3 day 6 hr 43 min
+1,153 songs - 3 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Casino](https://open.spotify.com/track/6ClLZM12itEFkx1J5x8Cy3) | [Borough Council](https://open.spotify.com/artist/3IFJ7fiCYTHMD2AOmVaxlI) | [Casino](https://open.spotify.com/album/7wCgrhVApyEX3uaskrdpLY) | 2:58 | 2024-01-24 | 2024-03-21 |
 | [Casino Niagara](https://open.spotify.com/track/34X6sen1cw8Vs96nBk79OK) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Love Hallucination](https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2) | 4:02 | 2023-08-02 | 2023-09-21 |
 | [Cassius, Brutus & Judas](https://open.spotify.com/track/7cH7vJWo1XjR0UHtVyBZuT) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Cassius, Brutus & Judas](https://open.spotify.com/album/6O5wo3zXHE631tnWH46juq) | 2:47 | 2024-06-12 | 2024-07-18 |
+| [Cat Burglar](https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 4:16 | 2024-11-26 |  |
 | [Cellophane Dreams](https://open.spotify.com/track/2UTrgaRRHRypMDESenWxbw) | [Conor Kenahan](https://open.spotify.com/artist/1l1xhd3meqLKqYtokdwSHc) | [Cellophane Dreams / Jane](https://open.spotify.com/album/5r8oLpmLOwPayVSO6LIT0F) | 2:54 | 2023-05-24 | 2023-07-06 |
 | [Chaise Longue \- Unknown Mortal Orchestra remix](https://open.spotify.com/track/63HfmTwWZVD3nk34OFJv05) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Chaise Longue \(Unknown Mortal Orchestra remix\)](https://open.spotify.com/album/5gvFcI6l6RL3OHOlJevdgn) | 3:31 | 2023-01-06 | 2023-02-16 |
 | [Change](https://open.spotify.com/track/5YPyu3NVkNqoQsPXBVxyT2) | [Dancer](https://open.spotify.com/artist/4aRuyN2moR9xvYmIzUHiR1) | [Change](https://open.spotify.com/album/0PCRrgbxk2szcZCgTy6frH) | 2:46 | 2024-02-29 | 2024-04-11 |

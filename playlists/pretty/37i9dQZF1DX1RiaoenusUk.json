@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28771,
+  "num_followers": 28793,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "En Una",
-        "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
+        "name": "Tamo haciendolo",
+        "url": "https://open.spotify.com/album/6gqMuJwUf5TOhVa4IZk0KK"
       },
       "artists": [
         {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+          "name": "Los Tetas",
+          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
         }
       ],
-      "duration_ms": 249731,
-      "name": "En Una",
-      "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
+      "duration_ms": 176745,
+      "name": "Tamo haciendolo",
+      "url": "https://open.spotify.com/track/25vfx84Ini7sjuNUK5pZSn"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Tamo haciendolo",
-        "url": "https://open.spotify.com/album/6gqMuJwUf5TOhVa4IZk0KK"
+        "name": "En Una",
+        "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
       },
       "artists": [
         {
-          "name": "Los Tetas",
-          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 176745,
-      "name": "Tamo haciendolo",
-      "url": "https://open.spotify.com/track/25vfx84Ini7sjuNUK5pZSn"
+      "duration_ms": 249731,
+      "name": "En Una",
+      "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -991,26 +975,6 @@
       "duration_ms": 284213,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1035,22 +999,38 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Myselfed",
-        "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
         },
         {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 287639,
-      "name": "Myselfed",
-      "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+        "name": "Myselfed",
+        "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 287639,
+      "name": "Myselfed",
+      "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1119,6 +1103,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
         }
       ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1255,6 +1239,22 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+      },
+      "artists": [
+        {
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
         "name": "De Antes",
         "url": "https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 208250,
       "name": "De Antes",
       "url": "https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1567,34 +1567,38 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Los D\u00edas",
-        "url": "https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr"
+        "name": "Polvo C\u00f3smico (Remix)",
+        "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Plada",
-          "url": "https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D"
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
         }
       ],
-      "duration_ms": 178136,
-      "name": "Sapukai",
-      "url": "https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq"
+      "duration_ms": 207888,
+      "name": "Polvo C\u00f3smico - Remix",
+      "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
     }
   ],
   "unique_name": "Nota Funk",

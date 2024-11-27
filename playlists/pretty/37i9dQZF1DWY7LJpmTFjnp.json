@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pante\u00f3n Rococ\u00f3 en portada. ",
-  "num_followers": 1002105,
+  "num_followers": 1002127,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 162322,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
+    },
+    {
+      "added_at": "2024-10-25 16:53:42",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
@@ -1543,6 +1559,26 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+    },
+    {
+      "added_at": "2024-10-25 16:53:42",
+      "album": {
         "name": "S\u00e3o Paulo Motoboy",
         "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
       },
@@ -1555,42 +1591,6 @@
       "duration_ms": 148600,
       "name": "S\u00e3o Paulo Motoboy",
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2024-10-25 16:53:42",
-      "album": {
-        "name": "Brujer\u00eda",
-        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 173747,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
-    },
-    {
-      "added_at": "2024-10-25 16:53:42",
-      "album": {
-        "name": "Con Vos",
-        "url": "https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 162322,
-      "name": "Con Vos",
-      "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
     },
     {
       "added_at": "2024-10-25 16:53:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
-        "name": "Botas Negras",
-        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
-      },
-      "artists": [
-        {
-          "name": "Radio Kaos",
-          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Botas Negras",
-      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
-    },
-    {
-      "added_at": "2024-10-25 16:53:42",
-      "album": {
         "name": "No Puede Parar De So\u00f1ar",
         "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
       },
@@ -1679,8 +1663,24 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+        "name": "Botas Negras",
+        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+      },
+      "artists": [
+        {
+          "name": "Radio Kaos",
+          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Botas Negras",
+      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "added_at": "2024-10-25 16:53:42",
+      "album": {
+        "name": "Brujer\u00eda",
+        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
       "artists": [
         {
@@ -1688,13 +1688,13 @@
           "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         },
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 325145,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+      "duration_ms": 173747,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
     },
     {
       "added_at": "2024-10-25 16:53:42",

@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-191 songs - 9 hr 26 min
+192 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [It's Christmas Now!](https://open.spotify.com/track/6tc2mMOQTiMMH238j1UieZ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC) | 2:40 | 2021-12-07 | 2022-11-24 |
 | [It's Christmas Now!](https://open.spotify.com/track/4cdkwYawbVu9TN6C57D8CE) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN) | 2:40 | 2022-11-23 | 2024-04-19 |
 | [It's Christmas Now!](https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:40 | 2021-12-07 | 2024-08-31 |
-| [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo) | 2:30 | 2022-11-23 |  |
+| [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1K5TtzFlzdQLxKx0O5uiH8) | [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Rizzo](https://open.spotify.com/artist/6flgnVkkS25EzY1ZEuPCAw) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:52 | 2024-11-26 |  |
+| [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo) | 2:30 | 2022-11-23 | 2024-11-27 |
 | [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/5n9OArDe2XxJhGOtKKMZ7C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 2:30 | 2021-12-07 | 2022-07-29 |
 | [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/02i04SaGvLTl8yQZCnuBnN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Christmas!](https://open.spotify.com/album/2wiCCX3B5AVPbE1pugk04N) | 2:31 | 2021-12-07 | 2022-11-24 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0CkxfYH7Q7XMhxYQmsY2r9) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Christmas Rock 2020](https://open.spotify.com/album/5wyjx7FJDmA9puWO2tdHk3) | 2:15 | 2021-12-07 | 2022-11-13 |

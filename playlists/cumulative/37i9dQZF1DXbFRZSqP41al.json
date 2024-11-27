@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v"
+    },
+    {
+      "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 250110,
       "name": "Flacco",
       "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 191434,
       "name": "HEADSPACE FT. POORSTACY",
       "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
@@ -2575,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -3030,6 +3070,24 @@
       "duration_ms": 174253,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/5hWrXs5idMNnZMPahmsJCY"
+    },
+    {
+      "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173326,
+      "name": "Made An America",
+      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
     },
     {
       "album": {
@@ -3845,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "FISSION",
+        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233321,
+      "name": "Running In Circles",
+      "url": "https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn"
+    },
+    {
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -3964,7 +4040,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
@@ -4036,7 +4112,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 211520,
       "name": "Sharkbait",
       "url": "https://open.spotify.com/track/2XybqMpL67EfQErfR00HID"

@@ -4,7 +4,7 @@
 
 > il pop è un  mega caleidoscopio 🏵️ cover: Ottobre ✨
 
-277 songs - 13 hr 19 min
+280 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 | 2024-11-13 |
 | [Domenica](https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Domenica](https://open.spotify.com/album/6xb78BWMqDFmDntV0jcVP6) | 3:08 | 2024-09-05 | 2024-11-13 |
 | [Donna Fiammifero](https://open.spotify.com/track/2UYSRTGIvQJMJCgQZpZRF8) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F) | [Donna Fiammifero](https://open.spotify.com/album/4GhztJmrr7bwsoyz8NKuax) | 2:40 | 2024-06-27 | 2024-07-05 |
+| [Dove si va](https://open.spotify.com/track/7kfKhwwBxouY1oBIAnTPMX) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Dove si va](https://open.spotify.com/album/1FlhTJIKS0pYUtuoG2m1gG) | 2:24 | 2024-11-26 |  |
 | [Due città](https://open.spotify.com/track/0pKGqyTeOU8X1yWas2fysJ) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Due città](https://open.spotify.com/album/28miBXg5kOFeEOxHOXKKVY) | 2:18 | 2024-06-27 | 2024-08-23 |
 | [ESTATE](https://open.spotify.com/track/6QLFAWuv3zaWkP0xIIyBmm) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [ENERGY KILL DEM](https://open.spotify.com/album/7vME99LAKqHCbnD4166AFu) | 2:32 | 2024-07-25 | 2024-08-30 |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-06-27 | 2024-09-20 |
@@ -89,6 +90,7 @@
 | [FORTE](https://open.spotify.com/track/5jHrfCQXUA1L0q4OKxcmmI) | [Dada](https://open.spotify.com/artist/07Mm8XIL3DTHtmBQQRjxN2) | [FORTE](https://open.spotify.com/album/1CgeMEzowRd31EHAjGx4fu) | 2:33 | 2024-07-25 | 2024-08-23 |
 | [Fragolamilano](https://open.spotify.com/track/1lhOVOQ1GxLXULLIQxnp37) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Fragolamilano](https://open.spotify.com/album/5GxznTZmYweRzvLUNSmch1) | 2:39 | 2024-11-14 |  |
 | [FRANKIE](https://open.spotify.com/track/28HNklowBQdAsGwuVp8gCH) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [FRANKIE](https://open.spotify.com/album/3kZ0jQnj8jEn4nNz6IdTGX) | 2:15 | 2024-06-27 | 2024-08-23 |
+| [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 | 2024-11-26 |  |
 | [Fulmini](https://open.spotify.com/track/288mB9jxtVjhp5ec9UMunw) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Fulmini](https://open.spotify.com/album/71W6irAx4eulxb3AXUT5wE) | 3:04 | 2024-11-14 |  |
 | [Game Over](https://open.spotify.com/track/1UvidmTdCoLM1gUB4INwWs) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Game Over](https://open.spotify.com/album/7JDbqS1lenkORKdiPsfFMu) | 2:57 | 2024-06-27 | 2024-07-19 |
 | [GARAGE MARE](https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N) | [Oh Baro](https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5) | [GARAGE MARE](https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT) | 2:41 | 2024-07-25 | 2024-08-23 |
@@ -160,6 +162,7 @@
 | [Mi piace](https://open.spotify.com/track/6L1Vn4Sylnvm1aWDVyM5HA) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [Mi piace](https://open.spotify.com/album/1GG6KWNtIcVYasYtTcERFw) | 2:54 | 2024-08-22 | 2024-10-04 |
 | [MIA](https://open.spotify.com/track/4a8jvaNPoKtUPg0lvMYwpy) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MIA](https://open.spotify.com/album/4rMkN9uKA447BTvYU6NZTa) | 2:20 | 2024-07-18 | 2024-08-23 |
 | [Mia / Niente da perdere](https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Mia / Niente da perdere](https://open.spotify.com/album/3UTZzJOWjOMPf74nPEsArv) | 2:15 | 2024-07-18 | 2024-08-23 |
+| [MILLE CONCERTI](https://open.spotify.com/track/376QKV218XBWMzHNCo8oDh) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [MILLE CONCERTI](https://open.spotify.com/album/4cvqZIvVNFxEnyKsfByfmu) | 2:45 | 2024-11-26 |  |
 | [MILLEOCCHI](https://open.spotify.com/track/1aACUM9mA5FNIo50o3OAwv) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [MILLEOCCHI](https://open.spotify.com/album/5ffvL4umx35j7jJQpFW4E6) | 2:42 | 2024-06-27 | 2024-07-19 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 | 2024-10-18 |
 | [MUSICA ESPECIAL](https://open.spotify.com/track/28mZlmVrofwqdZ3sVIFxJJ) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye) | [MUSICA ESPECIAL](https://open.spotify.com/album/6Tk4yBFG7aLLMzuJMkVQkr) | 3:11 | 2024-07-18 | 2024-08-30 |

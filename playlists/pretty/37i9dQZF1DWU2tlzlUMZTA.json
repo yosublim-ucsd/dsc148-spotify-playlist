@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- Heeriye by Jasleen Royal feat. Arijit Singh",
-  "num_followers": 116297,
+  "num_followers": 116369,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Manjha",
-        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "Manjha",
-      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "Desi Kalakaar",
-        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Love Dose",
-      "url": "https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Zihaal e Miskin",
         "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 243953,
       "name": "Zihaal e Miskin",
       "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Desi Kalakaar",
+        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Love Dose",
+      "url": "https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -771,30 +771,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Yaad Piya Ki Aane Lagi",
-        "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
-      },
-      "artists": [
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Lalit Sen",
-          "url": "https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS"
-        }
-      ],
-      "duration_ms": 256678,
-      "name": "Yaad Piya Ki Aane Lagi",
-      "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Pachtaoge (From \"Jaani Ve\")",
         "url": "https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 226789,
       "name": "Pachtaoge (From \"Jaani Ve\")",
       "url": "https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Yaad Piya Ki Aane Lagi",
+        "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Lalit Sen",
+          "url": "https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS"
+        }
+      ],
+      "duration_ms": 256678,
+      "name": "Yaad Piya Ki Aane Lagi",
+      "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -927,22 +927,26 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Buzz (feat. Badshah)",
-        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+        "name": "Dil Haareya",
+        "url": "https://open.spotify.com/album/1H8GL20MLKD7SwymXBFnZG"
       },
       "artists": [
         {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Vivian Richard",
+          "url": "https://open.spotify.com/artist/3sR271VJyaakVXllBttyl6"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Buzz (feat. Badshah)",
-      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+      "duration_ms": 239835,
+      "name": "Dil Haareya",
+      "url": "https://open.spotify.com/track/4vrpvlcDM3uze5PoOgZpoV"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -967,26 +971,22 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Chale Jaana Phir (Humko Tere Bina)",
-        "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
       },
       "artists": [
         {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
         },
         {
-          "name": "Rahul Mishra",
-          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Chale Jaana Phir (Humko Tere Bina)",
-      "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -1015,26 +1015,18 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Dil Haareya",
-        "url": "https://open.spotify.com/album/1H8GL20MLKD7SwymXBFnZG"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Vivian Richard",
-          "url": "https://open.spotify.com/artist/3sR271VJyaakVXllBttyl6"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+          "name": "Sumit Goswami",
+          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
         }
       ],
-      "duration_ms": 239835,
-      "name": "Dil Haareya",
-      "url": "https://open.spotify.com/track/4vrpvlcDM3uze5PoOgZpoV"
+      "duration_ms": 224805,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S"
     }
   ],
   "unique_name": "I-Pop Superhits",

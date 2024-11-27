@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: onsu(\uc628\uc218)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Jang Jane(\uc7a5\uc7ac\uc778)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -6121,6 +6121,24 @@
     },
     {
       "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/27pIPQU8UnGXGgEFRVU5ua"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271839,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/5JJIA6uCtImf9RlH2ISpha"
+    },
+    {
+      "album": {
         "name": "pounding trembling",
         "url": "https://open.spotify.com/album/2qFCc7RMflhZJWEjbEhk8d"
       },
@@ -6356,7 +6374,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"

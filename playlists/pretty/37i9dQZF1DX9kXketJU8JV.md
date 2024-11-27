@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 
 > 大丈夫、努力はきっと報われる。
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,828 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,836 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 | 14 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 | 15 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 16 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
-| 17 | [栄光の架橋](https://open.spotify.com/track/0uOHiGSYDxuG5BNT9HYVGs) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Going \[2001\~2005\]](https://open.spotify.com/album/0uKTcrCi6n6KBnoBvFCWj4) | 5:26 |
+| 17 | [栄光の架橋](https://open.spotify.com/track/0uOHiGSYDxuG5BNT9HYVGs) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Going \[2001～2005\]](https://open.spotify.com/album/0uKTcrCi6n6KBnoBvFCWj4) | 5:26 |
 | 18 | [だいじょうぶ](https://open.spotify.com/track/5nfpxwXCGlEz4IqylQoMwg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:55 |
 | 19 | [My HERO](https://open.spotify.com/track/0wm2DJR8GHRYYl7mAcenAw) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [My HERO / 夕凪](https://open.spotify.com/album/0nLq5hQw2WPRIi7dGVSoSP) | 2:33 |
 | 20 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |

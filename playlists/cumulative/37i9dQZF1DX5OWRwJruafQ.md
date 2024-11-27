@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-517 songs - 1 day 0 hr 42 min
+518 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Daadey](https://open.spotify.com/track/4wQoYEtHU6oXo9z62GITtH) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Divrose](https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Daadey](https://open.spotify.com/album/432wkwsdlyvcW99ePM2I85) | 2:07 | 2023-10-26 | 2023-11-07 |
 | [Daang Te Dera \- From "Khadari"](https://open.spotify.com/track/4kTuCpxZpGrUwiEnbHIEfU) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb) | [Daang Te Dera \(From "Khadari"\)](https://open.spotify.com/album/3Jd5vtPICSYKSyLwVg6Jkx) | 2:33 | 2024-01-22 | 2024-01-25 |
 | [Daaru \(feat\. Giorgia Andriani\)](https://open.spotify.com/track/12rFCGYNNkZvPDWuwf7npj) | [Sardar Ali](https://open.spotify.com/artist/5Nk5xxiNuhvB1HoGfbFlu2), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Giorgia Andriani](https://open.spotify.com/artist/53GJy7dL3tEpMcZAFEC6ZN) | [Daaru \(feat\. Giorgia Andriani\)](https://open.spotify.com/album/7oEy6Qr1TxUGBRu63ANPYf) | 3:32 | 2024-07-02 | 2024-07-09 |
-| [Dab 45](https://open.spotify.com/track/1zbxvF3nCwHoaHZWD83NqE) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Dab 45](https://open.spotify.com/album/0Gna8wT4zu7QzgTfhR0HWP) | 2:50 | 2024-08-14 |  |
+| [Dab 45](https://open.spotify.com/track/1zbxvF3nCwHoaHZWD83NqE) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Dab 45](https://open.spotify.com/album/0Gna8wT4zu7QzgTfhR0HWP) | 2:50 | 2024-08-14 | 2024-11-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-29 | 2024-01-25 |
 | [Daler \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/1ZiqQYnpeiopTE2nsJNR5s) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Daler \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/1HmF8RNy8ovdVNA6vsM0uo) | 2:36 | 2024-04-22 | 2024-05-10 |
 | [Damn Daddy](https://open.spotify.com/track/3Ox0CQ9jWEAamvdTnekx0J) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Damn Daddy](https://open.spotify.com/album/79Hl5KDpKufgvYZr6jlSwW) | 3:15 | 2024-08-21 |  |
@@ -285,6 +285,7 @@
 | [Laara](https://open.spotify.com/track/6YjzEVM695unCYO1rAAoQy) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:07 | 2024-04-26 |  |
 | [Laareyan](https://open.spotify.com/track/1YGV9xfXsIF93WYyQzwcCZ) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Laareyan](https://open.spotify.com/album/5faxscqEzI3hb6gSSVVHdP) | 3:23 | 2024-08-12 | 2024-08-21 |
 | [Lakh Lagje](https://open.spotify.com/track/3jo8Skp9Zb42J7smlir9pz) | [Love Brar](https://open.spotify.com/artist/60lKtBkcPvtB70ZNkGzUeQ) | [Lakh Lagje](https://open.spotify.com/album/49uhqEP8BvmBraMlXHADRT) | 3:21 | 2024-09-05 | 2024-10-05 |
+| [Lalkaare](https://open.spotify.com/track/5XU7ULgTkEdOV0sXvO6Jj1) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Jaini Sandhu](https://open.spotify.com/artist/55UKeoOT4cL1vSmfdLlG4Q) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:30 | 2024-11-26 |  |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-23 | 2024-07-27 |
 | [Lalkara](https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:40 | 2023-10-26 | 2023-11-17 |
 | [Lambo Flow](https://open.spotify.com/track/3w9vIld1UbvPOdDj89dHaj) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Lambo Flow](https://open.spotify.com/album/2L8DokfZs3TSWmRlPnFbx3) | 2:51 | 2023-09-12 | 2023-10-26 |

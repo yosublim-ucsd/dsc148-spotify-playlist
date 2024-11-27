@@ -2,9 +2,9 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
+> Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.
 
-118 songs - 5 hr 33 min
+119 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 | 2024-01-05 | 2024-07-03 |
 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 | 2024-01-05 |  |
 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 | 2024-01-05 | 2024-07-03 |
+| [Real Chinatown](https://open.spotify.com/track/7jONboOBHkNpXfDi2QkF4L) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [Interior Chinatown \(Original Soundtrack\)](https://open.spotify.com/album/7uNMqjTdzziuyQj68SyLDO) | 3:33 | 2024-11-26 |  |
 | [Retrograde](https://open.spotify.com/track/2MgPGkrr0Gqwnt6RXYJfeX) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 3:48 | 2024-09-20 |  |
 | [Return to Sender](https://open.spotify.com/track/71Z7P3GdkgS5HcRWcQnCGz) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/1XBUl7nB5Cpcxd9eNlAWC6) | 2:32 | 2024-07-19 |  |
 | [Running Elizabeth](https://open.spotify.com/track/4mj1ZCx7F939G1C3RhAYDL) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 1:14 | 2024-01-05 |  |

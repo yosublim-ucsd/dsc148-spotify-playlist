@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,238 likes - 27 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,237 likes - 27 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 21 | [Mi Camino](https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:47 |
 | 22 | [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 |
 | 23 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
-| 24 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 |
-| 25 | [A Tu Manera](https://open.spotify.com/track/2KtX550M6HtfV2cSmRAu3e) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/15tnSlxtE1Tua2HIgmJHhG) | 4:44 |
+| 24 | [A Tu Manera](https://open.spotify.com/track/2KtX550M6HtfV2cSmRAu3e) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/15tnSlxtE1Tua2HIgmJHhG) | 4:44 |
+| 25 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 |
 | 26 | [Quedate \(feat\. King Jeff\) \- Discoteca](https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(feat\. King Jeff\) \[Discoteca\]](https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a) | 3:20 |
 | 27 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 |
 
-Snapshot ID: `Z0JsgAAAAAA0jdNic4mKXRH6tUP7IFWR`
+Snapshot ID: `Z0O+AAAAAAD5Gjv1y+7qdsGxc9wNg+xn`

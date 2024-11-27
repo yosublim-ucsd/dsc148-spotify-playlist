@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "The Story of Espion",
+        "url": "https://open.spotify.com/album/7IXyWJ8u6nyz80mumzf67e"
+      },
+      "artists": [
+        {
+          "name": "DJ Mehdi",
+          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
+        },
+        {
+          "name": "Lil' Dap",
+          "url": "https://open.spotify.com/artist/4c6If3ZuEjpTDP0hvrlWC4"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347666,
+      "name": "About Me (feat. Rim'K & Lil'Dap)",
+      "url": "https://open.spotify.com/track/0JXVHxduKy0937lWKWpWSB"
+    },
+    {
+      "album": {
         "name": "Amazigh Freedom Rock 1973 \u2013 1983",
         "url": "https://open.spotify.com/album/1NDS2djB0MwBiqZ5DglCpF"
       },
@@ -251,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Velox",
+        "url": "https://open.spotify.com/album/0ni2CUfr78oLX1MVfpAOPl"
+      },
+      "artists": [
+        {
+          "name": "Danae Palaka",
+          "url": "https://open.spotify.com/artist/7ueEOfnefUAXFl3bH3yAMu"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301968,
+      "name": "Anassa",
+      "url": "https://open.spotify.com/track/3KeVWNb93h28pPxwYq1ugr"
+    },
+    {
+      "album": {
         "name": "Free Music (Part 1) (Habibi Funk 021)",
         "url": "https://open.spotify.com/album/2jyIpT41M6bEcDVsriGKSr"
       },
@@ -266,7 +310,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 277566,
       "name": "Arb Share'i",
       "url": "https://open.spotify.com/track/1FzB7oBR1Xjtfh6kmiNdKF"
@@ -288,7 +332,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 339854,
       "name": "As She Rolled Another",
       "url": "https://open.spotify.com/track/789TJGJK8CiNshbuLzEnfN"
@@ -523,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Boom Riddim",
+        "url": "https://open.spotify.com/album/3zG1rwrHYZFYIeLD07UVNH"
+      },
+      "artists": [
+        {
+          "name": "Head Concussion",
+          "url": "https://open.spotify.com/artist/2hSgMPRN13bI6TkkHj99bn"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156286,
+      "name": "Boom Riddim - Instrumental",
+      "url": "https://open.spotify.com/track/15vUn0kzylQ3af1N7oaGjK"
+    },
+    {
+      "album": {
         "name": "Onda de Amor: Synthesized Brazilian Hits That Never Were (1984-94)",
         "url": "https://open.spotify.com/album/4xyyD1YmYlIbkbiuS9Gudc"
       },
@@ -552,7 +614,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 280613,
       "name": "Break de Rua - Vers\u00e3o Longa",
       "url": "https://open.spotify.com/track/3MkzXiKv79zzK9QvVbQE7z"
@@ -1083,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "No Solutions EP",
+        "url": "https://open.spotify.com/album/1GqrS2aNq1HG2Xt1jT4He1"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306548,
+      "name": "Dragged",
+      "url": "https://open.spotify.com/track/5Y2AFcvmnshDMMKfjkZ0wh"
+    },
+    {
+      "album": {
         "name": "Melodies Record Club #002: Ben UFO selects",
         "url": "https://open.spotify.com/album/4KPPFvfw89EYRxUEaMqz1o"
       },
@@ -1112,7 +1192,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 223117,
       "name": "Durst",
       "url": "https://open.spotify.com/track/6wd3bvUkiVUcToubPN4705"
@@ -1462,6 +1542,28 @@
       "duration_ms": 246800,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/6DUHpnjg6IYkGW0bIrYXLC"
+    },
+    {
+      "album": {
+        "name": "Dar Disku",
+        "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
+      },
+      "artists": [
+        {
+          "name": "Dar Disku",
+          "url": "https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR"
+        },
+        {
+          "name": "Aymen Attia",
+          "url": "https://open.spotify.com/artist/0JGgJH2rCNNIjvM2aCtyR4"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255227,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/26q9xYrUpgkazzxDfCuS7U"
     },
     {
       "album": {
@@ -1832,7 +1934,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 365200,
       "name": "Illuminated Displays",
       "url": "https://open.spotify.com/track/6eb2SM8LS1ByBP6PS2VjEZ"
@@ -1966,7 +2068,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 163053,
       "name": "Lawrence",
       "url": "https://open.spotify.com/track/41TEKvhxSFd2g5N7KSsBI0"
@@ -2042,10 +2144,32 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 250893,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/4ffoWIfe9UWfyuJT5I0I7L"
+    },
+    {
+      "album": {
+        "name": "Retro rap fran\u00e7ais \"\u00c0 l'ancienne\"",
+        "url": "https://open.spotify.com/album/55cxzK5pC0GlcIBA1mkx3I"
+      },
+      "artists": [
+        {
+          "name": "Intouchable",
+          "url": "https://open.spotify.com/artist/4lMAWg5O9NCDdHaX7sHpWD"
+        },
+        {
+          "name": "Dj Medhi",
+          "url": "https://open.spotify.com/artist/00yl0AmbP6Sd2SxeViTKGw"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266626,
+      "name": "Les points sur les i - Dj Mehdi Remix",
+      "url": "https://open.spotify.com/track/2zPC5gzWF6cyi7MRDfewnC"
     },
     {
       "album": {
@@ -2247,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Catch Your Ear / Meringueatang",
+        "url": "https://open.spotify.com/album/3J3ChBHVnVPLsNGycBJJu8"
+      },
+      "artists": [
+        {
+          "name": "A Trifle Too Far",
+          "url": "https://open.spotify.com/artist/5j6xKdm7ol8vHOyRuQF0Yc"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428408,
+      "name": "Meringueatang",
+      "url": "https://open.spotify.com/track/7merg6HHHvRQTEWnB1zN5u"
+    },
+    {
+      "album": {
         "name": "Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia",
         "url": "https://open.spotify.com/album/7jQ78PaadhvzvNVMTJ9b6I"
       },
@@ -2352,7 +2494,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 212489,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/2F2naxPU8VV7U8IkAWlkfA"
@@ -2508,7 +2650,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 205880,
       "name": "No Es Computable",
       "url": "https://open.spotify.com/track/2eNHcA0WB3og9xLXAWMcl3"
@@ -2574,6 +2716,24 @@
       "duration_ms": 485786,
       "name": "No Games - Velvet Season & The Hearts Of Gold Remix",
       "url": "https://open.spotify.com/track/1hwaTWz08JjsHxdW1fmXrM"
+    },
+    {
+      "album": {
+        "name": "MAKING OF NON-STANDARD MUSIC",
+        "url": "https://open.spotify.com/album/0AXCPuHNL9q0EXsvD99gy5"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424240,
+      "name": "Non-Standard Mixture",
+      "url": "https://open.spotify.com/track/3BOxDRt5HFDBFrdajDOjM7"
     },
     {
       "album": {
@@ -2819,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "1 & 2",
+        "url": "https://open.spotify.com/album/6z3TOwkztnmF0rIeZ23LPZ"
+      },
+      "artists": [
+        {
+          "name": "ASK VM",
+          "url": "https://open.spotify.com/artist/6FhPgEnM8sdKII9mxNQS3e"
+        },
+        {
+          "name": "Horsepower Productions",
+          "url": "https://open.spotify.com/artist/2Su6RvkvrMNSvEh9ccMWD5"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420160,
+      "name": "Question Marek - Horsepower Productions Remix",
+      "url": "https://open.spotify.com/track/4lXewX30wOSTEpMlJGpvJ0"
+    },
+    {
+      "album": {
         "name": "BBC Radiophonic Workshop - The Soundhouse",
         "url": "https://open.spotify.com/album/1bAbuatkgzmpV5LqaC4Jz7"
       },
@@ -2888,7 +3070,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 255146,
       "name": "Radiophonic Rock",
       "url": "https://open.spotify.com/track/3uJleaaDEuFQWj15YOiAfB"
@@ -2964,7 +3146,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 469973,
       "name": "Renegade Soundwave - Leftfield Remix",
       "url": "https://open.spotify.com/track/6INNs26zUPhIkxzJu7rlMF"
@@ -3539,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226157,
+      "name": "Suffisamment",
+      "url": "https://open.spotify.com/track/1fMAP64vxLFwHczDHJuygN"
+    },
+    {
+      "album": {
         "name": "Zbog Tebe Bih Tucao Kamen",
         "url": "https://open.spotify.com/album/7fnfYOcje2wc6N6IKobla6"
       },
@@ -3622,10 +3822,36 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 410728,
       "name": "Taboo - Club Mix",
       "url": "https://open.spotify.com/track/6hFM0ZuBAD7rnXcqxY32Yg"
+    },
+    {
+      "album": {
+        "name": "Loved Up",
+        "url": "https://open.spotify.com/album/1GiBKMikOLZJTTuz7wuHW3"
+      },
+      "artists": [
+        {
+          "name": "Andrea & Alexander",
+          "url": "https://open.spotify.com/artist/7JKAsJn32sARVip2mCOvyf"
+        },
+        {
+          "name": "Alexander Arpeggio",
+          "url": "https://open.spotify.com/artist/55bIirCDLISx9GUesK8rv9"
+        },
+        {
+          "name": "Eva Geist",
+          "url": "https://open.spotify.com/artist/6vlfGjQxZIoVDun1UUX3gv"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "Taifun",
+      "url": "https://open.spotify.com/track/2BEsxwQQ2GGqOOIpsNV2Hc"
     },
     {
       "album": {
@@ -3720,6 +3946,28 @@
       "duration_ms": 195000,
       "name": "Tha Sou Kano Kapsonaki",
       "url": "https://open.spotify.com/track/2NUoyRMIm58LC5y88KXqhN"
+    },
+    {
+      "album": {
+        "name": "That's Enough (PBR Streetgang Remix)",
+        "url": "https://open.spotify.com/album/7mjldI7Ql1ErNwMtR6A9UD"
+      },
+      "artists": [
+        {
+          "name": "Tegel Boys",
+          "url": "https://open.spotify.com/artist/1W4mHvzQ0DKu18eFTg7vVD"
+        },
+        {
+          "name": "PBR Streetgang",
+          "url": "https://open.spotify.com/artist/5PDEurVJJvitl9PGDjhPgY"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409180,
+      "name": "That's Enough - PBR Streetgang Remix",
+      "url": "https://open.spotify.com/track/2iLVYmK6YUUTvxLYEAeWNU"
     },
     {
       "album": {
@@ -4091,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "Disco Dancer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382406,
+      "name": "Yaad Aa Raha Hai",
+      "url": "https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8"
+    },
+    {
+      "album": {
         "name": "Pedal Steel Guitar",
         "url": "https://open.spotify.com/album/6nLU2cURKK11jYmfru7rrU"
       },
@@ -4300,7 +4566,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 220066,
       "name": "\u706f (2019 Bob Ludwig Remastering)",
       "url": "https://open.spotify.com/track/2DAhMSZRWT0WyUsj9O8efE"

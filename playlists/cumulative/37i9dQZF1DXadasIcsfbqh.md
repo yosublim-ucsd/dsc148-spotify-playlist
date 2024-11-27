@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Thomas Rhett and Teddy Swims
 
-322 songs - 16 hr 42 min
+323 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 | 2024-05-17 |  |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-17 | 2022-07-27 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-13 |  |
+| [California Rain](https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [California Rain](https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh) | 3:35 | 2024-11-22 |  |
 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 | 2021-12-17 | 2023-06-10 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-17 | 2022-07-28 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5LkRgwjOaBydaGxc5rztPd) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/79u5jX0oVkQGBoDBNqo9hk) | 2:52 | 2022-07-22 | 2022-11-13 |
@@ -286,7 +287,7 @@
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-17 |  |
 | [Treated Me Good](https://open.spotify.com/track/0WlenzbcPClIkMc9lwzXdP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Treated Me Good](https://open.spotify.com/album/7xdKctABSF6i9zKy9B5wHB) | 3:20 | 2023-03-01 | 2023-03-22 |
 | [Trying Not To](https://open.spotify.com/track/5yxaMW0oneWyj2rso0BwZ5) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Trying Not To](https://open.spotify.com/album/74AUxh2czF7cU9qKIh6vXk) | 3:24 | 2021-12-17 | 2022-01-08 |
-| [Twice \(feat\. Shaylen\)](https://open.spotify.com/track/5JUC0ykHkGOO9Aosx3Eegb) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Twice \(feat\. Shaylen\)](https://open.spotify.com/album/06scuuylDIhSu4BD0EBhJ4) | 2:51 | 2024-09-13 |  |
+| [Twice \(feat\. Shaylen\)](https://open.spotify.com/track/5JUC0ykHkGOO9Aosx3Eegb) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Twice \(feat\. Shaylen\)](https://open.spotify.com/album/06scuuylDIhSu4BD0EBhJ4) | 2:51 | 2024-09-13 | 2024-11-27 |
 | [Two Things](https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Two Things](https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA) | 3:35 | 2024-09-20 | 2024-11-22 |
 | [Unfinished](https://open.spotify.com/track/2Jo0I3kuayF0RzuhcHixfi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:53 | 2022-10-14 | 2022-11-03 |
 | [Unfinished](https://open.spotify.com/track/7bw2GQq5ztnsqJVmEZlkNQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:53 | 2022-09-16 | 2022-10-07 |

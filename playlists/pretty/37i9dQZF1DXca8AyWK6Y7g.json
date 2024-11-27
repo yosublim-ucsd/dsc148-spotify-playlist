@@ -1,12 +1,12 @@
 {
   "description": " Your new favorite pop star \u2b50 cover: Mercer Henderson",
-  "num_followers": 1549462,
+  "num_followers": 1549384,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAACsvfrDB0t2OUkZig2HAr9H",
+  "snapshot_id": "Z0Y8fgAAAAAESo40iYV60oc8usTsp97d",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -167,6 +167,22 @@
       "duration_ms": 179609,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo"
+    },
+    {
+      "added_at": "2024-11-26 21:24:13",
+      "album": {
+        "name": "Whistleblower",
+        "url": "https://open.spotify.com/album/4ADaekmlb5h52pLsYbzYLF"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 162784,
+      "name": "Whistleblower",
+      "url": "https://open.spotify.com/track/6zP2dszeLZp3qEGKhN3lcn"
     },
     {
       "added_at": "2024-11-08 05:00:00",

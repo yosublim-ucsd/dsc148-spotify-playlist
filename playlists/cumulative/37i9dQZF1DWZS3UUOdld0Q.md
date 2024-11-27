@@ -4,12 +4,13 @@
 
 > Pra vencer no rap, é preciso dominar os palcos\. Rappers do Brasil se enfrentam nessa competição com Djonga, Filipe Ret e Tasha & Tracie\. Agora no Netflix.
 
-90 songs - 4 hr 41 min
+91 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\- Hate + Perreo \(feat\. Jordi Jauria\)](https://open.spotify.com/track/5hdaOs2EvtcVrn7MVU1L8f) | [Zetto](https://open.spotify.com/artist/2icP2VXBVXI6D4B5zfC1ab), [Dj Peligro](https://open.spotify.com/artist/59WHbFutFDJyaUAcwYd1kh), [Lonlizzy](https://open.spotify.com/artist/2QCUlYDt71T7zaeuJqFmPt), [Jordi Jauria](https://open.spotify.com/artist/4eSGFcYhohbEpSZ9gLKZit) | [\- Hate + Perreo \(feat\. Jordi Jauria\)](https://open.spotify.com/album/2IpbYXwHqLQ7Q7KxUUiU2o) | 2:55 | 2023-08-31 | 2024-11-14 |
 | [23 Primaveras \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/0uNbEts0LT9MHmHkWDCnPO) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5) | [23 Primaveras \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/2lARjqo3oi4Lkw841IMXlp) | 2:37 | 2024-11-20 |  |
+| [44 \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/53hMi931cMBHPZKHQHAWfA) | [Maria Preta MC](https://open.spotify.com/artist/1Rk1WfvNaBxlWRWJQG8qyJ), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [44 \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/1FCkjSZ69WuSXFyvjhPZXy) | 2:46 | 2024-11-27 |  |
 | [A Procura da Batida Perfeita](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 | 2024-11-13 |  |
 | [ARRUME\-SE COMIGO](https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [ARRUME\-SE COMIGO](https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa) | 3:46 | 2024-11-13 |  |
 | [As Preta Primeiro](https://open.spotify.com/track/5FX48eJV08XJkCjKv1idQF) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 2:37 | 2024-11-13 |  |

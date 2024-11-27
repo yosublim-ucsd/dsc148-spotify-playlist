@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: REA
 
-226 songs - 11 hr 5 min
+228 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
 | [compleanni degli altri](https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [ambiente protetto](https://open.spotify.com/album/4OsUEE4jaj1K3fQ53AgJzE) | 2:44 | 2024-06-27 | 2024-07-19 |
-| [Cosa Non Va?](https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Cosa Non Va?](https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX) | 3:04 | 2024-10-24 |  |
+| [Cosa Non Va?](https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Cosa Non Va?](https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX) | 3:04 | 2024-10-24 | 2024-11-27 |
 | [cose un po' scontate](https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [cose un po' scontate](https://open.spotify.com/album/4tdx6A1dKAEkwbmDfmYIed) | 2:47 | 2024-09-26 | 2024-10-02 |
 | [Costellazione](https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/3gUebY15KykhIStuskHmpM) | 3:15 | 2024-07-11 | 2024-08-23 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-11-15 |
@@ -80,6 +80,7 @@
 | [Follia](https://open.spotify.com/track/26zx0Jw1N3CdspZRhGwW8z) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Follia](https://open.spotify.com/album/4lphwhXU0ZxnpAarXx4TBc) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Forse Per Sempre](https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Forse Per Sempre](https://open.spotify.com/album/0SdxqbeUd7cOTRkP3kJdRH) | 3:02 | 2024-11-12 |  |
 | [Fratello](https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 2:47 | 2024-06-27 | 2024-10-25 |
+| [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 | 2024-11-26 |  |
 | [fuori posto](https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [fuori posto](https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4) | 2:51 | 2024-10-10 | 2024-11-22 |
 | [GARAGE MARE](https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N) | [Oh Baro](https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5) | [GARAGE MARE](https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT) | 2:41 | 2024-07-25 | 2024-11-08 |
 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 | 2024-06-27 | 2024-07-19 |
@@ -91,10 +92,11 @@
 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 | 2024-06-27 | 2024-10-21 |
 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 | 2024-11-14 |  |
 | [Indiementicata](https://open.spotify.com/track/5hUm1XjNijoRYw7VoSM6i0) | [Psyche](https://open.spotify.com/artist/0074TFvDGpuZ5tBTszIEh3) | [INDIEMENTICATA](https://open.spotify.com/album/1hgRtyaK05hpvM8uEnpczY) | 2:30 | 2024-08-22 | 2024-09-27 |
-| [insonnia](https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [insonnia](https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn) | 2:41 | 2024-10-24 |  |
+| [insonnia](https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [insonnia](https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn) | 2:41 | 2024-10-24 | 2024-11-27 |
 | [L'ETÀ D'ORO](https://open.spotify.com/track/1BIYMcbLkm9Wo9NKudb3jn) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [L'ETÀ D'ORO](https://open.spotify.com/album/0CcJbA8NY3XXl4xozCPg3Z) | 3:03 | 2024-06-27 | 2024-07-12 |
 | [LA DOMANDA GIUSTA](https://open.spotify.com/track/6pOuWoEdYpBw74fP42F1Tv) | [Giulia Leone](https://open.spotify.com/artist/5xyfvolNQ8DukvHXKjHxRd) | [LA DOMANDA GIUSTA](https://open.spotify.com/album/0Nt0bzksswpMespk6o895G) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
+| [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 | 2024-11-26 |  |
 | [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 | 2024-10-21 |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 |  |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |

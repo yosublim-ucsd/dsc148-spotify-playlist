@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2075,
+  "num_followers": 2078,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAADlqBtBOr5NoVeEikMKnUBv",
+  "snapshot_id": "Z0O+AAAAAACXn5gFy1atiy1xf/ScD8vr",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Hice Mal",
         "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 205237,
       "name": "Que Hice Mal",
       "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is The End (En Vivo)",
-        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "This Is The End - En Vivo",
-      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 275136,
       "name": "Mr. Seal The Deal",
       "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is The End (En Vivo)",
+        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "This Is The End - En Vivo",
+      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
     },
     {
       "added_at": null,

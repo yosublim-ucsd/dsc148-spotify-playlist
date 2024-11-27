@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Samura\u00ef & Leo Rizzi",
-  "num_followers": 298368,
+  "num_followers": 298369,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+        "name": "Perro Callejero",
+        "url": "https://open.spotify.com/album/3GfTCaM2d1QtS3xLM3SMws"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
         }
       ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+      "duration_ms": 162454,
+      "name": "Perro Callejero",
+      "url": "https://open.spotify.com/track/04S0UAl019CON66pBU2C2G"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -219,6 +223,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "El ataque de las chicas cocodrilo",
         "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 157833,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "Mi Tormenta (feat. DannyLux)",
-        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mi Tormenta (feat. DannyLux)",
-      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -291,22 +291,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Perro Callejero",
-        "url": "https://open.spotify.com/album/3GfTCaM2d1QtS3xLM3SMws"
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         },
         {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 162454,
-      "name": "Perro Callejero",
-      "url": "https://open.spotify.com/track/04S0UAl019CON66pBU2C2G"
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 179872,
-      "name": "TRAS",
-      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "FLASHBACKS",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
@@ -1103,22 +1087,18 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "T\u00fa Ya No Dices Nada",
-        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        },
-        {
-          "name": "Manola",
-          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 215940,
-      "name": "T\u00fa Ya No Dices Nada",
-      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+      "duration_ms": 179872,
+      "name": "TRAS",
+      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -1143,6 +1123,26 @@
       "duration_ms": 203438,
       "name": "INVESTIDO",
       "url": "https://open.spotify.com/track/2BJS8zYnk91hYVpX2m9OMz"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "T\u00fa Ya No Dices Nada",
+        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        },
+        {
+          "name": "Manola",
+          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
+        }
+      ],
+      "duration_ms": 215940,
+      "name": "T\u00fa Ya No Dices Nada",
+      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 178142,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "Renacimiento",
         "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 178142,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2024-11-22 04:55:21",

@@ -4095,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Trinity's Tears",
+        "url": "https://open.spotify.com/album/7aB70ESTbXVRpVHEn3eDD1"
+      },
+      "artists": [
+        {
+          "name": "Morpheus Two",
+          "url": "https://open.spotify.com/artist/1YFyublQissuj82xACfDxj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137555,
+      "name": "Trinity's Tears",
+      "url": "https://open.spotify.com/track/56n46IJIz5ToaFJBxy3Y5B"
+    },
+    {
+      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/1kfJlORvAGTbj02ns1RmbM"
       },

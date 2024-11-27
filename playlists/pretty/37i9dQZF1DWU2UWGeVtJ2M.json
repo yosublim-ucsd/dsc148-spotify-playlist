@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 161842,
+  "num_followers": 161854,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2024-11-14 17:44:59",
-      "album": {
         "name": "my future",
         "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 208155,
       "name": "my future",
       "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2024-11-14 17:44:59",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2024-11-14 17:44:59",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -1411,34 +1395,18 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
       },
       "artists": [
         {
-          "name": "via.",
-          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
         }
       ],
-      "duration_ms": 176750,
-      "name": "WINE",
-      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
-    },
-    {
-      "added_at": "2024-11-14 17:44:59",
-      "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
-      },
-      "artists": [
-        {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1459,22 +1427,34 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "Easy (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
+        "name": "Baby Cakes",
+        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
       "artists": [
         {
-          "name": "Next Town Down",
-          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
         }
       ],
-      "duration_ms": 204454,
-      "name": "Easy (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+      "duration_ms": 228705,
+      "name": "Baby Cakes",
+      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2024-11-14 17:44:59",
+      "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+      },
+      "artists": [
+        {
+          "name": "via.",
+          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "WINE",
+      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1495,6 +1475,26 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
+    },
+    {
+      "added_at": "2024-11-14 17:44:59",
+      "album": {
+        "name": "Easy (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
+      },
+      "artists": [
+        {
+          "name": "Next Town Down",
+          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Easy (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2024-11-14 17:44:59",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
         }
       ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1611,22 +1627,6 @@
       "duration_ms": 187058,
       "name": "Whatever This Is",
       "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
-    },
-    {
-      "added_at": "2024-11-14 17:44:59",
-      "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2024-11-14 17:44:59",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-11-14 17:44:59",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
       },
       "artists": [
         {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+          "name": "Beauty's Confusion",
+          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
         }
       ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
+      "duration_ms": 294186,
+      "name": "Moments Like These",
+      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

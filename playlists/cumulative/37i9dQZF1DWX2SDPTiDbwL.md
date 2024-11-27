@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-104 songs - 6 hr 54 min
+105 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Classical Soul \- Edit](https://open.spotify.com/track/6VikkvVbmoCkufv4bLrdkZ) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Flashback \(The Best Of Oscar Lopez\)](https://open.spotify.com/album/0fe1xqfhH0roo28qiJ7UvD) | 2:55 | 2023-09-01 |  |
 | [Conke](https://open.spotify.com/track/2VCkGj73bDHaLYlfkizOSE) | [Dani de Morón](https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW) | [Creer Para Ver](https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT) | 6:37 | 2023-09-01 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2023-09-01 |  |
+| [Corazón Salvaje](https://open.spotify.com/track/37qJYapQI7GL2fqQDMr83j) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Corazón Salvaje](https://open.spotify.com/album/0E2QLlVDkRDa4zSVMIhXDb) | 3:40 | 2024-11-26 |  |
 | [Creer Para Ver](https://open.spotify.com/track/1Cnw5kktcV8DDqntsk8klG) | [Dani de Morón](https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW) | [Creer Para Ver](https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT) | 5:57 | 2023-09-01 |  |
 | [Cuidad De Esperanza](https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C) | [NomadsPlace](https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu) | [En Casa de Nuevo](https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja) | 3:15 | 2024-11-07 |  |
 | [D'arie II](https://open.spotify.com/track/0nBQDNvdvzHI4axWCKqFgw) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/1UZbvM45s6cZ0eeu3nLmk2) | 2:51 | 2023-09-01 | 2024-04-19 |
@@ -85,7 +86,7 @@
 | [Rumba Tumba](https://open.spotify.com/track/2uPQvR5WBOI22Wj2gwwiT5) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Andalusian Nights](https://open.spotify.com/album/2wv00wNnDlQ7y1hF27QERq) | 6:12 | 2024-05-31 |  |
 | [San Francisco](https://open.spotify.com/track/7geMld9M9InEiqY8Ehm1Q6) | [Antonio Rey](https://open.spotify.com/artist/5IRSZuGnF84xSdWWGe6jDl) | [Flamenco Sin Fronteras](https://open.spotify.com/album/4JrBEWglIe750bShCTigNu) | 4:01 | 2023-09-01 |  |
 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 | 2024-08-08 |  |
-| [Sand Dunes](https://open.spotify.com/track/4Pc1Eay0hn2cCafRI07LrJ) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Acoustic Flamenco](https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp) | 2:44 | 2024-06-20 |  |
+| [Sand Dunes](https://open.spotify.com/track/4Pc1Eay0hn2cCafRI07LrJ) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Acoustic Flamenco](https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp) | 2:44 | 2024-06-20 | 2024-11-27 |
 | [Sephardic Elegy](https://open.spotify.com/track/2wwZttx5a77AmbasxYPbfG) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Jewish Travels: A Historical Voyage in Music & Song](https://open.spotify.com/album/1HJq0jdhPZDiuCptT2dh08) | 2:27 | 2024-04-05 |  |
 | [Sephardic Elegy](https://open.spotify.com/track/3OYtLejmcJDcZO8wbSM7cK) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Massel Klezmorim: Jewish Travels \- A Historical Voyage in Music and Song](https://open.spotify.com/album/0ep5smc16YElZTmjSXHjG6) | 2:27 | 2023-09-01 | 2024-04-19 |
 | [Silueta](https://open.spotify.com/track/4O9Zg7GXqJppFEfCgrVNBS) | [Domingo Patricio](https://open.spotify.com/artist/6CUGlYZ6QZvcyRo7ZE8BGZ), [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Juan Rectoret](https://open.spotify.com/artist/65fn3THpn05ohcBVwvM6Va), [Enric Canada](https://open.spotify.com/artist/3Pmpazt8tzKL0wX1e4a07c) | [Flamenco Passion](https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK) | 5:35 | 2024-04-05 |  |

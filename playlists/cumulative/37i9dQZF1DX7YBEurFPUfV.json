@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 277710,
       "name": "Automatique (Mc Artisan)",
       "url": "https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ"
@@ -344,6 +344,24 @@
       "duration_ms": 175766,
       "name": "Bambina",
       "url": "https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q"
+    },
+    {
+      "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298353,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj"
     },
     {
       "album": {
@@ -1531,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Sagapo",
+        "url": "https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n"
+      },
+      "artists": [
+        {
+          "name": "G.G.A",
+          "url": "https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP"
+        },
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Sagapo",
+      "url": "https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp"
+    },
+    {
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/51skWbUOPoL7tqIvCZUKqY"
       },
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 224938,
       "name": "Youm Wara Youm",
       "url": "https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj"

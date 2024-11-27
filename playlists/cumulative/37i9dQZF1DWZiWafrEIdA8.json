@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176012,
+      "name": "if i die (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
+    },
+    {
+      "album": {
         "name": "2 4 : 2 6",
         "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"

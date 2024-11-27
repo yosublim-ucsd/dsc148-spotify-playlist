@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1324,
+  "num_followers": 1325,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAAIwWqvi0me7lITH3Q8qVET",
+  "snapshot_id": "Z0O+AAAAAAASOTmAsO58k07g723nv3Co",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206149,
-      "name": "New Emotion",
-      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
+      "duration_ms": 194978,
+      "name": "Yellowbelly",
+      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 194978,
-      "name": "Yellowbelly",
-      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+      "duration_ms": 206149,
+      "name": "New Emotion",
+      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
     },
     {
       "added_at": null,

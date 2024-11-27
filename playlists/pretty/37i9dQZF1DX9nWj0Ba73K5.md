@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,705 likes - 186 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,736 likes - 186 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-108 songs - 4 hr 46 min
+110 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Es ist ein Ros entsprungen \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 1:46 | 2021-11-19 | 2023-09-28 |
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
 | [Gesu Bambino](https://open.spotify.com/track/70TUCXbpF7SqtZOwqq6phF) | [Stan Whitmire](https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw) | [Christmas Around The Piano](https://open.spotify.com/album/2YZZf9NIZnoUurtJdHVp2N) | 4:40 | 2021-11-19 |  |
+| [Gloria In Excelsis Deo \- Christmas piano arr.](https://open.spotify.com/track/2sVef0QT2SbclbmMETRNxg) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P), [Christmas Piano Instrumental](https://open.spotify.com/artist/6gG2Sish6nE9tfU6pBxXOu) | [Gloria In Excelsis Deo \(Christmas piano arr.\)](https://open.spotify.com/album/6fkspu56O96nUos4LYgMjb) | 1:17 | 2024-11-26 |  |
 | [Go Tell it on the Mountain](https://open.spotify.com/track/34wj2Y0ufaPYQGWoimtHUc) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Go Tell it on the Mountain](https://open.spotify.com/album/2JYNkhD6rzHQddRNGo2c9u) | 2:48 | 2024-11-12 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J\. L\. Marshall](https://open.spotify.com/artist/05f0QRzwQpjLRJwTdQgDZw) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 | 2021-11-19 | 2023-09-28 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/38hSJb4lgLRHENsdJjSopS) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:28 | 2021-11-19 | 2022-10-09 |
@@ -102,6 +103,7 @@
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-11-19 |  |
 | [Sussex Carol \- Cover](https://open.spotify.com/track/0nkAOkg22GUUw7LMolGhaG) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Sussex Carol \(Cover\)](https://open.spotify.com/album/1HymBa3hWKrk9Bh2tdG7is) | 2:12 | 2024-11-19 |  |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-11-19 |  |
+| [The First Noel](https://open.spotify.com/track/427BbU2FPM1pfVWET7bCJs) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/7kDNF8TnQSaAtYoNculPbP) | 2:18 | 2024-11-26 |  |
 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 | 2021-11-19 | 2023-10-25 |
 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 | 2023-10-24 |  |
 | [The Holly & The Ivy](https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Dinner](https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6) | 4:19 | 2022-11-09 | 2022-11-13 |

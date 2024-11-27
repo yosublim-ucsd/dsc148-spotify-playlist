@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,752 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,748 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 82 | [I Miss You](https://open.spotify.com/track/4bttuoEi7aI5PC7ZWVzN3w) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [What \(Japanese Ver.\)](https://open.spotify.com/album/7D25Rbrrl6rQ0lPvG9ZueW) | 3:06 |
 | 83 | [Intro](https://open.spotify.com/track/3H4Se4M3oBBSXaJ6fsujxq) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 1:27 |
 | 84 | [Breaking Out](https://open.spotify.com/track/1xIAcP1NLPMpZaDfXTiWMs) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:19 |
-| 85 | [My Way \~ Kono Michi no Sakie \~](https://open.spotify.com/track/4UB5Bcn6hyELHY1d9g4xKM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:24 |
+| 85 | [My Way ～ Kono Michi no Sakie ～](https://open.spotify.com/track/4UB5Bcn6hyELHY1d9g4xKM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:24 |
 | 86 | [Chase Me \- Japanese Ver.](https://open.spotify.com/track/6WBkP62LfdT96wrdR9dzuR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:11 |
 | 87 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/4dFPZusdRj6Bb2TPRXpO9g) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 2:57 |
 | 88 | [Wonderland \- Japanese Ver.](https://open.spotify.com/track/0mEIqsKdAH8ziKxSC7NlKF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:13 |
-| 89 | [Piri \~ Fue wo Fuke \~ \- Japanese Ver.](https://open.spotify.com/track/1bBSQHoeTAaaKGYHutEr60) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:28 |
+| 89 | [Piri ～ Fue wo Fuke ～ \- Japanese Ver.](https://open.spotify.com/track/1bBSQHoeTAaaKGYHutEr60) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:28 |
 | 90 | [What \- Japanese Ver.](https://open.spotify.com/track/3H6G5rTVGJ9ksoFi8Rljyx) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:27 |
 | 91 | [I Miss You](https://open.spotify.com/track/3y2qI5QpyWYHklL7jJb393) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:08 |
 | 92 | [Mata Hitori ni Natta \- Japanese Ver.](https://open.spotify.com/track/1gillZ7xFN21NHgkS4EQaP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 2:54 |

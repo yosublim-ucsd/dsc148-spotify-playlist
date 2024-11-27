@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Wicked",
-  "num_followers": 157586,
+  "num_followers": 157631,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ArJAAAAAB94ft7h/mjf/A+Stq1JgJ/",
+  "snapshot_id": "Z0ZOyAAAAAD1M7Odf+4FyHf6dL58Uf01",
   "tracks": [
     {
       "added_at": "2024-11-22 06:56:36",
@@ -27,6 +27,26 @@
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "added_at": "2024-11-26 22:42:16",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
       "added_at": "2024-11-22 06:56:36",
@@ -699,26 +719,6 @@
       "duration_ms": 207022,
       "name": "pov",
       "url": "https://open.spotify.com/track/4tnWBYevAZYe81vqDryH2M"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
-        "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
-      "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
     },
     {
       "added_at": "2024-06-07 04:00:00",

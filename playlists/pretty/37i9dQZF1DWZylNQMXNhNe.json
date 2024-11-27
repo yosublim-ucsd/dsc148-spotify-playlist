@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 223378,
+  "num_followers": 223358,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
+        "name": "Garoto Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Garoto Invis\u00edvel",
+      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
         "name": "FREV\u00c1LIA",
         "url": "https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 224865,
       "name": "Em Plena Lua De Mel",
       "url": "https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
-        "name": "Garoto Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Garoto Invis\u00edvel",
-      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        },
-        {
-          "name": "Tagua Tagua",
-          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
-        }
-      ],
-      "duration_ms": 211549,
-      "name": "Sem Necessidade",
-      "url": "https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Colo da Tropa",
         "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 161888,
       "name": "Colo da Tropa",
       "url": "https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "duration_ms": 211549,
+      "name": "Sem Necessidade",
+      "url": "https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC"
     },
     {
       "added_at": "2024-10-08 13:46:40",

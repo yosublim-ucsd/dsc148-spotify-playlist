@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67611,
+  "num_followers": 67613,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQPTjRpEwNjDSzZWkukFjy13YT9hOi",
+  "snapshot_id": "AAAQPt/maz36nRcWSlW/uLcVKXK3Qasr",
   "tracks": [
     {
       "added_at": "2024-11-21 10:20:48",
@@ -71,6 +71,26 @@
       "duration_ms": 230706,
       "name": "Boxing Day sales",
       "url": "https://open.spotify.com/track/1TdFnDGVbOGSqiq5LgxAqW"
+    },
+    {
+      "added_at": "2024-11-26 12:10:18",
+      "album": {
+        "name": "Nom Nom Nom / Cat Burglar",
+        "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Cat Burglar",
+      "url": "https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC"
     },
     {
       "added_at": "2024-11-20 15:11:50",

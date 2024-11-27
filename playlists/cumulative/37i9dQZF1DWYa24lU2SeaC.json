@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Aller plus loin (Version g\u00e9n\u00e9rique de fin) [De \"Vaiana 2\"/Bande Originale Fran\u00e7aise du Film]",
+        "url": "https://open.spotify.com/album/3ohGXdHQcYwhQoIF9yqntT"
+      },
+      "artists": [
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Aller plus loin (Version g\u00e9n\u00e9rique de fin) - De \"Vaiana 2\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/4JzB0Rq1p1DZh3MYdxh0GN"
+    },
+    {
+      "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
       },
@@ -118,7 +140,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 196306,
       "name": "Beyond (End Credit Version) - From \"Vaiana 2\"",
       "url": "https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH"

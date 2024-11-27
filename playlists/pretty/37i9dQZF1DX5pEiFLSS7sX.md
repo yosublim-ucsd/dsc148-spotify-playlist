@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,394 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,436 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 68 | [Nothing Else / All I Need Is You \- Medley / Live](https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Live At Church: Mixtape Vol\. 1](https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC) | 11:59 |
 | 69 | [Shine](https://open.spotify.com/track/4sm29oSEumtSzE8AdVhjIu) | [Sisterbrother](https://open.spotify.com/artist/3m1fIdh8xJXRjLLdNgZVXQ) | [Into the Light](https://open.spotify.com/album/39K610YVccFlNB9knpBXvL) | 4:49 |
 | 70 | [Worthy](https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW) | [Eric Thigpen](https://open.spotify.com/artist/7kIthpyjFRDaVQzt8n4RoR) | [Live with First Love, Vol\. One](https://open.spotify.com/album/47fiA31XOG4wc8z577YY7u) | 5:02 |
-| 71 | [Forgiveness](https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f) | [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Forgiveness](https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz) | 5:12 |
-| 72 | [Wonder of Our God](https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Wonder of Our God](https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC) | 6:02 |
+| 71 | [Wonder of Our God](https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Wonder of Our God](https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC) | 6:02 |
+| 72 | [Forgiveness](https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f) | [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Forgiveness](https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz) | 5:12 |
 | 73 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 74 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
 | 75 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |

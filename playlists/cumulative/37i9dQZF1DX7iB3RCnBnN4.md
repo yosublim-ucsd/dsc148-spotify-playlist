@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\.  Cover: Katy Perry
+> All the songs with more than 1 BILLION streams on Spotify\.  Cover: Ariana Grande
 
 864 songs - 2 day 4 hr 23 min
 

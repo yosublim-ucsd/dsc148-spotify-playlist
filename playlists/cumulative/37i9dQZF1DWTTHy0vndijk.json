@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: TAEYEON(\ud0dc\uc5f0) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Lovelyz(\ub7ec\ube14\ub9ac\uc988) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 179275,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 194840,
       "name": "Classified",
       "url": "https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv"
@@ -1622,6 +1622,24 @@
       "duration_ms": 189426,
       "name": "DAZZLE DAZZLE",
       "url": "https://open.spotify.com/track/3cGOBTvkKS4aCsWRR2VPke"
+    },
+    {
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/7IT4gHNLHRSJAB1KhtAb7W"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/5OgzQckeoXfsTT38zFlaGx"
     },
     {
       "album": {
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 191080,
       "name": "November",
       "url": "https://open.spotify.com/track/2iDnlUEIrooPIRExGQBPcZ"
@@ -5052,7 +5070,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 190026,
       "name": "PINK CLOUD",
       "url": "https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3"
@@ -6576,7 +6594,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 188133,
       "name": "SUPERWOMAN",
       "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"

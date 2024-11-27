@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,753 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [BLOODMONEY](https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:02 |
 | 26 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 27 | [todo y nada](https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [todo y nada](https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS) | 3:31 |
-| 28 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
-| 29 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 28 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 29 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 | 30 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
 | 31 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 |
 | 32 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 36 | [Antes de Ti](https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Antes de Ti](https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5) | 3:34 |
 | 37 | [Coin Toss](https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coin Toss](https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC) | 2:13 |
 | 38 | [Everybody Ate](https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Everybody Ate](https://open.spotify.com/album/6rBBpdKbdlGhbXoaXP0FNi) | 1:52 |
-| 39 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 |
-| 40 | [Best I Can](https://open.spotify.com/track/2Houj3ox1DpDuOKt9S05iV) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Vonita White](https://open.spotify.com/artist/3nKkQpifHHlY1kdsdK5rlp) | [Best I Can](https://open.spotify.com/album/3mfyhjLxQG8uWLom3HG3b6) | 3:03 |
+| 39 | [Best I Can](https://open.spotify.com/track/2Houj3ox1DpDuOKt9S05iV) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Vonita White](https://open.spotify.com/artist/3nKkQpifHHlY1kdsdK5rlp) | [Best I Can](https://open.spotify.com/album/3mfyhjLxQG8uWLom3HG3b6) | 3:03 |
+| 40 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 |
 | 41 | [HIGH2GETBY](https://open.spotify.com/track/3lB5cmc6YVzvIXLNBqB9lF) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MERCZONE](https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA) | 3:05 |
 | 42 | [LYIN](https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [LYIN](https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok) | 4:19 |
 | 43 | [The Gardener](https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Gardener](https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs) | 4:06 |

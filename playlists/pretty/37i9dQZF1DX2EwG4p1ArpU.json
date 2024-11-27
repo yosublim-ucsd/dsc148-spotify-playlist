@@ -1,18 +1,18 @@
 {
   "description": "\u30cd\u30c3\u30c8\u767a\u306e\u65b0\u305f\u306a\u624d\u80fd\u3068\u3057\u3066\u6ce8\u76ee\u3092\u96c6\u3081\u308b\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001Eve\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Essential tracks from Japanese singer-songwriter, Eve.",
-  "num_followers": 149673,
+  "num_followers": 149694,
   "original_name": "This Is Eve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv6xcAAAAACtfJ8GxSLjA1/hYnhakWdd",
+  "snapshot_id": "Z0ZspQAAAAAHWeQ9qnXJbPGif7lP6CzG",
   "tracks": [
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
-        "name": "Teenage Blue",
-        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
       },
       "artists": [
         {
@@ -20,15 +20,15 @@
           "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 225644,
-      "name": "Teenage Blue",
-      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
+      "duration_ms": 155626,
+      "name": "lazy cat",
+      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
-        "name": "\u5dfb\u7269\u8a9e",
-        "url": "https://open.spotify.com/album/5LfXWc9pEHHDr22XJEDv2S"
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
       },
       "artists": [
         {
@@ -36,15 +36,127 @@
           "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 145453,
+      "duration_ms": 225813,
+      "name": "\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5Tc2U4fo9xnjLuWMIdBNaz"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/0AZHTeoNiPf5O0CWUzf14U"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "\u864e\u72fc\u6765",
+      "url": "https://open.spotify.com/track/680jmRMEbeFSG0sSCH56c2"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1fMfJRXipiiMDvh7C76qtj"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "\u82b1\u661f",
+      "url": "https://open.spotify.com/track/68eHrBDSWqwrfeIOIBtGC9"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "\u5192\u967a\u9332",
+      "url": "https://open.spotify.com/track/5dDFNEm0BK6TjjCDQYeKVu"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Byme",
+      "url": "https://open.spotify.com/track/5su5YiKA2RDxgyVFaFXuvJ"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 149306,
       "name": "\u5dfb\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/7mUHehTb9L5DFVkn4DgGkt"
+      "url": "https://open.spotify.com/track/3sdN39c7iNh3DpjI3y3gXV"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
-        "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD"
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
       },
       "artists": [
         {
@@ -52,28 +164,160 @@
           "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 199186,
-      "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 204916,
+      "duration_ms": 206306,
       "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
-      "url": "https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok"
+      "url": "https://open.spotify.com/track/59nEQcR9X63LP1U9qiPy0t"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Uta",
+          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/68oIEMYg04pfPos3pltHwZ"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "\u30b9\u30a4\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/3PBXpwx24lmuLMW6ZUQDdI"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "\u767d\u96ea",
+      "url": "https://open.spotify.com/track/1YpNOIomTpcG6PQDHKdgtA"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Midnight Runway",
+      "url": "https://open.spotify.com/track/1PM7UNC82OdPQCiaO6uAd2"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "\u307c\u304f\u3089\u306e",
+      "url": "https://open.spotify.com/track/2WIHUQuEuQEXgVQVqniNTT"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "\u82b1\u5d50",
+      "url": "https://open.spotify.com/track/7bfX9xMulNDoHFL0asjTcn"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "\u3055\u3088\u306a\u3089\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/33PwoRulDWbLITQxouhuhL"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 90066,
+      "name": "Under Blue",
+      "url": "https://open.spotify.com/track/0Q63ICJGjyLyWcnL2ntA30"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "\u5922\u306b\u9022\u3048\u305f\u3089",
+      "url": "https://open.spotify.com/track/6BjTwDq9xxZ4hxH1bbc52C"
+    },
+    {
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "pray",
         "url": "https://open.spotify.com/album/54p8B6PDaBqymXR6OiytpU"
@@ -89,55 +333,7 @@
       "url": "https://open.spotify.com/track/3zauMgunmQhvK9ZlsaZT4n"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "\u9003\u907f\u884c",
-        "url": "https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 176312,
-      "name": "\u9003\u907f\u884c",
-      "url": "https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "\u82b1\u5d50",
-        "url": "https://open.spotify.com/album/2Ej9NjgvMzGckBU2ueUlME"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "\u82b1\u5d50",
-      "url": "https://open.spotify.com/track/4yeLvVC6sSxa4L0apcq30s"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "\u5192\u967a\u9332",
-        "url": "https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 227323,
-      "name": "\u5192\u967a\u9332",
-      "url": "https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -153,7 +349,7 @@
       "url": "https://open.spotify.com/track/7pvA37ssaDyGFSQPifMnjG"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -169,39 +365,7 @@
       "url": "https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "FightSong",
-        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 208964,
-      "name": "FightSong",
-      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "\u307c\u304f\u3089\u306e",
-        "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 216036,
-      "name": "\u307c\u304f\u3089\u306e",
-      "url": "https://open.spotify.com/track/7nEkZS5UXsSYxUjstk028P"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -217,7 +381,7 @@
       "url": "https://open.spotify.com/track/6zvnmyKMWPhpJWxk2DSerR"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -233,7 +397,7 @@
       "url": "https://open.spotify.com/track/3B2aRA1azOMuxtfA0JutD7"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -249,7 +413,7 @@
       "url": "https://open.spotify.com/track/2zJQ7WiEDNFAfZS2mtE5A4"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -265,7 +429,7 @@
       "url": "https://open.spotify.com/track/5UImLiCMG4kc3iLcOLHbiv"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u30ec\u30fc\u30be\u30f3\u30c7\u30fc\u30c8\u30eb",
         "url": "https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne"
@@ -281,7 +445,7 @@
       "url": "https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -297,7 +461,7 @@
       "url": "https://open.spotify.com/track/4cecxfR44krxQZ527CVGJ1"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -313,7 +477,7 @@
       "url": "https://open.spotify.com/track/4KcTqk3YtbJNVhvbhBDVw2"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -329,7 +493,7 @@
       "url": "https://open.spotify.com/track/2T5wGOKZ2mT9l5GYve4VQi"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u307c\u304f\u3089\u306e",
         "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
@@ -345,7 +509,7 @@
       "url": "https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -361,7 +525,7 @@
       "url": "https://open.spotify.com/track/3xEcR3UOogcaDlqJVHHXQz"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -377,7 +541,7 @@
       "url": "https://open.spotify.com/track/1uBkB3NhlPlJAQqyM7m2Fe"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -393,7 +557,7 @@
       "url": "https://open.spotify.com/track/5j9PJkC93kk0Q1wi1CDNKq"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -409,7 +573,7 @@
       "url": "https://open.spotify.com/track/5XodODtKKldKJuu4fuaqdN"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Bubble (feat. Uta)",
         "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
@@ -429,7 +593,7 @@
       "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -445,7 +609,7 @@
       "url": "https://open.spotify.com/track/1ldV0oN7wB0NeeSz3PSp4l"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -461,7 +625,7 @@
       "url": "https://open.spotify.com/track/178b6lGvEzd3RcHRvUQfl0"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u307c\u304f\u3089\u306e",
         "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
@@ -477,7 +641,7 @@
       "url": "https://open.spotify.com/track/4iOjn8OjzuTw5IQF8n4YxN"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -493,7 +657,7 @@
       "url": "https://open.spotify.com/track/2G4pRFifFAlzozdqOq56uw"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -509,7 +673,7 @@
       "url": "https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -529,7 +693,7 @@
       "url": "https://open.spotify.com/track/3v580RMq79nUPHqMFbsRco"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -545,7 +709,7 @@
       "url": "https://open.spotify.com/track/2T4llzva5qiX2teuZ4IHYf"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u307c\u304f\u3089\u306e",
         "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
@@ -561,7 +725,7 @@
       "url": "https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -577,7 +741,7 @@
       "url": "https://open.spotify.com/track/4n1bpFUL9wjmd74FK1TDFa"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -597,7 +761,7 @@
       "url": "https://open.spotify.com/track/3oaj1uws6MQyjlmkKS6ABt"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -613,7 +777,7 @@
       "url": "https://open.spotify.com/track/6AqUfxCSfhoQdmykOZZVTM"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -629,7 +793,7 @@
       "url": "https://open.spotify.com/track/4jyX4FfzhIvJqnTaGPUkk4"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -645,7 +809,7 @@
       "url": "https://open.spotify.com/track/0QsjH9rACtlzv66N0Houwp"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -661,7 +825,7 @@
       "url": "https://open.spotify.com/track/4tSilUPFR9ngQSYTeDMB4S"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -681,7 +845,7 @@
       "url": "https://open.spotify.com/track/3tnqoIj776sfwdfKkXy9fk"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -697,7 +861,7 @@
       "url": "https://open.spotify.com/track/4ufbNlqiBsW2Wb9pChzvPa"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -713,7 +877,7 @@
       "url": "https://open.spotify.com/track/7s4nfHm3wRTDYyyVgDzEyG"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -733,7 +897,7 @@
       "url": "https://open.spotify.com/track/3SjK17Gz5aN5AaUUFXtUyS"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
@@ -749,7 +913,7 @@
       "url": "https://open.spotify.com/track/6e3otNrCrRXqLyh7Hhj0aX"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -765,7 +929,7 @@
       "url": "https://open.spotify.com/track/4mlINMcPCRJWWBdPTUqEz2"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u95c7\u591c",
         "url": "https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp"
@@ -781,7 +945,7 @@
       "url": "https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -797,7 +961,7 @@
       "url": "https://open.spotify.com/track/2nbvjYi20s7ZKcQAOKkc8N"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d9\u30b9\u30c8\u301c\u77e5\u3089\u306a\u3044\u306e\uff1f\u5df7\u3067\u5642\u306e\u30c0\u30e1\u5929\u4f7f\u301c",
         "url": "https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC"
@@ -817,7 +981,7 @@
       "url": "https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -833,7 +997,7 @@
       "url": "https://open.spotify.com/track/7vfE4eoTDmfq4evCAak4Qn"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -849,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3wGWCDCwnSlx5uSJWjALwu"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -865,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4ZLzg558mV4hh6Ric18rnE"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -881,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2VEOBbzOLLFJxqkzybVczi"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -901,7 +1065,7 @@
       "url": "https://open.spotify.com/track/0QJ5aapQ4TzhhrxN1UH4gA"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -917,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2j0ciOTb4aRR84PGKZ4o0K"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "OFFICIAL NUMBER",
         "url": "https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2"
@@ -933,7 +1097,7 @@
       "url": "https://open.spotify.com/track/7AQBr2hlnq9koESPbB3XRq"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u304a\u3068\u304e",
         "url": "https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct"
@@ -949,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6wpRCHsYlbiTiqIR4gsM9H"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -965,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0LgKTmM8yVLcZpQqvGEmzY"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -981,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4mNl5L9Zg1UMWw8pU5jQm0"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -1001,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4M1sBMBzGR24iPHJPm4COu"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u84bc",
         "url": "https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj"
@@ -1021,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4QCBZAGghYIY6pcn1ccQ0P"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"
@@ -1037,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4zb8OEb8vNlzqswFpittLZ"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u6587\u5316",
         "url": "https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d"
@@ -1053,7 +1217,7 @@
       "url": "https://open.spotify.com/track/73Te801K7s3gB002UCc6jm"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -1069,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0qnirafJ5iRMEizenSNP0k"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -1085,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2qRDbJCL0OIi7ntyBpSdnw"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
@@ -1101,7 +1265,7 @@
       "url": "https://open.spotify.com/track/5mf9TE1ZyuTj5kaKkNUkbn"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
@@ -1117,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2oKtqN2HbY3aLiwuM9v5TA"
     },
     {
-      "added_at": "2024-10-03 15:00:00",
+      "added_at": "2024-11-27 00:49:41",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS"

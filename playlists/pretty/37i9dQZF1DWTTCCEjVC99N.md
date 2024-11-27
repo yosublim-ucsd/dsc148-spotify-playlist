@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,450 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,574 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 51 | [wani marek marreyt](https://open.spotify.com/track/2ChVD1dEZ94ily3vhAg3pl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Wani Marek Marreyt](https://open.spotify.com/album/2vJhqwJSrEGuXJbFKK5ljE) | 7:52 |
 | 52 | [Tabaan Gheir](https://open.spotify.com/track/5GUg0XpuRof8C6qCHxj122) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [2000](https://open.spotify.com/album/4cDUeNHB0WWWXeTJ7GbfEd) | 5:42 |
 | 53 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 |
-| 54 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 |
+| 54 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [الشاب خالد](https://open.spotify.com/artist/4aaGps0QQarCSbhbDkR7ue), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 |
 | 55 | [Mandam A'leyk \- 2000 Digital Remaster](https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Mandam A'Leuk](https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB) | 5:12 |
 | 56 | [أنا نسيتك](https://open.spotify.com/track/5AHO10WkLdj5FDpjUZR0Cj) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 4:01 |
 | 57 | [Ya Bent El Ea](https://open.spotify.com/track/4rdAGsdX6DRk7OgEpL5Rgp) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Ea](https://open.spotify.com/album/4ma9wxBx1ammYF4q3EsQ94) | 4:10 |

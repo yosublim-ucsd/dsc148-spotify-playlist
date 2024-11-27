@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas & O Holy Night (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/2rBIk1W6679h4AGtUClArQ"
+      },
+      "artists": [
+        {
+          "name": "Byron Wolfe",
+          "url": "https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Last Christmas - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/31Go9Hns7JRuWWlmXYYinU"
+    },
+    {
+      "album": {
         "name": "Christmas Acoustic",
         "url": "https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV"
       },
@@ -2068,6 +2086,24 @@
       "duration_ms": 141943,
       "name": "The Chipmunk Song (Christmas Don't Be Late) [Instrumental Version]",
       "url": "https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/7Fp4g5ty24nL3bKszUVdGm"
+      },
+      "artists": [
+        {
+          "name": "Leif Skoog",
+          "url": "https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/1zmP3a454QKW9nIYuRAvDp"
     },
     {
       "album": {

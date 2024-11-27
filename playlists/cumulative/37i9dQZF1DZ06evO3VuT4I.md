@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-119 songs - 9 hr 48 min
+120 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Anthem](https://open.spotify.com/track/139eUwhBrU1dg4AbwksYYs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:55 | 2022-05-29 | 2022-06-07 |
 | [Anthem](https://open.spotify.com/track/2Sz004J4cE9JezxQ511een) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:55 | 2022-06-06 |  |
 | [Bel Canto](https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:03 | 2022-05-29 |  |
-| [Berceuse](https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:09 | 2022-05-29 | 2024-11-24 |
+| [Berceuse](https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:09 | 2022-05-29 |  |
 | [Butterflies](https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:45 | 2022-05-29 |  |
 | [Capri](https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:33 | 2022-05-30 | 2023-05-23 |
 | [Celtic Nights](https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:33 | 2022-05-29 |  |
@@ -62,14 +62,15 @@
 | [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 | 2024-10-28 |
 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 | 2022-05-29 |  |
 | [Lime Marmalade Reverie](https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:01 | 2022-06-22 | 2022-06-24 |
-| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 |  |
+| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 | 2024-11-27 |
 | [Lumiere](https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:55 | 2022-05-29 | 2022-10-09 |
 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 | 2022-05-29 |  |
 | [Meeting Mozart](https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:46 | 2022-05-31 | 2024-10-09 |
 | [Meeting Mozart](https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:48 | 2022-05-29 | 2024-07-19 |
 | [Megan's Dream](https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:38 | 2022-05-29 | 2022-11-16 |
+| [Megan's Dream](https://open.spotify.com/track/4g4HgSDCGZ45Rez2QiQfax) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:40 | 2024-11-27 |  |
 | [Midnight Rendezvous](https://open.spotify.com/track/4Otn2jAeW577E6tVVb3gJ7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:30 | 2023-04-05 | 2023-08-06 |
-| [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 | 2022-05-29 |  |
+| [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 | 2022-05-29 | 2024-11-27 |
 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 | 2022-05-29 |  |
 | [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 | 2022-06-02 | 2024-11-16 |
 | [Mozart](https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:11 | 2022-05-29 |  |

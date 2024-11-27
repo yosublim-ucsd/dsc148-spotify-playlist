@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57383,
+  "num_followers": 57406,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr"
-      },
-      "artists": [
-        {
-          "name": "Niyi",
-          "url": "https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9"
-        },
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 174236,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "WELCOME TO WONDAH:LAND",
         "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr"
+      },
+      "artists": [
+        {
+          "name": "Niyi",
+          "url": "https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 192269,
       "name": "Defender",
       "url": "https://open.spotify.com/track/6qP0ZLEdVLpmbDlHS0nDue"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "[escapism]",
-        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "[escapism]",
-      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     },
     {
       "added_at": "2024-11-22 00:01:00",

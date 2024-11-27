@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,146 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,157 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 16 | [Frosty, der Schneemann](https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j) | [Schlagerkids](https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb) | [Frosty, der Schneemann](https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I) | 2:06 |
 | 17 | [Wär' Dezember doch für immer \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten, Holger Stockhaus\)](https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1), [Holger Stockhaus](https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:58 |
 | 18 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:20 |
-| 19 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
-| 20 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 |
+| 19 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 |
+| 20 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
 | 21 | [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 |
 | 22 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
 | 23 | [Das muss wohl der Winter sein \(Giraffenaffensong\)](https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:55 |

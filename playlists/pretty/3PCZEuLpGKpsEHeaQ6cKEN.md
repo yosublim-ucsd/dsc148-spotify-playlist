@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Steve Aoki , Sam Feldt,  Xandra, Nile Rodgers, Zak Abel
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,318 likes - 134 songs - 6 hr 51 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,315 likes - 134 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

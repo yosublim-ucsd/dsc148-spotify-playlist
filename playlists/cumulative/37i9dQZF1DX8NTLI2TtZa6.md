@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-533 songs - 22 hr 50 min
+536 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Escape With Me](https://open.spotify.com/track/3cvXr0N2DWk8qeFVS1JEgo) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [Escape With Me](https://open.spotify.com/album/5KPh3wnnOwsWBKJl4rIVFm) | 2:34 | 2023-04-18 |  |
 | [Espérer](https://open.spotify.com/track/41tIf2rMJfYKpsZpU0Mj5M) | [Lunete Guillory](https://open.spotify.com/artist/77ZgHWAR9tmBMgQ759Qxgg) | [Espérer](https://open.spotify.com/album/7erovFp7Y94PfsNwDhYcJm) | 2:19 | 2021-12-07 | 2024-04-04 |
+| [Ethereal](https://open.spotify.com/track/357uWf4Ao1UqZ2DXMdrXIV) | [Güel Mipér](https://open.spotify.com/artist/17EwnKFq0C7U9arfvF0h05) | [Ethereal](https://open.spotify.com/album/5tmSZ65pTibqLtWujrIZBF) | 2:44 | 2024-11-26 |  |
 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 | 2022-11-18 | 2023-03-22 |
 | [Evoke](https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Evoke](https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH) | 2:14 | 2023-07-18 |  |
 | [Exhaler](https://open.spotify.com/track/4hSJTUpx45WO1Ib6VCRiFW) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Exhaler](https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN) | 2:15 | 2022-06-07 |  |
@@ -311,6 +312,7 @@
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-07 | 2022-01-19 |
 | [Musing](https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Musing](https://open.spotify.com/album/4M9m2atcjqVMBoWF2ibcqU) | 2:34 | 2021-12-07 | 2022-04-15 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2021-12-07 | 2023-04-19 |
+| [My Dear Friend](https://open.spotify.com/track/6iCeCGJLlLPdUULkOyJjQX) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [My Dear Friend](https://open.spotify.com/album/0zifV6J1yor9ncREjJsWlX) | 2:13 | 2024-11-26 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-18 |  |
 | [Nachmittag](https://open.spotify.com/track/2I0cK8R8nSyKUv53Ct4rz2) | [Maxim Pellas](https://open.spotify.com/artist/6odoEK73GIfn9uuCvcYZl4) | [Nachmittag](https://open.spotify.com/album/35zHj3rmOjYZUpNBcIoXZ5) | 3:18 | 2023-10-04 |  |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-12-07 |  |
@@ -373,6 +375,7 @@
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-12-24 |
 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 | 2023-04-18 |  |
 | [Places](https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Places](https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l) | 3:30 | 2024-05-14 |  |
+| [Playful Waters](https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Playful Waters](https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd) | 2:32 | 2024-11-26 |  |
 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 | 2023-03-29 |  |
 | [Pool of light](https://open.spotify.com/track/638iDsayTPgIScb5MSn4Qz) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Memoir](https://open.spotify.com/album/6ouP03HKu8kKGIZGXU4JcL) | 2:29 | 2022-09-20 |  |
 | [Pose](https://open.spotify.com/track/2Y2bYMpbNkHoQp0DwlSIej) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Pose](https://open.spotify.com/album/680IQ3Ck2y4b6zmuP7vg1D) | 2:06 | 2024-03-04 |  |

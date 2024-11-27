@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: ASTRO. Artwork: Isu Kim",
-  "name": "Fresh Finds Arabia",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Seera Band, Kali-B, Brownmusic, & Grzzlee. Artwork: Isu Kim",
+  "name": "Fresh Finds Saudi: Class 2k24",
   "tracks": [
     {
       "album": {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 160831,
       "name": "A7LAM",
       "url": "https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Akher el tare2",
+        "url": "https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7"
+      },
+      "artists": [
+        {
+          "name": "Uglymoss",
+          "url": "https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90258,
+      "name": "Akher el tare2",
+      "url": "https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE"
+    },
+    {
+      "album": {
         "name": "najoom - \u0646\u062c\u0648\u0645",
         "url": "https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 195500,
       "name": "Ana Liwahdi",
       "url": "https://open.spotify.com/track/0EK0ey4WkCvAKmGXLpNKhz"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 178723,
       "name": "Asliyah",
       "url": "https://open.spotify.com/track/5IHH65QmmSkqhbATP3sZFt"
@@ -636,6 +654,28 @@
       "duration_ms": 135445,
       "name": "Banda",
       "url": "https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON"
+    },
+    {
+      "album": {
+        "name": "BANSAKI",
+        "url": "https://open.spotify.com/album/7JkLSZFhvQF8BoHtAkefTs"
+      },
+      "artists": [
+        {
+          "name": "Zii",
+          "url": "https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl"
+        },
+        {
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180593,
+      "name": "BANSAKI",
+      "url": "https://open.spotify.com/track/14IRkrnkjYcOfWzhtfKbn3"
     },
     {
       "album": {
@@ -1460,7 +1500,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 172500,
       "name": "El Beit - \u0627\u0644\u0628\u064a\u062a",
       "url": "https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn"
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 162000,
       "name": "El Mostashfa",
       "url": "https://open.spotify.com/track/3yE2SVk9BTggdtd11UuARj"
@@ -1606,6 +1646,24 @@
       "duration_ms": 139003,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
+    },
+    {
+      "album": {
+        "name": "Estanet",
+        "url": "https://open.spotify.com/album/4TkMyj3cJ2MWBsy956bOXE"
+      },
+      "artists": [
+        {
+          "name": "RAMII",
+          "url": "https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Estanet",
+      "url": "https://open.spotify.com/track/6GRSmVOVieDWqb94YlECLC"
     },
     {
       "album": {
@@ -1928,10 +1986,32 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 149333,
       "name": "GHORBA",
       "url": "https://open.spotify.com/track/6bIPcudk3VzLyYyMC0xY0k"
+    },
+    {
+      "album": {
+        "name": "GOLI KEEF",
+        "url": "https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "GOLI KEEF",
+      "url": "https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn"
     },
     {
       "album": {
@@ -3637,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "MASHY BE3LAG",
+        "url": "https://open.spotify.com/album/1U9ComcWbP0kr8BNY24Emd"
+      },
+      "artists": [
+        {
+          "name": "KHALED ROSSIA",
+          "url": "https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135253,
+      "name": "MASHY BE3LAG",
+      "url": "https://open.spotify.com/track/4ZFtmpUX4tsDEnz1DmsqyA"
+    },
+    {
+      "album": {
         "name": "Molly Crapton",
         "url": "https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK"
       },
@@ -4093,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220216,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx"
+    },
+    {
+      "album": {
         "name": "Nar",
         "url": "https://open.spotify.com/album/6BcqHihuVsFSs4m0YCqNzE"
       },
@@ -4140,7 +4260,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 184000,
       "name": "NBGHIK ANA",
       "url": "https://open.spotify.com/track/5jFbKiWzP1ee66vj7H7gEX"
@@ -4176,7 +4296,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 164444,
       "name": "New Era",
       "url": "https://open.spotify.com/track/69xWOlbsxXfmnyF6fyISpJ"
@@ -5135,6 +5255,28 @@
     },
     {
       "album": {
+        "name": "Scandalous",
+        "url": "https://open.spotify.com/album/2IiMPuz9nT42E9MC7rEoyj"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
+        },
+        {
+          "name": "Salim B",
+          "url": "https://open.spotify.com/artist/3tFLmb0PpdE1gcx5yC8r2A"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169459,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/5BummJzZBmXNJuBhXKczxB"
+    },
+    {
+      "album": {
         "name": "Scorsese",
         "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
       },
@@ -5294,7 +5436,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 156000,
       "name": "Shar",
       "url": "https://open.spotify.com/track/3P2kcZwsngegqgCMyfiEtE"
@@ -6265,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "LISTEN, Pt. 2",
+        "url": "https://open.spotify.com/album/1WMKvV3nNuEfQefWJoZLHf"
+      },
+      "artists": [
+        {
+          "name": "Sara Selina",
+          "url": "https://open.spotify.com/artist/1wAuFuBFLTt9xpVGIipLd9"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170735,
+      "name": "WARDA (hold my hand)",
+      "url": "https://open.spotify.com/track/2Wx4inmqG5SPMJ9w1Bt65h"
+    },
+    {
+      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy"
       },
@@ -6811,6 +6971,28 @@
     },
     {
       "album": {
+        "name": "\u062a\u0635\u0639\u064a\u062f",
+        "url": "https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124081,
+      "name": "\u062a\u0635\u0639\u064a\u062f",
+      "url": "https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha"
+    },
+    {
+      "album": {
         "name": "\u062e\u0627\u0631\u062c \u0627\u0633\u0631\u0627\u0628\u064a",
         "url": "https://open.spotify.com/album/1ZAOSVktOxqyUZwKC6qAwh"
       },
@@ -6822,7 +7004,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 220342,
       "name": "\u062e\u0627\u0631\u062c \u0627\u0633\u0631\u0627\u0628\u064a",
       "url": "https://open.spotify.com/track/4OEVXSK3RYbc86SsbiIiOw"
@@ -7098,6 +7280,28 @@
       "duration_ms": 150857,
       "name": "\u0648 \u0623\u0646\u0627 \u0645\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/2aCE78ZsW1t42bMPz8G5wP"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0645\u0651\u0631 \u0627\u0644\u0648\u0642\u062a",
+        "url": "https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a"
+      },
+      "artists": [
+        {
+          "name": "Grzzlee",
+          "url": "https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "\u064a\u0645\u0651\u0631 \u0627\u0644\u0648\u0642\u062a",
+      "url": "https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ"

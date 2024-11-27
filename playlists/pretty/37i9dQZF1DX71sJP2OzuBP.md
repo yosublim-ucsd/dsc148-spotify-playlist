@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,056 likes - 131 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,054 likes - 131 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 11 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
 | 12 | [為什麼烏鴉會像寫字臺](https://open.spotify.com/track/4bBILRBPG2YdhTzuYWpOdl) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [為什麼烏鴉會像寫字臺](https://open.spotify.com/album/5DDNw07CbgIvKqjZGntEIn) | 3:54 |
 | 13 | [做我的貓](https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [做我的貓](https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv) | 3:54 |
-| 14 | [敢](https://open.spotify.com/track/63YaTIrzLBFUquHnhQN9wW) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [敢 \(比亚迪成立30周年主题曲\)](https://open.spotify.com/album/5vX5rhg9DDnTeOKB0shP0K) | 4:12 |
+| 14 | [敢 \(比亚迪成立30周年主题曲\)](https://open.spotify.com/track/63YaTIrzLBFUquHnhQN9wW) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [敢 \(比亚迪成立30周年主题曲\)](https://open.spotify.com/album/5vX5rhg9DDnTeOKB0shP0K) | 4:12 |
 | 15 | [我以為宇宙跟我說好了](https://open.spotify.com/track/5PP8fzBEsKqplYN9OL7m7u) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [我以為宇宙跟我說好了](https://open.spotify.com/album/4m2OGdbKYgRHQO3AVs6Yq9) | 4:10 |
 | 16 | [雨夜夢境](https://open.spotify.com/track/2wVwCB3xi7UGs4utTooVa7) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [雨夜夢境](https://open.spotify.com/album/7bcaklGCKw3SULZ0j2r4en) | 3:26 |
 | 17 | [暧昧默剧](https://open.spotify.com/track/5dzneXazJJcM8eiW2Gm4UT) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [暧昧默剧](https://open.spotify.com/album/4UDckwblgyuN4GYlet6jJv) | 3:39 |

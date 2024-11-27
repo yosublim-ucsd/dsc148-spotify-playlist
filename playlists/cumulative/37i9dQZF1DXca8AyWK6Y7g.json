@@ -40697,6 +40697,24 @@
     },
     {
       "album": {
+        "name": "Whistleblower",
+        "url": "https://open.spotify.com/album/4ADaekmlb5h52pLsYbzYLF"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162784,
+      "name": "Whistleblower",
+      "url": "https://open.spotify.com/track/6zP2dszeLZp3qEGKhN3lcn"
+    },
+    {
+      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA"
       },

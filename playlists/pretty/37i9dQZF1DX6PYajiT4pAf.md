@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,020 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,101 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Jessica](https://open.spotify.com/track/5t6rOG9U0nAOCGEnGn7Nvb) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Jessica](https://open.spotify.com/album/0GiS4YvJ2DVbQygVvtXRlN) | 2:43 |
 | 60 | [escocia](https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [escocia](https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j) | 2:57 |
 | 61 | [compartir](https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [compartir](https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1) | 2:45 |
-| 62 | [Making Hits](https://open.spotify.com/track/2L926ZxTZwNshSH15rpJin) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Making Hits](https://open.spotify.com/album/2XEpjjZ04USM1BvbdNPsIp) | 2:24 |
+| 62 | [Making Hits](https://open.spotify.com/track/2L926ZxTZwNshSH15rpJin) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Making Hits.](https://open.spotify.com/album/2XEpjjZ04USM1BvbdNPsIp) | 2:24 |
 | 63 | [vértigo](https://open.spotify.com/track/0TcItQMBNHyepcze6kFS8v) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [vértigo](https://open.spotify.com/album/1uthoD8utOOOpZPLnz5kUN) | 3:20 |
 | 64 | [La Línea del Tiempo](https://open.spotify.com/track/2DR1z9pProFEDKH5GPNrzM) | [Chenoa](https://open.spotify.com/artist/0i3ypO6G38iZmANDHWZxlY) | [La Línea del Tiempo](https://open.spotify.com/album/3YYvLt9aAQaCp59ChvPUTu) | 3:48 |
 | 65 | [El Laberinto \[2012\]](https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Laberinto \[2012\]](https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV) | 3:51 |

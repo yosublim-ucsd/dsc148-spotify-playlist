@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,481 likes - 51 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,491 likes - 51 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 42 | [Pieces \(Live\)](https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gertzinger](https://open.spotify.com/artist/3rUPosNas9HRJr9kpCYzU3) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:39 |
 | 43 | [Even Though I Walk \- Live](https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Even Though I Walk \(Live\)](https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ) | 7:17 |
 | 44 | [In Over My Head \(Crash Over Me\) \[Live\]](https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 4:58 |
-| 45 | [Homecoming \(Live\)](https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:48 |
+| 45 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
 | 46 | [Be Enthroned \(Live\)](https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 8:05 |
-| 47 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
+| 47 | [Homecoming \(Live\)](https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:48 |
 | 48 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
 | 49 | [Gravity \(Instrumental\)](https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 5:14 |
 | 50 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
 | 51 | [This Is Amazing Grace](https://open.spotify.com/track/6ypvZnpX4w9B1VdgmjlhjS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 7:32 |
 
-Snapshot ID: `Z0JsgAAAAACWNMYSAQUlWF3oB9lU3RSQ`
+Snapshot ID: `Z0O+AAAAAADr9WsQpch4g/Fr+L7KFxt4`

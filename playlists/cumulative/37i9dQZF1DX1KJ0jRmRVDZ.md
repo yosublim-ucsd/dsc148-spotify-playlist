@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,242 songs - 2 day 22 hr 46 min
+1,244 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-06-30 | 2022-07-03 |
 | [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/track/0I4vcFpiiUQRqhyYUqlKcO) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/album/0bHlAZ78hbAVqPNQci3KMi) | 4:00 | 2023-11-12 | 2023-11-16 |
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 | 2024-01-26 |
-| [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-13 |  |
+| [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-13 | 2024-11-27 |
 | [Reincarnation](https://open.spotify.com/track/0sqnyvAzus3puMUcE0C0xa) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Reincarnation](https://open.spotify.com/album/30BWPdioslpPR0mhGt6BlM) | 2:45 | 2023-11-29 | 2023-12-27 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 | 2024-04-19 |
 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 | 2023-04-25 | 2024-04-19 |
@@ -556,6 +556,7 @@
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 | 2024-07-10 |
 | [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 | 2022-10-08 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
+| [アイノ最適解](https://open.spotify.com/track/5zRlUlC3MXAxGgBbAZwlRh) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [アイノ最適解](https://open.spotify.com/album/4Bhq6Qw7ijYrCzC33gz0Tf) | 3:10 | 2024-11-26 |  |
 | [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [アイロニー](https://open.spotify.com/track/1JoQ0Iyq02AT0H6QuOZL1j) | [SHIROIRO](https://open.spotify.com/artist/0m4yOZKtpZQZqJLeUunwW8) | [アイロニー](https://open.spotify.com/album/41PIdEyCaAZCIWn6nwUScI) | 2:53 | 2023-03-09 | 2023-03-25 |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 | 2024-07-10 |
@@ -763,7 +764,7 @@
 | [フタリノクニ](https://open.spotify.com/track/7oqHfLXm7SnyeV0I7NXJsb) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [星霜ロマンスポット](https://open.spotify.com/album/3y5m8YvNm0yGHYoi4ada4V) | 4:15 | 2022-10-12 | 2022-10-19 |
 | [フューリア](https://open.spotify.com/track/4WejpJICqVFVwXyC5f0q2J) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [フューリア](https://open.spotify.com/album/1sHb07YD4RtqUVzq1mxOI7) | 3:58 | 2022-06-09 | 2022-06-19 |
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-03-30 | 2024-07-27 |
-| [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 | 2024-07-26 |  |
+| [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 | 2024-07-26 | 2024-11-27 |
 | [フラストレーション](https://open.spotify.com/track/3aaoTDRTussmilDLWkP47D) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/0AyL04AT8ZMlp7fltqnkqg) | 3:59 | 2022-06-09 | 2022-07-25 |
 | [フラッシュバック](https://open.spotify.com/track/4hnizpijT4QcfNznprVbLX) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [フラッシュバック](https://open.spotify.com/album/0ElFElNrXKcKoADFndk1Uc) | 3:29 | 2023-10-05 | 2023-11-29 |
 | [フラットウッズのモンスターみたいに](https://open.spotify.com/track/4ag6ahTK26pedrFCxKF6BA) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt) | [フラットウッズのモンスターみたいに](https://open.spotify.com/album/1xhR4PqQPeU7zQr6RV5ATC) | 3:01 | 2024-05-07 | 2024-06-01 |
@@ -843,6 +844,7 @@
 | [ワンダーライフ](https://open.spotify.com/track/74XDwLSzztj27oM6KUcC1g) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Solution](https://open.spotify.com/album/5PmNfGLBaymlpqQh7m9vrX) | 3:41 | 2022-06-21 | 2022-07-07 |
 | [ワンモアタイ](https://open.spotify.com/track/6kZUX3ordFbAu2OEQmK7aO) | [蒼宮よづり](https://open.spotify.com/artist/7cqA9TpeojSLLRS3mbrIuk) | [ワンモアタイ](https://open.spotify.com/album/48xuu0AUqb6AAQXEf9fPOL) | 3:00 | 2024-03-13 | 2024-03-20 |
 | [ヴァンパイア](https://open.spotify.com/track/4M0ojH6RFhKdxbzLVwlk00) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [ヴァンパイア](https://open.spotify.com/album/0x1iJ5uy1vZdGiWG9BOUcx) | 3:05 | 2022-09-29 | 2022-10-05 |
+| [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [星街すいせい](https://open.spotify.com/artist/76MJfB59kw7VAKFG1uFc8M) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 | 2024-11-26 |  |
 | [一撃](https://open.spotify.com/track/2usfoCuRvXEpHXAPNeYLCJ) | [ROF\-MAO](https://open.spotify.com/artist/4IyOW0gzISV2jqbkX78Uyp) | [一撃](https://open.spotify.com/album/7pi6CTInuHCJeRKhKT8R03) | 4:02 | 2022-10-20 | 2022-10-26 |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 | 2023-12-27 |
 | [上書きしちゃった](https://open.spotify.com/track/722e4w55BjchjugfieaaAX) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [いらないもの](https://open.spotify.com/album/3AFWkTfMAKf5T3rK32Wqhm) | 2:43 | 2024-11-12 |  |

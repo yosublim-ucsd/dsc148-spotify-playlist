@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-158 songs - 9 hr 11 min
+159 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Last Drop](https://open.spotify.com/track/5mSsvlMqeX21U9WovVAJA4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:23 | 2024-06-24 |  |
 | [Light Me Up](https://open.spotify.com/track/708d6W6YrXgl60vUyp1Bb7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 3:32 | 2022-03-22 |  |
 | [Light Me Up](https://open.spotify.com/track/7BzhMJxmNDtibkjZUBnNZo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) | 3:32 | 2022-03-22 | 2024-04-19 |
+| [Like A Flower](https://open.spotify.com/track/2ivhjourUwztR3kmz575KV) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Like A Flower \- The 1st Mini Album](https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw) | 3:12 | 2024-11-26 |  |
 | [Like Water](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:21 | 2022-03-22 |  |
 | [Little Little](https://open.spotify.com/track/1IAEhCKD6ZSjnDdeJgvXWA) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:59 | 2022-03-22 | 2024-04-19 |
 | [Little Little](https://open.spotify.com/track/38HpS7Kf5Fgc9VomkvahML) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:59 | 2022-03-22 |  |

@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 192374,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL"
@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4OUvGPlwYygHMD18fFqyxE"
+      },
+      "artists": [
+        {
+          "name": "Restful Minds",
+          "url": "https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/6wyHRwdblNea8of4VdmviM"
+    },
+    {
+      "album": {
         "name": "Calm Embrace",
         "url": "https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 155000,
       "name": "Calmative",
       "url": "https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 178500,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 162500,
       "name": "Leuchten",
       "url": "https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ"
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 138857,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH"

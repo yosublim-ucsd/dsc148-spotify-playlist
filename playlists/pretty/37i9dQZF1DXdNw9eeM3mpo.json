@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 470212,
+  "num_followers": 470292,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
+        "name": "Desequilibrio",
+        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
+      },
+      "artists": [
+        {
+          "name": "Dinamo",
+          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
+        }
+      ],
+      "duration_ms": 212845,
+      "name": "El asesino del tiempo",
+      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Desequilibrio",
-        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
-      },
-      "artists": [
-        {
-          "name": "Dinamo",
-          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
-        }
-      ],
-      "duration_ms": 212845,
-      "name": "El asesino del tiempo",
-      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "En la Kalle",
         "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
       },
@@ -955,38 +955,6 @@
       "duration_ms": 217826,
       "name": "Skalari Rude Klub (SRK)",
       "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
-        "name": "Emulsion de Skape",
-        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
-      },
-      "artists": [
-        {
-          "name": "La Matatena",
-          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Su Majestad",
-      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1007,6 +975,38 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Emulsion de Skape",
+        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
+      },
+      "artists": [
+        {
+          "name": "La Matatena",
+          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Su Majestad",
+      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 198188,
       "name": "Es lo que hay",
       "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "El ataque de la nueva ola",
         "url": "https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     },
     {
       "added_at": "2024-10-29 18:10:22",

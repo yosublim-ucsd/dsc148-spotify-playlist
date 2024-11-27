@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,520 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
 | 17 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
-| 19 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
-| 20 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
+| 19 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
+| 20 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
 | 21 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
 | 22 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
-| 23 | [Here Again](https://open.spotify.com/track/6anKq8vb5g5FvYm0Q91c5A) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Here Again](https://open.spotify.com/album/4ZHO5oxcVKziyr5Z0eBhTc) | 2:56 |
-| 24 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
+| 23 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
+| 24 | [Here Again](https://open.spotify.com/track/6anKq8vb5g5FvYm0Q91c5A) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Here Again](https://open.spotify.com/album/4ZHO5oxcVKziyr5Z0eBhTc) | 2:56 |
 | 25 | [Baddietransfer](https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Baddietransfer](https://open.spotify.com/album/55g02frKoCk9d1jKn9NsPH) | 2:31 |
 | 26 | [Allez, allez](https://open.spotify.com/track/7sR3UMUqPzeK5LdgwGiYWJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Allez, allez](https://open.spotify.com/album/5rNPYsKaeA03ZvV9ZfcqqT) | 2:53 |
 | 27 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |

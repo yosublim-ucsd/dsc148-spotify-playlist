@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,719 likes - 130 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,814 likes - 130 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,10 +124,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 114 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
 | 115 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
 | 116 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 |
-| 117 | [O Que Será](https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Eu vim da Bahia](https://open.spotify.com/album/1tQ1u6Kms69YAw9tjWMdF3) | 3:45 |
+| 117 | [O Que Será](https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Eu vim da Bahia](https://open.spotify.com/album/1tQ1u6Kms69YAw9tjWMdF3) | 3:45 |
 | 118 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 |
 | 119 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 |
-| 120 | [The Dolphin](https://open.spotify.com/track/7gbC3OMRW5bU92Y6cC3D2X) | [A Porta Verde](https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652) | [Maçã](https://open.spotify.com/album/3Zvm1Dciwe02rIEqEOf6CZ) | 4:50 |
+| 120 | [The Dolphin](https://open.spotify.com/track/7gbC3OMRW5bU92Y6cC3D2X) | [A Porta Verde](https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652) | [Maçã](https://open.spotify.com/album/3Zvm1Dciwe02rIEqEOf6CZ) | 4:50 |
 | 121 | [Praia de Ipanema](https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Praia de Ipanema](https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1) | 4:01 |
 | 122 | [Mestre Sala](https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 4:32 |
 | 123 | [Sonhar Acordado](https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 4:37 |

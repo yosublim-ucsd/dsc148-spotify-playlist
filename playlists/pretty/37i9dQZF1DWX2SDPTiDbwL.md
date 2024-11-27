@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,850 likes - 71 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,868 likes - 71 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 8 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
 | 9 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
 | 10 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
-| 11 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
-| 12 | [Beautiful Eyes](https://open.spotify.com/track/1MHqusTSSA5UOjNZFkOugB) | [Spanish Guitar Chill Out](https://open.spotify.com/artist/71ey1tIAyP0CDMalhfwT8Q) | [2017 Relaxed Spanish Guitar](https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy) | 2:13 |
+| 11 | [Corazón Salvaje](https://open.spotify.com/track/37qJYapQI7GL2fqQDMr83j) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Corazón Salvaje](https://open.spotify.com/album/0E2QLlVDkRDa4zSVMIhXDb) | 3:40 |
+| 12 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
 | 13 | [D'arie II](https://open.spotify.com/track/3qpMDHurZmTZXz6cioYqdX) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/40RV3GOzwZCOqVgQ8Fz8QY) | 2:51 |
-| 14 | [Sand Dunes](https://open.spotify.com/track/4Pc1Eay0hn2cCafRI07LrJ) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Acoustic Flamenco](https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp) | 2:44 |
+| 14 | [Beautiful Eyes](https://open.spotify.com/track/1MHqusTSSA5UOjNZFkOugB) | [Spanish Guitar Chill Out](https://open.spotify.com/artist/71ey1tIAyP0CDMalhfwT8Q) | [2017 Relaxed Spanish Guitar](https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy) | 2:13 |
 | 15 | [Cuidad De Esperanza](https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C) | [NomadsPlace](https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu) | [En Casa de Nuevo](https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja) | 3:15 |
 | 16 | [Tu Belleza Me Conmueve](https://open.spotify.com/track/55onRB7WnEqgzHtt6yK6r5) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [Tu Belleza Me Conmueve](https://open.spotify.com/album/36NgnG3aFUkeK6e9y71j3e) | 3:20 |
 | 17 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 70 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 |
 | 71 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `Zz22yQAAAAAUhE6GhysggRbh2XnzjQss`
+Snapshot ID: `Z0XBbwAAAABzSoXsGJAamYisyoUfFe2L`

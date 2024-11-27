@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,981 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,983 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 48 | [友情歲月](https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 5:08 |
 | 49 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 |
 | 50 | [陪著你走 \- 劇集 "不懂撒嬌的女人" 插曲](https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Lonely](https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO) | 3:32 |
-| 51 | [那個下午我在舊居燒信](https://open.spotify.com/track/7aZi6m1EhPhLyDFsZ0nUY9) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛.科學](https://open.spotify.com/album/05RQbvDpjorpaUYUNCOYsQ) | 4:15 |
+| 51 | [那個下午我在舊居燒信](https://open.spotify.com/track/7aZi6m1EhPhLyDFsZ0nUY9) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛．科學](https://open.spotify.com/album/05RQbvDpjorpaUYUNCOYsQ) | 4:15 |
 | 52 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 |
 | 53 | [禁色](https://open.spotify.com/track/3upZiipbPQ6ewvm0PDyarH) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:54 |
 | 54 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 |

@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-488 songs - 1 day 18 hr 18 min
+489 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Fine Day](https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fine Day](https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38) | 3:23 | 2024-03-07 | 2024-09-03 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-08-30 | 2024-01-27 |
 | [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 | 2023-04-28 | 2023-08-17 |
+| [First Light](https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd) | [Pedro Borlado](https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7) | [First Light](https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC) | 3:58 | 2024-11-18 |  |
 | [Fly With Me](https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p) | [Habitatt](https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF) | [Fly With Me](https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87) | 3:46 | 2024-03-07 | 2024-05-19 |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-12 | 2024-06-07 |
 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-10 | 2024-11-12 |
@@ -414,7 +415,7 @@
 | [Static \- Cinthie Remix Radio Edit](https://open.spotify.com/track/4ehyxfrCHC7NrB3FnWtwjo) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Life Signs Remixes](https://open.spotify.com/album/0dSVByJ7AcaQcwXX55G7Bv) | 3:36 | 2022-06-24 | 2022-07-21 |
 | [Stellar, Pt\. 2 \- Convinzed Remix](https://open.spotify.com/track/1vw4yFaUbySClquyyN1Xwf) | [Xavier Montrier](https://open.spotify.com/artist/0Yyy6dJMrroj3oJOz0YPLa), [Convinzed](https://open.spotify.com/artist/2HOr1gcgMNOdellmi8zuZx) | [Stellar](https://open.spotify.com/album/1MnIgI4IuEEqZdEZhOo1lm) | 6:13 | 2022-04-15 | 2022-07-16 |
 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 | 2022-04-15 | 2022-06-17 |
-| [Strobe \- Layton Giordani Remix](https://open.spotify.com/track/2So9vITovkovvxlVerZccz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Strobe \(Layton Giordani Remix\)](https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm) | 3:35 | 2024-09-16 |  |
+| [Strobe \- Layton Giordani Remix](https://open.spotify.com/track/2So9vITovkovvxlVerZccz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Strobe \(Layton Giordani Remix\)](https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm) | 3:35 | 2024-09-16 | 2024-11-27 |
 | [Stronger](https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Stronger](https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L) | 2:56 | 2024-01-22 | 2024-09-03 |
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-02-03 | 2023-03-22 |
 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-21 |  |

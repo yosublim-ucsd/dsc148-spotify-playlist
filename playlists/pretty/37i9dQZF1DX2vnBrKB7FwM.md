@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,027 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,052 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 54 | [Mi Vida Es una Fiesta](https://open.spotify.com/track/4jTE7kXyAlVdIEJwp4Z421) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mi Vida Es una Fiesta](https://open.spotify.com/album/2Xdw3H008OBR4xE22z1yRM) | 3:37 |
 | 55 | [Noche Luna](https://open.spotify.com/track/0CmpEhu1vaaRq8MT1wTZsl) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Pineal](https://open.spotify.com/album/4VFXxddpPw6nNfazN0m1wg) | 3:12 |
 | 56 | [La Nada](https://open.spotify.com/track/3EXRgZtRcCgcjpCBj5Qi5Z) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/4sLgEndvHbNyqRL0B6YB84) | 3:06 |
-| 57 | [La Típica \(2.018\)](https://open.spotify.com/track/2sM2CvBHegavYx0LUCWZrx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/1n2cyFuubJtLlIyQWjtNEi) | 2:51 |
+| 57 | [La Típica \(2.018\)](https://open.spotify.com/track/2sM2CvBHegavYx0LUCWZrx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/1n2cyFuubJtLlIyQWjtNEi) | 2:51 |
 | 58 | [La Vida Es Solo Una](https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Vida Es Solo Una](https://open.spotify.com/album/6nMhlrzDLRGETUIxjpqXiU) | 3:04 |
 | 59 | [Hienas](https://open.spotify.com/track/0fMUUugJLn2IZX5EedPRj2) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Hienas](https://open.spotify.com/album/6PBGi7sW0jYuDgVlkAkjA2) | 2:55 |
 | 60 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |

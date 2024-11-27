@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 533037,
+  "num_followers": 533205,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -793,24 +793,20 @@
       "url": "https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2"
     },
     {
-      "added_at": "2024-10-28 23:28:53",
+      "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "What A Relief",
-        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
       "artists": [
         {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
         }
       ],
-      "duration_ms": 182110,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2024-10-28 16:06:53",
@@ -829,20 +825,24 @@
       "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
-      "added_at": "2024-10-03 23:15:00",
+      "added_at": "2024-10-28 23:28:53",
       "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
       "artists": [
         {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Songs From A Thousand Frames Of Mind",
-        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 207778,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Heaven in the Right Light",
         "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Songs From A Thousand Frames Of Mind",
+        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 207778,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
     },
     {
       "added_at": "2024-10-03 23:15:00",

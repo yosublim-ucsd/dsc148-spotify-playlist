@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,106 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,174 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 |
-| 2 | [Casa forte](https://open.spotify.com/track/7ulVAlO3bUBZQXZQqLOSMP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 2:22 |
-| 3 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
-| 4 | [Lotus 72 D \- Fast](https://open.spotify.com/track/07xy28es5iL0ytFi7rs7Sw) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Mr Bongo Record Club, Vol\. 4 \(Compiled by Mr Bongo\)](https://open.spotify.com/album/6VX5uJvA93akZYjWV6fdY4) | 3:00 |
-| 5 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 |
-| 6 | [Acenda o farol](https://open.spotify.com/track/6ywWdrb3jfkpGGJPdsUe4Q) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 3:11 |
+| 1 | [Acenda o farol](https://open.spotify.com/track/6ywWdrb3jfkpGGJPdsUe4Q) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 3:11 |
+| 2 | [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 |
+| 3 | [Casa forte](https://open.spotify.com/track/7ulVAlO3bUBZQXZQqLOSMP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 2:22 |
+| 4 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
+| 5 | [Lotus 72 D \- Fast](https://open.spotify.com/track/07xy28es5iL0ytFi7rs7Sw) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Mr Bongo Record Club, Vol\. 4 \(Compiled by Mr Bongo\)](https://open.spotify.com/album/6VX5uJvA93akZYjWV6fdY4) | 3:00 |
+| 6 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 |
 | 7 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 8 | [E O Espetáculo Continua](https://open.spotify.com/track/0mNK2GQOs0Y8TFFQo4Fr1q) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Roupa Nova \(1981\)](https://open.spotify.com/album/4fB4jcW0KgBhVsO1l8lJ8P) | 3:20 |
 | 9 | [Se você for a salvador](https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 |
 | 50 | [Na baixa do sapateiro](https://open.spotify.com/track/0EFgQPupq1L5Xk8pipKhI1) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:26 |
 
-Snapshot ID: `Zo1yAAAAAACMhjuDYy0exZ6/lMNWetSR`
+Snapshot ID: `Z0Xj7wAAAACpfBn8nNhME4trPTXZwZ+U`

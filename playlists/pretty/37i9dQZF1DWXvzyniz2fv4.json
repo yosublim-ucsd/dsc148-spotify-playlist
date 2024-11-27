@@ -99,6 +99,34 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
+        "name": "Macei\u00f3 at\u00e9 Jeri",
+        "url": "https://open.spotify.com/album/2p8p5t53aVliazrl4riUxK"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "EDNOBEAT",
+          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
+        }
+      ],
+      "duration_ms": 202846,
+      "name": "Macei\u00f3 at\u00e9 Jeri",
+      "url": "https://open.spotify.com/track/4v7kZiQYM0nt197CNGsbfZ"
+    },
+    {
+      "added_at": "2024-11-22 13:52:42",
+      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -147,34 +175,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-11-22 13:52:42",
-      "album": {
-        "name": "Macei\u00f3 at\u00e9 Jeri",
-        "url": "https://open.spotify.com/album/2p8p5t53aVliazrl4riUxK"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "EDNOBEAT",
-          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
-        }
-      ],
-      "duration_ms": 202846,
-      "name": "Macei\u00f3 at\u00e9 Jeri",
-      "url": "https://open.spotify.com/track/4v7kZiQYM0nt197CNGsbfZ"
     },
     {
       "added_at": "2024-11-22 13:52:42",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2024-11-22 13:52:42",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2024-11-22 13:52:42",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2024-11-22 13:52:42",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2024-11-22 13:52:42",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2024-11-22 13:52:42",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2024-11-22 13:52:42",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
       "artists": [
         {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+          "name": "Buia Kalu",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     },
     {
       "added_at": "2024-11-22 13:52:42",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
       },
       "artists": [
         {
-          "name": "Buia Kalu",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
         }
       ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2024-11-22 13:52:42",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-11-22 13:52:42",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2024-11-22 13:52:42",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 272335,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/2OJzQNFNx2PDFwltkUbqVJ"
+    },
+    {
+      "added_at": "2024-11-22 13:52:42",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-11-22 13:52:42",

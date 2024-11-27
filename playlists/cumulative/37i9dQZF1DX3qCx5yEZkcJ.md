@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-553 songs - 22 hr 52 min
+554 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2024-08-30 |
 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 | 2024-04-19 |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 |  |
-| [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 |  |
+| [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 | 2024-11-27 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 | 2023-06-06 |
 | [Bapelujah](https://open.spotify.com/track/52Hm0VKu1rFGiTU1GxYVkh) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Bapelujah](https://open.spotify.com/album/7wQMP5OKSDcA3sUO4AJrGj) | 1:17 | 2021-06-12 | 2022-07-28 |
@@ -335,6 +335,7 @@
 | [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-10-26 |  |
 | [Night Shift](https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Night Shift](https://open.spotify.com/album/5MxnbwEmkDQWxSUE8GoMQZ) | 1:40 | 2020-01-14 | 2020-10-21 |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-31 |  |
+| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2024-11-15 |  |
 | [Night Vision](https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/2l9Ag3O0tfmogbuJ8ravko) | 1:30 | 2023-04-13 | 2023-05-19 |
 | [Night Vision](https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII) | 1:30 | 2023-05-19 | 2024-04-19 |
 | [nightfall](https://open.spotify.com/track/7KPcjAcacdXvba3njXGCXT) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [nightfall](https://open.spotify.com/album/2YSgbVJI3mec5LKx3bOtLl) | 2:51 | 2021-05-07 | 2021-09-10 |

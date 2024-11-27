@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5tmSZ65pTibqLtWujrIZBF"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcel Mip\u00e9r",
+          "url": "https://open.spotify.com/artist/17EwnKFq0C7U9arfvF0h05"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/357uWf4Ao1UqZ2DXMdrXIV"
+    },
+    {
+      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A"
       },
@@ -5495,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "My Dear Friend",
+        "url": "https://open.spotify.com/album/0zifV6J1yor9ncREjJsWlX"
+      },
+      "artists": [
+        {
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133992,
+      "name": "My Dear Friend",
+      "url": "https://open.spotify.com/track/6iCeCGJLlLPdUULkOyJjQX"
+    },
+    {
+      "album": {
         "name": "M\u00e9lange Weaved",
         "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
       },
@@ -6612,6 +6648,24 @@
       "duration_ms": 210355,
       "name": "Places",
       "url": "https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc"
+    },
+    {
+      "album": {
+        "name": "Playful Waters",
+        "url": "https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd"
+      },
+      "artists": [
+        {
+          "name": "Vic Carnes",
+          "url": "https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "Playful Waters",
+      "url": "https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM"
     },
     {
       "album": {

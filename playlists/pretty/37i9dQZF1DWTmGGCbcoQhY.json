@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1336043,
+  "num_followers": 1336124,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Recuerdos Andinos",
-        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Cumbia Azteca",
-      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210006,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Ya No Est\u00e0s Aqu\u00ec",
         "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Con La Sangre Caliente",
         "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
       },
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Sigueme",
         "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 236360,
       "name": "Mi Corazon Es un Vagabundo",
       "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+        "url": "https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Epcm",
+          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
+        }
+      ],
+      "duration_ms": 364277,
+      "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+      "url": "https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN"
       },
@@ -1939,6 +1955,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Los Reyes de la Cumbia",
         "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
       },
@@ -1951,22 +1983,6 @@
       "duration_ms": 284160,
       "name": "Rumba Cha Cha",
       "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
-        "url": "https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Epcm",
-          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
-        }
-      ],
-      "duration_ms": 364277,
-      "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
-      "url": "https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -2003,22 +2019,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 316004,
-      "name": "Las Palmitas del Ecuador",
-      "url": "https://open.spotify.com/track/0rJ2dL2qhBg1WerWMUZQfK"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
       },
       "artists": [
         {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 271786,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/0rJ2dL2qhBg1WerWMUZQfK"
     }
   ],
   "unique_name": "Cumbia Sonidera",

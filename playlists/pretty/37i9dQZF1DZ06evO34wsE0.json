@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 245952,
+  "num_followers": 245965,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAAz4h58C49UT+t0mxGb78SM",
+  "snapshot_id": "Z0O+AAAAAAD7M/i76Q+4YjU3iLwfjuxl",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Da Stanotte in Poi (From This Moment On)",
+        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
       },
       "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 270026,
-      "name": "(If You're Not In It For Love) I'm Outta Here!",
-      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
+      "duration_ms": 237240,
+      "name": "Da Stanotte in Poi (From This Moment On)",
+      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Stanotte in Poi (From This Moment On)",
-        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Da Stanotte in Poi (From This Moment On)",
-      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
+      "duration_ms": 270026,
+      "name": "(If You're Not In It For Love) I'm Outta Here!",
+      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Of Me",
         "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 159382,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Black Eyes, Blue Tears",
-      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Just A Girl (The Highlights)",
         "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191493,
       "name": "Not Just A Girl",
       "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,

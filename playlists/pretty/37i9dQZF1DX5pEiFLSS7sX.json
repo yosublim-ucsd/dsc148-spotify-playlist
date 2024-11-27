@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 213394,
+  "num_followers": 213436,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "Wonder of Our God",
+        "url": "https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 362988,
+      "name": "Wonder of Our God",
+      "url": "https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 312534,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Wonder of Our God",
-        "url": "https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC"
-      },
-      "artists": [
-        {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
-        }
-      ],
-      "duration_ms": 362988,
-      "name": "Wonder of Our God",
-      "url": "https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P"
     },
     {
       "added_at": "2024-08-03 08:12:04",

@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 223826,
       "name": "Because I Don't Love You",
       "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
@@ -2348,6 +2348,24 @@
       "duration_ms": 229714,
       "name": "Still You",
       "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
+    },
+    {
+      "album": {
+        "name": "Stitch",
+        "url": "https://open.spotify.com/album/49l21eblkkpfozaTjlpphW"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Stitching",
+      "url": "https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI"
     },
     {
       "album": {

@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/293aezBYCKLx6osj7IL3od"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163885,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg"
+    },
+    {
+      "album": {
         "name": "Between The Lines",
         "url": "https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h"
       },

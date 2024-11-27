@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-559 songs - 1 day 22 hr 59 min
+560 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 | 2023-05-26 |  |
 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 | 2021-12-08 |  |
 | [been here before](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Dylan Yem](https://open.spotify.com/artist/40a0aZCzsqU7fIi6nmoZrs) | [been here before](https://open.spotify.com/album/67vURYRTpK2n6hKtcq31nG) | 3:19 | 2024-04-12 |  |
+| [Big Trip Believing](https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1) | [Big Trip Believing](https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22) | 3:42 | 2024-11-22 |  |
 | [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 |  |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 |  |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 |  |
@@ -344,7 +345,7 @@
 | [Of Sea](https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 6:04 | 2022-05-03 | 2023-08-12 |
 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 | 2021-12-08 | 2023-01-06 |
 | [On My Way](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9) | [By The River](https://open.spotify.com/album/6mFZIdcPLbzEHmauKA4iKA) | 2:51 | 2023-09-01 |  |
-| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 |  |
+| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 | 2024-11-27 |
 | [Ona Ona](https://open.spotify.com/track/3yu5LUE62gGNZOzq1FtzFE) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Ona Ona](https://open.spotify.com/album/14CT2Ia6QvxCP9W4zrb3fa) | 6:12 | 2024-04-12 |  |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 | 2023-06-01 |
 | [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 |  |

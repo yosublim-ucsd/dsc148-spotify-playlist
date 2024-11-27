@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Enchantée Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,216 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,223 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 43 | [douce danse](https://open.spotify.com/track/0SpNlQ9Xvu98LjnA8Sqfhb) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [douce danse](https://open.spotify.com/album/7CcbkVKDb7XbodL9GO7jbi) | 2:45 |
 | 44 | [Arrêter de t'aimer](https://open.spotify.com/track/7mCyJMSTddnGZruHCVxItd) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Arrêter de t'aimer](https://open.spotify.com/album/0VJ4FVEk2y4cVrynESQ5yO) | 3:34 |
 | 45 | [Renaissance](https://open.spotify.com/track/782zOwE3qkVLHHMnbb1dPx) | [B.L.U.E.](https://open.spotify.com/artist/6mkxuPlKAZtkr3LgC1Vi9G) | [Renaissance](https://open.spotify.com/album/3rBzlvTEi3vxpZlFDdHBZx) | 2:13 |
-| 46 | [Anomalie](https://open.spotify.com/track/0S6FEI3T21lJ49ivaBajmQ) | [CLEH](https://open.spotify.com/artist/0VtW9WsnOqGIUlFg3qktnC), [Anagramms](https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL) | [ZIKTOBER 2024](https://open.spotify.com/album/2mHedwb4ZSCs02Jw4fRo2h) | 3:34 |
+| 46 | [Anomalie](https://open.spotify.com/track/0S6FEI3T21lJ49ivaBajmQ) | [CLEH](https://open.spotify.com/artist/0VtW9WsnOqGIUlFg3qktnC), [Anagramms](https://open.spotify.com/artist/1i4AiNwDZm2VfbI5WrqfgU) | [ZIKTOBER 2024](https://open.spotify.com/album/2mHedwb4ZSCs02Jw4fRo2h) | 3:34 |
 | 47 | [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 |
 | 48 | [Ancré](https://open.spotify.com/track/3zsdwhLlgpvYRDCQ5T8XTy) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [Et puis demain, tout ira mieux.](https://open.spotify.com/album/6UjRPp94c5NtDCf2oPHiHz) | 3:09 |
 | 49 | [Nicotine](https://open.spotify.com/track/2FHTgcplTV6yL9UjlVtK3m) | [HVDDOCK](https://open.spotify.com/artist/2VIJqCnSUPFwbtL0S6mUvT) | [Nicotine](https://open.spotify.com/album/51dLyWAkyogvr1XM2GYrGI) | 2:34 |

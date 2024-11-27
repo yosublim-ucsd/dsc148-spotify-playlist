@@ -2,9 +2,9 @@
 
 ### [声優、歌う \-Sing Like Talking\-](https://open.spotify.com/playlist/37i9dQZF1DXc7RvXTzD4rW)
 
-> A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover:立花日菜
+> A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover:スフィア
 
-447 songs - 1 day 5 hr 37 min
+448 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 | 2022-11-02 | 2023-03-02 |
 | [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 | 2022-09-22 | 2023-01-14 |
 | [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 | 2022-09-22 | 2022-11-13 |
-| [Let’s Swing](https://open.spotify.com/track/2QKXb4Zix1OnEzKOkRQGpB) | [TOKYO GROOVE JYOSHI](https://open.spotify.com/artist/0aEJ3yohg6aTje0kzKTz5c) | [Let’s Swing](https://open.spotify.com/album/23cAR3ZEaH2YRymNTvKwie) | 2:54 | 2024-05-02 |  |
+| [Let’s Swing](https://open.spotify.com/track/2QKXb4Zix1OnEzKOkRQGpB) | [TOKYO GROOVE JYOSHI](https://open.spotify.com/artist/0aEJ3yohg6aTje0kzKTz5c) | [Let’s Swing](https://open.spotify.com/album/23cAR3ZEaH2YRymNTvKwie) | 2:54 | 2024-05-02 | 2024-11-27 |
 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 | 2023-11-04 | 2024-02-10 |
 | [Little Dancer](https://open.spotify.com/track/7MeHx6CIcASFd7jH1bWHHh) | [レン \(CV:楠木ともり\)](https://open.spotify.com/artist/6bCnjbtGE5vO3Pyk6lUSay) | [Little Dancer](https://open.spotify.com/album/2j7MY2bBXeXsS03wyXBg5X) | 3:22 | 2024-10-11 |  |
 | [Lonely Flight](https://open.spotify.com/track/2bKFybrQXNytFr7D5qRH9R) | [小林愛香](https://open.spotify.com/artist/584d4y95R54C5X5JVwVC2h) | [Illumination Collection](https://open.spotify.com/album/2ibvx8E076eXrwX8WdZk30) | 4:02 | 2024-09-02 |  |
@@ -222,6 +222,7 @@
 | [Sepia Rainbow](https://open.spotify.com/track/2XT5czmMaKQUE9HsmNTXAk) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [It's a small world](https://open.spotify.com/album/0vV30Z3xDerDxaixsUseIQ) | 5:17 | 2022-07-13 | 2022-08-06 |
 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 | 2023-10-12 | 2024-04-19 |
 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 | 2023-01-13 | 2023-05-09 |
+| [Shining days, shining stars!](https://open.spotify.com/track/0ECe8BZm9rweAvROhQlXyR) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Shining days, shining stars!](https://open.spotify.com/album/0rB9crMa6oQw5NeAcAqSgj) | 5:15 | 2024-11-27 |  |
 | [Shot](https://open.spotify.com/track/2jmlVQ4HcIAhnZ5qELjf9a) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Shot](https://open.spotify.com/album/2yCOva3P2F7qYMIq4kBw9j) | 3:59 | 2023-07-26 | 2023-09-23 |
 | [Shukufuku \- From CrosSing](https://open.spotify.com/track/3UnJK5fueTXBKljAv1fwDt) | [Lynn](https://open.spotify.com/artist/7iahiuhBf7qJMnuR7ajESL) | [Shukufuku \- From CrosSing](https://open.spotify.com/album/0UQ3TzGaXZvuOwFuWu8Xhi) | 3:15 | 2024-03-19 | 2024-04-19 |
 | [Shut Out My Lie](https://open.spotify.com/track/0c4aGHH8AJnFsxv0DWtuRt) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Shut Out My Lie](https://open.spotify.com/album/7aa4Mal9tNWkayHugGRMOJ) | 3:34 | 2024-04-12 | 2024-06-08 |

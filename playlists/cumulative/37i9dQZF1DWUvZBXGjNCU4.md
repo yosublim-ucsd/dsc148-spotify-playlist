@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-363 songs - 16 hr 25 min
+366 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2022-05-13 | 2024-04-06 |
 | [Belonging to the Woods](https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Belonging to the Woods](https://open.spotify.com/album/5MXiLVQY1I0dRkCK0wCGv2) | 3:24 | 2022-05-13 | 2022-10-07 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
+| [Between Us](https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Between Us](https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T) | 2:40 | 2024-11-26 |  |
 | [Blessing](https://open.spotify.com/track/2l3DOrrIbufk8EZpXDVbJF) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Blessing](https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE) | 2:42 | 2022-05-13 | 2024-07-30 |
 | [Blue Hours](https://open.spotify.com/track/0Ol6ir6oEZocV7eterdScm) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [Blue Hours](https://open.spotify.com/album/1ujaieP4ZXfc4RXTHEANic) | 3:32 | 2024-09-25 |  |
 | [Blue River](https://open.spotify.com/track/4H37WSMDCFhcThyII8qadN) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Blue River](https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8) | 3:32 | 2022-05-13 | 2024-04-06 |
@@ -98,6 +99,7 @@
 | [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 | 2023-04-28 |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
+| [Elise's Autumn](https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L) | [Cassian Haines](https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7) | [Elise's Autumn](https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU) | 2:42 | 2024-11-26 |  |
 | [End of Summer](https://open.spotify.com/track/0OwNmUxckzrNFjHGEf90Od) | [Ivan Nevau](https://open.spotify.com/artist/4Y1du6z4ekLOKho3kj1pLD) | [End of Summer](https://open.spotify.com/album/05fPHnXgdmvtMf1nDn1wck) | 2:15 | 2024-09-25 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
 | [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 | 2022-07-22 |
@@ -168,6 +170,7 @@
 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 | 2023-10-13 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2022-06-10 |
+| [Incensus](https://open.spotify.com/track/51y4pJlBEv74r3Yi6p7Hc4) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Incensus](https://open.spotify.com/album/1OygAES8T7LGyfO8RW1sxU) | 2:29 | 2024-11-26 |  |
 | [Inner Light](https://open.spotify.com/track/3VSd4HA3Wn4AfpFOgBR1Gx) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Inner Light](https://open.spotify.com/album/4keDkcxI0hxLfrFUYAzAPf) | 2:44 | 2024-08-13 |  |
 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 | 2023-10-13 |  |
 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |

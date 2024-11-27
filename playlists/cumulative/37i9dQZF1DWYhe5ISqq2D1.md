@@ -2,9 +2,9 @@
 
 ### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
-> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: クボタカイ
+> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: LEX
 
-289 songs - 18 hr 21 min
+290 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 | 2024-07-02 | 2024-09-13 |
 | [Sign](https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sign](https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc) | 4:20 | 2024-09-17 |  |
 | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e) | 4:35 | 2024-07-02 | 2024-09-07 |
-| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2024-07-02 |  |
+| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2024-07-02 | 2024-11-27 |
 | [Something like Hope](https://open.spotify.com/track/2xXxhNbNkeOUH2rQhzmqCB) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Shoe Shine](https://open.spotify.com/album/7tPVkZr79zSooDsjgYEy5r) | 5:47 | 2024-09-17 | 2024-09-25 |
 | [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 | 2024-09-17 | 2024-09-25 |
 | [Stardust Memory](https://open.spotify.com/track/2Cmm1iDA7AbfLR1UF6ulR9) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [Stardust Memory](https://open.spotify.com/album/69GGDQfXCATix3I6s7bNYo) | 3:21 | 2024-07-02 | 2024-07-27 |
@@ -139,6 +139,7 @@
 | [がらくた \- JUNK](https://open.spotify.com/track/52ItXyP098zb8OR4na4iQk) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:57 | 2024-08-27 |  |
 | [きっと ずっと](https://open.spotify.com/track/3gPFzM3uedNKiQvT8Kg8Mc) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [きっと ずっと](https://open.spotify.com/album/5kxMrcNqd6jKOIOE4WMhxb) | 4:02 | 2024-11-13 | 2024-11-20 |
 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 | 2024-09-03 | 2024-09-18 |
+| [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 | 2024-11-26 |  |
 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-07-02 |  |
 | [ざらめ](https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ざらめ](https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB) | 4:42 | 2024-07-30 |  |
 | [すべて去りがたき日々](https://open.spotify.com/track/53dB89Kl0chOZkodYXKplF) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [すべて去りがたき日々](https://open.spotify.com/album/1DBMmiizIv6PHnIK7KWWL7) | 3:57 | 2024-09-17 | 2024-10-09 |

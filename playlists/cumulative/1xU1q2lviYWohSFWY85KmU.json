@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 269368,
       "name": "Black Out",
       "url": "https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH"
@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "\u3077\u3077\u3077\u3077",
+        "url": "https://open.spotify.com/album/5La9DGLFQptCc2jpqqS06m"
+      },
+      "artists": [
+        {
+          "name": "\u307d\u3066",
+          "url": "https://open.spotify.com/artist/3aCTrqguLqycn5cNbnkbdl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u3077\u3077\u3077\u3077 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/5eUUjBOzcRMOu6FZsa8h1E"
+    },
+    {
+      "album": {
         "name": "\u307c\u3063\u3061\u5929\u56fd",
         "url": "https://open.spotify.com/album/1uL77BW0XZr1rUMJ7n5WAl"
       },
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 214666,
       "name": "\u3082\u3046\u5bdd\u306a\u3055\u3044 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/0bhQ9mUIy3MligfrPdhjpX"
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 157500,
       "name": "\u3084\u3063\u3063\u3063\u30c1\u30e3\u30a4\u30ca\uff01\uff01\uff01\uff01 (feat. \u93e1\u97f3\u30ec\u30f3&\u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/6kYcasPVu8On2eUuvkS6Eb"
@@ -1820,6 +1842,24 @@
       "duration_ms": 176178,
       "name": "\u30a8\u30b9\u30d1\u30fc\u30a8\u30b9\u30d1\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1bObfXWv3fLv3K2psR3zUD"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30e9\u30e1\u30ce\u30d2\u30c8",
+        "url": "https://open.spotify.com/album/4wyndvx7bGzCpTMFawv5Aj"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "\u30a8\u30e9\u30e1\u30ce\u30d2\u30c8",
+      "url": "https://open.spotify.com/track/6DPW4K49Gu4fmdNgWfpCfo"
     },
     {
       "album": {
@@ -2136,6 +2176,28 @@
       "duration_ms": 234065,
       "name": "\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0v238JCxitNZJTeijSRZnA"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30fb\u30b7\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/6WnwU9MmgXohcCDSDNtwXQ"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30de\u30ae\u30b7\u30b3\u30fc\u30b8",
+          "url": "https://open.spotify.com/artist/1qHX4qNXPDGWLQKXAkxFbZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30fb\u30b7\u30fc\u30ab\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6RQNb5FR36y4FaeTNGVgfc"
     },
     {
       "album": {
@@ -2784,10 +2846,32 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 217259,
       "name": "\u30df\u30e9\u30af\u30eb\u30a8\u30fc\u30b9\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6B2AgMVAmX30SsKgr97tBO"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30eb\u30b3\u30e1\u30c0",
+        "url": "https://open.spotify.com/album/2nMtCBnS1BflwL4JGIkQR9"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "\u30df\u30eb\u30b3\u30e1\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4Fvdvg3tMd0NoftbNMj0m0"
     },
     {
       "album": {
@@ -4314,7 +4398,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 185000,
       "name": "\u8133\u5929 feat. \u93e1\u97f3\u30ea\u30f3",
       "url": "https://open.spotify.com/track/3kwHouapkt8MKka707ddQC"

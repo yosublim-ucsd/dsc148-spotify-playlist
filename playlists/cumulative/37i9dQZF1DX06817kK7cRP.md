@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-209 songs - 9 hr 10 min
+210 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-01-12 | 2024-06-08 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-01-12 |  |
 | [Iris](https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [jazz\_rabbit](https://open.spotify.com/artist/2ljuC6YzA818simZ2TgEc2), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Iris](https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io) | 2:34 | 2023-01-12 |  |
+| [Java Jam](https://open.spotify.com/track/3kQ2DmTRhaTMawWZGeKUk4) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Java Jam](https://open.spotify.com/album/3SyB0kRNe3OYEhrlKcWJuB) | 2:01 | 2024-11-12 |  |
 | [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-25 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
@@ -119,7 +120,7 @@
 | [Maui Midnight](https://open.spotify.com/track/5RhzrTGuWdN9BwLrsQNK8I) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Maui Midnight](https://open.spotify.com/album/0Qi2WNmlR7BRDqgFnmMTFZ) | 1:59 | 2024-07-25 |  |
 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 | 2023-04-20 |  |
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 | 2023-05-02 |
-| [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 |  |
+| [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 | 2024-11-27 |
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 | 2023-08-19 |
 | [Mood Swings](https://open.spotify.com/track/0hcX7etCRdZALhZEV33Vip) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Niklas Nadidai](https://open.spotify.com/artist/7xG4xBlSjxQnDcToJoVs0Q) | [Mood Swings](https://open.spotify.com/album/36xWvXUdongzxhblaAyjZl) | 2:21 | 2024-08-23 |  |
 | [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 |  |

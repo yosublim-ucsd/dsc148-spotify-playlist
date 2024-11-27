@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 40370,
+  "num_followers": 40389,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Close To Me (feat. Bnxn)",
         "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
       },
@@ -459,18 +475,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+        "name": "Lately (feat. Ruger)",
+        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+      "duration_ms": 171764,
+      "name": "Lately (feat. Ruger)",
+      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -491,26 +511,6 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Lately (feat. Ruger)",
-        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Lately (feat. Ruger)",
-      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Ouu wee (brown)",
-        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Ouu wee (brown)",
-      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "JAILER (feat. Victony)",
         "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 235294,
       "name": "JAILER (feat. Victony)",
       "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Hard Guy Confessions",
+        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 234767,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "LOVE OR LAMBA",
         "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Hard Guy Confessions",
-        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 234767,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 178775,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Lemme Know",
-        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Lemme Know",
-      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Lemme Know",
+        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Lemme Know",
+      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Welcome To The Pack",
         "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 165517,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 178310,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Adanna",
         "url": "https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 216923,
       "name": "Adanna",
       "url": "https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 178310,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Days Pass By",
         "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1231,6 +1211,26 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Sweet For Joy",
+        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
+      },
+      "artists": [
+        {
+          "name": "Amexin",
+          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 165159,
+      "name": "Sweet For Joy",
+      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "True To Self",
         "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 133343,
       "name": "Love & Romance",
       "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Sweet For Joy",
-        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
-      },
-      "artists": [
-        {
-          "name": "Amexin",
-          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        }
-      ],
-      "duration_ms": 165159,
-      "name": "Sweet For Joy",
-      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Story of Our Lives",
-        "url": "https://open.spotify.com/album/11She1URb5G1orrCZeLFsG"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
       },
       "artists": [
         {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        },
-        {
-          "name": "Africaine",
-          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 162841,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2"
+      "duration_ms": 178144,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     }
   ],
   "unique_name": "Lovin' Beats",

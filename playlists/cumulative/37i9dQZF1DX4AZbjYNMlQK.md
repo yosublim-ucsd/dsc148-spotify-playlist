@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: David Bisbal
 
-187 songs - 10 hr 6 min
+188 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [25](https://open.spotify.com/track/7ycm9QUqfl7Y3AzY5etvLo) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Sad "X" mas](https://open.spotify.com/album/0deuNy0QB3zmYbFfJu21Cy) | 2:16 | 2023-12-20 | 2024-09-25 |
 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 | 2022-12-19 |  |
 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 | 2022-12-19 |  |
-| [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 | 2023-12-20 |  |
+| [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 | 2023-12-20 | 2024-11-27 |
 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 | 2021-12-15 | 2022-12-20 |
 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 | 2022-12-19 | 2023-11-18 |
 | [Al Mundo Paz](https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Al Mundo Paz](https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL) | 3:02 | 2022-12-19 | 2024-11-02 |
@@ -132,6 +132,7 @@
 | [Navidad, Navidad](https://open.spotify.com/track/046nCoUyoSiuK2VXxoCYy8) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Navidad, Navidad](https://open.spotify.com/album/1LBvVHmVIiLz40w6OYUT0d) | 2:46 | 2021-12-15 | 2022-12-19 |
 | [Navisad](https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Navisad](https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI) | 3:06 | 2023-11-17 |  |
 | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/track/3c56nqMkeVdVnIxuflEJ5a) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/album/6W6JtAT7c9Cgg73wheBQoP) | 3:28 | 2023-11-24 |  |
+| [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/track/2oGrSrg08RVLHeqFH1eaHZ) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/album/09q2zFwQEfVn3XN5EkkEu5) | 2:03 | 2024-11-26 |  |
 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 | 2021-12-15 | 2022-12-20 |
 | [Noche de Paz](https://open.spotify.com/track/30dd2KV0Ea5Cqx2Sj2jieq) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Noche de Paz](https://open.spotify.com/album/4QsrdoGZ4JzndwyzvpwXdU) | 3:52 | 2023-12-20 | 2024-10-08 |
 | [Noche De Paz](https://open.spotify.com/track/0bxz99lTmipy9D9MXcRRke) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Noche De Paz](https://open.spotify.com/album/5qFuUfQqVm3m5hNhiCQids) | 3:11 | 2021-12-15 | 2022-12-19 |

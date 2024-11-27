@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-994 songs - 1 day 22 hr 3 min
+995 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [LUNCHROOM FREESTYLE \(feat\. BabyTron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 | 2024-05-31 | 2024-08-31 |
 | [LVLN UP](https://open.spotify.com/track/02g2wpmOvdOdfQTtTpTXdQ) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [LVLN UP](https://open.spotify.com/album/6UYOfqcnn8A9pvUtVN92a8) | 2:08 | 2023-09-15 | 2023-09-23 |
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 | 2023-04-22 |
-| [Madden Bullets](https://open.spotify.com/track/58TD4sM2OEPM7EchsDZloC) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Real Striker Music](https://open.spotify.com/album/4dG1FVEjZZA838N0bndVT8) | 2:42 | 2024-11-22 |  |
+| [Madden Bullets](https://open.spotify.com/track/58TD4sM2OEPM7EchsDZloC) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Real Striker Music](https://open.spotify.com/album/4dG1FVEjZZA838N0bndVT8) | 2:42 | 2024-11-22 | 2024-11-27 |
 | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF) | 2:26 | 2024-01-12 | 2024-03-02 |
 | [Major Leagues](https://open.spotify.com/track/5Bax2k6hmzMbPXDGKFMMyF) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Major Leagues](https://open.spotify.com/album/09gxhzTf3sjJDIvfXFZbPP) | 2:14 | 2023-12-25 | 2024-03-02 |
 | [MAMA](https://open.spotify.com/track/4zRfptVajo8D8ByQWL5EZp) | [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [MAMA](https://open.spotify.com/album/3PwfftIkI32GXLQNNIJbzK) | 2:42 | 2022-03-04 | 2022-03-18 |
@@ -757,6 +757,7 @@
 | [Shapeshifter](https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [ChanHays](https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk) | [Prisoner of Circumstance](https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO) | 2:07 | 2023-06-09 | 2023-07-08 |
 | [she ain't leaving](https://open.spotify.com/track/77C7L8ZhYt4aBKQ2ljewV2) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [she ain't leaving](https://open.spotify.com/album/2oGUkbWuOyJjnbawOxCAmB) | 2:40 | 2024-07-12 | 2024-07-19 |
 | [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 | 2023-12-15 | 2023-12-26 |
+| [She Love Fxce](https://open.spotify.com/track/2jo6ciwkR8MgGbLgwRQrd9) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Real Striker Music](https://open.spotify.com/album/4dG1FVEjZZA838N0bndVT8) | 2:38 | 2024-11-26 |  |
 | [She Sleep!](https://open.spotify.com/track/7o6uEHj5UgPpsVvISaTlSA) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [She Sleep!](https://open.spotify.com/album/5qblkraFMBqrSSMb3kg34Y) | 3:22 | 2024-07-12 | 2024-07-19 |
 | [She The 1](https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [She The 1](https://open.spotify.com/album/3Mg85011xnTsWxslYox4pD) | 3:19 | 2024-02-16 | 2024-03-16 |
 | [SheSheMe \(feat\. Skilla Baby\)](https://open.spotify.com/track/6uUuB5uj4kKusZ3nUrjl7l) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SheSheMe \(feat\. Skilla Baby\)](https://open.spotify.com/album/4yh8Nwwj6U6cR3kCCbksz7) | 2:38 | 2024-06-07 | 2024-06-15 |
@@ -975,7 +976,7 @@
 | [Wicked Inna RaQ 2 \(with G Herbo\)](https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Wicked Inna RaQ 2](https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x) | 2:31 | 2023-03-24 | 2023-07-08 |
 | [Wicked Romance](https://open.spotify.com/track/35uuAlEbvARgXm4lULDyUy) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Wicked Romance](https://open.spotify.com/album/716Q4Y6tGbCOX0mg3eKw0Z) | 2:19 | 2023-10-27 | 2023-11-18 |
 | [Win Wit Us](https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Win Wit Us](https://open.spotify.com/album/6flksMqL2DLGLq6lHc80md) | 2:37 | 2024-05-17 | 2024-06-29 |
-| [Wingz \(feat\. Cardo Got Wings\)](https://open.spotify.com/track/1jFOUeZoR9YCAiirsxnB3y) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [.mp3s](https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q) | 2:15 | 2024-11-22 |  |
+| [Wingz \(feat\. Cardo Got Wings\)](https://open.spotify.com/track/1jFOUeZoR9YCAiirsxnB3y) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [.mp3s](https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q) | 2:15 | 2024-11-22 | 2024-11-27 |
 | [WIT WHATEVER](https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1) | [WIT WHATEVER](https://open.spotify.com/album/1tlBb0lyjAHkzQpIKOyZod) | 2:04 | 2023-12-01 | 2024-01-20 |
 | [With My Boo](https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [With My Boo](https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC) | 2:04 | 2023-10-13 | 2024-02-10 |
 | [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 2:17 | 2022-09-30 | 2023-01-28 |

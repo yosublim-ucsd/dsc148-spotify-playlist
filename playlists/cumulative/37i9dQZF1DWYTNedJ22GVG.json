@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/6flgnVkkS25EzY1ZEuPCAw"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1K5TtzFlzdQLxKx0O5uiH8"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Christmas",
         "url": "https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo"
       },
@@ -1382,7 +1404,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 150282,
       "name": "It\u2019s The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN"

@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6586,7 +6586,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 195466,
       "name": "Den Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/5rS90wydFupYLiw0Tqs1eM"
@@ -7980,7 +7980,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 258533,
       "name": "Dr\u00f8mte Mig En Lille Dr\u00f8m - Fra julekalenderen 'Absalons Hemmelighed'",
       "url": "https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3"
@@ -12034,7 +12034,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 178000,
       "name": "god jul - fra julekalenderen \"Kometernes Jul\"",
       "url": "https://open.spotify.com/track/54JM48edMgazVCU3VNwj35"
@@ -13044,7 +13044,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 133950,
       "name": "Har H\u00f8rt Dig",
       "url": "https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v"
@@ -13124,6 +13124,24 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292461,
+      "name": "heart pt. 6",
+      "url": "https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2"
     },
     {
       "album": {
@@ -13640,6 +13658,28 @@
       "duration_ms": 187551,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/0WWgeQQ4sklycJK1lR6fmB"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Dody6",
+          "url": "https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "hey now (feat. dody6)",
+      "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
     },
     {
       "album": {
@@ -17294,7 +17334,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 359040,
       "name": "Jul Det' Cool",
       "url": "https://open.spotify.com/track/4QOTOTJsJjgrAf0BgnfaRF"
@@ -17312,7 +17352,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 239200,
       "name": "Jul i Angora",
       "url": "https://open.spotify.com/track/4LTUBsLeIn8qcopkFwhwK9"
@@ -17410,7 +17450,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 206965,
       "name": "Julefeber",
       "url": "https://open.spotify.com/track/0Q7nzEj102gwTkql3azU8p"
@@ -20543,6 +20583,32 @@
     },
     {
       "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -20714,6 +20780,24 @@
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "man at the garden",
+      "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
     },
     {
       "album": {
@@ -21596,7 +21680,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 104163,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU"
@@ -23554,7 +23638,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 261252,
       "name": "N\u00e5r Sneen Falder",
       "url": "https://open.spotify.com/track/2jW0MuNkctmqajdnoNZvyg"
@@ -25899,6 +25983,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275740,
+      "name": "reincarnated",
+      "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -25972,7 +26074,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 161241,
       "name": "Reposado",
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
@@ -28042,7 +28144,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -30256,7 +30358,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 219802,
       "name": "Tag Mig Med - Fra julekalenderen 'Theo og Den Magiske Talisman'",
       "url": "https://open.spotify.com/track/1fhLYVIe9s7pwYHxtbdiZ1"
@@ -30892,7 +30994,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -31560,7 +31662,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -32710,7 +32812,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -32978,7 +33080,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 181507,
       "name": "Valdes Jul",
       "url": "https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw"
@@ -32996,7 +33098,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 181507,
       "name": "Valdes Jul",
       "url": "https://open.spotify.com/track/6oQ5FpZJlBPPwNsYkAmx9V"
@@ -33772,7 +33874,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"

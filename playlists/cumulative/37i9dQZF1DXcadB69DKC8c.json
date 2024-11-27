@@ -147,28 +147,6 @@
     },
     {
       "album": {
-        "name": "Sost",
-        "url": "https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI"
-      },
-      "artists": [
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
-        },
-        {
-          "name": "Genet Asefa",
-          "url": "https://open.spotify.com/artist/2b01pFNBwC2nZb3m9qPtpO"
-        }
-      ],
-      "date_added": "2018-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259106,
-      "name": "Ale\u0300gntaye\u0301",
-      "url": "https://open.spotify.com/track/0bFrcl6l44MbN3LtNN71l6"
-    },
-    {
-      "album": {
         "name": "Ethiopiques, Vol. 14: Negus of Ethiopian Sax",
         "url": "https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl"
       },
@@ -220,6 +198,28 @@
       "duration_ms": 297973,
       "name": "Alteleyeshegnem",
       "url": "https://open.spotify.com/track/4h3M34tZp05SMq0yZEATMg"
+    },
+    {
+      "album": {
+        "name": "Sost",
+        "url": "https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI"
+      },
+      "artists": [
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        },
+        {
+          "name": "Genet Asefa",
+          "url": "https://open.spotify.com/artist/2b01pFNBwC2nZb3m9qPtpO"
+        }
+      ],
+      "date_added": "2018-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259106,
+      "name": "Al\u00e8gntay\u00e9",
+      "url": "https://open.spotify.com/track/0bFrcl6l44MbN3LtNN71l6"
     },
     {
       "album": {

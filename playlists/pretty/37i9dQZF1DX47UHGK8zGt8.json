@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 572710,
+  "num_followers": 572875,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
+        "name": "Transforma(dor)",
+        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 143461,
+      "name": "Transforma(dor)",
+      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
         "name": "Beb\u00ea",
         "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 173672,
       "name": "Beb\u00ea",
       "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
-        "name": "Transforma(dor)",
-        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 143461,
-      "name": "Transforma(dor)",
-      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
     },
     {
       "added_at": "2024-11-08 14:33:18",

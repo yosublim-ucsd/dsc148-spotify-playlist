@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,731 likes - 86 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,771 likes - 86 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [¿Me Concederías este Baile?](https://open.spotify.com/track/2lJDxCo8I6muWb1tjLLT9g) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [¿Me Concederías este Baile?](https://open.spotify.com/album/5t50tb5TDHbPkDNF6gK6jv) | 3:13 |
 | 2 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
 | 3 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
-| 4 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 |
-| 5 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
+| 4 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
+| 5 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 |
 | 6 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
 | 7 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
 | 8 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
-| 9 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
-| 10 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
-| 11 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 |
-| 12 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
+| 9 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 10 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
+| 11 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
+| 12 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 |
 | 13 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 |
 | 14 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
 | 15 | [Mallorca](https://open.spotify.com/track/7aYyPUyrRTyAlZZzviXqy9) | [Paul Connor](https://open.spotify.com/artist/0FIFA44uZ9dxGnGnNJTUEl) | [Mallorca](https://open.spotify.com/album/0gDUMfzBQoZbNYv79WLDBA) | 2:08 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 85 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 |
 | 86 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 |
 
-Snapshot ID: `Zz24pAAAAAB9w9v8Ewcukk8wWNwl6rcB`
+Snapshot ID: `Z0XCEgAAAAD5YvYQIE5757ByURtjkBvX`

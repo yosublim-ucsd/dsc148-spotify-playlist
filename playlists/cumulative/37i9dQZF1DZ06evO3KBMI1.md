@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 29 min
+108 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [LIMITLESS](https://open.spotify.com/track/78UCAcX9SzDUDNqwlx87fA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:18 | 2022-06-09 | 2023-06-05 |
 | [LONE WOLF](https://open.spotify.com/track/3m5MKWNlUGKDeg9kRcuQjB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 5:39 | 2022-06-18 | 2022-10-05 |
 | [Making it Drive](https://open.spotify.com/track/1xpZ7rVE6onccU4zdpEgFV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:22 | 2022-08-17 | 2022-09-30 |
-| [MEMORIES of the End](https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MEMORIES of the End](https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa) | 2:19 | 2024-04-29 |  |
+| [MEMORIES of the End](https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MEMORIES of the End](https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa) | 2:19 | 2024-04-29 | 2024-11-27 |
+| [MEMORIES of the End](https://open.spotify.com/track/7BufPyttMh9TPjaYkGX32b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MEMORIES of the End](https://open.spotify.com/album/4npsDu2zpZ7irPVrBXxrOm) | 6:20 | 2024-11-27 |  |
 | [MMH \(Anime ver.\)](https://open.spotify.com/track/2qgWqOSmXzJ8UPNssX613X) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH \(Anime ver.\)](https://open.spotify.com/album/2EHMBjnuzZCJBOgkYE38lr) | 1:32 | 2024-10-08 |  |
 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 | 2022-06-09 |  |
 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 | 2022-06-09 | 2024-11-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,003 likes - 200 songs - 1 day 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,014 likes - 200 songs - 1 day 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 158 | [3$EVEN](https://open.spotify.com/track/2k0vedTDTiF7LMxZ1rtiXF) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht) | [Fling Posse \-F.P.S.M\-](https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm) | 4:32 |
 | 159 | [チグリジア](https://open.spotify.com/track/0C3l3qOP31pIXt2aTE999i) | [HYPNOSISMIC \-D.R.B\- \(Matenro\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [麻天狼\-音韻臨床\-](https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9) | 3:40 |
 | 160 | [G anthem of Y\-CITY](https://open.spotify.com/track/7ro6kuWAn4AvaRXOIM0z5d) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [BAYSIDE M.T.C](https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ) | 3:12 |
-| 161 | [Uptown Anthem feat\. 碧棺左馬刻\(from「ヒプノシスマイク \-Division Rap Battle\-」\)](https://open.spotify.com/track/7Io8lO3UcLJBYw1PK1OEbc) | [Cypress Ueno To Robert Yoshino](https://open.spotify.com/artist/1tOF1qdxR1zSaNT8qJzRc4), [碧棺左馬刻\(from「ヒプノシスマイク \-Division Rap Battle\-」\)](https://open.spotify.com/artist/4vSPLX9jK8UHugQR6nYrA1) | [サ上とロ吉と](https://open.spotify.com/album/4W6CxUkRXs0XUwXmlBMxtq) | 4:03 |
+| 161 | [Uptown Anthem feat\. 碧棺左馬刻\(from｢ヒプノシスマイク \-Division Rap Battle\-｣\)](https://open.spotify.com/track/7Io8lO3UcLJBYw1PK1OEbc) | [Cypress Ueno To Robert Yoshino](https://open.spotify.com/artist/1tOF1qdxR1zSaNT8qJzRc4), [碧棺左馬刻\(from「ヒプノシスマイク \-Division Rap Battle\-」\)](https://open.spotify.com/artist/4vSPLX9jK8UHugQR6nYrA1) | [サ上とロ吉と](https://open.spotify.com/album/4W6CxUkRXs0XUwXmlBMxtq) | 4:03 |
 | 162 | [Yokohama Walker\(Triple Trippin' remix\)/MAD TRIGGER CREW](https://open.spotify.com/track/4SBfVISNH3pb5SqOE0lVXc) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 3:49 |
 | 163 | [IKEBUKURO WEST GAME PARK\(Boyz Sunshine remix\)/Buster Bros!!!](https://open.spotify.com/track/6APwNEgbjmSFeuxboNcK37) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 5:28 |
 | 164 | [Shibuya Marble Texture \-PCCS\-\(Candy Dazed remix\)/Fling Posse](https://open.spotify.com/track/2skrg7QAQBTy95rdvzEWUd) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 3:35 |

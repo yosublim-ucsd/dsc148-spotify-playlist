@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 494,765 likes - 100 songs - 6 hr 33 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 494,741 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 11 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 |
 | 12 | [Scared to Be Lonely \- Acoustic Version](https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely \(Acoustic Version\)](https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY) | 4:17 |
 | 13 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
-| 14 | [Run](https://open.spotify.com/track/4hrAKlxfblnG7llBEEX7TR) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 5:14 |
+| 14 | [Run](https://open.spotify.com/track/4hrAKlxfblnG7llBEEX7TR) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Steve Robson](https://open.spotify.com/artist/5mGVNfjUZcfPl5ceeMi9Ga), [Paul Beard](https://open.spotify.com/artist/4IG1JbUMS5h7Dntp1BlhOO), [Jon Garrison](https://open.spotify.com/artist/6vjZXDF23Naw0RUCUsYmXl), [Karl Brazil](https://open.spotify.com/artist/459AurpDYiZLNLIxISjy9E), [Luke Potashnick](https://open.spotify.com/artist/6xJsrakdyF3m1GMXMt3lD3) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 5:14 |
 | 15 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 16 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 |
 | 17 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 |

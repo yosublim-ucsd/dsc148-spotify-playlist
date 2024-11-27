@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Iis Dahlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,621 likes - 91 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,636 likes - 91 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 63 | [Menepuk Air di Dulang](https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3) | [Evie Tamala](https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd) | [Menepuk Air di Dulang](https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk) | 5:08 |
 | 64 | [Bintang Tertutup Awan](https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Bintang Tertutup Awan](https://open.spotify.com/album/2wSBUcaO4xdRiPL11aRxQb) | 4:31 |
 | 65 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 |
-| 66 | [1000 Janji Ku Tepati](https://open.spotify.com/track/75cExnLdeVWbjS4p3p37fK) | [Aprilian](https://open.spotify.com/artist/7s0Yla5fpCegma2wOf2F2v), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [1000 Janji Ku Tepati](https://open.spotify.com/album/1nTadaP0SnahWnxLnAKd4a) | 5:17 |
+| 66 | [1000 Janji Ku Tepati](https://open.spotify.com/track/75cExnLdeVWbjS4p3p37fK) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [1000 Janji Ku Tepati](https://open.spotify.com/album/1nTadaP0SnahWnxLnAKd4a) | 5:17 |
 | 67 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 |
 | 68 | [Disitu Aku Merasa Sedih](https://open.spotify.com/track/2n5utIK3llw4Y10fQ6laKC) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Disitu Aku Merasa Sedih](https://open.spotify.com/album/11UlNWNVYs4Aso5PhO00Xd) | 4:46 |
 | 69 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 |

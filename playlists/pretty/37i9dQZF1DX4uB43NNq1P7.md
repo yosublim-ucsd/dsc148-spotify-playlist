@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,599 likes - 93 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,647 likes - 93 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 3 | [Open Window](https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [Open Window](https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU) | 2:42 |
 | 4 | [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 |
 | 5 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 |
-| 6 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
-| 7 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 |
+| 6 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 |
+| 7 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
 | 8 | [Morning Dove](https://open.spotify.com/track/6ms7Xldy08kR3MOcmGa2jS) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Morning Dove](https://open.spotify.com/album/5dJYBPJ7O6oRlGI8EIwHDl) | 2:59 |
 | 9 | [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 |
 | 10 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 92 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 93 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `ZzyOJAAAAADVX3Tz8sS34xaxR6bp2V2Y`
+Snapshot ID: `Z0WfyQAAAAAyXVLOTsxIEs48gMJ9maar`

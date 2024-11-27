@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Curated by Malcolm Washington, inspired by Piano Lesson, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 32 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,953 likes - 32 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 3361,
+  "num_followers": 3428,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "CHINGON",
+        "url": "https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "NEMJ",
+          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
+        }
+      ],
+      "duration_ms": 134778,
+      "name": "CHINGON",
+      "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "CHINGON",
-        "url": "https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        },
-        {
-          "name": "NEMJ",
-          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
-        }
-      ],
-      "duration_ms": 134778,
-      "name": "CHINGON",
-      "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Mtg \u00c9 Sempre Assim",
         "url": "https://open.spotify.com/album/3qMozrdsRzEyAgIQpcQNBz"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 162461,
       "name": "Mtg \u00c9 Sempre Assim",
       "url": "https://open.spotify.com/track/2aewP8hWWmeCjBBLODTPy3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG - Base da Maldade",
         "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 116538,
       "name": "MTG - Base da Maldade",
       "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "WHAT IS LOVE (MTG)",
-        "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
-      },
-      "artists": [
-        {
-          "name": "DJ YAPPER",
-          "url": "https://open.spotify.com/artist/4EdRMnSFTAlFTZyYDLycQy"
-        }
-      ],
-      "duration_ms": 135432,
-      "name": "WHAT IS LOVE - MTG",
-      "url": "https://open.spotify.com/track/4hia0R5RRnE5XRByvfeEqr"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG Puxo seu cabelinho",
         "url": "https://open.spotify.com/album/0erwZWDFK9pltr66sFNuqb"
       },
@@ -2035,6 +2019,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "WHAT IS LOVE (MTG)",
+        "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
+      },
+      "artists": [
+        {
+          "name": "DJ YAPPER",
+          "url": "https://open.spotify.com/artist/4EdRMnSFTAlFTZyYDLycQy"
+        }
+      ],
+      "duration_ms": 135432,
+      "name": "WHAT IS LOVE - MTG",
+      "url": "https://open.spotify.com/track/4hia0R5RRnE5XRByvfeEqr"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -2051,6 +2051,26 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2079,26 +2099,6 @@
       "duration_ms": 136615,
       "name": "MTG Cora\u00e7\u00e3o de Vaqueiro",
       "url": "https://open.spotify.com/track/10FMXXD6DQPbywJkePNYB1"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 232498,
-      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG A CULPA \u00c9 SUA",
-        "url": "https://open.spotify.com/album/1LJxDunEIUS3WuIwwWh7hd"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "MC Bouth",
-          "url": "https://open.spotify.com/artist/4gTGJuezOS7sHK41r3Neuh"
-        }
-      ],
-      "duration_ms": 163153,
-      "name": "MTG A CULPA \u00c9 SUA",
-      "url": "https://open.spotify.com/track/2D364Fgzm5aWfNUyMpfWBw"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
         "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 152624,
       "name": "MTG Sagrado Profano",
       "url": "https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG A CULPA \u00c9 SUA",
+        "url": "https://open.spotify.com/album/1LJxDunEIUS3WuIwwWh7hd"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "MC Bouth",
+          "url": "https://open.spotify.com/artist/4gTGJuezOS7sHK41r3Neuh"
+        }
+      ],
+      "duration_ms": 163153,
+      "name": "MTG A CULPA \u00c9 SUA",
+      "url": "https://open.spotify.com/track/2D364Fgzm5aWfNUyMpfWBw"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
+        "url": "https://open.spotify.com/album/1vXmq1QOpQZYDTNUYHGK4N"
+      },
+      "artists": [
+        {
+          "name": "Davi Lemos DJ",
+          "url": "https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL"
+        }
+      ],
+      "duration_ms": 105250,
+      "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
+      "url": "https://open.spotify.com/track/1SraAD8Z3lqvwpF0j1Vq1i"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "PLYBOY",
         "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 192658,
       "name": "PLYBOY",
       "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
-        "url": "https://open.spotify.com/album/1vXmq1QOpQZYDTNUYHGK4N"
-      },
-      "artists": [
-        {
-          "name": "Davi Lemos DJ",
-          "url": "https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL"
-        }
-      ],
-      "duration_ms": 105250,
-      "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
-      "url": "https://open.spotify.com/track/1SraAD8Z3lqvwpF0j1Vq1i"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2655,22 +2655,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg S\u00f3 F\u00e9 (Funk BH)",
-        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
+        "name": "Vallenato Parrandero",
+        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
       },
       "artists": [
         {
-          "name": "DJ Ryder",
-          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
-        },
-        {
-          "name": "Yan Pablo DJ",
-          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
         }
       ],
-      "duration_ms": 147361,
-      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
-      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
+      "duration_ms": 179141,
+      "name": "Vallenato Parrandero",
+      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2691,18 +2687,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vallenato Parrandero",
-        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
+        "name": "Mtg S\u00f3 F\u00e9 (Funk BH)",
+        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
       },
       "artists": [
         {
-          "name": "Daniel Parranda",
-          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
+          "name": "DJ Ryder",
+          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
+        },
+        {
+          "name": "Yan Pablo DJ",
+          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Vallenato Parrandero",
-      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
+      "duration_ms": 147361,
+      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
+      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2723,34 +2723,6 @@
       "duration_ms": 364971,
       "name": "Sax To Me",
       "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG At\u00e9 De Manh\u00e3",
-        "url": "https://open.spotify.com/album/4JMfbaflbA6gGgPlm3hQNR"
-      },
-      "artists": [
-        {
-          "name": "DJ Braga Oficial",
-          "url": "https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG"
-        },
-        {
-          "name": "DJ Lucas Bemix",
-          "url": "https://open.spotify.com/artist/5obSIFnQ6Dzxh0kLC7JUel"
-        },
-        {
-          "name": "Jackarezin",
-          "url": "https://open.spotify.com/artist/0zPc7uGoxVStRKxhZxrZrs"
-        },
-        {
-          "name": "MC P\u00e2nico",
-          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
-        }
-      ],
-      "duration_ms": 130740,
-      "name": "MTG At\u00e9 De Manh\u00e3",
-      "url": "https://open.spotify.com/track/4JBLP76ai1eYCSxLRwnVYs"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2811,6 +2783,34 @@
       "duration_ms": 185995,
       "name": "PARIS HILTON",
       "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG At\u00e9 De Manh\u00e3",
+        "url": "https://open.spotify.com/album/4JMfbaflbA6gGgPlm3hQNR"
+      },
+      "artists": [
+        {
+          "name": "DJ Braga Oficial",
+          "url": "https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG"
+        },
+        {
+          "name": "DJ Lucas Bemix",
+          "url": "https://open.spotify.com/artist/5obSIFnQ6Dzxh0kLC7JUel"
+        },
+        {
+          "name": "Jackarezin",
+          "url": "https://open.spotify.com/artist/0zPc7uGoxVStRKxhZxrZrs"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        }
+      ],
+      "duration_ms": 130740,
+      "name": "MTG At\u00e9 De Manh\u00e3",
+      "url": "https://open.spotify.com/track/4JBLP76ai1eYCSxLRwnVYs"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3107,6 +3107,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "LA FALDA (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LA FALDA - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Morango do Nordeste",
         "url": "https://open.spotify.com/album/7Mio74tlePfXqRDtPtMap1"
       },
@@ -3139,26 +3159,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "LA FALDA (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LA FALDA - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Guaracha",
         "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
       },
@@ -3179,6 +3179,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Saxofon",
+        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
+      },
+      "artists": [
+        {
+          "name": "Gio Silva",
+          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Saxofon",
+      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -3195,22 +3211,6 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Saxofon",
-        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
-      },
-      "artists": [
-        {
-          "name": "Gio Silva",
-          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Saxofon",
-      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3255,30 +3255,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Vou Te Assumir",
-        "url": "https://open.spotify.com/album/24QGtRYqTTwPMVuwkSMHU8"
+        "name": "El Mariachi",
+        "url": "https://open.spotify.com/album/1IDoRaTAdiGxOGQvPxhUdG"
       },
       "artists": [
         {
-          "name": "Lipe Lucena",
-          "url": "https://open.spotify.com/artist/2hr2Pae57x29iMVqjKnHnf"
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
         },
         {
-          "name": "MC NK BH",
-          "url": "https://open.spotify.com/artist/7g4RABZPwXrx0FUrmmX3XJ"
-        },
-        {
-          "name": "DJ KM NO BEAT",
-          "url": "https://open.spotify.com/artist/3VtwJEvDTE4P2SEsVxk13W"
-        },
-        {
-          "name": "Dj Jaja",
-          "url": "https://open.spotify.com/artist/2uTX9PRofIHiBkmkscJAFe"
+          "name": "Chris Salgado",
+          "url": "https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg"
         }
       ],
-      "duration_ms": 136596,
-      "name": "MTG Vou Te Assumir",
-      "url": "https://open.spotify.com/track/3FfVfwvz6IkA2KkG3XU7mQ"
+      "duration_ms": 195802,
+      "name": "El Mariachi",
+      "url": "https://open.spotify.com/track/4lvgZsyJZIYn6QRMZvlt3O"
     }
   ],
   "unique_name": "los prohibidos",

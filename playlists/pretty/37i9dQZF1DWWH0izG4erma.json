@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 610377,
+  "num_followers": 610389,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Learning As I Go",
-        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Learning As I Go",
-      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+        "name": "Learning As I Go",
+        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
+      "duration_ms": 198000,
+      "name": "Learning As I Go",
+      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "What I Know Now",
         "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 191719,
       "name": "Whiskey For Sale",
       "url": "https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2024-11-08 05:00:00",

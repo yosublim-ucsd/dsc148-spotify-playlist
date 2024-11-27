@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,155 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,269 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 44 | [Morning Healing](https://open.spotify.com/track/5y391bgrSpwr54n5Xwr2z6) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:12 |
 | 45 | [Soothing Streams](https://open.spotify.com/track/1v1j4Od2dpUxXeWNiGM30E) | [Tomas Dervishi](https://open.spotify.com/artist/79j0DtkFuwZDihfeGTw0LW) | [Soothing Streams](https://open.spotify.com/album/3cdSodclvk7shIjJpah4Ie) | 2:13 |
 | 46 | [Shape of The Dunes](https://open.spotify.com/track/0UMqbx3tufZnULHZlEymkK) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Shape of The Dunes](https://open.spotify.com/album/09X4mT3iKInsMdOyJ86kmH) | 4:04 |
-| 47 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 |
+| 47 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 |
 | 48 | [Contra La Ceguera](https://open.spotify.com/track/6LhGHJlSy42wepu2KI1GcO) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Contra La Ceguera](https://open.spotify.com/album/21gkMkXE923CauWKURI1FF) | 3:22 |
 | 49 | [Warm Showers](https://open.spotify.com/track/2912FSrpfP5O9nzuwSPlDa) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Warm Showers](https://open.spotify.com/album/59jT8Zj0DbyKbF703easKX) | 3:04 |
 | 50 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 |

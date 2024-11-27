@@ -1,12 +1,12 @@
 {
   "description": "pearl of the week: DJ Suzy",
-  "num_followers": 148163,
+  "num_followers": 148951,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0BNKQAAAAAgdBNVxQkHO83A6xUhovEt",
+  "snapshot_id": "Z0W4ywAAAAByTTZv+wGFrjEoMIoX3y4T",
   "tracks": [
     {
       "added_at": "2024-11-21 23:00:00",
@@ -471,6 +471,22 @@
       "duration_ms": 194525,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/367CDUovzWoyhxNF18uVrd"
+    },
+    {
+      "added_at": "2024-11-26 12:02:19",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2024-11-21 23:00:00",

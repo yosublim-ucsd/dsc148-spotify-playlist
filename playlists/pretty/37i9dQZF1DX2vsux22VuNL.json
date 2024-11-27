@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293346,
+  "num_followers": 293345,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -647,30 +647,6 @@
     {
       "added_at": "2024-11-22 15:00:50",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Depois do Depois",
-      "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
-    },
-    {
-      "added_at": "2024-11-22 15:00:50",
-      "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 221653,
       "name": "Carta Branca",
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
+    },
+    {
+      "added_at": "2024-11-22 15:00:50",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Depois do Depois",
+      "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
     },
     {
       "added_at": "2024-11-22 15:00:50",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-11-22 15:00:50",
       "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
-        },
-        {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
-    },
-    {
-      "added_at": "2024-11-22 15:00:50",
-      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
+    },
+    {
+      "added_at": "2024-11-22 15:00:50",
+      "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2024-11-22 15:00:50",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-11-22 15:00:50",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
-    },
-    {
-      "added_at": "2024-11-22 15:00:50",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2024-11-22 15:00:50",
+      "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-11-22 15:00:50",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2024-11-22 15:00:50",
       "album": {
+        "name": "Pra Casar",
+        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 162780,
+      "name": "Pra Casar",
+      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+    },
+    {
+      "added_at": "2024-11-22 15:00:50",
+      "album": {
         "name": "Pra Viajar",
         "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
       },
@@ -1731,22 +1751,18 @@
     {
       "added_at": "2024-11-22 15:00:50",
       "album": {
-        "name": "Pra Casar",
-        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
       "artists": [
         {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
         }
       ],
-      "duration_ms": 162780,
-      "name": "Pra Casar",
-      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-11-22 15:00:50",
@@ -1791,22 +1807,6 @@
       "duration_ms": 141130,
       "name": "Risco de se Apaixonar",
       "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2024-11-22 15:00:50",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-11-22 15:00:50",

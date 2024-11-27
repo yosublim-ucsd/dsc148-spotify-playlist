@@ -859,24 +859,6 @@
     },
     {
       "album": {
-        "name": "H\u00e4ndelse",
-        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "date_added": "2021-12-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279974,
-      "name": "Ha\u0308ndelse",
-      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
-    },
-    {
-      "album": {
         "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
@@ -1022,6 +1004,24 @@
       "duration_ms": 266414,
       "name": "How it feels pt. 2",
       "url": "https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0"
+    },
+    {
+      "album": {
+        "name": "H\u00e4ndelse",
+        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279974,
+      "name": "H\u00e4ndelse",
+      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
     },
     {
       "album": {

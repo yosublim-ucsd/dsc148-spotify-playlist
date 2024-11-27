@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: indigo la End",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u4e43\u7d2b",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -1012,6 +1012,24 @@
       "duration_ms": 262800,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6jDgh47EnQDbnC7DZ8lq1b"
+    },
+    {
+      "album": {
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/4trT0CMDYW2pVx7t2hIg51"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313746,
+      "name": "angel near you",
+      "url": "https://open.spotify.com/track/3pd4Qxuu12CipI2v6Yi6EH"
     },
     {
       "album": {
@@ -13800,7 +13818,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 235000,
       "name": "slowboat",
       "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
@@ -21400,7 +21418,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 156536,
       "name": "\u30b3\u30f3\u30d7\u30e9\u30a4\u30a2\u30f3\u30b9\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/5Fu51FTSiIB0V3xUowj2Yr"
@@ -26248,7 +26266,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 248833,
       "name": "\u4f59\u767d",
       "url": "https://open.spotify.com/track/6r2e9rEBCmfIa7frPCjlrW"
@@ -27226,7 +27244,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 220592,
       "name": "\u541b\u306e\u5f7c\u6c0f\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU"
@@ -27868,6 +27886,24 @@
       "duration_ms": 200466,
       "name": "\u591c\u9854",
       "url": "https://open.spotify.com/track/4XH4ckpvd4q1MDFKyE4PEQ"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
     },
     {
       "album": {
@@ -28924,6 +28960,24 @@
       "duration_ms": 230146,
       "name": "\u604b\u3059\u308b\u60d1\u661f",
       "url": "https://open.spotify.com/track/5aSItqgApJoIaIZu77L9Zu"
+    },
+    {
+      "album": {
+        "name": "\u604b\u306e8\u79d2\u30eb\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208630,
+      "name": "\u604b\u306e8\u79d2\u30eb\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv"
     },
     {
       "album": {
@@ -33288,6 +33342,24 @@
       "duration_ms": 195293,
       "name": "\u9234\u3005",
       "url": "https://open.spotify.com/track/6IfLdaA77asZvofXazYibP"
+    },
+    {
+      "album": {
+        "name": "\u9283\u96fb\u4e2d",
+        "url": "https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211900,
+      "name": "\u9283\u96fb\u4e2d",
+      "url": "https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF"
     },
     {
       "album": {

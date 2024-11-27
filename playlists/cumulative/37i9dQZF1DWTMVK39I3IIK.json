@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 314708,
       "name": "Cursing and Lying!",
       "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
@@ -350,15 +350,15 @@
           "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
         },
         {
-          "name": "Wads.png",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu"
         }
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192783,
-      "name": "Dans I Morgen (feat. Wads.png)",
+      "name": "Dans I Morgen (feat. Wads)",
       "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
     },
     {
@@ -1148,6 +1148,28 @@
       "duration_ms": 164523,
       "name": "I Wanna Dive in the Seven Seas",
       "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
+    },
+    {
+      "album": {
+        "name": "I'm Sick of Missing You",
+        "url": "https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ"
+      },
+      "artists": [
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
+        },
+        {
+          "name": "Swim. S\u00f8ul",
+          "url": "https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112099,
+      "name": "I'm Sick of Missing You",
+      "url": "https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,263 likes - 71 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,480 likes - 71 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 5 | [Ela Joga na Hora](https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb) | 2:12 |
 | 6 | [Ritmada das Fabulosas \(Feat\. DJ NUNEXZ 015\)](https://open.spotify.com/track/4aK5ndmqP2zg8WVM75jUtM) | [DJ OLIVEIRA DA ZO](https://open.spotify.com/artist/2a1HCtzNWWK0fSXog4fDlc), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx), [DJ Cyber Original](https://open.spotify.com/artist/6PzVzOxVBigurBA2cNIsmx), [DJ NUNEXZ 015](https://open.spotify.com/artist/0ksK7ELmXIJzeCXWocyfX0) | [Ritmada das Fabulosas](https://open.spotify.com/album/0kmNYrzFbiRg5QXaHKvcsw) | 3:18 |
 | 7 | [De Menino Virou Little Hair](https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl) | [DJ Meek](https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK), [MC HULK](https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q), [DINDO OG](https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne), [DJDAVIDOB13](https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL), [DJ Geh da LGD](https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [De Menino Virou Little Hair](https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART) | 3:01 |
-| 8 | [HOJE É PUTARIA COM AS PIRANHA](https://open.spotify.com/track/5brxv9kPjB0EtZaglOSsvJ) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu), [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR) | [HOJE É PUTARIA COM AS PIRANHA](https://open.spotify.com/album/40nNFem6C4FbRHdIbJ0P6q) | 2:13 |
+| 8 | [HOJE É PUTARIA COM AS PIRANHA](https://open.spotify.com/track/5brxv9kPjB0EtZaglOSsvJ) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu) | [HOJE É PUTARIA COM AS PIRANHA](https://open.spotify.com/album/40nNFem6C4FbRHdIbJ0P6q) | 2:13 |
 | 9 | [Malvadinho](https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Malvadinho](https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev) | 2:00 |
 | 10 | [MTG DIAMANTE ROSA 2](https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MTG DIAMANTE ROSA 2](https://open.spotify.com/album/7GXD0LPww0BJoGPe1cS9vb) | 1:47 |
 | 11 | [Folga No Trampo](https://open.spotify.com/track/1uGVaYQNjMPmVO0gAtzHnZ) | [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [Folga No Trampo](https://open.spotify.com/album/4JUaN7FvGbXTm7KrGo4BtL) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,646 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,666 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 31 | [Candy Love](https://open.spotify.com/track/7tkKLCXILyUtRQyZKaS8Ke) | [Made You Look](https://open.spotify.com/artist/6NiKH0kJ369ktMkI85tJFl) | [Candy Love](https://open.spotify.com/album/4SWgD9r1skBdPzNcZscq3k) | 3:29 |
 | 32 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
 | 33 | [RUNNING 4 MY LIFE!](https://open.spotify.com/track/0i92LaizSBPnJ366pOkOdK) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [RUNNING 4 MY LIFE!](https://open.spotify.com/album/3rI5bC0bSsk8ZV5aYNJrk1) | 3:13 |
-| 34 | [right next to you](https://open.spotify.com/track/17yFtQlpQ02eNVVqB2wnPG) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [right next to you](https://open.spotify.com/album/5MxigAcAJmVJbEJFQfF7EU) | 2:16 |
+| 34 | [right next to you](https://open.spotify.com/track/17yFtQlpQ02eNVVqB2wnPG) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [right next to you](https://open.spotify.com/album/5MxigAcAJmVJbEJFQfF7EU) | 2:29 |
 | 35 | [Distant](https://open.spotify.com/track/12ZOYB6ALfoVZcCHza89al) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Distant](https://open.spotify.com/album/2A43FrrF9yQ5nONlBtHkqs) | 2:43 |
 | 36 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 |
 | 37 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 |

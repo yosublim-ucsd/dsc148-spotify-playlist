@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Hedigan\u2019s",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: okkaaa",
   "name": "Edge!",
   "tracks": [
     {
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 186293,
       "name": "B.B.M. (feat. PinocchioP)",
       "url": "https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg"
@@ -34342,6 +34342,24 @@
       "duration_ms": 228573,
       "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+    },
+    {
+      "album": {
+        "name": "\u6c7d\u7b1b\u30e2\u30ce\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/21SrTBwtQlXj0ehvVJE85F"
+      },
+      "artists": [
+        {
+          "name": "okkaaa",
+          "url": "https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238757,
+      "name": "\u6c38\u9060\u30a8\u30f3\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/1Akl2l49f7fiQ6Al0Wz0vd"
     },
     {
       "album": {

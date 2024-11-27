@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-525 songs - 22 hr 16 min
+528 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 | 2023-02-25 |
 | [Leaving Behind](https://open.spotify.com/track/3ieyL9VqZYHDSyeo6EyzkW) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Leaving Behind](https://open.spotify.com/album/5QPSLKJ2ZsmbldhsXvhDUT) | 2:20 | 2024-05-10 |  |
+| [Lifetime](https://open.spotify.com/track/6ZbYf49MLjiJYf7XnO2zuQ) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Lifetime](https://open.spotify.com/album/50whDFHjsEouf1WGJzEATj) | 1:41 | 2024-11-26 |  |
 | [Light and Shadow](https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Light and Shadow](https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX) | 2:25 | 2024-06-28 |  |
 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 | 2023-06-23 |
@@ -277,6 +278,7 @@
 | [Mantra](https://open.spotify.com/track/3IoGXIy7KOBTAS8nA99BAR) | [Karl Vandu](https://open.spotify.com/artist/2fpxu9mnYrt7bX78dBS2R9) | [Laurel Canyon](https://open.spotify.com/album/0XnF6u0NZSdyk16v5cEq7j) | 3:00 | 2022-06-17 | 2024-05-10 |
 | [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 | 2022-06-17 | 2023-11-24 |
 | [Marvel At The Sky](https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Marvel At The Sky](https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC) | 2:03 | 2022-06-17 | 2023-05-20 |
+| [Marylebone](https://open.spotify.com/track/06AYaxQIhxBrj98jEamqOk) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Marylebone](https://open.spotify.com/album/3PSMw5VfGeWMGL1X86N3gf) | 2:33 | 2024-11-26 |  |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-09 |  |
 | [Mediterranean Rain](https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Mediterranean Rain](https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc) | 2:41 | 2022-06-17 | 2024-04-05 |
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-28 | 2023-06-23 |
@@ -477,6 +479,7 @@
 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 | 2022-10-14 |  |
 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 |  |
 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 | 2022-06-17 | 2023-09-14 |
+| [Top of the World](https://open.spotify.com/track/64gFmyML3QwyxPG6hLO940) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Top of the World](https://open.spotify.com/album/7bOjp6cHx0RJQxxIrgVp2G) | 2:15 | 2024-11-26 |  |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 | 2024-04-05 |
 | [Tot Morgen](https://open.spotify.com/track/2W0sCLz5wGHBYLBKkN3kp2) | [Jeroen Willemsen](https://open.spotify.com/artist/0zfMuidAGSx94M7j1kxmlY) | [Tot Morgen](https://open.spotify.com/album/5HhOtrIeijnW3WQxdHS13A) | 1:53 | 2023-01-06 | 2023-09-14 |
 | [Tranquil Meadows](https://open.spotify.com/track/7dTpIquru8lsVAWllrWcDx) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Tranquil Meadows](https://open.spotify.com/album/4qPQaIIy186DJ1Z0mz84nY) | 2:08 | 2024-01-12 |  |

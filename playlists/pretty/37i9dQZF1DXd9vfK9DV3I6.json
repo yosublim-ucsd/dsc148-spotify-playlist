@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 342643,
+  "num_followers": 342745,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 201125,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 206339,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 258137,
+      "name": "Pulse Antique",
+      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Hajaruni (Suray Remix)",
         "url": "https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 331530,
       "name": "Hajaruni (Suray Remix)",
       "url": "https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Portrait of the Obscure",
-        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Pulse Antique",
-      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -1643,6 +1619,30 @@
       "duration_ms": 161577,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-11-22 18:05:57",

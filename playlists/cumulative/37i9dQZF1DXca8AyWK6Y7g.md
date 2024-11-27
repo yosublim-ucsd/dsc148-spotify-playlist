@@ -4,7 +4,7 @@
 
 > Your new favorite pop star ⭐ cover: Mercer Henderson
 
-2,250 songs - 4 day 17 hr 13 min
+2,251 songs - 4 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2182,6 +2182,7 @@
 | [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-03-03 | 2023-07-05 |
 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 | 2023-06-30 | 2024-03-23 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-03-04 |
+| [Whistleblower](https://open.spotify.com/track/6zP2dszeLZp3qEGKhN3lcn) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Whistleblower](https://open.spotify.com/album/4ADaekmlb5h52pLsYbzYLF) | 2:42 | 2024-11-26 |  |
 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-16 | 2024-05-06 |
 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 | 2022-10-13 |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |

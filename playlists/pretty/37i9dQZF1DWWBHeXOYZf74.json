@@ -1,15 +1,15 @@
 {
   "description": "Genre-less. Quality first always. Cover: Oklou",
-  "num_followers": 1340113,
+  "num_followers": 1340120,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0DYxAAAAABvFVLEqdM7IPfplGWD1SFY",
+  "snapshot_id": "Z0ZXlQAAAADt9i1i8h6B/idRgrIKl1Du",
   "tracks": [
     {
-      "added_at": "2024-11-22 18:57:44",
+      "added_at": "2024-11-26 23:19:49",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -24,9 +24,29 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      "duration_ms": 287522,
+      "name": "gloria (with sza)",
+      "url": "https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN"
+    },
+    {
+      "added_at": "2024-11-26 23:19:49",
+      "album": {
+        "name": "My Method Actor - The Remixes",
+        "url": "https://open.spotify.com/album/13kCgRTFjpF9vERKk9J6Zs"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 315598,
+      "name": "Like I Say (I runaway) - MorMor X Lesser Remix",
+      "url": "https://open.spotify.com/track/1YRfArfO4Be7TKKmMpISkZ"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -49,24 +69,68 @@
       "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Drums of Death",
-        "url": "https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo"
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/28o6OgrsIcPU8z9xONlxNV"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
         },
         {
-          "name": "Koreless",
-          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Laura Groves",
+          "url": "https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Drums of Death",
-      "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
+      "duration_ms": 191942,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1z5gCDJRjiRcDyJ7WVFpOL"
+    },
+    {
+      "added_at": "2024-11-22 18:57:44",
+      "album": {
+        "name": "ydoifeel?",
+        "url": "https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "duration_ms": 190484,
+      "name": "ydoifeel?",
+      "url": "https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "H.B.W",
+        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 292355,
+      "name": "H.B.W",
+      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -107,98 +171,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "H.B.W",
-        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 292355,
-      "name": "H.B.W",
-      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/28o6OgrsIcPU8z9xONlxNV"
-      },
-      "artists": [
-        {
-          "name": "Everything Is Recorded",
-          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Laura Groves",
-          "url": "https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz"
-        },
-        {
-          "name": "Jah Wobble",
-          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
-        },
-        {
-          "name": "Yazz Ahmed",
-          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
-        }
-      ],
-      "duration_ms": 191942,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1z5gCDJRjiRcDyJ7WVFpOL"
-    },
-    {
-      "added_at": "2024-11-22 19:17:24",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
-        },
-        {
-          "name": "Siete7x",
-          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",
-      "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
-    },
-    {
-      "added_at": "2024-11-22 18:57:44",
-      "album": {
-        "name": "ydoifeel?",
-        "url": "https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2"
-      },
-      "artists": [
-        {
-          "name": "Saam Sultan",
-          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
-        }
-      ],
-      "duration_ms": 190484,
-      "name": "ydoifeel?",
-      "url": "https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "i cant tell (love my money)",
         "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
       },
@@ -219,6 +191,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Drums of Death",
+        "url": "https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Drums of Death",
+      "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
       },
@@ -231,6 +223,26 @@
       "duration_ms": 163636,
       "name": "Found",
       "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
+    },
+    {
+      "added_at": "2024-11-22 18:57:44",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -384,8 +396,8 @@
           "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
         },
         {
-          "name": "Hawa",
-          "url": "https://open.spotify.com/artist/4uwPFI3T6gpmf9VAmy8aSY"
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
         }
       ],
       "duration_ms": 241071,

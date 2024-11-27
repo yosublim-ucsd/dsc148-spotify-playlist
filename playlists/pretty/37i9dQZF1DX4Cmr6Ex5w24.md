@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,386 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,463 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 30 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
 | 31 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
 | 32 | [Kaadhal Rojave](https://open.spotify.com/track/2ppIxEsahAYSLp4XXFcKFi) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 4:59 |
-| 33 | [Usilambatti Pen Kutti Muthu](https://open.spotify.com/track/3CwY6XeqO7vQ21U70RDjLz) | [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:40 |
-| 34 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 33 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 34 | [Usilambatti Pen Kutti Muthu](https://open.spotify.com/track/3CwY6XeqO7vQ21U70RDjLz) | [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:40 |
 | 35 | [Kuchi Kuchi Rakkamma](https://open.spotify.com/track/7zgUcaUKZJifUZdiGizuth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sharadha](https://open.spotify.com/artist/6vCB1lbO6PH4tz0EJUO2LR) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 5:03 |
 | 36 | [Theanmearkku Paruva](https://open.spotify.com/track/3IUcrq0BDBWRP3siSHuX3P) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:02 |
 | 37 | [Poralea Ponnu Thai\-Happy](https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:42 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AMO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -3061,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Denied",
+        "url": "https://open.spotify.com/album/1CyfGor0jCs9BeUZIOPRCG"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Denied",
+      "url": "https://open.spotify.com/track/3WKlZc2q9VWchjXALyaftR"
+    },
+    {
+      "album": {
         "name": "Depressed & Pills",
         "url": "https://open.spotify.com/album/4oLSP0Rbigo3mOYi1dq9p1"
       },
@@ -4137,6 +4159,32 @@
     },
     {
       "album": {
+        "name": "Family 1irst (feat. Loud Santana)",
+        "url": "https://open.spotify.com/album/3rPNAIEK2ylVIGQM4ElLpd"
+      },
+      "artists": [
+        {
+          "name": "Freak Sound Central",
+          "url": "https://open.spotify.com/artist/0T7ffev6YD1Ow1EAUFj4V7"
+        },
+        {
+          "name": "Tam yellie",
+          "url": "https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F"
+        },
+        {
+          "name": "LOUD SANTANA",
+          "url": "https://open.spotify.com/artist/5S4bWAYXr0behkEAUNMeEf"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Family 1irst (feat. Loud Santana)",
+      "url": "https://open.spotify.com/track/2JGk4dMzYAnb8s4n91JpdT"
+    },
+    {
+      "album": {
         "name": "Fast Pass",
         "url": "https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9"
       },
@@ -4328,7 +4376,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 134613,
       "name": "FIT CHECK",
       "url": "https://open.spotify.com/track/07yz2s32BoVLrtdJ1zipEa"
@@ -4981,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Yami Gacha",
+        "url": "https://open.spotify.com/album/0TC4QQSQAutLDrIxLZx29y"
+      },
+      "artists": [
+        {
+          "name": "Yamiboi To$",
+          "url": "https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Geeeks",
+      "url": "https://open.spotify.com/track/1AwfJ1293eWHeCWcXFv5ik"
+    },
+    {
+      "album": {
         "name": "GENZAI",
         "url": "https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd"
       },
@@ -5044,6 +5110,28 @@
       "duration_ms": 139322,
       "name": "GET RIGHT BACK",
       "url": "https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL"
+    },
+    {
+      "album": {
+        "name": "GIFT",
+        "url": "https://open.spotify.com/album/7e7Jc4JLTG4XI0wbWlzgJv"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "GIFT",
+      "url": "https://open.spotify.com/track/4DyefcTv3Z6yNRbSScTaXh"
     },
     {
       "album": {
@@ -5164,7 +5252,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 87021,
       "name": "Goddamn",
       "url": "https://open.spotify.com/track/2yOpoQHZUUQGiv39XhVKaw"
@@ -7200,7 +7288,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 156539,
       "name": "kung fu",
       "url": "https://open.spotify.com/track/3bglZ9EErqn0xsJ3sZ9v9x"
@@ -10619,6 +10707,28 @@
     },
     {
       "album": {
+        "name": "ROCKEY",
+        "url": "https://open.spotify.com/album/2ZUTu4LxsJ6YQbMH7Qzu8s"
+      },
+      "artists": [
+        {
+          "name": "Sadajyo",
+          "url": "https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L"
+        },
+        {
+          "name": "Jeff Loik",
+          "url": "https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "ROCKEY",
+      "url": "https://open.spotify.com/track/1sQa9he3YJvdlc1rlij2nM"
+    },
+    {
+      "album": {
         "name": "x",
         "url": "https://open.spotify.com/album/1C2yFyLZbX8d4SmLNzuXFx"
       },
@@ -11810,7 +11920,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 154117,
       "name": "Street Pain",
       "url": "https://open.spotify.com/track/2BKUAY6dFSTtKxtGHcKYhW"
@@ -12010,7 +12120,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 98400,
       "name": "Sunglasses freestyle",
       "url": "https://open.spotify.com/track/3wK2MRrbVI24W7kmrRDYvx"
@@ -12126,6 +12236,24 @@
       "duration_ms": 167926,
       "name": "SWAGG",
       "url": "https://open.spotify.com/track/1rR63rIp7CnV6sFRGoSgn1"
+    },
+    {
+      "album": {
+        "name": "SwAy",
+        "url": "https://open.spotify.com/album/1IrY3CUzM04eha3XPmpVyS"
+      },
+      "artists": [
+        {
+          "name": "$till.J.Cark",
+          "url": "https://open.spotify.com/artist/7Ib2pqwSqhPdgsRV28N9gt"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185896,
+      "name": "SwAy",
+      "url": "https://open.spotify.com/track/7feL3g06uJEhS5myP9YYTi"
     },
     {
       "album": {
@@ -12741,6 +12869,24 @@
     },
     {
       "album": {
+        "name": "Hanabi",
+        "url": "https://open.spotify.com/album/2WHfnAsLrU8EvWdVMFJ5bs"
+      },
+      "artists": [
+        {
+          "name": "Myghty Tommy",
+          "url": "https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "ugokuhikari",
+      "url": "https://open.spotify.com/track/5CldiICU644zpGnQeJxC9s"
+    },
+    {
+      "album": {
         "name": "NATURAL PUNKS",
         "url": "https://open.spotify.com/album/1NA67kiuJwm1JQb5NiG6ZH"
       },
@@ -12836,7 +12982,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 196680,
       "name": "Very Very Rare",
       "url": "https://open.spotify.com/track/2VYapRk2F1lbDCiA3vD8wq"
@@ -14058,7 +14204,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 135405,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044",
       "url": "https://open.spotify.com/track/5P4B6Qvtojsw8wfp5rUeaT"
@@ -14194,6 +14340,28 @@
       "duration_ms": 203269,
       "name": "\u30aa\u30ec\u305f\u3061\u304c\u6c17\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/1QU79bN3pSRH4RIs6tC3W5"
+    },
+    {
+      "album": {
+        "name": "\u30ca\u30c4\u30ce\u30aa\u30ef\u30ea (feat. CraNe)",
+        "url": "https://open.spotify.com/album/58t7FBcd6NcOS1KcUHPyUH"
+      },
+      "artists": [
+        {
+          "name": "storm",
+          "url": "https://open.spotify.com/artist/0ZNbi5CMdUDlRo9DMorCD5"
+        },
+        {
+          "name": "CraNe",
+          "url": "https://open.spotify.com/artist/4iaeCsnwMPT9HmzFns5GmO"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165495,
+      "name": "\u30ca\u30c4\u30ce\u30aa\u30ef\u30ea (feat. CraNe)",
+      "url": "https://open.spotify.com/track/6jIVnafdOZxwHeKcQsYDDi"
     },
     {
       "album": {
@@ -14754,7 +14922,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 165916,
       "name": "\u6b63\u5922 (feat. eyden)",
       "url": "https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl"

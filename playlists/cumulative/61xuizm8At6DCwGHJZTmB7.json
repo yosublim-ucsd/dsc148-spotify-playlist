@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 320836,
       "name": "Broken Vessels (Amazing Grace)",
       "url": "https://open.spotify.com/track/6bOMT9eOnF84hX8BFbl0RO"
@@ -3388,6 +3388,24 @@
       "duration_ms": 437661,
       "name": "God In The Valley - Live",
       "url": "https://open.spotify.com/track/0lgf5HoniR4FAMShjKzNES"
+    },
+    {
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476840,
+      "name": "God Is So Good (You Are Worthy)",
+      "url": "https://open.spotify.com/track/3EKwtGuC8H8Ll0z1JEo9nT"
     },
     {
       "album": {

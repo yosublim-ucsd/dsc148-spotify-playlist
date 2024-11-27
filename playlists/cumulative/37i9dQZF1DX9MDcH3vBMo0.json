@@ -10353,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "Seville",
+        "url": "https://open.spotify.com/album/7b0pD04k9cAOX2li8p0wpl"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137671,
+      "name": "Seville",
+      "url": "https://open.spotify.com/track/5PG8FLh4LZbWTtWX4F1wCw"
+    },
+    {
+      "album": {
         "name": "Shade of Honey",
         "url": "https://open.spotify.com/album/39a7DwC1KypXA1B4890uvr"
       },

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Night",
+        "url": "https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m"
+      },
+      "artists": [
+        {
+          "name": "Ana Grieg",
+          "url": "https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132478,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm"
+    },
+    {
+      "album": {
         "name": "A mal tiempo, buena cara",
         "url": "https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf"
       },
@@ -2652,6 +2670,24 @@
       "duration_ms": 186815,
       "name": "Colours",
       "url": "https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt"
+    },
+    {
+      "album": {
+        "name": "Come to Peace",
+        "url": "https://open.spotify.com/album/5wL2Tir48QLh3pUpUIykjX"
+      },
+      "artists": [
+        {
+          "name": "Brian Charlie",
+          "url": "https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Come to Peace",
+      "url": "https://open.spotify.com/track/4hCGv1Y79lu6FaMeXIVRdP"
     },
     {
       "album": {

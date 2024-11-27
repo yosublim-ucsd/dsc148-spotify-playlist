@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Kadhalikka Neramillai",
-  "num_followers": 685219,
+  "num_followers": 685358,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Rg/wAAAACbKiiDE3kmXWdSRJgcHaut",
+  "snapshot_id": "Z0Xt0AAAAABlD9bAxkutuJbIVbo8awLA",
   "tracks": [
     {
       "added_at": "2024-11-22 12:14:15",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5"
     },
     {
+      "added_at": "2024-11-26 15:48:32",
+      "album": {
+        "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43DKHyWZW4n0YOGwn4AfIw"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Dhinam Dhinamum",
+      "url": "https://open.spotify.com/track/3B7m0Q1XCu2LYXFsGgHhAR"
+    },
+    {
       "added_at": "2024-11-25 11:35:27",
       "album": {
         "name": "Kadhal Fail (From \"Nilavuku En Mel Ennadi Kobam\")",
@@ -47,6 +67,30 @@
       "duration_ms": 235600,
       "name": "Kadhal Fail (From \"Nilavuku En Mel Ennadi Kobam\")",
       "url": "https://open.spotify.com/track/65uuaOTqIa6wqLlcZZJpnX"
+    },
+    {
+      "added_at": "2024-11-26 05:25:30",
+      "album": {
+        "name": "Akkaru Bakkaru (From \"Miss You\")",
+        "url": "https://open.spotify.com/album/2Apvfd4gOevWJmDgXWf6LB"
+      },
+      "artists": [
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 228114,
+      "name": "Akkaru Bakkaru (From \"Miss You\")",
+      "url": "https://open.spotify.com/track/5EyAoWj09OtA84ldNu9zCS"
     },
     {
       "added_at": "2024-10-16 04:49:49",
@@ -93,6 +137,30 @@
       "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
     },
     {
+      "added_at": "2024-11-26 15:48:32",
+      "album": {
+        "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43DKHyWZW4n0YOGwn4AfIw"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Sanjay Subrahmanyan",
+          "url": "https://open.spotify.com/artist/3Q215HSlFN5mIwiwgAiLu8"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Manasula",
+      "url": "https://open.spotify.com/track/6Fo8GFG8jVMyRu5oRfMQY4"
+    },
+    {
       "added_at": "2024-11-17 06:52:57",
       "album": {
         "name": "Dhinam Dhinamum (From \"Viduthalai 2\")",
@@ -133,7 +201,7 @@
         }
       ],
       "duration_ms": 247275,
-      "name": "Kissik (From \"Pushpa 2 The Rule\")",
+      "name": "Kissik (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/76mGrdtBDqr6an4P70UfeR"
     },
     {
@@ -159,6 +227,26 @@
       "duration_ms": 192631,
       "name": "Hunter Vantaar (From \"Vettaiyan\")",
       "url": "https://open.spotify.com/track/3h9UdkxpoUQxNqS8IeTC4Z"
+    },
+    {
+      "added_at": "2024-11-26 05:27:52",
+      "album": {
+        "name": "Parachute (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2xULuzcXSgo5SErpWnSDIO"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Peroliyil",
+      "url": "https://open.spotify.com/track/3b2tIRXJ4LnEW7fAxFeUOt"
     },
     {
       "added_at": "2024-11-18 08:06:19",
@@ -849,34 +937,6 @@
       "url": "https://open.spotify.com/track/0ZBKLzSSLZ88BunaWrcKPX"
     },
     {
-      "added_at": "2024-11-12 11:00:40",
-      "album": {
-        "name": "Lucky Baskhar (Tamil)",
-        "url": "https://open.spotify.com/album/2lo7j3e8yOdTn0tO2ZYzx5"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
-        },
-        {
-          "name": "Vanamali",
-          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
-        },
-        {
-          "name": "Balaji Venu Gopal",
-          "url": "https://open.spotify.com/artist/046lXWEKWUvcqRRS2pIvj0"
-        }
-      ],
-      "duration_ms": 225091,
-      "name": "Lucky Baskhar Title Track",
-      "url": "https://open.spotify.com/track/2PFfP4I3bOG3cNjWRVUTsz"
-    },
-    {
       "added_at": "2024-10-30 03:38:54",
       "album": {
         "name": "Thalaivane (From \"Kanguva\") (Tamil)",
@@ -989,30 +1049,6 @@
       "url": "https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN"
     },
     {
-      "added_at": "2024-11-11 07:40:54",
-      "album": {
-        "name": "Vaane Vaane (From \"Amaran\") (Tamil)",
-        "url": "https://open.spotify.com/album/44vKu0SSk0VnaByYwp8qjr"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Faisal Razi",
-          "url": "https://open.spotify.com/artist/0rRhddei9JKXd5aAbCPfPN"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "Vaane Vaane (From \"Amaran\") (Tamil)",
-      "url": "https://open.spotify.com/track/0bnRVFf0GF21SVnvjBjhKl"
-    },
-    {
       "added_at": "2024-08-29 13:07:13",
       "album": {
         "name": "Lubber Pandhu (Original Motion Picture Soundtrack)",
@@ -1075,30 +1111,6 @@
       "duration_ms": 193469,
       "name": "Por Veeran (Azadi) (From \"Amaran\") (Tamil)",
       "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
-    },
-    {
-      "added_at": "2024-11-25 11:35:27",
-      "album": {
-        "name": "Adiye Alangaari (From \"Thandakaaranyam\")",
-        "url": "https://open.spotify.com/album/6TojssdQVeyTjpzNdPNBaE"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Krishnaraj",
-          "url": "https://open.spotify.com/artist/7MDmRUuLmi5m5mz9Ux2IWM"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 204247,
-      "name": "Adiye Alangaari - From \"Thandakaaranyam\"",
-      "url": "https://open.spotify.com/track/6QbTiwJqNl4VVBqhsJqcy9"
     },
     {
       "added_at": "2024-08-29 13:08:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bujBKRVtHr.md) - [plain]
 
 > Listen to the soundtracks of Face Me\. \(페이스 미의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 22 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bujBKRVtHr.md) - [plain]
 | 6 | [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 |
 | 7 | [HUMBLE](https://open.spotify.com/track/0EyGwBhyEn8ImnJJqJJLPe) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [\#HUMANKIND](https://open.spotify.com/album/2UfyzyVsoBPO6ZQSvJDpd6) | 5:13 |
 | 8 | [MOON](https://open.spotify.com/track/48qnvkmIAsYtrjP89hbCCy) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [UNI\-VERSE](https://open.spotify.com/album/0SNOqvn9SdGUWASF1sCEhS) | 3:54 |
-| 9 | [Slow](https://open.spotify.com/track/5LufxEnryLKW633hVDbcT0) | [LXY \(래이\)](https://open.spotify.com/artist/0EkRudDAaSZ1T7WNlgpZVD) | [Slow](https://open.spotify.com/album/7nrWTUo1GD97Tst9cDMkbN) | 2:08 |
+| 9 | [Slow](https://open.spotify.com/track/5LufxEnryLKW633hVDbcT0) | [LEY\(래이\)](https://open.spotify.com/artist/0EkRudDAaSZ1T7WNlgpZVD) | [Slow](https://open.spotify.com/album/7nrWTUo1GD97Tst9cDMkbN) | 2:08 |
 | 10 | [Daylight](https://open.spotify.com/track/47IR3M0E9QwPoYsdIKwVpr) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Doona! \(Music from The Netflix Series\)](https://open.spotify.com/album/351LvQJsNt4fvYdnvhzF9D) | 3:29 |
 | 11 | [4ever](https://open.spotify.com/track/6YWS7t8KUTKVRPOpt2VRkd) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:31 |
 | 12 | [Bad Luck](https://open.spotify.com/track/2LQNZCZNMAUSrRys7cD5EY) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bad Luck](https://open.spotify.com/album/14hErRGlTxu0HC90Grk160) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,943 likes - 15 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,950 likes - 15 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 10 | [QUEER \- Jeanne Friot ](https://open.spotify.com/episode/0kcp5huCDXPHqscxT9Mwbk) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 37:14 |
 | 11 | [LE GOTHIQUE \- Nikita Vlassenko](https://open.spotify.com/episode/5QojFMC98r11TdCr1fa0TS) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 36:51 |
 | 12 | [LES ENCHÈRES \- Chloë Collin](https://open.spotify.com/episode/0uBWZE6A6t6tqQpgqFlYas) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 33:36 |
-| 13 | [10 choses que je veux faire en novembre TO DO LIST](https://open.spotify.com/episode/1uDVro9sLjxzPRd3ABgxmX) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 26:00 |
+| 13 | [10 choses que je veux faire en novembre TO DO LIST](https://open.spotify.com/episode/1uDVro9sLjxzPRd3ABgxmX) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 26:01 |
 | 14 | [A écouter en allant au travail pour te motiver](https://open.spotify.com/episode/3aB81PsRYPBhmsDsgtilKp) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 16:54 |
 | 15 | [Les trucs que j'ai kiffés en octobre](https://open.spotify.com/episode/41FhSnk3p4EonyyQTR9EmD) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 22:10 |
 

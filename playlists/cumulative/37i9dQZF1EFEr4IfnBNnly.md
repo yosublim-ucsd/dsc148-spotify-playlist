@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-47 songs - 2 hr 41 min
+48 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Messed Up \(feat\. LK Faith\)](https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn), [LK Faith](https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1) | [Slow Waves \- EP](https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz) | 3:59 | 2024-01-29 |  |
 | [Natural](https://open.spotify.com/track/3uwMHGr9MrULAHApB7ZeAS) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:18 | 2024-01-29 |  |
 | [Nowhere To Hide](https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5) | [Josh Daniel](https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF) | [Nowhere To Hide](https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ) | 3:05 | 2024-01-29 |  |
+| [Over This \(feat\. Shannon Saunders\)](https://open.spotify.com/track/4YyCPTEy50qb9oigGuwGYV) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Shannon Saunders](https://open.spotify.com/artist/0R99HoFbo8665kwfOtbvxb) | [Frequently Flying](https://open.spotify.com/album/0w90jfJxN51UAThoxMOnVw) | 4:50 | 2024-11-26 |  |
 | [Plan B](https://open.spotify.com/track/47NALPlJmO9heUjMBwmGBt) | [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr) | [Plan B](https://open.spotify.com/album/6lug1N0hS94VcxQGY9ekng) | 3:40 | 2024-01-29 |  |
 | [Please Just Wait](https://open.spotify.com/track/359QrJsYGzTGY7cJRw65HA) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Please Just Wait](https://open.spotify.com/album/3fqZKOBuPhGD1KVhe8WPBW) | 3:30 | 2024-01-29 |  |
 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 | 2024-01-29 |  |

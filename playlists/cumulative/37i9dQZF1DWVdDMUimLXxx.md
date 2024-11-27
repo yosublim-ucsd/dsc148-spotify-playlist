@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-90 songs - 4 hr 37 min
+91 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2024-11-19 |  |
 | [Una Mañana De Cine](https://open.spotify.com/track/4MF2bWyLJ1s3SAXFJq71EM) | [Roberto Vetere](https://open.spotify.com/artist/5S2Js5ci1dHnRN86Dt6wmm) | [Evolution](https://open.spotify.com/album/2oPGweO8HecWmmIuAKDOXw) | 3:57 | 2022-04-22 |  |
 | [Valiant](https://open.spotify.com/track/1yDH9vW8GboBkqNJujPiF6) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:17 | 2022-04-22 |  |
+| [War Is Inevitable](https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT) | 3:39 | 2024-11-26 |  |
 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 | 2022-04-22 |  |
 | [Where Heroes Come to Die](https://open.spotify.com/track/1paOx5tHH937AcHuWjgEa8) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:51 | 2022-04-22 |  |
 | [Wicked Games](https://open.spotify.com/track/3PGVbJM9JUwSgdPvo9kv3B) | [Philip Ayers](https://open.spotify.com/artist/1IJx884XVtl5mWZhINoRSj) | [Wicked Games](https://open.spotify.com/album/3pa29qhrTUyRYd7O29nmJk) | 2:44 | 2022-09-16 |  |

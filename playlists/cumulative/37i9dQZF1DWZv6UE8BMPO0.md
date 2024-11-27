@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-170 songs - 8 hr 37 min
+173 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/7hhDPZWfG8IPm8gjW2DpJw) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/2dSlsnpZqRdUOkTzxJ0H6H) | 3:27 | 2024-11-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 | 2023-11-10 |  |
 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 | 2023-10-06 |  |
+| [Man With The Bag](https://open.spotify.com/track/0wokhYhVwFZvy9ogHQkH0x) | [Bernina Quartet](https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo) | [Where Are You Christmas?](https://open.spotify.com/album/7h7Vk1ONQPjbSpcS634lK1) | 2:52 | 2024-11-26 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9) | [Dem Jazzophiliacs](https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe) | [Mary's Boychild](https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi) | 3:30 | 2021-12-21 |  |
 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 | 2023-10-13 |  |
 | [Mistletoe And Holly](https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Mistletoe And Holly](https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu) | 2:26 | 2021-12-21 |  |
@@ -171,12 +172,14 @@
 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 | 2023-11-17 |  |
 | [Winter Lights on Christmas Eve](https://open.spotify.com/track/2WdZKwHQmVh9Z6mViudQf2) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Winter Lights on Christmas Eve](https://open.spotify.com/album/7a1wXo2JMcZo92VCZJkjVl) | 3:11 | 2024-11-21 |  |
 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 | 2023-11-17 |  |
+| [Winter Things](https://open.spotify.com/track/39kAbdVd1ahMtlT6xnvCUu) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Winter Things](https://open.spotify.com/album/2yYhNxSNJ7f9euokjhoSyw) | 2:59 | 2024-11-26 |  |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 | 2023-09-28 |
 | [Winter Weather/I've Got My Love to Keep Me Warm \- Medley](https://open.spotify.com/track/0JZNXXaHEtsMMpBPV5e4lz) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/0GlnZ6vrTnXbQKc13Ia8Qz) | 3:46 | 2023-09-22 | 2023-11-11 |
 | [Winter Wonderland](https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 3:52 | 2022-12-05 | 2023-11-11 |
 | [Winter Wonderland](https://open.spotify.com/track/2xWHyOzveoGRMIZaA9I9ZR) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Winter Wonderland](https://open.spotify.com/album/6UyHrMcTsIKAtJEIWoWYI3) | 3:52 | 2022-11-10 | 2022-12-08 |
 | [Winter Wonderland](https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 4:19 | 2021-12-21 | 2022-11-11 |
 | [Winter Wonderland](https://open.spotify.com/track/2X5u0dLN0EUoRxTlbpDVdr) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Winter Wonderland](https://open.spotify.com/album/7hsLeKDkSlU18V2UDOkA1y) | 2:16 | 2023-11-10 |  |
+| [You Make It Feel Like Christmas](https://open.spotify.com/track/4pVaGj9XeDTBebZyzTjizI) | [Berliner Luft Quartet](https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl) | [You Make It Feel Like Christmas](https://open.spotify.com/album/1z43uGwDhi8JxpPZwwdYh8) | 2:19 | 2024-11-26 |  |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-10-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

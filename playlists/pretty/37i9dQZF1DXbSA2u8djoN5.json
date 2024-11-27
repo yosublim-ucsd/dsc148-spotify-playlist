@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Guess Who",
-  "num_followers": 19405,
+  "num_followers": 19409,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
-        "name": "ROLLIE",
-        "url": "https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn"
-      },
-      "artists": [
-        {
-          "name": "NANE",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "ROLLIE",
-      "url": "https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
         "name": "Geamu Jos",
         "url": "https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
+        "name": "ROLLIE",
+        "url": "https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "ROLLIE",
+      "url": "https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
         "name": "Genera\u021bia de suflet",
         "url": "https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 153024,
       "name": "Genera\u021bia de suflet",
       "url": "https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "C\u0103l\u0103torie la cap\u0103tul nop\u021bii",
+        "url": "https://open.spotify.com/album/6ZvTBbHpPiA8pf7I7dylLm"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "DOC",
+          "url": "https://open.spotify.com/artist/29yuPsAM84rlPk1IUWu3UP"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "C\u0103l\u0103torie la cap\u0103tul nop\u021bii",
+      "url": "https://open.spotify.com/track/6gPzJBlXHZ6iVDccBWoCPB"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -943,26 +963,6 @@
       "duration_ms": 201038,
       "name": "TRATAMENT",
       "url": "https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2"
-    },
-    {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "Ninja (From \"Transilvanian Ninja\")",
-        "url": "https://open.spotify.com/album/5PHg8MUoEgBaweoW6mLWI4"
-      },
-      "artists": [
-        {
-          "name": "Puya",
-          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
-        },
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        }
-      ],
-      "duration_ms": 194712,
-      "name": "Ninja - From \"Transilvanian Ninja\"",
-      "url": "https://open.spotify.com/track/4P0aDGyPXqMKwgWojPypFu"
     }
   ],
   "unique_name": "Suflet + Sunet",

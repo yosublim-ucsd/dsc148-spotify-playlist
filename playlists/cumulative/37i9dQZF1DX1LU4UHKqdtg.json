@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: MEOVV",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NCT WISH",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -6431,6 +6431,28 @@
     },
     {
       "album": {
+        "name": "Falling (feat. Taka)",
+        "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178832,
+      "name": "Falling (feat. Taka)",
+      "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
+    },
+    {
+      "album": {
         "name": "Falling Up",
         "url": "https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B"
       },
@@ -11071,6 +11093,24 @@
     },
     {
       "album": {
+        "name": "Like A Flower - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Like A Flower",
+      "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -12966,7 +13006,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 188320,
       "name": "My Name is Malguem",
       "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
@@ -15846,7 +15886,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 210521,
       "name": "REVERSE",
       "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
@@ -19316,7 +19356,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 189394,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs"
@@ -22574,6 +22614,24 @@
       "duration_ms": 200773,
       "name": "Wish you were here",
       "url": "https://open.spotify.com/track/4PGPcB5El4Q70XNUey3Mci"
+    },
+    {
+      "album": {
+        "name": "WISHFUL",
+        "url": "https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188480,
+      "name": "Wishful Winter",
+      "url": "https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs"
     },
     {
       "album": {

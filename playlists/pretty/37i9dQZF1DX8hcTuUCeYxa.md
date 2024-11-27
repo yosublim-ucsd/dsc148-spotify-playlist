@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: BEACHPEOPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,124 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,135 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 28 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 |
 | 29 | [Wie Im Film](https://open.spotify.com/track/2Fay6MgZkZrD5J8BgTkD42) | [ELIS NOA](https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf) | [Ich Glaub Wir Müssen Drüber Reden](https://open.spotify.com/album/0XUAPhN2VjfqeYMaJ4chyE) | 2:50 |
 | 30 | [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 |
-| 31 | [Gods & Monsters](https://open.spotify.com/track/0W6E1LCY58j0hvum3tMW6P) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [TORSO](https://open.spotify.com/album/2vQnQWapgOiwujT5oC42B8) | 3:34 |
+| 31 | [Gods & Monsters](https://open.spotify.com/track/0W6E1LCY58j0hvum3tMW6P) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku), [Asfast](https://open.spotify.com/artist/4PCxRbTUqEocK4zYvMyTlm) | [TORSO](https://open.spotify.com/album/2vQnQWapgOiwujT5oC42B8) | 3:34 |
 | 32 | [2468](https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [2468](https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV) | 3:17 |
 | 33 | [calico](https://open.spotify.com/track/6UsmfLq4GHjdNEsL1KUBhe) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [flush](https://open.spotify.com/album/6XZwTTGjAU81iQWc1yIgZp) | 4:28 |
 | 34 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |

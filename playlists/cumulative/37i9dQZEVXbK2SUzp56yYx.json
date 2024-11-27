@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 188991,
       "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
       "url": "https://open.spotify.com/track/4iHYQwgtrY26p2uQG8Nstr"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 89808,
       "name": "Funk Secreto - Ultra Slowed",
       "url": "https://open.spotify.com/track/0Rfgf07P8G5XqdnMXTZe4k"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 216746,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
@@ -4171,6 +4171,32 @@
     },
     {
       "album": {
+        "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
       },
@@ -4228,6 +4254,32 @@
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
+    },
+    {
+      "album": {
+        "name": "Hellfire (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Hellfire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
     },
     {
       "album": {
@@ -4336,7 +4388,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 87500,
       "name": "hermaeus mora",
       "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
@@ -4448,6 +4500,32 @@
       "duration_ms": 187842,
       "name": "Hypnodancer",
       "url": "https://open.spotify.com/track/7wnmLScYurZbketCXxyWBw"
+    },
+    {
+      "album": {
+        "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
     },
     {
       "album": {
@@ -4812,7 +4890,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -5582,7 +5660,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -6100,7 +6178,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
@@ -6628,7 +6706,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 84191,
       "name": "More & More",
       "url": "https://open.spotify.com/track/57kAfDeXXPxBLmiBMuDaCj"
@@ -7481,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "OKAY BABY",
+        "url": "https://open.spotify.com/album/5ZQgCpVMWeTQ9si3p1NkvU"
+      },
+      "artists": [
+        {
+          "name": "TROJAN",
+          "url": "https://open.spotify.com/artist/3Z5kF656qRZT5W1GEpMJMl"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122826,
+      "name": "OKAY BABY",
+      "url": "https://open.spotify.com/track/4BpxlUs94r8DKtisHcDyna"
+    },
+    {
+      "album": {
         "name": "Old Doll",
         "url": "https://open.spotify.com/album/1GOpCUwzS3PRwWUHE8pPso"
       },
@@ -7598,6 +7694,28 @@
       "duration_ms": 179096,
       "name": "outofsight_outofmind",
       "url": "https://open.spotify.com/track/3Ugxg8MHzZcFB5gsBKjYRw"
+    },
+    {
+      "album": {
+        "name": "OVERDOZE",
+        "url": "https://open.spotify.com/album/0q4XE7YdK1WXEWmhLygy3P"
+      },
+      "artists": [
+        {
+          "name": "BATO",
+          "url": "https://open.spotify.com/artist/3wjJliUguo3eyIswfywloM"
+        },
+        {
+          "name": "OBLADAET",
+          "url": "https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127309,
+      "name": "OVERDOZE",
+      "url": "https://open.spotify.com/track/0Sn1QMasl819dDowzaXN3P"
     },
     {
       "album": {
@@ -8162,6 +8280,32 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/43WadbDjTaVOZamDGPkRqV"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
     },
     {
       "album": {
@@ -9523,6 +9667,32 @@
     },
     {
       "album": {
+        "name": "Sucker (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
+    },
+    {
+      "album": {
         "name": "Suka from Arizona",
         "url": "https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8"
       },
@@ -10012,6 +10182,32 @@
       "duration_ms": 100367,
       "name": "TIMELESS (PLAYBOI CARTI x The Weeknd)",
       "url": "https://open.spotify.com/track/2Qyn3zKIq2S0gmMZJPvpzy"
+    },
+    {
+      "album": {
+        "name": "To Ashes and Blood (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "To Ashes and Blood (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
     },
     {
       "album": {
@@ -10834,7 +11030,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 201159,
       "name": "Weak",
       "url": "https://open.spotify.com/track/2sVcBaVtBPM9vIFk1Jnbw8"
@@ -10852,7 +11048,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 201159,
       "name": "Weak",
       "url": "https://open.spotify.com/track/6UxH16Pkwy5S74dbT8KJCG"
@@ -11614,6 +11810,24 @@
       "duration_ms": 112500,
       "name": "Zachem",
       "url": "https://open.spotify.com/track/1tpgY6cqm5s0HdKwiqpliF"
+    },
+    {
+      "album": {
+        "name": "zitraks mode",
+        "url": "https://open.spotify.com/album/5jifypo54feKFBJLPzAmP0"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122643,
+      "name": "zitraks mode",
+      "url": "https://open.spotify.com/track/6vIOPzEgSzf0nv7nKutxlz"
     },
     {
       "album": {
@@ -13464,7 +13678,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 132923,
       "name": "\u0434\u0435\u0442\u043a\u0430, \u0437\u0430\u0447\u0435\u043c \u0442\u044b \u0438\u0433\u0440\u0430\u0435\u0448\u044c?",
       "url": "https://open.spotify.com/track/3CZcfdS1b8m4XOQIzdiEFu"
@@ -15402,7 +15616,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 99720,
       "name": "\u043d\u0435 \u043f\u043b\u0430\u0447\u044c",
       "url": "https://open.spotify.com/track/3bf2pxdiuKsKPzqQ3irr8f"
@@ -17248,7 +17462,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 205714,
       "name": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0430",
       "url": "https://open.spotify.com/track/5wJwzNwWaRHIuTMlr6ccHQ"
@@ -18184,7 +18398,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 131011,
       "name": "\u0422\u044b \u0448\u043b\u044e\u0445\u0430 \u043d\u0435 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/5y3K3Gx1iwC4nBAlYWvI4O"
@@ -18678,7 +18892,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 129427,
       "name": "\u0446\u0435\u043b\u0443\u044e \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/7hrAs40pKmU5eBzbKAJp3A"
@@ -19386,6 +19600,28 @@
       "duration_ms": 137714,
       "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u042f \u0445\u043e\u0447\u0443 \u0431\u044b\u0442\u044c\u2026",
+        "url": "https://open.spotify.com/album/4ppXksyXOf02y94WNF2yp9"
+      },
+      "artists": [
+        {
+          "name": "Igor Krutoy",
+          "url": "https://open.spotify.com/artist/5JqTYkY8E7ubUFVgRVS512"
+        },
+        {
+          "name": "ANNA ASTI",
+          "url": "https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "\u042f \u0445\u043e\u0447\u0443 \u0431\u044b\u0442\u044c\u2026",
+      "url": "https://open.spotify.com/track/7gjF2SUjGkkSqIIUWyybqx"
     },
     {
       "album": {

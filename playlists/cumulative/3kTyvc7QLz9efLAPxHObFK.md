@@ -4,7 +4,7 @@
 
 > 
 
-1,855 songs - 4 day 3 hr 14 min
+1,856 songs - 4 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Hydrochloric](https://open.spotify.com/track/50atIkBOkfCyBnwttOzJfn) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Hydrochloric](https://open.spotify.com/album/5hQnXQijOZt3QeBSK8XyPp) | 2:27 | 2023-10-06 |  |
 | [Hyena](https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Hyena](https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z) | 3:32 | 2023-10-19 |  |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-09 |  |
+| [HYPNOTISED](https://open.spotify.com/track/3myc4hzNkPXqEkEo1rWHMm) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [HYPNOTISED](https://open.spotify.com/album/4q5xJnNx7uTlYM6TdawDRA) | 2:34 | 2024-11-27 |  |
 | [Hypnotize](https://open.spotify.com/track/5HYZotlXy7fN0Pey2ORkww) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Hypnotize](https://open.spotify.com/album/3PZJPUfgs3H0Z2j6jp1XQR) | 2:17 | 2024-10-19 |  |
 | [I CAN TAKE YOU THERE](https://open.spotify.com/track/4uYkxNpJGBcNr5jc4SEw6x) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [I CAN TAKE YOU THERE](https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj) | 1:34 | 2024-10-20 |  |
 | [I Can't Believe It](https://open.spotify.com/track/2DResotZIBdRApCGHVt9rx) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:24 | 2023-04-16 |  |

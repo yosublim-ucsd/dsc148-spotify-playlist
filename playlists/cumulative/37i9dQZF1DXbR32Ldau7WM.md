@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: Yuma Abe
+> The biggest rock artists in Japan right now!  Cover: BURNOUT SYNDROMES
 
-1,148 songs - 3 day 3 hr 53 min
+1,149 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Opening Ceremony](https://open.spotify.com/track/1MqPv9ROTNpcrLVqgHJcYj) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj) | 3:39 | 2022-07-26 | 2022-07-29 |
 | [Opening Ceremony](https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/6jVguby1S0bUwSB5I5AAPJ) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Oretachi niha ketsu ga aru](https://open.spotify.com/track/19tIN4MPEgiz0xmYC1Mtw6) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [Oretachi niha ketsu ga aru](https://open.spotify.com/album/5BLvOZKzDTP9yM8e4GJMaQ) | 3:52 | 2023-08-08 | 2023-08-16 |
+| [ORIGAMI](https://open.spotify.com/track/5MnZWlSJ1hqWNvVKZ4iOhT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ORIGAMI](https://open.spotify.com/album/4pexcHFPcu2SElTqoUqe0F) | 3:55 | 2024-11-26 |  |
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-29 | 2022-11-02 |
 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 | 2023-03-21 | 2023-05-10 |
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-13 |
@@ -463,7 +464,7 @@
 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 | 2023-04-26 |
 | [Ring Em Up](https://open.spotify.com/track/7hCeKuxSSVEQ8qvisUXcnR) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Ring Em Up](https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O) | 3:03 | 2022-11-19 | 2022-11-23 |
-| [ringo](https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Masamune Kusano](https://open.spotify.com/artist/0GM2PjSpnWSepHgnY7rwkC) | [ringo](https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3) | 4:13 | 2024-11-05 |  |
+| [ringo](https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Masamune Kusano](https://open.spotify.com/artist/0GM2PjSpnWSepHgnY7rwkC) | [ringo](https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3) | 4:13 | 2024-11-05 | 2024-11-27 |
 | [RINGSIDE MAN](https://open.spotify.com/track/4A1gagvqSTX8CqoSP4qwJI) | [ABEDON AND THE RINGSIDE](https://open.spotify.com/artist/7zxq5vLhIwCCq9mvNj5lek) | [ROUND 3](https://open.spotify.com/album/0a1JWGc6hce7afmDkNpSdD) | 5:33 | 2023-09-12 | 2023-09-20 |
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2024-04-03 | 2024-10-18 |
 | [Rock 'n Roll Radio](https://open.spotify.com/track/7yKzUhsDxBUSCeVGWlx5Je) | [The DUST'N'BONEZ](https://open.spotify.com/artist/6ZMFxJzu0dcMXd8A9K5b8T) | [1000のロックンロール](https://open.spotify.com/album/2JuAvm78JqNt9ZhDfWGQP1) | 4:02 | 2023-11-08 | 2023-11-18 |

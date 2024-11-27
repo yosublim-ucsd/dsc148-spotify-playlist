@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Murmuration",
+        "url": "https://open.spotify.com/album/6h9XLJzx2ZBKu4ALIWjkfj"
+      },
+      "artists": [
+        {
+          "name": "Evgeny Grinko",
+          "url": "https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188083,
+      "name": "Murmuration",
+      "url": "https://open.spotify.com/track/12rhKpjbc9EnL9bGQKxCBl"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 3 / RWKS",
         "url": "https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY"
       },
@@ -2222,6 +2240,24 @@
       "duration_ms": 232000,
       "name": "Necessary Things",
       "url": "https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK"
+      },
+      "artists": [
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116760,
+      "name": "Night, Pt. 1: Snow",
+      "url": "https://open.spotify.com/track/1V7Wv5yTEZIh6eFJe4oP0T"
     },
     {
       "album": {
@@ -3842,6 +3878,24 @@
       "duration_ms": 224145,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "album": {
+        "name": "You Name It (Paris)",
+        "url": "https://open.spotify.com/album/1NWW3unIQGqIgVGpruCzIU"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "You Name It (Paris)",
+      "url": "https://open.spotify.com/track/11UzclAxRYv3zNqEVd7ci1"
     },
     {
       "album": {

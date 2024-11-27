@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-374 songs - 20 hr 13 min
+377 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-07-16 | 2024-09-08 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
+| [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 |  |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 | 2024-11-15 | 2024-11-20 |
 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 | 2024-10-18 | 2024-11-14 |
@@ -180,6 +181,7 @@
 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 | 2024-11-25 |  |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-30 | 2024-09-08 |
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 | 2024-05-16 |
+| [Just The Way You Are \- 2008 Pop Rework](https://open.spotify.com/track/5IzHTnkLdS2MgUnupYqeK3) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star 2008](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:42 | 2024-11-26 |  |
 | [Justice](https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888) | 1:40 | 2024-10-29 | 2024-11-14 |
 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 | 2024-07-12 | 2024-09-08 |
 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 | 2024-11-17 |  |
@@ -247,6 +249,7 @@
 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 | 2024-11-24 |  |
 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 | 2024-10-10 | 2024-11-14 |
 | [Overcome \- 2009 Remix](https://open.spotify.com/track/2fIn2blB174jad6eM27LXj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6), [Al Riley](https://open.spotify.com/artist/5FTqRHLv1p7TcX9qQzHpIY) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:24 | 2024-11-13 |  |
+| [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 |  |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2024-07-26 | 2024-09-08 |
 | [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 | 2024-06-02 | 2024-07-12 |

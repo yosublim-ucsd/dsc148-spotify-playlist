@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,262 likes - 85 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,357 likes - 85 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 13 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
 | 14 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
 | 15 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
-| 16 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 |
-| 17 | [Vai Remando](https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vai Remando](https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF) | 4:59 |
+| 16 | [Vai Remando](https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vai Remando](https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF) | 4:59 |
+| 17 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 |
 | 18 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Infinitamente Mais \(Ao Vivo\)](https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv) | 6:15 |
 | 19 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
 | 20 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 |

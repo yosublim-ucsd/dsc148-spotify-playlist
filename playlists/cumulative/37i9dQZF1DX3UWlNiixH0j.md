@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Hedigan’s
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: okkaaa
 
-1,995 songs - 5 day 4 hr 12 min
+1,996 songs - 5 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-07 | 2024-03-13 |
 | [AUGHOST](https://open.spotify.com/track/3v4FtGIzDeWESUYg1q092k) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ffbWXYFwz2c8yfFjVOceR) | 4:37 | 2024-03-07 | 2024-03-09 |
 | [Aura](https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ) | [Masaya Kudo](https://open.spotify.com/artist/2Jw7yBPDAHziuP4rQf0dEX) | [View from the window](https://open.spotify.com/album/0iQmiTEWmnTHA8FmMManGC) | 3:48 | 2023-06-20 | 2023-06-28 |
-| [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 | 2024-10-08 |  |
+| [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 | 2024-10-08 | 2024-11-27 |
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-09 |
 | [Baby So in Love](https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 3:43 | 2023-05-02 | 2023-05-24 |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-20 |
@@ -1840,6 +1840,7 @@
 | [永い夜 \- 2024 Version](https://open.spotify.com/track/41blqkfsEXH2Z9atp9Fy1x) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [永い夜 \(2024 Version\)](https://open.spotify.com/album/017zAkn4SFcjLQJ3vSMpiI) | 4:34 | 2024-09-03 | 2024-09-25 |
 | [永久彗星短歌水](https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [.jp](https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ) | 6:12 | 2023-01-12 | 2023-01-20 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-28 |  |
+| [永遠エンジン](https://open.spotify.com/track/1Akl2l49f7fiQ6Al0Wz0vd) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [汽笛モノローグ](https://open.spotify.com/album/21SrTBwtQlXj0ehvVJE85F) | 3:58 | 2024-11-26 |  |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-02-28 |
 | [汀の宿](https://open.spotify.com/track/6hmp8nILZzePqlOj5tuSHr) | [夢ノ結唱 POPY](https://open.spotify.com/artist/2vjP6SAC2Urw3pl7s1aTOJ), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [汀の宿](https://open.spotify.com/album/6aZic33YRfSq11RAHWmuhG) | 3:01 | 2024-01-18 | 2024-01-24 |
 | [泡になっても](https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [泡になっても](https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip) | 4:01 | 2024-09-17 | 2024-10-12 |

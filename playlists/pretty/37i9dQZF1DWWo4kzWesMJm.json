@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 165009,
+  "num_followers": 165027,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Les feux d'artifice",
-        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 294173,
-      "name": "Un jour au mauvais endroit",
-      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 193000,
       "name": "Ne partons pas f\u00e2ch\u00e9s",
       "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Les feux d'artifice",
+        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Un jour au mauvais endroit",
+      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Bonne id\u00e9e",
-      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 201138,
       "name": "Call on me - feat. Ed Sheeran",
       "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Bonne id\u00e9e",
+      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Evidemment (Version Deluxe)",
-        "url": "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Musique",
-      "url": "https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La femme chocolat",
         "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 171213,
       "name": "La femme chocolat",
       "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Evidemment (Version Deluxe)",
+        "url": "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
@@ -1315,22 +1299,34 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La R\u00e9alit\u00e9",
-        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
       },
       "artists": [
         {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        },
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     }
   ],
   "unique_name": "Bleu Blanc Route",

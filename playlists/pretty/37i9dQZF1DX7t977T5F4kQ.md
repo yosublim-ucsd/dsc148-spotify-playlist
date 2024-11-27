@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Kuami Eugene
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,885 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,897 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Tinsel! Lights! Yelling! These family-friendly Christmas songs will get the party started.",
-  "num_followers": 120660,
+  "num_followers": 121028,
   "original_name": "Family Christmas Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0TSWQAAAAD8KBTH6chPWuXh4zIvoyGt",
+  "snapshot_id": "Z0VVoAAAAABtZ0pJR7V6BELAm+yLM8O2",
   "tracks": [
     {
       "added_at": "2024-11-25 17:11:08",
@@ -43,6 +43,30 @@
     {
       "added_at": "2024-11-25 17:11:08",
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
       },
@@ -71,30 +95,6 @@
       "duration_ms": 216746,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/489nZybL79w209ELXWJyVK"
-    },
-    {
-      "added_at": "2024-11-25 17:11:08",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Agatha Lee Monn",
-          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
-        },
-        {
-          "name": "Katie Lopez",
-          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
     },
     {
       "added_at": "2024-11-25 17:11:08",
@@ -493,20 +493,24 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2024-11-25 17:11:08",
+      "added_at": "2024-11-26 04:55:59",
       "album": {
-        "name": "KIDZ BOP Christmas",
-        "url": "https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo"
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
       },
       "artists": [
         {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/6flgnVkkS25EzY1ZEuPCAw"
         }
       ],
-      "duration_ms": 150282,
-      "name": "It\u2019s The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN"
+      "duration_ms": 172666,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1K5TtzFlzdQLxKx0O5uiH8"
     },
     {
       "added_at": "2024-11-25 17:11:08",

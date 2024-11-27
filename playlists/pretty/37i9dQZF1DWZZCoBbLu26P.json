@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91059,
+  "num_followers": 91065,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        }
+      ],
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 225810,
       "name": "Finish Her!",
       "url": "https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        }
-      ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2024-05-31 17:55:47",

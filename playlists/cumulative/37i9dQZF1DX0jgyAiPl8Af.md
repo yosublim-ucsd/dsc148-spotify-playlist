@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-822 songs - 1 day 11 hr 30 min
+824 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2022-09-23 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
 | [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 | 2022-11-18 |
+| [Bittersweet](https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Bittersweet](https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n) | 3:20 | 2024-11-26 |  |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-07-18 |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 | 2024-04-05 |
@@ -247,6 +248,7 @@
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fernweh](https://open.spotify.com/track/4jyZ8BAopVzHdBEfZvPsc1) | [Tyler Terrance](https://open.spotify.com/artist/0zlPwa6fDx2ICOMDWUzTA7) | [Fernweh](https://open.spotify.com/album/5j46p6AXYRKgYkgPvmStQR) | 3:32 | 2021-12-08 | 2023-02-11 |
+| [Ferry](https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Ferry](https://open.spotify.com/album/7uMck64d5mPtB3eOOgGf2J) | 2:39 | 2024-11-26 |  |
 | [Fields](https://open.spotify.com/track/5QY21npYCzGrIMkhBlRAbX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Fields](https://open.spotify.com/album/41VAtxYHmGoChMv7ENrVeD) | 2:16 | 2024-07-18 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-19 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2022-10-29 |

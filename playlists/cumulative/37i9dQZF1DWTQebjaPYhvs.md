@@ -4,7 +4,7 @@
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-260 songs - 16 hr 20 min
+261 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Take This Heart of Gold](https://open.spotify.com/track/0FORftUv1AjBfUn6iaKFCA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 3:45 | 2019-08-01 |  |
 | [Take This Heart of Gold](https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 3:45 | 2019-08-01 | 2023-04-30 |
 | [Take This Heart of Gold](https://open.spotify.com/track/3HPmjLKBBxGiLtrvhN33Yf) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 3:45 | 2019-08-01 | 2024-04-19 |
+| [Temporary Town](https://open.spotify.com/track/2WH77R5lLir7ZHW8ey7t8H) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/2a0WpuqyjACGd5VmXflGu7) | 4:02 | 2024-11-26 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2019-06-27 |  |
 | [That Would Be Alright](https://open.spotify.com/track/4Db3Z93uKXBgGCoRYLzKC1) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/7zvb4BCGx3MKhKISxEJlhF) | 3:22 | 2019-08-23 | 2024-04-19 |
 | [That Would Be Alright](https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG) | 3:22 | 2019-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,211 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,218 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

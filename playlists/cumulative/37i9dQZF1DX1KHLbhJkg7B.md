@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-413 songs - 1 day 1 hr 49 min
+414 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 | 2021-12-10 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 | 2022-11-12 |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2022-10-03 | 2024-08-03 |
-| [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 | 2021-12-10 |  |
+| [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 | 2021-12-10 | 2024-11-27 |
 | [I Will Always Love You](https://open.spotify.com/track/3FSKVylpJtOZbD50jOJDF0) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [I Will Always Love You](https://open.spotify.com/album/4RtNwpTeMqGkYl1Vx0XFLI) | 4:01 | 2022-05-20 | 2022-07-27 |
 | [I Won't Back Down \- Live from Saturday Night Live](https://open.spotify.com/track/0bci2nasZ4bDE0EgZJ7frg) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [I Won't Back Down \(Live from Saturday Night Live\)](https://open.spotify.com/album/41AJB2q0UhFTZbkEAUDLw7) | 3:52 | 2021-12-10 | 2022-07-28 |
 | [I'll Be Seeing You](https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Be Seeing You](https://open.spotify.com/album/3aqzMqGKMIAMeDdugAwFal) | 1:28 | 2021-12-10 | 2022-07-24 |
@@ -370,6 +370,7 @@
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-10 | 2022-07-27 |
 | [To Make You Feel My Love](https://open.spotify.com/track/1Dawxo1kGdtL5XQ4rnDIjl) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [To Make You Feel My Love](https://open.spotify.com/album/3jlQ7WuUAWb75OEJ014Jvv) | 3:50 | 2023-03-31 | 2023-04-13 |
 | [Tonight I Wanna Cry](https://open.spotify.com/track/6rYiM8hZeP9g6xykAGGi4y) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Tonight I Wanna Cry](https://open.spotify.com/album/39SIwsPue8bKiLkQYrgyug) | 3:32 | 2024-03-22 | 2024-05-18 |
+| [Try](https://open.spotify.com/track/0OVv2LkWFqp9nUgRLJPw1a) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Try](https://open.spotify.com/album/3ZPYvGjHVLlEVZxyniiWPt) | 3:34 | 2024-11-22 |  |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2023-05-27 |
 | [Uncle Pen](https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Best Of Can't You Hear Me Callin' \- Bluegrass: 80 Years Of American Music](https://open.spotify.com/album/0Z216wyIESYn4mjrIrPBy0) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Unwell \- Cover](https://open.spotify.com/track/3tDhiP9TGN9pl3Nil13CsT) | [Jesse Slack](https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Unwell \(Cover\)](https://open.spotify.com/album/6R4Y22EzAkJdKaPJFUcrXk) | 3:28 | 2024-08-30 | 2024-11-16 |

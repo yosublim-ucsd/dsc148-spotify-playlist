@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,348 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,383 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 21 | [Anbessa](https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 3:41 |
 | 22 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
 | 23 | [Yèkatit](https://open.spotify.com/track/3udQXYRBl1Uhw95c6MFDVU) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Akalé Wubé](https://open.spotify.com/album/7HLmal82PatPhQrCukJvFJ) | 5:12 |
-| 24 | [Alègntayé](https://open.spotify.com/track/0bFrcl6l44MbN3LtNN71l6) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Genet Asefa](https://open.spotify.com/artist/2b01pFNBwC2nZb3m9qPtpO) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 4:19 |
+| 24 | [Alègntayé](https://open.spotify.com/track/0bFrcl6l44MbN3LtNN71l6) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Genet Asefa](https://open.spotify.com/artist/2b01pFNBwC2nZb3m9qPtpO) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 4:19 |
 | 25 | [Yene hassab gwadegna](https://open.spotify.com/track/7upS7x0ywH5blOkOKBryty) | [Getatchew Mekurya](https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO) | [Ethiopiques, Vol\. 14: Negus of Ethiopian Sax](https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl) | 5:35 |
 | 26 | [Yèkèrmo Sèw](https://open.spotify.com/track/3JaItn4OtIhEx9Qwc8rzGe) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- LondonThe Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3Ur3CbXxpigUHLY0laZOIU) | 4:13 |
 | 27 | [Yèshèga Lidj Nègèr](https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:00 |

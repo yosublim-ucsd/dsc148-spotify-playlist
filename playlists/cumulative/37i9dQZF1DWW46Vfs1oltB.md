@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: HAON\(김하온\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: SUPERBEE\(수퍼비\)\)
 
-1,386 songs - 3 day 2 hr 59 min
+1,387 songs - 3 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-08-18 |
 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 | 2022-06-03 | 2022-07-15 |
 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-02 | 2023-07-18 |
+| [Huh !](https://open.spotify.com/track/5BigXQRfGLyEfDLyMxpC0W) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Love, Rap & Life](https://open.spotify.com/album/7haNHybuGId0kqqgm1xMeA) | 2:39 | 2024-11-26 |  |
 | [HUH?! \(feat\. j\-hope\)](https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:03 | 2023-04-21 | 2024-06-05 |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2021-12-18 | 2023-12-27 |
 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 | 2022-03-26 | 2022-04-18 |

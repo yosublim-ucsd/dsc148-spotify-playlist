@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Time Of Year",
+        "url": "https://open.spotify.com/album/1DehD8kDsxWuquvxfiuarJ"
+      },
+      "artists": [
+        {
+          "name": "L.A. Exes",
+          "url": "https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135795,
+      "name": "My Favorite Time Of Year",
+      "url": "https://open.spotify.com/track/0YubeLJUQeKY6fGFTjJ1t4"
+    },
+    {
+      "album": {
         "name": "Songs from Season One",
         "url": "https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d"
       },
@@ -5403,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "Temporary Goodbye",
+        "url": "https://open.spotify.com/album/36DCB7ZqwS6OCmSLNwdNT5"
+      },
+      "artists": [
+        {
+          "name": "L.A. Exes",
+          "url": "https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "Temporary Goodbye",
+      "url": "https://open.spotify.com/track/1HALLkD5JaJcPicXK6tJlv"
+    },
+    {
+      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp"
       },
@@ -5432,7 +5468,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 149826,
       "name": "Temporary Goodbye",
       "url": "https://open.spotify.com/track/5wqWV4M7f1uPcpe7Jyy1M2"

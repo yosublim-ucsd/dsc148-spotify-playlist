@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Felipe Amorim, NATTAN, Pedro Sampaio\n",
-  "num_followers": 572028,
+  "num_followers": 573016,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "S\u00f3 F\u00e9",
-      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Eu sou Cantor N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "S\u00f3 F\u00e9",
+      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "De Gra\u00e7a ou Pagando",
-      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 172727,
       "name": "Novinha do TKT",
       "url": "https://open.spotify.com/track/2IUZNW8TPTZCJ4ZHY4OfEX"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -687,6 +687,30 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Sua Preferida",
+        "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "Sua Preferida",
+      "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 163200,
       "name": "Toca o Trompete",
       "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Sua Preferida",
-        "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "Sua Preferida",
-      "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -843,62 +843,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Digo Ou N\u00e3o Digo",
-        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 153958,
-      "name": "Dengo",
-      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "RAM TCHUM",
-        "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 129418,
-      "name": "RAM TCHUM",
-      "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Tenho que Me Decidir",
         "url": "https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K"
       },
@@ -923,6 +867,62 @@
       "duration_ms": 183960,
       "name": "Tenho que Me Decidir",
       "url": "https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Digo Ou N\u00e3o Digo",
+        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 153958,
+      "name": "Dengo",
+      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "RAM TCHUM",
+        "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 129418,
+      "name": "RAM TCHUM",
+      "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Furduncinho do Rogerinho",
-        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 179701,
-      "name": "Furduncinho do Rogerinho",
-      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Coisas Que Eu Sei",
         "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192240,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
       "added_at": "2024-11-22 03:00:00",

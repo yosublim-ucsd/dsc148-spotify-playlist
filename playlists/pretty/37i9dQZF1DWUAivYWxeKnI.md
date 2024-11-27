@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > \[Festival Dates: May 4\-5\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(5월 4일\-5일 열리는 한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,978 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,991 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

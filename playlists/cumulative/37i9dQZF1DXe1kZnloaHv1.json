@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "A N E W",
+        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "New Reels (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
+    },
+    {
+      "album": {
         "name": "Night in Seogyo",
         "url": "https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6"
       },

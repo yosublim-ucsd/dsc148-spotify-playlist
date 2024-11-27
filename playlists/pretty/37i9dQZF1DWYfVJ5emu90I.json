@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 20272,
+  "num_followers": 20278,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "Who ride wit us",
-        "url": "https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8"
+        "name": "NEW REAL (feat. Young Zetton)",
+        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
       "artists": [
         {
-          "name": "Bank.Somsaart",
-          "url": "https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT"
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
         }
       ],
-      "duration_ms": 164986,
-      "name": "FFNM",
-      "url": "https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF"
+      "duration_ms": 195375,
+      "name": "NEW REAL (feat. Young Zetton)",
+      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
     },
     {
       "added_at": "2024-11-20 01:05:52",
@@ -371,22 +375,18 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "NEW REAL (feat. Young Zetton)",
-        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
+        "name": "Who ride wit us",
+        "url": "https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8"
       },
       "artists": [
         {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
-        },
-        {
-          "name": "Young zetton",
-          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+          "name": "Bank.Somsaart",
+          "url": "https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT"
         }
       ],
-      "duration_ms": 195375,
-      "name": "NEW REAL (feat. Young Zetton)",
-      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
+      "duration_ms": 164986,
+      "name": "FFNM",
+      "url": "https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF"
     },
     {
       "added_at": "2024-11-20 01:05:52",
@@ -595,46 +595,6 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "For The Street",
-        "url": "https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf"
-      },
-      "artists": [
-        {
-          "name": "Carz",
-          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
-        },
-        {
-          "name": "DJ PMX",
-          "url": "https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed"
-        },
-        {
-          "name": "eyden",
-          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "Oh Oh Oh (feat. DJ PMX & eyden)",
-      "url": "https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt"
-    },
-    {
-      "added_at": "2024-11-20 01:05:52",
-      "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
-    },
-    {
-      "added_at": "2024-11-20 01:05:52",
-      "album": {
         "name": "iina feat. ANARCHY",
         "url": "https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18"
       },
@@ -659,6 +619,46 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2024-11-20 01:05:52",
+      "album": {
+        "name": "For The Street",
+        "url": "https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        },
+        {
+          "name": "DJ PMX",
+          "url": "https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "Oh Oh Oh (feat. DJ PMX & eyden)",
+      "url": "https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt"
+    },
+    {
+      "added_at": "2024-11-20 01:05:52",
+      "album": {
         "name": "POP KILLERS (feat. ralph)",
         "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
       },
@@ -679,22 +679,26 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "Honey Buns (feat. Awich)",
-        "url": "https://open.spotify.com/album/56MsWrdkn94VqL4xh8iMMj"
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js"
       },
       "artists": [
         {
-          "name": "NENE",
-          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
         },
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "Frankkiss",
+          "url": "https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2"
+        },
+        {
+          "name": "Kiyoki",
+          "url": "https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux"
         }
       ],
-      "duration_ms": 232418,
-      "name": "Honey Buns (feat. Awich)",
-      "url": "https://open.spotify.com/track/0C6dB6iIQRiZLgcdikCoEM"
+      "duration_ms": 182049,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I"
     },
     {
       "added_at": "2024-11-20 01:05:52",
@@ -723,26 +727,22 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js"
+        "name": "Honey Buns (feat. Awich)",
+        "url": "https://open.spotify.com/album/56MsWrdkn94VqL4xh8iMMj"
       },
       "artists": [
         {
-          "name": "DJ CHARI",
-          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
         },
         {
-          "name": "Frankkiss",
-          "url": "https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2"
-        },
-        {
-          "name": "Kiyoki",
-          "url": "https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 182049,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I"
+      "duration_ms": 232418,
+      "name": "Honey Buns (feat. Awich)",
+      "url": "https://open.spotify.com/track/0C6dB6iIQRiZLgcdikCoEM"
     },
     {
       "added_at": "2024-11-20 01:05:52",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-11-20 01:05:52",
       "album": {
-        "name": "FLESHNESS SZN",
-        "url": "https://open.spotify.com/album/4n79rDs1Vg5II9XkHD3LQ7"
-      },
-      "artists": [
-        {
-          "name": "eyden",
-          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
-        },
-        {
-          "name": "Candee",
-          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
-        }
-      ],
-      "duration_ms": 161746,
-      "name": "Reach (feat. Candee)",
-      "url": "https://open.spotify.com/track/3X1fSTjP1yFkSVMCDid9CF"
-    },
-    {
-      "added_at": "2024-11-20 01:05:52",
-      "album": {
         "name": "Red Bull 64 Bars",
         "url": "https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 130285,
       "name": "Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN"
+    },
+    {
+      "added_at": "2024-11-20 01:05:52",
+      "album": {
+        "name": "FLESHNESS SZN",
+        "url": "https://open.spotify.com/album/4n79rDs1Vg5II9XkHD3LQ7"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        }
+      ],
+      "duration_ms": 161746,
+      "name": "Reach (feat. Candee)",
+      "url": "https://open.spotify.com/track/3X1fSTjP1yFkSVMCDid9CF"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

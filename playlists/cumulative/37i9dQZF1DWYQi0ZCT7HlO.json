@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Upon a Christmas Moon (Fireplace Lullaby Version)",
+        "url": "https://open.spotify.com/album/0NtgrsRqorpoujGIW1boVE"
+      },
+      "artists": [
+        {
+          "name": "Beau Shepherd",
+          "url": "https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146031,
+      "name": "Christmas Time Is Here - Fireplace Lullaby Version",
+      "url": "https://open.spotify.com/track/5n86SwBqhl4tAowONYOPda"
+    },
+    {
+      "album": {
         "name": "Christmas Tree Magic (Fireplace)",
         "url": "https://open.spotify.com/album/34wptdoeS32BebJ7hYEXrt"
       },

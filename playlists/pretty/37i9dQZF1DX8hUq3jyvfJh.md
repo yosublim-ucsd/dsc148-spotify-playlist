@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,903 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,892 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Kamikaze Total](https://open.spotify.com/track/5eX9qumP4lZkTWcQUC7WcP) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:20 |
 | 31 | [CORRE](https://open.spotify.com/track/0yFnq9TbsE8bYp5PD9pEgX) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 5:08 |
 | 32 | [Trik Trik](https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Trik Trik](https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw) | 3:03 |
-| 33 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
-| 34 | [Onde Tá o Hip\-Hop?](https://open.spotify.com/track/4xm8hH7j3YCP4ekNZiWaLW) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:00 |
+| 33 | [Onde Tá o Hip\-Hop?](https://open.spotify.com/track/4xm8hH7j3YCP4ekNZiWaLW) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:00 |
+| 34 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
 | 35 | [Fiquei de cara](https://open.spotify.com/track/6d35ejOrQAaaMwc7jejAla) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 1:56 |
 | 36 | [Pra Você Lembrar](https://open.spotify.com/track/1IbvUs3gJ5wxWD5m0YARQM) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy) | [Pra Você Lembrar](https://open.spotify.com/album/5mgDfpYjJbJGxesy6l5Hz9) | 2:29 |
 | 37 | [OBRIGADA BLACK](https://open.spotify.com/track/0ydCkU8ZwpeaWgEyvthP1U) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Marietti Fialho](https://open.spotify.com/artist/5T5dXjtwTcsTGKoQZaNgkm) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:36 |

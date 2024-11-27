@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Nosferatu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
+      },
+      "artists": [
+        {
+          "name": "Robin Carolan",
+          "url": "https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63755,
+      "name": "Gr\u00fcnewald",
+      "url": "https://open.spotify.com/track/3fNqTSlT3TqSdZOdP4ARkO"
+    },
+    {
+      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },

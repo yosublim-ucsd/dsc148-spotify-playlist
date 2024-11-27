@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover\- Raftaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,698 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,253 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 45 | [SUPREME LEADER](https://open.spotify.com/track/6xrlfwtDlgVN8M3aox9215) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:30 |
 | 46 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 |
 | 47 | [BADA](https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 2:34 |
-| 48 | [PHEK PAISA](https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm) | [Raajmusic](https://open.spotify.com/artist/0pH95ANpXdAB7O0TzW6UX9), [Ricky On The Beat](https://open.spotify.com/artist/3MOkZ5ACh7KDbjetY3OR9V) | [RAAJWADI](https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i) | 2:38 |
+| 48 | [PHEK PAISA](https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm) | [Raaj Babu](https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f), [Ricky On The Beat](https://open.spotify.com/artist/0wbqzXArv1toPkbnqV1wsx) | [RAAJWADI](https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i) | 2:38 |
 | 49 | [Junor Kotha](https://open.spotify.com/track/04SBqjNpWc1h37AAAHSU3A) | [ISLAND WARRIOR](https://open.spotify.com/artist/1WTKJRDHq7r2fmiu8cDcyj) | [Junor Kotha](https://open.spotify.com/album/2qUrUqQyW0LW3kn16dbGjE) | 3:02 |
 | 50 | [Amra Tomari Kolkata](https://open.spotify.com/track/5eVgxo95KZAgOPlVNrA2yl) | [Cizzy](https://open.spotify.com/artist/7H6TRWOV85xSRSYsmQn2h0) | [Amra Tomari Kolkata](https://open.spotify.com/album/4a1Ri9m1y9sBwzSc7ujPjh) | 2:30 |
 

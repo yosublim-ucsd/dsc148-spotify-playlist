@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,145 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,144 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
-| 2 | [Automatique \(Mc Artisan\)](https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ) | [Le Sa](https://open.spotify.com/artist/1fdwt0BjCekrhXeRX8Ouq9) | [Automatique \(Mc Artisan\)](https://open.spotify.com/album/337pw8AGafu2kM3Un5ctr8) | 4:37 |
+| 2 | [Barrio](https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Barrio](https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3) | 4:58 |
 | 3 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 |
-| 4 | [Cameleon](https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cameleon](https://open.spotify.com/album/0qWkdirFI0cTfumPdPEt6C) | 2:26 |
+| 4 | [Sagapo](https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Sagapo](https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n) | 3:12 |
 | 5 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 |
 | 6 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 |
 | 7 | [Happy Hour](https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Happy Hour](https://open.spotify.com/album/0ljDJIAMsQIUbS2YduqhO3) | 2:57 |
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 9 | [Ya Ghali](https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 3:12 |
 | 10 | [Kol Manzid](https://open.spotify.com/track/6MzKnihMvYG74ZS309SjLB) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Kol Manzid](https://open.spotify.com/album/0AsZIVxdSVZkPdeBJHz8Ul) | 3:50 |
 | 11 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 |
-| 12 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 |
-| 13 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 |
-| 14 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 |
-| 15 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 |
-| 16 | [Youm Wara Youm](https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/1rcdwiwJpjLasS3JRKpwQW) | 3:44 |
+| 12 | [Cameleon](https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cameleon](https://open.spotify.com/album/0qWkdirFI0cTfumPdPEt6C) | 2:26 |
+| 13 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 |
+| 14 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 |
+| 15 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 |
+| 16 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 |
 | 17 | [La liberta](https://open.spotify.com/track/6a3WsoihY4H9Tst9a9Xoao) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [La liberta](https://open.spotify.com/album/7pyPJajsIcSQjjoLGIEPvV) | 3:35 |
 | 18 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 |
 | 19 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 |
 | 50 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 |
 
-Snapshot ID: `Zz8XDwAAAACdFP0CmR2rT33ulCY4ZdBm`
+Snapshot ID: `Z0WAWgAAAAAcK1Qe3LXdLo6XAKR2YcAs`

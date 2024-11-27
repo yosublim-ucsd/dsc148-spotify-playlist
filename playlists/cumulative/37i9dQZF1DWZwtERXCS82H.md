@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-778 songs - 1 day 9 hr 43 min
+779 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-04-15 | 2023-08-08 |
 | [seulement vous](https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [seulement vous](https://open.spotify.com/album/0qlzv0RHDVgNc77X7uiKMH) | 1:46 | 2022-09-20 | 2023-07-25 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-15 | 2023-07-25 |
+| [Seville](https://open.spotify.com/track/5PG8FLh4LZbWTtWX4F1wCw) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Seville](https://open.spotify.com/album/7b0pD04k9cAOX2li8p0wpl) | 2:17 | 2024-11-26 |  |
 | [Shade of Honey](https://open.spotify.com/track/1RYJqZKLckqbTDLTyoOG1g) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Shade of Honey](https://open.spotify.com/album/39a7DwC1KypXA1B4890uvr) | 2:47 | 2024-07-29 |  |
 | [Shades of Wounded Light](https://open.spotify.com/track/37UIiW5Bncp2INQ7rT6szi) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Shades of Wounded Light](https://open.spotify.com/album/23mhihANYnLrPtF8RmT6JG) | 2:50 | 2024-10-08 |  |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |

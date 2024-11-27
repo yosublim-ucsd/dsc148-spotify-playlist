@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 71353,
+  "num_followers": 71464,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 137684,
       "name": "OZEBA",
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Ogechi (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Adenuga x Concerning",
         "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Abanikanda",
-        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Abanikanda",
-      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -747,6 +727,26 @@
       "duration_ms": 133285,
       "name": "Orobo",
       "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Abanikanda",
+        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Abanikanda",
+      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 164121,
       "name": "by now",
       "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 190488,
       "name": "Devil Wears White",
       "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Okada Airlines",
+        "url": "https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "Bus Stop Remix (with Young Jonn)",
+      "url": "https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -1183,54 +1203,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Okada Airlines",
-        "url": "https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 181111,
-      "name": "Bus Stop Remix (with Young Jonn)",
-      "url": "https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163468,
-      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
-      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Kautaka (Remix)",
         "url": "https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5"
       },
@@ -1271,6 +1243,34 @@
       "duration_ms": 220714,
       "name": "Kautaka - Remix",
       "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "A Fuul",
-        "url": "https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "A Fuul",
-      "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Muyeez (Deluxe)",
         "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "A Fuul",
+        "url": "https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "A Fuul",
+      "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
     },
     {
       "added_at": "2024-11-22 00:01:00",

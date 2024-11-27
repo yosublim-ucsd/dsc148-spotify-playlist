@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEIFYI6Ua2sdUYtrqMUqPyuiydalq9",
+  "snapshot_id": "AAAEL3nCqEywi1lOx/reBRNe6snnWA2y",
   "tracks": [
+    {
+      "added_at": "2024-11-26 08:28:42",
+      "album": {
+        "name": "\u7d14\u60c5\u30d1\u30b9\u30c6\u30eb\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/4fznPSXSoXRviwZYqpb1B9"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "\u590f\u8272\u82b1\u68a8",
+          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "\u7d14\u60c5\u30d1\u30b9\u30c6\u30eb\u30bf\u30a4\u30e0 (feat. \u590f\u8272\u82b1\u68a8)",
+      "url": "https://open.spotify.com/track/2Sds0JIcE22KsmmBNsssNP"
+    },
+    {
+      "added_at": "2024-11-26 08:28:53",
+      "album": {
+        "name": "increment",
+        "url": "https://open.spotify.com/album/19V08oPEKp7MJKY6MraLmj"
+      },
+      "artists": [
+        {
+          "name": "tekalu",
+          "url": "https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "interpreter (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6weeaqNXwkJlgR4E2IIkAK"
+    },
+    {
+      "added_at": "2024-11-26 08:29:06",
+      "album": {
+        "name": "\u30b5\u30a4\u30ec\u30f3\u30ca\u30a4\u30c8\u30a2\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/68HayyhfEc5dmiiYt0plCX"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "\u6625\u65e5\u90e8\u3064\u3080\u304e",
+          "url": "https://open.spotify.com/artist/0EBCs4cCWYXo9XuORvj9OI"
+        },
+        {
+          "name": "\u4e2d\u56fd\u3046\u3055\u304e",
+          "url": "https://open.spotify.com/artist/2eLrowzBBOPJ4cg4oOSpKl"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30ca\u30a4\u30c8\u30a2\u30ea\u30b9 (feat. \u6625\u65e5\u90e8\u3064\u3080\u304e&\u4e2d\u56fd\u3046\u3055\u304e)",
+      "url": "https://open.spotify.com/track/1vxAtScqRRzu8XyueO7cFc"
+    },
+    {
+      "added_at": "2024-11-26 08:29:19",
+      "album": {
+        "name": "Dazzling Star 2",
+        "url": "https://open.spotify.com/album/46MA6IiobKbgap3YK2cMda"
+      },
+      "artists": [
+        {
+          "name": "techicobal*",
+          "url": "https://open.spotify.com/artist/2hGkC0hJFotx3XbNpTWIgk"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 258790,
+      "name": "Shooting Star (feat. Kagamine Rin)",
+      "url": "https://open.spotify.com/track/2NZynlA6aSWeqFZ5AJH3Xu"
+    },
+    {
+      "added_at": "2024-11-26 08:29:31",
+      "album": {
+        "name": "\u30e9\u30d6\u30c7\u30a3\u30b9\u30b3\u30c7\u30a3\u30b9\u30c8\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/21Nfik6qSHHkGG5jNFreXw"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u304b\u3081",
+          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "\u30e9\u30d6\u30c7\u30a3\u30b9\u30b3\u30c7\u30a3\u30b9\u30c8\u30fc\u30b7\u30e7\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/5TehQ2YsYjynCSFpulFXQJ"
+    },
     {
       "added_at": "2024-11-05 08:33:38",
       "album": {
@@ -695,102 +803,6 @@
       "duration_ms": 205781,
       "name": "\u30d7\u30e9\u30a4\u30aa\u30ea\u30c6\u30a3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2SNdoGhLbg75PcH49vxqbU"
-    },
-    {
-      "added_at": "2024-09-10 08:37:16",
-      "album": {
-        "name": "Copycat (SV Version)",
-        "url": "https://open.spotify.com/album/7MetESHfUlAXH57rHv8kZN"
-      },
-      "artists": [
-        {
-          "name": "CircusP",
-          "url": "https://open.spotify.com/artist/6Wn6kyMvfESmIaVy3Sjjvf"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 283795,
-      "name": "Copycat (SV Version) (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
-      "url": "https://open.spotify.com/track/4tCZ9HxEu64Dowdz4K9Rdb"
-    },
-    {
-      "added_at": "2024-09-10 08:37:29",
-      "album": {
-        "name": "PLUG\u2192OUT",
-        "url": "https://open.spotify.com/album/618ykehxR4Et4XOereDR5M"
-      },
-      "artists": [
-        {
-          "name": "tekalu",
-          "url": "https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 221249,
-      "name": "PLUG\u2192OUT (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/5UWH8ilDy0pg0kpvkuK1UD"
-    },
-    {
-      "added_at": "2024-09-10 08:37:42",
-      "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/5DMAv4uCuf8Nkiz4HOZfHE"
-      },
-      "artists": [
-        {
-          "name": "Osanzi",
-          "url": "https://open.spotify.com/artist/5sGhbLKSiDfJXWg8A0B7fX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "KISS ME (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6RLBeTcAdVed7EgGml6DhD"
-    },
-    {
-      "added_at": "2024-09-10 08:37:52",
-      "album": {
-        "name": "Tokyo Future Girl",
-        "url": "https://open.spotify.com/album/3T4C13Fndki4SxN1qpmSVl"
-      },
-      "artists": [
-        {
-          "name": "picco",
-          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
-        }
-      ],
-      "duration_ms": 204783,
-      "name": "Marry Me (feat. Hatsune Miku)",
-      "url": "https://open.spotify.com/track/03qaYFAFhqsSNHlRnvsfbT"
-    },
-    {
-      "added_at": "2024-09-10 08:38:02",
-      "album": {
-        "name": "Prhythmatic6",
-        "url": "https://open.spotify.com/album/1umAv5Zv0yqZoXfENa2sJ6"
-      },
-      "artists": [
-        {
-          "name": "colate",
-          "url": "https://open.spotify.com/artist/5grTQWkhLYPkRjIBfacjPw"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 262624,
-      "name": "\u30d5\u30a3\u30b8\u30fc\u306a\u30d2\u30df\u30c4 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2v2yqgzjjjFb6OVoHlvbR3"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

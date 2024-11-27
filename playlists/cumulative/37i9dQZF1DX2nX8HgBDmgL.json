@@ -2895,6 +2895,32 @@
     },
     {
       "album": {
+        "name": "Kehna Galat Galat",
+        "url": "https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Kehna Galat Galat",
+      "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
+    },
+    {
+      "album": {
         "name": "Glass Ceiling",
         "url": "https://open.spotify.com/album/7pFnY7YB2jQw9lIJpauU5B"
       },
@@ -3624,7 +3650,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF"
@@ -3668,6 +3694,32 @@
       "duration_ms": 169200,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT"
+    },
+    {
+      "album": {
+        "name": "Morni",
+        "url": "https://open.spotify.com/album/1xWp8jVcJqW40Aey8il8wE"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171935,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/3jPLJbSL14oH6pcSLIaMGJ"
     },
     {
       "album": {
@@ -4801,6 +4853,44 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Vijay Deverakonda",
+          "url": "https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn"
+        },
+        {
+          "name": "Radhikka Madan",
+          "url": "https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217148,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
+    },
+    {
+      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa"
       },
@@ -5216,6 +5306,24 @@
       "duration_ms": 208000,
       "name": "Tera Mera Hai Pyar (From \"Ishq Murshid\")",
       "url": "https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv"
+    },
+    {
+      "album": {
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-237 songs - 14 hr 17 min
+238 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-10 | 2023-03-23 |
 | [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 | 2022-11-10 |
 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 | 2022-07-14 | 2022-11-27 |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-06 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-06 | 2024-11-27 |
 | [Ba3douk \- بعدوك](https://open.spotify.com/track/7lZxuhO0ZlFieEOkXvvs2e) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ba3douk \(بعدوك\)](https://open.spotify.com/album/0Lul8TagxbnjhRZpX2aX0o) | 2:20 | 2023-06-27 | 2023-08-20 |
 | [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 | 2023-06-27 | 2024-10-27 |
 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 | 2022-02-25 | 2022-11-27 |
@@ -179,6 +179,7 @@
 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 | 2023-12-26 |  |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2023-07-24 |  |
 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \(سهّارة\)](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 | 2023-11-02 |  |
+| [Se3a S3ida](https://open.spotify.com/track/7E4QGtxdgSD0qJJTLydfbL) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Se3a S3ida](https://open.spotify.com/album/42ybcXQQfc18sjfXBxSHIU) | 2:05 | 2024-11-26 |  |
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 | 2022-11-08 |
 | [Snini](https://open.spotify.com/track/0HfJiW1HlCPHwYhhHBstki) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Snini](https://open.spotify.com/album/3aL9zVG5FgHl8hAj5njI78) | 4:07 | 2024-05-07 |  |
 | [Sob Enta](https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Mista6012](https://open.spotify.com/artist/5PXOzFTQg0XX5f8uS20cY3), [MC Rai](https://open.spotify.com/artist/5FofUhu7YJLPwRP5I5xAKq), [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd) | [Sob Enta](https://open.spotify.com/album/0nxxlzddE6ODOSqiXPNJdK) | 3:31 | 2022-05-26 | 2022-07-12 |

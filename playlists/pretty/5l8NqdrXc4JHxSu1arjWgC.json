@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 4478,
+  "num_followers": 4483,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "AAAGv/L7ufQCN5DgHrW8vdSeggCVjUYI",
+  "snapshot_id": "AAAGwKGFsME3sD/pbK7g/nh/yw+IpxZ6",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -12487,6 +12487,22 @@
       "duration_ms": 141480,
       "name": "Journey Through the Past",
       "url": "https://open.spotify.com/track/4chKhw2tf3sOD6AK1ZBXeo"
+    },
+    {
+      "added_at": "2024-11-26 04:10:34",
+      "album": {
+        "name": "Black Sea",
+        "url": "https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Generals And Majors - 2001 Remaster",
+      "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

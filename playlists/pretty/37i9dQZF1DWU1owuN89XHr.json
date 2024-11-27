@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 280838,
+  "num_followers": 280870,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
-      "added_at": "2022-03-01 04:08:22",
-      "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
-    },
-    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "Solo Exitos",
@@ -871,6 +855,22 @@
       "duration_ms": 240866,
       "name": "Todo El A\u00f1o",
       "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
+    },
+    {
+      "added_at": "2022-03-01 04:08:22",
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Noche Sin Fin y Mar",
-        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 184968,
-      "name": "Noche Sin Fin y Mar",
-      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
-    },
-    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -995,6 +979,22 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Noche Sin Fin y Mar",
+        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 184968,
+      "name": "Noche Sin Fin y Mar",
+      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
     },
     {
       "added_at": "2021-07-29 16:46:05",

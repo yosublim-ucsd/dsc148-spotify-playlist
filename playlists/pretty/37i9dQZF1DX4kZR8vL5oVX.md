@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Clara Luciani \(du titre \#2 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,219 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,222 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 6 | [Pluie d'amour](https://open.spotify.com/track/3L0SbNQ1PrW3058U1kAV3L) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:23 |
 | 7 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 8 | [Sous la Pluie](https://open.spotify.com/track/1BqSRusAMnOjY7FaemoZP5) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:16 |
-| 9 | [Fleur de peau](https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Fleur de peau](https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk) | 3:33 |
+| 9 | [Fleur de peau](https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Fleur de peau](https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk) | 3:34 |
 | 10 | [Le jour](https://open.spotify.com/track/33h0i9Iun9cSGaZ0OMVCAA) | [Calypso Valois](https://open.spotify.com/artist/5jKj9CmMpKvfRpKb8JOwE1) | [Cannibale](https://open.spotify.com/album/2HctxV63ZtRRHX7iKZhpzg) | 3:18 |
 | 11 | [La Lune](https://open.spotify.com/track/3aGAQipsbCXDl0IcUUyHoT) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/7gdTDMU4u5jVR9BJbWiEbY) | 4:27 |
 | 12 | [La chanson du bal](https://open.spotify.com/track/1n45k011rLRO3qsafiuMjE) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:54 |

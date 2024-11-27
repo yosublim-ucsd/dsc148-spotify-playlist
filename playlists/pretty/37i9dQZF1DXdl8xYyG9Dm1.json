@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 161988,
+  "num_followers": 162066,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "VIOLATION",
-        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 148489,
-      "name": "VIOLATION",
-      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 127612,
       "name": "BABA",
       "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "VIOLATION",
+        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 148489,
+      "name": "VIOLATION",
+      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -995,6 +995,34 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
+      },
+      "artists": [
+        {
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Confuse The Enemy",
         "url": "https://open.spotify.com/album/3afQKHp5khJj6C04a1CNIp"
       },
@@ -1027,34 +1055,6 @@
       "duration_ms": 145195,
       "name": "Haibo Freestyle",
       "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
-      },
-      "artists": [
-        {
-          "name": "Omar Sterling",
-          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Guy Man",
         "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Platinum (feat. Frank Casino)",
-        "url": "https://open.spotify.com/album/44mgzWsvqEfFDUm1v8ZCf7"
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
       },
       "artists": [
         {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Frank Casino",
-          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Platinum (feat. Frank Casino)",
-      "url": "https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67"
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1263,6 +1243,26 @@
       "duration_ms": 186796,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Platinum (feat. Frank Casino)",
+        "url": "https://open.spotify.com/album/44mgzWsvqEfFDUm1v8ZCf7"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Platinum (feat. Frank Casino)",
+      "url": "https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "ROLE MODEL (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 154806,
       "name": "PULL UP (WHERE THE MUD BE)",
       "url": "https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": "2024-11-22 00:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-15",
-  "description": "Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.",
+  "description": "Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.",
   "name": "Hulu Hits",
   "tracks": [
     {
@@ -1656,6 +1656,28 @@
       "duration_ms": 291266,
       "name": "Protect Ya Neck",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "album": {
+        "name": "Interior Chinatown (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7uNMqjTdzziuyQj68SyLDO"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        },
+        {
+          "name": "Nick Lee",
+          "url": "https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213654,
+      "name": "Real Chinatown",
+      "url": "https://open.spotify.com/track/7jONboOBHkNpXfDi2QkF4L"
     },
     {
       "album": {

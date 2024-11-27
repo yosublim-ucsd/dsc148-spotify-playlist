@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain](/playlists/plain/0qg6KzBLO7rL48c0QfNpLZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0qg6KzBLO7rL48c0QfNpLZ)
 
-### [Background Chill Music 2024 🌃](https://open.spotify.com/playlist/0qg6KzBLO7rL48c0QfNpLZ)
+### [Background Chill Music 🌃 Winter Chill ❄️](https://open.spotify.com/playlist/0qg6KzBLO7rL48c0QfNpLZ)
 
-> The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
+> The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,880 likes - 158 songs - 6 hr 54 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,851 likes - 158 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 157 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 158 | [Feel That Way](https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Feel That Way](https://open.spotify.com/album/26OiBfnDOpA0xrG0Sjzqzr) | 2:50 |
 
-Snapshot ID: `AAAbqfC/3R290Q2kRZ8MDk7uR8HsRuJC`
+Snapshot ID: `AAAbqs0anbr/stQYYpIDLcIo0IjgGctI`

@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Pentatonix in Meet Me Next Christmas
 
-84 songs - 4 hr 13 min
+85 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [This Day](https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc) | [Justin Cornwell](https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC), [Sharon Rose](https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:33 | 2022-11-18 |  |
 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/4mz33e2QLaV9nJVVKTBXZd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:48 | 2022-11-18 |  |
 | [Under the Tree](https://open.spotify.com/track/370svZM4vWhiPiCe5ccvMs) | [Sam Palladio](https://open.spotify.com/artist/6zO84xQ3YiDtFTfKb2Tg5M) | [Under the Tree](https://open.spotify.com/album/2K0O5kNmOh2HKRLf0UctyX) | 3:29 | 2022-11-18 | 2023-11-16 |
+| [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-26 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2022-11-18 | 2023-11-16 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/6GHfvlxWf9t8eFbA9rOU8Q) | [The Sugar Sisters](https://open.spotify.com/artist/0DaNHydyH8Te8FrV4kdQvH) | [Christmas with the Sugar Sisters: Vintage Vocal Harmony](https://open.spotify.com/album/2yJ7UZrTcjIsjqERj9EWTT) | 2:52 | 2022-11-18 | 2023-11-07 |
 | [Winter Wonderland](https://open.spotify.com/track/5gV3NwsaTYlb9VJf39XaYA) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [A Very Special Christmas 7](https://open.spotify.com/album/5IPSDxbjqKKRhlSyQ7Hamk) | 2:54 | 2022-11-18 |  |

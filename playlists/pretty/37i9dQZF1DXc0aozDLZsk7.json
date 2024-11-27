@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 475621,
+  "num_followers": 475624,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZqtD3QAAAABDQwwU/l0JHfRUkE4w3mo9",
   "tracks": [
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2024-08-01 08:14:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "The Good Times and The Bad Ones",
-        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 277694,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "The Good Times and The Bad Ones",
+        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 277694,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
     },
     {
       "added_at": "2024-08-01 08:14:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "To Begin Again",
         "url": "https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 210826,
       "name": "To Begin Again",
       "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": "2024-08-01 08:14:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
     },
     {
       "added_at": "2024-08-01 08:14:21",

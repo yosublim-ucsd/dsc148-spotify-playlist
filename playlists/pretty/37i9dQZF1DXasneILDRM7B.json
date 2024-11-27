@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3016854,
+  "num_followers": 3016815,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Still Not Getting Any",
+        "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/78pHMOI9qUWonIMySjO3XY"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Still Not Getting Any",
-        "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Shut Up!",
-      "url": "https://open.spotify.com/track/78pHMOI9qUWonIMySjO3XY"
     },
     {
       "added_at": "2023-02-10 16:26:23",

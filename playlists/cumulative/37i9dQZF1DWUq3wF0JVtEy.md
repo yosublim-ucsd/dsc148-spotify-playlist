@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-493 songs - 1 day 0 hr 4 min
+494 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-08 | 2024-09-13 |
 | [Party in My Head \- Taiki Nulight Remix](https://open.spotify.com/track/1a9X5nPkX5ovOnlsywMHll) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Party in My Head \(Taiki Nulight Remix\)](https://open.spotify.com/album/0xTRAVjbQijRcD8F2YaDy8) | 3:13 | 2023-11-10 | 2023-11-25 |
 | [Patron](https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Patron](https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX) | 2:49 | 2023-05-26 | 2023-10-14 |
+| [Perfect Day](https://open.spotify.com/track/7Ig7sOUzR1Y2SShye9Pn1U) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Carmelo](https://open.spotify.com/artist/7CTFEDXwOSOCPCNWvvhg5u) | [Perfect Day](https://open.spotify.com/album/2NZj3cTwqgympXq4DLeq6r) | 3:02 | 2024-11-22 |  |
 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [BLK OUT](https://open.spotify.com/artist/1F2dvP18rgi7Zdvn5HlM3l) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 | 2023-12-15 | 2024-01-13 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-28 | 2022-08-27 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-10-29 | 2022-11-12 |
@@ -446,7 +447,7 @@
 | [The Future Is Now](https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Future Is Now \- The Truth](https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh) | 2:58 | 2024-03-15 |  |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
 | [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 | 2023-11-18 |
-| [The Mindshaker](https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [The Mindshaker](https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt) | 2:58 | 2024-05-31 |  |
+| [The Mindshaker](https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [The Mindshaker](https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt) | 2:58 | 2024-05-31 | 2024-11-27 |
 | [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 | 2023-01-13 | 2023-03-10 |
 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 | 2024-08-30 |  |
 | [The Sound](https://open.spotify.com/track/29mfJk6aT99UhjzIidSLow) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [4x4 BANGERS](https://open.spotify.com/album/4bDFHemYynP6J0w7lVdtSD) | 2:42 | 2024-05-10 | 2024-11-09 |

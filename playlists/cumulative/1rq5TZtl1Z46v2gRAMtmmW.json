@@ -1461,6 +1461,28 @@
     },
     {
       "album": {
+        "name": "Dance on the World",
+        "url": "https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "North Downs",
+          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214187,
+      "name": "Dance on the World",
+      "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
+    },
+    {
+      "album": {
         "name": "Dancing In The Shadows",
         "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
       },

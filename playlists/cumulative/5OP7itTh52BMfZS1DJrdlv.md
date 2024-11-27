@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-122 songs - 6 hr 25 min
+123 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Christmas Wrapping \(with Iggy Pop\)](https://open.spotify.com/track/3kyZcS729JZYDVJvxjsCbl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 5:03 | 2023-12-19 |  |
 | [Cold December Night](https://open.spotify.com/track/5NygPpvNMWZxiPrFN4goOs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:18 | 2023-12-09 |  |
 | [Count on Christmas](https://open.spotify.com/track/5tGB1wbTZ4GOu5koMPpxZm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:59 | 2023-12-09 |  |
-| [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1i3nwb0C4XOxPhDNC1w0kv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:39 | 2023-12-09 |  |
+| [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1i3nwb0C4XOxPhDNC1w0kv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:39 | 2023-12-09 | 2024-11-27 |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 | 2023-12-09 |  |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/5U0w3eANPGQ8c6fZTzhgsh) | [Acoustic Christmas Music Band](https://open.spotify.com/artist/4vl2xxbqD1ntEjmKWC7M4w), [Frederik Smith](https://open.spotify.com/artist/5V2qYKBDUrTH2NsZt1TDzy) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:17 | 2023-12-19 |  |
 | [Doesn’t Feel Like Christmas](https://open.spotify.com/track/6d2TejbyIrDbJgfCX3fB0F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Overallidays](https://open.spotify.com/album/5Uoxiy4iG3izvjTFbD5feC) | 2:04 | 2023-12-09 |  |
@@ -120,6 +120,7 @@
 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 | 2023-12-09 |  |
 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 | 2023-12-09 |  |
 | [Under the Mistletoe](https://open.spotify.com/track/0OciKTNrWHda78cixRGJdq) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:45 | 2023-12-09 |  |
+| [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-26 |  |
 | [Wake Up \(It's Christmas Time\)](https://open.spotify.com/track/29unTcVq0e9W6ATUKSWH6e) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:40 | 2023-12-09 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/40sbttz649ixUd5JnCnQZB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:35 | 2023-12-09 |  |
 | [White Christmas](https://open.spotify.com/track/5skPAf0IIIy7UXJch1QgZy) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:38 | 2023-12-09 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain]
 
 > Music From "Genesis of Aquarion"!「創聖のアクエリオン」公式プレイリスト！\(C\)2004 河森正治・サテライト/Project AQUARION
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,143 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,147 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
+| 1 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 2 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
 | 3 | [オムナ マグニ](https://open.spotify.com/track/4u5uK5CTiz71l1ufJezBc1) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 1:36 |
-| 4 | [プライド\~嘆きの旅](https://open.spotify.com/track/72SahxiauEolgozbrgqzpp) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:35 |
+| 4 | [プライド～嘆きの旅](https://open.spotify.com/track/72SahxiauEolgozbrgqzpp) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:35 |
 | 5 | [創聖のアクエリオン \(エレメント合体Ver.台詞入り.\)](https://open.spotify.com/track/5wswZcBAHza5AY8Wc5rEb8) | [アポロ\(寺島拓篤\)](https://open.spotify.com/artist/37ed5X4TwrEwbyfLaATf2J), [シルヴィア\(かかずゆみ\)](https://open.spotify.com/artist/5DC4cVpFHQIHj6k8mBw02z), [麗花\(小林沙苗\)](https://open.spotify.com/artist/1GbmwGAMawnxclWwR7dZfb) | [創聖のアクエリオン](https://open.spotify.com/album/2oIFx4B5bH8aPePcb2AmK5) | 4:42 |
 | 6 | [エスペランサ!](https://open.spotify.com/track/5fhBcbgdwhFXBw6U2yIABS) | [オーレ!アクエリオン](https://open.spotify.com/artist/5vcpD1vsEaP9xTRe2tcICu) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 2:31 |
 | 7 | [創聖のアクエリオン　お兄さまと](https://open.spotify.com/track/3L03BbX18TMOXANsUlFDEH) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 4:42 |

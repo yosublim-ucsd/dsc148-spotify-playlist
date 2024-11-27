@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 62456,
+  "num_followers": 62485,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1309,6 +1309,26 @@
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Matadora (Radio Edit)",
@@ -1327,30 +1347,6 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Dame Mas",
-        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Mathieu Ruz",
-          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
-        }
-      ],
-      "duration_ms": 185476,
-      "name": "Dame Mas",
-      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1435,22 +1431,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Bullerengue",
-        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Bullerengue",
-      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1467,6 +1467,26 @@
       "duration_ms": 180923,
       "name": "Tranquilao",
       "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Bullerengue",
+        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Bullerengue",
+      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 167640,
       "name": "Te Recorde",
       "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         }
       ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1635,18 +1631,42 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Hola Venga",
-        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
         }
       ],
-      "duration_ms": 235238,
-      "name": "Hola Venga",
-      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1671,26 +1691,6 @@
       "duration_ms": 134880,
       "name": "Culo",
       "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Bidi Bam",
-        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Bidi Bam",
-      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
       },
@@ -1787,6 +1807,26 @@
       "duration_ms": 155004,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Sin Nada",
+        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
+      },
+      "artists": [
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Sin Nada",
+      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1811,46 +1851,6 @@
       "duration_ms": 163468,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Sin Nada",
-        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
-      },
-      "artists": [
-        {
-          "name": "MelyJones",
-          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
-        },
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "Sin Nada",
-      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "La Santa",
-        "url": "https://open.spotify.com/album/5RWwj0Z3WDYmBSvVacIjQA"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Onemenor02",
-          "url": "https://open.spotify.com/artist/4MTZ8fohTxtA66OPDZHoFj"
-        }
-      ],
-      "duration_ms": 149769,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Locamente",
         "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
       },
@@ -2015,26 +1995,6 @@
       "duration_ms": 139687,
       "name": "Locamente",
       "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Incanto",
-        "url": "https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "Incanto",
-      "url": "https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2059,6 +2019,50 @@
       "duration_ms": 127582,
       "name": "Con La Luna",
       "url": "https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Incanto",
+        "url": "https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "Incanto",
+      "url": "https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
+      },
+      "artists": [
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
     }
   ],
   "unique_name": "Latin House",

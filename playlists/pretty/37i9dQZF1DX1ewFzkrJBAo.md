@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,597 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 | 19 | [ごめんねチャーリー](https://open.spotify.com/track/0ljEQ4StSNugUZpY8lBOZF) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [シャ・ラ・ラ](https://open.spotify.com/album/3dWYHEGDMDsR5FwrJAJ6Vf) | 3:48 |
 | 20 | [I AM A PANTY\(Yes, I am\)](https://open.spotify.com/track/37cZ6CiZU92S1dpz0ClOUm) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [C調言葉に御用心](https://open.spotify.com/album/1ZCvNcTOD4B0GO4k6VoXTV) | 3:44 |
 | 21 | [Let's Take a Chance](https://open.spotify.com/track/4nBj9nI32OEkjqBaLFHVdK) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ステレオ太陽族](https://open.spotify.com/album/3MF1xptTSght1fcewndp7D) | 4:18 |
-| 22 | [おいしいね\~傑作物語](https://open.spotify.com/track/4KX7dXdekdym9QI6acdsM6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [みんなのうた](https://open.spotify.com/album/67kqLzZDNLjeyTWrpmO3pb) | 4:56 |
-| 23 | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
+| 22 | [おいしいね～傑作物語](https://open.spotify.com/track/4KX7dXdekdym9QI6acdsM6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [みんなのうた](https://open.spotify.com/album/67kqLzZDNLjeyTWrpmO3pb) | 4:56 |
+| 23 | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
 | 24 | [Brown Cherry](https://open.spotify.com/track/1LAgsnHyIwH7WtNXU7Dgfq) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:08 |
 | 25 | [GIMME SOME LOVIN'\~生命果てるまで\~](https://open.spotify.com/track/63QNAU7TOlDqSrOSBGa29O) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:03 |
 | 26 | [祭はラッパッパ](https://open.spotify.com/track/7BoMM2LLhh71ANLLDC367l) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう](https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex) | 2:24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15016,
+  "num_followers": 15018,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAB0sutmLgG3voqN8CES5GVv",
+  "snapshot_id": "Z0O+AAAAAADXKo8sdWpbAMM9rY2txu92",
   "tracks": [
     {
       "added_at": null,
@@ -1067,22 +1067,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Was Said?",
-        "url": "https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5"
+        "name": "One Minute Warning",
+        "url": "https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR"
       },
       "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 140875,
-      "name": "Yeah (with BIA)",
-      "url": "https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq"
+      "duration_ms": 61916,
+      "name": "One Minute Warning",
+      "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
     },
     {
       "added_at": null,

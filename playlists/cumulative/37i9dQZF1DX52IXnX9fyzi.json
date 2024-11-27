@@ -8887,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "Wishing",
+        "url": "https://open.spotify.com/album/6TXuH9AYP4OI1BErvfPlAc"
+      },
+      "artists": [
+        {
+          "name": "Kjartan Sch\u00f6n",
+          "url": "https://open.spotify.com/artist/1Kseg3QEYs47CnkcWGWLyH"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149929,
+      "name": "Wishing",
+      "url": "https://open.spotify.com/track/6DmakgjxCyZ5idLg6lbX1J"
+    },
+    {
+      "album": {
         "name": "wolkenlos",
         "url": "https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk"
       },

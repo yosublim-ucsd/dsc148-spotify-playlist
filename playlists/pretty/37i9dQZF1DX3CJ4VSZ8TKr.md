@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,602 likes - 45 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,605 likes - 45 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 | 5 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 |
 | 6 | [人生の散歩道](https://open.spotify.com/track/1F4irlL1FQBTUeEKX2OiQt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ピースとハイライト](https://open.spotify.com/album/50jUxZCQFjT0p0PV5jqdCH) | 4:02 |
 | 7 | [Hey! Ryudo!\(ヘイ!リュード!\)](https://open.spotify.com/track/4D0Q8bUuo9i8Lu0fI1oviX) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のアベニュー](https://open.spotify.com/album/59SSrcVyoTH9dgJxXAW0l8) | 4:23 |
-| 8 | [ロックンロール・スーパーマン \~Rock’n Roll Superman\~](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |
+| 8 | [ロックンロール・スーパーマン ～Rock’n Roll Superman～](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |
 | 9 | [バラ色の人生](https://open.spotify.com/track/4DO8kFbgOO17Uy80RW81Ik) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [葡萄](https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too) | 3:57 |
 | 10 | [働けロック・バンド\(Workin' for T.V.\)](https://open.spotify.com/track/5SPnNQ852IH0hZg3qw64KF) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [タイニイ・バブルス](https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL) | 4:01 |
 | 11 | [ピースとハイライト](https://open.spotify.com/track/6zOuo4SQK5i50W7IqM3xFW) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ピースとハイライト](https://open.spotify.com/album/50jUxZCQFjT0p0PV5jqdCH) | 4:33 |
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 | 17 | [政治家](https://open.spotify.com/track/14SDdaZsHo0ZnIDjTt1Bnd) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:32 |
 | 18 | [YARLEN SHUFFLE\~子羊達へのレクイエム\~](https://open.spotify.com/track/1rzAZFDh4eMWjK0H2qkRN2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:16 |
 | 19 | [Computer Children](https://open.spotify.com/track/7BlXfDOO0RgCXZGY4X7YXY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 6:12 |
-| 20 | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
+| 20 | [ミス・ブランニュー・デイ（MISS BRAND\-NEW DAY）](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
 | 21 | [闘う戦士たちへ愛を込めて{戦士=もの}](https://open.spotify.com/track/2k1AwEiV0YBMOckELYPQwj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [闘う戦士\(もの\)たちへ愛を込めて](https://open.spotify.com/album/5mha8ZMMeOfBfj3MwNw19w) | 4:34 |
 | 22 | [東京VICTORY](https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [東京VICTORY](https://open.spotify.com/album/33M5HqxOl248yYStshaJll) | 5:09 |
 | 23 | [YELLOW NEW YORKER](https://open.spotify.com/track/3dwqVyKlyH3pLoQfJcbXpw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:43 |
 | 24 | [君だけに夢をもう一度](https://open.spotify.com/track/5uVR5LH8P3u8y3tDV2R4gl) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:57 |
 | 25 | [この青い空、みどり \~BLUE IN GREEN\~](https://open.spotify.com/track/4qHgciuwgNkXrCmv0XA5Lv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [この青い空、みどり \~BLUE IN GREEN\~](https://open.spotify.com/album/3vqVCHPbeyUai1mOsB7DvQ) | 4:26 |
 | 26 | [蛍](https://open.spotify.com/track/5x6KPKSLbZcFW3afxcgd7d) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ピースとハイライト](https://open.spotify.com/album/50jUxZCQFjT0p0PV5jqdCH) | 3:12 |
-| 27 | [ひき潮 \~Ebb Tide\~](https://open.spotify.com/track/4BTciLzKUGSxGJFwKX1Tpi) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:04 |
+| 27 | [ひき潮 ～Ebb Tide～](https://open.spotify.com/track/4BTciLzKUGSxGJFwKX1Tpi) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:04 |
 | 28 | [星空のビリー・ホリデイ](https://open.spotify.com/track/3uMOpkMnXaGCXtf71lT9ZZ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:59 |
 | 29 | [栄光の男](https://open.spotify.com/track/0b5IOHnch6K9Q1HiABT9UM) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [葡萄](https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too) | 4:45 |
 | 30 | [吉田拓郎の唄](https://open.spotify.com/track/19L95A7P9EDaVJO5NjKyC8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,967 likes - 62 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,033 likes - 62 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 11 | [マジで感謝！](https://open.spotify.com/track/3n8UqLLh1DaO3Y5qMQMnyu) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [がんばリーヨ！](https://open.spotify.com/album/6MNKdCn7BRd4faV1raFQEV) | 5:25 |
 | 12 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 |
 | 13 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 |
-| 14 | [ライオン](https://open.spotify.com/track/35HhTsMus2B7hA7rfbrp84) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [「マクロスF」オープニングテーマ ライオン](https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm) | 5:03 |
+| 14 | [ライオン](https://open.spotify.com/track/35HhTsMus2B7hA7rfbrp84) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [「マクロスF」オープニングテーマ　ライオン](https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm) | 5:03 |
 | 15 | [Get Over](https://open.spotify.com/track/6mYL8hxtrSgbXCLskzuhSc) | [Dream](https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU) | [Process](https://open.spotify.com/album/52fPQP1V5udSfTFEkxQIT0) | 5:15 |
 | 16 | [曇天](https://open.spotify.com/track/1o0W4Q8xymwEGAh3moqV60) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [曇天](https://open.spotify.com/album/01Lx3vTvSCHS6Jgsc6GtIw) | 3:10 |
 | 17 | [Dearest](https://open.spotify.com/track/4uraEw7BcTjMmUcRKE3XaD) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [I am...](https://open.spotify.com/album/6b4kTS1ynBp5cnXasBxhsM) | 5:32 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 20 | [D\-tecnoLife](https://open.spotify.com/track/14N6mo39jk8aYWqY1qdS3Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/48uaoowcqcWdfYGg9JK3WC) | 3:53 |
 | 21 | [Secret of my heart](https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:25 |
 | 22 | [DANZEN！ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 |
-| 23 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
+| 23 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 24 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
 | 25 | [さらば](https://open.spotify.com/track/4gRBVBLgnwzHn6WODOwo0W) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [音楽は素晴らしいものだ](https://open.spotify.com/album/1Ie5iQ1pUZUlAAY985v4YZ) | 4:26 |
 | 26 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 48 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ～Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 |
 | 49 | [崖の上のポニョ\(崖の上のポニョ\)](https://open.spotify.com/track/1Afz8sEPXEkwiDxHFbnx9Z) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 2:46 |
 | 50 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」ＯＰテーマ　旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 |
-| 51 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |
+| 51 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ　アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |
 | 52 | [恋せよ女の子](https://open.spotify.com/track/3SpBoNC4Z5K1vkPy1FN1wV) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/68MIDqGUNbirDlgIYYNhfW) | 4:20 |
 | 53 | [空色デイズ](https://open.spotify.com/track/2jdezHlpt5r5hDjVC7hOpU) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [空色デイズ](https://open.spotify.com/album/6QQjdYug6EI0gVGdq2HcEk) | 4:13 |
 | 54 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 |

@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: LIL LEAGUE from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: Hey! Say! JUMP
 
-364 songs - 20 hr 55 min
+366 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 | 2023-12-12 | 2024-02-25 |
 | [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-12 | 2024-06-26 |
 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 | 2024-08-20 |  |
+| [Donkey Gongs](https://open.spotify.com/track/5dEqcmor35aN7xwbupzDqz) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [H⁺](https://open.spotify.com/album/0GoIL3ApSF3ttfO1U367bJ) | 3:35 | 2024-11-26 |  |
 | [Downforce](https://open.spotify.com/track/5JdT5kFwFoM3SSYSwRT9d3) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Downforce](https://open.spotify.com/album/0FBtOBWbZ8leLwZLjgkslc) | 3:27 | 2024-09-10 | 2024-10-02 |
 | [DRAW+ing](https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [DRAW+ing](https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82) | 3:24 | 2024-06-04 | 2024-07-10 |
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 | 2024-06-05 |
@@ -153,13 +154,14 @@
 | [Light Up The Night](https://open.spotify.com/track/7jBSMTXOTrYZrsQ1x0xmJs) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/3PQkZD1u6awEojZLSgilCs) | 3:35 | 2024-07-26 | 2024-07-31 |
 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 | 2024-02-27 | 2024-04-17 |
 | [Lollipop](https://open.spotify.com/track/6DWAaxDv3HfeJbUCNnXwRB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/5BYtSfXOuqwh1iC5o8GfBH) | 2:09 | 2024-02-06 | 2024-02-28 |
-| [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 |  |
+| [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 | 2024-11-27 |
 | [Love 119 \- Japanese Version](https://open.spotify.com/track/5Gw3SiNinRr4kY8FxKl7Dm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119 \(Japanese Version\)](https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg) | 2:53 | 2024-01-24 | 2024-01-29 |
 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 | 2024-04-02 | 2024-07-27 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-05-14 | 2024-10-02 |
 | [Love Triangle](https://open.spotify.com/track/09NZJcGT23meog6z9O7R0B) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Love Triangle](https://open.spotify.com/album/5Qm1VnWx4KqoeJGrcd2eoW) | 3:27 | 2024-06-18 | 2024-10-02 |
 | [love you](https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL) | [North Sound Signal](https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn) | [love you](https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H) | 3:10 | 2024-01-31 | 2024-02-07 |
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-30 |  |
+| [MAESTRO \- Japanese ver.](https://open.spotify.com/track/05QpqXYyWHX30UrrqScDub) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN JAPAN 4TH SINGLE 「消費期限」](https://open.spotify.com/album/2g2fmJXMfNo4wdEJdgyTu6) | 3:18 | 2024-11-26 |  |
 | [MAGIC](https://open.spotify.com/track/1R96JucxVDliRrcT3Crmf2) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [MAGIC](https://open.spotify.com/album/73jVPC8AAifhcWItCxgk2X) | 2:53 | 2024-02-13 | 2024-02-21 |
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 | 2024-11-20 |
 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 | 2024-06-04 | 2024-06-13 |
@@ -213,7 +215,7 @@
 | [Play Back](https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh) | [Ren Zotto](https://open.spotify.com/artist/01vosgL49wVuUILMj9K4zX), [Doppio Dropscythe](https://open.spotify.com/artist/5WwGFvg1ymGn0um34gY1Tu) | [Play Back](https://open.spotify.com/album/5yTCOHjGcPIfhArrvcIHVH) | 3:11 | 2024-06-12 | 2024-06-19 |
 | [PLAY THAT'24 \- ALAN ver.](https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj) | 4:28 | 2024-06-04 | 2024-07-10 |
 | [Poppin’](https://open.spotify.com/track/0Li0jmcIZI1KDZ00Hfn1Xp) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [Poppin’](https://open.spotify.com/album/0HO1vTjbfohJXItDbPi8NY) | 3:11 | 2024-03-19 | 2024-04-03 |
-| [Present](https://open.spotify.com/track/1laQLfoxkzQX3qSiTgB3Eo) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy) | 3:44 | 2024-11-19 |  |
+| [Present](https://open.spotify.com/track/1laQLfoxkzQX3qSiTgB3Eo) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy) | 3:44 | 2024-11-19 | 2024-11-27 |
 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 | 2024-02-13 | 2024-03-06 |
 | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX), [Takuma the Great](https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y) | 3:29 | 2024-06-12 | 2024-07-10 |
 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 | 2023-11-28 | 2024-04-10 |
@@ -316,7 +318,7 @@
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 | 2024-09-25 |
-| [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 |  |
+| [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
 | [あっちむいてほい](https://open.spotify.com/track/0rQfEhcOvcB5NW4V4VD47q) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [あっちむいてほい](https://open.spotify.com/album/765plafXxbIYdlm7Uodkme) | 2:47 | 2024-11-05 | 2024-11-20 |
 | [それぞれ。](https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:57 | 2023-11-28 | 2023-12-13 |
@@ -353,7 +355,7 @@
 | [刺激最優先](https://open.spotify.com/track/37eg0Bti0pWhbl8TTbBZUZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/0Y5YM1A3Ft6YEmzeqiMudx) | 2:35 | 2024-11-19 |  |
 | [十五夜 \(Jyuugoya\)](https://open.spotify.com/track/5Dq55ANfgVSnIh6gzgclkx) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [十五夜 \(Jyuugoya\)](https://open.spotify.com/album/2j51X5mjnMYux5FHbSUPbR) | 3:31 | 2024-10-22 |  |
 | [君じゃなきゃだめなんだ](https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [君じゃなきゃだめなんだ](https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v) | 4:04 | 2024-06-04 | 2024-08-23 |
-| [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 | 2024-04-30 | 2024-11-13 |
+| [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 | 2024-04-30 |  |
 | [君の隣で目覚めたい](https://open.spotify.com/track/3013b05l5UUrFdBfy0f04N) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [F.O.R\-変わりゆく時代の中で、輝く君と踊りたい。](https://open.spotify.com/album/1YdLFo1kUoXsEehVBYuMFq) | 4:24 | 2024-08-22 | 2024-08-28 |
 | [四葉のクローバー](https://open.spotify.com/track/7ouTzUXzdIUv0WJwcw6mEN) | [Natural Lag](https://open.spotify.com/artist/56imRTaCuJwSxQDveltEVU) | [4 leaves](https://open.spotify.com/album/5yJXsy71UayvFZ4nZi3Ohc) | 3:35 | 2024-05-28 | 2024-06-05 |
 | [奇想天外xxxxxxアイランド](https://open.spotify.com/track/5AmjgucViRdfSEo1QdY023) | [ピスパレ](https://open.spotify.com/artist/3vViwedrVd4yjLwJZkSjAM) | [奇想天外xxxxxxアイランド](https://open.spotify.com/album/5vqd07gK7bvKfa8UDdS47N) | 3:01 | 2024-06-12 | 2024-06-19 |

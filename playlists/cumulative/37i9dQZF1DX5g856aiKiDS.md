@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-315 songs - 17 hr 42 min
+316 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Natural \- Korean Version](https://open.spotify.com/track/1mwq0SGUEV4owQf1vVP18V) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-04-12 | 2022-04-21 |
 | [Need to talk](https://open.spotify.com/track/112eRBGEwDCtNA4KiDAbkW) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Need to talk](https://open.spotify.com/album/64ZlQqiSye3Y7DhOhkk8h7) | 3:15 | 2022-12-19 | 2023-01-11 |
 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-12-09 | 2023-01-23 |
+| [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-06 |  |
 | [NO THING](https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [sunset blvd.](https://open.spotify.com/album/0n21696TLr3afBcKu4YMmZ) | 3:11 | 2022-04-21 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/0iBh2ZfirDzFDkqrvkvoiW) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/6UKL26DtG6OIrLPgQxhv77) | 3:21 | 2022-04-12 | 2022-07-28 |
 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 | 2022-07-22 | 2024-01-15 |
@@ -267,7 +268,7 @@
 | [The Space Between](https://open.spotify.com/track/0lBeCroAGkEdjwKZ3xfcLg) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [SoYou X Urban Zakapa \(Kwon Soonil & Park Yongin\) 'The Space Between'](https://open.spotify.com/album/0vNqTP8EJiXY2XU7YTnTKx) | 3:31 | 2022-04-12 | 2022-04-21 |
 | [The Sweetest Love](https://open.spotify.com/track/69Ht2mj09Y3KCTg57sCsgb) | [Ham Yonji](https://open.spotify.com/artist/0ApM8QPEnTUN5RU5Qh6W5F) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/5nvsIWsZSEfgxZDQLmbaJs) | 2:52 | 2022-04-12 | 2022-04-21 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 | 2022-08-19 |
-| [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2024-03-21 |  |
+| [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2024-03-21 | 2024-11-27 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-04 | 2022-07-09 |
 | [Time Machine](https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Time Machine](https://open.spotify.com/album/6eF7NbhQGi4LL2HIxMULBk) | 3:25 | 2022-04-21 | 2022-07-28 |
 | [time to be with you](https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Jword](https://open.spotify.com/artist/6Dp6OYo93kad6QAcXezQRq), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [time to be with you](https://open.spotify.com/album/6VsK76kmWXbgdt7KbiqEGC) | 4:03 | 2022-04-21 | 2022-07-24 |

@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1125588,
+  "num_followers": 1125640,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Rebel Time",
-        "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 241734,
-      "name": "Rebel Time",
-      "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 229057,
       "name": "Red Gold and Green",
       "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Rebel Time",
+        "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 241734,
+      "name": "Rebel Time",
+      "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Set up Shop, Vol. 4",
         "url": "https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
     },
     {
       "added_at": "2024-06-18 11:27:57",

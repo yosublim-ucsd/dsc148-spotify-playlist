@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-741 songs - 1 day 15 hr 17 min
+742 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-19 | 2023-10-04 |
 | [Under The Tree](https://open.spotify.com/track/2AUC52roPNq9PkoCcp8tUP) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/0vFMkAIBKD7Y9mlubhfria) | 2:00 | 2023-11-03 | 2024-08-31 |
 | [Under The Tree](https://open.spotify.com/track/3IYPdd7uyMcFtBHO2uefId) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/5U25anIJWmH57WGzfqs6HP) | 2:00 | 2023-11-20 | 2024-04-19 |
+| [Under The Tree](https://open.spotify.com/track/7uWtrIBRUQOQ3cpLLzwBEk) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Under The Tree](https://open.spotify.com/album/4fXm0qcZCmHLfYjfINMhWF) | 3:24 | 2024-11-26 |  |
 | [Underneath The Tree](https://open.spotify.com/track/1xfBmQkjurAYQMXEyPnDAA) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Underneath The Tree](https://open.spotify.com/album/3mIY6ZvlE41XkHusX8ypdg) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Very Merry Christmas](https://open.spotify.com/track/2ohY4mWfX09o4B8zAn5Kub) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [A Crazy Confetti Christmas](https://open.spotify.com/album/2FN4sRJ0ewbIkwzxbQvJQB) | 2:28 | 2022-11-18 | 2023-10-04 |
 | [Very Merry Christmas](https://open.spotify.com/track/4W0AMs5hHgRXC8gNgWriDc) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Very Merry Christmas](https://open.spotify.com/album/6vSn9jm97EwAL2BBfAYt4D) | 2:28 | 2022-11-18 | 2023-02-01 |

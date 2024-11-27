@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160575,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE"
       },
@@ -1626,6 +1644,24 @@
       "duration_ms": 116000,
       "name": "Electric Bell",
       "url": "https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl"
+    },
+    {
+      "album": {
+        "name": "Elise's Autumn",
+        "url": "https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU"
+      },
+      "artists": [
+        {
+          "name": "Cassian Haines",
+          "url": "https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162570,
+      "name": "Elise's Autumn",
+      "url": "https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L"
     },
     {
       "album": {
@@ -2890,6 +2926,24 @@
       "duration_ms": 99076,
       "name": "In the Makeup of the Sun - Instrumental Version",
       "url": "https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6"
+    },
+    {
+      "album": {
+        "name": "Incensus",
+        "url": "https://open.spotify.com/album/1OygAES8T7LGyfO8RW1sxU"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149903,
+      "name": "Incensus",
+      "url": "https://open.spotify.com/track/51y4pJlBEv74r3Yi6p7Hc4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sandhya Chari
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,684 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,713 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 6 | [Azhagana Kadhali](https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT) | [Vibin Kumar](https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz) | [Azhagana Kadhali](https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI) | 4:06 |
 | 7 | [Yawanaa](https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B) | [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Mad $aami](https://open.spotify.com/artist/1CD9SrWUNuXe09eFTibHMB), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp) | [Yawanaa](https://open.spotify.com/album/6WC8ogsCf0FnMYf44iqaUG) | 2:49 |
 | 8 | [Junjujukum Bojalo \- Bb Vox](https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT) | [Orjunn](https://open.spotify.com/artist/5aEyedq28oCJ3UEnBrhJUY) | [Junjujukum Bojalo \(Bb Vox\)](https://open.spotify.com/album/3ILj97p3SofQRgUDKbAw4y) | 1:15 |
-| 9 | [Alaadhi](https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd), [Varuon Thushyanthan](https://open.spotify.com/artist/7I1F56tkI5kgOgsI2VA6At), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Alaadhi](https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E) | 4:25 |
+| 9 | [Alaadhi](https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd), [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Alaadhi](https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E) | 4:25 |
 | 10 | [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 |
 | 11 | [Kannaadi Boogambam](https://open.spotify.com/track/0HnKrdG93aeemec5ctWYPJ) | [Umashankar Kannaiyan](https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Shashank](https://open.spotify.com/artist/0oabT3DBQYwKSwfche8F4b) | [Kannaadi Boogambam](https://open.spotify.com/album/5v3h2u30TxNKcuWXlkGkK3) | 3:20 |
 | 12 | [Sakhiye](https://open.spotify.com/track/4bSXdsi3xVKZk4kYFKCaE3) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W) | [Sakhiye](https://open.spotify.com/album/2HNmyGd1C9SUGyQ2FR1Emt) | 4:03 |

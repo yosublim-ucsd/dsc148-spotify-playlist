@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:45TgXXqMDdF8BkjA83OM7z">Rod Wave</a>
 
-1,091 songs - 2 day 2 hr 30 min
+1,092 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [ON THE RADAR CONCRETE CYPHER \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 5:48 | 2024-04-05 | 2024-08-10 |
 | [On The Run](https://open.spotify.com/track/2CppdFj4X1Xjk0vKFIJf5e) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE) | [On The Run](https://open.spotify.com/album/7wMPPPmUJ7nlYF9rkOUS3m) | 3:20 | 2024-02-09 | 2024-03-16 |
 | [On Ur Mind](https://open.spotify.com/track/31N2MlwzZHXjJalEEbh5LM) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [On Ur Mind](https://open.spotify.com/album/69Hs1zwAwtY141QiMd5zBB) | 4:06 | 2024-03-29 | 2024-04-27 |
-| [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2024-02-16 |  |
+| [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2024-02-16 | 2024-11-27 |
 | [One Mo Chance](https://open.spotify.com/track/1vVESbpNKntRvd8NKPamUI) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [One Mo Chance](https://open.spotify.com/album/4yTZE01s4ib6fxPe96nKlJ) | 1:50 | 2023-06-09 | 2023-07-29 |
 | [One Mo Chance](https://open.spotify.com/track/3c1wpfkGzcL260V38wtzCn) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [One Mo Chance](https://open.spotify.com/album/5vTUjOO1XQLmgP5AwVZpym) | 1:50 | 2023-02-17 | 2023-06-13 |
 | [ONE THING](https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:52 | 2023-10-31 | 2024-01-27 |
@@ -806,6 +806,7 @@
 | [RIDIN 4 U](https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 3:50 | 2024-04-05 | 2024-04-13 |
 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 | 2023-09-01 | 2023-12-16 |
 | [RISKY](https://open.spotify.com/track/6lRPCX37cioYwZItkUpAtl) | [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4) | [RISKY](https://open.spotify.com/album/09iik9pLTXIQPV7bBnFvut) | 2:39 | 2023-01-06 | 2023-07-08 |
+| [Rock](https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Rock](https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq) | 2:24 | 2024-11-26 |  |
 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 | 2024-05-03 | 2024-05-11 |
 | [Rockabi](https://open.spotify.com/track/1EfSgLmaVLirrKf6mL2EYf) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Something Burning](https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA) | 3:03 | 2024-04-26 | 2024-05-11 |
 | [Rockstar](https://open.spotify.com/track/3s7jQGyFMkE7SBp87KRWTP) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [Rockstar](https://open.spotify.com/album/1T3hWGSc4nnaqnF42JTA6V) | 1:56 | 2024-01-26 | 2024-02-24 |

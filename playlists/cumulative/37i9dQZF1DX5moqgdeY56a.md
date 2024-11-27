@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-149 songs - 8 hr 53 min
+150 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [El Autobús](https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [No Soy de Nadie](https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt) | 3:57 | 2024-04-09 |  |
 | [El Caballo Blanco](https://open.spotify.com/track/39Ou6DEHzZAZUa8QQT2u0N) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:00 | 2024-04-09 | 2024-10-28 |
 | [El Cantador](https://open.spotify.com/track/4EGoIDuTFm5wbZRvcZNmBS) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Corridos De Caballos \- Antonio Aguilar](https://open.spotify.com/album/5BCEuGy3UosQe1jpmbVYDV) | 3:28 | 2024-04-09 | 2024-11-21 |
+| [El Chivo](https://open.spotify.com/track/24kt3lkqJ5FNN9M3y2nSvF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Sus 25 Canciones Imprescindibles](https://open.spotify.com/album/44OkeA0iYmnPfIzvXzAhE9) | 2:30 | 2024-04-09 |  |
 | [El Chivo](https://open.spotify.com/track/1QHsh7mQuy7ykz9W9avvTR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2022-09-22 | 2022-11-13 |
 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 | 2022-09-22 | 2024-11-07 |
 | [El Comienzo del Final](https://open.spotify.com/track/3q0TpT3IiVHe2Kulf4a6qC) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:53 | 2023-10-13 | 2024-04-19 |
@@ -140,7 +141,7 @@
 | [Soy Como Quiero Ser](https://open.spotify.com/track/5fj9XNJjscbBoZUkJOKDYu) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/3rmJcsxTIFLu4AzQu3QuZK) | 2:35 | 2023-10-13 |  |
 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 | 2022-09-22 | 2022-11-13 |
 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 | 2021-12-13 | 2024-04-19 |
-| [Triste Recuerdo](https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:53 | 2024-04-09 |  |
+| [Triste Recuerdo](https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t) | 3:53 | 2024-04-09 | 2024-11-27 |
 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2021-12-13 | 2024-04-19 |
 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3) | 3:33 | 2021-12-13 |  |
 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/7JEvTL4J2RMj8QHVWKSgSS) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/6bWMB6mbApeonX5EJYl8vQ) | 3:33 | 2023-10-13 | 2024-04-19 |

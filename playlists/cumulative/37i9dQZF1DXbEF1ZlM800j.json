@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Holiday Classics",
+        "url": "https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85654,
+      "name": "Dreidel, Dreidel, Dreidel",
+      "url": "https://open.spotify.com/track/3it0KRH0znJ29RhDRwfjKP"
+    },
+    {
+      "album": {
         "name": "Let's Eat!",
         "url": "https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO"
       },

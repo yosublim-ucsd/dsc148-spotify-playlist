@@ -127,6 +127,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "YUGEN",
-        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 223018,
-      "name": "YUGEN",
-      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Vuela Lejos",
         "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 307414,
       "name": "Vuela Lejos",
       "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "YUGEN",
+        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 223018,
+      "name": "YUGEN",
+      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
       },
@@ -331,38 +347,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Le\u00f1a",
         "url": "https://open.spotify.com/album/2z4D7dU1dQsRjt4lMqLudG"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 216437,
       "name": "Le\u00f1a",
       "url": "https://open.spotify.com/track/5NPIee2163RPT0OKVDinJf"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Vamos Muchacho",
-        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
-      },
-      "artists": [
-        {
-          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
-          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
-        }
-      ],
-      "duration_ms": 105315,
-      "name": "Vamos Muchacho",
-      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Traicionarse",
         "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 193206,
       "name": "Traicionarse",
       "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Vamos Muchacho",
+        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
+      },
+      "artists": [
+        {
+          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
+          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
+        }
+      ],
+      "duration_ms": 105315,
+      "name": "Vamos Muchacho",
+      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -683,22 +683,18 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Herida (Deluxe)",
-        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
+        "name": "Quiebra el Tiempo",
+        "url": "https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN"
       },
       "artists": [
         {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
         }
       ],
-      "duration_ms": 187554,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
+      "duration_ms": 230557,
+      "name": "Quiebra el Tiempo",
+      "url": "https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Quiebra el Tiempo",
-        "url": "https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN"
+        "name": "Herida (Deluxe)",
+        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
       },
       "artists": [
         {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 230557,
-      "name": "Quiebra el Tiempo",
-      "url": "https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5"
+      "duration_ms": 187554,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -775,38 +775,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "T\u00fa me quieres m\u00e1s",
-        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "T\u00fa me quieres m\u00e1s",
-      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -827,6 +795,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "El Fin De La Inocencia",
         "url": "https://open.spotify.com/album/69URp3E0l4sYws460rD2h0"
       },
@@ -843,8 +827,8 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "CIELO",
-        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
+        "name": "Te Estaba Buscando",
+        "url": "https://open.spotify.com/album/6BR4IuR3k97de316IOT8lV"
       },
       "artists": [
         {
@@ -852,13 +836,29 @@
           "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
         }
       ],
-      "duration_ms": 203636,
-      "name": "CIELO",
-      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+      "duration_ms": 160718,
+      "name": "Te Estaba Buscando",
+      "url": "https://open.spotify.com/track/6pgoDGRH8qbSxFv1TMIVBG"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Sim\u00f3n",
-        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
-      },
-      "artists": [
-        {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
-        }
-      ],
-      "duration_ms": 298751,
-      "name": "Sim\u00f3n",
-      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Decir Amor",
         "url": "https://open.spotify.com/album/2vFPk48Kx3R91Zr3RwyGTv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 242382,
       "name": "Prometer algo",
       "url": "https://open.spotify.com/track/4MVktX0iySLlTxm3xFkOat"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Sim\u00f3n",
+        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 298751,
+      "name": "Sim\u00f3n",
+      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -951,8 +951,8 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
       "artists": [
         {
@@ -960,9 +960,29 @@
           "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 228093,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "CIELO",
+        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "CIELO",
+      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Te Estaba Buscando",
-        "url": "https://open.spotify.com/album/6BR4IuR3k97de316IOT8lV"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "Te Estaba Buscando",
-      "url": "https://open.spotify.com/track/6pgoDGRH8qbSxFv1TMIVBG"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Obsesi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9"
       },
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -1099,26 +1115,6 @@
       "duration_ms": 201123,
       "name": "Esta vislumbra",
       "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
@@ -1239,22 +1263,6 @@
       "duration_ms": 163885,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Piel de Cristal",
-        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
-      },
-      "artists": [
-        {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
-        }
-      ],
-      "duration_ms": 286976,
-      "name": "Piel de Cristal",
-      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1275,6 +1283,22 @@
       "duration_ms": 238546,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Piel de Cristal",
+        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 286976,
+      "name": "Piel de Cristal",
+      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1315,30 +1339,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "Sergio Escribano",
-          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
-        },
-        {
-          "name": "Escaparate de Poes\u00eda",
-          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
-        }
-      ],
-      "duration_ms": 221610,
-      "name": "ELLA (CAE LA NOCHE)",
-      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Aves de papel",
         "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 289814,
       "name": "En Medio De Una Fiesta - En Vivo en Teatro Coliseo, 18 Nov 2023",
       "url": "https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 225932,
+      "name": "cuando pienses en el destino",
+      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1415,22 +1431,6 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "qui\u00e9n llama a esta hora",
-        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 225932,
-      "name": "cuando pienses en el destino",
-      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "IKARO",
-        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
-      },
-      "artists": [
-        {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
-        }
-      ],
-      "duration_ms": 363750,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "es caprichoso el azar",
         "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 177309,
       "name": "es caprichoso el azar",
       "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "IKARO",
+        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+      },
+      "artists": [
+        {
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+        }
+      ],
+      "duration_ms": 363750,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
     },
     {
       "added_at": "2024-10-14 19:19:40",

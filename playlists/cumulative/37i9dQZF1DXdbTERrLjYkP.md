@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Maeve Zamuner
 
-768 songs - 1 day 16 hr 57 min
+769 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-11-25 | 2023-06-13 |
 | [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 | 2024-05-31 | 2024-11-16 |
 | [Don’t Look At Me](https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Don’t Look At Me](https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY) | 2:28 | 2024-04-26 | 2024-09-21 |
+| [double down](https://open.spotify.com/track/3hYrteACGpEyPWATKY6mD2) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [every song is about you](https://open.spotify.com/album/2E6iLOGtf032ItSL9vnZVM) | 2:47 | 2024-11-26 |  |
 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 | 2023-10-01 |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-01-14 | 2022-03-12 |
 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 | 2024-04-26 | 2024-08-03 |
@@ -315,7 +316,7 @@
 | [How Do I Love Again](https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:28 | 2023-06-12 | 2023-11-18 |
 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 | 2022-08-05 | 2022-12-24 |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 | 2024-03-16 |
-| [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-06-14 |  |
+| [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-06-14 | 2024-11-27 |
 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2024-04-27 |
 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-03-11 |
 | [how to not love you](https://open.spotify.com/track/1S04uGKqIG10eTAnSXH9QG) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [how to not love you](https://open.spotify.com/album/5v8AwJwRZnwRZDsHwqP4Dz) | 3:08 | 2024-03-08 | 2024-08-17 |

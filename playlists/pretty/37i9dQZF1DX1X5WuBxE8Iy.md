@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 
 > Las mejores canciones de Princesas de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,242 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,396 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 |
+| 1 | [Al final \(Versión de créditos\)](https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Moana 2 \(Banda Sonora Original\)](https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM) | 3:16 |
 | 2 | [Veo en ti la luz](https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:37 |
 | 3 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 |
 | 4 | [Cuán lejos voy](https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS) | [Sara Paula Gómez Arias](https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:44 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 | 54 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 |
 | 55 | [Hasta vencer](https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Raya y el Último Dragón \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B) | 3:44 |
 
-Snapshot ID: `Zyw7QAAAAABBWaIeMlwIb0SYRvex7UGZ`
+Snapshot ID: `Z0Uz2AAAAADUdXeBUSN6qZcltp0TO/UE`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0qg6KzBLO7rL48c0QfNpLZ.md) - cumulative - [plain](/playlists/plain/0qg6KzBLO7rL48c0QfNpLZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0qg6KzBLO7rL48c0QfNpLZ)
 
-### [Background Chill Music 2024 🌃](https://open.spotify.com/playlist/0qg6KzBLO7rL48c0QfNpLZ)
+### [Background Chill Music 🌃 Winter Chill ❄️](https://open.spotify.com/playlist/0qg6KzBLO7rL48c0QfNpLZ)
 
-> The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
+> The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
 798 songs - 1 day 11 hr 32 min
 

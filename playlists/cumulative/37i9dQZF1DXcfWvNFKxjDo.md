@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Martin Garrix, Jex
 
-2,628 songs - 5 day 2 hr 40 min
+2,629 songs - 5 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Eres Tu \(Better Off Alone\)](https://open.spotify.com/track/2DOOkBaj5EzkzJW6qz7Oiy) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Eres Tu \(Better Off Alone\)](https://open.spotify.com/album/5aGNaadZ5hGIDKs65Bbp61) | 2:26 | 2024-11-21 |  |
 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 | 2024-01-12 | 2024-03-08 |
 | [Erwischt](https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Erwischt](https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m) | 2:01 | 2024-04-18 | 2024-05-17 |
+| [Es ist soweit](https://open.spotify.com/track/2brsqttnMxk2euOQ5NGweG) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Es ist soweit](https://open.spotify.com/album/6f1dlhE2P99v2GH1wG9SzA) | 2:21 | 2024-11-26 |  |
 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 | 2024-08-01 | 2024-08-16 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-08 | 2023-12-30 |
 | [Eternity Tonight](https://open.spotify.com/track/6Xp5XCkC3gflTlgwkjEEdN) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Eternity Tonight](https://open.spotify.com/album/2oJo9sxoWETcd6Lrr3QSqA) | 3:05 | 2024-05-23 | 2024-06-01 |
@@ -1483,7 +1484,7 @@
 | [Mirror On The Wall](https://open.spotify.com/track/3HLnLQ7PyUrsGzKukpC25L) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Mirror On The Wall](https://open.spotify.com/album/554DtrbEIjxvwOk1GDBP5N) | 3:15 | 2024-10-17 | 2024-10-25 |
 | [Miss Me Like](https://open.spotify.com/track/5c7PnccuRgqXO1bdfI4hJI) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Miss Me Like](https://open.spotify.com/album/7bLGdTahSdiTWLlsRMCsvx) | 2:06 | 2024-10-24 | 2024-11-08 |
 | [Missing](https://open.spotify.com/track/70aSLeUZdk85z5zq0TInw5) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB) | [Missing](https://open.spotify.com/album/5EZ4WxReoZkg6SdVeAVtMr) | 2:55 | 2024-05-23 | 2024-06-07 |
-| [Missing You \(Lucas Estrada Remix\) \- Extended Version](https://open.spotify.com/track/0HWUGPo43GYSxvvwf7c8zo) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Missing You \(Lucas Estrada Remix\)](https://open.spotify.com/album/4Ar3X27qb686FxfMvtoRis) | 2:10 | 2024-11-21 |  |
+| [Missing You \(Lucas Estrada Remix\) \- Extended Version](https://open.spotify.com/track/0HWUGPo43GYSxvvwf7c8zo) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Missing You \(Lucas Estrada Remix\)](https://open.spotify.com/album/4Ar3X27qb686FxfMvtoRis) | 3:41 | 2024-11-21 |  |
 | [mitternacht](https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [mitternacht](https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H) | 2:26 | 2024-11-14 | 2024-11-22 |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-02 | 2024-06-14 |
 | [Modern Tragedy](https://open.spotify.com/track/2Jzlk2D053PRFg8pMYAhyV) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Modern Tragedy](https://open.spotify.com/album/7B4aT17IgD8dMcyEQWxQqk) | 2:59 | 2024-09-12 | 2024-09-20 |

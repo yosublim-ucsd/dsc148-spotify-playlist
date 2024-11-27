@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with Egzod",
-  "num_followers": 472148,
+  "num_followers": 472116,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "On Forever",
-        "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Saint Raymond",
-          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
-        }
-      ],
-      "duration_ms": 209556,
-      "name": "On Forever",
-      "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
       },
@@ -1531,46 +1507,6 @@
       "duration_ms": 176000,
       "name": "Chains",
       "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/46FzxdBWcLjsIwz4uNfFat"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/1nZhZTjI2G6nL8RpxUDg0n"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Stay - Afinity Remix",
-      "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1599,6 +1535,70 @@
       "duration_ms": 202800,
       "name": "In The End - Jason Ross Remix",
       "url": "https://open.spotify.com/track/1ZesNF35qbIKHh1bcJzMA6"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Stay - Afinity Remix",
+      "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/46FzxdBWcLjsIwz4uNfFat"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/1nZhZTjI2G6nL8RpxUDg0n"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "On Forever",
+        "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Saint Raymond",
+          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
+        }
+      ],
+      "duration_ms": 209556,
+      "name": "On Forever",
+      "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN"
-      },
-      "artists": [
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        },
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 213599,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Heavy Heart",
         "url": "https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 205333,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 213599,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+        "name": "LIGHTYEARS",
+        "url": "https://open.spotify.com/album/1JXKwWTfKjHjHwuRBkgKc1"
       },
       "artists": [
         {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
         }
       ],
-      "duration_ms": 238628,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
+      "duration_ms": 193793,
+      "name": "LIGHTYEARS",
+      "url": "https://open.spotify.com/track/3wzp52fj2SMFdxGR9jNN2M"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1835,18 +1831,22 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "LIGHTYEARS",
-        "url": "https://open.spotify.com/album/1JXKwWTfKjHjHwuRBkgKc1"
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
       },
       "artists": [
         {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
         }
       ],
-      "duration_ms": 193793,
-      "name": "LIGHTYEARS",
-      "url": "https://open.spotify.com/track/3wzp52fj2SMFdxGR9jNN2M"
+      "duration_ms": 238628,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 240000,
       "name": "Silence",
       "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Crashing Hard",
-        "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Crashing Hard",
-      "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 241714,
       "name": "Someone To Forget",
       "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Crashing Hard",
+        "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Crashing Hard",
+      "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Watch The Stars / Leave The Light On",
-        "url": "https://open.spotify.com/album/5ZgcVUIcyq9cugO2rpsr8R"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Watch The Stars",
-      "url": "https://open.spotify.com/track/1vtQA0F8mw9xCYfFJH842W"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Memory Of You",
         "url": "https://open.spotify.com/album/54iBFIo0ss0xG3apncweln"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 225000,
       "name": "Memory Of You",
       "url": "https://open.spotify.com/track/5yKmlKc4W8BH8JD0Hsx0EP"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Watch The Stars / Leave The Light On",
+        "url": "https://open.spotify.com/album/5ZgcVUIcyq9cugO2rpsr8R"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Watch The Stars",
+      "url": "https://open.spotify.com/track/1vtQA0F8mw9xCYfFJH842W"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Where We Begin EP",
-        "url": "https://open.spotify.com/album/5gVLOOdehYVlQZrRXbIf5G"
-      },
-      "artists": [
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/1eO9MlZBzOvH4FEWKrPUNd"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Let Me Out",
         "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 216000,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Where We Begin EP",
+        "url": "https://open.spotify.com/album/5gVLOOdehYVlQZrRXbIf5G"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/1eO9MlZBzOvH4FEWKrPUNd"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2895,6 +2895,22 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/0zTcs77JHwvvAUOCuZBBAC"
+      },
+      "artists": [
+        {
+          "name": "Salvo",
+          "url": "https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/7oHf1iLw7AAbXYB50n6Q7M"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Ashes (feat. Rory Hope)",
         "url": "https://open.spotify.com/album/666Rc8xfIRdhHk4eeQQc6X"
       },
@@ -2915,42 +2931,18 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/0zTcs77JHwvvAUOCuZBBAC"
+        "name": "Crowded Room",
+        "url": "https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc"
       },
       "artists": [
         {
-          "name": "Salvo",
-          "url": "https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b"
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/7oHf1iLw7AAbXYB50n6Q7M"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Lie Awake",
-        "url": "https://open.spotify.com/album/7o9yymac690fmOnuXhqglk"
-      },
-      "artists": [
-        {
-          "name": "SadBois",
-          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
-        },
-        {
-          "name": "Xyan",
-          "url": "https://open.spotify.com/artist/4EDCf6apSbfCPkoDqGyVOy"
-        },
-        {
-          "name": "Donna Tella",
-          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Lie Awake",
-      "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
+      "duration_ms": 192307,
+      "name": "Crowded Room",
+      "url": "https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2995,18 +2987,26 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Crowded Room",
-        "url": "https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc"
+        "name": "Lie Awake",
+        "url": "https://open.spotify.com/album/7o9yymac690fmOnuXhqglk"
       },
       "artists": [
         {
-          "name": "Josh Rubin",
-          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "Xyan",
+          "url": "https://open.spotify.com/artist/4EDCf6apSbfCPkoDqGyVOy"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
         }
       ],
-      "duration_ms": 192307,
-      "name": "Crowded Room",
-      "url": "https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho"
+      "duration_ms": 174545,
+      "name": "Lie Awake",
+      "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -3051,6 +3051,42 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/1PAUNTA94Ih7eyzvV9FrNb"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 255019,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/4O3QY53xKadk9EJXUhSOsh"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Give Out",
+        "url": "https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Give Out",
+      "url": "https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl"
       },
@@ -3067,42 +3103,6 @@
       "duration_ms": 217931,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Don't Love You",
-        "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
-      },
-      "artists": [
-        {
-          "name": "Cloudy Parallels",
-          "url": "https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 228808,
-      "name": "Don't Love You",
-      "url": "https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/1PAUNTA94Ih7eyzvV9FrNb"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 255019,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/4O3QY53xKadk9EJXUhSOsh"
     }
   ],
   "unique_name": "Bass Lounge",

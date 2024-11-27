@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,472 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,474 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -666,7 +666,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 656 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 657 | [Kids Return](https://open.spotify.com/track/6yX2B55K9xAgP8jkORvvNe) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Kids Return](https://open.spotify.com/album/6X6w4xXMmJCxOhRZgE8pnL) | 5:18 |
 | 658 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 659 | [Gore\-Tex シティ](https://open.spotify.com/track/4FxJFNElGeTgbtVBKMmujx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Nordic Flora Series Pt.3: Gore\-Tex City](https://open.spotify.com/album/00UvStqOg1swz8GSFgh4oQ) | 6:27 |
+| 659 | [Gore\-Tex シティ](https://open.spotify.com/track/4FxJFNElGeTgbtVBKMmujx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Nordic Flora Series Pt.3: Gore\-Tex City](https://open.spotify.com/album/00UvStqOg1swz8GSFgh4oQ) | 6:27 |
 | 660 | [Citgo](https://open.spotify.com/track/6rzOjBdVrmeBTnQQdyPuL7) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 3:13 |
 | 661 | [Mayday](https://open.spotify.com/track/40sFep2wZeBGSU2r4eSxBG) | [Mike Slott](https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo) | [Mayday](https://open.spotify.com/album/3d1xU84JxsO4M72Eh4H4bd) | 4:59 |
 | 662 | [December 24](https://open.spotify.com/track/0LppLsxXXDBTqihx84BJGo) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 1:46 |

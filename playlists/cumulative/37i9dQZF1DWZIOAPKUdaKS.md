@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-787 songs - 1 day 10 hr 6 min
+788 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Before You Go](https://open.spotify.com/track/10DoO2uACXfXrRvlqSTHTW) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Before You Go](https://open.spotify.com/album/721aCDC1xBZMqHhNR8Ore6) | 2:31 | 2023-11-20 |  |
 | [Belleville](https://open.spotify.com/track/2QJXHDyxs9uqGvdcsR5g2h) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Belleville](https://open.spotify.com/album/3BDMka3g88n2O8S0UZAdPQ) | 2:22 | 2023-11-07 |  |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2024-05-23 |
+| [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 | 2024-11-26 |  |
 | [Between Us](https://open.spotify.com/track/7aN5c4Faf6EI3u5gLojcRC) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [Between Us](https://open.spotify.com/album/0twGaRx2Ws80SYmuuCyBgw) | 2:07 | 2022-08-26 |  |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2021-12-07 | 2023-10-05 |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-07 | 2022-10-25 |

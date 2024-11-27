@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Lazza
 
-130 songs - 6 hr 39 min
+131 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-08-01 | 2024-08-23 |
 | [ADDO STAJE \- Ride it RMX](https://open.spotify.com/track/6UKPNShrYDQE32SBkrjfTj) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [ADDO STAJE \(Ride it RMX\)](https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ) | 2:41 | 2024-07-01 | 2024-09-24 |
 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 | 2024-09-23 |  |
-| [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-07-01 |  |
+| [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-07-01 | 2024-11-27 |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-07-01 | 2024-10-25 |
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-13 |  |
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-09-19 |  |
@@ -59,6 +59,7 @@
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-07-01 | 2024-11-08 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-11 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-18 |
+| [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 | 2024-11-26 |  |
 | [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 | 2024-08-02 |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-07-18 | 2024-08-02 |
 | [LINGERIE](https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [LINGERIE](https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0) | 2:23 | 2024-09-12 | 2024-11-08 |

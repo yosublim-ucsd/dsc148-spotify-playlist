@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-68 songs - 4 hr 18 min
+69 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Every 27 Years](https://open.spotify.com/track/2oZBR0rdkFfgkyQ4lVShfd) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 2:36 | 2024-03-26 |  |
 | [Freddy's Coming for You](https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street: Original Motion Picture Score](https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm) | 4:28 | 2021-12-15 |  |
 | [Freddy's Coming For You](https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street \(Original Motion Picture Score\)](https://open.spotify.com/album/2zlfecPiJHlK9pBWOQNQVf) | 4:28 | 2021-12-15 | 2024-04-19 |
+| [Grünewald](https://open.spotify.com/track/3fNqTSlT3TqSdZOdP4ARkO) | [Robin Carolan](https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn) | [Nosferatu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x) | 1:03 | 2024-11-26 |  |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2021-12-15 |  |
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2024-03-26 |  |
 | [Hellraiser](https://open.spotify.com/track/1Vya0Wd5w4HGeEvCipqg74) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Hellraiser 30th Anniversary Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kStQ1fN11Yv9tajnZ2vN1) | 1:42 | 2024-03-26 |  |

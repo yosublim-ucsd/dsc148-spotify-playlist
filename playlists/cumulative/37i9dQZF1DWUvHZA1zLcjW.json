@@ -571,6 +571,28 @@
     },
     {
       "album": {
+        "name": "Khachaturian: Adagio of Spartacus and Phrygia (Transcr. E. Khachaturian for Solo Piano) [Excerpt]",
+        "url": "https://open.spotify.com/album/1Zlga8aRnOCFzmtvUuYeff"
+      },
+      "artists": [
+        {
+          "name": "Aram Khachaturian",
+          "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107973,
+      "name": "Adagio of Spartacus and Phrygia (Transcr. E. Khachaturian for Solo Piano) - Excerpt",
+      "url": "https://open.spotify.com/track/49cQcHJqOsyBRSwxLTWoP5"
+    },
+    {
+      "album": {
         "name": "Adagio Variation (From Adagio in G Minor, Arr. for Violin and Piano by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/0Nh2QA6p4cGydD4VTSZuQa"
       },
@@ -768,6 +790,32 @@
       "duration_ms": 308440,
       "name": "Bach - 3 chorales, P. 167: No. 3. Andante (after J.S. Bach's Wachet auf ruft uns die Stimme, BWV 645)",
       "url": "https://open.spotify.com/track/3xt4M4CIIyXs4qDrDPVVAQ"
+    },
+    {
+      "album": {
+        "name": "Bach, JS: Cello Suite No. 6, BWV 1012: IV. Sarabande",
+        "url": "https://open.spotify.com/album/52Pxea64tzSFSBED3l02zM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Abel Selaocoe",
+          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Bach, JS: Cello Suite No. 6 in D Major, BWV 1012: IV. Sarabande (Arr. Thomas for Cello & String Orchestra)",
+      "url": "https://open.spotify.com/track/35Nkur803O8nkEH5EK3xzk"
     },
     {
       "album": {

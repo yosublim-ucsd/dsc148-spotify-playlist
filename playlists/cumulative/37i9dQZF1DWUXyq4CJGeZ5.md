@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-492 songs - 21 hr 26 min
+494 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2023-03-10 | 2024-03-26 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2023-03-10 | 2024-04-04 |
 | [Walk](https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Walk](https://open.spotify.com/album/1BzQsplrvOkk3BicUV17AS) | 2:41 | 2023-03-10 |  |
+| [Walking in Heather](https://open.spotify.com/track/4pI5rX7Bm7xSoWsTpmhGQj) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Walking in Heather](https://open.spotify.com/album/6aFRiK3N6EOQeseoQDJmff) | 2:36 | 2024-11-26 |  |
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2023-03-10 | 2024-10-08 |
 | [Waltz Of The Swallow](https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 2:53 | 2023-03-10 | 2024-03-26 |
 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-16 |  |
@@ -482,6 +483,7 @@
 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 | 2023-03-10 |  |
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2023-03-10 | 2024-03-26 |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2023-03-10 |  |
+| [Wind Song](https://open.spotify.com/track/48i1p3R9l9f7zjcHPJysZZ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:18 | 2024-11-26 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2023-03-10 |  |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2023-03-10 | 2024-04-10 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2023-03-10 |  |

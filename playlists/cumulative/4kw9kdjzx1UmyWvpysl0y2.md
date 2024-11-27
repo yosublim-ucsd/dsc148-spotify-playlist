@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-868 songs - 2 day 1 hr 26 min
+869 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [KRUSH TO KILL](https://open.spotify.com/track/2i7AEOTjDNil7h3WD3e6ss) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH TO KILL](https://open.spotify.com/album/0vmoYVO4xC6kIqLanSE1SK) | 2:15 | 2024-09-04 |  |
 | [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 | 2023-12-14 |
 | [Land of the Living](https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Land of the Living](https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e) | 2:40 | 2023-08-22 | 2023-12-14 |
+| [Landslide](https://open.spotify.com/track/5oGYQBgAZHvdAaWTw59eWb) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Landslide](https://open.spotify.com/album/2FlGX8esQqep3E7GSVsdwK) | 2:59 | 2024-11-26 |  |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
 | [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 | 2024-03-28 |
 | [Last Time](https://open.spotify.com/track/527oJMrzPR6PhTWNPclNah) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Divergence](https://open.spotify.com/album/2wl5XUluXxVwhBhfZEOwVL) | 3:36 | 2024-09-19 |  |

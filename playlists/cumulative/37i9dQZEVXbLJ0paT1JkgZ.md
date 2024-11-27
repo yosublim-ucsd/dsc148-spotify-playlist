@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-231 songs - 12 hr 4 min
+232 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2024-09-20 | 2024-09-28 |
 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 | 2024-11-22 |  |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2024-01-26 | 2024-11-23 |
-| [Amigos Y Enemigos Almighty](https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE) | [Membrillito](https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9) | [Amigos Y Enemigos Almighty](https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC) | 2:30 | 2024-11-22 |  |
+| [Amigos y Enemigos \- Remix](https://open.spotify.com/track/7Mdo6vP2bWi0qjdtb3NEaG) | [NandoVVS](https://open.spotify.com/artist/29JuRccQBvsVrjaBogRtrc) | [Amigos y Enemigos \(Remix\)](https://open.spotify.com/album/4ZeG3pfVUl3XujUuwUMhu8) | 2:30 | 2024-11-22 |  |
+| [Amigos Y Enemigos Almighty](https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE) | [Membrillito](https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9) | [Amigos Y Enemigos Almighty](https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC) | 2:30 | 2024-11-22 | 2024-11-27 |
 | [ANDAMOS READY](https://open.spotify.com/track/0zjbdxsST2dPmVTWDutQMI) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:38 | 2024-06-07 | 2024-06-29 |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2024-01-26 | 2024-06-15 |
 | [Angeles](https://open.spotify.com/track/3HesEYaw8nJorCAWl4SEaQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 3:46 | 2024-03-08 | 2024-03-16 |

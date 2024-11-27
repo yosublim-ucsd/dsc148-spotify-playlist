@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Zoe Ko
 
-822 songs - 1 day 13 hr 52 min
+823 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 | 2024-06-08 |
 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 | 2022-03-18 | 2022-12-24 |
 | [Whiplash](https://open.spotify.com/track/5248fOomOpuVprkPh5ox0t) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Whiplash](https://open.spotify.com/album/1JhHlaYqFuPzQqLwpWg42J) | 3:07 | 2021-11-19 | 2022-03-18 |
+| [Whistleblower](https://open.spotify.com/track/6zP2dszeLZp3qEGKhN3lcn) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Whistleblower](https://open.spotify.com/album/4ADaekmlb5h52pLsYbzYLF) | 2:42 | 2024-11-26 |  |
 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 | 2023-12-01 | 2024-04-27 |
 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-16 | 2024-05-25 |
 | [WHO MADE YOU GOD?](https://open.spotify.com/track/1nV6Qser13CumN9rCB1t2l) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/25m4iN0Zy9rn0SAOxrRi8m) | 3:27 | 2022-09-23 | 2023-01-14 |

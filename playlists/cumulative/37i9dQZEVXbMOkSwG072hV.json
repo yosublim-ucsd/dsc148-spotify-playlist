@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 192026,
       "name": "Acenda o farol",
       "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Acenda O farol",
       "url": "https://open.spotify.com/track/7rGE3jLrDL4xAw0yqFE6sS"
@@ -7154,7 +7154,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 255111,
       "name": "Bem longe de magnata",
       "url": "https://open.spotify.com/track/4ibLO3y87jVAGjOz2WCyKW"
@@ -10332,6 +10332,24 @@
       "duration_ms": 170761,
       "name": "Candy Paint",
       "url": "https://open.spotify.com/track/3vgFnL1k9NC9oZYdooQoHE"
+    },
+    {
+      "album": {
+        "name": "Check-In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183249,
+      "name": "Cantada Boba - Ao Vivo",
+      "url": "https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l"
     },
     {
       "album": {
@@ -15900,7 +15918,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -16472,6 +16490,28 @@
       "duration_ms": 120950,
       "name": "Do Jeito Que Voc\u00ea Mete",
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
+    },
+    {
+      "album": {
+        "name": "Do Job",
+        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Do Job",
+      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
     },
     {
       "album": {
@@ -22700,7 +22740,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 143769,
       "name": "Folga No Trampo",
       "url": "https://open.spotify.com/track/1uGVaYQNjMPmVO0gAtzHnZ"
@@ -24851,6 +24891,36 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2o5bktFpbunEjytnfqryWc"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
@@ -24870,6 +24940,32 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Hellfire - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
     },
     {
       "album": {
@@ -25358,7 +25454,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 133384,
       "name": "HOJE \u00c9 PUTARIA COM AS PIRANHA",
       "url": "https://open.spotify.com/track/5brxv9kPjB0EtZaglOSsvJ"
@@ -25778,6 +25874,32 @@
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161039,
+      "name": "I Can't Hear It Now - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
     },
     {
       "album": {
@@ -32775,6 +32897,32 @@
     },
     {
       "album": {
+        "name": "Medley de Igarat\u00e1 3",
+        "url": "https://open.spotify.com/album/6l0tPCspEGygy7QdvJaGjz"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265750,
+      "name": "Medley de Igarat\u00e1 3",
+      "url": "https://open.spotify.com/track/4FbYt9D0katV4nXZaC01Yt"
+    },
+    {
+      "album": {
         "name": "MEDLEY EM CIMA DA LAJE N\u00d3S MONITORA",
         "url": "https://open.spotify.com/album/7tGo3g5FG9NRtcDwiUyKtU"
       },
@@ -36860,7 +37008,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
@@ -40483,6 +40631,24 @@
     },
     {
       "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "album": {
         "name": "O S\u00e9timo",
         "url": "https://open.spotify.com/album/49RLL3qVVoGqDq3xp80fcB"
       },
@@ -41762,7 +41928,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 155040,
       "name": "Os boy ta querendo ser nois",
       "url": "https://open.spotify.com/track/1VQ7eoUCM2i31J1Az27Oe2"
@@ -42064,7 +42230,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
@@ -46120,7 +46286,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -47714,6 +47880,40 @@
       "duration_ms": 222576,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/3yWF3DqFBNLvf7s4C7mKUm"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
     },
     {
       "album": {
@@ -52900,7 +53100,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
@@ -53322,6 +53522,32 @@
       "duration_ms": 134068,
       "name": "Succubus Imortal",
       "url": "https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Sucker - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
     },
     {
       "album": {
@@ -56314,6 +56540,32 @@
       "duration_ms": 80833,
       "name": "Tive um Sonho",
       "url": "https://open.spotify.com/track/31U9Q6IJn4eQPcKV3qPj7D"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "To Ashes and Blood - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
     },
     {
       "album": {
@@ -62497,6 +62749,32 @@
     },
     {
       "album": {
+        "name": "Zn Fod\u00e1stica 2",
+        "url": "https://open.spotify.com/album/2HDv6CrPrkcEtEscuYgssB"
+      },
+      "artists": [
+        {
+          "name": "Oliveira Mc 011",
+          "url": "https://open.spotify.com/artist/2Bwky5n29JddtpJoEERWW7"
+        },
+        {
+          "name": "DJ 7W",
+          "url": "https://open.spotify.com/artist/0QZT2LgE3GBsRU9VTysH30"
+        },
+        {
+          "name": "DJ MENOR NK",
+          "url": "https://open.spotify.com/artist/3sTyjcH1Ionvccgj3kfBd5"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117192,
+      "name": "Zn Fod\u00e1stica 2",
+      "url": "https://open.spotify.com/track/4ftmzFb6Rq6fBODm9qUnFE"
+    },
+    {
+      "album": {
         "name": "Zn Milion\u00e1ria",
         "url": "https://open.spotify.com/album/2t0CqUz4xLpT4tNUtLm0YC"
       },
@@ -62790,7 +63068,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 178267,
       "name": "\u00c9 Louca A Volta Que O Mundo Da - Ao Vivo",
       "url": "https://open.spotify.com/track/5Aqs7eIlwufiJGmuaPgUfM"

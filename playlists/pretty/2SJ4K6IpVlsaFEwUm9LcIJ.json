@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22163,
+  "num_followers": 22159,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALclKMeaESPCn6KmqYqJfrNaiwkkt9",
+  "snapshot_id": "AAALdq6U2chFu0nmvFGVRY6RF1PwSL/k",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal"
     },
     {
+      "added_at": "2024-11-26 04:01:51",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "choke enough",
+      "url": "https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541"
+    },
+    {
       "added_at": "2024-11-25 01:33:30",
       "album": {
         "name": "The Slow-Motion World Of Snowpony",
@@ -547,6 +563,38 @@
       "duration_ms": 399266,
       "name": "All the Same",
       "url": "https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc"
+    },
+    {
+      "added_at": "2024-11-26 02:24:14",
+      "album": {
+        "name": "Star 2008",
+        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Just The Way You Are - 2008 Pop Rework",
+      "url": "https://open.spotify.com/track/5IzHTnkLdS2MgUnupYqeK3"
+    },
+    {
+      "added_at": "2024-11-26 04:05:06",
+      "album": {
+        "name": "Pale Moon Pale Horse",
+        "url": "https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 155247,
+      "name": "pale horse",
+      "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
     }
   ],
   "unique_name": "thoughts never said aloud",

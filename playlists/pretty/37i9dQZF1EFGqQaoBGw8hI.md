@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,464 likes - 586 songs - 1 day 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,465 likes - 586 songs - 1 day 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -316,8 +316,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 306 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 |
 | 307 | [The Captain and The Kid](https://open.spotify.com/track/1dUO9PDSYxb1UERmWYycPi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:01 |
 | 308 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
-| 309 | [Belfast](https://open.spotify.com/track/7tiHWkAxAOeqEkFxQ31MhA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 6:30 |
-| 310 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
+| 309 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
+| 310 | [Belfast](https://open.spotify.com/track/7tiHWkAxAOeqEkFxQ31MhA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 6:30 |
 | 311 | [Wrap Her Up](https://open.spotify.com/track/0sIiAyckK90a6KOKhIeGwM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 6:21 |
 | 312 | [Val\-Hala](https://open.spotify.com/track/7jnhwBXKy8G3vLlptKp45D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:11 |
 | 313 | [Sitting Doing Nothing \- Stereo Mix](https://open.spotify.com/track/0zp5gzdTMeDkujYnOHT1ET) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 2:33 |
@@ -433,8 +433,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 423 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 424 | [Watching The Planes Go By \- Stereo Mix](https://open.spotify.com/track/6jcE3XjranCP5TUgWhaPjG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 4:11 |
 | 425 | [Never Gonna Fall In Love Again](https://open.spotify.com/track/2jTObRM0ckTs6naKA7r7P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:08 |
-| 426 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
-| 427 | [January](https://open.spotify.com/track/3iiDK7xLc1gHFYb2GeiSHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:59 |
+| 426 | [January](https://open.spotify.com/track/3iiDK7xLc1gHFYb2GeiSHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:59 |
+| 427 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
 | 428 | [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 |
 | 429 | [I Stop And I Breathe](https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:39 |
 | 430 | [Soul Glove](https://open.spotify.com/track/38sTwkSHVBMnbijbygSmSM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:31 |
@@ -492,8 +492,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 482 | [Goodbye Marlon Brando](https://open.spotify.com/track/6yCaV30GOlv9bVF1H5yTeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:30 |
 | 483 | [I Am Your Robot \- Remastered 2003](https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:44 |
 | 484 | [Honey Roll \- From “Friends” Soundtrack](https://open.spotify.com/track/3gAZbNS5QMbRvYRFEqyLQE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:07 |
-| 485 | [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 |
-| 486 | [Poor Cow](https://open.spotify.com/track/4V40bM8dzQLOVZvuZ7DCmk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:50 |
+| 485 | [Poor Cow](https://open.spotify.com/track/4V40bM8dzQLOVZvuZ7DCmk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:50 |
+| 486 | [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 |
 | 487 | [My Kind Of Hell](https://open.spotify.com/track/7txyNNzFLKZc4KcisCMVSu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 3:15 |
 | 488 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
 | 489 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
@@ -538,10 +538,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 528 | [Tortured](https://open.spotify.com/track/7dZZCEhlZotH74rNfdl9pH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:44 |
 | 529 | [Just An Ordinary Man \- Piano Demo](https://open.spotify.com/track/1pN0ABe43VkVbJF4taGWDm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:01 |
 | 530 | [Take Me Down To The Ocean](https://open.spotify.com/track/2d5e2UuUibqZJ0WXmwUkh8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:08 |
-| 531 | [Fools In Fashion](https://open.spotify.com/track/64knGUmkWtf2DkbxgFTASc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:18 |
-| 532 | [Did Anybody Sleep With Joan Of Arc](https://open.spotify.com/track/77WtobyE37HDLY80c4uXkb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:19 |
-| 533 | [I'll Stop Living When You Stop Loving Me \- Piano Demo](https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:23 |
-| 534 | [As Good As It Gets](https://open.spotify.com/track/44dCuAjqxZnx3lgYMqjEnL) | [Matt Evans](https://open.spotify.com/artist/7AuomWHj23iYxqqvm7c8us) | [As Good As It Gets](https://open.spotify.com/album/4Pec12P4fgTobswnqjEGUX) | 3:35 |
+| 531 | [As Good As It Gets](https://open.spotify.com/track/44dCuAjqxZnx3lgYMqjEnL) | [Matt Evans](https://open.spotify.com/artist/7AuomWHj23iYxqqvm7c8us) | [As Good As It Gets](https://open.spotify.com/album/4Pec12P4fgTobswnqjEGUX) | 3:35 |
+| 532 | [Fools In Fashion](https://open.spotify.com/track/64knGUmkWtf2DkbxgFTASc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:18 |
+| 533 | [Did Anybody Sleep With Joan Of Arc](https://open.spotify.com/track/77WtobyE37HDLY80c4uXkb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:19 |
+| 534 | [I'll Stop Living When You Stop Loving Me \- Piano Demo](https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:23 |
 | 535 | [A Simple Man](https://open.spotify.com/track/6by7no3mwQb3YibfpsuNfu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:52 |
 | 536 | [Highlander](https://open.spotify.com/track/2mtiU4df0bUQgpTFgakJBR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:40 |
 | 537 | [Hey Papa Legba](https://open.spotify.com/track/1InIfRmQryLtFvUcskVVCe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:17 |
@@ -595,4 +595,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 585 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 586 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `AbieygAAAAA0lloMEXd7iiQ5bqkVwzgz`
+Snapshot ID: `AbikdAAAAABG4HHhRmIEYkXxpMMtly66`

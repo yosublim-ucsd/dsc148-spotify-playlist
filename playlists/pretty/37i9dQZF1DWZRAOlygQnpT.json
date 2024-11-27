@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 95574,
+  "num_followers": 95600,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "A Trav\u00e9s De Los A\u00f1os",
+      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Se Habla Espa\u00f1ol",
         "url": "https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 186733,
       "name": "Rock De La C\u00e1rcel",
       "url": "https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "A Trav\u00e9s De Los A\u00f1os",
-      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1140,13 +1140,13 @@
       },
       "artists": [
         {
-          "name": "Reo",
-          "url": "https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1"
+          "name": "Los Ovnis",
+          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
         }
       ],
-      "duration_ms": 181826,
-      "name": "B\u00e1jate De Mi Nube",
-      "url": "https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI"
+      "duration_ms": 138746,
+      "name": "Mary Mary",
+      "url": "https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1156,13 +1156,13 @@
       },
       "artists": [
         {
-          "name": "Los Ovnis",
-          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
+          "name": "Reo",
+          "url": "https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1"
         }
       ],
-      "duration_ms": 138746,
-      "name": "Mary Mary",
-      "url": "https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR"
+      "duration_ms": 181826,
+      "name": "B\u00e1jate De Mi Nube",
+      "url": "https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI"
     },
     {
       "added_at": "2020-04-17 21:51:59",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154720,
+      "name": "'Zat You, Santa Claus?",
+      "url": "https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH"
+    },
+    {
+      "album": {
         "name": "Halloween With CoComelon",
         "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
       },
@@ -737,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Holiday Classics",
+        "url": "https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84155,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX"
+    },
+    {
+      "album": {
         "name": "Dem Bones (The Skeleton Song)",
         "url": "https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi"
       },
@@ -878,6 +914,24 @@
       "duration_ms": 210733,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV"
+    },
+    {
+      "album": {
+        "name": "It's A SpongeBob Christmas! Album",
+        "url": "https://open.spotify.com/album/441OzdFDiUUgQ273HjHzlA"
+      },
+      "artists": [
+        {
+          "name": "Spongebob Squarepants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154026,
+      "name": "Don't Be A Jerk (It's Christmas)",
+      "url": "https://open.spotify.com/track/6diKTB6VWE1JxRUvjzoTld"
     },
     {
       "album": {
@@ -1023,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/3pOKjUVSRq2zb5ofNthawz"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/60z4MLJK9cNDCmnflocfHp"
+    },
+    {
+      "album": {
         "name": "Five Little Elves",
         "url": "https://open.spotify.com/album/6gIToTkv3D6olwqg9aVAGV"
       },
@@ -1128,6 +1200,24 @@
       "duration_ms": 113934,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/0TmWpsweTtZSty7T2GUApN"
+    },
+    {
+      "album": {
+        "name": "Raffi's Christmas Album: A Collection of Christmas Songs for Children",
+        "url": "https://open.spotify.com/album/5IxSJky6odPV5q2DkIj688"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123266,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/6TiaW1NGPlUJ2GR0GgoX0p"
     },
     {
       "album": {
@@ -1973,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Planet Pop's Christmas Party",
+        "url": "https://open.spotify.com/album/5izRIZXfu5qFId9v52Ysrl"
+      },
+      "artists": [
+        {
+          "name": "Planet Pop",
+          "url": "https://open.spotify.com/artist/7yptVkFCSbyrn0yLT2loFA"
+        },
+        {
+          "name": "ELT Songs",
+          "url": "https://open.spotify.com/artist/2mP8Vg7ktmt4KASyZYj5rt"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144150,
+      "name": "Have a Very Merry Christmas!",
+      "url": "https://open.spotify.com/track/6qGtA3NfXR2AONLk0DXLLz"
+    },
+    {
+      "album": {
         "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
       },
@@ -2302,6 +2414,24 @@
       "duration_ms": 135083,
       "name": "It's Halloween",
       "url": "https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE"
+    },
+    {
+      "album": {
+        "name": "It's the Holidays!",
+        "url": "https://open.spotify.com/album/1LmaYUsLeq86ssX6fk3q5A"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kalantari & the Jazz Cats",
+          "url": "https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153440,
+      "name": "It's Snowing",
+      "url": "https://open.spotify.com/track/3K3GKqRPMWEZw9VDp6xh6e"
     },
     {
       "album": {
@@ -3108,6 +3238,24 @@
       "duration_ms": 123485,
       "name": "Peekaboo!",
       "url": "https://open.spotify.com/track/5uqJh4Zjn8QTejV3VpjVBT"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays with Peppa Pig",
+        "url": "https://open.spotify.com/album/3Vy9FyTFq1finvi8k8H13g"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203548,
+      "name": "Peppa's Sleigh Ride",
+      "url": "https://open.spotify.com/track/6d4vPBlZIaE9kLsjhNQoLH"
     },
     {
       "album": {
@@ -4969,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "The Snowman",
+        "url": "https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD"
+      },
+      "artists": [
+        {
+          "name": "Peter Auty",
+          "url": "https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs"
+    },
+    {
+      "album": {
         "name": "We Haunt These Halls",
         "url": "https://open.spotify.com/album/41ktHCJaSL8UXGFIt3CI47"
       },
@@ -5360,6 +5526,24 @@
       "duration_ms": 102000,
       "name": "Winter Games - From \"The Christmas Letter Express\"",
       "url": "https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m"
+      },
+      "artists": [
+        {
+          "name": "Mini Smiley",
+          "url": "https://open.spotify.com/artist/60IT25papFnCsrfkel54e8"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Wintertime is better with friends",
+      "url": "https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7"
     },
     {
       "album": {

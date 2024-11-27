@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Celestial Calm",
+        "url": "https://open.spotify.com/album/7N3UZpESPW8k79qXuAElOr"
+      },
+      "artists": [
+        {
+          "name": "In Stars Above",
+          "url": "https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177197,
+      "name": "Celestial Calm",
+      "url": "https://open.spotify.com/track/4V3dgx2qCB9x9b6XidnZIv"
+    },
+    {
+      "album": {
         "name": "Cuerda De Algodon",
         "url": "https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU"
       },
@@ -6834,6 +6852,24 @@
       "duration_ms": 173778,
       "name": "Let there be dusk",
       "url": "https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Awake",
+        "url": "https://open.spotify.com/album/5avgzisHdI4k7nvVK6EdOI"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Let's Stay Awake",
+      "url": "https://open.spotify.com/track/1eUhOl2Y2ATVwbupRD4Ywz"
     },
     {
       "album": {

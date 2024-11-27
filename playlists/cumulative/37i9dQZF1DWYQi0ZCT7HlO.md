@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-73 songs - 3 hr 9 min
+74 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baby It's Cold Outside \- Fireplace](https://open.spotify.com/track/1mB5ASqFUWws6HPbUKLYhz) | [Leyton Lake](https://open.spotify.com/artist/6eq5DdF14hc1mW6b1zEtHQ) | [Christmas Chillin' By The Fireplace](https://open.spotify.com/album/5POi8oLGWuxuOOHpYMW8Aa) | 3:12 | 2023-11-21 |  |
 | [Bella Notte](https://open.spotify.com/track/45qsOYssqRyznoi3RZ6vn0) | [Milan Lavrentyev](https://open.spotify.com/artist/4gyDf1JXBfwbJNn6eY22yJ) | [Bella Notte](https://open.spotify.com/album/5TxsZGy2gzxibexnENbuay) | 2:48 | 2023-11-21 |  |
 | [Christmas Time Is Here \- Cosy Cottage](https://open.spotify.com/track/7yBQwOmWh8brY1fZwcNkqM) | [Amy Soonyoung](https://open.spotify.com/artist/3PsjPJKC9SjOmEYcHRw5Rd) | [Christmas Time Is Here](https://open.spotify.com/album/3HgsNXKka2w0bxShbNt71t) | 2:48 | 2023-11-21 |  |
+| [Christmas Time Is Here \- Fireplace Lullaby Version](https://open.spotify.com/track/5n86SwBqhl4tAowONYOPda) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Upon a Christmas Moon \(Fireplace Lullaby Version\)](https://open.spotify.com/album/0NtgrsRqorpoujGIW1boVE) | 2:26 | 2024-11-26 |  |
 | [Christmas Tree Magic \(Fireplace\)](https://open.spotify.com/track/4zuF6zoWJpv7csDNbyV4y8) | [Dan Vogel](https://open.spotify.com/artist/0c1nGTIo80Ida74ciNFwd1) | [Christmas Tree Magic \(Fireplace\)](https://open.spotify.com/album/34wptdoeS32BebJ7hYEXrt) | 2:50 | 2023-11-21 |  |
 | [Come Thou Long Expected Jesus \- Fireside Christmas](https://open.spotify.com/track/4f9JMu88egVfi8KLqslVom) | [Anne Stahl](https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:49 | 2023-11-21 |  |
 | [Come, Thou Fount Of Every Blessing](https://open.spotify.com/track/76tUe1tLAyaOxC5xjX0VIG) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Fireside Joy Of Christmas](https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi) | 2:43 | 2023-11-21 |  |

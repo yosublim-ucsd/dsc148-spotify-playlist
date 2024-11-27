@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3514,
+  "num_followers": 3516,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAABO/xOLtWKfSR2uUuQANX/z",
+  "snapshot_id": "Z0O+AAAAAAB77cgMHojqQiCRp6+d67v9",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 200093,
-      "name": "New Today",
-      "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+      "duration_ms": 200093,
+      "name": "New Today",
+      "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
     },
     {
       "added_at": null,
@@ -271,30 +271,6 @@
       "duration_ms": 214656,
       "name": "Nothing Too Broken",
       "url": "https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        },
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "What Mercy Did For Me (feat. Maranda Curtis & Jason Crabb)",
-      "url": "https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8"
     },
     {
       "added_at": null,
@@ -331,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        },
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "What Mercy Did For Me (feat. Maranda Curtis & Jason Crabb)",
+      "url": "https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
@@ -343,30 +343,6 @@
       "duration_ms": 184911,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        },
-        {
-          "name": "Nickie Conley",
-          "url": "https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "My God Fights For Me (feat. Austin French & Nickie Conley)",
-      "url": "https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv"
     },
     {
       "added_at": null,
@@ -411,6 +387,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        },
+        {
+          "name": "Nickie Conley",
+          "url": "https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "My God Fights For Me (feat. Austin French & Nickie Conley)",
+      "url": "https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Last",
+      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 223883,
+      "name": "You Make Sense",
+      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kitchen Sink EP",
         "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
@@ -443,54 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 223883,
-      "name": "You Make Sense",
-      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Last",
-      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Bless the Broken Road",
         "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
       },
@@ -516,9 +500,25 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 185901,
-      "name": "Feels Like Music",
-      "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
+      "duration_ms": 229343,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Feels Like Music",
+      "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kitchen Sink EP",
         "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 374700,
       "name": "Wretch No More",
       "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 229343,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
     },
     {
       "added_at": null,

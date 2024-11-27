@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 70163,
+  "num_followers": 70169,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/7yAy2gL2rtatS56jzkakhr"
     },
     {
+      "added_at": "2024-11-25 23:19:58",
+      "album": {
+        "name": "last night's mascara (live from Short n' Sweet Tour)",
+        "url": "https://open.spotify.com/album/2RyExw05UDb33LK7uoz302"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 165130,
+      "name": "last night's mascara - live from Short n' Sweet Tour",
+      "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
+    },
+    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Leave The Door Open (Live)",
@@ -329,22 +345,6 @@
       "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     },
     {
-      "added_at": "2024-11-25 23:19:58",
-      "album": {
-        "name": "last night's mascara (live from Short n' Sweet Tour)",
-        "url": "https://open.spotify.com/album/2RyExw05UDb33LK7uoz302"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 165130,
-      "name": "last night's mascara - live from Short n' Sweet Tour",
-      "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
-    },
-    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Yours Truly (Tenth Anniversary Edition)",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "101 (Live)",
+        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
+      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "101 (Live)",
-        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
-      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Don't Start Now (Live in LA Remix)",
         "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 215786,
       "name": "You're Still The One - Live",
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "betty (Live from the 2020 Academy of Country Music Awards)",
         "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 312138,
       "name": "betty - Live from the 2020 Academy of Country Music Awards",
       "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live 2013 at The O2 Arena, London",
-        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
       "artists": [
         {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 299159,
-      "name": "When You Say Nothing At All - Live",
-      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Live 2013 at The O2 Arena, London",
+        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+      "duration_ms": 299159,
+      "name": "When You Say Nothing At All - Live",
+      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
     },
     {
       "added_at": "2024-10-18 19:54:54",

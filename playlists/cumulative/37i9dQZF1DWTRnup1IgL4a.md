@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-274 songs - 11 hr 39 min
+275 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 | 2023-08-31 |
 | [Misspent Life](https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Misspent Life](https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2) | 2:48 | 2022-12-09 |  |
 | [Misty Mountain](https://open.spotify.com/track/4P3uK33fTyCysCh6S4psZd) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Misty Mountain](https://open.spotify.com/album/13dlAe1Ubv4SvX9ZClmyXb) | 2:17 | 2022-12-09 | 2023-03-18 |
+| [Misty Shores](https://open.spotify.com/track/2hXvZx6I7rqYhq1d8HBVYq) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Misty Shores](https://open.spotify.com/album/6O2u4nRvVyn8NXFQX6zmfm) | 3:32 | 2024-11-26 |  |
 | [Moinhos de Vento](https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 2:44 | 2021-12-09 | 2024-05-24 |
 | [Moments Like This](https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:33 | 2021-12-09 | 2022-05-27 |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2022-08-19 |  |
@@ -230,7 +231,7 @@
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2024-01-12 |
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-06-02 | 2023-08-26 |
 | [Star light, Star Bright](https://open.spotify.com/track/3KNTLFza8pBNlWGrJ8UhrW) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Star light, Star Bright](https://open.spotify.com/album/6HKVpUdjXbjEA86lsiYHgG) | 1:38 | 2022-10-07 | 2023-08-26 |
-| [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 |  |
+| [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 | 2024-11-27 |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 | 2023-04-29 |
 | [Suaves voces](https://open.spotify.com/track/4cBUGJbBfC8PN8Bbv1aE8P) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Suaves voces](https://open.spotify.com/album/5UpeiNsZzH4sAkoYjwTan0) | 3:12 | 2021-12-09 |  |
 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2022-07-29 | 2022-09-09 |

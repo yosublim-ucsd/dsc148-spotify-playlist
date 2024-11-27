@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 34632,
+  "num_followers": 34675,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAAd8Z26JY1E8bNA8b8zyypz",
+  "snapshot_id": "Z0O+AAAAAADUjEiBzckGMANQ0NfR3Z9K",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushing It Down and Praying",
-        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 234076,
-      "name": "Pushing It Down and Praying",
-      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -147,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -163,22 +163,6 @@
       "duration_ms": 156798,
       "name": "hate to be lame",
       "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 238090,
-      "name": "Soccer Practice",
-      "url": "https://open.spotify.com/track/72Y8v9ZjNI8mkCvqpUiaBO"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 238090,
+      "name": "Soccer Practice",
+      "url": "https://open.spotify.com/track/72Y8v9ZjNI8mkCvqpUiaBO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 242311,
-      "name": "Force of Nature",
-      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
     },
     {
       "added_at": null,
@@ -291,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 242311,
+      "name": "Force of Nature",
+      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 92040,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 144631,
       "name": "Means Something",
       "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 218983,
-      "name": "Method Acting (Demo)",
-      "url": "https://open.spotify.com/track/0cCTtURCc4SYu9NHfbS7Ac"
     },
     {
       "added_at": null,
@@ -427,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -452,9 +420,29 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 205960,
-      "name": "Like It Tends To Do",
-      "url": "https://open.spotify.com/track/63dsEiCSDhptLAaTR7dVV7"
+      "duration_ms": 218983,
+      "name": "Method Acting (Demo)",
+      "url": "https://open.spotify.com/track/0cCTtURCc4SYu9NHfbS7Ac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Sale Sign (feat. Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "For Sale Sign (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
     },
     {
       "added_at": null,
@@ -471,6 +459,22 @@
       "duration_ms": 151653,
       "name": "Staying",
       "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
     },
     {
       "added_at": null,
@@ -507,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Sale Sign (feat. Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "For Sale Sign (feat. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "In Agreement",
-      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Over-the-Ocean Call",
         "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 244402,
       "name": "Over-the-Ocean Call",
       "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": null,
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "...What Are We?",
-      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weird Faith (Deluxe)",
         "url": "https://open.spotify.com/album/7tLh0C7KXRxfS3z38zLBIa"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 247000,
       "name": "For Months Now (III)",
       "url": "https://open.spotify.com/track/2Ux1CJbtrJoAEf5YswahfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
     },
     {
       "added_at": null,

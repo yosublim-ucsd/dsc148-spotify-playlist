@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,098 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,100 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 37 | [1/3の純情な感情](https://open.spotify.com/track/0uAGcikCSgMK56IJhUXled) | [SIAM SHADE](https://open.spotify.com/artist/0CvWmx0ZwvjimskCJvUjXb) | [SIAM SHADE XI COMPLETE BEST 〜HEART OF ROCK〜](https://open.spotify.com/album/6OSnsYvg4DOSObXGs7d5Zk) | 3:44 |
 | 38 | [DIVE TO BLUE](https://open.spotify.com/track/3zL4mVWqGoeOX3IgVyUvtO) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [Clicked Singles Best 13](https://open.spotify.com/album/7wpcdsAaKrXbpIj8Qri56P) | 5:31 |
 | 39 | [夏色](https://open.spotify.com/track/3nYe3TNoETmeXkseSdnUFz) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [ゆず一家](https://open.spotify.com/album/6M3MR4cxe19RG1vzTrDYaN) | 3:22 |
-| 40 | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
+| 40 | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
 | 41 | [Heart](https://open.spotify.com/track/66BwjZijn4Uzk1Dcvjf3tS) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [Heart](https://open.spotify.com/album/6agStkT7kFh1Hur5Ev4jnj) | 4:48 |
 | 42 | [SOUL LOVE](https://open.spotify.com/track/28uEz3ea3dyYlNf07Lf69F) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [pure soul](https://open.spotify.com/album/2jDU8njjn86wfD1G3uPrIS) | 4:27 |
 | 43 | [ニシエヒガシエ](https://open.spotify.com/track/0RmvPXNNGtY1X3oIZ6JD4p) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/3lgWNR4z50snPMpUQinTTm) | 4:57 |

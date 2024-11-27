@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,863 likes - 32 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,900 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 25 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 |
 | 26 | [Time Of No Reply](https://open.spotify.com/track/2Q8kCpA08VCLRiJY1Tonxa) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The John Peel Session](https://open.spotify.com/album/3GjUa3zM2G02BAnNpvqaw5) | 2:42 |
 | 27 | [Fly](https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R) | [Chris Adams](https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Beyond All Reasonable Doubt](https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw) | 3:19 |
-| 28 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
+| 28 | [Blossom](https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:41 |
 | 29 | [Mayfair \- Cambridge Version](https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:11 |
-| 30 | [Blossom](https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:41 |
+| 30 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
 | 31 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 |
 | 32 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
 
-Snapshot ID: `Z0JsgAAAAACSDo7Ne0ft5Y/3hk0oFPPj`
+Snapshot ID: `Z0O+AAAAAAC2+66d1jzgBPeKXi2hueAE`

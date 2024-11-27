@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,964 likes - 250 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,056 likes - 250 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 72 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 |
 | 73 | [SOMEBODY](https://open.spotify.com/track/1hcJX6IXmlQVqqhMuBwTf8) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [INTUITION](https://open.spotify.com/album/13EETR85h3AtkDlZWSOz9R) | 2:07 |
 | 74 | [B.P.E](https://open.spotify.com/track/4aqmsHWp7Amz87Z1IZFA6J) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [B.P.E](https://open.spotify.com/album/7jRX1w3mgt42IQMLCHCC48) | 3:40 |
-| 75 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 |
+| 75 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 |
 | 76 | [Loose Ends & New Friends](https://open.spotify.com/track/1n5EU5QTipNxTcMlXw8Ba7) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Loose Ends & New Friends](https://open.spotify.com/album/5Oe1lDfqZlZE6SHCbHGDCZ) | 2:34 |
 | 77 | [whatalife](https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:53 |
 | 78 | [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 |

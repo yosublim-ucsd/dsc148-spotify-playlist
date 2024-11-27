@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Pathos",
+        "url": "https://open.spotify.com/album/4DmcATr0IItDrDAbccsrvZ"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426520,
+      "name": "Pathos",
+      "url": "https://open.spotify.com/track/3xtZEGTqd4vlcVZn9XP7uI"
+    },
+    {
+      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
       },

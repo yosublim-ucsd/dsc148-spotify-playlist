@@ -4395,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "Playful Waters",
+        "url": "https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd"
+      },
+      "artists": [
+        {
+          "name": "Vic Carnes",
+          "url": "https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "Playful Waters",
+      "url": "https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM"
+    },
+    {
+      "album": {
         "name": "Plum Coulee",
         "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
       },

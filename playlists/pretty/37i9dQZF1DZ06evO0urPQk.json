@@ -1,12 +1,12 @@
 {
-  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
-  "num_followers": 27398,
-  "original_name": "This Is \u6c34\u6a39\u5948\u3005",
+  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
+  "num_followers": 27396,
+  "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAARbuMZJ6hyq0b7pXFiTca6",
+  "snapshot_id": "Z0O+AAAAAABDtVrw76tcwtFO1ryG6jnd",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 213194,
-      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
-      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn the World",
         "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
       },
@@ -339,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
       "artists": [
         {
@@ -348,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 296000,
-      "name": "\u6df1\u611b",
-      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
+      "duration_ms": 213194,
+      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u6df1\u611b",
+      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKBOUND NEIGHBORS",
-        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "Synchrogazer-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "innocent starter",
         "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 281133,
       "name": "innocent starter",
       "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROCKBOUND NEIGHBORS",
+        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "Synchrogazer-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Doughnuts",
-        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 206567,
-      "name": "Sugar Doughnuts",
-      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny's Prelude",
         "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Doughnuts",
+        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 206567,
+      "name": "Sugar Doughnuts",
+      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+      "duration_ms": 259640,
+      "name": "NEVER SURRENDER",
+      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trickster",
-        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 266080,
-      "name": "Trinity Cross",
-      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
+      "duration_ms": 257622,
+      "name": "Phase 21",
+      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
     },
     {
       "added_at": null,
@@ -780,15 +780,15 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 259640,
-      "name": "NEVER SURRENDER",
-      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+        "name": "Trickster",
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 257622,
-      "name": "Phase 21",
-      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
+      "duration_ms": 266080,
+      "name": "Trinity Cross",
+      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
     },
     {
       "added_at": null,
@@ -817,6 +817,6 @@
       "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
     }
   ],
-  "unique_name": "This Is \u6c34\u6a39\u5948\u3005",
+  "unique_name": "This Is Nana Mizuki",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk"
 }

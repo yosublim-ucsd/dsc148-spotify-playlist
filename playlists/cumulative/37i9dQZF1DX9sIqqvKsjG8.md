@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-909 songs - 1 day 14 hr 51 min
+911 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Fresh Start](https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK) | [Roger Swift](https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k) | [A Fresh Start](https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2) | 2:38 | 2024-04-03 |  |
 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 | 2021-12-07 | 2023-07-26 |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-01-31 |  |
+| [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 | 2024-11-26 |  |
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2021-12-07 | 2022-12-22 |
 | [A Moment to Ponder](https://open.spotify.com/track/6i3GB9JYHvYD2cH3EIDa3e) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [A Moment to Ponder](https://open.spotify.com/album/2mTcWwHdIJePrAkiou8HRo) | 1:54 | 2021-12-07 | 2022-05-06 |
 | [A Never Ending Cycle](https://open.spotify.com/track/135YvfJTQSpHZFPJSL5Iyc) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [A Never Ending Cycle](https://open.spotify.com/album/434VuhOw5djN69pXxMFyvI) | 3:10 | 2021-12-07 | 2022-03-02 |
@@ -155,6 +156,7 @@
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2021-12-07 | 2022-05-06 |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2021-12-07 | 2022-05-06 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2023-09-26 |
+| [Come to Peace](https://open.spotify.com/track/4hCGv1Y79lu6FaMeXIVRdP) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Come to Peace](https://open.spotify.com/album/5wL2Tir48QLh3pUpUIykjX) | 2:31 | 2024-11-26 |  |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-16 | 2024-10-23 |
 | [Common Ground](https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Common Ground](https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY) | 2:02 | 2023-01-09 | 2024-03-26 |
 | [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 233579,
+  "num_followers": 233625,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAADrRHBdNofr8GEL1oIx7g+D",
+  "snapshot_id": "Z0O+AAAAAABd5gVPTiEkeOPx4H75uaFe",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+        "name": "Trampa (Lqra Session #18)",
+        "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
       "artists": [
         {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Melodico",
+          "url": "https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg"
         }
       ],
-      "duration_ms": 221600,
-      "name": "P\u00e9talos",
-      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
+      "duration_ms": 260859,
+      "name": "Trampa (Lqra Session #18)",
+      "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
     },
     {
       "added_at": null,
@@ -435,6 +455,22 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "P\u00e9talos",
+      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
     },
     {
       "added_at": null,
@@ -499,42 +535,6 @@
       "duration_ms": 198750,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trampa (Lqra Session #18)",
-        "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Melodico",
-          "url": "https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg"
-        }
-      ],
-      "duration_ms": 260859,
-      "name": "Trampa (Lqra Session #18)",
-      "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
     },
     {
       "added_at": null,
@@ -791,6 +791,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LDCR: Los Del Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 182127,
+      "name": "Desde Que Te Bese",
+      "url": "https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 194507,
       "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
       "url": "https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LDCR: Los Del Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 182127,
-      "name": "Desde Que Te Bese",
-      "url": "https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI"
     },
     {
       "added_at": null,
@@ -1047,26 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ariande / \u201c14 Besos\u201d",
-        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Ariande / \u201c14 Besos\u201d",
-      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 280487,
       "name": "Vamos a Dar el Roll",
       "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ariande / \u201c14 Besos\u201d",
+        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Ariande / \u201c14 Besos\u201d",
+      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
     }
   ],
   "unique_name": "This Is Charles Ans",

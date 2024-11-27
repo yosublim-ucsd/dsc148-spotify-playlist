@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6leiaxNOIg.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンオールスターズのムードプレイリストシリーズ第一弾。来る夏にむけて「熱い胸さわぎ」がするサザン楽曲を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,062 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,074 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6leiaxNOIg.md) - [plain]
 | 10 | [みんなのうた](https://open.spotify.com/track/7LereEsMqMJzSNfmKZZvKE) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [みんなのうた](https://open.spotify.com/album/67kqLzZDNLjeyTWrpmO3pb) | 4:18 |
 | 11 | [チャコの海岸物語](https://open.spotify.com/track/6Vw9JLbwhgGsaJiChK8N28) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [チャコの海岸物語](https://open.spotify.com/album/2KLK0YxO36tup4ItRwyMWF) | 3:36 |
 | 12 | [海](https://open.spotify.com/track/4SoThxCMzVHGARcZcfP153) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう](https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex) | 4:12 |
-| 13 | [八月の詩\(セレナード\)](https://open.spotify.com/track/41IImnrL5vB7P0YI0sSou0) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:56 |
+| 13 | [八月の詩（セレナード）](https://open.spotify.com/track/41IImnrL5vB7P0YI0sSou0) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:56 |
 | 14 | [栞\(しおり\)のテーマ](https://open.spotify.com/track/0V5QLyzA5gMuDeWuiltg9F) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [栞\(しおり\)のテーマ](https://open.spotify.com/album/0UVRQBkemLSxV0t9G6H17A) | 4:34 |
 | 15 | [朝方ムーンライト](https://open.spotify.com/track/7hhKHxRoW7lAAQD6RDO6sx) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Big Star Blues\(ビッグスターの悲劇\)](https://open.spotify.com/album/4lQBPSYyDj1UxfU5UeUH4j) | 3:36 |
 | 16 | [壮年JUMP](https://open.spotify.com/track/2yvM6c4sAkjcd4UrJap3v8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [壮年JUMP](https://open.spotify.com/album/3ir9ZV7VTphWaac10p9RWC) | 4:30 |

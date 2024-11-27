@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,708 likes - 45 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,719 likes - 45 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 | 16 | [HAIR](https://open.spotify.com/track/7G3FkDlUAGCg4lz1QaQbLj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:54 |
 | 17 | [素顔で踊らせて](https://open.spotify.com/track/0dIrA5S10gcPI0F1hBedKk) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ステレオ太陽族](https://open.spotify.com/album/3MF1xptTSght1fcewndp7D) | 4:23 |
 | 18 | [彩\~Aja\~](https://open.spotify.com/track/2zfxDOjxIbu2EO7ZzD3nxu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [彩\~Aja\~](https://open.spotify.com/album/34E5sssVozuqWWjqQhoj3K) | 5:15 |
-| 19 | [セイシェル \~海の聖者\~](https://open.spotify.com/track/4vIhpt3MNYIFm0xfI63ieo) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:23 |
+| 19 | [セイシェル ～海の聖者～](https://open.spotify.com/track/4vIhpt3MNYIFm0xfI63ieo) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:23 |
 | 20 | [逢いたさ見たさ 病める My Mind](https://open.spotify.com/track/0pIqDIRSfOiajavlbK4B9q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 3:48 |
 | 21 | [彼氏になりたくて](https://open.spotify.com/track/5htbsZRSCPAEaTlLaV7c5x) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [葡萄](https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too) | 4:50 |
 | 22 | [恋はお熱く](https://open.spotify.com/track/64ImLMWhTsD0KxCW6IxXBY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:30 |

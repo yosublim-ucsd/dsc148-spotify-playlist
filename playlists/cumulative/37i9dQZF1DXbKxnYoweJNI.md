@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 椅子樂團  \(The Chairs\)
 
-1,127 songs - 2 day 17 hr 25 min
+1,128 songs - 2 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,6 +1113,7 @@
 | [需要被需要](https://open.spotify.com/track/3oNe40aiD739qYkepBk9jJ) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [需要被需要](https://open.spotify.com/album/566h3cT8kS2kXwhMwJFIxX) | 4:15 | 2024-09-12 | 2024-10-11 |
 | [靠近 mudalrep](https://open.spotify.com/track/7oBbqXzgRdArFhFCaWRFOg) | [桑布伊](https://open.spotify.com/artist/0Ot0iFI0JTxh3XUS3vRo8Z) | [靠近 mudalrep](https://open.spotify.com/album/67V81N2olXmm5ZMK1rjA5E) | 6:05 | 2024-10-24 |  |
 | [面面相覷](https://open.spotify.com/track/5CSZ16QzIMfn5o1foOYry1) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [面面相覷](https://open.spotify.com/album/2arlptaoqAS4Bh8ROxSkWh) | 3:57 | 2024-09-05 | 2024-09-27 |
+| [順行](https://open.spotify.com/track/5ShBJ9qAbHhQhUmfAC3ald) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [順行](https://open.spotify.com/album/5YQu48zefXhzzNebuwG1Wk) | 4:33 | 2024-11-21 |  |
 | [頑強](https://open.spotify.com/track/5zEqQlsvAbeUlA8Te6iYM5) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [頑強](https://open.spotify.com/album/0eyiWbVf5eEz0yExIGUcQg) | 4:32 | 2024-10-17 | 2024-11-08 |
 | [風輕輕仔吹](https://open.spotify.com/track/69iZZoey1y1ZRpFvJsbPpo) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [風輕輕仔吹](https://open.spotify.com/album/3UD2ySditNywU2ucF6pgKy) | 4:15 | 2024-06-27 |  |
 | [飛咯](https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [空中飛人](https://open.spotify.com/album/5T6ErFoPoKV9UEmrLePRp5) | 4:25 | 2024-09-12 | 2024-09-27 |

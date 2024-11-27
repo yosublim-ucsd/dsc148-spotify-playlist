@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,803 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,804 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 34 | [Daytona](https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 2:53 |
 | 35 | [Gracias A Dios](https://open.spotify.com/track/1hkSF9s6moQBLEeRcdtHgF) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [HOT](https://open.spotify.com/album/3qUczz3rOOcmAfmzgCq7SH) | 2:38 |
 | 36 | [No Ponga Excusas](https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [No Ponga Excusas](https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4) | 2:44 |
-| 37 | [Amigos Y Enemigos Almighty](https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE) | [Membrillito](https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9) | [Amigos Y Enemigos Almighty](https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC) | 2:30 |
+| 37 | [Amigos y Enemigos \- Remix](https://open.spotify.com/track/7Mdo6vP2bWi0qjdtb3NEaG) | [NandoVVS](https://open.spotify.com/artist/29JuRccQBvsVrjaBogRtrc) | [Amigos y Enemigos \(Remix\)](https://open.spotify.com/album/4ZeG3pfVUl3XujUuwUMhu8) | 2:30 |
 | 38 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 |
 | 39 | [Gata Only](https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 3:42 |
 | 40 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 |
 | 50 | [BEIA \(Jere Klein\)](https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ) | [Prod Millones](https://open.spotify.com/artist/5cRpSxsBSMfrPgDuXDsys1), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8) | [BEIA \(Jere Klein\)](https://open.spotify.com/album/2vOMwwbgBe7vCGfV18lmUv) | 2:11 |
 
-Snapshot ID: `LtfoIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

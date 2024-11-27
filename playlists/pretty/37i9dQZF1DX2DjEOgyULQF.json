@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 178849,
+  "num_followers": 179057,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
+        "name": "Introspective Thoughts Gamma",
+        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Introspective Thoughts Gamma (88-176hz)",
+      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
         "name": "Serene Spa",
         "url": "https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Introspective Thoughts Gamma",
-        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
-      },
-      "artists": [
-        {
-          "name": "Waves Of Sine",
-          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Introspective Thoughts Gamma (88-176hz)",
-      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Dawnings",
         "url": "https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 200250,
       "name": "Dawnings",
       "url": "https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM"
-      },
-      "artists": [
-        {
-          "name": "Adam Bokesch",
-          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
-        }
-      ],
-      "duration_ms": 231423,
-      "name": "Wilderness (Sound Bath)",
-      "url": "https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        }
+      ],
+      "duration_ms": 231423,
+      "name": "Wilderness (Sound Bath)",
+      "url": "https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Cottonia Creek",
-        "url": "https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r"
-      },
-      "artists": [
-        {
-          "name": "Alpha Vectoriam",
-          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Cottonia Creek",
-      "url": "https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Ajna",
         "url": "https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 147748,
       "name": "Ajna",
       "url": "https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Cottonia Creek",
+        "url": "https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "duration_ms": 179580,
+      "name": "Cottonia Creek",
+      "url": "https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Br\u00e4nn\u00f6",
-        "url": "https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R"
-      },
-      "artists": [
-        {
-          "name": "Inner Purpose",
-          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Br\u00e4nn\u00f6",
-      "url": "https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Jillion",
         "url": "https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 241403,
       "name": "Perennial Waterflow",
       "url": "https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Br\u00e4nn\u00f6",
+        "url": "https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Br\u00e4nn\u00f6",
+      "url": "https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Nature Spirit",
-        "url": "https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV"
-      },
-      "artists": [
-        {
-          "name": "Inner Calmness",
-          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
-        }
-      ],
-      "duration_ms": 147699,
-      "name": "Nature Spirit",
-      "url": "https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Lake Melville",
         "url": "https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 159000,
       "name": "Melville (Meditation)",
       "url": "https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Nature Spirit",
+        "url": "https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "duration_ms": 147699,
+      "name": "Nature Spirit",
+      "url": "https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Back In My Memory",
-        "url": "https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC"
-      },
-      "artists": [
-        {
-          "name": "Deepest Minds",
-          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
-        }
-      ],
-      "duration_ms": 175431,
-      "name": "Back In My Memory",
-      "url": "https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Annapurna",
         "url": "https://open.spotify.com/album/7GCO1XgiqlWtdeSIHwaaFY"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 154457,
       "name": "Annapurna",
       "url": "https://open.spotify.com/track/7xdg3SKAh3agUe9Sxrk20D"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Back In My Memory",
+        "url": "https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "duration_ms": 175431,
+      "name": "Back In My Memory",
+      "url": "https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Bucolia",
-        "url": "https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D"
-      },
-      "artists": [
-        {
-          "name": "Dormiente",
-          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
-        }
-      ],
-      "duration_ms": 254250,
-      "name": "Bucolia",
-      "url": "https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Zonder Tijd",
         "url": "https://open.spotify.com/album/0dG6E65OzDafhwiSvgsvxD"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 201818,
       "name": "Zonder Tijd",
       "url": "https://open.spotify.com/track/2WOugh5BKjaWCZSwWnlH86"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Bucolia",
+        "url": "https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D"
+      },
+      "artists": [
+        {
+          "name": "Dormiente",
+          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
+        }
+      ],
+      "duration_ms": 254250,
+      "name": "Bucolia",
+      "url": "https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Resting Awareness",
-        "url": "https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Resting Awareness",
-      "url": "https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Pompeiana Waters",
         "url": "https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ"
       },
@@ -1923,22 +1907,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Fluere Ranae",
-        "url": "https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c"
-      },
-      "artists": [
-        {
-          "name": "Drishti",
-          "url": "https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fluere Ranae",
-      "url": "https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Tibetan Bowl Healing",
         "url": "https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6"
       },
@@ -1951,6 +1919,38 @@
       "duration_ms": 246060,
       "name": "Tibetan Bowl Peace",
       "url": "https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Resting Awareness",
+        "url": "https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Resting Awareness",
+      "url": "https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Fluere Ranae",
+        "url": "https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c"
+      },
+      "artists": [
+        {
+          "name": "Drishti",
+          "url": "https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fluere Ranae",
+      "url": "https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Namah",
-        "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
-      },
-      "artists": [
-        {
-          "name": "Eta Centauri",
-          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Namah (Nature)",
-      "url": "https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Universal Flow",
         "url": "https://open.spotify.com/album/5Gk6erdt0eQwJv4Mt6OFLZ"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 168000,
       "name": "Universal Flow",
       "url": "https://open.spotify.com/track/2EnUrCq7Dqvxvx1k3TxVaT"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Namah",
+        "url": "https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU"
+      },
+      "artists": [
+        {
+          "name": "Eta Centauri",
+          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Namah (Nature)",
+      "url": "https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Key Of Dreams",
-        "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
-      },
-      "artists": [
-        {
-          "name": "Whispers in Haze",
-          "url": "https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP"
-        }
-      ],
-      "duration_ms": 179784,
-      "name": "Key Of Dreams (Nature)",
-      "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "The Dwelling Place",
         "url": "https://open.spotify.com/album/3hiRwsgc4MzGqKbS45TJpN"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 199333,
       "name": "Calmed by Warm Waters",
       "url": "https://open.spotify.com/track/3mWmH6nNL76C1XZTliqMd7"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Key Of Dreams",
+        "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
+      },
+      "artists": [
+        {
+          "name": "Whispers in Haze",
+          "url": "https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP"
+        }
+      ],
+      "duration_ms": 179784,
+      "name": "Key Of Dreams (Nature)",
+      "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
     },
     {
       "added_at": "2024-11-04 13:37:38",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-11-04 13:37:38",
       "album": {
-        "name": "Visie",
-        "url": "https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW"
-      },
-      "artists": [
-        {
-          "name": "Femke Edelijn",
-          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Visie",
-      "url": "https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y"
-    },
-    {
-      "added_at": "2024-11-04 13:37:38",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 168000,
       "name": "Connection (Nature)",
       "url": "https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7"
+    },
+    {
+      "added_at": "2024-11-04 13:37:38",
+      "album": {
+        "name": "Visie",
+        "url": "https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Visie",
+      "url": "https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y"
     },
     {
       "added_at": "2024-11-04 13:37:38",

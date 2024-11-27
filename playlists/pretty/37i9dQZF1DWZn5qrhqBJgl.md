@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,788 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,826 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 16 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
 | 17 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
 | 18 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
-| 19 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
-| 20 | [Arrival](https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Arrival](https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe) | 2:45 |
+| 19 | [Arrival](https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Arrival](https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe) | 2:45 |
+| 20 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
 | 21 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
 | 22 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 |
 | 23 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 51 | [Aconcagua](https://open.spotify.com/track/2tVHXIMmky5mOeQrolyOUV) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Aconcagua](https://open.spotify.com/album/480XGKz77Nqgcf8QHQXcMy) | 1:59 |
 | 52 | [Dini Maak](https://open.spotify.com/track/6WVSZ9UPRSECaGN1sIKupf) | [El 3ou](https://open.spotify.com/artist/38h3VqFpjD1n62bnLXq6B9) | [Dini Maak](https://open.spotify.com/album/125UniFwsv0QE8Nar2k2Qs) | 1:52 |
 | 53 | [Mawj](https://open.spotify.com/track/6K4zeoQYDbrXxBzhBW4wAz) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Mawj](https://open.spotify.com/album/644gtOk3ZjlQVEkmMglYNE) | 3:27 |
-| 54 | [Coco \- Instrumental](https://open.spotify.com/track/70enAO5NWY14p1Ovd7rv5i) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Coco](https://open.spotify.com/album/3oPk22t58LwlOzC8LieZhw) | 2:53 |
-| 55 | [Backwood](https://open.spotify.com/track/5LuhRsjwpraxHKIvXra7nO) | [SHXDAI BEATS](https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4), [Syxon Beats](https://open.spotify.com/artist/2PlHlYFyrMEPhXWcqDb7Q2) | [Backwood](https://open.spotify.com/album/6YC6qqhKRjfWgJMSSdzrll) | 3:25 |
-| 56 | [The Red](https://open.spotify.com/track/7FG1coP1fndMUGfjwv47Ut) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Red](https://open.spotify.com/album/4a85RSqIR1ymW7qmo3ed7O) | 2:11 |
-| 57 | [Stay at Home](https://open.spotify.com/track/7dhWz8UWE6vIiFfLEpEQ6H) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/1iDdxEa7rxEe2usPs9LWWD) | 2:55 |
-| 58 | [Chasin Daisys](https://open.spotify.com/track/3tlOX4uk0xGcYeYmxDwgJZ) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Spring 2020](https://open.spotify.com/album/1dPbs03MOc4Tl7DpwkR5vc) | 2:11 |
-| 59 | [Take It Back](https://open.spotify.com/track/18ku0WNVSjmdigv4zujS5p) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Take It Back](https://open.spotify.com/album/0o9RthgNBaPh9G3wH82qt4) | 4:04 |
-| 60 | [Heliolingus](https://open.spotify.com/track/1OBSXF6tBOnguSHaQSG0ti) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/40mYin5fsDCotRiRJvIr4H) | 2:52 |
+| 54 | [Backwood](https://open.spotify.com/track/5LuhRsjwpraxHKIvXra7nO) | [SHXDAI BEATS](https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4), [Syxon Beats](https://open.spotify.com/artist/2PlHlYFyrMEPhXWcqDb7Q2) | [Backwood](https://open.spotify.com/album/6YC6qqhKRjfWgJMSSdzrll) | 3:25 |
+| 55 | [The Red](https://open.spotify.com/track/7FG1coP1fndMUGfjwv47Ut) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Red](https://open.spotify.com/album/4a85RSqIR1ymW7qmo3ed7O) | 2:11 |
+| 56 | [Stay at Home](https://open.spotify.com/track/7dhWz8UWE6vIiFfLEpEQ6H) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/1iDdxEa7rxEe2usPs9LWWD) | 2:55 |
+| 57 | [Chasin Daisys](https://open.spotify.com/track/3tlOX4uk0xGcYeYmxDwgJZ) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Spring 2020](https://open.spotify.com/album/1dPbs03MOc4Tl7DpwkR5vc) | 2:11 |
+| 58 | [Take It Back](https://open.spotify.com/track/18ku0WNVSjmdigv4zujS5p) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Take It Back](https://open.spotify.com/album/0o9RthgNBaPh9G3wH82qt4) | 4:04 |
+| 59 | [Heliolingus](https://open.spotify.com/track/1OBSXF6tBOnguSHaQSG0ti) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/40mYin5fsDCotRiRJvIr4H) | 2:52 |
+| 60 | [Ladybug](https://open.spotify.com/track/3NoA0UbucoXgIdD0ZnTgw0) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Ladybug](https://open.spotify.com/album/6QxClzv7Im79RAlqHbQHqZ) | 1:56 |
 
 Snapshot ID: `ZIxWgAAAAAAwMegSkt5Y3iBrwhS/srh4`

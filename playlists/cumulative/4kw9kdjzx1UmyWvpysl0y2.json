@@ -8270,6 +8270,28 @@
     {
       "album": {
         "name": "Landslide",
+        "url": "https://open.spotify.com/album/2FlGX8esQqep3E7GSVsdwK"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179468,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5oGYQBgAZHvdAaWTw59eWb"
+    },
+    {
+      "album": {
+        "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
       "artists": [

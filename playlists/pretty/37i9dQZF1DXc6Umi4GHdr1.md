@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,864 likes - 166 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,880 likes - 166 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 3 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 |
 | 4 | [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 |
 | 5 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
-| 6 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 |
-| 7 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 |
+| 6 | [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 |
+| 7 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 |
 | 8 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 |
-| 9 | [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 |
-| 10 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 |
-| 11 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 |
-| 12 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 |
+| 9 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 |
+| 10 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 |
+| 11 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 |
+| 12 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 |
 | 13 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 |
-| 14 | [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 |
-| 15 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 |
+| 14 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 |
+| 15 | [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 |
 | 16 | [Hasta que me olvides](https://open.spotify.com/track/2V7xlx5Huxh4Q6bPofibNH) | [Mateo Varela](https://open.spotify.com/artist/69xxT258WnlYNSEt01Dh5w) | [Hasta que me olvides](https://open.spotify.com/album/7HTw6KTSo3VUvA9NIl4y8v) | 4:44 |
 | 17 | [São Paulo](https://open.spotify.com/track/6QdbIdbjlHeqkAZ2xyJtcT) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [São Paulo](https://open.spotify.com/album/5CI6fWz2PMmHNnAi9kE6cj) | 2:49 |
 | 18 | [Kapri](https://open.spotify.com/track/3iNj8HFlWjJLQsSoj30Umh) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [Kapri](https://open.spotify.com/album/0tBA9ZTyLoZ7FHkSM11msZ) | 3:06 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 165 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 |
 | 166 | [Flowers](https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe) | [Dena Audley](https://open.spotify.com/artist/0PMxfySITWLIxBnSJAvUK1) | [Flowers](https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj) | 2:08 |
 
-Snapshot ID: `Zz23ZAAAAACpMYyx+OLPfKBf0vksojJz`
+Snapshot ID: `Z0XBzgAAAACWZj9GNf2NFK60QlUa3AUm`

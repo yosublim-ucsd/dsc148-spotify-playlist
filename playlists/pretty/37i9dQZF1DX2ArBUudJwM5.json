@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40463,
+  "num_followers": 40466,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Tiempo al Sol",
-        "url": "https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd"
-      },
-      "artists": [
-        {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
-        }
-      ],
-      "duration_ms": 95458,
-      "name": "Aunque Reste Tiempo",
-      "url": "https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 257989,
       "name": "Pensamientos intrusivos",
       "url": "https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Tiempo al Sol",
+        "url": "https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 95458,
+      "name": "Aunque Reste Tiempo",
+      "url": "https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180316,
       "name": "Tu bebotear",
       "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Buena Moza",
+        "url": "https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Buena Moza",
+      "url": "https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Esa Morena",
         "url": "https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 220000,
       "name": "Esa Morena",
       "url": "https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Buena Moza",
-        "url": "https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH"
-      },
-      "artists": [
-        {
-          "name": "J\u00fapiter en Casa",
-          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Buena Moza",
-      "url": "https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Conmigo y Mi Soledad",
-        "url": "https://open.spotify.com/album/6eaxU1d4gm31JTvoTY7MUG"
+        "name": "Feroces",
+        "url": "https://open.spotify.com/album/5NNuIYBBDW6kWjZ2IP7E2q"
       },
       "artists": [
         {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
         }
       ],
-      "duration_ms": 219488,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0HVQprFOHF4AZ6iXhN9YLO"
+      "duration_ms": 199893,
+      "name": "Feroces",
+      "url": "https://open.spotify.com/track/3NFPbnzsFINhM05K52YlZo"
     }
   ],
   "unique_name": "EQUAL Argentina",

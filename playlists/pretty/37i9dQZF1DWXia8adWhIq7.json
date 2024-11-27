@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 100893,
+  "num_followers": 100943,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Deixar para Tr\u00e1s",
-        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "Guimar\u00e3es Beats",
-          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Deixar para Tr\u00e1s",
-      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Deixar para Tr\u00e1s",
+        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "Guimar\u00e3es Beats",
+          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Deixar para Tr\u00e1s",
+      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Esque\u00e7o At\u00e9 o Tempo",
         "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 160050,
       "name": "Esque\u00e7o At\u00e9 o Tempo",
       "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1203,22 +1203,6 @@
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+      "duration_ms": 224000,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
       "artists": [
         {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
         "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 256874,
       "name": "Voltar",
       "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-10-25 15:00:24",

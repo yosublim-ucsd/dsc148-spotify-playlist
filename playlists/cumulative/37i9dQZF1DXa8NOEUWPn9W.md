@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Max Styler.
 
-1,033 songs - 2 day 12 hr 50 min
+1,034 songs - 2 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-12-28 | 2023-01-06 |
 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 | 2021-12-31 | 2023-07-01 |
-| [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 | 2024-04-19 |  |
+| [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 | 2024-04-19 | 2024-11-27 |
 | [Give Me](https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Give Me](https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w) | 2:57 | 2024-02-02 | 2024-05-03 |
 | [Givin' Up](https://open.spotify.com/track/5DYGgP2W3YzFgnYlHWOmI1) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd) | [Givin' Up](https://open.spotify.com/album/1C1vE00EzT79uN5uMkEvSP) | 4:23 | 2021-12-17 | 2022-07-22 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-05 | 2024-02-24 |
@@ -534,6 +534,7 @@
 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 | 2022-09-30 | 2023-04-22 |
 | [Let's Dance \- Honey Dijon Moonlight Remix](https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Let’s Dance \(40th Anniversary Remix E.P.\)](https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB) | 4:05 | 2023-07-07 | 2023-07-09 |
 | [Let's Get Down](https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Let's Get Down](https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6) | 3:13 | 2021-03-27\* | 2021-05-03 |
+| [Let's Go \(Magalenha\)](https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Let's Go \(Magalenha\)](https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU) | 2:43 | 2024-11-22 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 | 2024-10-11 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6FMphYgkefCrVXG5Wd8Xep) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Let's Go Dancing](https://open.spotify.com/album/3xWjUnEDKSEgQ3mAU0yjTF) | 3:50 | 2021-03-27\* | 2022-04-21 |
 | [Let's Talk About](https://open.spotify.com/track/4FtepXAk5Z9HkL4MsK9cWD) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [2031](https://open.spotify.com/album/7i1PniqA2g4O6S8PWq6fCY) | 3:55 | 2021-06-19 | 2022-07-28 |

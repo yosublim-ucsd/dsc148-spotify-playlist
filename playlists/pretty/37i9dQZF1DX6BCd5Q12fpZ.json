@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "You are the only one",
-        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
-      },
-      "artists": [
-        {
-          "name": "Sergey Lazarev",
-          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
-        }
-      ],
-      "duration_ms": 186891,
-      "name": "You are the only one",
-      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Lie to Me",
         "url": "https://open.spotify.com/album/3tU6PqwpJqYsV7fL12KkfI"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 170000,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/4Ot9gTaARnRqJT1TYwM4pQ"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "You are the only one",
+        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
+      },
+      "artists": [
+        {
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+        }
+      ],
+      "duration_ms": 186891,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
     },
     {
       "added_at": "2023-05-05 17:20:54",

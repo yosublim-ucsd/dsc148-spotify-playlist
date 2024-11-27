@@ -4,7 +4,7 @@
 
 > 
 
-771 songs - 2 day 3 hr 24 min
+772 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Gangsters](https://open.spotify.com/track/5RogPnGizCEgf2TgPd1YtG) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Forgotten 70's Hits](https://open.spotify.com/album/1eu3UDetw7CZtEUUZVydVR) | 3:54 | 2024-01-28 |  |
 | [Garden](https://open.spotify.com/track/3KcJEOyaLDLAERlOCBhmPA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:58 | 2019-10-22 |  |
 | [Garry](https://open.spotify.com/track/0yGsZnRjthu3VLmcX00SRd) | [Dean Ween Group](https://open.spotify.com/artist/1itubyc9S2fKn9UxoiCENe) | [The Deaner Album](https://open.spotify.com/album/2yD7r7cZs8tAv4bCE3tVyE) | 4:25 | 2019-02-06 |  |
+| [Generals And Majors \- 2001 Remaster](https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Black Sea](https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU) | 4:04 | 2024-11-26 |  |
 | [Get Up \- Remastered](https://open.spotify.com/track/4XFYYi6pd05OhYkkDiEmZv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 2:41 | 2018-12-21 |  |
 | [Get Yourself Together](https://open.spotify.com/track/4AjBIRQNZDDVB0MrGlQHvB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:56 | 2019-11-08 |  |
 | [Ghost Song](https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 2:50 | 2019-06-04 |  |

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: onsu\(온수\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Jang Jane\(장재인\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-543 songs - 1 day 8 hr 15 min
+544 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Picture](https://open.spotify.com/track/6xcordVjgvZhK1sEm1MNa2) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:35 | 2022-03-31 | 2022-04-14 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-20 |
 | [Playlist](https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Playlist](https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu) | 2:46 | 2024-04-30 | 2024-05-11 |
+| [Postcard](https://open.spotify.com/track/5JJIA6uCtImf9RlH2ISpha) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Postcard](https://open.spotify.com/album/27pIPQU8UnGXGgEFRVU5ua) | 4:31 | 2024-11-26 |  |
 | [pounding trembling](https://open.spotify.com/track/1vkrW27KEye650Rf7AZfr0) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [pounding trembling](https://open.spotify.com/album/2qFCc7RMflhZJWEjbEhk8d) | 3:00 | 2022-03-31 | 2022-04-15 |
 | [Pretty Pretty \(Feat\. Jeon Eun Jin\)](https://open.spotify.com/track/2CiOAB6OUvEjovg3SO14jT) | [Mocasom](https://open.spotify.com/artist/25COVJc3wnHfXjaLLtiDCt), [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Pretty Pretty](https://open.spotify.com/album/60IpwbclgHC75dUAOkZQuC) | 3:54 | 2022-05-11 | 2022-06-10 |
 | [Q&A](https://open.spotify.com/track/1mG5hk6tXxutyKYkCqIayG) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [Q&A](https://open.spotify.com/album/5nodure6zxJnC1LFr61ca1) | 3:51 | 2022-03-09 | 2022-04-11 |
@@ -348,7 +349,7 @@
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2024-11-27 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |

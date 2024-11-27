@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 84 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 84 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 43 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 |
 | 44 | [Parachute](https://open.spotify.com/track/3ha7MSw0EdLTuXG7MOWU7F) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:32 |
 | 45 | [Insomnia](https://open.spotify.com/track/1hEusmjsW1ZxqmBYs9AmfR) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:14 |
-| 46 | [Too Dead Inside](https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:25 |
-| 47 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 |
+| 46 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 |
+| 47 | [Too Dead Inside](https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:25 |
 | 48 | [Me4U](https://open.spotify.com/track/0qPmLKtO5mtwc0CShdYcr5) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Morrie](https://open.spotify.com/artist/4nsjop0IqKgJIhARkI2UwY) | [Me4U](https://open.spotify.com/album/0JvcnooibogVN9G6VzYji0) | 3:24 |
 | 49 | [On A Mountain](https://open.spotify.com/track/3BIOgDZVS4iAmtDJ1S6RrD) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:06 |
 | 50 | [Do You Wanna Party](https://open.spotify.com/track/1L73UeytIAF3mkd8DA1hZt) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 3:21 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 83 | [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 |
 | 84 | [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 |
 
-Snapshot ID: `AbiewAAAAAD+lTym5FAhIg6kj4KmOs3T`
+Snapshot ID: `AbikiAAAAAAoNNP49tt1PzPS815N1/Od`

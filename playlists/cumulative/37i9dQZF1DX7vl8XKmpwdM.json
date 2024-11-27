@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "Akkaru Bakkaru (From \"Miss You\")",
+        "url": "https://open.spotify.com/album/2Apvfd4gOevWJmDgXWf6LB"
+      },
+      "artists": [
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228114,
+      "name": "Akkaru Bakkaru (From \"Miss You\")",
+      "url": "https://open.spotify.com/track/5EyAoWj09OtA84ldNu9zCS"
+    },
+    {
+      "album": {
         "name": "Ammadi",
         "url": "https://open.spotify.com/album/0bf0E8d15xhl2aXPbCmItD"
       },
@@ -3096,7 +3122,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 304670,
       "name": "Scene Ah Scene Ah",
       "url": "https://open.spotify.com/track/07CD0VJv0jGRNM0YAi1fRi"

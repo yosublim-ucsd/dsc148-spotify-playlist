@@ -1,13 +1,29 @@
 {
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Pentatonix in Meet Me Next Christmas ",
-  "num_followers": 11179,
+  "num_followers": 11224,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyvGcQAAAAAQwVVH1LZ8DHW/yHD8PriP",
+  "snapshot_id": "Z0YdggAAAAAzVAucNe5suHy1St9JeBt8",
   "tracks": [
+    {
+      "added_at": "2024-11-26 19:12:02",
+      "album": {
+        "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+        "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+      "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
+    },
     {
       "added_at": "2024-11-05 00:33:06",
       "album": {

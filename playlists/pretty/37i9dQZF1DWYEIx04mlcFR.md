@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Kendall Peña en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,186 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,179 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 54 | [Último Intento](https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Último Intento](https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d) | 2:54 |
 | 55 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 56 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
-| 57 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 |
-| 58 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
+| 57 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
+| 58 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 |
 | 59 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
 | 60 | [El Cine](https://open.spotify.com/track/13CSEQrnkUEHazIs8Khlgu) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [El Cine](https://open.spotify.com/album/39HFnEulyqMasSEG5ijfsK) | 4:03 |
 | 61 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
-| 62 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
-| 63 | [Un Largo Viaje](https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Un Largo Viaje](https://open.spotify.com/album/1YU69lHJMWl1r6pGE6gr7X) | 2:38 |
-| 64 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 62 | [Un Largo Viaje](https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Un Largo Viaje](https://open.spotify.com/album/1YU69lHJMWl1r6pGE6gr7X) | 2:38 |
+| 63 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 64 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
 | 65 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
 | 66 | [1 veranito sad](https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [1 veranito sad](https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ) | 2:48 |
 | 67 | [Mientras tanto cantaré](https://open.spotify.com/track/3ywWSKfrT8dNKnTQYYr6pL) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Mientras tanto cantaré](https://open.spotify.com/album/3kYtEbf0M5b5C1ypmgZSvP) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 70 | [Sentimental](https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Sentimental](https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g) | 3:09 |
 | 71 | [Palabras](https://open.spotify.com/track/4rndNVqAVEaQbmaQQDYpw7) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Palabras](https://open.spotify.com/album/7xsmfNsxoHN7QzBD5w4ppr) | 4:05 |
 | 72 | [La Humedad](https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [La Humedad](https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv) | 3:28 |
-| 73 | [CHOCOMIL](https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5) | [chicano wei](https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt) | [CHOCOMIL](https://open.spotify.com/album/7LVZYnNMLBAtqpJVC5htfN) | 2:48 |
-| 74 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
+| 73 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
+| 74 | [CHOCOMIL](https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5) | [chicano wei](https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt) | [CHOCOMIL](https://open.spotify.com/album/7LVZYnNMLBAtqpJVC5htfN) | 2:48 |
 | 75 | [Desorden](https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Desorden](https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u) | 3:28 |
 
 Snapshot ID: `Z0AhTgAAAADbPDZyqKTcI0Hfm3ajR4rw`

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-377 songs - 16 hr 12 min
+378 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Valle](https://open.spotify.com/track/5mXnKbqYinLRA5SRD9KNjY) | [Tones Of Essence](https://open.spotify.com/artist/0o4w1evQJCmD1a4YCwU9oA) | [Valle](https://open.spotify.com/album/2QSWVrj5I0tIOTb39jgQZA) | 2:22 | 2022-06-10 | 2022-07-22 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-03-04 | 2022-07-08 |
 | [Vedana](https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Vedana](https://open.spotify.com/album/2VSWEzLFtAmsDUgeb9fEPM) | 2:33 | 2022-05-27 | 2022-12-10 |
+| [Velvet Dusk](https://open.spotify.com/track/5lOvJ3RxfluLSISAZqFtMP) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [Velvet Dusk](https://open.spotify.com/album/1JmChmVedRXcxuJpSDqJ2W) | 3:42 | 2024-11-26 |  |
 | [Venus](https://open.spotify.com/track/0vJcsc5CyzJY84thrAprTO) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Venus](https://open.spotify.com/album/6jCH3155IqsgOfahqDnMic) | 2:40 | 2024-11-06 |  |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 | 2023-09-01 |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe3aCmUoBd8n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe3aCmUoBd8n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe3aCmUoBd8n)
 
-### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
+### [أفضل الأغاني الشرقية](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-178 songs - 10 hr 25 min
+180 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Raje3lek](https://open.spotify.com/track/6SNkENSOaM6I7tdE95O4h1) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Raje3lek](https://open.spotify.com/album/4OByYjnuaQ9wQ7J85404NO) | 3:55 | 2022-05-04 | 2022-07-17 |
 | [Ray'a](https://open.spotify.com/track/0gSwBFfNxzCEmswl2iluW1) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/5WO6hG0bdZpueHDgFWCbDe) | 4:06 | 2024-11-11 |  |
 | [Reef Al Ain](https://open.spotify.com/track/4XJLSMhfdZF5l8dltDLDFM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Reef Al Ain](https://open.spotify.com/album/7uKsNJCZhfdoWkyTzQhVeR) | 3:25 | 2024-10-03 |  |
-| [Rfi2it Albi](https://open.spotify.com/track/1Z5JztzNkHe0OEm5Hyr9BJ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Rfi2it Albi](https://open.spotify.com/album/31IqjAVtCZOUsxGs4jR7YS) | 3:46 | 2022-07-16 |  |
+| [Rfi2it Albi](https://open.spotify.com/track/1Z5JztzNkHe0OEm5Hyr9BJ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Rfi2it Albi](https://open.spotify.com/album/31IqjAVtCZOUsxGs4jR7YS) | 3:46 | 2022-07-16 | 2024-11-27 |
 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 | 2023-03-13 | 2023-04-02 |
 | [Sa Assiru Yawman](https://open.spotify.com/track/0iIQDfnA9g58xIQiaDtPg2) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 5:07 | 2023-03-13 | 2023-04-11 |
 | [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 | 2024-10-30 |  |
@@ -141,7 +141,7 @@
 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 | 2023-10-03 | 2024-09-27 |
 | [Ya Qalb](https://open.spotify.com/track/145q7U7wSI5NbufneEFurm) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Maa Alhob](https://open.spotify.com/album/42Gtt3JjgqO4Kf148FesNn) | 5:28 | 2024-02-23 | 2024-04-24 |
 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 | 2024-10-03 |  |
-| [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-02-15 |  |
+| [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-02-15 | 2024-11-27 |
 | [Ya Zghiri](https://open.spotify.com/track/0IayU4PmWshvS0r4aMTzPD) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ya Zghiri](https://open.spotify.com/album/40vVMbWX1OW6Mo3KdK8ndA) | 3:03 | 2024-10-08 |  |
 | [Yama](https://open.spotify.com/track/13mfkUDpSJlQp3ZPPdRXrX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Yama](https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra) | 3:05 | 2023-07-27 |  |
 | [Yeslamli Li Bighar](https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Yeslamli Li Bighar](https://open.spotify.com/album/1NaMPHJ5yC9DJujOEobE8S) | 3:28 | 2023-06-28 | 2024-10-09 |
@@ -155,6 +155,7 @@
 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 | 2024-11-04 |  |
 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 | 2024-10-23 |  |
 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 | 2022-06-20 | 2024-02-24 |
+| [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 | 2024-11-26 |  |
 | [انت وحدي](https://open.spotify.com/track/1ZNjO544sLEqARY6mGVp85) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [انت وحدي](https://open.spotify.com/album/3HNeYYsoZQilBCQsjzYQKY) | 3:24 | 2022-12-01 | 2024-04-24 |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-17 |
 | [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 | 2022-08-28 | 2024-01-07 |
@@ -165,6 +166,7 @@
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-01-06 |
 | [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 |  |
 | [حـب الـلي بحـبك](https://open.spotify.com/track/7sbTbz9n2ormZLvs18jPYC) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [حـب الـلي بحـبك](https://open.spotify.com/album/6uNNRJncQVbNCzBZNXOofm) | 3:18 | 2024-05-21 |  |
+| [خيال](https://open.spotify.com/track/7HL0CmdyoBZ32PjQRd9Oax) | [Odai \- عدي](https://open.spotify.com/artist/7EKPJOvqNmDu6IZjJTWKWO) | [خيال](https://open.spotify.com/album/0lNHfjnXCxvmJE0v0fnrmh) | 3:07 | 2024-11-26 |  |
 | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/track/0QdVWAqqAUcCg0kWVKInoy) | [Ahmed Al Glamawy](https://open.spotify.com/artist/1v8UZn3HGKyy1rqesyDhKl) | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/album/5GtpCK8jXXqp1f61R6mxqF) | 6:45 | 2023-08-25 | 2023-10-05 |
 | [زهرة من الياسمين](https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [زهرة من الياسمين](https://open.spotify.com/album/5CLgYJzaltpiwQOjXf4bD8) | 4:10 | 2022-07-16 | 2023-05-06 |
 | [سمرة وصغيرة](https://open.spotify.com/track/5NQOrWxcIL2Xh9I1SDoRmy) | [Mahfoud Almaher](https://open.spotify.com/artist/6Hc6rbR7BcGj4qxnBrfWd3) | [سمرة وصغيرة](https://open.spotify.com/album/0oLeiK4TOJ93hWGFxSrOhZ) | 3:19 | 2024-02-09 |  |

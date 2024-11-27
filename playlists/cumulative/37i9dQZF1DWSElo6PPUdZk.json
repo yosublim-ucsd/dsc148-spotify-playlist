@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 154306,
       "name": "Jamanat Pakki",
       "url": "https://open.spotify.com/track/6ipe1JZXmL2iFV9iEBMHxM"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 194823,
       "name": "Jinda Kunji",
       "url": "https://open.spotify.com/track/11Wl7NNOclREXEkrv0BKmZ"
@@ -1366,6 +1366,24 @@
       "duration_ms": 340183,
       "name": "Jodaa",
       "url": "https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq"
+    },
+    {
+      "album": {
+        "name": "Jodi Teri Meri",
+        "url": "https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP"
+      },
+      "artists": [
+        {
+          "name": "Ajooni Dhillon",
+          "url": "https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166928,
+      "name": "Jodi Teri Meri",
+      "url": "https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2"
     },
     {
       "album": {
@@ -2421,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Raah",
+        "url": "https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy"
+      },
+      "artists": [
+        {
+          "name": "Manvi Arora",
+          "url": "https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140806,
+      "name": "Raah",
+      "url": "https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco"
+    },
+    {
+      "album": {
         "name": "Raanjha - Spotify Singles",
         "url": "https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0"
       },
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 194742,
       "name": "Rool Ditta Ee",
       "url": "https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC"
@@ -2794,6 +2830,28 @@
       "duration_ms": 212000,
       "name": "Supna Laavan Da",
       "url": "https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM"
+    },
+    {
+      "album": {
+        "name": "Supne",
+        "url": "https://open.spotify.com/album/6NK1PuajvctygZb7EXEkhB"
+      },
+      "artists": [
+        {
+          "name": "Himandri Ssarma",
+          "url": "https://open.spotify.com/artist/1DLuFlFb2PL4VmYC22AV5I"
+        },
+        {
+          "name": "Himansh Kamboj",
+          "url": "https://open.spotify.com/artist/4VRyS3vstRiNaDnvZHPaTW"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Supne",
+      "url": "https://open.spotify.com/track/0d7F2H76tXyJo0pX5lSudq"
     },
     {
       "album": {

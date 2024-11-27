@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,930 likes - 171 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,046 likes - 171 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 164 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 |
 | 165 | [Hidden Valley](https://open.spotify.com/track/7L1Q7yKHRHZ2dQFr1jjhTn) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Hidden Valley](https://open.spotify.com/album/1xMahjlI61f6O6DBDFPfP3) | 2:58 |
 | 166 | [Vá Devagar](https://open.spotify.com/track/34ttyToe7nrqpvxu9XMyr0) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:19 |
-| 167 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 |
+| 167 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 |
 | 168 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 169 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 |
 | 170 | [Olvidado](https://open.spotify.com/track/0p4IWEs8ZHhcFdXuy5SYL2) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/4RO63cpWlUOBZCnGo5VRKa) | 2:32 |

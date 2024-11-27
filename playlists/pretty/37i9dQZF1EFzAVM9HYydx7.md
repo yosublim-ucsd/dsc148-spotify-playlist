@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784 likes - 293 songs - 17 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,787 likes - 293 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 279 | [I Need to Know](https://open.spotify.com/track/7wghz3QGJe4cclJDUjxnBq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:34 |
 | 280 | [We Are](https://open.spotify.com/track/7s7L2u82Fm1LY47ElpWPp7) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [We Are](https://open.spotify.com/album/03szQuAqXDiS1uDKI1Bppl) | 2:59 |
 | 281 | [Can't Live In A World](https://open.spotify.com/track/48Po2vEwgAW56HBJwaCxvt) | [Cover Drive](https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP) | [Bajan Style](https://open.spotify.com/album/3P9kGVhx7TrCrvjeCp7yI3) | 3:48 |
-| 282 | [Bring The Fire Out](https://open.spotify.com/track/5uR996t0eJdoOc4FDXoz6m) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 3:06 |
-| 283 | [Eiffel Tower](https://open.spotify.com/track/01GSlMhvzn4xPqcOC6zhcH) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS) | [I'm The One](https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25) | 2:24 |
+| 282 | [Eiffel Tower](https://open.spotify.com/track/01GSlMhvzn4xPqcOC6zhcH) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS) | [I'm The One](https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25) | 2:24 |
+| 283 | [Bring The Fire Out](https://open.spotify.com/track/5uR996t0eJdoOc4FDXoz6m) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 3:06 |
 | 284 | [Ball Til Ya Fall](https://open.spotify.com/track/3hWaIvhAkei2LoNdVMeOmn) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Pricele$$ \(Deluxe Edition\)](https://open.spotify.com/album/6dps72Yl8gaQq627hhjzyI) | 3:36 |
 | 285 | [Ransom](https://open.spotify.com/track/0u307EvhnL3mgRqFlQMnFb) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Ransom](https://open.spotify.com/album/2RinbD4aNlPQpd7H5mccjK) | 3:30 |
 | 286 | [Miami](https://open.spotify.com/track/3PfFdqqpryFgQOJj0zVzaK) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Miami](https://open.spotify.com/album/2YLSdSasySLMGFC9EAv5wy) | 3:34 |
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 292 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 293 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbieygAAAAAH5UaU4vhfStP7GI+xnda0`
+Snapshot ID: `AbikagAAAACDCdCyWMG0lrVlH84jFWFs`

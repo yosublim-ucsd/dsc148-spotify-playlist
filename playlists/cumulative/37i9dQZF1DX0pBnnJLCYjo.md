@@ -4,7 +4,7 @@
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-128 songs - 7 hr 51 min
+131 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Con Tu Amor](https://open.spotify.com/track/6ePLAAFjKSYondsb96FezX) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:23 | 2023-10-31 | 2024-10-10 |
 | [Corazón : Classics](https://open.spotify.com/track/2i7fIWzznverPqwz2E4Pml) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:35 | 2023-10-31 | 2024-10-10 |
 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 | 2024-11-11 |  |
-| [Dafne](https://open.spotify.com/track/5tNS0nNzD2exJG1AWDGYCC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Sarajevo](https://open.spotify.com/album/4StNU0zMhfFYHum9gbm93l) | 4:42 | 2024-10-09 |  |
+| [Dafne](https://open.spotify.com/track/5tNS0nNzD2exJG1AWDGYCC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Sarajevo](https://open.spotify.com/album/4StNU0zMhfFYHum9gbm93l) | 4:42 | 2024-10-09 | 2024-11-27 |
 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 | 2023-10-31 | 2024-10-10 |
 | [De Mí Enamórate](https://open.spotify.com/track/6jD8PAh3L9RsL2pJvTyANp) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Malditos Pecadores](https://open.spotify.com/album/1kJdw3cb9SX60LsWZcD1ix) | 5:51 | 2023-10-31 | 2024-10-10 |
 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 | 2023-10-31 | 2024-10-10 |
@@ -65,6 +65,7 @@
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-09 |  |
 | [Imaginación](https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Imaginación](https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz) | 4:22 | 2024-10-09 |  |
 | [Immortality](https://open.spotify.com/track/6tuQgJSjtmbtkWye0Cm4kd) | [Big Big Love](https://open.spotify.com/artist/4nzAyG4UOW7AvdYyJQXxDX) | [Immortality](https://open.spotify.com/album/5oKkO0p75qxXheRnRfElwn) | 5:03 | 2024-10-09 |  |
+| [Inconcluso](https://open.spotify.com/track/6gNabaGwN05HLUTcAfpMAR) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Inconcluso](https://open.spotify.com/album/1wZqSOuo2jzDqg5KTghNvj) | 2:36 | 2024-11-27 |  |
 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-10-31 | 2024-10-10 |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-10-31 | 2024-10-10 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-10-09 |  |
@@ -83,6 +84,7 @@
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 | 2024-10-09 |  |
 | [Me Estas Haciendo Mal](https://open.spotify.com/track/5MT9k2NmBXS7x061dGRUuY) | [Vinocio](https://open.spotify.com/artist/73yh69zlE05t6t0dC3C55p) | [Me Estas Haciendo Mal](https://open.spotify.com/album/560eSjVTwQdGVjtmR3O3Cr) | 2:59 | 2024-10-09 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/09pG26LmLnCyDZGEpdnvo1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 2:32 | 2023-10-31 | 2024-10-10 |
+| [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 | 2024-11-27 |  |
 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 | 2024-10-09 |  |
 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-10-09 |  |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-10-31 | 2024-10-10 |
@@ -125,7 +127,7 @@
 | [Sin Pagar Renta](https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sin Pagar Renta](https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9) | 3:22 | 2024-10-09 |  |
 | [Spiegel im Spiegel, for Cello & Piano](https://open.spotify.com/track/4QNUxSHEjiYX1rMpDXmAEd) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Sebastian Klinger](https://open.spotify.com/artist/6MbHiJ49KZGRgx49D2TgIm), [Jürgen Kruse](https://open.spotify.com/artist/6JbKCS0ybRNVg1Xo1YZNJv) | [Pärt: Spiegel im Spiegel](https://open.spotify.com/album/15itsRmjl6H6iN4VastMh6) | 9:33 | 2023-10-31 | 2024-10-10 |
 | [Te Lo Pido por Favor \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/4tC3FF7ExJRq6cDuwuOLII) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 3:04 | 2023-10-31 | 2024-10-10 |
-| [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-10-09 |  |
+| [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-10-09 | 2024-11-27 |
 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 | 2023-10-31 | 2024-10-10 |
 | [Un día nos vamos a morir](https://open.spotify.com/track/6mL6h0E5bxPdWcfe91fI8y) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 4:02 | 2024-10-09 |  |
 | [Valentina](https://open.spotify.com/track/5xjglZ2nhz8dmsl1Qw4BLM) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Aprendiendo a Aprender](https://open.spotify.com/album/27D8ocwRauxTXCZKIbpZKg) | 1:47 | 2023-10-31 | 2024-10-10 |
@@ -135,6 +137,7 @@
 | [Vuélveme A Querer](https://open.spotify.com/track/1PkTGKasoP8iuXad5LfQqz) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Primer Amor Los Éxitos](https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg) | 4:08 | 2023-10-31 | 2024-10-10 |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2024-10-09 |  |
 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-10-09 |  |
+| [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 | 2024-11-27 |  |
 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 | 2023-10-31 | 2024-10-10 |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

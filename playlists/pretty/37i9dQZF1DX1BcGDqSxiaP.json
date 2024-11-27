@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 25132,
+  "num_followers": 25145,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZIsXfgAAAAB4wO/CUz5h2erv6Tm4h3kh",
   "tracks": [
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 274506,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -367,38 +367,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "Evil On My Mind - Remastered",
-      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Never Trust A Man",
-      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
@@ -415,6 +383,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "Evil On My Mind - Remastered",
+      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 280440,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Never Trust A Man",
+      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Meet Me In Bluesland",
-        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
+        "name": "Serious Business",
+        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
       },
       "artists": [
         {
-          "name": "The Kentucky Headhunters",
-          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
-        },
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Walking With The Wolf",
-      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
+      "duration_ms": 221293,
+      "name": "Master Mechanic",
+      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -503,18 +499,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Serious Business",
-        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Master Mechanic",
-      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
+      "duration_ms": 334893,
+      "name": "Blue Monday Hangover",
+      "url": "https://open.spotify.com/track/2eloCAkMPcrfktP3k2J063"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -535,34 +531,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Natural Boogie (Remastered)",
-        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
+        "name": "Meet Me In Bluesland",
+        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Sitting At Home Alone - Remastered",
-      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
-      },
-      "artists": [
+          "name": "The Kentucky Headhunters",
+          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
+        },
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
         }
       ],
-      "duration_ms": 334893,
-      "name": "Blue Monday Hangover",
-      "url": "https://open.spotify.com/track/2eloCAkMPcrfktP3k2J063"
+      "duration_ms": 208533,
+      "name": "Walking With The Wolf",
+      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -583,6 +567,22 @@
       "duration_ms": 187186,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Natural Boogie (Remastered)",
+        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Sitting At Home Alone - Remastered",
+      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
     },
     {
       "added_at": "2023-05-17 15:52:13",

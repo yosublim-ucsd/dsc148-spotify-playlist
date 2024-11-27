@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,890 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,896 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 40 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 |
 | 41 | [Nontiscordardimè](https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Nontiscordardimè](https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq) | 2:58 |
 | 42 | [Lei No \(Il Tradito\)](https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo \(67 Edition\)](https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq) | 3:42 |
-| 43 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 |
-| 44 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
+| 43 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
+| 44 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 |
 | 45 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 |
 | 46 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 |
 | 47 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 50 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 |
 | 51 | [2NITE](https://open.spotify.com/track/46sLYtdbVx5EkGZDgTwZ5E) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD](https://open.spotify.com/album/5wRGqfBO1sjjq8Gsa71bQn) | 2:59 |
 | 52 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 |
-| 53 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
+| 53 | [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 |
 | 54 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 |
 | 55 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
-| 56 | [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 |
+| 56 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
 | 57 | [Mai come gli altri \- Acoustic](https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:42 |
 | 58 | [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 |
 | 59 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 93 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 94 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
 | 95 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 96 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
+| 96 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 97 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 |
 | 98 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 |
-| 99 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
+| 99 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 100 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
 
 Snapshot ID: `ZxGJHAAAAACXoI0SeTkWj+Nk+pt4MCNW`

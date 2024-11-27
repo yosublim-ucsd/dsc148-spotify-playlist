@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 65456,
+  "num_followers": 65516,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Out & About",
-        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
-      },
-      "artists": [
-        {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Out & About",
-      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
@@ -687,38 +667,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
+        "name": "Out & About",
+        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
       },
       "artists": [
         {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
         },
         {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         }
       ],
-      "duration_ms": 128279,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+      "duration_ms": 153600,
+      "name": "Out & About",
+      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -747,6 +711,42 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        }
+      ],
+      "duration_ms": 128279,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
     },
     {
       "added_at": "2024-11-22 00:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179852,
+  "num_followers": 179981,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -601,6 +601,26 @@
       "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
     },
     {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Nocturnos",
+        "url": "https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9"
+      },
+      "artists": [
+        {
+          "name": "Ismael Pinkler",
+          "url": "https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx"
+        },
+        {
+          "name": "Nicol\u00e1s Bacal",
+          "url": "https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp"
+        }
+      ],
+      "duration_ms": 327750,
+      "name": "Teclas P\u00e1lidas",
+      "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "United Kingdom Of Anxiety",
@@ -633,26 +653,6 @@
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Nocturnos",
-        "url": "https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9"
-      },
-      "artists": [
-        {
-          "name": "Ismael Pinkler",
-          "url": "https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx"
-        },
-        {
-          "name": "Nicol\u00e1s Bacal",
-          "url": "https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp"
-        }
-      ],
-      "duration_ms": 327750,
-      "name": "Teclas P\u00e1lidas",
-      "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Hooked Paw",
@@ -683,6 +683,26 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "forever isn't true",
+        "url": "https://open.spotify.com/album/0GZ3SjoOzDn92LYPJgIwW8"
+      },
+      "artists": [
+        {
+          "name": "rexlity",
+          "url": "https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86"
+        },
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        }
+      ],
+      "duration_ms": 92727,
+      "name": "forever isn't true",
+      "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
       "added_at": "2024-10-23 05:18:13",
@@ -719,26 +739,6 @@
       "duration_ms": 264160,
       "name": "Turned Skyward",
       "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "forever isn't true",
-        "url": "https://open.spotify.com/album/0GZ3SjoOzDn92LYPJgIwW8"
-      },
-      "artists": [
-        {
-          "name": "rexlity",
-          "url": "https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86"
-        },
-        {
-          "name": "widx.",
-          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
-        }
-      ],
-      "duration_ms": 92727,
-      "name": "forever isn't true",
-      "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1109,20 +1109,20 @@
       "url": "https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Moon in Gemini",
-        "url": "https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz"
+        "name": "Atlas Dive",
+        "url": "https://open.spotify.com/album/0ogHWzJwJjLJVtHnpYNJmJ"
       },
       "artists": [
         {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Most Beautiful Imaginary Dialogues",
-      "url": "https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x"
+      "duration_ms": 188013,
+      "name": "Atlas Dive",
+      "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1141,20 +1141,20 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Atlas Dive",
-        "url": "https://open.spotify.com/album/0ogHWzJwJjLJVtHnpYNJmJ"
+        "name": "Moon in Gemini",
+        "url": "https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz"
       },
       "artists": [
         {
-          "name": "Dimming",
-          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Atlas Dive",
-      "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
+      "duration_ms": 236000,
+      "name": "Most Beautiful Imaginary Dialogues",
+      "url": "https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "A Diosa (Non potho reposare)",
@@ -1291,6 +1275,22 @@
       "duration_ms": 600010,
       "name": "A Diosa (Non potho reposare)",
       "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "(The Circle) of Compassion",
-        "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
-      },
-      "artists": [
-        {
-          "name": "Surya Botofasina",
-          "url": "https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj"
-        },
-        {
-          "name": "MidnightRoba",
-          "url": "https://open.spotify.com/artist/41BwcfR5d2OOkuTvn3F850"
-        }
-      ],
-      "duration_ms": 498000,
-      "name": "(The Circle) of Compassion",
-      "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "\u8308",
         "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
       },
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
+        "name": "(The Circle) of Compassion",
+        "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
+      },
+      "artists": [
+        {
+          "name": "Surya Botofasina",
+          "url": "https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj"
+        },
+        {
+          "name": "MidnightRoba",
+          "url": "https://open.spotify.com/artist/41BwcfR5d2OOkuTvn3F850"
+        }
+      ],
+      "duration_ms": 498000,
+      "name": "(The Circle) of Compassion",
+      "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
         "name": "Dots",
         "url": "https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 448227,
       "name": "Dots Revisited",
       "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "A Plastic Gun The Size Of The World",
+        "url": "https://open.spotify.com/album/1GVzSOLU3TVXY9bzO4EbkL"
+      },
+      "artists": [
+        {
+          "name": "Meynsense",
+          "url": "https://open.spotify.com/artist/35X7M5C8Dh8bpHkj10WOVR"
+        }
+      ],
+      "duration_ms": 332776,
+      "name": "A Plastic Gun The Size Of The World",
+      "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1493,20 +1509,24 @@
       "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "A Plastic Gun The Size Of The World",
-        "url": "https://open.spotify.com/album/1GVzSOLU3TVXY9bzO4EbkL"
+        "name": "Framework 1 (Vladislav Delay Remix)",
+        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
       },
       "artists": [
         {
-          "name": "Meynsense",
-          "url": "https://open.spotify.com/artist/35X7M5C8Dh8bpHkj10WOVR"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 332776,
-      "name": "A Plastic Gun The Size Of The World",
-      "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
+      "duration_ms": 266573,
+      "name": "Framework 1 (Vladislav Delay Remix)",
+      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1527,26 +1547,6 @@
       "duration_ms": 303000,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Framework 1 (Vladislav Delay Remix)",
-        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        },
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Framework 1 (Vladislav Delay Remix)",
-      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -1689,26 +1689,6 @@
       "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Time (Nick Walters Remix)",
-        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
-      },
-      "artists": [
-        {
-          "name": "Beats & Pieces Big Band",
-          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
-        },
-        {
-          "name": "Nick Walters",
-          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Time - Nick Walters Remix",
-      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Scapes I",
@@ -1727,6 +1707,26 @@
       "duration_ms": 428000,
       "name": "Agbogloshie",
       "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Time (Nick Walters Remix)",
+        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
+      },
+      "artists": [
+        {
+          "name": "Beats & Pieces Big Band",
+          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
+        },
+        {
+          "name": "Nick Walters",
+          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Time - Nick Walters Remix",
+      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
     },
     {
       "added_at": "2024-10-16 02:02:35",

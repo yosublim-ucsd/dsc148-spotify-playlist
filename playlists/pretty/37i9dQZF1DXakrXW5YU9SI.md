@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,330 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,409 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 23 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 24 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 25 | [Listek](https://open.spotify.com/track/64KcpSFKRnaYLt2LVYXXql) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22) | [Wszystko to czego nie da się powiedzieć](https://open.spotify.com/album/2gdfK5ZdAmaYgZEaFM8g4E) | 2:39 |
-| 26 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
-| 27 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 |
+| 26 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 |
+| 27 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 | 28 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 29 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
 | 30 | [Animus](https://open.spotify.com/track/55nwbGo5px2YC8j7OjeePU) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Na Dwoje Lampa Świeciła](https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn) | 4:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 38 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
 | 39 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 40 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
-| 41 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
-| 42 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 41 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 42 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
 | 43 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
 | 44 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 |
 | 45 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 51 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
 | 52 | [powiedz](https://open.spotify.com/track/6i1eHxmWVmgg0hU2m90wIn) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:16 |
 | 53 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
-| 54 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 |
-| 55 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 |
+| 54 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 |
+| 55 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 |
 | 56 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 |
 | 57 | [Już mi nie wstyd](https://open.spotify.com/track/4rIxumZKyKs7kjokAJIPqw) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk) | [Już mi nie wstyd](https://open.spotify.com/album/3D9XuemQBTkDumaVZ8AFAi) | 3:28 |
 | 58 | [Patrz](https://open.spotify.com/track/4wyoJdxjDBYmUiH87bfThq) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Patrz](https://open.spotify.com/album/75H3ESOsR3Y4e3XefaRasA) | 2:43 |
-| 59 | [Zdolna](https://open.spotify.com/track/32I23NQM4JHjLVZxwxXhDE) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Unikając Odpowiedzi EP](https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ) | 3:10 |
+| 59 | [Tulipany](https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Anka](https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G) | [piosenki z 3 słów](https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX) | 3:06 |
 | 60 | [co jest nie tak?](https://open.spotify.com/track/2alDhwpcOlSrkhuPZ4JhvM) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2), [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [co jest nie tak?](https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis) | 3:10 |
 
 Snapshot ID: `Zz+7cAAAAADicj5t6Ng+tkKZSoOrtFIW`

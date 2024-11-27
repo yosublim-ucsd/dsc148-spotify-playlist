@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover:  Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,555 likes - 112 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,604 likes - 112 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

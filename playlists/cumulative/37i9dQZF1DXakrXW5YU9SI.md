@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-285 songs - 16 hr 3 min
+286 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-06-28 | 2024-09-13 |
 | [Trucizna](https://open.spotify.com/track/3fAFgKBYLAX4M8C9lNxhTO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 3:08 | 2024-09-12 | 2024-09-21 |
 | [Trucizna](https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Trucizna](https://open.spotify.com/album/2enTHSbeI3bG1hvvOIoXeU) | 2:38 | 2024-09-20 | 2024-10-08 |
+| [Tulipany](https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Anka](https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G) | [piosenki z 3 słów](https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX) | 3:06 | 2024-11-21 |  |
 | [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 | 2024-09-12 | 2024-09-14 |
 | [Ty się nie bój](https://open.spotify.com/track/3LhNpdJsMZmKKzs3l6Ab6k) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Ty się nie bój](https://open.spotify.com/album/0AoKj5Xk3Qh1wZWVOKCXih) | 3:05 | 2024-10-14 | 2024-10-26 |
 | [Ulubiony numer](https://open.spotify.com/track/1GOyySnPCpyXRGfILAoKkh) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [Ulubiony numer](https://open.spotify.com/album/5zUfmjF5OPu2mWtLQDZg5I) | 2:05 | 2024-10-07 | 2024-10-26 |
@@ -289,7 +290,7 @@
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-09-12 | 2024-09-15 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-07-06 |
 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 | 2024-08-23 | 2024-11-22 |
-| [Zdolna](https://open.spotify.com/track/32I23NQM4JHjLVZxwxXhDE) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Unikając Odpowiedzi EP](https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ) | 3:10 | 2024-11-21 |  |
+| [Zdolna](https://open.spotify.com/track/32I23NQM4JHjLVZxwxXhDE) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Unikając Odpowiedzi EP](https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ) | 3:10 | 2024-11-21 | 2024-11-27 |
 | [Zima](https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Zima](https://open.spotify.com/album/3FwdYr7JH0uddOIiyKizw2) | 3:57 | 2024-11-21 | 2024-11-24 |
 | [Znak](https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Znak](https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C) | 2:53 | 2024-09-20 | 2024-10-08 |
 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 | 2024-11-21 |  |

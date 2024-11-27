@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,673 likes - 104 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,710 likes - 104 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 4 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 |
 | 5 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 6 | [希望の轍](https://open.spotify.com/track/2UYBoHQfheo5OtnjRd9by1) | [稲村オーケストラ](https://open.spotify.com/artist/6ovZjMkK5p5dWzQeLDDIcF) | [稲村ジェーン](https://open.spotify.com/album/6m30t2ICXcWO4rDjIXqfeM) | 4:16 |
-| 7 | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
-| 8 | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
+| 7 | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
+| 8 | [ミス・ブランニュー・デイ（MISS BRAND\-NEW DAY）](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
 | 9 | [いとしのエリー](https://open.spotify.com/track/7itS0NjYHtmXPq8xXacNZe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いとしのエリー](https://open.spotify.com/album/7okBhxOXYJhZGrgYnq4KQ3) | 4:26 |
 | 10 | [HOTEL PACIFIC](https://open.spotify.com/track/1VjiZjzitQ7MweLmRxwLNW) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [HOTEL PACIFIC](https://open.spotify.com/album/2MRlAxaI4D4B8S8zr8Tq4S) | 4:47 |
 | 11 | [勝手にシンドバッド](https://open.spotify.com/track/1X7VQFZ23MgWshmLHYFRsZ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [勝手にシンドバッド](https://open.spotify.com/album/4VD65BOCQSD1KMnchWlyL4) | 3:57 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 67 | [Happy Birthday](https://open.spotify.com/track/0zvmdVqVekWfgqB0Ue3zMp) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:42 |
 | 68 | [ラチエン通りのシスター](https://open.spotify.com/track/2RsEc4yJlkysDpvJJpjGS4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [10ナンバーズ・からっと](https://open.spotify.com/album/4LHQULS4KxSqq1NpZDjnPP) | 4:07 |
 | 69 | [夏の日のドラマ](https://open.spotify.com/track/6LPf6hslQiDBwt4czEJzm4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [イエローマン \~星の王子様\~](https://open.spotify.com/album/2sakru6aGav5mv6AkbXYNs) | 5:11 |
-| 70 | [八月の詩\(セレナード\)](https://open.spotify.com/track/41IImnrL5vB7P0YI0sSou0) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:56 |
+| 70 | [八月の詩（セレナード）](https://open.spotify.com/track/41IImnrL5vB7P0YI0sSou0) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:56 |
 | 71 | [タバコ・ロードにセクシーばあちゃん](https://open.spotify.com/track/6RUj7jiQoih6jZcl7lNwgJ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [タイニイ・バブルス](https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL) | 3:35 |
 | 72 | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/track/5FY5XusUqcNTG3xeD9Rr1P) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/album/50GrjjFDrBCATfkkW503GH) | 5:54 |
 | 73 | [壮年JUMP](https://open.spotify.com/track/2yvM6c4sAkjcd4UrJap3v8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [壮年JUMP](https://open.spotify.com/album/3ir9ZV7VTphWaac10p9RWC) | 4:30 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 75 | [OH, GIRL（悲しい胸のスクリーン）](https://open.spotify.com/track/1VRqtVKwdsvOQu7FxcUWRy) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド３ ～the album of LOVE～](https://open.spotify.com/album/2UVNn2pM6ARwyJ5HxdPBFg) | 3:55 |
 | 76 | [フリフリ '65](https://open.spotify.com/track/0tbV4auaMSgdLhSL3LBxaP) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:36 |
 | 77 | [マチルダBABY](https://open.spotify.com/track/3QJyXQd9xAV5RfQtYdMuRN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:22 |
-| 78 | [ロックンロール・スーパーマン \~Rock’n Roll Superman\~](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |
+| 78 | [ロックンロール・スーパーマン ～Rock’n Roll Superman～](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |
 | 79 | [愛はスローにちょっとずつ](https://open.spotify.com/track/39vePmrWVXcFn9jfIBxhw3) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [愛はスローにちょっとずつ](https://open.spotify.com/album/3F4XXJrpD9MsEAQvTXooI2) | 4:35 |
 | 80 | [別れ話は最後に](https://open.spotify.com/track/5vJUTjbVA1NlT0A2P6lMi7) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:36 |
 | 81 | [Just A Little Bit](https://open.spotify.com/track/3a1vfZIdgamMsTIF1KFYQP) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 4:21 |

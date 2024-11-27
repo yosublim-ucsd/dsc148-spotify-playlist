@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,662 likes - 117 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,686 likes - 117 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 3 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
 | 4 | [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 |
 | 5 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
-| 6 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
-| 7 | [Pondering](https://open.spotify.com/track/0MeeXfDi0xt3n6dl3kv1yD) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Wispy Creek](https://open.spotify.com/album/7LO7dUplkR3EmY89udrLAA) | 2:31 |
-| 8 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
-| 9 | [Rolling In Grass](https://open.spotify.com/track/6n7sw6rfa1sOYBYQPvzahQ) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Rolling In Grass](https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg) | 3:02 |
-| 10 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
-| 11 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
-| 12 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
-| 13 | [Peaceful](https://open.spotify.com/track/3TfhNUPkPtL9UaAZgGsEVO) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Peaceful](https://open.spotify.com/album/4YFUurIBWEG22kvoKAEv1F) | 2:49 |
-| 14 | [Un Pájaro Duerme](https://open.spotify.com/track/2lKxf3s07Pg2n11WKlI9DH) | [Barón](https://open.spotify.com/artist/4tuLEG7sEWU4B9at7TxSRa) | [Un Pájaro Duerme](https://open.spotify.com/album/0HYOM2ILFKf41vCMJRakDo) | 2:08 |
+| 6 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
+| 7 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
+| 8 | [Pondering](https://open.spotify.com/track/0MeeXfDi0xt3n6dl3kv1yD) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Wispy Creek](https://open.spotify.com/album/7LO7dUplkR3EmY89udrLAA) | 2:31 |
+| 9 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
+| 10 | [Rolling In Grass](https://open.spotify.com/track/6n7sw6rfa1sOYBYQPvzahQ) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Rolling In Grass](https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg) | 3:02 |
+| 11 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
+| 12 | [Un Pájaro Duerme](https://open.spotify.com/track/2lKxf3s07Pg2n11WKlI9DH) | [Barón](https://open.spotify.com/artist/4tuLEG7sEWU4B9at7TxSRa) | [Un Pájaro Duerme](https://open.spotify.com/album/0HYOM2ILFKf41vCMJRakDo) | 2:08 |
+| 13 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
+| 14 | [Peaceful](https://open.spotify.com/track/3TfhNUPkPtL9UaAZgGsEVO) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Peaceful](https://open.spotify.com/album/4YFUurIBWEG22kvoKAEv1F) | 2:49 |
 | 15 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
 | 16 | [Knowledge](https://open.spotify.com/track/6o6JPYBKe7nQC9Nh44hwJ3) | [Margaret Kim](https://open.spotify.com/artist/42XwJber5D62lOo4FLWOLU) | [Knowledge](https://open.spotify.com/album/4clQ5SpoxZxlWWXqoP9RAY) | 2:45 |
 | 17 | [Tantric](https://open.spotify.com/track/2OtR2GX3FKDf7JlLnGCIDu) | [OIYYIO](https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag) | [Tantric](https://open.spotify.com/album/13Sge2bQYkTqeNmKkLwxcm) | 2:40 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 116 | [Patchwork](https://open.spotify.com/track/4PwKiWYEuMoWfHz15vwEqF) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:28 |
 | 117 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 |
 
-Snapshot ID: `ZzyPCAAAAAAHo0Eh1tjVbyOEnrVX7Lc/`
+Snapshot ID: `Z0WgEwAAAABBwAYrqSDNJRkAxYJVvQUY`

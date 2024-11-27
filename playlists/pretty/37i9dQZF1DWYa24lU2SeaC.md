@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Tous vos titres Disney préférés incluant la musique de Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,214 likes - 89 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,303 likes - 89 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Libérée, Délivrée \- De "La Reine des Neiges"/Bande Originale Française](https://open.spotify.com/track/6TLtIElohuqTQfcwfVz4HR) | [Anaïs Delva](https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN) | [La Reine des Neiges \(Bande Originale Française du Film / Edition Deluxe\)](https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA) | 3:44 |
-| 2 | [Beyond \(End Credit Version\) \- From "Vaiana 2"](https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Vaiana 2"\]](https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b) | 3:16 |
+| 1 | [Aller plus loin \(Version générique de fin\) \- De "Vaiana 2"/Bande Originale Française du Film](https://open.spotify.com/track/4JzB0Rq1p1DZh3MYdxh0GN) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Aller plus loin \(Version générique de fin\) \[De "Vaiana 2"/Bande Originale Française du Film\]](https://open.spotify.com/album/3ohGXdHQcYwhQoIF9yqntT) | 3:16 |
+| 2 | [Libérée, Délivrée \- De "La Reine des Neiges"/Bande Originale Française](https://open.spotify.com/track/6TLtIElohuqTQfcwfVz4HR) | [Anaïs Delva](https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN) | [La Reine des Neiges \(Bande Originale Française du Film / Edition Deluxe\)](https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA) | 3:44 |
 | 3 | [Le bleu lumière \- De "Vaiana \- La Légende du Bout du Monde"](https://open.spotify.com/track/1ml1d60wLeKjKotkREF93S) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [Moana/Vaiana/Oceania Multi\-Language Songs, Vol\. 1](https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV) | 2:44 |
 | 4 | [Je Voudrais Déjà être Roi](https://open.spotify.com/track/4uAjN3NPLhUfQE0NP61a3n) | [Dimitri Rougeul](https://open.spotify.com/artist/3PzoTevg3zUvrwgDgDrc2v), [Melinda Attia](https://open.spotify.com/artist/0InOXzwEUnqz7x5EX5jCKH), [Michel Prudhomme](https://open.spotify.com/artist/7I7XXmoLUcGUAvnMkZkd7I) | [The Lion King: Special Edition Original Soundtrack \(French Version\)](https://open.spotify.com/album/2MO7y7tTFoEtDPI7sdf2vK) | 2:51 |
 | 5 | [Un Poco Loco](https://open.spotify.com/track/1v5cqJEwR8Nfvrst0qDVjd) | [Andrea Santamaria](https://open.spotify.com/artist/2RUsTCxBYj3MgdzloV4jtz), [Damien Ferrette](https://open.spotify.com/artist/5wLym1hw1CXzF0oSpu2Ht7) | [Coco \(Bande Originale Française du Film\)](https://open.spotify.com/album/45NSI0VCYW6vHfwD7mYZqr) | 1:52 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 | 88 | [Embrasse\-la \- De "La Petite Sirène"/Bande Originale Française du Film](https://open.spotify.com/track/1hazhYskZ7mqEV1G5uCup1) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [La Petite Sirène \(Bande originale française du Film\)](https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m) | 2:42 |
 | 89 | [He Mele No Lilo](https://open.spotify.com/track/3G9ZnSjGYyHx7e221v0qse) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 2:28 |
 
-Snapshot ID: `ZzegWAAAAAAOefaq0qBr7KJxehbrFNia`
+Snapshot ID: `Z0WYagAAAACP40EbAuNhdljpixtKFLR9`

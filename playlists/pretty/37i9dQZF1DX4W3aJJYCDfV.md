@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jazzy \(pictured\), Jack Harlow, Michael Kiwanuka and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,794 likes - 122 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,843 likes - 122 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 106 | [Spiderwick](https://open.spotify.com/track/4UCqjBmojNNvJdS0ASVPY5) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Spiderwick](https://open.spotify.com/album/7hebGdQsbUFxYyjpkxaKdD) | 2:35 |
 | 107 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 |
 | 108 | [Only One Way \(feat\. Celeste\)](https://open.spotify.com/track/65Ojtb9rCMTm3hTu4dZHmJ) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Only One Way \(feat\. Celeste\)](https://open.spotify.com/album/5ORHiTcTFTaEBJl7H1E6Yg) | 4:40 |
-| 109 | [Sultan Rahi](https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Sultan Rahi](https://open.spotify.com/album/5S3aMciVvdj3cl0X39UMWj) | 1:49 |
+| 109 | [Sultan Rahi](https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ricky Chohan](https://open.spotify.com/artist/6FDEgXyJ1K7ctKJfkLwonD) | [Sultan Rahi](https://open.spotify.com/album/5S3aMciVvdj3cl0X39UMWj) | 1:49 |
 | 110 | [Being With You](https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Being With You](https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n) | 2:21 |
 | 111 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 |
 | 112 | [hurt somebody](https://open.spotify.com/track/3aQc1wjdjYN6CaUPUUSDuI) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/5B9kNtbzaLjBYXXEQGkMF3) | 3:22 |

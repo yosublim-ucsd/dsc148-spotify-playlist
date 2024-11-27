@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 795570,
+  "num_followers": 795691,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Can't Let You Go",
         "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 154293,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Circadia",
-        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 408400,
-      "name": "Circadia",
-      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
@@ -451,26 +435,6 @@
       "duration_ms": 364543,
       "name": "Copal",
       "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "MILLONARIO",
-        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
-      },
-      "artists": [
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
-        }
-      ],
-      "duration_ms": 180863,
-      "name": "MILLONARIO",
-      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -491,6 +455,42 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 408400,
+      "name": "Circadia",
+      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "MILLONARIO",
+        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
+      },
+      "artists": [
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
+        }
+      ],
+      "duration_ms": 180863,
+      "name": "MILLONARIO",
+      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
-      },
-      "artists": [
-        {
-          "name": "Badbox",
-          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
-        }
-      ],
-      "duration_ms": 431451,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
+      },
+      "artists": [
+        {
+          "name": "Badbox",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
+        }
+      ],
+      "duration_ms": 431451,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 192786,
       "name": "Searching for God",
       "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Ma Gally",
-        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
-      },
-      "artists": [
-        {
-          "name": "Hot Oasis",
-          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
-        },
-        {
-          "name": "Weam Ismail",
-          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
-        }
-      ],
-      "duration_ms": 433330,
-      "name": "Ya Nahar Ya Gamel",
-      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
         "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 431565,
       "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
       "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Ma Gally",
+        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Weam Ismail",
+          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
+        }
+      ],
+      "duration_ms": 433330,
+      "name": "Ya Nahar Ya Gamel",
+      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Patika",
         "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 333818,
       "name": "Patika",
       "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
-      },
-      "artists": [
-        {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -1355,22 +1339,6 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
-      },
-      "artists": [
-        {
-          "name": "Theo Gramal",
-          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "Pastel",
-      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+      },
+      "artists": [
+        {
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Dilmano Dilbero (Sariel Orenda Remix)",
         "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 408000,
       "name": "Dilmano Dilbero - Sariel Orenda Remix",
       "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
+      },
+      "artists": [
+        {
+          "name": "Theo Gramal",
+          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2024-11-15 10:17:57",

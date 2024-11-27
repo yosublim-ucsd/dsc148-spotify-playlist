@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 
 > Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第7弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,324 likes - 64 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 64 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 | 21 | [ボディ・スペシャルII\(BODY SPECIAL\)](https://open.spotify.com/track/2V8uHr0FIyMhHCTSk1TcLJ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ボディ・スペシャルII](https://open.spotify.com/album/61sGfMkQzHkzLwcyEhpEM7) | 3:40 |
 | 22 | [EMANON](https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [EMANON](https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y) | 3:44 |
 | 23 | [東京シャッフル](https://open.spotify.com/track/44L9nSYEggfkASjcsAJ8y6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [東京シャッフル](https://open.spotify.com/album/0NrOx3p9gRGnLN3FSQPbaB) | 3:06 |
-| 24 | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
+| 24 | [ミス・ブランニュー・デイ（MISS BRAND\-NEW DAY）](https://open.spotify.com/track/0Asf9zPjR1XCgcqPKvk0v4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ミス・ブランニュー・デイ\(MISS BRAND\-NEW DAY\)](https://open.spotify.com/album/3g1XAorWWoGRgDB5orNPip) | 4:59 |
 | 25 | [Tarako](https://open.spotify.com/track/6jgH5KGjS6DVCBI52xath3) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Tarako](https://open.spotify.com/album/0Z2DqRSH89MZjth2SSPwcH) | 4:10 |
 | 26 | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/track/3AW6V9Xcq9IeOzSCjWA7EA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/album/5ooWZW26JBhu9rrSczdJ59) | 4:45 |
 | 27 | [メロディ\(Melody\)](https://open.spotify.com/track/5iZnhLGmNiURPiujrX50PN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [メロディ\(Melody\)](https://open.spotify.com/album/04q2o8w2sPwQjxBdyBS4DR) | 5:05 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 | 42 | [太陽は罪な奴](https://open.spotify.com/track/1xGPg02EubO3Zq5ImfJlye) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [太陽は罪な奴](https://open.spotify.com/album/4aKpkMTSuAheynGh3oJXuT) | 4:14 |
 | 43 | [01MESSENGER\~電子狂の詩\~](https://open.spotify.com/track/57IlzpTkcqBsbBChqmaMwp) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [01MESSENGER\~電子狂の詩\(うた\)\~](https://open.spotify.com/album/2tJF0dgPUcIiqwLWkqNBXO) | 4:53 |
 | 44 | [BLUE HEAVEN](https://open.spotify.com/track/470NFdYMtnF8heOel2Jyq6) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [BLUE HEAVEN](https://open.spotify.com/album/0FV8OHRAlQxDk49yXMeu8R) | 4:49 |
-| 45 | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR\~秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
+| 45 | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/track/63cSJmrM5vHdYPrwg8C36Q) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [LOVE AFFAIR～秘密のデート](https://open.spotify.com/album/4VHUIJfjVmdtx8LAnUClEy) | 5:24 |
 | 46 | [PARADISE](https://open.spotify.com/track/2PfqFQIXE3Cwnrv893Yrig) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [PARADISE](https://open.spotify.com/album/2umUDsiFYFUhRIKMWL9Hvt) | 5:57 |
 | 47 | [イエローマン \~星の王子様\~](https://open.spotify.com/track/04WYjnAra2PK6qXQ9lr3LN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [イエローマン \~星の王子様\~](https://open.spotify.com/album/2sakru6aGav5mv6AkbXYNs) | 4:45 |
 | 48 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |

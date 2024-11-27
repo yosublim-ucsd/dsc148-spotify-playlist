@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 188009,
+  "num_followers": 188043,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAAA2shHZSnu+aSuKQ1znMWIH",
+  "snapshot_id": "Z0O+AAAAAAALJrOUHbb59yPRBjahrz0N",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Thank God for Girls",
-      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurley (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
+      "duration_ms": 210186,
+      "name": "Thank God for Girls",
+      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muppets: The Green Album",
         "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
       },
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
       },
       "artists": [
         {
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
+      "duration_ms": 190586,
+      "name": "Smart Girls",
+      "url": "https://open.spotify.com/track/7lDLVDz8419lF5jkcMcYpS"
     }
   ],
   "unique_name": "This Is Weezer",

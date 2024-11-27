@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Three Days Grace",
-  "num_followers": 376760,
+  "num_followers": 376866,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193968,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Floods of Triton",
-        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 269583,
-      "name": "Floods of Triton",
-      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Unpopular",
-        "url": "https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 185553,
-      "name": "Unpopular",
-      "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "M.O.N.S.T.E.R",
         "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 216116,
       "name": "M.O.N.S.T.E.R",
       "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Unpopular",
+        "url": "https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 185553,
+      "name": "Unpopular",
+      "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -935,6 +935,30 @@
       "duration_ms": 158786,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/2I1nBbKMRuAw8cMJb66Xaw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Te'Kill'Ya",
+        "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
+      },
+      "artists": [
+        {
+          "name": "GXTP",
+          "url": "https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 219189,
+      "name": "Te'Kill'Ya",
+      "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -975,30 +999,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Te'Kill'Ya",
-        "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
-      },
-      "artists": [
-        {
-          "name": "GXTP",
-          "url": "https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 219189,
-      "name": "Te'Kill'Ya",
-      "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 152963,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "nerv",
+        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 192611,
+      "name": "nerv",
+      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "nerv",
-        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 192611,
-      "name": "nerv",
-      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
         "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 196981,
       "name": "The Story Of Our Lives",
       "url": "https://open.spotify.com/track/3EIH4AJu0eGSVNp768Mrb6"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Maze of Fools",
+        "url": "https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 198098,
+      "name": "Maze of Fools",
+      "url": "https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/67irzOwU4RwSbevSJTfYIH"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 167987,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/2KZcwDKvYrk829QBoMdZkt"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "MUD",
         "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 190858,
       "name": "MUD",
       "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/67irzOwU4RwSbevSJTfYIH"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 167987,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/2KZcwDKvYrk829QBoMdZkt"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Maze of Fools",
-        "url": "https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 198098,
-      "name": "Maze of Fools",
-      "url": "https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Blind Side Sonny",
         "url": "https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 142853,
       "name": "Blind Side Sonny",
       "url": "https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Aghori Mhori Mei",
-        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Sighommi",
-      "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Shame On Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2b3QhRrFnyLEjYsLOfFOB0"
+        "name": "Aghori Mhori Mei",
+        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
       },
       "artists": [
         {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 218537,
-      "name": "Good In Goodbye",
-      "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
+      "duration_ms": 174557,
+      "name": "Sighommi",
+      "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 178920,
       "name": "The Optimist (feat. Conquer Divide)",
       "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Shame On Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2b3QhRrFnyLEjYsLOfFOB0"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 218537,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 287666,
       "name": "Savior With A Razor (feat. Slash)",
       "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Precious Space",
+        "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "duration_ms": 161016,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/1lGxxSXAwLRcPA9i4F4Jo6"
       },
@@ -1615,6 +1631,22 @@
       "duration_ms": 179814,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/2WIdYsah4SacHx8WnU7mnc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Return to Dust",
+        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
+      },
+      "artists": [
+        {
+          "name": "Return to Dust",
+          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+        }
+      ],
+      "duration_ms": 201928,
+      "name": "Belly Up",
+      "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1639,38 +1671,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Return to Dust",
-        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
-      },
-      "artists": [
-        {
-          "name": "Return to Dust",
-          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
-        }
-      ],
-      "duration_ms": 201928,
-      "name": "Belly Up",
-      "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Precious Space",
-        "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
-      },
-      "artists": [
-        {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
-        }
-      ],
-      "duration_ms": 161016,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "In Desolation",
         "url": "https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 221801,
       "name": "In Desolation",
       "url": "https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "PAY ATTENTION",
-        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "PAY ATTENTION",
-      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 187526,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/1xLPJ7vHjjiNuFay8fcyn2"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "PAY ATTENTION",
+        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "PAY ATTENTION",
+      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Renovate",
-        "url": "https://open.spotify.com/album/1cNDqcn6iCg1avDJLAkyLo"
-      },
-      "artists": [
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Renovate",
-      "url": "https://open.spotify.com/track/2w8HehfSCazC1isrLE7AZa"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 162013,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Renovate",
+        "url": "https://open.spotify.com/album/1cNDqcn6iCg1avDJLAkyLo"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Renovate",
+      "url": "https://open.spotify.com/track/2w8HehfSCazC1isrLE7AZa"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Dream Machine (The Lucid Edition)",
-        "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 243538,
-      "name": "Love and a Smoking Gun",
-      "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "The Gallows",
         "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 230375,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Dream Machine (The Lucid Edition)",
+        "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 243538,
+      "name": "Love and a Smoking Gun",
+      "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Bomb.com",
+        "url": "https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 150788,
+      "name": "Bomb.com",
+      "url": "https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "ENMY",
         "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 320424,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Bomb.com",
-        "url": "https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 150788,
-      "name": "Bomb.com",
-      "url": "https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Turn to Stone",
+        "url": "https://open.spotify.com/album/2YuEHMRmO00RnXo7duJoV0"
+      },
+      "artists": [
+        {
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+        }
+      ],
+      "duration_ms": 187363,
+      "name": "Turn to Stone",
+      "url": "https://open.spotify.com/track/26yio6wSf4RziarIle54cY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Cheap Tequila",
         "url": "https://open.spotify.com/album/5PodcjYda5CRPz0cJdsUA0"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 210696,
       "name": "Cheap Tequila",
       "url": "https://open.spotify.com/track/3XlwjE2LirLsLqU23DjWzz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "You're Gonna Get It",
-        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 169455,
-      "name": "You're Gonna Get It",
-      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2379,6 +2379,22 @@
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "You're Gonna Get It",
+        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "You're Gonna Get It",
+      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2451,6 +2467,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Mutation",
+        "url": "https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 164939,
+      "name": "HEXXX",
+      "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Full Of Emptiness",
         "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
       },
@@ -2463,6 +2499,22 @@
       "duration_ms": 174952,
       "name": "Full Of Emptiness",
       "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2487,22 +2539,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
-      },
-      "artists": [
-        {
-          "name": "From Fall to Spring",
-          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Blood & Scars",
         "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
       },
@@ -2515,22 +2551,6 @@
       "duration_ms": 226500,
       "name": "Blood & Scars",
       "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Turn to Stone",
-        "url": "https://open.spotify.com/album/2YuEHMRmO00RnXo7duJoV0"
-      },
-      "artists": [
-        {
-          "name": "Awaken I Am",
-          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Turn to Stone",
-      "url": "https://open.spotify.com/track/26yio6wSf4RziarIle54cY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2571,22 +2591,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Mutation",
-        "url": "https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
       },
       "artists": [
         {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         },
         {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
         }
       ],
-      "duration_ms": 164939,
-      "name": "HEXXX",
-      "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
+      "duration_ms": 212310,
+      "name": "Paralyzed (feat. Attack Attack!)",
+      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2607,26 +2627,6 @@
       "duration_ms": 159220,
       "name": "Unbreakable - Reloaded",
       "url": "https://open.spotify.com/track/4LaCJo6KQzOkWHY3XxDk8Q"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        },
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 212310,
-      "name": "Paralyzed (feat. Attack Attack!)",
-      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
     },
     {
       "added_at": "2024-11-22 05:00:00",

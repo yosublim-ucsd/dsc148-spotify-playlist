@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,324 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,330 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [The Gentle Man](https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY) | 3:02 |
 | 50 | [Snapdatsh!t \- Remix](https://open.spotify.com/track/1V4LuVzWHvEPNY0S42KW1A) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Snapdatsh!t \(Remix\)](https://open.spotify.com/album/7sXEoxq5KV1jhU1g5NEede) | 3:36 |
 
-Snapshot ID: `Z0JsgAAAAAClmVBe2FvZ+nQ8Rd1gb2QV`
+Snapshot ID: `Z0O+AAAAAAB+4TZ/Ns5cDS4dVvExzlZ2`

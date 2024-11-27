@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Jordana B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,139 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,141 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 20 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
 | 21 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 | 22 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 |
-| 23 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
-| 24 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 23 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 24 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
 | 25 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 26 | [Las Mismas Canciones](https://open.spotify.com/track/3pv0spuhhPVKg7XAoes5Xj) | [Mercader](https://open.spotify.com/artist/0D3ZgvYlWKksD1ry4CByOg) | [Las Mismas Canciones](https://open.spotify.com/album/5TT4KUBenv8ZxVH7jor44M) | 2:55 |
 | 27 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
-| 28 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
+| 28 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 |
 | 29 | [Hetero Pero](https://open.spotify.com/track/5hgfnnDrhPuS3SqtpFR1nd) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Hetero Pero](https://open.spotify.com/album/0309jUpTGxLbb2lfi57Mdg) | 3:19 |
 | 30 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 31 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
-| 32 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 |
+| 32 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
 | 33 | [Hello Moto](https://open.spotify.com/track/7ihPpGUZmbrTX0CRI1VXbY) | [Mireya, Caray!](https://open.spotify.com/artist/5jfcuaJNiLfL0P4QpCTL9v) | [Hello Moto](https://open.spotify.com/album/1YZjTk9esPoHyqRn0RcXwv) | 2:58 |
 | 34 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
 | 35 | [CASI ALGO](https://open.spotify.com/track/1uGkcgGo5kq25dSJHOXQEL) | [ERRE JODR](https://open.spotify.com/artist/6kKVoJYoyaI1AKZOcOTv4u) | [CASI ALGO](https://open.spotify.com/album/5CQlx7B3h6eftZe63cz6IS) | 2:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
 | 46 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
 | 47 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 |
-| 48 | [Éxtasis](https://open.spotify.com/track/5TSphrC9zuwCkee6vipDXl) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Éxtasis](https://open.spotify.com/album/1Ef1ajEw5q9GFax0zzmOjk) | 2:45 |
-| 49 | [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 |
+| 48 | [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 |
+| 49 | [Éxtasis](https://open.spotify.com/track/5TSphrC9zuwCkee6vipDXl) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Éxtasis](https://open.spotify.com/album/1Ef1ajEw5q9GFax0zzmOjk) | 2:45 |
 | 50 | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 |
 
 Snapshot ID: `ZzxZzQAAAAD2k3WmApaXcrGCojhkV2Tw`

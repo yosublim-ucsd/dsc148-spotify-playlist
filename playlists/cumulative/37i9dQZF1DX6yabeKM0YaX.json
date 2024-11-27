@@ -63,7 +63,25 @@
     },
     {
       "album": {
-        "name": "\u6620\u753b\u300cHUG\u3063\u3068!\u30d5\u309a\u30ea\u30ad\u30e5\u30a2\u2661\u3075\u305f\u308a\u306f\u30d5\u309a\u30ea\u30ad\u30e5\u30a2 \u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30b9\u3099\u30e1\u30e2\u30ea\u30fc\u30b9\u3099\u300d\u4e3b\u984c\u6b4c\u30b7\u30f3\u30af\u3099\u30eb",
+        "name": "\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u66f2 DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+        "url": "https://open.spotify.com/album/4FMW9Gby2WLsE0Pqr8yEA4"
+      },
+      "artists": [
+        {
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+      "url": "https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300cHUG\u3063\u3068\uff01\u30d7\u30ea\u30ad\u30e5\u30a2\u2661\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2 \u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba\u30e1\u30e2\u30ea\u30fc\u30ba\u300d\u4e3b\u984c\u6b4c\u30b7\u30f3\u30b0\u30eb",
         "url": "https://open.spotify.com/album/5xr6liN1bB2sVXWKp35GT4"
       },
       "artists": [
@@ -84,26 +102,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262720,
-      "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d5\u309a\u30ea\u30ad\u30e5\u30a2 ~\u552f\u4e00\u7121\u4e8c\u306e\u5149\u305f\u3061~",
+      "name": "DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2 \uff5e\u552f\u4e00\u7121\u4e8c\u306e\u5149\u305f\u3061\uff5e",
       "url": "https://open.spotify.com/track/7hyqWZd0TKrZXhBXKjJLT6"
-    },
-    {
-      "album": {
-        "name": "\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u66f2 DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
-        "url": "https://open.spotify.com/album/4FMW9Gby2WLsE0Pqr8yEA4"
-      },
-      "artists": [
-        {
-          "name": "Mayumi Gojo",
-          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
-        }
-      ],
-      "date_added": "2024-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214266,
-      "name": "DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
-      "url": "https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj"
     },
     {
       "album": {
@@ -143,7 +143,7 @@
     },
     {
       "album": {
-        "name": "Let's!\u30d5\u30ec\u30c3\u30b7\u30e5\u30d5\u309a\u30ea\u30ad\u30e5\u30a2! ~Hybrid ver.~/H@ppy Together!!!\u3010\u30d5\u30ec\u30c3\u30b7\u30e5\u30d5\u309a\u30ea\u30ad\u30e5\u30a2!\u3011",
+        "name": "Let's\uff01\u30d5\u30ec\u30c3\u30b7\u30e5\u30d7\u30ea\u30ad\u30e5\u30a2\uff01 \uff5eHybrid ver.\uff5e\uff0fH@ppy Together!!!\u3010\u30d5\u30ec\u30c3\u30b7\u30e5\u30d7\u30ea\u30ad\u30e5\u30a2!\u3011",
         "url": "https://open.spotify.com/album/4WY0kVLXLifC3GqyKsrQph"
       },
       "artists": [
@@ -156,42 +156,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243106,
-      "name": "H@ppy Together!!!",
+      "name": "H\uff20ppy Together!!!",
       "url": "https://open.spotify.com/track/16nSH1MIUtNW9KzzDJw9FO"
-    },
-    {
-      "album": {
-        "name": "\u300cHUG\u3063\u3068!\u30d5\u309a\u30ea\u30ad\u30e5\u30a2\u300d\u5f8c\u671f\u4e3b\u984c\u6b4c\u30b7\u30f3\u30af\u3099\u30eb HUG\u3063\u3068!YELL FOR YOU/LOVE&LOVE",
-        "url": "https://open.spotify.com/album/4WA0FbBwfBtVyklbyfm8mm"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30e5\u30a2\u30a2\u30e0\u30fc\u30eb(CV:\u7530\u6751\u3086\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/2QYtO1XxJvOafru1ZngI4T"
-        },
-        {
-          "name": "\u30ad\u30e5\u30a2\u30de\u30b7\u30a7\u30ea(CV:\u7530\u6751\u5948\u592e)",
-          "url": "https://open.spotify.com/artist/5MPc3ydgNQA5G15chdaVPE"
-        },
-        {
-          "name": "\u30ad\u30e5\u30a2\u30a8\u30c8\u30ef\u30fc\u30eb(CV.\u5c0f\u5009\u552f)",
-          "url": "https://open.spotify.com/artist/2ETs0GEWdWfR8MuvnHadNu"
-        },
-        {
-          "name": "\u30ad\u30e5\u30a2\u30a2\u30f3\u30b8\u30e5(CV.\u672c\u6cc9\u8389\u5948)",
-          "url": "https://open.spotify.com/artist/2X6lF1YW4m1DGtIBxHFrAp"
-        },
-        {
-          "name": "\u30ad\u30e5\u30a2\u30a8\u30fc\u30eb(CV.\u5f15\u5742\u7406\u7d75)",
-          "url": "https://open.spotify.com/artist/5XKvPfI01V4pTb0MsfnjSL"
-        }
-      ],
-      "date_added": "2024-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267573,
-      "name": "HUG\u3063\u3068!YELL FOR YOU",
-      "url": "https://open.spotify.com/track/5ZObTS9XQitC6ISRw5Qx38"
     },
     {
       "album": {
@@ -676,6 +642,40 @@
       "duration_ms": 257266,
       "name": "\u9b54\u6cd5\u30a2\u30e9\u30fb\u30c9\u30fc\u30e2\uff01",
       "url": "https://open.spotify.com/track/7ombYxgjRORjr2PcOXMMB3"
+    },
+    {
+      "album": {
+        "name": "\u300c\uff28\uff35\uff27\u3063\u3068\uff01\u30d7\u30ea\u30ad\u30e5\u30a2\u300d\u5f8c\u671f\u4e3b\u984c\u6b4c\u30b7\u30f3\u30b0\u30eb\u3000\uff28\uff35\uff27\u3063\u3068\uff01YELL FOR YOU\uff0fLOVE\uff06LOVE",
+        "url": "https://open.spotify.com/album/4WA0FbBwfBtVyklbyfm8mm"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30e5\u30a2\u30a2\u30e0\u30fc\u30eb(CV:\u7530\u6751\u3086\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/2QYtO1XxJvOafru1ZngI4T"
+        },
+        {
+          "name": "\u30ad\u30e5\u30a2\u30de\u30b7\u30a7\u30ea(CV:\u7530\u6751\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/5MPc3ydgNQA5G15chdaVPE"
+        },
+        {
+          "name": "\u30ad\u30e5\u30a2\u30a8\u30c8\u30ef\u30fc\u30eb(CV.\u5c0f\u5009\u552f)",
+          "url": "https://open.spotify.com/artist/2ETs0GEWdWfR8MuvnHadNu"
+        },
+        {
+          "name": "\u30ad\u30e5\u30a2\u30a2\u30f3\u30b8\u30e5(CV.\u672c\u6cc9\u8389\u5948)",
+          "url": "https://open.spotify.com/artist/2X6lF1YW4m1DGtIBxHFrAp"
+        },
+        {
+          "name": "\u30ad\u30e5\u30a2\u30a8\u30fc\u30eb(CV.\u5f15\u5742\u7406\u7d75)",
+          "url": "https://open.spotify.com/artist/5XKvPfI01V4pTb0MsfnjSL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267573,
+      "name": "\uff28\uff35\uff27\u3063\u3068\uff01YELL FOR YOU",
+      "url": "https://open.spotify.com/track/5ZObTS9XQitC6ISRw5Qx38"
     },
     {
       "album": {

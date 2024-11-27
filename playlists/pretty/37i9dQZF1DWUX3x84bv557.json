@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover:  Luna",
-  "num_followers": 164412,
+  "num_followers": 164446,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+7cAAAAAAov/kZJ7imFcY+Ie7kNSdK",
+  "snapshot_id": "Z0WnAAAAAAAXLMDwMO4+0CAz8iKqy+82",
   "tracks": [
     {
       "added_at": "2024-11-21 23:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Voor Altijd",
+        "url": "https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "duration_ms": 184375,
+      "name": "Voor Altijd",
+      "url": "https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Stewardess",
         "url": "https://open.spotify.com/album/4nDQI6KJ6PPyAuNlGepb15"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 154815,
       "name": "Heel De Nacht Alleen",
       "url": "https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Voor Altijd",
-        "url": "https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 184375,
-      "name": "Voor Altijd",
-      "url": "https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF"
     },
     {
       "added_at": "2024-11-21 23:00:00",

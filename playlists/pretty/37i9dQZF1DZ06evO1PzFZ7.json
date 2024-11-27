@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152190,
+  "num_followers": 152211,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAACI2efblJnxHF4SdEtLNQo4",
+  "snapshot_id": "Z0O+AAAAAABWJpzGkXS/hfwNncY25n7G",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 235805,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+      "duration_ms": 235805,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
     },
     {
       "added_at": null,
@@ -743,22 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Dos Almas",
-        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
+        "name": "Desde la Azotea - Fase II",
+        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186513,
-      "name": "Cuando Dos Almas",
-      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
+      "duration_ms": 242429,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde la Azotea - Fase II",
-        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
+        "name": "Cuando Dos Almas",
+        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 242429,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
+      "duration_ms": 186513,
+      "name": "Cuando Dos Almas",
+      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
     },
     {
       "added_at": null,

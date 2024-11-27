@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=Kf6RONZ3Raueyz2jlsKnYA">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,131 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,182 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 65 | [2024](https://open.spotify.com/track/6fXb9fSfrbNQtlQHORDrHP) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [2024](https://open.spotify.com/album/1bVhr90A9HlklOkRf3LckN) | 2:48 |
 | 66 | [Reya Limpopo](https://open.spotify.com/track/5WFPzxkuQxVdc48GS3Gl9u) | [Vista](https://open.spotify.com/artist/6tEP3lV5Jk2HhFqVr9jmbT), [Nompumiie](https://open.spotify.com/artist/0eER89yqphltaST31OvSvm) | [Reya Limpopo](https://open.spotify.com/album/5wMg7cYFhR3la7uNi6VN5r) | 4:06 |
 | 67 | [Cholly's Revenge](https://open.spotify.com/track/5GykI4ClUsTLQGCitCFJfC) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Cholly's Revenge](https://open.spotify.com/album/18kHkMty0mAMSw0xjL5BLQ) | 3:55 |
-| 68 | [Dali \(feat\. Stady K & Vyno Keys\)](https://open.spotify.com/track/31ImDDBCHrdpCVoEKuVDXZ) | [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Stady K](https://open.spotify.com/artist/6mNM33QXrWDSPE1VDlN6ze), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS) | [699](https://open.spotify.com/album/0xkPEj8FEutQ01H3wRteVm) | 6:57 |
+| 68 | [Dali \(feat\. Stady K, Vyno Keys & Tshepo Keyz\)](https://open.spotify.com/track/31ImDDBCHrdpCVoEKuVDXZ) | [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Stady K](https://open.spotify.com/artist/6mNM33QXrWDSPE1VDlN6ze), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [Tshepo Keyz](https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T) | [699](https://open.spotify.com/album/0xkPEj8FEutQ01H3wRteVm) | 6:57 |
 | 69 | [Wish You Were Here](https://open.spotify.com/track/4I8ndE79AI0PEU7csWqvOG) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Light of the World](https://open.spotify.com/album/7c8fMaDUL1eXyG62Lsdcd2) | 2:46 |
 | 70 | [Imali Engakanani](https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv) | [Bizzcuit](https://open.spotify.com/artist/0gPadd5VkZQLJuM40Czzd4) | [The New Era 2](https://open.spotify.com/album/3UC7aTzlumWW0g9Byn9lT5) | 2:40 |
 | 71 | [Ngisuka Kude](https://open.spotify.com/track/3AFt2XwmzzTKcOq4r4aTCS) | [Yanda TrapSkandi](https://open.spotify.com/artist/3ggaNKZl3a5iXXfdfsTp6Y) | [Ngisuka Kude](https://open.spotify.com/album/4ntoI7S1Dg7TskEavofeLY) | 3:29 |

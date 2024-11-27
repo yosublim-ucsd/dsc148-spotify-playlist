@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125716,
+  "num_followers": 125713,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATXMBj4tWGf4G1SqvYUKr+K7uZe18p",
+  "snapshot_id": "AAATXVLguE/YDEESJW4tP0o8A5JXVj4J",
   "tracks": [
+    {
+      "added_at": "2024-11-26 11:53:56",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/2FlGX8esQqep3E7GSVsdwK"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 179468,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5oGYQBgAZHvdAaWTw59eWb"
+    },
     {
       "added_at": "2024-11-25 13:08:41",
       "album": {

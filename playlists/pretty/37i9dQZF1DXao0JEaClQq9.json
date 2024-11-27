@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Becky and the Birds",
-  "num_followers": 1627505,
+  "num_followers": 1627549,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -1149,6 +1149,26 @@
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU",
@@ -1183,26 +1203,6 @@
       "duration_ms": 198967,
       "name": "Call For Help",
       "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2024-07-25 23:48:26",

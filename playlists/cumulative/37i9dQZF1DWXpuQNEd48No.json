@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "2 Days",
+        "url": "https://open.spotify.com/album/5cSPw8wV59vAOWuPA9zXav"
+      },
+      "artists": [
+        {
+          "name": "Raag 1",
+          "url": "https://open.spotify.com/artist/6gwSMvUSpSdzBBWQY5cPnh"
+        },
+        {
+          "name": "Bobby Hope",
+          "url": "https://open.spotify.com/artist/4jRroQI1GgH5cZKMMZJyAZ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "2 Days",
+      "url": "https://open.spotify.com/track/1XNKXmkefgu40Np0EwJ82V"
+    },
+    {
+      "album": {
         "name": "21.22",
         "url": "https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM"
       },
@@ -418,7 +440,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 124800,
       "name": "Ajj Di Ghadi",
       "url": "https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE"
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 176000,
       "name": "Chori Tera Dil",
       "url": "https://open.spotify.com/track/7k7ZSuuFQdEZ1ibDzwliYA"
@@ -2004,6 +2026,32 @@
       "duration_ms": 190384,
       "name": "Eicher Messi - Mafioso Chapter 1",
       "url": "https://open.spotify.com/track/3XgviOJM1jRGtuL8i9sl0c"
+    },
+    {
+      "album": {
+        "name": "El Gozo",
+        "url": "https://open.spotify.com/album/0xoQdpbrxKRfbMGoMX1gTT"
+      },
+      "artists": [
+        {
+          "name": "Jassi Prince",
+          "url": "https://open.spotify.com/artist/3OD31rCk0oTk8LSmpzx6hi"
+        },
+        {
+          "name": "Sumit Mangali",
+          "url": "https://open.spotify.com/artist/6XFpyrsgncXqUGON83CUg4"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133507,
+      "name": "El Gozo",
+      "url": "https://open.spotify.com/track/37JIRGvqGaxfba8zbrcVBk"
     },
     {
       "album": {
@@ -2756,7 +2804,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 172549,
       "name": "Haryane Aale",
       "url": "https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf"
@@ -3918,6 +3966,28 @@
       "duration_ms": 221290,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/4YU9SN7GT4cAZPjSdhjnKo"
+    },
+    {
+      "album": {
+        "name": "Link",
+        "url": "https://open.spotify.com/album/5Gtws3uG9PpDDbemKwUIRO"
+      },
+      "artists": [
+        {
+          "name": "Nitish Gujjar",
+          "url": "https://open.spotify.com/artist/6WnGrje592Fo8FQUhlGJB9"
+        },
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202394,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/6TbJba7ArLh7MVzZap3pf7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 21863,
+  "num_followers": 21876,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Hati-Hati di Jalan",
+      "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
         "name": "Terlalu Cinta",
         "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 259040,
       "name": "Terlalu Cinta",
       "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Hati-Hati di Jalan",
-      "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Semenjak Ada Dirimu",
-        "url": "https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8"
-      },
-      "artists": [
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 226956,
-      "name": "Semenjak Ada Dirimu",
-      "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Somebody's Pleasure",
         "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 275250,
       "name": "Kau Rumahku",
       "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Semenjak Ada Dirimu",
+        "url": "https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "Semenjak Ada Dirimu",
+      "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
     },
     {
       "added_at": "2024-10-03 17:00:00",

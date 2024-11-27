@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 38870,
+  "num_followers": 38884,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAACJnTIJvw/2aMI5fsTsE1ap",
+  "snapshot_id": "Z0O+AAAAAABuYfaxfEEROR2YoRaxlq9u",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Live Worship Experience",
         "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "Does Anybody Hear Her",
-      "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 241746,
       "name": "All You've Ever Wanted",
       "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 268666,
+      "name": "Does Anybody Hear Her",
+      "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
     },
     {
       "added_at": null,
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Song That the Angels Can't Sing",
-      "url": "https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF"
+      "duration_ms": 203320,
+      "name": "What If I Gave Everything",
+      "url": "https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 266426,
-      "name": "Joyful, Joyful",
-      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
+      "duration_ms": 223893,
+      "name": "Anything But Easy",
+      "url": "https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE"
     },
     {
       "added_at": null,
@@ -764,25 +780,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 203320,
-      "name": "What If I Gave Everything",
-      "url": "https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Anything But Easy",
-      "url": "https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE"
+      "duration_ms": 200933,
+      "name": "Song That the Angels Can't Sing",
+      "url": "https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF"
     },
     {
       "added_at": null,

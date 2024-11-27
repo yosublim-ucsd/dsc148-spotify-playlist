@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Manque plus qu'une p'tite Pauline \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,597 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,962 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 13 | [La misère est si belle](https://open.spotify.com/track/1s3XtkdfT3obSCbQVWtvX9) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5) | 5:04 |
 | 14 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
 | 15 | [T'es Une Etoile](https://open.spotify.com/track/76SbVeoRiCjWNlpImgqzVU) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [T'es Une Etoile](https://open.spotify.com/album/1XBaQRlYNfBtSHPWlKV1w9) | 2:40 |
-| 16 | [La Rue](https://open.spotify.com/track/2sVtUjkONtTDiKtcS1DZ3w) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [La Rue](https://open.spotify.com/album/5bT8cqZm2bp5Dseypp2Ldd) | 3:20 |
+| 16 | [La Rue](https://open.spotify.com/track/2sVtUjkONtTDiKtcS1DZ3w) | [Fresh laDouille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [La Rue](https://open.spotify.com/album/5bT8cqZm2bp5Dseypp2Ldd) | 3:20 |
 | 17 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 |
 | 18 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
 | 19 | [Lord Knows \(feat\. Tory Lanez\)](https://open.spotify.com/track/57hCSu4zMTdnSum7NBL1Ye) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 5:18 |

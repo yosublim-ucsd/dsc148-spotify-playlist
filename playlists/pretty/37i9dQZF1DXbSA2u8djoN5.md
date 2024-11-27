@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,405 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,409 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 43 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
 | 44 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 |
 | 45 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
-| 46 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 |
-| 47 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
+| 46 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
+| 47 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 |
 | 48 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 |
-| 49 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 |
-| 50 | [Ninja \- From "Transilvanian Ninja"](https://open.spotify.com/track/4P0aDGyPXqMKwgWojPypFu) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Ninja \(From "Transilvanian Ninja"\)](https://open.spotify.com/album/5PHg8MUoEgBaweoW6mLWI4) | 3:14 |
+| 49 | [Călătorie la capătul nopții](https://open.spotify.com/track/6gPzJBlXHZ6iVDccBWoCPB) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [DOC](https://open.spotify.com/artist/29yuPsAM84rlPk1IUWu3UP) | [Călătorie la capătul nopții](https://open.spotify.com/album/6ZvTBbHpPiA8pf7I7dylLm) | 2:52 |
+| 50 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 |
 
 Snapshot ID: `Zz+tYAAAAABtLixIaeR7NzBHSumwcNUj`

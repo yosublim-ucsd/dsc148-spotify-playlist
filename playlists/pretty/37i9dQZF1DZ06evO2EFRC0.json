@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 92902,
+  "num_followers": 92915,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAACESl4OGi06BE6K6QarW5pZ",
+  "snapshot_id": "Z0O+AAAAAAC8frHAR9MKq/jrZlrallda",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coritos (En Vivo)",
         "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 687091,
       "name": "Coritos (En Vivo)",
       "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,

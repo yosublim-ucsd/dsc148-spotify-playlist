@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 124675,
       "name": "Bodiez",
       "url": "https://open.spotify.com/track/4bWrtDin82LLB3FNV7jbbF"
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 101558,
       "name": "BRAINTHREW",
       "url": "https://open.spotify.com/track/2CZ3TroZt7ajED5h1q0HNw"
@@ -7646,7 +7646,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 192000,
       "name": "DRAMA",
       "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
@@ -10154,6 +10154,28 @@
     {
       "album": {
         "name": "Ghetto",
+        "url": "https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3"
+      },
+      "artists": [
+        {
+          "name": "E.K.E.",
+          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
+        },
+        {
+          "name": "Tru Carr",
+          "url": "https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130612,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN"
+    },
+    {
+      "album": {
+        "name": "Ghetto",
         "url": "https://open.spotify.com/album/3Xlh520MTKAEVURAqdiLOm"
       },
       "artists": [
@@ -10600,7 +10622,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 150600,
       "name": "GooD KarMa (feat. G Herbo) (Remix)",
       "url": "https://open.spotify.com/track/7hxNLVhlL0rSt43qqfblGd"
@@ -11364,6 +11386,24 @@
       "duration_ms": 209081,
       "name": "High Standards",
       "url": "https://open.spotify.com/track/2EfkjrpRyqFxhiBpI3AqtL"
+    },
+    {
+      "album": {
+        "name": "MERCZONE",
+        "url": "https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185991,
+      "name": "HIGH2GETBY",
+      "url": "https://open.spotify.com/track/3lB5cmc6YVzvIXLNBqB9lF"
     },
     {
       "album": {
@@ -15884,6 +15924,24 @@
       "duration_ms": 222315,
       "name": "MCM",
       "url": "https://open.spotify.com/track/2AcBGL0khduY6lIOii1QUj"
+    },
+    {
+      "album": {
+        "name": "Tweak Till The End",
+        "url": "https://open.spotify.com/album/2S5JzCvr84WDdl1h9Gcoci"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165982,
+      "name": "Me Vs Me",
+      "url": "https://open.spotify.com/track/3ByGIhWMgrTLmnvfQqeFxb"
     },
     {
       "album": {
@@ -21422,7 +21480,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 174246,
       "name": "ROCK WITH THE MOB",
       "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"

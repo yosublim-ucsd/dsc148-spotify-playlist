@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: XinU",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: adieu",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -13412,7 +13412,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 336466,
       "name": "Kireinamamade",
       "url": "https://open.spotify.com/track/50LEOc96jsE8nyov4MoCpU"
@@ -15694,7 +15694,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 261333,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/7k3UFhBKsTNvKC19jIRfw7"
@@ -16324,6 +16324,24 @@
       "duration_ms": 208866,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r"
+    },
+    {
+      "album": {
+        "name": "Mint Cherry Cake",
+        "url": "https://open.spotify.com/album/6sGRvRO6PVRuB8lKKSXmcJ"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165292,
+      "name": "Mint Cherry Cake",
+      "url": "https://open.spotify.com/track/2oRAgGoq3YVCnJZA4lxXgZ"
     },
     {
       "album": {
@@ -19916,6 +19934,24 @@
       "duration_ms": 210250,
       "name": "Polaroid (prod. A.G.O)",
       "url": "https://open.spotify.com/track/0iJOkpME4Aq3BxF6NZ6wvL"
+    },
+    {
+      "album": {
+        "name": "RUBY POP",
+        "url": "https://open.spotify.com/album/4hqJmt2QoyXsAvIMsHbRYd"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158932,
+      "name": "Poppin' Run",
+      "url": "https://open.spotify.com/track/5i2yNVp1fdqSwOGEMcDLnX"
     },
     {
       "album": {
@@ -33007,6 +33043,24 @@
     },
     {
       "album": {
+        "name": "adieu 4",
+        "url": "https://open.spotify.com/album/6F2xtnKwIOQKWJUL9k19WP"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "\u307b\u3057\u304f\u305a",
+      "url": "https://open.spotify.com/track/6kl8sN4izdPJ6SNkDs4IlO"
+    },
+    {
+      "album": {
         "name": "\u307b\u307c\u6c34\u306e\u6ce1",
         "url": "https://open.spotify.com/album/6wSEfyPZhua15CP9CbIzdA"
       },
@@ -40498,7 +40552,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 201710,
       "name": "\u5148\u8f29",
       "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"

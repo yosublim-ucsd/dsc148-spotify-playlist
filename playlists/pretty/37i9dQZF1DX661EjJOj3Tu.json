@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 519349,
+  "num_followers": 519352,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dig My Feeling",
         "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 220198,
       "name": "Dig My Feeling",
       "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "A Donde Voy",
         "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 279848,
       "name": "A Donde Voy",
       "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Virtual Birdland",
-        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
-      },
-      "artists": [
-        {
-          "name": "Arturo O'Farrill",
-          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
-        },
-        {
-          "name": "The Afro Latin Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
-        }
-      ],
-      "duration_ms": 440053,
-      "name": "Para Los Rumberos",
-      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Pedrito Martinez Group",
         "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
       },
@@ -1639,18 +1619,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
+        "name": "Virtual Birdland",
+        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
       },
       "artists": [
         {
-          "name": "Matthieu Saglio",
-          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
+        },
+        {
+          "name": "The Afro Latin Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
         }
       ],
-      "duration_ms": 355668,
-      "name": "Madiba",
-      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
+      "duration_ms": 440053,
+      "name": "Para Los Rumberos",
+      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 267240,
       "name": "Brazilian Love Affair",
       "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
+      },
+      "artists": [
+        {
+          "name": "Matthieu Saglio",
+          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+        }
+      ],
+      "duration_ms": 355668,
+      "name": "Madiba",
+      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 269480,
       "name": "I'll Call You Later",
       "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
+      },
+      "artists": [
+        {
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1795,18 +1811,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Manuel Valera",
+          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
+        },
+        {
+          "name": "New Cuban Express",
+          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
         }
       ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+      "duration_ms": 256266,
+      "name": "Chamber Timba",
+      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1835,26 +1855,6 @@
       "duration_ms": 334746,
       "name": "Sonic Anomaly",
       "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Valera",
-          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
-        },
-        {
-          "name": "New Cuban Express",
-          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Chamber Timba",
-      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
     }
   ],
   "unique_name": "Latin Jazz",

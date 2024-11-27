@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,295 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,341 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CCHIU' FORT \(feat\. Cosang\)](https://open.spotify.com/track/4VplahQrqfyJoLTcZEouqy) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 3:15 |
+| 1 | [CCHIU' FORT \(feat\. Cosang\)](https://open.spotify.com/track/4VplahQrqfyJoLTcZEouqy) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 3:15 |
 | 2 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
 | 3 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 4 | [Skincare \(feat\. Guè & Yung Snapp\)](https://open.spotify.com/track/5zT1c5TS9rgUh2hcdG9cY0) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 2:47 |

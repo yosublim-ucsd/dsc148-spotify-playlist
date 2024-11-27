@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 守夜人 \(Night Keepers\)
 
-281 songs - 18 hr 5 min
+282 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [難以感受幸福的人](https://open.spotify.com/track/0FCzSaOq81MMasbzM6u60Z) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [難以感受幸福的人](https://open.spotify.com/album/52dRBboZZw82ny1KRDIr4O) | 3:42 | 2024-10-03 |  |
 | [需要被需要](https://open.spotify.com/track/3oNe40aiD739qYkepBk9jJ) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [需要被需要](https://open.spotify.com/album/566h3cT8kS2kXwhMwJFIxX) | 4:15 | 2024-09-12 | 2024-10-04 |
 | [面面相覷](https://open.spotify.com/track/5CSZ16QzIMfn5o1foOYry1) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [面面相覷](https://open.spotify.com/album/2arlptaoqAS4Bh8ROxSkWh) | 3:57 | 2024-09-06 | 2024-09-27 |
+| [順行](https://open.spotify.com/track/5ShBJ9qAbHhQhUmfAC3ald) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [順行](https://open.spotify.com/album/5YQu48zefXhzzNebuwG1Wk) | 4:33 | 2024-11-21 |  |
 | [頑強](https://open.spotify.com/track/5zEqQlsvAbeUlA8Te6iYM5) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [頑強](https://open.spotify.com/album/0eyiWbVf5eEz0yExIGUcQg) | 4:32 | 2024-10-17 |  |
 | [風輕輕仔吹](https://open.spotify.com/track/69iZZoey1y1ZRpFvJsbPpo) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [風輕輕仔吹](https://open.spotify.com/album/3UD2ySditNywU2ucF6pgKy) | 4:15 | 2024-06-28 |  |
 | [馬戲團運動2024CircUs \(麋先生〈馬戲團運動〉小巨蛋演唱會主題曲\)](https://open.spotify.com/track/0CrJfrRAqMYfEBeljBuEhx) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [馬戲團運動2024CircUs](https://open.spotify.com/album/4hVLBMcNOwqqPIYEdcXdWy) | 4:00 | 2024-06-28 | 2024-10-18 |

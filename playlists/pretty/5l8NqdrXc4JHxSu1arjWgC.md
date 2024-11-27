@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,478 likes - 771 songs - 2 day 3 hr 24 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,483 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -779,5 +779,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 769 | [Everybody's Stalking](https://open.spotify.com/track/5JefdRnHo6B7iV9KDscen8) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [The Hour of Bewilderbeast](https://open.spotify.com/album/7y0QwysyQgSf9fyBFr6Q3x) | 3:39 |
 | 770 | [Seed Of Memory](https://open.spotify.com/track/2tmUV0BmTTIt76pqQLcvEc) | [Terry Reid](https://open.spotify.com/artist/12fRdeKejG8BBzybGf0ygk) | [Seed Of Memory](https://open.spotify.com/album/5817ZapeVaeF6cphg5Etj2) | 5:26 |
 | 771 | [Journey Through the Past](https://open.spotify.com/track/4chKhw2tf3sOD6AK1ZBXeo) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Neil Young Archives Vol\. I \(1963 \- 1972\)](https://open.spotify.com/album/7KB2kvAO7bj7X6HRQmuZ4Q) | 2:21 |
+| 772 | [Generals And Majors \- 2001 Remaster](https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Black Sea](https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU) | 4:04 |
 
-Snapshot ID: `AAAGv/L7ufQCN5DgHrW8vdSeggCVjUYI`
+Snapshot ID: `AAAGwKGFsME3sD/pbK7g/nh/yw+IpxZ6`

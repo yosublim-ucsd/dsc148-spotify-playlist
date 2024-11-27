@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ezhel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,359 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,623 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Derdo](https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:38 |
-| 2 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
-| 3 | [Rastafari](https://open.spotify.com/track/0A0N50u0PcfmYb3R4UOpAr) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Rastafari](https://open.spotify.com/album/2sznOY5OvDvNYfjo0nPKPj) | 2:17 |
+| 2 | [Rastafari](https://open.spotify.com/track/0A0N50u0PcfmYb3R4UOpAr) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Rastafari](https://open.spotify.com/album/2sznOY5OvDvNYfjo0nPKPj) | 2:17 |
+| 3 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 4 | [YOK ZATEN](https://open.spotify.com/track/60lTWzHtqeho3Tk80eQrBJ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YOK ZATEN](https://open.spotify.com/album/2VbGVn2I2j2t3oKM43VuQm) | 1:53 |
 | 5 | [BLOOM](https://open.spotify.com/track/22LVc4hZVIIEi0z3oB5IIA) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [BLOOM](https://open.spotify.com/album/5Kwy0e1unaVXXG5IHThQYW) | 2:31 |
 | 6 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 |
-| 7 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
-| 8 | [7/24](https://open.spotify.com/track/6BePz3rGi5PYaGlQAVUXUa) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:47 |
+| 7 | [Alpi](https://open.spotify.com/track/0Qswuc7isupiZ5DGxYsRvA) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 2:56 |
+| 8 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
 | 9 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
 | 10 | [Nerdesin](https://open.spotify.com/track/7DtgY5ChLUlmCJjdRM1RzO) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Nerdesin](https://open.spotify.com/album/3g4xFFZqFJi4p3s6Eq7RwL) | 2:23 |
-| 11 | [Alpi](https://open.spotify.com/track/0Qswuc7isupiZ5DGxYsRvA) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 2:56 |
-| 12 | [bir](https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [bir](https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg) | 3:17 |
+| 11 | [bir](https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [bir](https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg) | 3:17 |
+| 12 | [7/24](https://open.spotify.com/track/6BePz3rGi5PYaGlQAVUXUa) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:47 |
 | 13 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
 | 14 | [Ne Var Ne Yok \- Remix](https://open.spotify.com/track/13792h7DnkkzICufpcUbvS) | [Chefket](https://open.spotify.com/artist/5cfZNNUl6K82ZIWoWYSbcw), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Ne Var Ne Yok \(Remix\)](https://open.spotify.com/album/6zteg8cfvf25p75sCCYunE) | 2:30 |
 | 15 | [Anlat](https://open.spotify.com/track/1zTtEGttQKzKgtYhEKyfP9) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Anlat](https://open.spotify.com/album/1G9m9FcKRWBKPXhfV3CkV9) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 |
 | 50 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
 
-Snapshot ID: `Zz+gZQAAAAD6J64QD0uoiyrm5FUQvX5u`
+Snapshot ID: `Z0Wi2AAAAAAIBPdN5Kjo7fQci36lSDup`

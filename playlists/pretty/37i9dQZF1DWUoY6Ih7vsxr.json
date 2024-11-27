@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 287630,
+  "num_followers": 287806,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 236817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "BLOCKBUSTER",
         "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 211330,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 236817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "Mr. Simple - The 5th Album",
+        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 241826,
+      "name": "Mr. Simple",
+      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mr. Simple - The 5th Album",
-        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 241826,
-      "name": "Mr. Simple",
-      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",

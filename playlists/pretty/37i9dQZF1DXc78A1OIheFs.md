@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,606 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,607 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 38 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
 | 39 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
 | 40 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
-| 41 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 |
+| 41 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
 | 42 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 |
-| 43 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
+| 43 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 |
 | 44 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
 | 45 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 |
 | 46 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 50 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 |
 | 51 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |
 | 52 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
-| 53 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
-| 54 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 |
+| 53 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 |
+| 54 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
 | 55 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 |
 | 56 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 57 | [Some Kind of Angel](https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:34 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 69 | [Mumma and Me](https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mumma and Me](https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl) | 3:32 |
 | 70 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 |
 | 71 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 |
-| 72 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 |
+| 72 | [Time Of My Life](https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Time Of My Life](https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw) | 2:29 |
 | 73 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 |
 | 74 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 |
-| 75 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 |
+| 75 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 |
 
 Snapshot ID: `ZyydsAAAAABxJiNfWH4YseV92CmvP69M`

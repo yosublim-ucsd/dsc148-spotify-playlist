@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,163 likes - 33 songs - 2 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,159 likes - 36 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,15 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 24 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 |
 | 25 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 |
 | 26 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 |
-| 27 | [A Way To Survive](https://open.spotify.com/track/5v6mIa5qIQuPspYkEIjW9g) | [Snowpony](https://open.spotify.com/artist/6zeIzXom65EtpRZJgGLHZj) | [The Slow\-Motion World Of Snowpony](https://open.spotify.com/album/16DhidWzZeHn2xdCAGJF0S) | 4:26 |
-| 28 | [Fussball Politics](https://open.spotify.com/track/0ndmRaklMcl9CVBahHrPHw) | [Cousin](https://open.spotify.com/artist/2E58ObVipz7mTA9iW95VdE) | [Alternate Tunings for Regular People](https://open.spotify.com/album/7tIPyrgJ8OMQBqMmIm0Znf) | 3:33 |
-| 29 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 |
-| 30 | [See What I Need](https://open.spotify.com/track/38czcDNnalIA2OfXXw7oME) | [West Coast Modern Day Punk Rock Orchestra](https://open.spotify.com/artist/2ArRDH9p0aQ4SlKUAnAbKA) | [Correspondence](https://open.spotify.com/album/7tqYJyAD2OCNX3E93VS6h2) | 4:11 |
-| 31 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 |
-| 32 | [Rhubarb Pie](https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio) | [Fan Modine](https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy) | [Slow Road to Tiny Empire](https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm) | 4:05 |
-| 33 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 |
+| 27 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 |
+| 28 | [A Way To Survive](https://open.spotify.com/track/5v6mIa5qIQuPspYkEIjW9g) | [Snowpony](https://open.spotify.com/artist/6zeIzXom65EtpRZJgGLHZj) | [The Slow\-Motion World Of Snowpony](https://open.spotify.com/album/16DhidWzZeHn2xdCAGJF0S) | 4:26 |
+| 29 | [Fussball Politics](https://open.spotify.com/track/0ndmRaklMcl9CVBahHrPHw) | [Cousin](https://open.spotify.com/artist/2E58ObVipz7mTA9iW95VdE) | [Alternate Tunings for Regular People](https://open.spotify.com/album/7tIPyrgJ8OMQBqMmIm0Znf) | 3:33 |
+| 30 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 |
+| 31 | [See What I Need](https://open.spotify.com/track/38czcDNnalIA2OfXXw7oME) | [West Coast Modern Day Punk Rock Orchestra](https://open.spotify.com/artist/2ArRDH9p0aQ4SlKUAnAbKA) | [Correspondence](https://open.spotify.com/album/7tqYJyAD2OCNX3E93VS6h2) | 4:11 |
+| 32 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 |
+| 33 | [Rhubarb Pie](https://open.spotify.com/track/1UXYnTSmLGN7U1jKI8nQio) | [Fan Modine](https://open.spotify.com/artist/0WxX5uY3mZGHeFHTONNnxy) | [Slow Road to Tiny Empire](https://open.spotify.com/album/4FX5DJV3KOdaOapzzfYgHm) | 4:05 |
+| 34 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 |
+| 35 | [Just The Way You Are \- 2008 Pop Rework](https://open.spotify.com/track/5IzHTnkLdS2MgUnupYqeK3) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star 2008](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:42 |
+| 36 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 |
 
-Snapshot ID: `AAALclKMeaESPCn6KmqYqJfrNaiwkkt9`
+Snapshot ID: `AAALdq6U2chFu0nmvFGVRY6RF1PwSL/k`

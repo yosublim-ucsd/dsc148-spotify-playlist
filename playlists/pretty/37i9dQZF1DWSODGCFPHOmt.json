@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Panter Belico\n",
-  "num_followers": 11100,
+  "num_followers": 11112,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "El A\u00f1o Viejo",
-        "url": "https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        },
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
         "name": "Mi Burrito Sabanero",
         "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
@@ -563,22 +543,6 @@
       "duration_ms": 178440,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
-        "name": "Los Ultimos Exitos De Rigo Tovar",
-        "url": "https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 381706,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -599,6 +563,26 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
+        "name": "El A\u00f1o Viejo",
+        "url": "https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        },
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
         "name": "Navidad Rock",
         "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 127373,
       "name": "Navidad Rock",
       "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "Los Ultimos Exitos De Rigo Tovar",
+        "url": "https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 381706,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Un Diciembre Diferente",
-        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 202970,
-      "name": "Un Diciembre Diferente",
-      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 257586,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "Un Diciembre Diferente",
+        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 202970,
+      "name": "Un Diciembre Diferente",
+      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187853,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
+        "name": "Alrededor del \u00c1rbol de Navidad",
+        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Alrededor del A\u0301rbol de Navidad",
+      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
         "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
         "url": "https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
-        "name": "Alrededor del \u00c1rbol de Navidad",
-        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Alrededor del A\u0301rbol de Navidad",
-      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "A\u00f1o Con A\u00f1o",
-        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
       "artists": [
         {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 233864,
-      "name": "A\u00f1o Con A\u00f1o",
-      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+      "duration_ms": 217693,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
         "name": "La G\u00fcera Salom\u00e9",
         "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
       },
@@ -1103,22 +1087,6 @@
       "duration_ms": 224586,
       "name": "La G\u00fcera Salom\u00e9",
       "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
-        }
-      ],
-      "duration_ms": 215310,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1139,6 +1107,38 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "duration_ms": 215310,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "A\u00f1o Con A\u00f1o",
+        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 233864,
+      "name": "A\u00f1o Con A\u00f1o",
+      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
         "name": "Navidad Para Ti",
         "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
       },
@@ -1151,38 +1151,6 @@
       "duration_ms": 231213,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
-        "name": "Otra Cartita M\u00e1s",
-        "url": "https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "Otra Cartita M\u00e1s",
-      "url": "https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1203,6 +1171,22 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
         "name": "Alma Navide\u00f1a",
         "url": "https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 243290,
       "name": "Alma Navide\u00f1a",
       "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
+        "name": "Posada Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
       },
       "artists": [
         {
-          "name": "Banda Fortuna",
-          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 190146,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
+      "duration_ms": 154133,
+      "name": "Regalo De Reyes",
+      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Posada Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Regalo De Reyes",
-      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
-    },
-    {
-      "added_at": "2024-11-01 18:41:11",
-      "album": {
         "name": "Jingle Bells (Vamos All The Way)",
         "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2024-11-01 18:41:11",
+      "album": {
+        "name": "Otra Cartita M\u00e1s",
+        "url": "https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "Otra Cartita M\u00e1s",
+      "url": "https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713"
     },
     {
       "added_at": "2024-11-01 18:41:11",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-11-01 18:41:11",
       "album": {
-        "name": "Sonidos de la Navidad",
-        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 135120,
-      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
-      "url": "https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT"
+      "duration_ms": 149276,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
     }
   ],
   "unique_name": "La Posada",

@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "every song is about you",
+        "url": "https://open.spotify.com/album/2E6iLOGtf032ItSL9vnZVM"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167407,
+      "name": "double down",
+      "url": "https://open.spotify.com/track/3hYrteACGpEyPWATKY6mD2"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE"
       },
@@ -5578,7 +5596,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 210658,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"

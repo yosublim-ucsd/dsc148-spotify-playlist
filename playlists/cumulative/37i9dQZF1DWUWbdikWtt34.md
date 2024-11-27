@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1000 Janji Ku Tepati](https://open.spotify.com/track/75cExnLdeVWbjS4p3p37fK) | [Aprilian](https://open.spotify.com/artist/7s0Yla5fpCegma2wOf2F2v), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [1000 Janji Ku Tepati](https://open.spotify.com/album/1nTadaP0SnahWnxLnAKd4a) | 5:17 | 2023-09-07 |  |
+| [1000 Janji Ku Tepati](https://open.spotify.com/track/75cExnLdeVWbjS4p3p37fK) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [1000 Janji Ku Tepati](https://open.spotify.com/album/1nTadaP0SnahWnxLnAKd4a) | 5:17 | 2023-09-07 |  |
 | [Ada Cerita](https://open.spotify.com/track/3UQldVp9e0dWy72Kb6pQW6) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Cerita](https://open.spotify.com/album/6U9TkrXKstXYQjcBqAHCJR) | 3:42 | 2021-08-23 | 2023-12-15 |
 | [Ada Dia Antara Kita](https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ada Dia Antara Kita](https://open.spotify.com/album/60eciJ0xs7alQ8NhJFz9pc) | 3:43 | 2021-08-23 | 2023-08-18 |
 | [Ada Rindu](https://open.spotify.com/track/4lTELaWuppMIZVkwp9Wg2S) | [OM Adella](https://open.spotify.com/artist/4AyqsAJtq9WJR8J1v1eZWg), [Difarina Indra](https://open.spotify.com/artist/5XIRSzjzxVZRrUnOYd8L4V) | [Ada Rindu](https://open.spotify.com/album/3ejVb2oUzdJiGRjMqaA2Zj) | 5:24 | 2024-10-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 | 50 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 
-Snapshot ID: `LtfoIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

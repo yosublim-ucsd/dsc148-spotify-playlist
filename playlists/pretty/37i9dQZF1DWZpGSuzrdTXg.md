@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,740 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,738 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 5 | [Time To Talk](https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Time To Talk](https://open.spotify.com/album/4uJTZ5NqiavcZcWTi3JvUK) | 3:23 |
 | 6 | [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 |
 | 7 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 |
-| 8 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
+| 8 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
 | 9 | [Life Support](https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Going My Own Way](https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW) | 2:41 |
 | 10 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 |
 | 11 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 |

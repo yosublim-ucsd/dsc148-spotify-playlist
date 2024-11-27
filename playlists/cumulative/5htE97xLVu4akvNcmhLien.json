@@ -793,24 +793,6 @@
     },
     {
       "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "date_added": "2019-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
-    },
-    {
-      "album": {
         "name": "Aprendi a Amar",
         "url": "https://open.spotify.com/album/150yOgaqtpp8GxS9ho5Xg0"
       },
@@ -1096,6 +1078,24 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2019-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
     },
     {
       "album": {

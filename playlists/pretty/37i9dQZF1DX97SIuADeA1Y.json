@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 340989,
+  "num_followers": 340994,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Better Place - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "SexyBack",
         "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
       },
@@ -711,22 +691,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         },
         {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -743,6 +723,26 @@
       "duration_ms": 151384,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 13 min
+94 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 | 2024-01-29 | 2024-05-24 |
 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 |  |
 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 | 2024-02-14 | 2024-11-15 |
+| [Ay Que Tristesa](https://open.spotify.com/track/2aF5CPsfybvK61FZxddIos) | [El Domador](https://open.spotify.com/artist/57sLlKPLTZrxL5vXMNh46v), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Para Adoloridos](https://open.spotify.com/album/5eGnXRiE9XXI8zTVuXSI8g) | 3:57 | 2024-11-27 |  |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2024-01-29 |  |
 | [Brillando Bengalas](https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0) | 2:27 | 2024-09-22 |  |
 | [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 | 2024-09-22 |
@@ -71,7 +72,7 @@
 | [Me Gusta Tener De a Dos \(Live\)](https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:37 | 2024-01-29 |  |
 | [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 | 2024-01-29 |  |
 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 | 2024-01-29 |  |
-| [MI TIEMPO ES YA](https://open.spotify.com/track/3LXRN5pz0PAy4KL042chGz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:39 | 2024-01-29 |  |
+| [MI TIEMPO ES YA](https://open.spotify.com/track/3LXRN5pz0PAy4KL042chGz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:39 | 2024-01-29 | 2024-11-27 |
 | [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 | 2024-01-29 |  |
 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 | 2024-01-29 |  |
 | [NO LLORES MÁS](https://open.spotify.com/track/0WBFkBlu7H0l3s7qgEIMqd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO LLORES MÁS](https://open.spotify.com/album/3vXhGGDTFI8BXhAzJLV6qU) | 3:15 | 2024-05-05 | 2024-08-25 |

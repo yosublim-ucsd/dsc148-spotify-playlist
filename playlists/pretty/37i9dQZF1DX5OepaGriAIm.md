@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,721 likes - 132 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,788 likes - 132 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 118 | [Jeepers Creepers 2.0](https://open.spotify.com/track/3ygR25P4DTl2tGBMHOSE3U) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Little Secret](https://open.spotify.com/album/5FBo8px0aU5LFEa1tL3bbo) | 2:59 |
 | 119 | [La Vie En Rose](https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [La Vie En Rose](https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg) | 1:45 |
 | 120 | [The Capitalist Blues](https://open.spotify.com/track/1gmXgCwyAWkJasJpatEt99) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/7fvhdxZ2ZaRpHgfOOGYtwZ) | 3:55 |
-| 121 | [Your Love Is Mine \(feat\. Corinne Bailey Rae\) \- Nostalgia 77 Remix](https://open.spotify.com/track/0sGFsWPYyhN4X9LKT1EiOv) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Re:Mixed](https://open.spotify.com/album/4p11Kaw9TBxfcRRXk8rlPn) | 3:17 |
+| 121 | [Your Love Is Mine \- Nostalgia 77 Remix](https://open.spotify.com/track/0sGFsWPYyhN4X9LKT1EiOv) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Re:Mixed](https://open.spotify.com/album/4p11Kaw9TBxfcRRXk8rlPn) | 3:17 |
 | 122 | [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 |
 | 123 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 |
 | 124 | ['S Wonderful / They Can't Take That Away From Me](https://open.spotify.com/track/0BWN2pCgTEIqiryperxynR) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/7jLFJn7CGyMBJFauVQ26ol) | 3:00 |

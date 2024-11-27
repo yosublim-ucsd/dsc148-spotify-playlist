@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 156600,
       "name": "Afa",
       "url": "https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX"
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "GOLI KEEF",
+        "url": "https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "GOLI KEEF",
+      "url": "https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn"
+    },
+    {
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
       },
@@ -352,7 +374,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 222857,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru"
@@ -764,7 +786,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 209824,
       "name": "\u0627\u0644\u0645\u064a\u062f\u0627\u0646 \u064a\u0627\u062d\u0645\u064a\u062f\u0627\u0646",
       "url": "https://open.spotify.com/track/3bFK1D6GJNparfosj6bcQO"
@@ -830,6 +852,28 @@
       "duration_ms": 95913,
       "name": "\u0628\u0633\u064a\u0637 \u0627\u064a\u0641\u0643\u062a\u06a4",
       "url": "https://open.spotify.com/track/0AHVNC8und8XJU61876q0o"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0635\u0639\u064a\u062f",
+        "url": "https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124081,
+      "name": "\u062a\u0635\u0639\u064a\u062f",
+      "url": "https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha"
     },
     {
       "album": {
@@ -924,6 +968,28 @@
       "duration_ms": 183400,
       "name": "\u0648\u0644\u0627 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/4fFlBKt5bsLqEDBHOUtjwe"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0645\u0651\u0631 \u0627\u0644\u0648\u0642\u062a",
+        "url": "https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a"
+      },
+      "artists": [
+        {
+          "name": "Grzzlee",
+          "url": "https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "\u064a\u0645\u0651\u0631 \u0627\u0644\u0648\u0642\u062a",
+      "url": "https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5BeS7oLnHFo"

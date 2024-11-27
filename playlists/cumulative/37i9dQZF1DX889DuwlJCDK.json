@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30d6\u30e9\u30f3\u30c7\u30fc\u6226\u8a18",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chevon",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 252436,
       "name": "IMAWOIKIRUANATAHE",
       "url": "https://open.spotify.com/track/2taXznoWlErG1OBNMLrl79"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 122500,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5qUyhL75s2zS94eSRiAQE5"
@@ -5594,6 +5594,24 @@
       "duration_ms": 221166,
       "name": "STRAIGHT FLUSH",
       "url": "https://open.spotify.com/track/6VvoU86iSxFn5KOjVQ0vrL"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222394,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg"
     },
     {
       "album": {
@@ -8661,6 +8679,24 @@
     },
     {
       "album": {
+        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+        "url": "https://open.spotify.com/album/6h8M1OdYODvjyLoEgH7sbV"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+      "url": "https://open.spotify.com/track/5CgGj8pJIvPiX9hHsi1WCa"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
         "url": "https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7"
       },
@@ -11262,7 +11298,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 220592,
       "name": "\u541b\u306e\u5f7c\u6c0f\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU"
@@ -14298,6 +14334,24 @@
       "duration_ms": 205600,
       "name": "\u91d1\u6728\u7280",
       "url": "https://open.spotify.com/track/1VlUWjaVvYriHH6luqNndp"
+    },
+    {
+      "album": {
+        "name": "\u9283\u96fb\u4e2d",
+        "url": "https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211900,
+      "name": "\u9283\u96fb\u4e2d",
+      "url": "https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF"
     },
     {
       "album": {

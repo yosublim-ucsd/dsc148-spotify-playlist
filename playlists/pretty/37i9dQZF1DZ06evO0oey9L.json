@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 91059,
+  "num_followers": 91072,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAACywOYBG/vae7pw57umVQUz",
+  "snapshot_id": "Z0O+AAAAAAAJQ8zPEm5Pu6RsV2WRLk+y",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Exceso Me Encanto",
+        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "El Exceso Me Encanto",
+      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Exceso Me Encanto",
-        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "El Exceso Me Encanto",
-      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
     },
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tra Trakas",
-        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Alexander Zavala",
-          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Tra Trakas",
-      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+        "name": "Tra Trakas",
+        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Alexander Zavala",
+          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
         }
       ],
-      "duration_ms": 147999,
-      "name": "Fino El Porteson",
-      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+      "duration_ms": 163500,
+      "name": "Tra Trakas",
+      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
     },
     {
       "added_at": null,

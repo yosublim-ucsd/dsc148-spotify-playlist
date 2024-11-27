@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Negramaro
 
-614 songs - 1 day 7 hr 40 min
+615 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 | 2024-07-25 | 2024-09-06 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-27 | 2024-07-27 |
 | [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 | 2024-10-17 | 2024-11-15 |
-| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 |  |
+| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 | 2024-11-27 |
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-06-27 | 2024-07-05 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 |  |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-17 | 2024-11-15 |
@@ -287,6 +287,7 @@
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-18 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-11 |
 | [La malvagità](https://open.spotify.com/track/7GE817B6wK5cJ1POIxRqZP) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [La malvagità](https://open.spotify.com/album/7GiOnUXD7leRSUzniBOQq9) | 3:14 | 2024-10-03 | 2024-10-18 |
+| [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 | 2024-11-26 |  |
 | [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 | 2024-08-09 | 2024-08-23 |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 | 2024-10-25 |
 | [Lacrime Moët](https://open.spotify.com/track/340Ci6iQEILoPT1tL0Eqf5) | [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [Lacrime Moët](https://open.spotify.com/album/5vLqRJY0uIrIo7iSIm9TZd) | 2:45 | 2024-06-27 | 2024-07-05 |

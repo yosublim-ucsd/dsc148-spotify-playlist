@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: NAZVA
 
-208 songs - 10 hr 53 min
+209 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [плівки](https://open.spotify.com/track/2pNLRX7lJUYgmBqRjuAHSk) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [плівки](https://open.spotify.com/album/6HKshbrJHNH6VCs9ZnVELC) | 3:50 | 2024-09-13 | 2024-10-05 |
 | [Повітряна тривога \- Live](https://open.spotify.com/track/2zU7cgLsX0eEICgyniaRju) | [Stas Koroliov](https://open.spotify.com/artist/70TxtvTyPS98m6a9p3IIfa), [Оля Шурова](https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf) | [R2:ЦУ live at Brave! Factory](https://open.spotify.com/album/7BdOGwQuZfPPu8ANWBCU9w) | 9:03 | 2024-10-04 | 2024-10-19 |
 | [Поділ](https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Поділ](https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa) | 2:12 | 2024-06-27 | 2024-10-19 |
+| [попіл на губах](https://open.spotify.com/track/2cegBMIyIe3TQCncVdPh3u) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [попіл на губах](https://open.spotify.com/album/2lGjjKpk7azI7Fu8HGn8M7) | 3:48 | 2024-11-07 |  |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 |  |
 | [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 | 2024-07-12 |
 | [Прилинь](https://open.spotify.com/track/0v2u6wL3yYe0LFyUT3V6xN) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Прилинь](https://open.spotify.com/album/1QAKc2WTQbLrbap6zlJyCU) | 2:36 | 2024-07-12 | 2024-08-18 |
@@ -168,7 +169,7 @@
 | [Спрага не в справі](https://open.spotify.com/track/4KxkFBJqXHoNOb7yvSC48F) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Спрага не в справі](https://open.spotify.com/album/0QJHq7aGOWBjm5t3DDrmli) | 2:58 | 2024-08-23 | 2024-09-14 |
 | [Спробуй купи мене](https://open.spotify.com/track/2szTMCjKgBVKLyDb8SiZ6J) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Чорний лебідь](https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ) | 3:19 | 2024-06-27 |  |
 | [Стеля](https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Стеля](https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa) | 1:34 | 2024-06-27 | 2024-08-21 |
-| [столиця](https://open.spotify.com/track/5wSWvmaWRWFFPIBTmGAzTC) | [sichneva](https://open.spotify.com/artist/4KS49UDA2SDyXcWlJFYNkh) | [столиця](https://open.spotify.com/album/2lo9eg5DwRw8JQDzMAPplP) | 2:42 | 2024-10-18 |  |
+| [столиця](https://open.spotify.com/track/5wSWvmaWRWFFPIBTmGAzTC) | [sichneva](https://open.spotify.com/artist/4KS49UDA2SDyXcWlJFYNkh) | [столиця](https://open.spotify.com/album/2lo9eg5DwRw8JQDzMAPplP) | 2:42 | 2024-10-18 | 2024-11-27 |
 | [Страх](https://open.spotify.com/track/0PEudiMRBswH3MqENYctsV) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Страх](https://open.spotify.com/album/4vav08qZ60vXIEJmrXOHO1) | 2:48 | 2024-06-27 |  |
 | [СУМ](https://open.spotify.com/track/2DmrKWpePwANHwyMQaDmo3) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [СУМ](https://open.spotify.com/album/1LJILVMh66d4eMZFiyZGoD) | 3:25 | 2024-08-23 | 2024-10-12 |
 | [Сум'яття](https://open.spotify.com/track/0Rq6C7oQkj2kMibaKwqfKh) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [Сум'яття](https://open.spotify.com/album/7FGQnj6DEjYX9tryE6w5If) | 3:01 | 2024-06-27 | 2024-07-13 |

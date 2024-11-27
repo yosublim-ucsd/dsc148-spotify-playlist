@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80994,
+  "num_followers": 81007,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -443,7 +443,7 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Please Slow Down",
+        "name": "Please Slow Down (Rubber Bridge Version)",
         "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
       },
       "artists": [
@@ -453,7 +453,7 @@
         }
       ],
       "duration_ms": 163324,
-      "name": "Please Slow Down",
+      "name": "Please Slow Down - Rubber Bridge Version",
       "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "Don't You Give Up On Me Yet",
+      "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Me Again",
         "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Black Dress",
-        "url": "https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Don't You Give Up On Me Yet",
-      "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 237266,
       "name": "And They Called Her California",
       "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Peace of Mind (Morning)",
+        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Peace of Mind (Morning)",
+      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -1071,38 +1087,6 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley",
       "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 154340,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Peace of Mind (Morning)",
-        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 212586,
-      "name": "Peace of Mind (Morning)",
-      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 251053,
       "name": "Before I Knew You",
       "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

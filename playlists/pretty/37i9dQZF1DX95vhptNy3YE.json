@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374580,
+  "num_followers": 374529,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
-        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
-        "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        }
-      ],
-      "duration_ms": 326201,
-      "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
-      "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
-    },
-    {
-      "added_at": "2024-11-22 13:41:28",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-11-22 13:41:28",
+      "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
+        "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "duration_ms": 326201,
+      "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
     },
     {
       "added_at": "2024-11-22 13:41:28",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
       },
       "artists": [
         {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2024-11-22 13:41:28",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
         }
       ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "added_at": "2024-11-22 13:41:28",

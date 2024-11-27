@@ -399,6 +399,22 @@
     {
       "added_at": "2024-11-21 16:00:00",
       "album": {
+        "name": "\u9806\u884c",
+        "url": "https://open.spotify.com/album/5YQu48zefXhzzNebuwG1Wk"
+      },
+      "artists": [
+        {
+          "name": "\u6253\u5012\u4e09\u660e\u6cbb",
+          "url": "https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "\u9806\u884c",
+      "url": "https://open.spotify.com/track/5ShBJ9qAbHhQhUmfAC3ald"
+    },
+    {
+      "added_at": "2024-11-21 16:00:00",
+      "album": {
         "name": "\u4e00\u500b\u4eba\u5c31\u597d",
         "url": "https://open.spotify.com/album/5ZMeYXCA5BAUechu3uSmKW"
       },

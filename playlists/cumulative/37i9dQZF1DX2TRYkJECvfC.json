@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Big Trip Believing",
+        "url": "https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        {
+          "name": "Matador",
+          "url": "https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Big Trip Believing",
+      "url": "https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh"
+    },
+    {
+      "album": {
         "name": "Murmuration",
         "url": "https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl"
       },
@@ -6708,7 +6730,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 388644,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X"

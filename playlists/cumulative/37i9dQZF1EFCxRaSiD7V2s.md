@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-331 songs - 17 hr 19 min
+333 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Miss America](https://open.spotify.com/track/6U9TWGNjqChbMr8AVdcVU1) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [It Doesn't Have To Make Sense](https://open.spotify.com/album/7CboNMoh7xPzZnL1rprGLV) | 3:32 | 2021-12-27 |  |
 | [moon moth](https://open.spotify.com/track/2aDjQ3NlkCjVWzDmytfdGN) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 2:54 | 2023-05-10 |  |
 | [Mustard](https://open.spotify.com/track/5d4KGTy5iyVG97R5VE0nfm) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:24 | 2021-12-27 |  |
+| [My Favorite Time Of Year](https://open.spotify.com/track/0YubeLJUQeKY6fGFTjJ1t4) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [My Favorite Time Of Year](https://open.spotify.com/album/1DehD8kDsxWuquvxfiuarJ) | 2:15 | 2024-11-26 |  |
 | [Never Kill a Boy on the First Date](https://open.spotify.com/track/76I3bQkyKDsa4MZMursZVB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:24 | 2021-12-27 |  |
 | [Never Leave Me](https://open.spotify.com/track/4nB5BF0S1x8cymJ1DdcA2R) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 1:11 | 2022-11-10 |  |
 | [New Moon Rising](https://open.spotify.com/track/42kEx3eQ1NNdS8TKCdRbpy) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:57 | 2021-12-27 |  |
@@ -281,8 +282,9 @@
 | [Ted](https://open.spotify.com/track/2Mfb1R9ghnzo4Kp2U1tV4V) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:00 | 2021-12-27 |  |
 | [Tell Me](https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/28DeHdZUufPBbd7v6hpOG3) | 3:24 | 2021-12-27 | 2022-05-27 |
 | [Tell Me](https://open.spotify.com/track/7EE15pUdQE5ho5da0sbXcE) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/6exlVxcQKBmzzrghWqMmpA) | 3:24 | 2022-05-26 |  |
+| [Temporary Goodbye](https://open.spotify.com/track/1HALLkD5JaJcPicXK6tJlv) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Temporary Goodbye](https://open.spotify.com/album/36DCB7ZqwS6OCmSLNwdNT5) | 2:29 | 2024-11-26 |  |
 | [Temporary Goodbye](https://open.spotify.com/track/4xHsUjhBlg9qB7k5GUfHGm) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:29 | 2021-12-27 | 2022-09-05 |
-| [Temporary Goodbye](https://open.spotify.com/track/5wqWV4M7f1uPcpe7Jyy1M2) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:29 | 2022-09-05 |  |
+| [Temporary Goodbye](https://open.spotify.com/track/5wqWV4M7f1uPcpe7Jyy1M2) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:29 | 2022-09-05 | 2024-11-27 |
 | [Temporary Goodbye](https://open.spotify.com/track/7CW09N7tM1fLTZ9gNfAGFE) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Temporary Goodbye](https://open.spotify.com/album/71RkwgWlCjckjjeo5U8RSU) | 2:29 | 2022-09-04 | 2022-09-06 |
 | [The Body](https://open.spotify.com/track/3sN7oop8jlw4RYuC5iDH6Q) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Saul Simon MacWilliams](https://open.spotify.com/artist/0FlGu9ZnuvVtbtN2Gc9GNg) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 5:10 | 2021-12-27 |  |
 | [The Comb](https://open.spotify.com/track/22Jf0F9o2E9XpJJdStn0yp) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 5:52 | 2021-12-27 |  |

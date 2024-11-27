@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover:  Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,412 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,446 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 5 | [Antwoord](https://open.spotify.com/track/0ssnNZsidlDT4QeXIjTmh5) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles Komt, Alles Gaat](https://open.spotify.com/album/7hlpC2SJnuKtP1VgkHMx8r) | 2:59 |
 | 6 | [Abracadabra](https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:32 |
 | 7 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 |
-| 8 | [Stewardess](https://open.spotify.com/track/2uu4nNPZnvyBQuZoEdStge) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Stewardess](https://open.spotify.com/album/4nDQI6KJ6PPyAuNlGepb15) | 2:15 |
-| 9 | [Zing & Pieker \(Pam Pam Hey!\)](https://open.spotify.com/track/1lJAdNL3AZ2TK5rgDuAr2P) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Zing & Pieker \(Pam Pam Hey!\)](https://open.spotify.com/album/6AZQFJ1oMfPUQ7tMzq5963) | 3:25 |
-| 10 | [Huisje, Boompje, Feestje](https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Huisje, Boompje, Feestje](https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo) | 3:24 |
-| 11 | [Figurant](https://open.spotify.com/track/2YZ5fbsAwWSNCBaAYywtmG) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Figurant](https://open.spotify.com/album/3NgiDitJqtdn0oBiTV1dKB) | 2:56 |
-| 12 | [Heel De Nacht Alleen](https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Heel De Nacht Alleen](https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E) | 2:34 |
-| 13 | [Voor Altijd](https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Voor Altijd](https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq) | 3:04 |
+| 8 | [Voor Altijd](https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Voor Altijd](https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq) | 3:04 |
+| 9 | [Stewardess](https://open.spotify.com/track/2uu4nNPZnvyBQuZoEdStge) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Stewardess](https://open.spotify.com/album/4nDQI6KJ6PPyAuNlGepb15) | 2:15 |
+| 10 | [Zing & Pieker \(Pam Pam Hey!\)](https://open.spotify.com/track/1lJAdNL3AZ2TK5rgDuAr2P) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Zing & Pieker \(Pam Pam Hey!\)](https://open.spotify.com/album/6AZQFJ1oMfPUQ7tMzq5963) | 3:25 |
+| 11 | [Huisje, Boompje, Feestje](https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Huisje, Boompje, Feestje](https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo) | 3:24 |
+| 12 | [Figurant](https://open.spotify.com/track/2YZ5fbsAwWSNCBaAYywtmG) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Figurant](https://open.spotify.com/album/3NgiDitJqtdn0oBiTV1dKB) | 2:56 |
+| 13 | [Heel De Nacht Alleen](https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Heel De Nacht Alleen](https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E) | 2:34 |
 | 14 | [Het Midden](https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Het Midden](https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS) | 2:41 |
 | 15 | [Taxi In Londen](https://open.spotify.com/track/1gkLexCpaa5MMCG9Su27k3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Taxi In Londen](https://open.spotify.com/album/67m4TSlY1oX9jxj38tE0Lv) | 2:52 |
 | 16 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 |
 | 70 | [beiden gebroken](https://open.spotify.com/track/48DV9IJN747mdOMkYAr8ZA) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [beiden gebroken](https://open.spotify.com/album/5xeIQDxvUTcCRd3gmfy5qc) | 2:46 |
 
-Snapshot ID: `Zz+7cAAAAAAov/kZJ7imFcY+Ie7kNSdK`
+Snapshot ID: `Z0WnAAAAAAAXLMDwMO4+0CAz8iKqy+82`

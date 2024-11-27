@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,527 likes - 400 songs - 14 hr 7 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,522 likes - 400 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 134 | [Cool Cats](https://open.spotify.com/track/0bGWbkmUPY8cipqzFde4Ap) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Cool Cats](https://open.spotify.com/album/42QUGRqYFfIaOulcji2pq0) | 1:57 |
 | 135 | [muito ok](https://open.spotify.com/track/7Bkq9BBwH0wxEkz0d1hfUI) | [teletoner](https://open.spotify.com/artist/0EVZZ3YfgZ2zP8coFobMZA) | [muito ok](https://open.spotify.com/album/3Kq3JW1S0w4VxlVvu1KS95) | 1:30 |
 | 136 | [chasing joy](https://open.spotify.com/track/78ErudabbJ3fZfRxajT6xg) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [chasing joy](https://open.spotify.com/album/1y3a8GITsCFvRJnQy6dAjR) | 3:05 |
-| 137 | [Me and You](https://open.spotify.com/track/0CPNCuEVA4k32iOSlDAwlT) | [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Paramnesia](https://open.spotify.com/album/11KIhjCnZcbvxMrQsV8oCG) | 3:26 |
+| 137 | [Me and U](https://open.spotify.com/track/0CPNCuEVA4k32iOSlDAwlT) | [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Paramnesia](https://open.spotify.com/album/11KIhjCnZcbvxMrQsV8oCG) | 3:26 |
 | 138 | [Levitate](https://open.spotify.com/track/0LZiv98vZmIZRpDeK06bcK) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Levitate](https://open.spotify.com/album/1XJqJoGA3nD2QbmWu4qhzk) | 2:32 |
 | 139 | [DownTown Riding](https://open.spotify.com/track/00gzZAROXMh6Q6bsPLslm9) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [DownTown Riding](https://open.spotify.com/album/5P0KPNjUS1DUQi2dPdBCCH) | 1:19 |
 | 140 | [Limited Capacity](https://open.spotify.com/track/0X7WTbjV720ZwRSQNWDHO7) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Limited Capacity](https://open.spotify.com/album/4510EztfMrzCE7EZIusQq4) | 2:20 |

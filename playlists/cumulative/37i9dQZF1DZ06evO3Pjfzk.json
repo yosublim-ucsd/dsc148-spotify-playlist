@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4x4xU - Live",
+        "url": "https://open.spotify.com/album/65lDx8oi0duOOjhSSSa7es"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "4x4xU - Live",
+      "url": "https://open.spotify.com/track/4etjjn1fhiv0yGpD2fvW5G"
+    },
+    {
+      "album": {
         "name": "4\u00d74\u00d7U",
         "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
       },

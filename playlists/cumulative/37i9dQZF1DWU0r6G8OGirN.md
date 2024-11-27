@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-135 songs - 6 hr 58 min
+138 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 | 2021-12-21 | 2023-07-04 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/1pIu25hl8EmtdXTHQqV51T) | [Holly St Jazz Duo](https://open.spotify.com/artist/5v5Z6rjlMk2Kp4wBxxNv80) | [A Holly Jolly Christmas](https://open.spotify.com/album/2OjP7B1WKh8VcezjQnJ85k) | 2:57 | 2021-12-21 | 2023-10-27 |
 | [Abide With Me](https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Abide With Me](https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp) | 3:17 | 2021-12-21 |  |
+| [Angels from the Realms of Glory](https://open.spotify.com/track/4e2fU1nfb4ntzJf3b6gKTm) | [Nouri](https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK) | [Angels from the Realms of Glory](https://open.spotify.com/album/4sui86X3waXhyr94p7qicv) | 2:06 | 2024-11-26 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 | 2021-12-21 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/777i3gdjJMVlWvVJvErZeu) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Auld Lang Syne](https://open.spotify.com/album/3ct7cW6gOZZg8Md58zyna9) | 2:46 | 2021-12-21 |  |
 | [Auld Lang Syne \(Smooth Jazz Version\)](https://open.spotify.com/track/4G6jzemWcZcSNiuf9422b7) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 2:54 | 2021-12-21 | 2022-10-21 |
@@ -39,6 +40,7 @@
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 | 2023-10-13 | 2024-10-26 |
 | [Deck the Halls](https://open.spotify.com/track/2HVU1szAZjST5179APX1ck) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [Jingle Bells](https://open.spotify.com/album/7wSW8TOkMzrSiAD6Wulblw) | 1:43 | 2021-12-21 | 2023-09-01 |
 | [Ding Dong Merrily on High](https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Ding Dong Merrily on High](https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu) | 2:22 | 2022-10-07 |  |
+| [Do You Want to Build a Snowman?](https://open.spotify.com/track/4oITbURZumiICeokmlAfNI) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Do You Want to Build a Snowman?](https://open.spotify.com/album/1gG8NUCvEZooFaDwnSIJQs) | 3:14 | 2024-11-26 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 | 2022-10-06 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/1vhjeweVA3yg4cwWZgtSCj) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [Christmas Time Is Here](https://open.spotify.com/album/4QieYF9NU48QWzoazTI7C9) | 2:10 | 2021-12-21 | 2022-10-07 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0fpmiqjmRvG6zk3y3RSkW0) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [It Came Upon The Midnight Clear / God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5MkXBVo1xAvfjfTg6Sn6yP) | 2:31 | 2021-12-21 | 2022-10-08 |
@@ -56,6 +58,7 @@
 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 | 2023-10-13 |  |
 | [Home for the Holidays](https://open.spotify.com/track/6M2ZatEcMJNWrhm7dF8h6M) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [Home for the Holidays](https://open.spotify.com/album/3mcRjaxQEF83X8u7PWHqba) | 3:46 | 2021-12-21 |  |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 | 2021-12-21 |  |
+| [I Long For Christmas](https://open.spotify.com/track/1VoO3xmcjwDMFwXZ16y22B) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [I Long For Christmas](https://open.spotify.com/album/1Gsz4PD8eE43a1siB9GOkS) | 2:49 | 2024-11-26 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 | 2021-12-21 | 2024-11-12 |
 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 | 2021-12-21 |  |
 | [I Still Believe in Santa Clause](https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:50 | 2021-12-21 |  |

@@ -269,28 +269,6 @@
     },
     {
       "album": {
-        "name": "\u300cMACROSS PLUS\u300dORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4"
-      },
-      "artists": [
-        {
-          "name": "MEMBERS OF ISRAEL",
-          "url": "https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO"
-        },
-        {
-          "name": "Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h"
-        }
-      ],
-      "date_added": "2022-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 377975,
-      "name": "Fly up in the air ~ Tension",
-      "url": "https://open.spotify.com/track/09P81sHzg0kgGKtRtdBqcZ"
-    },
-    {
-      "album": {
         "name": "MACROSS PLUS ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8"
       },
@@ -310,6 +288,28 @@
       "duration_ms": 377975,
       "name": "Fly up in the air ~ Tension",
       "url": "https://open.spotify.com/track/57P8lukHho2QqRUsg9l9i1"
+    },
+    {
+      "album": {
+        "name": "\u300cMACROSS PLUS\u300dORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4"
+      },
+      "artists": [
+        {
+          "name": "MEMBERS OF ISRAEL",
+          "url": "https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO"
+        },
+        {
+          "name": "Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377975,
+      "name": "Fly up in the air \uff5e Tension",
+      "url": "https://open.spotify.com/track/09P81sHzg0kgGKtRtdBqcZ"
     },
     {
       "album": {
@@ -421,7 +421,7 @@
     },
     {
       "album": {
-        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX\u3000O.S.T.2",
         "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
       },
       "artists": [
@@ -893,7 +893,7 @@
     },
     {
       "album": {
-        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX\u3000O.S.T.2",
         "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
       },
       "artists": [
@@ -1199,7 +1199,7 @@
     },
     {
       "album": {
-        "name": "YOKO KANNO produce Cyber Bicci",
+        "name": "YOKO KANNO produce\u3000Cyber Bicci",
         "url": "https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY"
       },
       "artists": [
@@ -1487,7 +1487,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30c8\u30b3\u306e\u30b3 \u30aa\u30f3\u30ca\u306e\u30b3",
+        "name": "\u30aa\u30c8\u30b3\u306e\u30b3\u3000\u30aa\u30f3\u30ca\u306e\u30b3",
         "url": "https://open.spotify.com/album/7sLpYyxNEnrLRU3cGpJmU8"
       },
       "artists": [
@@ -1500,7 +1500,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 293765,
-      "name": "\u30aa\u30c8\u30b3\u306e\u30b3 \u30aa\u30f3\u30ca\u306e\u30b3",
+      "name": "\u30aa\u30c8\u30b3\u306e\u30b3\u3000\u30aa\u30f3\u30ca\u306e\u30b3",
       "url": "https://open.spotify.com/track/6Qc4tw9GpdqIwn1XHB2Zvb"
     },
     {
@@ -1613,7 +1613,7 @@
     },
     {
       "album": {
-        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u30e9\u30a4\u30aa\u30f3",
+        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30e9\u30a4\u30aa\u30f3",
         "url": "https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm"
       },
       "artists": [
@@ -1635,7 +1635,7 @@
     },
     {
       "album": {
-        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30e9\u30f3\u30ab\u3068\u30dc\u30d3\u30fc\u306eSMS\u5c0f\u968a\u306e\u6b4c \u306a\u3069\u3002",
+        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30e9\u30f3\u30ab\u3068\u30dc\u30d3\u30fc\u306eSMS\u5c0f\u968a\u306e\u6b4c\u3000\u306a\u3069\u3002",
         "url": "https://open.spotify.com/album/79YQDWWXD3zzLwXUSS71ky"
       },
       "artists": [
@@ -1653,7 +1653,7 @@
     },
     {
       "album": {
-        "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
+        "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
         "url": "https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN"
       },
       "artists": [

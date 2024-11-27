@@ -1491,6 +1491,32 @@
     },
     {
       "album": {
+        "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": IlI. Presto",
+        "url": "https://open.spotify.com/album/1BCJx6nbyxXSczyvi2OYFa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": IlI. Presto",
+      "url": "https://open.spotify.com/track/1mi8PRlOY7VSAwkhdX4qLt"
+    },
+    {
+      "album": {
         "name": "Vivaldi: The Four Seasons \u2022 Concertos for Bassoon & Violin 'in tromba marina'",
         "url": "https://open.spotify.com/album/1mSVDEox7b18dnZ4Iblnkb"
       },
@@ -1510,7 +1536,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 167880,
       "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
       "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u"

@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 Mondaze in cover
 
-1,210 songs - 2 day 18 hr 47 min
+1,211 songs - 2 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Capelli scarmigliati](https://open.spotify.com/track/0HLhUam366SqCMjtrazrue) | [Maremarcio](https://open.spotify.com/artist/1HkEEypIQJePOJGOEEJFH9) | [Maremarcio/Alas Split](https://open.spotify.com/album/1byaT6ElGVwRZPAyn14GUS) | 2:24 | 2023-10-05 | 2023-11-03 |
 | [CARA ROVINA](https://open.spotify.com/track/6edJepTih9RQaL9NlmvwNi) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [CARA ROVINA](https://open.spotify.com/album/5WDQTJBUnpAEaAmFqfZmmb) | 3:08 | 2024-04-11 | 2024-06-14 |
 | [Caramel Toe](https://open.spotify.com/track/50BNyFwpRbekxKxcqFjwxX) | [The Singer is Dead](https://open.spotify.com/artist/21bN775otWRD0ldHpVqXHK) | [IIII](https://open.spotify.com/album/4VrF1btR626l2UfbvhOYOM) | 5:04 | 2024-01-25 | 2024-03-22 |
+| [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-11-26 |  |
 | [CARNEVALE](https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [CARNEVALE](https://open.spotify.com/album/2u8MA3AiZRo0yBJ2In2PFp) | 5:00 | 2023-09-21 | 2023-11-17 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
 | [Carpet Ceiling](https://open.spotify.com/track/2pAzqee5GrHB4mmFX4QsrV) | [Platonick Dive](https://open.spotify.com/artist/1Ue2ozjR0DCrD1wz8mB5R5) | [Carpet Ceiling](https://open.spotify.com/album/1PhO790tq3iFlh3OrLfPMY) | 3:42 | 2024-04-04 | 2024-05-03 |
@@ -260,7 +261,7 @@
 | [Cpr14](https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Cpr14](https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt) | 3:44 | 2022-11-24 | 2023-01-27 |
 | [CRACCO](https://open.spotify.com/track/6UqEFbDhIFIQnL4g3AY675) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [CRACCO](https://open.spotify.com/album/1HwLLJbjwzEebz1n3gmVSw) | 2:28 | 2024-05-16 | 2024-08-09 |
 | [Crepuscolo](https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7) | [Buriana](https://open.spotify.com/artist/2xp9MuQLpCHqMuoRQ2AtHu) | [Crepuscolo](https://open.spotify.com/album/24N87ShW17h11WIXpdlGnd) | 3:15 | 2023-04-14 | 2023-06-09 |
-| [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/track/5brfd9l0op8jNVGK8Hzwdw) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/album/0C91CO3GlyIlxfmZNJ5xbK) | 2:13 | 2024-09-05 |  |
+| [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/track/5brfd9l0op8jNVGK8Hzwdw) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/album/0C91CO3GlyIlxfmZNJ5xbK) | 2:13 | 2024-09-05 | 2024-11-27 |
 | [Crispy](https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Songs About Cuddles](https://open.spotify.com/album/0ZueNLhUivQE9u5JNsUKNF) | 3:28 | 2024-03-21 | 2024-06-07 |
 | [CRISTALLI](https://open.spotify.com/track/4ZVyFW3LQyCuAogzMSaoox) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CRISTALLI](https://open.spotify.com/album/52KLBDTEnwxIkJCjh0gRpK) | 2:35 | 2023-06-29 | 2023-10-20 |
 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |

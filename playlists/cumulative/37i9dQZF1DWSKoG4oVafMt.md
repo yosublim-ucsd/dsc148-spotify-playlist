@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-957 songs - 2 day 3 hr 40 min
+958 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |
 | [Ranga Wargi](https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Sikander](https://open.spotify.com/artist/04vyYm9kJkl2YjCP9qcv3g) | [Ranga Wargi](https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT) | 3:26 | 2022-02-04 | 2022-02-12 |
 | [Rangreza \(from Lover\)](https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Rangreza \(from Lover\)](https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU) | 3:02 | 2022-06-28 | 2022-07-06 |
-| [Rani Haar](https://open.spotify.com/track/1mWvTGvCfvaw8UVLlPjFAb) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rani Haar](https://open.spotify.com/album/76dpB9VA6Uoa07CrW3bidi) | 2:16 | 2024-11-19 |  |
+| [Rani Haar](https://open.spotify.com/track/1mWvTGvCfvaw8UVLlPjFAb) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rani Haar](https://open.spotify.com/album/76dpB9VA6Uoa07CrW3bidi) | 2:16 | 2024-11-19 | 2024-11-27 |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-12-02 | 2022-04-06 |
 | [Raptan](https://open.spotify.com/track/7EaZyWboCLhs6HT2wlwm6E) | [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Raptan](https://open.spotify.com/album/3TDmtgj8nXy8BPdcFryhQH) | 2:48 | 2022-11-07 | 2022-12-16 |
 | [Rari \- From The Album "ikigai"](https://open.spotify.com/track/23XYJiXbWlbXL4LVYsOpQf) | [Navv Maan](https://open.spotify.com/artist/20nlQL2fSMQ4fqL59nzpVQ), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Rari](https://open.spotify.com/album/6hNaJbGLbgKVZ0Gpx6zSWN) | 2:07 | 2022-01-27 | 2022-02-01 |
@@ -848,6 +848,7 @@
 | [Tera Mera Saath](https://open.spotify.com/track/3j0D9A264VbssyLaWvnQ1r) | [Gurwinder Brar](https://open.spotify.com/artist/3WZTmAmQr3PkUbEfctw4u0) | [Tera Mera Saath](https://open.spotify.com/album/3YzyVDXuzW02aJ6Gj8ghg2) | 3:33 | 2022-08-12 | 2023-02-04 |
 | [Tera Pyaar Ve](https://open.spotify.com/track/1E4MAiOaObaDGgpqvRnxva) | [Aman Ghuman](https://open.spotify.com/artist/5F9H8STHJE2bPys4Eh5eLJ) | [Tera Pyaar Ve](https://open.spotify.com/album/35wFZvVX88QtIReBPjZspB) | 3:15 | 2022-07-15 | 2022-08-18 |
 | [Tere Bajjon](https://open.spotify.com/track/40jeNi7ZW86rMU7UXgOJgC) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Tere Bajjon](https://open.spotify.com/album/6VBWhaZGlXxI4E0fXx0qV6) | 3:07 | 2022-08-19 | 2022-09-23 |
+| [Tere Bin](https://open.spotify.com/track/4cLJG9y4PhEljgFSsxjw4s) | [Deep Money](https://open.spotify.com/artist/6t6D6drTfOF08Jp4w9wY2J) | [Tere Bin](https://open.spotify.com/album/6Cb8dGqpYgTzWDChK824Qd) | 3:15 | 2024-11-26 |  |
 | [Tere Bin](https://open.spotify.com/track/5PQU5EG7rF1YXd6Pxebwlb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Laddi Gill](https://open.spotify.com/artist/37TJmJvVHDSI9Ach5Zvs31) | [Tere Bin](https://open.spotify.com/album/1GBu8zrHLaCvLBPmkiipM9) | 3:13 | 2024-03-29 | 2024-08-29 |
 | [Tere Bina](https://open.spotify.com/track/7tsyY4szVNtqipyL8lu8Ne) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ), [Amber](https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS) | [\(Un\)broken](https://open.spotify.com/album/5pRVhkJ1PotLcBti9pvV5R) | 3:00 | 2024-10-10 | 2024-11-08 |
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |

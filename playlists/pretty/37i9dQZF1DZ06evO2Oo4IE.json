@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182240,
+  "num_followers": 182259,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JsgAAAAABmQx9PFfKn1ZI9sGPlhoQd",
+  "snapshot_id": "Z0O+AAAAAAB2fbUD0Nd/tCNqVX8/izpG",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 234366,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 234881,
+      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
+      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Flower In the Sun",
-      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 70487,
       "name": "\"How 'Bout This?\"",
       "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Flower In the Sun",
+      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "Nobody Knows You When You're Down and Out",
+      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Janis Joplin Live At Winterland '68",
         "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
       },
@@ -707,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+        "name": "Livin' Is Easy (Live 1969)",
+        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
       },
       "artists": [
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 200205,
-      "name": "Nobody Knows You When You're Down and Out",
-      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
+      "duration_ms": 110984,
+      "name": "Me - Live 1969",
+      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
     },
     {
       "added_at": null,
@@ -747,38 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Livin' Is Easy (Live 1969)",
-        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 110984,
-      "name": "Me - Live 1969",
-      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 83461,
-      "name": "Talk, Pt.1 - Live",
-      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237559,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 83461,
+      "name": "Talk, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joplin In Concert",
         "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 345800,
       "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
       "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
     },
     {
       "added_at": null,

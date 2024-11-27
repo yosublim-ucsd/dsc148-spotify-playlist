@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,491 songs - 3 day 9 hr 3 min
+1,492 songs - 3 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Hopeless](https://open.spotify.com/track/4dV8qOd2Zv62OcT7aSLMlE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 3:43 | 2024-05-30 | 2024-06-08 |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-25 | 2024-08-02 |
 | [Hot Sauce](https://open.spotify.com/track/7trjNlp8sZLXwdbPL0u8ni) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Giorgio Dala](https://open.spotify.com/artist/2fIdQyZQ2BzF90G4zjSqUD), [SANE](https://open.spotify.com/artist/6yVHCcCg5H7eycOZJzAbVT) | [Hot Sauce](https://open.spotify.com/album/6yD9CEyRBEdnTAhjnw1eYG) | 2:22 | 2024-08-23 | 2024-08-31 |
+| [House 101](https://open.spotify.com/track/40yOYUuaIibILEV1cwHxqS) | [ZenoPop](https://open.spotify.com/artist/1vZJUfflRQ49EXSgR4mSuT) | [House 101](https://open.spotify.com/album/1QFDs1HWQBzuIgduZiB0K3) | 2:50 | 2024-11-26 |  |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-19 | 2024-07-27 |
 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-20 | 2024-06-29 |
 | [Human Anthem \(I Am Who I Am\)](https://open.spotify.com/track/4QBLixFrPR8yOv1DhaLKo5) | [Hlfmn](https://open.spotify.com/artist/6j6MykhPLqpNvN2r8ybhps) | [Mirror](https://open.spotify.com/album/2Ia6ZhxbtXAFSzrqT5Hnjt) | 6:31 | 2024-06-24 | 2024-06-29 |

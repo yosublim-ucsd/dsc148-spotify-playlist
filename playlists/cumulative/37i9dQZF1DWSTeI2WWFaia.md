@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs
 
-724 songs - 1 day 14 hr 46 min
+725 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Half A Bird](https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Half A Bird](https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM) | 2:44 | 2022-04-01 | 2022-04-19 |
 | [Hans Zimmer](https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Hans Zimmer](https://open.spotify.com/album/6wVYb95s2w6ZKQIY5xPP2a) | 3:50 | 2022-04-01 | 2022-07-29 |
 | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF) | 2:17 | 2023-08-11 | 2023-11-18 |
+| [Harvey Grant](https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 2:27 | 2024-11-23 |  |
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-03-04 | 2022-10-01 |
 | [HEAD SHOTS](https://open.spotify.com/track/1EFKZQ8T6EipEf1DxeZwl7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [CINCORIGINALS](https://open.spotify.com/album/51m4cy5Ldy8hsBQQTGwA5c) | 3:12 | 2021-09-03 | 2022-07-17 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 | 2022-10-01 |
@@ -318,7 +319,7 @@
 | [If I Wasnt](https://open.spotify.com/track/2YbjuUyAGLuQ4ebkGCxaEF) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [If I Wasnt](https://open.spotify.com/album/0AHcfHukL9JqfpatTr9EbR) | 4:03 | 2021-09-03 | 2022-04-16 |
 | [If Not Now, When?](https://open.spotify.com/track/6eQHIFVNvgsg4ooRrzgwVz) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [If Not Now, When?](https://open.spotify.com/album/493v3KuL0Bc12cQacac8sl) | 2:47 | 2022-02-18 | 2022-07-18 |
 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 | 2022-08-05 | 2023-04-09 |
-| [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 |  |
+| [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 | 2024-11-27 |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2023-04-22 |
 | [INDEPENDENT](https://open.spotify.com/track/1eUrzqzNIJ1AUDpIK4hJFZ) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [INDEPENDENT](https://open.spotify.com/album/29zVAQcXogzcfBQI6Y5jG6) | 2:33 | 2021-09-03 | 2022-04-21 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/5pbCz1rWV7zB6mgR3VBfbz) | 2:16 | 2021-09-03 | 2022-04-19 |

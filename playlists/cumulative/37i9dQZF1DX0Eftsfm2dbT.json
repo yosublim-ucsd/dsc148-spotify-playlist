@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: kZm, Tohji, Lil Ash \u61fa\u6094",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: ANARCHY",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -2295,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "BADA BING BADA BOOM",
+        "url": "https://open.spotify.com/album/7x2U9GSdv8fRGKH5JCOu0y"
+      },
+      "artists": [
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        },
+        {
+          "name": "Bohemia Lynch",
+          "url": "https://open.spotify.com/artist/1SP39GdM65EEbFeo3nt31F"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222326,
+      "name": "BADA BING BADA BOOM",
+      "url": "https://open.spotify.com/track/3F7OTN3AIb9ldZmoBs4Inm"
+    },
+    {
+      "album": {
         "name": "RAFRAGE2",
         "url": "https://open.spotify.com/album/3BOTe9j2N4mmDg86ef1cMx"
       },
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 166174,
       "name": "Banger (feat. Bank.Somsaart)",
       "url": "https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr"
@@ -2482,7 +2504,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 123240,
       "name": "BAYABAYA",
       "url": "https://open.spotify.com/track/3eDaaKkjXIqswkLUfxuw7l"
@@ -3472,7 +3494,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 216000,
       "name": "BRIGHT TIMES feat. Kohjiya",
       "url": "https://open.spotify.com/track/29sChyERg3I2cwGqCyHhEd"
@@ -5297,6 +5319,28 @@
     },
     {
       "album": {
+        "name": "Denied",
+        "url": "https://open.spotify.com/album/1CyfGor0jCs9BeUZIOPRCG"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Denied",
+      "url": "https://open.spotify.com/track/3WKlZc2q9VWchjXALyaftR"
+    },
+    {
+      "album": {
         "name": "Dependent",
         "url": "https://open.spotify.com/album/1ZFnFAn0Z0YnJyOqIMjMkY"
       },
@@ -6035,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "Don't stop",
+        "url": "https://open.spotify.com/album/1kn5Sg7Rx5UactpvDqRtAJ"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155798,
+      "name": "Don't stop",
+      "url": "https://open.spotify.com/track/1hua9qyCb4iLHejJS4ErOt"
+    },
+    {
+      "album": {
         "name": "DONZOKO",
         "url": "https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH"
       },
@@ -6198,7 +6260,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 213789,
       "name": "Dream Smasher feat. Kj",
       "url": "https://open.spotify.com/track/150oWZSw4xLpTJ1Z0i2P86"
@@ -6428,7 +6490,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 140984,
       "name": "Dum Diggy Diggy Dumb",
       "url": "https://open.spotify.com/track/3YlrZRgo6luyFmCeWc3CWO"
@@ -7850,7 +7912,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 186982,
       "name": "Forever Student",
       "url": "https://open.spotify.com/track/2f0f5CN0KNB4Svb2a956kd"
@@ -8120,6 +8182,24 @@
       "duration_ms": 183770,
       "name": "FUKANZENTAI",
       "url": "https://open.spotify.com/track/7dw89jsZA6UBnFHpsB4YlV"
+    },
+    {
+      "album": {
+        "name": "Future Self",
+        "url": "https://open.spotify.com/album/75EUhGVRM5BtUPK78epxOH"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145539,
+      "name": "Future Self",
+      "url": "https://open.spotify.com/track/0lxZCPmu1KSRbUTcHknnNx"
     },
     {
       "album": {
@@ -13514,7 +13594,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 196588,
       "name": "MATSURI",
       "url": "https://open.spotify.com/track/7ArDG5Yb2hUtjNNSNGT1Xr"
@@ -16640,7 +16720,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 224295,
       "name": "Only Lord Knows",
       "url": "https://open.spotify.com/track/2NLLybfhx4GykoPEtEUk5K"
@@ -18892,6 +18972,28 @@
       "duration_ms": 189615,
       "name": "RNR",
       "url": "https://open.spotify.com/track/4g9Zdz7oDLT07v0LkQ80Kt"
+    },
+    {
+      "album": {
+        "name": "ROCKEY",
+        "url": "https://open.spotify.com/album/2ZUTu4LxsJ6YQbMH7Qzu8s"
+      },
+      "artists": [
+        {
+          "name": "Sadajyo",
+          "url": "https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L"
+        },
+        {
+          "name": "Jeff Loik",
+          "url": "https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "ROCKEY",
+      "url": "https://open.spotify.com/track/1sQa9he3YJvdlc1rlij2nM"
     },
     {
       "album": {
@@ -23110,7 +23212,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-27",
       "duration_ms": 189314,
       "name": "UP!!! - DJ RyuNosuK Remix",
       "url": "https://open.spotify.com/track/7va6LuigW96ZXNkzz6Qx0g"
@@ -25797,6 +25899,32 @@
     },
     {
       "album": {
+        "name": "\u30d3\u30ea\u30d3\u30ea",
+        "url": "https://open.spotify.com/album/3IDS48jn9HZ8XIl59B8O8y"
+      },
+      "artists": [
+        {
+          "name": "18scott",
+          "url": "https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33"
+        },
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        },
+        {
+          "name": "DLEN a.k.a DJ REN",
+          "url": "https://open.spotify.com/artist/2dADfgCJufm7EmjnqsM2F5"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130207,
+      "name": "\u30d3\u30ea\u30d3\u30ea",
+      "url": "https://open.spotify.com/track/75xAX1HrObH9EYqp86K2AZ"
+    },
+    {
+      "album": {
         "name": "\u6fc0\u30a2\u30c4",
         "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
       },
@@ -26218,6 +26346,24 @@
       "duration_ms": 318183,
       "name": "\u4f7f\u547d",
       "url": "https://open.spotify.com/track/1vXZePGZRY1CfUMqjZyI0e"
+    },
+    {
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/2gnkd0SuRDzzhGIzIzbaJ6"
+      },
+      "artists": [
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239393,
+      "name": "\u4ffa\u306b\u8a00\u308f\u305b\u308a\u3083",
+      "url": "https://open.spotify.com/track/4lu6ZZ0yDzIr08yXXafqBj"
     },
     {
       "album": {
@@ -27192,6 +27338,28 @@
       "duration_ms": 183232,
       "name": "\u7b2c\u6551\u6761",
       "url": "https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON"
+    },
+    {
+      "album": {
+        "name": "LAST",
+        "url": "https://open.spotify.com/album/1QDrgcnHNmh2GhKugETQCz"
+      },
+      "artists": [
+        {
+          "name": "ANARCHY",
+          "url": "https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI"
+        },
+        {
+          "name": "DJ JAM",
+          "url": "https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138929,
+      "name": "\u7dd1\u306e\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
+      "url": "https://open.spotify.com/track/6AmEeHjZGxt1mZcqqnmJSK"
     },
     {
       "album": {

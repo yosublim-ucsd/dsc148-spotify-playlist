@@ -3181,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Nom Nom Nom / Cat Burglar",
+        "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Cat Burglar",
+      "url": "https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC"
+    },
+    {
+      "album": {
         "name": "Cellophane Dreams / Jane",
         "url": "https://open.spotify.com/album/5r8oLpmLOwPayVSO6LIT0F"
       },

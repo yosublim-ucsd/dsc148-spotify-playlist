@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 106125,
+  "num_followers": 106164,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -431,38 +431,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Almanauta",
-        "url": "https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 456266,
-      "name": "Los Zurdos Mueren Antes",
-      "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 224426,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Almanauta",
+        "url": "https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 456266,
+      "name": "Los Zurdos Mueren Antes",
+      "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 276307,
-      "name": "Singular (feat. El Chojin)",
-      "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -583,6 +563,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 265747,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "De Pie",
         "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
       },
@@ -595,6 +595,26 @@
       "duration_ms": 268260,
       "name": "De Pie",
       "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 276307,
+      "name": "Singular (feat. El Chojin)",
+      "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -647,22 +667,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
@@ -687,22 +691,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 265747,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1419,46 +1419,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "104",
-        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "104",
-      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Cuarto De Siglo",
-        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Zaheed Santana",
-          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 244177,
-      "name": "Cuarto De Siglo",
-      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Chismecito",
         "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
       },
@@ -1491,26 +1451,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "La Brujula",
-        "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
+        "name": "104",
+        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
       },
       "artists": [
         {
-          "name": "Sekreto",
-          "url": "https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8"
-        },
-        {
-          "name": "Caballeros Del Plan G",
-          "url": "https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf"
-        },
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
         }
       ],
-      "duration_ms": 162758,
-      "name": "La Brujula",
-      "url": "https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP"
+      "duration_ms": 188000,
+      "name": "104",
+      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1527,6 +1479,30 @@
       "duration_ms": 203909,
       "name": "Helarte",
       "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Cuarto De Siglo",
+        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 244177,
+      "name": "Cuarto De Siglo",
+      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1551,6 +1527,30 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "La Brujula",
+        "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
+      },
+      "artists": [
+        {
+          "name": "Sekreto",
+          "url": "https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8"
+        },
+        {
+          "name": "Caballeros Del Plan G",
+          "url": "https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf"
+        },
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "La Brujula",
+      "url": "https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP"
     },
     {
       "added_at": "2024-09-06 06:00:00",

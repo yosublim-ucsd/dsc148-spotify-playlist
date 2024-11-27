@@ -16253,6 +16253,28 @@
     },
     {
       "album": {
+        "name": "HYPNOTISED",
+        "url": "https://open.spotify.com/album/4q5xJnNx7uTlYM6TdawDRA"
+      },
+      "artists": [
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "HYPNOTISED",
+      "url": "https://open.spotify.com/track/3myc4hzNkPXqEkEo1rWHMm"
+    },
+    {
+      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/3PZJPUfgs3H0Z2j6jp1XQR"
       },

@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-450 songs - 21 hr 59 min
+451 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Aura](https://open.spotify.com/track/3AowGKVPNBp70up0ToXBwD) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Aura](https://open.spotify.com/album/1OLLTNIBqwDsJs0JXrp1z8) | 2:20 | 2024-06-10 |  |
 | [Aurora](https://open.spotify.com/track/3thLpLQoMsbwCMhi26cwPs) | [Lights From A Distance](https://open.spotify.com/artist/4LPhXlMmFzBwyQVOCHtQAK) | [Aurora](https://open.spotify.com/album/3CYbmcSvawr8gb9y1JTTTm) | 1:59 | 2021-12-17 | 2023-07-29 |
 | [Aurora Dreams](https://open.spotify.com/track/23DEi1HNKQjoatitKhB2xK) | [Lapalillo](https://open.spotify.com/artist/7dGXUhMvIkqUlPIIN04FuV) | [Aurora Dreams](https://open.spotify.com/album/7oDFXapAgmMxOsAoCSa4JA) | 2:52 | 2024-06-10 |  |
-| [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-02-15 |  |
+| [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-02-15 | 2024-11-27 |
 | [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2021-12-17 | 2022-07-29 |
 | [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-22 | 2022-10-13 |
 | [awakening](https://open.spotify.com/track/6ur6K60DZUAO8jJr6lvKy8) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:34 | 2022-10-07 | 2024-03-27 |
@@ -62,8 +62,9 @@
 | [Buoyant](https://open.spotify.com/track/7DEcoyUFy04Zhe89uthswA) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Buoyant](https://open.spotify.com/album/0oWrIAxKrOq6Cj96ZeRp4S) | 3:09 | 2021-12-17 | 2022-09-03 |
 | [Caelestia](https://open.spotify.com/track/0xHyeXmflAW6fkhAQJR8aM) | [Suevite](https://open.spotify.com/artist/2aiIFnAcGlUnGaWCZfirBp) | [Caelestia](https://open.spotify.com/album/2efVlc9oIGf5VkY39e9RbM) | 2:45 | 2024-07-12 |  |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-12-17 |  |
+| [Calm](https://open.spotify.com/track/6wyHRwdblNea8of4VdmviM) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Calm](https://open.spotify.com/album/4OUvGPlwYygHMD18fFqyxE) | 2:53 | 2024-11-26 |  |
 | [Calm Embrace](https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja) | [Esa Plant](https://open.spotify.com/artist/0QQlMFDABAtm2cdSGJdB4p) | [Calm Embrace](https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo) | 2:56 | 2021-12-17 | 2024-05-12 |
-| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 | 2024-11-27 |
 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 | 2022-10-15 |  |
 | [Calming Tune](https://open.spotify.com/track/4nwPbxRsKm81Alkoj3nZMi) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Feel a Sense](https://open.spotify.com/album/2QSLLC0Kby30GZgyJ7NSy8) | 3:18 | 2021-12-17 | 2024-05-12 |
 | [Calmness](https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Rare Lights](https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY) | 2:58 | 2023-09-01 |  |
@@ -89,7 +90,7 @@
 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2022-09-30 | 2023-01-10 |
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-17 | 2023-09-01 |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-17 | 2023-03-04 |
-| [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
+| [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 | 2024-11-27 |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2021-12-17 | 2024-05-12 |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-17 | 2022-10-08 |
@@ -225,7 +226,7 @@
 | [Lavender](https://open.spotify.com/track/3T0pE0Y5DAzNAZTrnLagCt) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Lavender](https://open.spotify.com/album/6BuLXbQHZ8hO5KHHdLTxHF) | 2:52 | 2024-09-05 |  |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-12-17 | 2024-05-12 |
 | [Lentamente](https://open.spotify.com/track/7lzG0n5zhfZGT6oTnXXcv7) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Lentamente](https://open.spotify.com/album/3Cb94Wwvnm6xk2QNvfjf3i) | 3:37 | 2021-12-17 | 2024-09-19 |
-| [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 |  |
+| [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 | 2024-11-27 |
 | [Liam's Bedtime](https://open.spotify.com/track/3RN4U3wH5as6kHirawI4Du) | [Sarah Barber](https://open.spotify.com/artist/1bZl8bahX1H0yyMCMpCbos) | [Liam's Bedtime](https://open.spotify.com/album/79S6tlSo0zcVDq0aMPC1f8) | 2:54 | 2021-12-17 | 2023-07-14 |
 | [Lifelong](https://open.spotify.com/track/1eK5rsIOExVcjGeTJEAfIB) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Lifelong](https://open.spotify.com/album/0yL1wSD9UMd4sfd2uCfiHO) | 2:52 | 2023-07-21 |  |
 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 | 2021-12-17 | 2022-11-12 |
@@ -338,7 +339,7 @@
 | [Rooted](https://open.spotify.com/track/3Ac6RvFQVb4TMY4rjGLS2Y) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Rooted](https://open.spotify.com/album/2vXwJY0iUYI382fLUyt6hH) | 3:21 | 2022-02-25 |  |
 | [Rétrospective](https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Rétrospective](https://open.spotify.com/album/7EjOLWwV9wGAlEole3PGWA) | 2:29 | 2022-06-24 |  |
 | [Rêvasseur](https://open.spotify.com/track/64zhFuKM4TwZ0dcKogeKAN) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Rêvasseur](https://open.spotify.com/album/0PKKJXGWqGgxhYZ9ExhWeC) | 3:23 | 2021-12-17 | 2024-03-27 |
-| [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-25 |  |
+| [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-25 | 2024-11-27 |
 | [Sacred Haven](https://open.spotify.com/track/58KoCXSQfOYtqIiLHJrbFq) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Haven](https://open.spotify.com/album/62ojiGKjVjxc53HVl5gS7M) | 3:24 | 2024-06-10 |  |
 | [Sacred Silence](https://open.spotify.com/track/2582AytP8818E123Tax64z) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Sacred Silence](https://open.spotify.com/album/2lTvWZyymM6gOK5nYXTxmz) | 3:12 | 2024-11-18 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |

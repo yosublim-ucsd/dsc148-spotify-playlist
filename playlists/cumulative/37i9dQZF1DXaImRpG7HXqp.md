@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-784 songs - 1 day 10 hr 4 min
+786 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
 | [Catamount Mountain](https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Catamount Mountain](https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm) | 2:27 | 2023-02-24 | 2024-07-19 |
 | [Causos](https://open.spotify.com/track/3OSRR6VXC8qNmmZZNb2o9T) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Bellagio](https://open.spotify.com/album/4P47CBWTNYqS4O2IRYgxkQ) | 3:30 | 2022-12-09 | 2024-04-05 |
+| [Celestial Calm](https://open.spotify.com/track/4V3dgx2qCB9x9b6XidnZIv) | [In Stars Above](https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh) | [Celestial Calm](https://open.spotify.com/album/7N3UZpESPW8k79qXuAElOr) | 2:57 | 2024-11-26 |  |
 | [Cenizas](https://open.spotify.com/track/5lofKP3ukP8nV9ea0GDuUF) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Cuerda De Algodon](https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU) | 3:25 | 2021-12-08 | 2022-07-08 |
 | [Chameleon’s tuning](https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Chameleon’s tuning](https://open.spotify.com/album/0n8hKnSnZPGPm1i7LblWdm) | 2:21 | 2023-01-06 | 2023-11-25 |
 | [Chance Encounter](https://open.spotify.com/track/1VxxgFevf8qEmCgCtSHYTL) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Chance Encounter](https://open.spotify.com/album/0B5jOPJp2DfOIS7hX8VjyB) | 2:36 | 2022-12-09 | 2023-09-08 |
@@ -386,6 +387,7 @@
 | [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 | 2023-01-20 | 2024-11-07 |
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 | 2024-04-05 |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 | 2022-10-14 |
+| [Let's Stay Awake](https://open.spotify.com/track/1eUhOl2Y2ATVwbupRD4Ywz) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Let's Stay Awake](https://open.spotify.com/album/5avgzisHdI4k7nvVK6EdOI) | 3:10 | 2024-11-26 |  |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-11-25 | 2024-07-30 |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 | 2023-08-19 |

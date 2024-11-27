@@ -683,6 +683,32 @@
     },
     {
       "album": {
+        "name": "Gloria In Excelsis Deo (Christmas piano arr.)",
+        "url": "https://open.spotify.com/album/6fkspu56O96nUos4LYgMjb"
+      },
+      "artists": [
+        {
+          "name": "James Homard",
+          "url": "https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY"
+        },
+        {
+          "name": "Instrumental Christmas Music",
+          "url": "https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P"
+        },
+        {
+          "name": "Christmas Piano Instrumental",
+          "url": "https://open.spotify.com/artist/6gG2Sish6nE9tfU6pBxXOu"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77717,
+      "name": "Gloria In Excelsis Deo - Christmas piano arr.",
+      "url": "https://open.spotify.com/track/2sVef0QT2SbclbmMETRNxg"
+    },
+    {
+      "album": {
         "name": "Go Tell it on the Mountain",
         "url": "https://open.spotify.com/album/2JYNkhD6rzHQddRNGo2c9u"
       },
@@ -1782,6 +1808,24 @@
       "duration_ms": 136659,
       "name": "The Coventry Carol",
       "url": "https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/7kDNF8TnQSaAtYoNculPbP"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138627,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/427BbU2FPM1pfVWET7bCJs"
     },
     {
       "album": {

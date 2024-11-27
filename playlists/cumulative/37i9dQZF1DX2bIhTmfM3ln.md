@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-669 songs - 1 day 8 hr 51 min
+670 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Runaway](https://open.spotify.com/track/0yk4edOBwpxBADFQq6ROzS) | [Loye](https://open.spotify.com/artist/3jmfHrvYENAqFoXzUyPmeN) | [Runaway](https://open.spotify.com/album/0DjlHEgLu0UN5n4Ko0XZTh) | 2:34 | 2023-02-10 | 2023-02-17 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 | 2024-02-09 |
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 | 2024-02-16 |
-| [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 | 2024-09-20 |  |
+| [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 | 2024-09-20 | 2024-11-27 |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-04-19 | 2024-06-28 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2023-04-09 |
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-09 | 2023-09-15 |
@@ -568,6 +568,7 @@
 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 | 2024-03-15 | 2024-06-28 |
 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 | 2024-02-13 | 2024-02-16 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-09-29 |
+| [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 | 2024-11-22 |  |
 | [Soundgasm](https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:24 | 2022-02-11 | 2023-02-24 |
 | [Soundtrack](https://open.spotify.com/track/7dZC1iCnXYTYvQqdQTUXKL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Soundtrack](https://open.spotify.com/album/35yw2Ye9kclVpGDvPthD1C) | 2:17 | 2023-02-10 | 2023-03-18 |
 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 | 2022-02-11 | 2023-01-20 |

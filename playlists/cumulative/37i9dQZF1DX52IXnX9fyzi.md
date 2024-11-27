@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-501 songs - 21 hr 41 min
+502 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Winter Excess](https://open.spotify.com/track/0nOlxubcA9IShjz2DBpUUx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Winter Excess](https://open.spotify.com/album/57V8raQNJ2YkHs9KqiHn5H) | 2:29 | 2024-03-04 |  |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-14 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-22 |  |
+| [Wishing](https://open.spotify.com/track/6DmakgjxCyZ5idLg6lbX1J) | [Kjartan Schön](https://open.spotify.com/artist/1Kseg3QEYs47CnkcWGWLyH) | [Wishing](https://open.spotify.com/album/6TXuH9AYP4OI1BErvfPlAc) | 2:29 | 2024-11-26 |  |
 | [wolkenlos](https://open.spotify.com/track/6bBI9q6jMKZPt5Bth1pxnV) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [wolkenlos](https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk) | 2:24 | 2023-10-04 |  |
 | [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 | 2022-04-14 | 2022-09-15 |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2022-04-14 | 2022-07-16 |

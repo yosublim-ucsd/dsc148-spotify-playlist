@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-615 songs - 1 day 2 hr 41 min
+616 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Before and After](https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Before and After](https://open.spotify.com/album/3s7nEIScJqXvt99fB5kMGR) | 2:19 | 2023-02-20 |  |
 | [Before You Go](https://open.spotify.com/track/10DoO2uACXfXrRvlqSTHTW) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Before You Go](https://open.spotify.com/album/721aCDC1xBZMqHhNR8Ore6) | 2:31 | 2023-11-20 | 2024-05-23 |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-22 | 2024-02-14 |
+| [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 | 2024-11-26 |  |
 | [Between The Lines](https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Between The Lines](https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h) | 2:59 | 2024-01-09 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-04-22 | 2023-08-08 |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-22 | 2023-08-15 |
