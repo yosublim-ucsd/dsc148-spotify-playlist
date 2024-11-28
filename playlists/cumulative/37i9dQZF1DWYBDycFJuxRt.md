@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Eve \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-8,691 songs - 22 day 9 hr 12 min
+8,692 songs - 22 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7294,6 +7294,7 @@
 | [共振](https://open.spotify.com/track/41o30p9zWXn1SbdODFZBjf) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [響鳴](https://open.spotify.com/album/2lw6n33b4NK9oLeioBCBd6) | 5:14 | 2024-01-16 | 2024-01-24 |
 | [共盟\(feat.Ivy to Fraudulent Game\)](https://open.spotify.com/track/4PvsM2w1wfLVZx4XPNBR7J) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x), [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [共盟\(feat.Ivy to Fraudulent Game\)](https://open.spotify.com/album/6kLumwlEdlLHydSwshej7s) | 3:52 | 2023-11-28 | 2023-11-30 |
 | [再去見尓](https://open.spotify.com/track/7bgRTIf6UK4On666SfRiqE) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/5CrA7m27kYyEdTp1PIgtbe) | 3:12 | 2023-10-17 | 2023-10-19 |
+| [再周回](https://open.spotify.com/track/1g2lrE0CafBvcsjiiBbEor) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [再周回](https://open.spotify.com/album/1CUrcwDkeVDUpuVZRhvt0w) | 3:44 | 2024-11-27 |  |
 | [再生](https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Chance](https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp) | 5:14 | 2024-11-19 | 2024-11-27 |
 | [再生](https://open.spotify.com/track/69FGuX0qRbjZhN4guCQhrg) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [再生](https://open.spotify.com/album/7GZDR9oYWNg0zaz7VcOmEV) | 3:11 | 2024-06-12 | 2024-06-19 |
 | [冒険録](https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [冒険録](https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0) | 3:47 | 2023-08-15 | 2023-08-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,963 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,099 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 22 | [君をのせて](https://open.spotify.com/track/5VVkCfHAa2ayYRBGbRyRD1) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [天空の城ラピュタ サウンドトラック ～飛行石の謎～](https://open.spotify.com/album/4zuvornyBcIcOySNGXtcDQ) | 4:07 |
 | 23 | [しめっち屋敷](https://open.spotify.com/track/65wfnsHdn6hCOSKxys0EmX) | [Takatsugu Muramatsu](https://open.spotify.com/artist/2FdBheCRIgBMhygsbki1mO) | [思い出のマーニー サントラ音楽集](https://open.spotify.com/album/58944XvsZq3PcXKWYZieGn) | 2:09 |
 | 24 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 |
-| 25 | [ナウシカ・レクイエム](https://open.spotify.com/track/3mhlBIRv87DZeHG3H3gbGu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:55 |
-| 26 | [「風の谷のナウシカ」\~オープニング\~](https://open.spotify.com/track/6nX87FkaEv84rkXMDRWB5P) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 4:38 |
+| 25 | [ナウシカ・レクイエム](https://open.spotify.com/track/3mhlBIRv87DZeHG3H3gbGu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:55 |
+| 26 | [「風の谷のナウシカ」～オープニング～](https://open.spotify.com/track/6nX87FkaEv84rkXMDRWB5P) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 4:38 |
 | 27 | [アシタカせっ記](https://open.spotify.com/track/3QQcmb87X6e10gdEXDx1ep) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [もののけ姫 イメージアルバム](https://open.spotify.com/album/0RDqwG2WKEMrBFLGljbCcy) | 4:39 |
 | 28 | [セピア色の写真](https://open.spotify.com/track/0lmoByiGS5Z43NCMPf87av) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [紅の豚 サウンドトラック](https://open.spotify.com/album/0dvirg2JnLKVfvVuTuGF2i) | 0:47 |
 | 29 | [ひこうき雲](https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ひこうき雲](https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS) | 3:26 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 32 | [帰らざる日々](https://open.spotify.com/track/41z7RiOfPIiULtH6Ia1qsz) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [紅の豚 サウンドトラック](https://open.spotify.com/album/0dvirg2JnLKVfvVuTuGF2i) | 2:16 |
 | 33 | [Fine On The Outside](https://open.spotify.com/track/36uOUE8q85zt9TO9T7dipa) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [思い出のマーニー サントラ音楽集](https://open.spotify.com/album/58944XvsZq3PcXKWYZieGn) | 4:15 |
 | 34 | [旅路（夢中飛行）](https://open.spotify.com/track/5WJTQoNLeSGUdOXVa7oqhI) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 2:55 |
-| 35 | [失われた楽園](https://open.spotify.com/track/6rgTOGveOsUggcHoNozOUZ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [天空の城ラピュタ イメージアルバム \~空から降ってきた少女\~](https://open.spotify.com/album/4tkScj5kyZhGVGAnmzbHni) | 2:15 |
+| 35 | [失われた楽園](https://open.spotify.com/track/6rgTOGveOsUggcHoNozOUZ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [天空の城ラピュタ イメージアルバム ～空から降ってきた少女～](https://open.spotify.com/album/4tkScj5kyZhGVGAnmzbHni) | 2:15 |
 | 36 | [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 |
 | 37 | [崖の上のポニョ](https://open.spotify.com/track/631B0Vtr5oMc6GJJNXZLnp) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [崖の上のポニョ イメージアルバム](https://open.spotify.com/album/17JPYIKQJndwCf6Hwza1Fp) | 2:46 |
 | 38 | [大忙しのキキ](https://open.spotify.com/track/3AE4uzxdsn0kJ9Qfrz0sGl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 1:19 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 41 | [Arrietty's Song\(Arrietty's Song\)](https://open.spotify.com/track/0cvVx7TnD8wSpcM49TyjsB) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [借りぐらしのアリエッティ サウンドトラック](https://open.spotify.com/album/7N1Oi4aHCtN45xa2mt1UER) | 3:31 |
 | 42 | [いのちの記憶](https://open.spotify.com/track/1ZRscSkL9Kj4wsyIyAqh6t) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [かぐや姫の物語 サウンドトラック](https://open.spotify.com/album/07QhFi0vTcHvi7mhDSlj8I) | 5:42 |
 | 43 | [夜明け～朝ごはんの歌](https://open.spotify.com/track/2qHOE3ATOEVatuJiCIoLV7) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [コクリコ坂から サウンドトラック](https://open.spotify.com/album/6N2Hk0dlWdmc9W24Do3Wsp) | 3:04 |
-| 44 | [遠い日々\(\~ナウシカのテーマ\~\)](https://open.spotify.com/track/2ef3PwZQLGVz84GXMKCPbP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ イメージアルバム 鳥の人…](https://open.spotify.com/album/1GkNkbIqBH7FnfQC5Cy3XQ) | 4:19 |
+| 44 | [遠い日々（～ナウシカのテーマ～）](https://open.spotify.com/track/2ef3PwZQLGVz84GXMKCPbP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ イメージアルバム 鳥の人…](https://open.spotify.com/album/1GkNkbIqBH7FnfQC5Cy3XQ) | 4:19 |
 | 45 | [黄昏の羽根](https://open.spotify.com/track/5K65c9VZkDOUZEx4Fg9E2d) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:41 |
 | 46 | [転生](https://open.spotify.com/track/7dMKB7fnCPPOdy6cFG2Mng) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:32 |
 | 47 | [I Am Not Alone](https://open.spotify.com/track/7fN7XpK8UY41MyTXKuvZiO) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [あなたのことが大すき。](https://open.spotify.com/album/5vl036rTF8LPdprTsr64ck) | 4:12 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 49 | [人生のメリーゴーランド－オープニング－](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
 | 50 | [The Neglected Garden\(荒れた庭\)](https://open.spotify.com/track/7ibnpvZvgOQGdpW6gELcgS) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [借りぐらしのアリエッティ サウンドトラック](https://open.spotify.com/album/7N1Oi4aHCtN45xa2mt1UER) | 4:12 |
 | 51 | [Goodbye My Friend\(グッバイ・マイ・フレンド\)](https://open.spotify.com/track/3LsFhUSN81Ge7162knVfH6) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [借りぐらしのアリエッティ サウンドトラック](https://open.spotify.com/album/7N1Oi4aHCtN45xa2mt1UER) | 2:58 |
-| 52 | [「鳥の人」\~エンディング\~](https://open.spotify.com/track/4G1EovaKPPJF4fJojNwTyO) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 3:47 |
+| 52 | [「鳥の人」～エンディング～](https://open.spotify.com/track/4G1EovaKPPJF4fJojNwTyO) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 3:47 |
 | 53 | [カルチェラタン](https://open.spotify.com/track/5fRZvqDpITf0MJmPoUCXhU) | [Satoshi Takebe](https://open.spotify.com/artist/0pWDwAU3grBQc9GAIQOP2N) | [コクリコ坂から サウンドトラック](https://open.spotify.com/album/6N2Hk0dlWdmc9W24Do3Wsp) | 2:22 |
 | 54 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
 | 55 | [デッキブラシでランデブー](https://open.spotify.com/track/6L8hXyrZ4YgjaiVZNPHFgT) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 1:06 |

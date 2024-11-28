@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Amaran
 
-255 songs - 16 hr 43 min
+256 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Kaatrodu Pattam Pola \(From "Ayothi"\)](https://open.spotify.com/track/4IFO83LPKiQ42X6gT3H1Px) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Sarathi](https://open.spotify.com/artist/2EFX35KEBAhgi3lwgvKdSA) | [Kaatrodu Pattam Pola \(From "Ayothi"\) \- Single](https://open.spotify.com/album/1P1hmwWK5SCfc5744v63xC) | 5:04 | 2024-01-04 |  |
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-11-29 | 2022-06-21 |
 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 | 2023-04-03 | 2024-06-08 |
+| [Kadhal Theeradha \(From "Lara"\)](https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn) | [Raghu Sravan Kumar](https://open.spotify.com/artist/4shsgl44FArZtKjAPHPh1t), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2), [Karthikesan](https://open.spotify.com/artist/6jFRjMewjDAcgbqJONGCoh), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kadhal Theeradha \(From "Lara"\)](https://open.spotify.com/album/1LPS3pDw3xBekGyYHNvFoP) | 3:28 | 2024-11-27 |  |
 | [Kanave Nee Naan](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 2:04 | 2021-11-29 | 2022-10-19 |
 | [Kangal Edho](https://open.spotify.com/track/7CfNtzLIwNZ6ze4TXFD0bH) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Chithha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO) | 4:02 | 2024-09-23 |  |
 | [Kangal Edho \- From "Chithha"](https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kangal Edho \(From "Chithha"\)](https://open.spotify.com/album/4TZVYX8n31dqSAN8FUDBrZ) | 4:02 | 2023-09-13 | 2024-09-24 |

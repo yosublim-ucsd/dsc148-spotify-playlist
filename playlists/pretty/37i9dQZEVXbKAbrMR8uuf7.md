@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,700 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,711 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [MAMI](https://open.spotify.com/track/6kIgbMVOOiBvStNpTZffUp) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [MAMI](https://open.spotify.com/album/6Ms3bJNtv4GZYp2aZivLsg) | 1:45 |
 | 50 | [Cierra La Puerta](https://open.spotify.com/track/4jz9oKHdzwfNZAJXGN3GuZ) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Cierra La Puerta](https://open.spotify.com/album/505c4M7v1DUKb867hwaRfo) | 2:09 |
 
-Snapshot ID: `Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

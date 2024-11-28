@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: SHUYA\(슈야\)\)
+> All about Korean Jazz hits & new \(Cover: Luca minor\)
 
-227 songs - 16 hr 10 min
+229 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 | 2023-07-19 |  |
 | [A good thing](https://open.spotify.com/track/5wshBiqIBASdItBlwSN1PI) | [Yeseul Kim](https://open.spotify.com/artist/4u6LWxsANEMNmE1KJo49Ci) | [A good thing](https://open.spotify.com/album/6DkBOdtTIfMAdKl2JZ1wwk) | 5:28 | 2023-03-31 | 2024-11-07 |
 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 | 2024-01-19 | 2024-11-07 |
-| [A Snowy Field](https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81) | [LCY Project](https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i) | [A Snowy Field](https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv) | 3:24 | 2024-04-18 |  |
+| [A Snowy Field](https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81) | [LCY Project](https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i) | [A Snowy Field](https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv) | 3:24 | 2024-04-18 | 2024-11-28 |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 | 2024-08-11 |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 | 2024-11-07 |
 | [Align](https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd) | [안예솔](https://open.spotify.com/artist/3OqUywgeOGuCnfA8P2XlKB) | [Align](https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8) | 5:35 | 2024-06-07 |  |
@@ -155,6 +155,7 @@
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
 | [Rhythm of Hope \(Prod\. DPR CREAM\)](https://open.spotify.com/track/0337drC05b9vF1yD8gA66L) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:47 | 2022-05-03 | 2023-02-08 |
 | [Rio](https://open.spotify.com/track/48lfomyBFdLCXfBpcZyhQt) | [최보미](https://open.spotify.com/artist/4reDRRPmtXBJbqblTeDtPh) | [Rio](https://open.spotify.com/album/5RPRCu9BcWck0FZcyHVIDK) | 3:33 | 2023-07-19 | 2024-11-07 |
+| [romanticismo](https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [romanticismo](https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg) | 3:32 | 2024-11-27 |  |
 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 | 2023-02-07 | 2024-11-07 |
 | [Roses and Pictures](https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk) | [이상아](https://open.spotify.com/artist/4tMWqFLIMTK1L9hiTLZqpJ) | [이상아의 재즈&피아노 Pt.2](https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ) | 4:25 | 2024-09-19 |  |
 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 | 2022-05-03 | 2023-02-08 |
@@ -190,6 +191,7 @@
 | [The Beginning Of A Day](https://open.spotify.com/track/3LnrTczveIzEqxAr74aY52) | [Michael Bender Big Band](https://open.spotify.com/artist/1cSTobm8SMGmQ00TamGFWS) | [Michael Bender Big Band : Feast Of Jazz](https://open.spotify.com/album/6xUUwSnK5MvA4dhfsxMdKR) | 1:53 | 2024-11-07 |  |
 | [The Day Before](https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi) | [Kim Seong Hwa Trio](https://open.spotify.com/artist/5B8SahzFBloYOMfoZVLBsE) | [The Day Before](https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX) | 5:40 | 2024-04-18 |  |
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 | 2024-09-20 |
+| [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \- Big Band ver.](https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul) | [Yoo Geunho](https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g), [Ahn Seo Jin](https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6) | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \[Big Band ver.\]](https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f) | 3:37 | 2024-11-27 |  |
 | [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
@@ -213,7 +215,7 @@
 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 | 2024-11-07 |
 | [When I Walk With You](https://open.spotify.com/track/5H5OTHVVhooNowDREHiW3u) | [jazzer](https://open.spotify.com/artist/6xgHk3IjlYwNlFYYiTEteb) | [When I Walk With You](https://open.spotify.com/album/3BvIjh41QjAQHF3eTmjSD5) | 3:00 | 2023-02-07 | 2024-11-07 |
 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 | 2023-02-07 | 2024-11-07 |
-| [Wiegenlied \(Lullaby\) K.350](https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw) | [Shin Hyunpill & Ko Heean](https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5) | [Dear Mozart](https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72) | 3:40 | 2024-04-18 |  |
+| [Wiegenlied \(Lullaby\) K.350](https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw) | [Shin Hyunpill & Ko Heean](https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5) | [Dear Mozart](https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72) | 3:40 | 2024-04-18 | 2024-11-28 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2023-02-07 | 2024-08-11 |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 | 2023-02-08 |
 | [Winter Wonderland](https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [2022 Christmas VIBE \-YUNSEOKCHEOL TRIO](https://open.spotify.com/album/7k7BizMxs5mnIhtfghbS04) | 5:11 | 2023-02-07 | 2023-12-13 |

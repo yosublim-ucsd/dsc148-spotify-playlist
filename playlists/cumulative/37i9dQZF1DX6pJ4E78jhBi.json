@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Fairytale of New York (Piano & Strings Version)",
+        "url": "https://open.spotify.com/album/2Vk2WloAkOTH7syqcVbEc9"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179490,
+      "name": "Fairytale of New York - Piano & Strings Version",
+      "url": "https://open.spotify.com/track/3q0SyD4WcMzN1MvSYzJlm3"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1"
       },
@@ -484,6 +502,28 @@
       "duration_ms": 154422,
       "name": "Gabriel's Message",
       "url": "https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L"
+    },
+    {
+      "album": {
+        "name": "Tranquillo: Sacred Christmas",
+        "url": "https://open.spotify.com/album/7tmHcTOm2btUuemlu4qX3K"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "PianoBasso",
+          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "Gabriel's Message (Arr. for Double Bass & Piano by Thomas Gustavsson)",
+      "url": "https://open.spotify.com/track/7rpl34ozyneI8lkpPzUxe0"
     },
     {
       "album": {
@@ -1086,6 +1126,24 @@
       "duration_ms": 185722,
       "name": "Nos Galan (Deck The Halls) [Arr. Huws for Harp]",
       "url": "https://open.spotify.com/track/2uBN1UFDjS2DqFl6oyTlS7"
+    },
+    {
+      "album": {
+        "name": "Winter Wishes",
+        "url": "https://open.spotify.com/album/3BV6sW2J9eOXKy81iKN4Up"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117813,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/7wQi72di5hIaokiSPCCCUC"
     },
     {
       "album": {

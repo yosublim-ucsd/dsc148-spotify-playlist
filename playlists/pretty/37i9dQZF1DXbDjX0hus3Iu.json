@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 509842,
+  "num_followers": 509929,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214866,
       "name": "Pretty Little Lie",
       "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Potlatch",
-        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
       "artists": [
         {
-          "name": "The Bean Pickers Union",
-          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 280346,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+      "duration_ms": 255840,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+        "name": "Potlatch",
+        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "The Bean Pickers Union",
+          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+      "duration_ms": 280346,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Ghost Train from Georgia",
         "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Southern Delight/Barefoot Jerry",
+        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
+      },
+      "artists": [
+        {
+          "name": "Barefoot Jerry",
+          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Castle Rock",
+      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1275,22 +1291,6 @@
       "duration_ms": 249626,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Southern Delight/Barefoot Jerry",
-        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
-      },
-      "artists": [
-        {
-          "name": "Barefoot Jerry",
-          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Castle Rock",
-      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2024-07-05 17:03:45",

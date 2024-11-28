@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: SHUYA(\uc288\uc57c))",
+  "description": "All about Korean Jazz hits & new (Cover: Luca minor)",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 204000,
       "name": "A Snowy Field",
       "url": "https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81"
@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "romanticismo",
+        "url": "https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg"
+      },
+      "artists": [
+        {
+          "name": "Luca minor",
+          "url": "https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "romanticismo",
+      "url": "https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR"
+    },
+    {
+      "album": {
         "name": "Innocence of dawn",
         "url": "https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL"
       },
@@ -3409,6 +3427,28 @@
     },
     {
       "album": {
+        "name": "The Night View In Seoul (Feat. Ahn Seo Jin) [Big Band ver.]",
+        "url": "https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f"
+      },
+      "artists": [
+        {
+          "name": "Yoo Geunho",
+          "url": "https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g"
+        },
+        {
+          "name": "Ahn Seo Jin",
+          "url": "https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "The Night View In Seoul (Feat. Ahn Seo Jin) - Big Band ver.",
+      "url": "https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul"
+    },
+    {
+      "album": {
         "name": "Modalism",
         "url": "https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF"
       },
@@ -3842,7 +3882,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 220520,
       "name": "Wiegenlied (Lullaby) K.350",
       "url": "https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw"

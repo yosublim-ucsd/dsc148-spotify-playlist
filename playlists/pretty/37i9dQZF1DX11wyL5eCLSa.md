@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Reyno en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,785 likes - 101 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,800 likes - 101 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

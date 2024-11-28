@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Paul van Dyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,149 likes - 90 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,306 likes - 90 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

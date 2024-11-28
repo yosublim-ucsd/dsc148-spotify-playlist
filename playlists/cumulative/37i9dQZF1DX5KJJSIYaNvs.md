@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Kanika Kapoor
 
-409 songs - 23 hr 55 min
+410 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Khaamakha](https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:32 | 2024-11-21 |  |
 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 | 2024-07-26 | 2024-10-05 |
 | [Khayaal](https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Khayaal](https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu) | 3:55 | 2024-02-09 | 2024-05-11 |
+| [Khel](https://open.spotify.com/track/7kxs1qFWTD0wfhFgkfAgC7) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Khel](https://open.spotify.com/album/3vrefq8zmkNCrNJvIfAVIY) | 2:40 | 2024-11-27 |  |
 | [Khol Pinjra](https://open.spotify.com/track/7DDICwvqE3u7VBQSWDc4yM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arkadeep Karmakar](https://open.spotify.com/artist/3KLIBp2yncKK6B8w9H44uo), [Ritajaya Banerjee](https://open.spotify.com/artist/56WXTuyUxC708UuZaiX4eP) | [Savi](https://open.spotify.com/album/1y88LjCqrGBeuSEoExLUAX) | 3:08 | 2024-05-28 | 2024-06-18 |
 | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/track/79g912tBMwgvwQznCDwfNu) | [Nikitha Venkatesh](https://open.spotify.com/artist/6XkwgUoGqTzwLhVYmZmqeG), [Nimish Shah](https://open.spotify.com/artist/7DxsSjeJmwDkghseVrFfkK) | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/album/3YRZqciPqWlJ2lnpUoOWiZ) | 3:21 | 2024-09-29 | 2024-11-19 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-03-02 | 2023-08-04 |
@@ -416,6 +417,6 @@
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 | 2024-11-13 |
 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 | 2024-06-03 |  |
 | [Zidd](https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rashmi Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5clXHYUXuMpthSuwC94ngl) | 4:08 | 2021-12-10 | 2022-01-05 |
-| [⁠Beqarariyaan \- From "Emergency"](https://open.spotify.com/track/1HZB3v2LWQPLBQIIyNFdiH) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Emergency \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cbNwLpbVUHUoH3xVuQyGP) | 3:27 | 2024-09-02 |  |
+| [⁠Beqarariyaan \- From "Emergency"](https://open.spotify.com/track/1HZB3v2LWQPLBQIIyNFdiH) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Emergency \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cbNwLpbVUHUoH3xVuQyGP) | 3:27 | 2024-09-02 | 2024-11-28 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

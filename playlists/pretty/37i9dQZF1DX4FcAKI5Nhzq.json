@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: TWS",
-  "num_followers": 816631,
+  "num_followers": 816654,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0REHwAAAAA6aSji4w2FaLzibjpziSbo",
+  "snapshot_id": "Z0fPHwAAAADgutSitBneLqQG+8ZpuSZA",
   "tracks": [
     {
       "added_at": "2024-11-25 09:32:15",
@@ -23,6 +23,22 @@
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
+    },
+    {
+      "added_at": "2024-11-28 02:02:07",
+      "album": {
+        "name": "Every Moment With You",
+        "url": "https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw"
+      },
+      "artists": [
+        {
+          "name": "JAESSBEE",
+          "url": "https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Every Moment With You",
+      "url": "https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy"
     },
     {
       "added_at": "2024-11-25 09:32:15",
@@ -55,6 +71,22 @@
       "duration_ms": 190187,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"
+    },
+    {
+      "added_at": "2024-11-25 09:32:15",
+      "album": {
+        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
+      },
+      "artists": [
+        {
+          "name": "ECLIPSE",
+          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
+        }
+      ],
+      "duration_ms": 233031,
+      "name": "Sudden Shower",
+      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
       "added_at": "2024-11-25 09:32:15",
@@ -691,22 +723,6 @@
     {
       "added_at": "2024-11-25 09:32:15",
       "album": {
-        "name": "WITNESS",
-        "url": "https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt"
-      },
-      "artists": [
-        {
-          "name": "ALL(H)OURS",
-          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "SHOCK",
-      "url": "https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL"
-    },
-    {
-      "added_at": "2024-11-25 09:32:15",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 183400,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
-    },
-    {
-      "added_at": "2024-11-25 09:32:15",
-      "album": {
-        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
-      },
-      "artists": [
-        {
-          "name": "ECLIPSE",
-          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
-        }
-      ],
-      "duration_ms": 233031,
-      "name": "Sudden Shower",
-      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
       "added_at": "2024-11-25 09:32:15",

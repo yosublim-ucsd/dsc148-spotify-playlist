@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179981,
+  "num_followers": 180150,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Deixem O Morto Morrer - A COLORS SHOW",
@@ -515,22 +531,6 @@
       "duration_ms": 170200,
       "name": "Deixem O Morto Morrer - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Codex",
-        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 406249,
-      "name": "Codex",
-      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
-    },
-    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Nocturnos",
@@ -621,22 +605,6 @@
       "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "All good?",
@@ -651,6 +619,38 @@
       "duration_ms": 483180,
       "name": "be a",
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Codex",
+        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 406249,
+      "name": "Codex",
+      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
+    },
+    {
       "added_at": "2024-10-23 05:18:13",
       "album": {
         "name": "Turned Skyward",
@@ -739,22 +755,6 @@
       "duration_ms": 264160,
       "name": "Turned Skyward",
       "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Rhythm-O-Green",
-      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "added_at": "2024-09-18 13:50:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Home Again Data 06",
-        "url": "https://open.spotify.com/album/5JrFkIPE6DwngY583JtoSE"
-      },
-      "artists": [
-        {
-          "name": "Idan Hana",
-          "url": "https://open.spotify.com/artist/0fI67h1QrIDBeDSFWFjv0b"
-        }
-      ],
-      "duration_ms": 163088,
-      "name": "Inside Confusion",
-      "url": "https://open.spotify.com/track/6x2enwmI4i1YppL8AL1GTZ"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
@@ -923,6 +907,22 @@
       "duration_ms": 280500,
       "name": "Maracuja Lounge",
       "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Home Again Data 06",
+        "url": "https://open.spotify.com/album/5JrFkIPE6DwngY583JtoSE"
+      },
+      "artists": [
+        {
+          "name": "Idan Hana",
+          "url": "https://open.spotify.com/artist/0fI67h1QrIDBeDSFWFjv0b"
+        }
+      ],
+      "duration_ms": 163088,
+      "name": "Inside Confusion",
+      "url": "https://open.spotify.com/track/6x2enwmI4i1YppL8AL1GTZ"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+    },
+    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "EXCELSIOR",
@@ -1075,22 +1091,6 @@
       "duration_ms": 190066,
       "name": "Oase",
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 265548,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
         "name": "Should I Be Worried",
         "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 265746,
       "name": "Earth to Moon",
       "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Palloon EP",
@@ -1307,6 +1291,22 @@
       "duration_ms": 535000,
       "name": "Palloon",
       "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Waves & Wonders",
-        "url": "https://open.spotify.com/album/0RzfvezEbzkv3evYiGrt6V"
-      },
-      "artists": [
-        {
-          "name": "Voltagectrlr",
-          "url": "https://open.spotify.com/artist/16kZLzEVD0ulkBaWmqtSAm"
-        }
-      ],
-      "duration_ms": 216699,
-      "name": "Waves & Wonders",
-      "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Scapes I",
@@ -1707,6 +1691,22 @@
       "duration_ms": 428000,
       "name": "Agbogloshie",
       "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Waves & Wonders",
+        "url": "https://open.spotify.com/album/0RzfvezEbzkv3evYiGrt6V"
+      },
+      "artists": [
+        {
+          "name": "Voltagectrlr",
+          "url": "https://open.spotify.com/artist/16kZLzEVD0ulkBaWmqtSAm"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Waves & Wonders",
+      "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
     },
     {
       "added_at": "2024-10-16 02:02:35",

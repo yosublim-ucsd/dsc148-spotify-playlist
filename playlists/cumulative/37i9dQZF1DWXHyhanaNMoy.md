@@ -4,7 +4,7 @@
 
 > Motion en good vibes\. Cover: Wizkid
 
-1,182 songs - 2 day 4 hr 59 min
+1,183 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Fogo Na Cabeça](https://open.spotify.com/track/0gF7CllJv4I99o8p5QjDaH) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [ASSI](https://open.spotify.com/artist/27HYGndK1hr7oN0PeHGiW4) | [Fogo Na Cabeça](https://open.spotify.com/album/764X0eW2E2cRgi50Pje3xN) | 2:26 | 2023-04-27 | 2023-06-16 |
 | [Fok](https://open.spotify.com/track/5RIhH07XYJJ45nmJFzrCJ1) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Doe Het Nou Gewoon](https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D) | 2:19 | 2022-07-26 | 2022-08-12 |
 | [Fok](https://open.spotify.com/track/7pJj8FBLSy0ry85cysCRYi) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:19 | 2022-08-11 | 2022-08-24 |
+| [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2024-11-27 |  |
 | [For A While](https://open.spotify.com/track/6CYr2Mp0KrRZTzDhmhd2ns) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [For A While](https://open.spotify.com/album/0Tz1nDOhTvbyEgfu3gtPwv) | 2:33 | 2022-07-14 | 2022-08-26 |
 | [For My Hand](https://open.spotify.com/track/1DUWVlZTRVg93obIS91yBM) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [20's Pop Roadtrip](https://open.spotify.com/album/1QEJqzx27I4k3CbyuCI25G) | 2:39 | 2022-11-10 | 2022-11-13 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-28 | 2022-11-26 |

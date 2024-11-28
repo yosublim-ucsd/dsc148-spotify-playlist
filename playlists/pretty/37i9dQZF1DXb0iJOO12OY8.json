@@ -599,6 +599,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 178226,
       "name": "VIS MEG DIN VERDEN",
       "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Clean Fit, Fin Anledning",
+        "url": "https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Clean Fit, Fin Anledning",
+      "url": "https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "VENUS",
         "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 160106,
       "name": "Tenke Sj\u00e6l",
       "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Clean Fit, Fin Anledning",
-        "url": "https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA"
-      },
-      "artists": [
-        {
-          "name": "Metropolen",
-          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Clean Fit, Fin Anledning",
-      "url": "https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs"
     },
     {
       "added_at": "2024-11-21 23:00:00",

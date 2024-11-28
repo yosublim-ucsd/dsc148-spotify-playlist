@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,683 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,770 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 7 | [微笑みの爆弾](https://open.spotify.com/track/5umjq620i9NI0l5wZvmjPr) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [決定盤「幽☆遊☆白書」アニメ主題歌&キャラソン大全集](https://open.spotify.com/album/7JMovRguegwVoP29vemjTE) | 4:12 |
 | 8 | [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 |
 | 9 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |
-| 10 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
+| 10 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 ～All Singles + ～](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
 | 11 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 |
 | 12 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 |
 | 13 | [オラはにんきもの](https://open.spotify.com/track/4wXNNWkfD8JLN8AFSCYXvb) | [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [クレヨンしんちゃん](https://open.spotify.com/album/6wxH8XD524yDFAWQ8yS65R) | 3:32 |

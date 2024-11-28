@@ -1,6 +1,6 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1529415,
+  "num_followers": 1529638,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Love Me Anyway",
-        "url": "https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 233325,
-      "name": "Love Me Anyway",
-      "url": "https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 294521,
       "name": "betty",
       "url": "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Love Me Anyway",
+        "url": "https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 233325,
+      "name": "Love Me Anyway",
+      "url": "https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Come Down Soon",
-      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 180495,
       "name": "No Machine",
       "url": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     }
   ],
   "unique_name": "sad girl starter pack",

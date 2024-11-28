@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,734 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,740 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 20 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
 | 22 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 |
-| 23 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
+| 23 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
 | 24 | [Ostatnia taka zima](https://open.spotify.com/track/5RrqO7f46CZaoe2N0J4jz4) | [Zima Stulecia](https://open.spotify.com/artist/6zipCNbD8O4KIXfKhCaEsK) | [Minus 30°C](https://open.spotify.com/album/5fkmehd41xw4Aop984INzI) | 3:39 |
 | 25 | [Devil In You](https://open.spotify.com/track/4YrSOC41YPRrQq0cuxTJgu) | [John Porter](https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt), [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [On The Wrong Planet](https://open.spotify.com/album/0qKDzYpw0Bvo9MkpXTptNF) | 5:03 |
-| 26 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
+| 26 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
 | 27 | [Zostań Nerdem](https://open.spotify.com/track/3dzKnZwgNUAl3ifxlh9Mxn) | [Czesław Mozil](https://open.spotify.com/artist/7gD7vK5I74g7nikQQg7VMJ), [Grajkowie Przyszłości](https://open.spotify.com/artist/02NpdScYsIcKGA4zfiDjdB), [Katarzyna Łaska](https://open.spotify.com/artist/3EUN4LsI1ugZFwctcyVxM3) | [Inwazja Nerdów Vol.1](https://open.spotify.com/album/0GsSAgCIOEurTpFlngKW4I) | 3:26 |
 | 28 | [VETERANS](https://open.spotify.com/track/0heAWQoj4KqnoWvuWHPfLE) | [Flapjack](https://open.spotify.com/artist/1mXhM9SmB8qZFonbfELPbk) | [SUGAR FREE](https://open.spotify.com/album/5HnHFpeVLk3bg9JpnDn1Ps) | 4:07 |
 | 29 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 52 | [Zaopiekuj się mną](https://open.spotify.com/track/47Zuvh8n2MakxHcNuKp6xL) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Zaopiekuj się mną](https://open.spotify.com/album/20qU6KwVmu7dIbH4hIhDXJ) | 4:13 |
 | 53 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 54 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
-| 55 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
-| 56 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
+| 55 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
+| 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
 | 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
 | 58 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
 | 59 | [Wonderland In Alice \- Big Band Live](https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Big Band Live](https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy) | 3:34 |

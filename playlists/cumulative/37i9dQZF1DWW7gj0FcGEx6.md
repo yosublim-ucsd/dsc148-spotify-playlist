@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-482 songs - 23 hr 27 min
+483 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 | 2021-12-20 | 2024-09-14 |
 | [Overture](https://open.spotify.com/track/3yFOslxT9EZHLaoZ9YKXoA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Caitlin Sullivan](https://open.spotify.com/artist/2yKRNZMmVZvvGf60cxTxqa) | [She Said \(Original Motion Picture Score\)](https://open.spotify.com/album/3UAjGfniReEmKuZjDQHnFN) | 2:02 | 2022-11-18 | 2024-11-21 |
 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 | 2022-09-16 | 2024-10-12 |
+| [Ozdust Duet \- Bonus Track](https://open.spotify.com/track/5oUggqlg7zOto1unBbj393) | [The Wicked Orchestra](https://open.spotify.com/artist/0bVjGR347nlhO79Z3i881P) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 2:11 | 2024-11-27 |  |
 | [Paint a Picture](https://open.spotify.com/track/6kDFm4YkgUBm9iS0e4Lh4o) | [Tim Morrish](https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG) | [The Jetty \(Original Television Soundtrack\)](https://open.spotify.com/album/6vhvDMcagM7X7oUVb70jXD) | 1:15 | 2024-10-18 |  |
 | [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 | 2024-01-19 |  |
 | [Paul's Antiphony](https://open.spotify.com/track/1PrpXfmkRGT6QiSET8HSW6) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Paul's Antiphony](https://open.spotify.com/album/61nAUbtJdH8PKH73XTgvDV) | 1:54 | 2021-12-20 | 2022-07-09 |

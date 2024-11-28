@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uViAIcMm0n.md) - [plain]
 
 > Enjoy the soundtrack of Our Blues! \(드라마 '우리들의 블루스'의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,342 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,347 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whisky on the Rock](https://open.spotify.com/track/6JZllw3leQQZBcWGUO3W30) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 |
-| 2 | [The Last](https://open.spotify.com/track/598HpRrTucxox28Rur6ttY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Our Blues, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1JXO4iO6DcUFRNtyHXryuw) | 3:59 |
+| 2 | [The Last](https://open.spotify.com/track/598HpRrTucxox28Rur6ttY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Our Blues, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1JXO4iO6DcUFRNtyHXryuw) | 3:59 |
 | 3 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 |
 | 4 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 |
 | 5 | [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uViAIcMm0n.md) - [plain]
 | 9 | [Bye Bye](https://open.spotify.com/track/1uj92PjmEBcyTb4bXtHpQC) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Our Blues, Pt\. 9 \(Original Television Soundtrack\)](https://open.spotify.com/album/3soPFtAjCtDtljX7hfjJCR) | 4:02 |
 | 10 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
 | 11 | [Whisky on the Rock \- Instrumental](https://open.spotify.com/track/3hIApnP3HSszVGN94bIWS4) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 |
-| 12 | [The Last \- Instrumental](https://open.spotify.com/track/3exmtsEbZh54fjK91CESKs) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Our Blues, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1JXO4iO6DcUFRNtyHXryuw) | 3:59 |
+| 12 | [The Last \- Instrumental](https://open.spotify.com/track/3exmtsEbZh54fjK91CESKs) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Our Blues, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1JXO4iO6DcUFRNtyHXryuw) | 3:59 |
 | 13 | [For Love \- Instrumental](https://open.spotify.com/track/7psPlIrqv0IitQ8PO6PqfE) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 |
 | 14 | [With you \- Instrumental](https://open.spotify.com/track/7M30L99pePlQ3wh8IxVUsD) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 |
 | 15 | [Remember Me \- Instrumental](https://open.spotify.com/track/7x2K1umobbJnsX5GAdsT6l) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:43 |

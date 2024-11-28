@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-1,416 songs - 3 day 9 hr 11 min
+1,417 songs - 3 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [Mountain Top \(BBC Radio 1 Live Session\)](https://open.spotify.com/track/4BHbExhXdWKvJXsd6D5tk6) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Love Lives Forever \(BBC Sessions 2003 \- 2011\)](https://open.spotify.com/album/7FMrGhU4N8ANuRjf7wsVxu) | 2:22 | 2023-06-15 | 2024-01-05 |
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2021-03-05 | 2022-04-15 |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-26 | 2022-04-14 |
+| [Mr\. Smith](https://open.spotify.com/track/5G3DokUenWPvRjKoOSMWrZ) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Mr\. Smith](https://open.spotify.com/album/7iBeqm0CwLcoQzPOpnJbtl) | 4:27 | 2024-11-27 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2023-10-07 |
 | [Mudglimmer](https://open.spotify.com/track/4LMmg4NHeDMyiQ8IV4rU2e) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer](https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3) | 4:56 | 2024-11-08 |  |
 | [Mudglimmer](https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer/Compromised Dirt](https://open.spotify.com/album/2cn2pjXIxV5Huj9e3CD2aQ) | 4:56 | 2024-09-20 |  |

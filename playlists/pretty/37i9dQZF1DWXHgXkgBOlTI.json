@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 29940,
+  "num_followers": 29946,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-11-26 15:00:00",
       "album": {
-        "name": "Defying",
-        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
-      },
-      "artists": [
-        {
-          "name": "TRI4TH",
-          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Sol Levante",
-      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
-    },
-    {
-      "added_at": "2024-11-26 15:00:00",
-      "album": {
         "name": "Oneself Likeness",
         "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
       },
@@ -851,18 +835,34 @@
     {
       "added_at": "2024-11-26 15:00:00",
       "album": {
-        "name": "Wild Guys In The Universe",
-        "url": "https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq"
+        "name": "Defying",
+        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
       },
       "artists": [
         {
-          "name": "\u304b\u3064\u3057\u304b\u30c8\u30ea\u30aa",
-          "url": "https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm"
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
         }
       ],
-      "duration_ms": 226853,
-      "name": "Zero G",
-      "url": "https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn"
+      "duration_ms": 208026,
+      "name": "Sol Levante",
+      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
+    },
+    {
+      "added_at": "2024-11-26 15:00:00",
+      "album": {
+        "name": "seed",
+        "url": "https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg"
+      },
+      "artists": [
+        {
+          "name": "The Hey Song",
+          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u30cf\u30eb\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

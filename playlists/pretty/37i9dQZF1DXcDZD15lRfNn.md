@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,013 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,017 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Way 도](https://open.spotify.com/track/0kNj1z6KV7Q41XK50rirHS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.1](https://open.spotify.com/album/33X7HDdkLzgnr8cU05gtv5) | 3:27 |
-| 2 | [Only Love 너의 마음을 내게 준다면 \(Feat\. Colde\)](https://open.spotify.com/track/4YQ6j4gP0E6WOCdqGmA7eo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.1](https://open.spotify.com/album/33X7HDdkLzgnr8cU05gtv5) | 4:35 |
+| 1 | [Way 도](https://open.spotify.com/track/0kNj1z6KV7Q41XK50rirHS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.1](https://open.spotify.com/album/33X7HDdkLzgnr8cU05gtv5) | 3:27 |
+| 2 | [Only Love 너의 마음을 내게 준다면 \(Feat\. Colde\)](https://open.spotify.com/track/4YQ6j4gP0E6WOCdqGmA7eo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.1](https://open.spotify.com/album/33X7HDdkLzgnr8cU05gtv5) | 4:35 |
 | 3 | [My Husband 서방님](https://open.spotify.com/track/5KpOmWNqJK6dXaDsonuudV) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Sugar Man 3 투유프로젝트 \- 슈가맨3 , EPISODE.2](https://open.spotify.com/album/41bk85neU33JN4EE31K8Ct) | 4:02 |
 | 4 | [Rebecca 리베카](https://open.spotify.com/track/5EWLW3wYGSvNR2fLE0ZYjJ) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Sugar Man 3 투유프로젝트 \- 슈가맨3 , EPISODE.2](https://open.spotify.com/album/41bk85neU33JN4EE31K8Ct) | 3:06 |
 | 5 | [DESIRE AND HOPE 원하고 원망하죠](https://open.spotify.com/track/2ULxEFFCkSWaVm88kUhfat) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.3](https://open.spotify.com/album/7JWgu1tSTNDEvQKmGcIVjk) | 4:06 |

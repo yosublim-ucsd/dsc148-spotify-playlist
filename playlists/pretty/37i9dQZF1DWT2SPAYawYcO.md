@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,397 likes - 109 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,413 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 41 | [Numb](https://open.spotify.com/track/3JrxFr41KToUg6fs5XzbYV) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Rage And All Its Friends](https://open.spotify.com/album/1lzDgdlVNDGKR8ZgWxyeBa) | 2:49 |
 | 42 | [s2wik](https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [.mp3s](https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q) | 2:47 |
 | 43 | [Got To Be The Same](https://open.spotify.com/track/19rGTxbt5QfJwQ7AlJvFxV) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Got To Be The Same](https://open.spotify.com/album/15VFMt4uXgKVqRM9irB2iU) | 2:33 |
-| 44 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:24 |
+| 44 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 |
 | 45 | [Let It Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let It Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 46 | [Everything Shines](https://open.spotify.com/track/28kM2tZgT3NYLG046gLUwS) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Everything Shines](https://open.spotify.com/album/7namd4CP0MH6Vqte75FjVH) | 3:50 |
 | 47 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 |

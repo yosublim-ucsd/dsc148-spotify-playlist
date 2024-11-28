@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,302 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,308 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain]
 | 15 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 |
 | 16 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 |
 | 17 | [Curated by Mun Ka Young](https://open.spotify.com/track/3xFLsTmNtcRuO1s7kljfU4) | [The Interest of Love](https://open.spotify.com/artist/3MdnqN2h7FgHmKtUYGm5Yy) | [The Interest of Love Audio Liners](https://open.spotify.com/album/3meZINckmvjt1bDS3UBddw) | 0:23 |
-| 18 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
+| 18 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 19 | [sandcastle](https://open.spotify.com/track/6orA1IgG7nqVJ5lOeRMNHQ) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [each other](https://open.spotify.com/album/1g88nv6bDJwHyOF6JNU130) | 3:23 |
 | 20 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 | 21 | [No Reason](https://open.spotify.com/track/2I0YGyXdCKdsaV8m3KLXnt) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [No Reason](https://open.spotify.com/album/1BN28wruHBne8PUA5cO9fK) | 4:05 |

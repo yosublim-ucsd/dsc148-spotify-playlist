@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-976 songs - 2 day 23 hr 40 min
+977 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Burning Times](https://open.spotify.com/track/3jq0ula2HD54lHumVcEx8b) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Blessed And The Damned](https://open.spotify.com/album/3Cg1jiRfFHatnPx40pqGL3) | 3:43 | 2022-03-22 | 2022-06-21 |
 | [Butterfly](https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Butterfly](https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH) | 3:08 | 2024-05-03 | 2024-10-12 |
 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 | 2023-10-27 |  |
-| [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 |  |
+| [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 | 2024-11-28 |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-08-19 | 2023-02-11 |
 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-11-04 |  |
 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 | 2024-07-05 | 2024-09-21 |
@@ -638,6 +638,7 @@
 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 | 2022-08-19 |  |
 | [Punish You](https://open.spotify.com/track/4HCkjZPT5io0NGlyaSIZpT) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Punish You](https://open.spotify.com/album/0LSHUY7MYlV7NKCs8rPD9V) | 4:21 | 2021-12-17 | 2022-07-29 |
 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 | 2022-08-19 |  |
+| [Purified by Vengeance \(Instrumental\) \[feat\. Mark Holcomb, Periphery & Mick Gordon\]](https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [The Deceivers \(Instrumental\)](https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT) | 4:27 | 2024-11-22 |  |
 | [Push](https://open.spotify.com/track/4xD8Pb5UGURJwnn9vi2Igu) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Killing the Dragon](https://open.spotify.com/album/2de1fHKLJ3o6bDkCjIwcJ6) | 4:08 | 2021-12-17 | 2022-08-20 |
 | [Pushing the Tides](https://open.spotify.com/track/2JIbpxyklwMF01YPqJG7uq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Pushing the Tides](https://open.spotify.com/album/4JK64E5sqKLT2appa0WxwO) | 3:29 | 2021-12-17 | 2022-04-21 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-25 |  |

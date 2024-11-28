@@ -16,10 +16,32 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 614592,
       "name": "#19",
       "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "album": {
+        "name": "#STILLSWAGGIN",
+        "url": "https://open.spotify.com/album/5eFp0ddIuHk037ATF3I0Uj"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "5EB",
+          "url": "https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165618,
+      "name": "#PURRR",
+      "url": "https://open.spotify.com/track/7l2uFr3nx6AIMaumhzhD3v"
     },
     {
       "album": {
@@ -202,7 +224,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 64614,
       "name": "40",
       "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
@@ -896,7 +918,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 309896,
       "name": "Any Way (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 197359,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/3CctKDDCTPmAHUmpRfVBg7"
@@ -2710,7 +2732,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 271733,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
@@ -3594,7 +3616,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
@@ -3616,6 +3638,28 @@
       "duration_ms": 173160,
       "name": "Drowning In My Sleep",
       "url": "https://open.spotify.com/track/5QIitx4XCac0c0zbCIx0O8"
+    },
+    {
+      "album": {
+        "name": "Drums of Death",
+        "url": "https://open.spotify.com/album/1au1j5lu62capHe16MhXLF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Drums of Death",
+      "url": "https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n"
     },
     {
       "album": {
@@ -4424,7 +4468,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 212571,
       "name": "FOREVER - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU"
@@ -5156,7 +5200,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 275892,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
@@ -5340,6 +5384,24 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "Hit & Run",
+        "url": "https://open.spotify.com/album/2vqCQ0ksBM3Lrh3pfap5Uj"
+      },
+      "artists": [
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131771,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/6ZO2BFnWwI0CTapdJGlTJb"
     },
     {
       "album": {
@@ -5612,6 +5674,28 @@
       "duration_ms": 175500,
       "name": "I Don't Know What To Say",
       "url": "https://open.spotify.com/track/3RacL9kXyeYXfkBQOAMNPl"
+    },
+    {
+      "album": {
+        "name": "MISLED YOUTH",
+        "url": "https://open.spotify.com/album/1heYcxNnyxtnUp81RhLHLV"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        },
+        {
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243626,
+      "name": "i fall apart",
+      "url": "https://open.spotify.com/track/2HkBZyJt61zqqO5Z5wD6JL"
     },
     {
       "album": {
@@ -6858,7 +6942,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 291000,
       "name": "Like It Shouldn't",
       "url": "https://open.spotify.com/track/2MfS8a3TlACB9tLSv5Bbcw"
@@ -7172,6 +7256,24 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "album": {
+        "name": "love it",
+        "url": "https://open.spotify.com/album/3jbASDv4X6icDmB8KQUnp3"
+      },
+      "artists": [
+        {
+          "name": "Dalhaus",
+          "url": "https://open.spotify.com/artist/051ZgC6k4HtIwKdMHoynkE"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154610,
+      "name": "love it",
+      "url": "https://open.spotify.com/track/63fcImyBEim3C4hGmoTUKA"
     },
     {
       "album": {
@@ -9434,7 +9536,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 319066,
       "name": "Rahat Al Chant Ymme",
       "url": "https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP"
@@ -10211,6 +10313,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+    },
+    {
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/6uViHbzccu6aZc7kgOFMSH"
       },
@@ -10839,6 +10959,24 @@
     },
     {
       "album": {
+        "name": "SPANK!",
+        "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
+      },
+      "artists": [
+        {
+          "name": "HiTech",
+          "url": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "SPANK!",
+      "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
+    },
+    {
+      "album": {
         "name": "hard boiled",
         "url": "https://open.spotify.com/album/3gtJxGdRyZ7Ctp5eo2bEpa"
       },
@@ -11240,6 +11378,40 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
+        "name": "take your vibes and go (Kino Todo Remix)",
+        "url": "https://open.spotify.com/album/6QO7xdsYKFRiYpAjHIgGow"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Kino Todo",
+          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220033,
+      "name": "take your vibes and go - Kino Todo Remix",
+      "url": "https://open.spotify.com/track/7rKntPgNiS11cRF8kBNfIR"
     },
     {
       "album": {
@@ -12900,6 +13072,42 @@
       "duration_ms": 260941,
       "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
       "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
+    },
+    {
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Windows XP",
+      "url": "https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK"
+    },
+    {
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152770,
+      "name": "Winter Baby / New Jersey Blues",
+      "url": "https://open.spotify.com/track/2vIgX0J99CKudcJwfKThhI"
     },
     {
       "album": {

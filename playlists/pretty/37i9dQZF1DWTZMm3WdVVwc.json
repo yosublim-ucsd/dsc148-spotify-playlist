@@ -1,47 +1,47 @@
 {
   "description": "\u51ac\u304c\u3088\u3046\u3084\u304f\u8a2a\u308c\u307e\u3057\u305f\u3002\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 21711,
+  "num_followers": 21750,
   "original_name": "Winter is Here #\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz038wAAAACs8c6xqHWaAeDDVPNjdA04",
+  "snapshot_id": "Z0aWPgAAAAC7AbWnSmbxrnK0eHTrnaUl",
   "tracks": [
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
-        "name": "\u51ac\u3068\u6625",
-        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+        "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
+        "url": "https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Noriyuki Makihara",
+          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
         }
       ],
-      "duration_ms": 256786,
-      "name": "\u51ac\u3068\u6625",
-      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+      "duration_ms": 230600,
+      "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
+      "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+        "name": "NO SIDE",
+        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
       },
       "artists": [
         {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
         }
       ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+      "duration_ms": 273661,
+      "name": "BLIZZARD",
+      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/3mMsgDoDSuT2oqdsmkSBr9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1Vimcaq6kgTq6xgHSnr4pS"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "First Love (2022 Mix)",
         "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u6b63\u89e3",
         "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "wizard",
         "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
@@ -121,7 +137,23 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9\u306e\u795e\u69d8",
+        "url": "https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa"
+      },
+      "artists": [
+        {
+          "name": "Kohmi Hirose",
+          "url": "https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv"
+        }
+      ],
+      "duration_ms": 269283,
+      "name": "\u30ed\u30de\u30f3\u30b9\u306e\u795e\u69d8",
+      "url": "https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ"
+    },
+    {
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "this is what winter feels like",
         "url": "https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
@@ -173,39 +205,7 @@
       "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
-      "album": {
-        "name": "NO SIDE",
-        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 273661,
-      "name": "BLIZZARD",
-      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
-    },
-    {
-      "added_at": "2024-11-20 01:14:27",
-      "album": {
-        "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
-        "url": "https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda"
-      },
-      "artists": [
-        {
-          "name": "Noriyuki Makihara",
-          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
-      "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
-    },
-    {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "12 hugs (like butterflies)",
         "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
         "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
@@ -253,7 +253,23 @@
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
+      "album": {
+        "name": "\u51ac\u3068\u6625",
+        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "\u51ac\u3068\u6625",
+      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+    },
+    {
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "hug",
         "url": "https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "How are you feeling?",
         "url": "https://open.spotify.com/album/7MbKGeppCOJglzz8ONn90T"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/2uPfOgWxzj99atXxkb0mXv"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u7a7a\u3078",
         "url": "https://open.spotify.com/album/7nc0ZBbcpThxeggF5aRDQY"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/4pFt5zmMNDt8SbEARg6iKM"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "WINTER WITHOUT YOU",
         "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Stateless feat. YonYon",
         "url": "https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u541b\u306e\u76ee\u3001\u58f0",
         "url": "https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Bedroom (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "kani",
         "url": "https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u3055\u3059\u3089\u3044",
         "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Tomorrow!",
         "url": "https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
         "url": "https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u611b\u6a21\u69d8",
         "url": "https://open.spotify.com/album/52ARhaxoG22r7PomX7ODTU"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/0SGjAOOd55L6Swf74qynfa"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1ifijbnGiHkELLnZdiTvf5"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/1MlVQAK45PcFhl4yp1djKZ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
         "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30e1\u30eb\u30c8",
         "url": "https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "snowspring",
         "url": "https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "winter again",
         "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Bubble (feat. Aile The Shota)",
         "url": "https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "continue",
         "url": "https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
         "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Holy Night",
         "url": "https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u00datdautt lag",
         "url": "https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "FUYU",
         "url": "https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "marble latte",
         "url": "https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "What's Going On?",
         "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Stuck In The Middle (feat. Benjamin Roustaing)",
         "url": "https://open.spotify.com/album/6zATR2IR42heoEaNMjz63p"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/68k2pbbQ6zkg07nvFlyLW0"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
         "url": "https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u96ea\u306e\u9280\u6cb3",
         "url": "https://open.spotify.com/album/1ZWYGdpcUsniJTo3xMDbxF"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/2uIrHFRbExn5bsQPsIV8da"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "tender",
         "url": "https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/20jLunM1GMasrScNWN45mP"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u3007",
         "url": "https://open.spotify.com/album/0SUDbLjaTOjHJFgzovopXr"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "LOVE LOVE LOVE",
         "url": "https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/239dSULr1VNeGL30rzWZx2"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Gothic Babe Tendencies (feat. blackbear)",
         "url": "https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Kiss Me, Winter",
         "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/2ZA8lHf1yddpZyHBfoyhZz"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/2fx9Jqib69Q6BQuE2crNoC"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Memory Lane & Winter Song",
         "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "beyond the GENERATIONS",
         "url": "https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Snowin\u2019",
         "url": "https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30d5\u30a7\u30a4\u30af\u30d5\u30a1\u30fc",
         "url": "https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "SZNZ: Winter",
         "url": "https://open.spotify.com/album/52FaHwCCUz8aMLMWlZgYzo"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7Bk3CAkTH58ZdxHJIwvkA7"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "COSMO",
         "url": "https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u9000\u5c48",
         "url": "https://open.spotify.com/album/3EtQUrq1CpdPVxrFV5vUNu"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0Imp3yueaJNsOjrnY2zmB7"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "silent",
         "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/19evTcsCe0lvbjzLcRVOr6"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/4gaxaW9fukBTGfGdY1BkjF"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "R&ME",
         "url": "https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "HOME EP",
         "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
         "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u767d\u96ea\u306e\u738b\u5b50\u69d8",
         "url": "https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe"
@@ -1185,23 +1201,7 @@
       "url": "https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9\u306e\u795e\u69d8",
-        "url": "https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa"
-      },
-      "artists": [
-        {
-          "name": "Kohmi Hirose",
-          "url": "https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv"
-        }
-      ],
-      "duration_ms": 269283,
-      "name": "\u30ed\u30de\u30f3\u30b9\u306e\u795e\u69d8",
-      "url": "https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ"
-    },
-    {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "WINTER SONGS FOR YOU!",
         "url": "https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Image Word (New Recording Ver.)",
         "url": "https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Crystals (English ver.)",
         "url": "https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S"
@@ -1249,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u305d\u3046\u304b\u306a",
         "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
         "url": "https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
         "url": "https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "Snow White",
         "url": "https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u89e3\u6c37",
         "url": "https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307"
     },
     {
-      "added_at": "2024-11-20 01:14:27",
+      "added_at": "2024-11-27 03:47:10",
       "album": {
         "name": "\u30db\u30ed\u30b0\u30e9\u30e0",
         "url": "https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x"

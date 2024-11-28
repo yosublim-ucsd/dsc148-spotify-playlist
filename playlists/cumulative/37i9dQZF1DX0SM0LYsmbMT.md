@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,285 songs - 6 day 19 hr 25 min
+4,286 songs - 6 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Blue Forest](https://open.spotify.com/track/4wsHN1FsBuMFbwUSuuCaZZ) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Blue Talk](https://open.spotify.com/album/6vZ9Dh91kpigVHzJBatggg) | 2:27 | 2020-03-20 | 2020-05-01 |
 | [blue haze](https://open.spotify.com/track/2knGGKUe0T66kZvtH8mY9c) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [still thinkin' / blue haze](https://open.spotify.com/album/4YzXUhK9fhGgZJtwNbJVcH) | 2:37 | 2020-02-14 | 2020-05-22 |
 | [Blue Lagoon](https://open.spotify.com/track/3mtaRfivMCPYmqh9BpLTLW) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Blue Lagoon](https://open.spotify.com/album/4KcvYwsqUQF2OgvrNL4Wvk) | 1:55 | 2021-01-29 | 2021-03-19 |
-| [Blue Mood](https://open.spotify.com/track/3EtZnZm5vSUoyANv1y4Euq) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Blue Mood](https://open.spotify.com/album/0Y7qlxushLfHt6A7YDztUf) | 1:34 | 2022-09-08 |  |
+| [Blue Mood](https://open.spotify.com/track/3EtZnZm5vSUoyANv1y4Euq) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Blue Mood](https://open.spotify.com/album/0Y7qlxushLfHt6A7YDztUf) | 1:34 | 2022-09-08 | 2024-11-28 |
 | [Blue Moon](https://open.spotify.com/track/680BqFD0FVVA0Eld6Tjvij) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Moon](https://open.spotify.com/album/3rqs1QEtD7ziWUYynt4DIM) | 1:56 | 2021-03-27 | 2021-08-06 |
 | [Blue Orchids](https://open.spotify.com/track/4U78uBnxWdIaP8DFWBFaGC) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Blue Orchids](https://open.spotify.com/album/7GEGxtHdQtuP04wodEjbID) | 1:34 | 2022-11-03 | 2023-01-27 |
 | [Blue Peony](https://open.spotify.com/track/65hqr4D7lPZ3lOIYDyPGhY) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Blue Peony](https://open.spotify.com/album/70OBG89uKQf6MPmos4cBG2) | 2:36 | 2022-06-23 | 2022-07-15 |
@@ -1290,6 +1290,7 @@
 | [For U](https://open.spotify.com/track/0K9Z7yEFhJSoNPe2RRIuyd) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [For U](https://open.spotify.com/album/6bVnnozFMuj4EDXVC9Yr7d) | 1:53 | 2022-07-21 | 2022-08-02 |
 | [For U](https://open.spotify.com/track/2ytZZ2S64YvE9G5SgYEPkB) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [For U](https://open.spotify.com/album/1wAMBFJ7WkhMNlTiZpcfEa) | 1:46 | 2022-04-21 | 2022-04-28 |
 | [For What It Was](https://open.spotify.com/track/0B2ILMaXWitHbHAJm2nSLd) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Special Love](https://open.spotify.com/album/2nKpQNq1uyH603DyRAZudJ) | 2:37 | 2021-01-08 | 2021-08-20 |
+| [For You](https://open.spotify.com/track/2FHADEuacLabVIGX7dDHhj) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR) | [For You](https://open.spotify.com/album/6fSiFuEfYm2KaERzDyzL0q) | 1:48 | 2024-11-11 |  |
 | [For You](https://open.spotify.com/track/0BuxD93blaSwm9PHnvrSj4) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Cookies & Cream 5](https://open.spotify.com/album/17Ybyd0JaFZv5wcbeyraOg) | 1:55 | 2021-07-20 | 2021-08-20 |
 | [Forbidden Fruit](https://open.spotify.com/track/4NPPOiGhktISqk4GMg9eQu) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Forbidden Fruit](https://open.spotify.com/album/54sekqLosgZUjWlOcZDD9u) | 1:59 | 2022-12-15 | 2023-04-14 |
 | [Foreign Courts](https://open.spotify.com/track/1tEv5T1ipbmC6pucNlfTzM) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Foreign Courts](https://open.spotify.com/album/0bhOGgpZiWoolwCCqNey45) | 2:08 | 2021-01-23 | 2021-07-09 |

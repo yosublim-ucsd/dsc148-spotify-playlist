@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-738 songs - 1 day 17 hr 7 min
+739 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 | 2023-09-23 |
 | [Darkest Ocean](https://open.spotify.com/track/0fpTlN16c9TyQEUM1i2x8A) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [Darkest Ocean](https://open.spotify.com/album/78dvlqECzjKdT6oBev6tsQ) | 2:36 | 2023-04-28 | 2023-09-23 |
 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 | 2024-04-12 |  |
+| [Dead Presidents](https://open.spotify.com/track/6n7IN1ggUQFWT57ye4CxxX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 3:09 | 2024-11-27 |  |
 | [Dearly Departed \(feat\. Kardinal Offishall\)](https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP) | [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Rap Prime Minister](https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv) | 4:07 | 2024-03-01 | 2024-10-05 |
 | [Death & Taxes](https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Death & Taxes](https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT) | 3:10 | 2022-07-08 | 2022-08-20 |
 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 | 2024-04-19 |  |

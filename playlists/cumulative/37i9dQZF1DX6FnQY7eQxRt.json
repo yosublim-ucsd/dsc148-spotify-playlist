@@ -3385,6 +3385,40 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Hakon Samuelsen",
+          "url": "https://open.spotify.com/artist/0PveFynDT0XrxSZFPnm40C"
+        },
+        {
+          "name": "Huw Watkins",
+          "url": "https://open.spotify.com/artist/3xgcjXeaaGErogsNHWbYPU"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303040,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/3Sa94DNFUGovWowMqwrMHd"
+    },
+    {
+      "album": {
         "name": "The Waiting Sky",
         "url": "https://open.spotify.com/album/2LX56aNF93x4uDRR2toxWl"
       },

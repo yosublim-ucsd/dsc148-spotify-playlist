@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers",
-  "num_followers": 72058,
+  "num_followers": 72076,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-11-22 06:01:39",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2024-11-22 06:01:39",
+      "album": {
         "name": "Nadiya Bairi Bhayi",
         "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
-    },
-    {
-      "added_at": "2024-11-22 06:01:39",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2024-11-22 06:01:39",
@@ -855,46 +855,6 @@
     {
       "added_at": "2024-11-22 06:01:39",
       "album": {
-        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
-      },
-      "artists": [
-        {
-          "name": "Rashid Khan",
-          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
-        },
-        {
-          "name": "Arpita Chatterjee",
-          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Sajna Barse",
-      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
-    },
-    {
-      "added_at": "2024-11-22 06:01:39",
-      "album": {
-        "name": "Maati Baani",
-        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
-        }
-      ],
-      "duration_ms": 273394,
-      "name": "Boondan Boondan (feat. Ankita Joshi)",
-      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
-    },
-    {
-      "added_at": "2024-11-22 06:01:39",
-      "album": {
         "name": "Dekho Sakhi",
         "url": "https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h"
       },
@@ -919,6 +879,26 @@
     {
       "added_at": "2024-11-22 06:01:39",
       "album": {
+        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Arpita Chatterjee",
+          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Sajna Barse",
+      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
+    },
+    {
+      "added_at": "2024-11-22 06:01:39",
+      "album": {
         "name": "Voyage 2",
         "url": "https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": "2024-11-22 06:01:39",
       "album": {
+        "name": "Maati Baani",
+        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+        }
+      ],
+      "duration_ms": 273394,
+      "name": "Boondan Boondan (feat. Ankita Joshi)",
+      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
+    },
+    {
+      "added_at": "2024-11-22 06:01:39",
+      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2024-11-22 06:01:39",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Ustad Raees Khan",
+          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Hans Dhuni",
+      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
     },
     {
       "added_at": "2024-11-22 06:01:39",
@@ -975,22 +991,6 @@
       "duration_ms": 202838,
       "name": "Naina Morey - Redefined",
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
-    },
-    {
-      "added_at": "2024-11-22 06:01:39",
-      "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Ustad Raees Khan",
-          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Hans Dhuni",
-      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
     },
     {
       "added_at": "2024-11-22 06:01:39",

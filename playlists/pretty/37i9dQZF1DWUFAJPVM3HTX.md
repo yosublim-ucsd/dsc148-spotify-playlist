@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=KCTIZdhsQ2WXyDzypHf8ag">WESLEYFRANKLIN</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,292 likes - 350 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,463 likes - 350 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 14 | [Third Strike](https://open.spotify.com/track/4wr02UNfZ3xwnyeQLvVJN0) | [Mulherin](https://open.spotify.com/artist/0pvhBvl3SFpzhahmYfqcPo) | [Third Strike](https://open.spotify.com/album/49gsMAGIvpbuAuPcNq0Ajp) | 3:30 |
 | 15 | [8PM \(By Your Side\)](https://open.spotify.com/track/6VrwVUqHRNATDFT8eQjZfV) | [Sweata](https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1) | [8PM \(By Your Side\)](https://open.spotify.com/album/2yDUXT1KR4RWO3PAyxPvuR) | 3:39 |
 | 16 | [SOMEBODY](https://open.spotify.com/track/1hcJX6IXmlQVqqhMuBwTf8) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [INTUITION](https://open.spotify.com/album/13EETR85h3AtkDlZWSOz9R) | 2:07 |
-| 17 | [Breathe \- Bonus](https://open.spotify.com/track/7at29evHRwwKNq6tRfWbLJ) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [Before The Sun Sets \(Deluxe\)](https://open.spotify.com/album/6Qb2x5ZcevA6tzZgpVQDkN) | 2:23 |
+| 17 | [Breathe \- Bonus](https://open.spotify.com/track/7at29evHRwwKNq6tRfWbLJ) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [Before The Sun Sets](https://open.spotify.com/album/6Qb2x5ZcevA6tzZgpVQDkN) | 2:23 |
 | 18 | [Sometimes](https://open.spotify.com/track/4iZrcBX5Cp6Nbn9ex7CQbj) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Lina Nikol](https://open.spotify.com/artist/7G3zlaTXtjBWn2hASxqLbg) | [Sometimes](https://open.spotify.com/album/3jTnVUYCrpn3L5tBfebVCv) | 3:12 |
 | 19 | [Red Flower \(Beautiful Things\)](https://open.spotify.com/track/59MIETOoVgl1vHPbqMFeez) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Red Flower \(Beautiful Things\)](https://open.spotify.com/album/23LJll2FBddrlyqFv7t7E0) | 1:57 |
 | 20 | [feels like \(uh\)](https://open.spotify.com/track/4hYcs58MGelWCcu9QPOsBs) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [feels like \(uh\)](https://open.spotify.com/album/6by5Ho9QExGSUyR58eRKmE) | 3:19 |

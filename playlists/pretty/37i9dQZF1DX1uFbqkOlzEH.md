@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,292 likes - 125 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,296 likes - 125 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 66 | [DARLING](https://open.spotify.com/track/3cmZtFjPjx4zM4nsfSZZEh) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HEADLINER](https://open.spotify.com/album/5dTxoZoYAzvuMFQQ0lkGIW) | 4:06 |
 | 67 | [Close Your Eyes](https://open.spotify.com/track/7zZnCBlFyAESht9EYLC08n) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [wonderlost](https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au) | 4:10 |
 | 68 | [She Said \(with BIBI\)](https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:28 |
-| 69 | [Late Autumn](https://open.spotify.com/track/4TRFsBJDCxXfeOBxW9Z0WQ) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:33 |
+| 69 | [Late Autumn](https://open.spotify.com/track/4TRFsBJDCxXfeOBxW9Z0WQ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:33 |
 | 70 | [wanderlust](https://open.spotify.com/track/1OqUHRSeEAqGexeUIxD3Cw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF) | 2:08 |
 | 71 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
 | 72 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |

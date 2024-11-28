@@ -4,7 +4,7 @@
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-126 songs - 7 hr 9 min
+127 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [We Three Kings of Orient Are \(arr\. J\. Rutter\): Three kings of Orient](https://open.spotify.com/track/6M3OFxe8Za62DTNWG79pGc) | [John Henry Hopkins](https://open.spotify.com/artist/4oT37QcUiBMJWyciCoeraO), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [Cambridge Orchestra](https://open.spotify.com/artist/5ik7dyLIwdHHSIlS4sjzCB) | [Christmas Star: A Christmas Festival](https://open.spotify.com/album/6Hr6HHfLCy9qr2kcTUKjdv) | 5:02 | 2020-10-27 |  |
 | [We Wish You a Merry Christmas: A Merry Christmas \(Arr\. A\. Warrell for choir\)](https://open.spotify.com/track/7raN5xL6fksTmUmkPsbP2N) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Bach Choir](https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM), [Royal Military School Of Music Ceremonial Trumpets](https://open.spotify.com/artist/5WNJ51xDorHpBmIkeM5VK6), [The Graham Ashton Brass Ensemble](https://open.spotify.com/artist/0FZ5xFx2hLUeRvvtBYHOex), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Christmas: Bach Choir \- Family Carols](https://open.spotify.com/album/2S5YRNzmP6c3cWtjhleQkj) | 1:31 | 2020-10-27 |  |
 | [Whitacre: Lux Aurumque](https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) | [Light & Gold](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) | 4:15 | 2020-10-27 | 2024-04-19 |
+| [Winter](https://open.spotify.com/track/3Sa94DNFUGovWowMqwrMHd) | [Rebecca Dale](https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Hakon Samuelsen](https://open.spotify.com/artist/0PveFynDT0XrxSZFPnm40C), [Huw Watkins](https://open.spotify.com/artist/3xgcjXeaaGErogsNHWbYPU) | [Winter](https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI) | 5:03 | 2024-11-27 |  |
 | [Winter Time](https://open.spotify.com/track/2VMTYU4yEW0zxknxONm4nt) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Pembroke College Girls' Choir](https://open.spotify.com/artist/4RjmJe64qNsx1mZ6rbEfdm) | [The Waiting Sky](https://open.spotify.com/album/2LX56aNF93x4uDRR2toxWl) | 3:04 | 2024-11-15 |  |
 | [Å, jul med din glede \(arr\. for choir by Arne Dagsvik\)](https://open.spotify.com/track/42gI0OhNkihCwET2ihMsMT) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Embla](https://open.spotify.com/artist/5Qx4gfistJc2yHJ65X6aaI), [Marit Tøndel Bodsberg](https://open.spotify.com/artist/4kWFPqc5nZA1oF7PPQTYZK) | [Å, jul med din glede \(arr\. for choir by Arne Dagsvik\)](https://open.spotify.com/album/61WJN2cnG6SWHxd4b7MpDx) | 2:42 | 2024-11-15 |  |
 

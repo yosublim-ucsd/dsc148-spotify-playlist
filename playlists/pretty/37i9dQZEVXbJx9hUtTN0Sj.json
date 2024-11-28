@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belgium.",
-  "num_followers": 22998,
+  "num_followers": 22997,
   "original_name": "Viral 50 - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-26 15:49:40",
@@ -402,10 +402,6 @@
         {
           "name": "Sade",
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        },
-        {
-          "name": "Red Hot Org",
-          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
         }
       ],
       "duration_ms": 252884,
@@ -548,21 +544,21 @@
       "added_at": "2024-11-26 15:49:40",
       "album": {
         "name": "Aliocha Schneider (Deluxe)",
-        "url": "https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI"
+        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        },
-        {
           "name": "Charlotte Cardin",
           "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
       "duration_ms": 172000,
-      "name": "Ensemble - feat. Charlotte Cardin",
-      "url": "https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ"
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
     },
     {
       "added_at": "2024-11-26 15:49:40",

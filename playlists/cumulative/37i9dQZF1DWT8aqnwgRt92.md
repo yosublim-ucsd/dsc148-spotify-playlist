@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,643 songs - 4 day 6 hr 35 min
+1,644 songs - 4 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [I Believe](https://open.spotify.com/track/7HlJKKUv2NJq8q43yUkoL3) | [Zakuro Fujiwara\(CV:Momoka Ishii\)](https://open.spotify.com/artist/2AhkWcubMNCPU14jOpeNaI) | [I Believe](https://open.spotify.com/album/7qJPUOixcYQfpQjGwqIy6l) | 4:55 | 2022-07-28 | 2022-08-17 |
 | [I Can Bleah](https://open.spotify.com/track/2g0lxFQtQ952WX0IV7b0yJ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ケーブルサラダ](https://open.spotify.com/album/34KdkdBURpzwXzI4bIF6Ot) | 2:48 | 2023-11-14 | 2023-12-25 |
+| [I DON’T CARE](https://open.spotify.com/track/5pJ31pWQ09AySGufgTndAa) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/1chQfda9KkSyk24NbI7CEW) | 3:33 | 2024-11-27 |  |
 | [I LUV U 2](https://open.spotify.com/track/4pOPQhidhShpGrrVkcAV1j) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [I LUV U 2 EP](https://open.spotify.com/album/2e4WeFLOf9lsNOqmSKwbM6) | 3:57 | 2024-07-23 | 2024-10-02 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-03 | 2022-12-21 |
 | [I wish](https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4) | [来栖りん](https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA) | [I wish](https://open.spotify.com/album/3nQK1O5z7v0c1rEL9BNbK4) | 3:12 | 2023-04-06 | 2023-05-31 |
@@ -1454,7 +1455,7 @@
 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 | 2024-04-02 | 2024-07-08 |
 | [旦那様とのラブラブ・ラブソング](https://open.spotify.com/track/2IwsVdAImV88Yu6S899WCb) | [フェンリース\(CV:釘宮理恵\)](https://open.spotify.com/artist/1ZoqJE6HwBMppq0GFwlGnR) | [旦那様とのラブラブ・ラブソング](https://open.spotify.com/album/3jGWeE1x6UGB0cKpoKHHpS) | 2:52 | 2024-04-30 | 2024-07-17 |
 | [明日は明日の風が吹く](https://open.spotify.com/track/7fNzd4Dk11gz0Bw1K1PrzD) | [LEEVELLES](https://open.spotify.com/artist/18fdEUD62UUaQx0RP57dog) | [明日は明日の風が吹く](https://open.spotify.com/album/43qRtHShY0CnF3wtKKTuEA) | 3:05 | 2024-01-09 | 2024-04-11 |
-| [明日世界が終わるとしても](https://open.spotify.com/track/5ySid9srGoH5flPquFNB3r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/2Hf0qtnvGHnJxP7odu0aTX) | 3:36 | 2024-10-08 |  |
+| [明日世界が終わるとしても](https://open.spotify.com/track/5ySid9srGoH5flPquFNB3r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/2Hf0qtnvGHnJxP7odu0aTX) | 3:36 | 2024-10-08 | 2024-11-28 |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 | 2022-07-08 |
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 | 2023-04-09 |
 | [星の伝言](https://open.spotify.com/track/0Z7iMy2lxYoYsSR0xKnzHs) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [星の伝言](https://open.spotify.com/album/0ZITtg5Sl3lvVR5Lx5QRQz) | 4:02 | 2024-10-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47448,
+  "num_followers": 47447,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHz5eTg7ZdULJAs0ERy7sMHyoxRMNO",
+  "snapshot_id": "AAAH0DYecNiLLTvo6EiAKzJb0nKam3WY",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -2041,30 +2041,6 @@
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
     },
     {
-      "added_at": "2024-05-24 00:41:06",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4BujVvdktAA5TjMcs7jKyw"
-      },
-      "artists": [
-        {
-          "name": "Jack Fruit",
-          "url": "https://open.spotify.com/artist/0n0HpcvEJoZvQSPwkBKkSE"
-        },
-        {
-          "name": "Valentina Star",
-          "url": "https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU"
-        },
-        {
-          "name": "Night Pulse",
-          "url": "https://open.spotify.com/artist/3Q6lq9qdwY3y1uYf5NIqrR"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u"
-    },
-    {
       "added_at": "2024-11-26 00:45:03",
       "album": {
         "name": "More Than Friends",
@@ -2083,6 +2059,26 @@
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+    },
+    {
+      "added_at": "2024-11-28 00:41:04",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     }
   ],
   "unique_name": "EDM Top 100",

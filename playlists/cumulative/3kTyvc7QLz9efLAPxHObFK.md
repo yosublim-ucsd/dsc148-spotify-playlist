@@ -4,7 +4,7 @@
 
 > 
 
-1,856 songs - 4 day 3 hr 16 min
+1,858 songs - 4 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,8 @@
 | [Anything](https://open.spotify.com/track/6Ppy7M8ue0iaVrEy7149aB) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Fascination of Melody EP](https://open.spotify.com/album/5ug0NXUHzba0FskKJh1CAx) | 2:11 | 2022-09-30 |  |
 | [Anything But Silence](https://open.spotify.com/track/3DWR2Z0Cr4u3oqODT8fRIA) | [Subraver](https://open.spotify.com/artist/1Paa3sdgAGlRd3HSiu2tEa), [Lost Melodies](https://open.spotify.com/artist/0IcsV0bnINVFt1MWJwjVnd) | [Anything But Silence](https://open.spotify.com/album/1TAv2iUhfGSgmBBOANZDV2) | 2:42 | 2024-08-28 |  |
 | [Anywhere \(Cardination Remix\)](https://open.spotify.com/track/1ZGCsLdoBBrrVfAP0d6JAP) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8), [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Anywhere \(Cardination Remix\)](https://open.spotify.com/album/4iNCzY6IHsTwI0t7uRuGnv) | 2:57 | 2024-08-28 |  |
+| [Armageddon](https://open.spotify.com/track/0WaTCIDPcQbP0BVvXgkBPk) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Armageddon](https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ) | 2:52 | 2024-11-27 |  |
+| [Armageddon \- Extended Mix](https://open.spotify.com/track/2JEC1KjfbIRAU0q2CpGz8k) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Armageddon](https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ) | 3:10 | 2024-11-27 |  |
 | [Armageddon \- Noxiouz Remix](https://open.spotify.com/track/3dG65iBK18eyggmHfVdCfM) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Armageddon \(Noxiouz Remix\)](https://open.spotify.com/album/00QlryN6MeGXvja8Z5diFR) | 3:02 | 2023-12-02 |  |
 | [Armageddon Of The Mind](https://open.spotify.com/track/787sAtQKf4MjW9Nmzby94F) | [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD), [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL), [MC Prime](https://open.spotify.com/artist/41E3AGIWTIVpYAHqMWkmYf) | [Armageddon Of The Mind](https://open.spotify.com/album/0Fcdx0OotNmGwUno1oGEUA) | 2:39 | 2022-12-02 |  |
 | [Around](https://open.spotify.com/track/3X7MtlBdVoqp9xsXbFCTng) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Around](https://open.spotify.com/album/08zRhZq1IrNXErHtnV5Xa8) | 2:35 | 2024-11-14 |  |

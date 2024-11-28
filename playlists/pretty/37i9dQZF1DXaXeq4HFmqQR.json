@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: KUINA",
-  "num_followers": 13801,
+  "num_followers": 13802,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/6fS3ym6H9gIXExaEhGyPRV"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 161578,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2LPosy22QzecHq7ScFlcKW"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
         "name": "LolOLove (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 160480,
       "name": "LolOLove (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/6fS3ym6H9gIXExaEhGyPRV"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 161578,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2LPosy22QzecHq7ScFlcKW"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
+        "name": "Como Si Fuese Real",
+        "url": "https://open.spotify.com/album/2nI1kLvBAT8NdMDrny1UK4"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 115059,
+      "name": "Como Si Fuese Real",
+      "url": "https://open.spotify.com/track/6QrM9W6ccP6Gf5sOAI4oEp"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
         "name": "La Ni\u00f1a de Oro",
         "url": "https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA"
       },
@@ -247,42 +263,18 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "LA CLASSE",
-        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+        "name": "CONTACTO ZERO",
+        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
       },
       "artists": [
         {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Macree",
-          "url": "https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg"
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
         }
       ],
-      "duration_ms": 170050,
-      "name": "DIABLO",
-      "url": "https://open.spotify.com/track/5MxlOWGhUEssS6bGBdgQ5G"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
-        "name": "Como Si Fuese Real",
-        "url": "https://open.spotify.com/album/2nI1kLvBAT8NdMDrny1UK4"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 115059,
-      "name": "Como Si Fuese Real",
-      "url": "https://open.spotify.com/track/6QrM9W6ccP6Gf5sOAI4oEp"
+      "duration_ms": 172187,
+      "name": "CONTACTO ZERO",
+      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -307,18 +299,26 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "CONTACTO ZERO",
-        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
       "artists": [
         {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Macree",
+          "url": "https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg"
         }
       ],
-      "duration_ms": 172187,
-      "name": "CONTACTO ZERO",
-      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
+      "duration_ms": 170050,
+      "name": "DIABLO",
+      "url": "https://open.spotify.com/track/5MxlOWGhUEssS6bGBdgQ5G"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -359,26 +359,26 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "LA CLASSE",
-        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo"
       },
       "artists": [
         {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
         },
         {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
         },
         {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
-      "duration_ms": 200000,
-      "name": "FAMOSA",
-      "url": "https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj"
+      "duration_ms": 188936,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/1cn4eGvDoykUESAwHrzkGP"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        },
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
-        {
-          "name": "Swift 047",
-          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/1cn4eGvDoykUESAwHrzkGP"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
         "name": "ICONIC PERRA",
         "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
       },
@@ -451,6 +427,26 @@
       "duration_ms": 124705,
       "name": "ICONIC PERRA",
       "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
+        "name": "BBY H\u00c1BLAME",
+        "url": "https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 210682,
+      "name": "BBY H\u00c1BLAME",
+      "url": "https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -511,26 +507,6 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "BBY H\u00c1BLAME",
-        "url": "https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 210682,
-      "name": "BBY H\u00c1BLAME",
-      "url": "https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
         "name": "LA CLASSE",
         "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
@@ -538,11 +514,39 @@
         {
           "name": "KYA",
           "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 180355,
-      "name": "LA JEFA",
-      "url": "https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6"
+      "duration_ms": 200000,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
+        "name": "La Favorita de Dios",
+        "url": "https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "La Favorita de Dios",
+      "url": "https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65"
     },
     {
       "added_at": "2024-11-06 03:00:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
-        "name": "La Favorita de Dios",
-        "url": "https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI"
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
       "artists": [
         {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 134579,
-      "name": "La Favorita de Dios",
-      "url": "https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65"
+      "duration_ms": 180355,
+      "name": "LA JEFA",
+      "url": "https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6"
     },
     {
       "added_at": "2024-11-06 03:00:00",

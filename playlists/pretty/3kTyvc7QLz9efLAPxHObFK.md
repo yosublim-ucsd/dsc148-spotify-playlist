@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,852 songs - 4 day 3 hr 1 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,854 songs - 4 day 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1860,5 +1860,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1850 | [Haunting](https://open.spotify.com/track/2op1G8PQYntJs8UUobkkU8) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Haunting](https://open.spotify.com/album/4zZ0gKeyiKKDwF0s0OXaRg) | 2:48 |
 | 1851 | [Destroy All Humans](https://open.spotify.com/track/6X6aZt3teEhWmCwR6s6rYE) | [Storah](https://open.spotify.com/artist/6ewrmG7aoWCOiUyabJb6CC), [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm) | [Destroy All Humans](https://open.spotify.com/album/4jqAZDR90a7b1VvQPEWHqK) | 2:54 |
 | 1852 | [HYPNOTISED](https://open.spotify.com/track/3myc4hzNkPXqEkEo1rWHMm) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [HYPNOTISED](https://open.spotify.com/album/4q5xJnNx7uTlYM6TdawDRA) | 2:34 |
+| 1853 | [Armageddon](https://open.spotify.com/track/0WaTCIDPcQbP0BVvXgkBPk) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Armageddon](https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ) | 2:52 |
+| 1854 | [Armageddon \- Extended Mix](https://open.spotify.com/track/2JEC1KjfbIRAU0q2CpGz8k) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Armageddon](https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ) | 3:10 |
 
-Snapshot ID: `AAAHbyzOE/69c3ywnbT0mkAmIpGYOiTV`
+Snapshot ID: `AAAHcS8SZYk28xkJlWwRzJ4h1f66wxDv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 
 > You know\. Epik High Is Here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,680 likes - 77 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,688 likes - 77 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 | 24 | [Rosario](https://open.spotify.com/track/12QfVb1TGSSaSL7922KGyf) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:50 |
 | 25 | [수상소감 \(Acceptance Speech\)](https://open.spotify.com/track/4pRjeAuTly3cNDVTJdOVT7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:16 |
 | 26 | [Lesson Zero](https://open.spotify.com/track/61oCUBkGRfVEeJWXfdKUZ9) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 2:23 |
-| 27 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/4n4B2bDZuelBa1xAyXFdrN) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:54 |
+| 27 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/4n4B2bDZuelBa1xAyXFdrN) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:54 |
 | 28 | [Leica](https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 2:38 |
 | 29 | [정당방위 \(In Self\-defense\)](https://open.spotify.com/track/6Ht1fE0yLOw8ODeaSYJphi) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:37 |
 | 30 | [True Crime](https://open.spotify.com/track/55P9EAHXSp006VmxIImwTm) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:38 |

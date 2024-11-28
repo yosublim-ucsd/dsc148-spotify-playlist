@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Adeste Fideles",
+        "url": "https://open.spotify.com/album/0ffifI8uDHNOXNzZZSjgiN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110591,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/52JHDqd9bxRVFvw3Wv0lnv"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Vienna",
         "url": "https://open.spotify.com/album/5ZIJMld7vQnpn9kHk9wFig"
       },
@@ -1372,6 +1390,28 @@
       "duration_ms": 160486,
       "name": "Christmas Oratorio: IV. Hymn: Thou whose almighty word",
       "url": "https://open.spotify.com/track/14alDzQfYEKxen1BVR9256"
+    },
+    {
+      "album": {
+        "name": "Christmas Spirit",
+        "url": "https://open.spotify.com/album/37I2N4wWDtlkFIrpLLv2DG"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "National Youth Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1DCEPkPi9XAJnEAFDTHJmp"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Christmas Overture",
+      "url": "https://open.spotify.com/track/6D1O2LZ5qgmXoXqoMaQNF5"
     },
     {
       "album": {
@@ -3297,6 +3337,32 @@
     },
     {
       "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "The American Boychoir",
+          "url": "https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
         "name": "A Winter Breviary: Choral Works for Christmas",
         "url": "https://open.spotify.com/album/4ndfGXiFs5u7Ongr1a4byB"
       },
@@ -3486,6 +3552,36 @@
       "duration_ms": 232680,
       "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
       "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
+    },
+    {
+      "album": {
+        "name": "Cambridge Singers Christmas Album",
+        "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Messiah, HWV 56: Messiah, HWV 56: For unto us a child is born",
+      "url": "https://open.spotify.com/track/2L4JTkZtMKKvSyOjJ7zL97"
     },
     {
       "album": {
@@ -3699,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "O come all ye faithful",
+        "url": "https://open.spotify.com/album/2LfZz2O5OpRSkyKNHFJRzi"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193498,
+      "name": "O come all ye faithful",
+      "url": "https://open.spotify.com/track/7xEeQTsS3yd7eqN49W7e83"
+    },
+    {
+      "album": {
         "name": "Favourite Carols from King's",
         "url": "https://open.spotify.com/album/2lNClAo9ROMeC6e0BZ9Hax"
       },
@@ -3859,6 +3973,28 @@
     },
     {
       "album": {
+        "name": "One Voice At Christmas",
+        "url": "https://open.spotify.com/album/3iUdj01da7x8CWOtgT1FIU"
+      },
+      "artists": [
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Libera Boys Choir",
+          "url": "https://open.spotify.com/artist/01GaB2c6sxYztDuahM22Oq"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7vUNAnwqyXltVW22aPOxPo"
+    },
+    {
+      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ"
       },
@@ -3874,6 +4010,36 @@
       "duration_ms": 189861,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi"
+    },
+    {
+      "album": {
+        "name": "Cambridge Singers Christmas Album",
+        "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
+      },
+      "artists": [
+        {
+          "name": "Adolphe Adam",
+          "url": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278760,
+      "name": "O Holy Night (Cantique de Noel)",
+      "url": "https://open.spotify.com/track/6zlcnqsXOruzOl1uHb8pHd"
     },
     {
       "album": {
@@ -4799,6 +4965,32 @@
     },
     {
       "album": {
+        "name": "A Choral Christmas",
+        "url": "https://open.spotify.com/album/66x8S2k72QnySL6nlHI3kQ"
+      },
+      "artists": [
+        {
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        },
+        {
+          "name": "VOCES8 Foundation Orchestra",
+          "url": "https://open.spotify.com/artist/683DINqyaZutPw3bnMMmAx"
+        },
+        {
+          "name": "Barnaby Smith",
+          "url": "https://open.spotify.com/artist/7ejNaQI6qqhLCklGDuCpcm"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/4nNKMIVz5OXkyexaeWKruO"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/3pC60ANbO80LkNEsyFeDG7"
       },
@@ -4840,7 +5032,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 63973,
       "name": "Somewhere in My Memory - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
@@ -4884,6 +5076,24 @@
       "duration_ms": 177986,
       "name": "Stella Natalis: II. Lullay",
       "url": "https://open.spotify.com/track/0va0UGIZ6qGo0SN0jO7AjP"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/2wrL1H7acpZfsq8UQ8ho9A"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96880,
+      "name": "Sussex Carol",
+      "url": "https://open.spotify.com/track/1vUUlBdHTWRvssZLNh5wX9"
     },
     {
       "album": {
@@ -6168,6 +6378,40 @@
       "duration_ms": 203000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/16CUCqzVir1o0TPnDZRScr"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Hakon Samuelsen",
+          "url": "https://open.spotify.com/artist/0PveFynDT0XrxSZFPnm40C"
+        },
+        {
+          "name": "Huw Watkins",
+          "url": "https://open.spotify.com/artist/3xgcjXeaaGErogsNHWbYPU"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303040,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/3Sa94DNFUGovWowMqwrMHd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4P0ijJK5lUv"

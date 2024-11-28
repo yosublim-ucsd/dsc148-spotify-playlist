@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,934 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,926 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 31 | [Intentions \- Bossa Nova](https://open.spotify.com/track/5A1otHjzRV8nNicKYeHD7h) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions \(Bossa Nova\)](https://open.spotify.com/album/5EnZCndm8Jg2XXi1o9WR3P) | 2:42 |
 | 32 | [Collide](https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6qeWEQ0QZq3kotA1IQ8qpJ) | 2:40 |
 | 33 | [Save Your Tears](https://open.spotify.com/track/17g9sjydTmFOni0nIJlPZ8) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Save Your Tears](https://open.spotify.com/album/2Afpovj7wzwnAErebVqmoq) | 3:44 |
-| 34 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
+| 34 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 | 35 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 | 36 | [Woman in Love](https://open.spotify.com/track/6qvhEP8BT4w1PKP0zBJMEf) | [Joana Duah](https://open.spotify.com/artist/262VF7jBOHsX7dszFiBb99) | [Ballads in Bossa \(The Colors of Love Ballads\)](https://open.spotify.com/album/4HJCf5TTdtNii4EH8zE408) | 3:12 |
 | 37 | [Whole Again](https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj) | [Juis de Fora](https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt), [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Whole Again](https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC) | 2:41 |

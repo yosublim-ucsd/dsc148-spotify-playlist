@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,911 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,920 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [洋燈](https://open.spotify.com/track/4Te4sDDIbJWNvdHJ8cJjVO) | [Nona\*](https://open.spotify.com/artist/6q6FzZVFFk4s9H0tlZmXmM) | [洋燈](https://open.spotify.com/album/4RTPGwXrrNfLDt0ZWItVLn) | 3:37 |
 | 2 | [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 |
 | 3 | [A stain](https://open.spotify.com/track/6Udx75ka57IsNrxp8wCdg5) | [環みちる](https://open.spotify.com/artist/2eD6u6BYpSWgigbFZWM2FZ) | [A stain](https://open.spotify.com/album/1BNcItB9OfURYd8O7H3Jp8) | 4:01 |
-| 4 | [色彩](https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている5つの方法/色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:33 |
+| 4 | [色彩](https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている５つの方法／色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:33 |
 | 5 | [Eternity Blue](https://open.spotify.com/track/1ED5ZLCXmM1MCjMuYgEvq9) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅰ](https://open.spotify.com/album/0i7YKsa2uqga79z4KvfXMg) | 4:22 |
 | 6 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 |
 | 7 | [躍動](https://open.spotify.com/track/4QXHYMr4Efipag9CY3tM0V) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:10 |

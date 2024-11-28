@@ -159,26 +159,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "JEG VIL IKKE VIDE DU FINDES",
-        "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        },
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
-      "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Sytten",
         "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 198452,
       "name": "Det Hele Handler Om Dig",
       "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "JEG VIL IKKE VIDE DU FINDES",
+        "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
+      "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "F\u00f8lsom dreng",
         "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "V\u00e5gen igen",
         "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Det er din k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
       },
       "artists": [
         {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
         }
       ],
-      "duration_ms": 227698,
-      "name": "Det er din k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "I Know All The Words But I Can't Say Goodbye",
-        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+        "name": "Det er din k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
       },
       "artists": [
         {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
         }
       ],
-      "duration_ms": 207558,
-      "name": "We Grow",
-      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
+      "duration_ms": 227698,
+      "name": "Det er din k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -580,7 +580,7 @@
           "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
         },
         {
-          "name": "Wads.png",
+          "name": "Wads",
           "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
         }
       ],
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
         }
       ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
       },
       "artists": [
         {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Crying In The Bathroom",
+        "url": "https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ"
+      },
+      "artists": [
+        {
+          "name": "june",
+          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Crying In The Bathroom",
+      "url": "https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Maler",
         "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 241716,
-      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
-      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Legeb\u00f8rn",
         "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
@@ -1003,122 +1003,6 @@
       "duration_ms": 290291,
       "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
       "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "L\u00c6ST (feat. Marcus.wav)",
-        "url": "https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "L\u00c6ST (feat. Marcus.wav)",
-      "url": "https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Frav\u00e6r",
-        "url": "https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 128115,
-      "name": "Frav\u00e6r",
-      "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1143,6 +1027,138 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 241716,
+      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
+      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "L\u00c6ST (feat. Marcus.wav)",
+        "url": "https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg"
+      },
+      "artists": [
+        {
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "L\u00c6ST (feat. Marcus.wav)",
+      "url": "https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Frav\u00e6r",
+        "url": "https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 128115,
+      "name": "Frav\u00e6r",
+      "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Keep Forgetting",
+        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 173028,
+      "name": "Keep Forgetting",
+      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Elsk Mig",
         "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     }
   ],
   "unique_name": "ung kniv ",

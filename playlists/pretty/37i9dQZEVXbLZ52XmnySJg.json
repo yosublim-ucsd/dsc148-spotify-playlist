@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most played tracks right now - India.",
-  "num_followers": 532964,
+  "num_followers": 533184,
   "original_name": "Top 50 - India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-26 13:01:41",
@@ -148,16 +148,12 @@
       "added_at": "2024-11-26 13:01:41",
       "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
+        "url": "https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS"
       },
       "artists": [
         {
           "name": "Sachin-Jigar",
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         },
         {
           "name": "Madhubanti Bagchi",
@@ -166,11 +162,15 @@
         {
           "name": "Divya Kumar",
           "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
+      "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
     },
     {
       "added_at": "2024-11-26 13:01:41",
@@ -300,13 +300,9 @@
       "added_at": "2024-11-26 13:01:41",
       "album": {
         "name": "Aayi Nai (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/2zoS9X4ZOstatr5qrdc2V7"
+        "url": "https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc"
       },
       "artists": [
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
         {
           "name": "Sachin-Jigar",
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
@@ -318,11 +314,19 @@
         {
           "name": "Simran Choudhary",
           "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1"
+      "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
     },
     {
       "added_at": "2024-11-26 13:01:41",
@@ -475,10 +479,14 @@
     {
       "added_at": "2024-11-26 13:01:41",
       "album": {
-        "name": "Hey Minnale (From \"Amaran\")",
-        "url": "https://open.spotify.com/album/7h4PYTWfaFUfPQLZVo71YP"
+        "name": "Amaran (Tamil)",
+        "url": "https://open.spotify.com/album/1xONf0eKTmlbuy13uaStDJ"
       },
       "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
         {
           "name": "Haricharan",
           "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
@@ -488,37 +496,29 @@
           "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
         },
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
           "name": "Karthik Netha",
           "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
         }
       ],
       "duration_ms": 229811,
-      "name": "Hey Minnale (From \"Amaran\")",
-      "url": "https://open.spotify.com/track/0hs52k0bAXIBQ2SzGx5mzI"
+      "name": "Hey Minnale",
+      "url": "https://open.spotify.com/track/0n6NBNUZQmH1KGRt5J9Nkq"
     },
     {
       "added_at": "2024-11-26 13:01:41",
       "album": {
         "name": "Tere Bina Na Guzara E",
-        "url": "https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH"
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
       },
       "artists": [
         {
           "name": "Josh Brar",
           "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
-        },
-        {
-          "name": "Kinza Hashmi",
-          "url": "https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF"
         }
       ],
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
-      "url": "https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa"
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     },
     {
       "added_at": "2024-11-26 13:01:41",
@@ -716,16 +716,16 @@
       "added_at": "2024-11-26 13:01:41",
       "album": {
         "name": "Khoobsurat (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/6YuaX9U59YS0P7Jcel6BA6"
+        "url": "https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
           "name": "Sachin-Jigar",
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
         },
         {
           "name": "Amitabh Bhattacharya",
@@ -734,7 +734,7 @@
       ],
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy"
+      "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
     },
     {
       "added_at": "2024-11-26 13:01:41",
@@ -907,10 +907,14 @@
     {
       "added_at": "2024-11-26 13:01:41",
       "album": {
-        "name": "Stree 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4Rkpg1IvjxuGhvcfceIfVW"
+        "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/6UcsRs6FeuyafHupizqJDJ"
       },
       "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
         {
           "name": "Varun Jain",
           "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
@@ -920,17 +924,13 @@
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         },
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 230086,
-      "name": "Tumhare Hi Rahenge Hum",
-      "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
+      "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
     },
     {
       "added_at": "2024-11-26 13:01:41",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-11-26 13:01:41",
       "album": {
-        "name": "Tauba Tauba (From \"Bad Newz\")",
-        "url": "https://open.spotify.com/album/0MUqt34IuJsdFAuQM57jKp"
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
       },
       "artists": [
         {
@@ -969,8 +969,8 @@
         }
       ],
       "duration_ms": 207157,
-      "name": "Tauba Tauba (From \"Bad Newz\")",
-      "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2024-11-26 13:01:41",

@@ -1,13 +1,37 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Steve Aoki , Sam Feldt,  Xandra, Nile Rodgers, Zak Abel",
-  "num_followers": 271315,
+  "num_followers": 271310,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADS9GEb//lwS2u7wybxpLqNQ39CoGyi",
+  "snapshot_id": "AADS9aFgGd//l+tGJr77hred1RtGiiEw",
   "tracks": [
+    {
+      "added_at": "2024-11-25 15:38:53",
+      "album": {
+        "name": "Been There Before",
+        "url": "https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        },
+        {
+          "name": "LIVI",
+          "url": "https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo"
+        }
+      ],
+      "duration_ms": 188608,
+      "name": "Been There Before",
+      "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
+    },
     {
       "added_at": "2024-11-25 15:38:53",
       "album": {
@@ -103,30 +127,6 @@
       "duration_ms": 214299,
       "name": "Blah Blah Blah - Lilly Palmer Remix",
       "url": "https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a"
-    },
-    {
-      "added_at": "2024-11-25 15:38:53",
-      "album": {
-        "name": "Been There Before",
-        "url": "https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Pig&Dan",
-          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
-        },
-        {
-          "name": "LIVI",
-          "url": "https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo"
-        }
-      ],
-      "duration_ms": 188608,
-      "name": "Been There Before",
-      "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
     },
     {
       "added_at": "2024-11-25 15:38:53",

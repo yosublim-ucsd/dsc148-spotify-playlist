@@ -2141,6 +2141,28 @@
     },
     {
       "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220216,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx"
+    },
+    {
+      "album": {
         "name": "Nas",
         "url": "https://open.spotify.com/album/1DXAfjEtsz5kzDMjdTJ5q6"
       },

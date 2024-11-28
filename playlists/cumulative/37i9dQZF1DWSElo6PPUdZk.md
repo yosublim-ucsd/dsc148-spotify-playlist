@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-153 songs - 7 hr 55 min
+154 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [No Bullshit](https://open.spotify.com/track/4pHNcvzZ5lnCJCJzxfFBZn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [No Bullshit](https://open.spotify.com/album/1FjzgqFWa03yqQ46NKOeSS) | 3:51 | 2023-03-18 | 2023-11-18 |
 | [Pasand](https://open.spotify.com/track/6spnRIONdFbgl4NsBccGKO) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Pasand](https://open.spotify.com/album/3LYsjAh6DzEmo8wHYP9WfN) | 2:50 | 2024-08-30 | 2024-10-02 |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2023-03-18 | 2024-09-06 |
+| [Patt Honeya](https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Patt Honeya](https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY) | 3:05 | 2024-11-27 |  |
 | [Perfection](https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfection](https://open.spotify.com/album/4IToiiA9yQfiSmAJJcQM4a) | 1:40 | 2024-04-24 | 2024-09-03 |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 |  |
@@ -139,7 +140,7 @@
 | [Sukoon](https://open.spotify.com/track/4tYzK8WBdYB609O0jKRVGC) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [Sukoon](https://open.spotify.com/album/3DIeuVx4Sqw1HDty8t5qsg) | 3:20 | 2024-10-22 | 2024-11-26 |
 | [Supna Laavan Da](https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Supna Laavan Da](https://open.spotify.com/album/1QYyTRzohDG1fi1eUQzOGZ) | 3:32 | 2023-03-18 | 2024-10-02 |
 | [Supne](https://open.spotify.com/track/0d7F2H76tXyJo0pX5lSudq) | [Himandri Ssarma](https://open.spotify.com/artist/1DLuFlFb2PL4VmYC22AV5I), [Himansh Kamboj](https://open.spotify.com/artist/4VRyS3vstRiNaDnvZHPaTW) | [Supne](https://open.spotify.com/album/6NK1PuajvctygZb7EXEkhB) | 2:53 | 2024-11-26 |  |
-| [Takk Leya](https://open.spotify.com/track/6cXMQgdZZyTtIv6ajEAojR) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Takk Leya](https://open.spotify.com/album/3hZPy7dSrBjRvuDbvDsila) | 1:55 | 2024-10-24 |  |
+| [Takk Leya](https://open.spotify.com/track/6cXMQgdZZyTtIv6ajEAojR) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Takk Leya](https://open.spotify.com/album/3hZPy7dSrBjRvuDbvDsila) | 1:55 | 2024-10-24 | 2024-11-28 |
 | [Tareekan](https://open.spotify.com/track/2I77I1dXs5CqYsRNBHCKmo) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Tareekan](https://open.spotify.com/album/6niefLkciMmlzS5fJmHk8c) | 2:43 | 2024-08-26 |  |
 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 | 2023-07-20 |  |
 | [Tera Haq](https://open.spotify.com/track/66OGvgobRKRtyysSDTTU7j) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Purani Dilli](https://open.spotify.com/album/7goQjofv7pPE9YGBIsBlOa) | 3:40 | 2024-08-27 | 2024-09-17 |

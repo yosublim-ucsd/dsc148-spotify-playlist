@@ -904,10 +904,28 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 234853,
       "name": "Kissing In the Cold",
       "url": "https://open.spotify.com/track/61CTVokB7PPa8cZ1aqDwhl"
+    },
+    {
+      "album": {
+        "name": "Kissing In the Cold (Mistletoe Version)",
+        "url": "https://open.spotify.com/album/70bD1wKCGexlprV4huDo5M"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "Kissing In the Cold - Mistletoe Version",
+      "url": "https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae"
     },
     {
       "album": {

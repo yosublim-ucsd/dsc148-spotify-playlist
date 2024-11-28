@@ -5403,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "The Wicked Orchestra",
+          "url": "https://open.spotify.com/artist/0bVjGR347nlhO79Z3i881P"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131863,
+      "name": "Ozdust Duet - Bonus Track",
+      "url": "https://open.spotify.com/track/5oUggqlg7zOto1unBbj393"
+    },
+    {
+      "album": {
         "name": "The Jetty (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6vhvDMcagM7X7oUVb70jXD"
       },

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-450 songs - 1 day 2 hr 29 min
+451 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Unknown Male 01](https://open.spotify.com/track/768wF93WAaExWS57CzNg45) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Unknown Male 01](https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ) | 6:08 | 2021-09-04 |  |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2020-10-10\* | 2021-02-25 |
 | [Vacancy](https://open.spotify.com/track/6egjaVpqU7b8Fad7lbbUC1) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Vacancy](https://open.spotify.com/album/6VKXnbuUonlvaJQ44xUEyP) | 3:58 | 2020-10-10\* | 2021-05-13 |
+| [Vapes](https://open.spotify.com/track/4U3APnURFGyG3Z3kM3EaJB) | [Brashs](https://open.spotify.com/artist/1GBjCQqhEPn3vWsQYDi90Z) | [Vapes](https://open.spotify.com/album/0qy4lAf7UWei3c40jfLWBN) | 1:53 | 2024-11-28 |  |
 | [Venus Fly Trap](https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 2:38 | 2021-06-12 |  |
 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 | 2022-08-05 |  |
 | [Village](https://open.spotify.com/track/5mfY6VHihf9dv2XWPxWoYU) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Village](https://open.spotify.com/album/28Ju3dlegCS6jtkVO6n0h2) | 3:23 | 2021-05-14 | 2022-03-18 |

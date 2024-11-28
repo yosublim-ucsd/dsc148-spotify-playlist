@@ -13643,6 +13643,24 @@
     },
     {
       "album": {
+        "name": "No Funcion\u00f3",
+        "url": "https://open.spotify.com/album/3XKKQTOH2a7tahTJSetqYJ"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Flores",
+          "url": "https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183454,
+      "name": "No Funcion\u00f3",
+      "url": "https://open.spotify.com/track/7xJ1pW2V2Cj4dLl3iTvm1F"
+    },
+    {
+      "album": {
         "name": "No Hay De Otra",
         "url": "https://open.spotify.com/album/0uTpiFlyHFwa4UumXDbzDF"
       },

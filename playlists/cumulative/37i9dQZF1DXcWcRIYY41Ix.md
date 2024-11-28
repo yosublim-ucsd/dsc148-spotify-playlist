@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Inés Errandonea.
 
-706 songs - 1 day 18 hr 5 min
+707 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
 | [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 |  |
+| [Pan de muertos](https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Pan de muertos](https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D) | 3:16 | 2024-11-22 |  |
 | [papel de fumar](https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [papel de fumar](https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo) | 3:39 | 2024-03-08 | 2024-04-20 |
 | [Para adelante](https://open.spotify.com/track/5e7gh9uiFIgahfcf8CyXRF) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Para adelante](https://open.spotify.com/album/0lG5a8ExT3lwwF2nww96Nh) | 3:51 | 2023-03-10 | 2023-03-25 |
 | [Para Ahuyentar a un Demonio](https://open.spotify.com/track/71nrtVcxTQiNodjMlHXqw8) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Para Ahuyentar a un Demonio](https://open.spotify.com/album/3ECzKOZefQ6X4eWpMHrnIX) | 4:09 | 2022-02-25 | 2022-04-20 |
@@ -598,7 +599,7 @@
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2021-12-24 |  |
 | [Solo Solomon](https://open.spotify.com/track/2NvrWbODcR4dlfV0aQmmCZ) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Solo Solomon](https://open.spotify.com/album/57LAHUqTLA6y7yQ6BhS5bA) | 4:06 | 2024-01-26 | 2024-02-10 |
 | [Sombra y Animal](https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [NIDO](https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4) | 4:47 | 2023-06-16 | 2023-07-01 |
-| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 |  |
+| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 | 2024-11-28 |
 | [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 | 2024-03-02 |
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-01-19 | 2024-03-09 |
 | [Surcando el cielo](https://open.spotify.com/track/5VClfo0FSATmCOiHRoO3bJ) | [Julián Olivares](https://open.spotify.com/artist/03WQPoPoQBTsOjPLJVE7ek), [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Surcando el cielo](https://open.spotify.com/album/4T2rhow9CPvxOoGuv9CO7k) | 2:40 | 2024-10-11 | 2024-11-19 |

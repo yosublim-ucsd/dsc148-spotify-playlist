@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,924 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,933 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ユーモア](https://open.spotify.com/track/65sA6FiT9jtmj6rRogspAP) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/7i52WTMXSBFAx6kUnNdjIK) | 3:27 |
-| 2 | [プロローグ](https://open.spotify.com/track/28sdFsTOtozIz8tK6TVKqt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Sa・Ga Original Soundtrack](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 2:12 |
+| 2 | [プロローグ](https://open.spotify.com/track/28sdFsTOtozIz8tK6TVKqt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Ｓａ・Ｇａ　Ｏｒｉｇｉｎａｌ　Ｓｏｕｎｄｔｒａｃｋ](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 2:12 |
 | 3 | [Re:Tune \- バトル1メドレー from Romancing Sa・Ga 1,2,3, Romancing SAGA \-Minstrel Song\-](https://open.spotify.com/track/4sG5Ic6cwKsUXNJTqUnMU9) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:Tune Romancing SaGa BATTLE ARRANGE](https://open.spotify.com/album/7qomlqhNvOEhMohbvPU2Qf) | 4:37 |
-| 4 | [魔界塔士](https://open.spotify.com/track/23TWCUzxmYanxQ7Ag9eKbX) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Sa・Ga Original Soundtrack](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 1:18 |
+| 4 | [魔界塔士](https://open.spotify.com/track/23TWCUzxmYanxQ7Ag9eKbX) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Ｓａ・Ｇａ　Ｏｒｉｇｉｎａｌ　Ｓｏｕｎｄｔｒａｃｋ](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 1:18 |
 | 5 | [怒闘](https://open.spotify.com/track/73rLAxe7HOhwF5KxkMKdwm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 2:00 |
 | 6 | [メヌエット](https://open.spotify.com/track/6CPnqlzUnSzLEGrCp5SMsg) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD \(the BEST 2005\-2015\)](https://open.spotify.com/album/4rAO12qsCseL5zTcQ4e2mX) | 4:57 |
 | 7 | [オープニングタイトル](https://open.spotify.com/track/7DycXHzdoECAyLu7cEmwLv) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ロマンシング･サガ \-ミンストレルソング\-\(配信用\)](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,520 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,519 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
 | 29 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
 | 30 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
-| 31 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |
-| 32 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
-| 33 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 31 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 32 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |
+| 33 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
 | 34 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
 | 35 | [Awful Start](https://open.spotify.com/track/4kxO0jjziawjZg1nBh45Jl) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Awful Start](https://open.spotify.com/album/0ygiIkoeJR9zrjmYoQShnc) | 3:06 |
 | 36 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |

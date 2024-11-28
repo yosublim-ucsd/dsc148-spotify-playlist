@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354180,
+  "num_followers": 354179,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Recuerdos de Expiaci\u00f3n",
+        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 192039,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Misturas",
         "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 228754,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Recuerdos de Expiaci\u00f3n",
-        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 192039,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "No Soy Tu Princesa (Remix)",
-        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Verito Asprilla",
-          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Soy Tu Princesa - Remix",
-      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -895,22 +875,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Mi Naturaleza",
-        "url": "https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO"
+        "name": "No Soy Tu Princesa (Remix)",
+        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
       },
       "artists": [
         {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+          "name": "Verito Asprilla",
+          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
         }
       ],
-      "duration_ms": 263299,
-      "name": "Mi Naturaleza - Montoya Remix",
-      "url": "https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko"
+      "duration_ms": 190840,
+      "name": "No Soy Tu Princesa - Remix",
+      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -967,6 +947,26 @@
       "duration_ms": 241197,
       "name": "Ofelia - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Mi Naturaleza",
+        "url": "https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO"
+      },
+      "artists": [
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        },
+        {
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        }
+      ],
+      "duration_ms": 263299,
+      "name": "Mi Naturaleza - Montoya Remix",
+      "url": "https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1063,58 +1063,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
-        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
-      },
-      "artists": [
-        {
-          "name": "Plu Con Pla",
-          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Siesta",
-        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
-      },
-      "artists": [
-        {
-          "name": "Barulinho",
-          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
-        }
-      ],
-      "duration_ms": 233739,
-      "name": "Kalimba Nara",
-      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Las Mellas (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
       },
@@ -1135,6 +1083,58 @@
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
+        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
+      },
+      "artists": [
+        {
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
+      },
+      "artists": [
+        {
+          "name": "Barulinho",
+          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
+        }
+      ],
+      "duration_ms": 233739,
+      "name": "Kalimba Nara",
+      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

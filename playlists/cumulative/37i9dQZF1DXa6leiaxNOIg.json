@@ -5,7 +5,7 @@
   "tracks": [
     {
       "album": {
-        "name": "C\u8abf\u8a00\u8449\u306b\u5fa1\u7528\u5fc3",
+        "name": "\uff23\u8abf\u8a00\u8449\u306b\u5fa1\u7528\u5fc3",
         "url": "https://open.spotify.com/album/1ZCvNcTOD4B0GO4k6VoXTV"
       },
       "artists": [
@@ -23,7 +23,7 @@
     },
     {
       "album": {
-        "name": "DIRTY OLD MAN ~\u3055\u3089\u306f\u3099\u590f\u3088~",
+        "name": "DIRTY OLD MAN \uff5e\u3055\u3089\u3070\u590f\u3088\uff5e",
         "url": "https://open.spotify.com/album/5bYClYot6ukTRz5TDxQym6"
       },
       "artists": [
@@ -36,7 +36,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 322493,
-      "name": "DIRTY OLD MAN ~\u3055\u3089\u306f\u3099\u590f\u3088~",
+      "name": "DIRTY OLD MAN \uff5e\u3055\u3089\u3070\u590f\u3088\uff5e",
       "url": "https://open.spotify.com/track/48Qbexu7Bo44Qkt8R9dvJW"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "album": {
-        "name": "\u6d99\u306e\u6d77\u3066\u3099\u62b1\u304b\u308c\u305f\u3044~SEA OF LOVE~",
+        "name": "\u6d99\u306e\u6d77\u3067\u62b1\u304b\u308c\u305f\u3044\uff5eSEA OF LOVE\uff5e",
         "url": "https://open.spotify.com/album/0rQhz9YRYheWp48EZns4Lw"
       },
       "artists": [
@@ -108,7 +108,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 51266,
-      "name": "OH! FRESH!!~\u30c8\u3099\u30af\u30bf\u3099\u30df\u30fb\u30b9\u30cf\u309a\u30fc\u30af\u306e\u30c6\u30fc\u30de~",
+      "name": "OH! FRESH!!\uff5e\u30c9\u30af\u30c0\u30df\u30fb\u30b9\u30d1\u30fc\u30af\u306e\u30c6\u30fc\u30de\uff5e",
       "url": "https://open.spotify.com/track/6yD5MVFjwzdNwlbSkj8DTC"
     },
     {
@@ -144,7 +144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241840,
-      "name": "Young Love(\u9752\u6625\u306e\u7d42\u308f\u308a\u306b)",
+      "name": "Young Love\uff08\u9752\u6625\u306e\u7d42\u308f\u308a\u306b\uff09",
       "url": "https://open.spotify.com/track/1a53qNuZNnODlXEbvkXI0k"
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "album": {
-        "name": "\u3042\u306a\u305f\u305f\u3099\u3051\u3092 ~Summer Heartbreak~",
+        "name": "\u3042\u306a\u305f\u3060\u3051\u3092 \uff5eSummer Heartbreak\uff5e",
         "url": "https://open.spotify.com/album/2WUhddTMlfQ1uHzOP14aOa"
       },
       "artists": [
@@ -180,7 +180,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 315400,
-      "name": "\u3042\u306a\u305f\u305f\u3099\u3051\u3092 ~Summer Heartbreak~",
+      "name": "\u3042\u306a\u305f\u3060\u3051\u3092 \uff5eSummer Heartbreak\uff5e",
       "url": "https://open.spotify.com/track/1lEcNMnqk05TMXxLnVCwe1"
     },
     {
@@ -234,7 +234,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 305533,
-      "name": "\u3075\u305f\u308a\u305f\u3099\u3051\u306e\u30cf\u309a\u30fc\u30c6\u30a3 ~Tiny Bubbles(type-A)",
+      "name": "\u3075\u305f\u308a\u3060\u3051\u306e\u30d1\u30fc\u30c6\u30a3\u3000\uff5eTiny Bubbles\uff08type-A\uff09",
       "url": "https://open.spotify.com/track/1WHNwCR2b1xoC98Tsrwpza"
     },
     {
@@ -270,7 +270,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170973,
-      "name": "\u30a2\u30d5\u3099\u30bf\u3099\u30fb\u30ab\u30fb\u30bf\u3099\u30d5\u3099\u30e9(TYPE.1)",
+      "name": "\u30a2\u30d6\u30c0\u30fb\u30ab\u30fb\u30c0\u30d6\u30e9\uff08TYPE.1\uff09",
       "url": "https://open.spotify.com/track/3p2dVuwoHTQyPVbJppW4ZL"
     },
     {
@@ -360,7 +360,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220000,
-      "name": "\u30db\u3099\u30c6\u3099\u30a3\u30fb\u30b9\u30d8\u309a\u30b7\u30e3\u30ebII(BODY SPECIAL)",
+      "name": "\u30dc\u30c7\u30a3\u30fb\u30b9\u30da\u30b7\u30e3\u30ebII\uff08BODY SPECIAL\uff09",
       "url": "https://open.spotify.com/track/2V8uHr0FIyMhHCTSk1TcLJ"
     },
     {
@@ -378,7 +378,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 270760,
-      "name": "\u30e9\u30c3\u30cf\u309a\u3068\u304a\u3057\u3099\u3055\u3093(Dear M\u30fbY's Boogie)",
+      "name": "\u30e9\u30c3\u30d1\u3068\u304a\u3058\u3055\u3093\uff08Dear M\u30fbY's Boogie\uff09",
       "url": "https://open.spotify.com/track/3x7Si2Gv6Fq7C2VMxCPXLL"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "album": {
-        "name": "\u30cd\u30aa\u30fb\u30d5\u3099\u30e9\u30db\u3099\u30fc!!",
+        "name": "\u30cd\u30aa\u30fb\u30d6\u30e9\u30dc\u30fc\uff01\uff01",
         "url": "https://open.spotify.com/album/4bKb1ZhKLTHbN5lQpdI0wS"
       },
       "artists": [
@@ -455,7 +455,7 @@
     },
     {
       "album": {
-        "name": "\u541b\u3053\u305d\u30b9\u30bf\u30fc\u305f\u3099/\u5922\u306b\u6d88\u3048\u305f\u30b7\u3099\u30e5\u30ea\u30a2",
+        "name": "\u541b\u3053\u305d\u30b9\u30bf\u30fc\u3060\uff0f\u5922\u306b\u6d88\u3048\u305f\u30b8\u30e5\u30ea\u30a2",
         "url": "https://open.spotify.com/album/2ELiWQubjEA7YL8hdhUksh"
       },
       "artists": [
@@ -491,7 +491,7 @@
     },
     {
       "album": {
-        "name": "\u30a4\u30a8\u30ed\u30fc\u30de\u30f3 ~\u661f\u306e\u738b\u5b50\u69d8~",
+        "name": "\u30a4\u30a8\u30ed\u30fc\u30de\u30f3\u3000\uff5e\u661f\u306e\u738b\u5b50\u69d8\uff5e",
         "url": "https://open.spotify.com/album/2sakru6aGav5mv6AkbXYNs"
       },
       "artists": [
@@ -527,7 +527,7 @@
     },
     {
       "album": {
-        "name": "\u541b\u3053\u305d\u30b9\u30bf\u30fc\u305f\u3099/\u5922\u306b\u6d88\u3048\u305f\u30b7\u3099\u30e5\u30ea\u30a2",
+        "name": "\u541b\u3053\u305d\u30b9\u30bf\u30fc\u3060\uff0f\u5922\u306b\u6d88\u3048\u305f\u30b8\u30e5\u30ea\u30a2",
         "url": "https://open.spotify.com/album/2ELiWQubjEA7YL8hdhUksh"
       },
       "artists": [
@@ -635,7 +635,7 @@
     },
     {
       "album": {
-        "name": "\u6d99\u306e\u6d77\u3066\u3099\u62b1\u304b\u308c\u305f\u3044~SEA OF LOVE~",
+        "name": "\u6d99\u306e\u6d77\u3067\u62b1\u304b\u308c\u305f\u3044\uff5eSEA OF LOVE\uff5e",
         "url": "https://open.spotify.com/album/0rQhz9YRYheWp48EZns4Lw"
       },
       "artists": [
@@ -671,7 +671,7 @@
     },
     {
       "album": {
-        "name": "Big Star Blues(\u30d2\u3099\u30c3\u30af\u3099\u30b9\u30bf\u30fc\u306e\u60b2\u5287)",
+        "name": "Big Star Blues\uff08\u30d3\u30c3\u30b0\u30b9\u30bf\u30fc\u306e\u60b2\u5287\uff09",
         "url": "https://open.spotify.com/album/4lQBPSYyDj1UxfU5UeUH4j"
       },
       "artists": [
@@ -743,7 +743,7 @@
     },
     {
       "album": {
-        "name": "\u6d99\u306e\u6d77\u3066\u3099\u62b1\u304b\u308c\u305f\u3044~SEA OF LOVE~",
+        "name": "\u6d99\u306e\u6d77\u3067\u62b1\u304b\u308c\u305f\u3044\uff5eSEA OF LOVE\uff5e",
         "url": "https://open.spotify.com/album/0rQhz9YRYheWp48EZns4Lw"
       },
       "artists": [
@@ -756,7 +756,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267333,
-      "name": "\u6d99\u306e\u6d77\u3066\u3099\u62b1\u304b\u308c\u305f\u3044~SEA OF LOVE~",
+      "name": "\u6d99\u306e\u6d77\u3067\u62b1\u304b\u308c\u305f\u3044\uff5eSEA OF LOVE\uff5e",
       "url": "https://open.spotify.com/track/5Fw07rxmvCU97W1ffx2LaI"
     },
     {

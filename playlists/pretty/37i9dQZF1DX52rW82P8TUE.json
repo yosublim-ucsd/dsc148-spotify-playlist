@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 70331,
+  "num_followers": 70343,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
+    },
+    {
+      "added_at": "2024-10-25 15:02:17",
+      "album": {
         "name": "Destino ao C\u00e9u",
         "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 226628,
       "name": "Destino ao C\u00e9u",
       "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
-    },
-    {
-      "added_at": "2024-10-25 15:02:17",
-      "album": {
-        "name": "Tesouro",
-        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Tesouro",
-      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
     },
     {
       "added_at": "2024-10-25 15:02:17",
@@ -327,22 +327,18 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
-        "name": "Jesus Me Ama Tanto",
-        "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
       },
       "artists": [
         {
-          "name": "Arieta Magrini",
-          "url": "https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5"
-        },
-        {
-          "name": "Metodista Kids",
-          "url": "https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa"
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
         }
       ],
-      "duration_ms": 236683,
-      "name": "Jesus Me Ama Tanto",
-      "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
     },
     {
       "added_at": "2024-10-25 15:02:17",
@@ -363,18 +359,22 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+        "name": "Jesus Me Ama Tanto",
+        "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
       "artists": [
         {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+          "name": "Arieta Magrini",
+          "url": "https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5"
+        },
+        {
+          "name": "Metodista Kids",
+          "url": "https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa"
         }
       ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
+      "duration_ms": 236683,
+      "name": "Jesus Me Ama Tanto",
+      "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
     },
     {
       "added_at": "2024-10-25 15:02:17",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
+        "name": "Medley das Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        },
+        {
+          "name": "Galo Jac\u00f3",
+          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Medley das Crian\u00e7as",
+      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
+    },
+    {
+      "added_at": "2024-10-25 15:02:17",
+      "album": {
         "name": "Deus Grand\u00e3o",
         "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
       },
@@ -483,22 +503,6 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
-        "name": "Fam\u00edlia Perfeita",
-        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "Fam\u00edlia Perfeita",
-      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
-    },
-    {
-      "added_at": "2024-10-25 15:02:17",
-      "album": {
         "name": "ImaginAline - Uma Viagem no Tempo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y"
       },
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-10-25 15:02:17",
       "album": {
-        "name": "Medley das Crian\u00e7as",
-        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
+        "name": "Fam\u00edlia Perfeita",
+        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
       "artists": [
         {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        },
-        {
-          "name": "Galo Jac\u00f3",
-          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Medley das Crian\u00e7as",
-      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
+      "duration_ms": 196270,
+      "name": "Fam\u00edlia Perfeita",
+      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
     },
     {
       "added_at": "2024-10-25 15:02:17",

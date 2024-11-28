@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 193872,
+  "num_followers": 193936,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-11-15 14:04:57",
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2024-11-15 14:04:57",
+      "album": {
         "name": "My Baby Just Cares For Me (HONNE Remix)",
         "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 231273,
       "name": "My Baby Just Cares For Me - HONNE Remix",
       "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
-    },
-    {
-      "added_at": "2024-11-15 14:04:57",
-      "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2024-11-15 14:04:57",

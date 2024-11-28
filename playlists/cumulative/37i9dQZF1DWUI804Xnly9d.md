@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-455 songs - 1 day 1 hr 37 min
+456 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [LAPATA](https://open.spotify.com/track/6e6wQ0vfFLqyMKs9GAdEfX) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [LAPATA](https://open.spotify.com/album/3P6JsgJlXQ3yZDVo8OtXVr) | 2:46 | 2024-08-01 | 2024-10-10 |
 | [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 | 2023-10-17 | 2023-11-30 |
-| [Laykin](https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Laykin](https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ) | 2:51 | 2024-11-20 |  |
+| [Laykin](https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Laykin](https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ) | 2:51 | 2024-11-20 | 2024-11-28 |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 | 2023-07-01 |  |
 | [Le Chal](https://open.spotify.com/track/6LJQ4RhoTFi7KcE57QYCp6) | [Manan Chowdhry](https://open.spotify.com/artist/4kwiOM4JVugEgeXSflae9Q), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Le Chal](https://open.spotify.com/album/0n0lSrFEANOi4cCQ8JUkCX) | 2:52 | 2024-05-31 | 2024-07-05 |
 | [Le ja](https://open.spotify.com/track/4lggh4NT569bKe4GUH8qN6) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Le ja](https://open.spotify.com/album/3Hghdp415d0JyWwA9mUHH2) | 3:55 | 2024-05-31 | 2024-07-09 |
@@ -370,6 +370,7 @@
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
 | [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 | 2024-09-04 |
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 | 2024-07-16 |
+| [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 |  |
 | [Subah Ho Tumse](https://open.spotify.com/track/1jNa2Lt10Wbk7UrIL8NX4Q) | [Arjama B](https://open.spotify.com/artist/6Acn0Zzbjp4vmtxZgqetpy), [Shubham S](https://open.spotify.com/artist/3X279yEg4gaZ7DHunJZp5R) | [Subah Ho Tumse](https://open.spotify.com/album/5ULEZrp97201TZQVUajtoj) | 3:01 | 2024-11-22 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |

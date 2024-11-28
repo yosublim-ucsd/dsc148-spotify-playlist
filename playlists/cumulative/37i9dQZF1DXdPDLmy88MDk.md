@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-169 songs - 10 hr 24 min
+171 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 | 2022-09-19 |  |
 | [Fonteyn](https://open.spotify.com/track/29Lh7uFWh8jAOSTlOtdrqh) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/2mTN8awDjOCGKRxYJwNEnG) | 2:39 | 2022-09-19 | 2024-04-19 |
 | [Fonteyn](https://open.spotify.com/track/42qcDdQ4VWeLCLjrF9BBRN) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/4HpC0EKpIpG0cQGNNyl8WG) | 2:39 | 2021-11-19 |  |
+| [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-11-27 |  |
 | [Fountain of People's Hope](https://open.spotify.com/track/70MlCRz6vWvAynrz0EDVr3) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 4:16 | 2021-11-19 | 2022-09-20 |
 | [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb) | 3:03 | 2023-03-15 | 2024-04-19 |
 | [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/683mwxOizslObemAVOmvH4) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/6hXYP3ljDTYrudMF9hyuLb) | 3:03 | 2022-05-11 | 2023-04-30 |
@@ -169,6 +170,7 @@
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-11-19 |  |
 | [Tröstevisa](https://open.spotify.com/track/68EjEEyGv2FcTVv9wsrJdT) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc) | 3:33 | 2021-11-19 |  |
 | [Two on the Breakwater](https://open.spotify.com/track/73Ip6HpFUPgtatcVxy5noX) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Two on the Breakwater](https://open.spotify.com/album/2SnSZG9Ttz8b16tw3vRGhO) | 5:24 | 2021-11-19 |  |
+| [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2024-11-27 |  |
 | [Unveiled Heart](https://open.spotify.com/track/12TZ1udjVPTow1wa2Blz4v) | [Kris Baines](https://open.spotify.com/artist/0DnefNy8Mz9NsSXV8YjsuO) | [Unveiled Heart](https://open.spotify.com/album/4fsaBBklXYGdGgU0lWBzsr) | 1:57 | 2023-02-09 |  |
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2021-11-19 | 2022-09-20 |
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2021-11-19 |  |

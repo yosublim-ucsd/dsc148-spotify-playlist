@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Christian Sean,  Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Claire My Flair,  Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1092,6 +1092,24 @@
       "duration_ms": 77367,
       "name": "Amsterdam Nights",
       "url": "https://open.spotify.com/track/3x9X9P12BbpvxA5YK7DexQ"
+    },
+    {
+      "album": {
+        "name": "anfang/ende",
+        "url": "https://open.spotify.com/album/6YeILfA6KbYrW9tGZbYz5v"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/1tcyLHD1RqnAs6G2PuHDQm"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142282,
+      "name": "anfang/ende",
+      "url": "https://open.spotify.com/track/6yue5ptA1lx1hZmjhpMR3z"
     },
     {
       "album": {
@@ -3173,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Broken Glass",
+        "url": "https://open.spotify.com/album/24QYHgBmbCgsJXLv9BmHYz"
+      },
+      "artists": [
+        {
+          "name": "Stina Holmquist",
+          "url": "https://open.spotify.com/artist/5PimmrUrpvEgfhh1ZJwmpY"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219749,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/4n0ZkYwOfq6N2S3L0XDxwj"
+    },
+    {
+      "album": {
         "name": "Buchstabiere Leonie",
         "url": "https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu"
       },
@@ -4032,7 +4068,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 257314,
       "name": "control.",
       "url": "https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw"
@@ -6762,7 +6798,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 149263,
       "name": "Extremes",
       "url": "https://open.spotify.com/track/7ceYbZh7LYzcGtyqPeUw8s"
@@ -7604,6 +7640,24 @@
       "duration_ms": 275153,
       "name": "Fruitarian Girl",
       "url": "https://open.spotify.com/track/2FknSy7oUAfNwbcfWRfL0U"
+    },
+    {
+      "album": {
+        "name": "Full Moon Shadow",
+        "url": "https://open.spotify.com/album/1yKOL0CQ3EWe3Cb3Th6ruE"
+      },
+      "artists": [
+        {
+          "name": "Normen Hood",
+          "url": "https://open.spotify.com/artist/3JG3zXKSg1GnucnrG4MBK6"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394972,
+      "name": "Full Moon Shadow",
+      "url": "https://open.spotify.com/track/7tRMQ7ZkjPI5rGbsklcirA"
     },
     {
       "album": {
@@ -10156,7 +10210,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 185624,
       "name": "i love you don't worry xx",
       "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
@@ -11584,6 +11638,24 @@
       "duration_ms": 167567,
       "name": "Kommst du mit?",
       "url": "https://open.spotify.com/track/0CdXC4Jg7ZBaDplObNSedz"
+    },
+    {
+      "album": {
+        "name": "Kr\u00e4hen",
+        "url": "https://open.spotify.com/album/7JgTDFtmmKY5KopI3MmE3E"
+      },
+      "artists": [
+        {
+          "name": "Ari Faro",
+          "url": "https://open.spotify.com/artist/0fPvrmNC1kmixeIHNHbO0q"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232348,
+      "name": "Kr\u00e4hen",
+      "url": "https://open.spotify.com/track/4Cj3RYwYJ0dWffSNyHogeC"
     },
     {
       "album": {
@@ -14096,7 +14168,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 105000,
       "name": "need you",
       "url": "https://open.spotify.com/track/1lziVHX9Wo1E5LxWqHFjPx"
@@ -14190,6 +14262,24 @@
       "duration_ms": 294974,
       "name": "New Arpeggio",
       "url": "https://open.spotify.com/track/66grD2WtFKFiq6ymlfQQGP"
+    },
+    {
+      "album": {
+        "name": "Newborn Baby",
+        "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
+      },
+      "artists": [
+        {
+          "name": "claire my flair",
+          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272034,
+      "name": "Newborn Baby",
+      "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
     },
     {
       "album": {
@@ -17472,7 +17562,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 129226,
       "name": "Scheintod",
       "url": "https://open.spotify.com/track/6zkhCistbOCz6bk98DBvSV"

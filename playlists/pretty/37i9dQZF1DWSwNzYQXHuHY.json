@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10214,
+  "num_followers": 10218,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
-      },
-      "artists": [
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
+        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Romance is a Bonus Book OST Part.4",
-        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
-      },
-      "artists": [
-        {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
-        }
-      ],
-      "duration_ms": 227936,
-      "name": "I pray",
-      "url": "https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "I Say Ya! You Say Yeah!",
         "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230293,
       "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
       "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "duration_ms": 227936,
+      "name": "I pray",
+      "url": "https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS"
     }
   ],
   "unique_name": "\uc378 (Something)",

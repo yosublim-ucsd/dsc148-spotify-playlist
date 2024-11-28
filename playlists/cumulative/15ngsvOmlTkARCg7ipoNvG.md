@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,838 songs - 1 day 13 hr 43 min
+1,839 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [Goodbye My Love](https://open.spotify.com/track/0vHN2y7LkBqi15TGzeERMm) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Soft Trios](https://open.spotify.com/album/17mbDwX7iIecxsazzN15oF) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Goodness](https://open.spotify.com/track/2UOpRmjNLkg9LmRydkIckC) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Goodness](https://open.spotify.com/album/3FPdizOPFtG7h2zmIO6rFz) | 3:00 | 2022-02-17 | 2024-02-13 |
 | [Goodness \- Piano Lullaby Version](https://open.spotify.com/track/28cJgg4HQPikES2ErjpPw6) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Goodness](https://open.spotify.com/album/6oxje4aK5YsGIi8TLlFJtk) | 1:00 | 2024-04-18 |  |
+| [Goodnight](https://open.spotify.com/track/0xEIFXod9ToeqFgrrmOcjC) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Goodnight](https://open.spotify.com/album/7rvGoQS8uNu8CGqzGJbcrQ) | 1:00 | 2024-11-27 |  |
 | [Goodnight My Dear](https://open.spotify.com/track/5aX3bLFHhfINcAGHkIFdmf) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 0:55 | 2022-10-26 |  |
 | [Grace](https://open.spotify.com/track/6bo5pPlUvW9L2oRZGnFhD7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Cello Dreams](https://open.spotify.com/album/3HDyEyTIt0YuxfXZWMzbuH) | 1:21 | 2022-01-12 |  |
 | [Grace And Love](https://open.spotify.com/track/73vlR62kP2Fj8ZaFfoikNZ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Grace And Love](https://open.spotify.com/album/0RthfvS77mL4IQRyRxJ6J7) | 1:02 | 2022-07-13 |  |

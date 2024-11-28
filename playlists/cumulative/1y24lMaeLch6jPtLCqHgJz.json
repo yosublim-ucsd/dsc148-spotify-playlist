@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/7yrESSptXZZDJxD2vAlG7j"
+      },
+      "artists": [
+        {
+          "name": "JTS",
+          "url": "https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/618MpkaRMLWDn7zrQDvnuE"
+    },
+    {
+      "album": {
         "name": "Baby Don't Go",
         "url": "https://open.spotify.com/album/7j0YEY6qCQnbkpGOCb0SYh"
       },

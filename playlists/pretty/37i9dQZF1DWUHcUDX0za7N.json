@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57406,
+  "num_followers": 57419,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Taya",
-        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
-      },
-      "artists": [
-        {
-          "name": "Dwillsharmony",
-          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "WELCOME TO WONDAH:LAND",
         "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Yolo",
-        "url": "https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A"
-      },
-      "artists": [
-        {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Yolo",
-      "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "W\u00e0s\u00e9r\u00e8",
         "url": "https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE"
       },
@@ -899,22 +879,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Bless Me",
-        "url": "https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91"
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A"
       },
       "artists": [
         {
-          "name": "Pharaoh 47",
-          "url": "https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67"
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt"
         },
         {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K"
+      "duration_ms": 184800,
+      "name": "Yolo",
+      "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -931,6 +911,26 @@
       "duration_ms": 169130,
       "name": "Jumpin Bumpin",
       "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91"
+      },
+      "artists": [
+        {
+          "name": "Pharaoh 47",
+          "url": "https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "The Rhapsodies",
-        "url": "https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq"
-      },
-      "artists": [
-        {
-          "name": "King Rapsodi",
-          "url": "https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU"
-        }
-      ],
-      "duration_ms": 134838,
-      "name": "Gbemi",
-      "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "On Boiz",
         "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Afro Jersey",
-        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+        "name": "The Rhapsodies",
+        "url": "https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq"
       },
       "artists": [
         {
-          "name": "Nizzy",
-          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+          "name": "King Rapsodi",
+          "url": "https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU"
         }
       ],
-      "duration_ms": 140487,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
+      "duration_ms": 134838,
+      "name": "Gbemi",
+      "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 208432,
       "name": "BETELGEUSE",
       "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Afro Jersey",
+        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+      },
+      "artists": [
+        {
+          "name": "Nizzy",
+          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Girls & Lamba",
-        "url": "https://open.spotify.com/album/2vfPQSrdOOpcKhjOTlanaa"
+        "name": "I Met Nas in a Dream",
+        "url": "https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT"
       },
       "artists": [
         {
-          "name": "Steeky",
-          "url": "https://open.spotify.com/artist/6gROVClcGS9TtyHnIJGurd"
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "Tonee C",
+          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0pF7FJ5l9IOiMftn6FXbsm"
+      "duration_ms": 162089,
+      "name": "I Met Nas in a Dream",
+      "url": "https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc"
     }
   ],
   "unique_name": "Naija Bars ",

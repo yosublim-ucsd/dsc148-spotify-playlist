@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,495 songs - 2 day 8 hr 17 min
+1,496 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Boardwalk](https://open.spotify.com/track/6NawOz15oH1YWoAXL2O07E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7) | [Boardwalk](https://open.spotify.com/album/0sAKJwAW5nKgWOdUc2Dc7d) | 2:12 | 2022-11-11 | 2022-12-10 |
 | [Boardwalk](https://open.spotify.com/track/4Nbt5ee9Y8Yv6zwFZX12BD) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Boardwalk](https://open.spotify.com/album/3s61bBrT4w1ILyuKz5iLzB) | 2:12 | 2022-07-01 | 2022-11-20 |
 | [Bonham Style](https://open.spotify.com/track/4aUXLVtHvNsJKmiHSTZ01J) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 2:02 | 2022-01-27 | 2022-05-20 |
+| [bonsai](https://open.spotify.com/track/3u1ZSXyd1waiy4akEjNXLl) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [bonsai](https://open.spotify.com/album/0GdKTZx1pCIXTEFWGHYvaa) | 2:02 | 2024-11-22 |  |
 | [Boy Meets World Inst](https://open.spotify.com/track/0eXAYw2pF3hzciUH507pwa) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Boy Meets World Inst](https://open.spotify.com/album/4ckx6Sxdvk4cKax9ZBosLO) | 2:36 | 2022-09-30 | 2023-02-25 |
 | [Breakfast](https://open.spotify.com/track/2Y6fX4H6onPgZjdqS2zTrx) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Breakfast](https://open.spotify.com/album/4cItehTSGEfNRt5nt3OPJW) | 2:18 | 2022-09-23 | 2023-09-05 |
 | [Breakfast at night](https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Breakfast at night](https://open.spotify.com/album/22js5LzkbvZ1dOmKZHcOgC) | 2:00 | 2022-09-30 | 2024-11-17 |
@@ -686,7 +687,7 @@
 | [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 | 2024-05-14 |
 | [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-11-25 |
-| [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 |  |
+| [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 | 2024-11-28 |
 | [Last Night](https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/7K0IErHOScjU80EtqFbE7A) | 2:02 | 2022-11-25 | 2022-12-14 |
 | [Last Night](https://open.spotify.com/track/64mMxY35INA35D0dcXKNGq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/4Ao7BFLOnWMcKYwvSoqafW) | 2:02 | 2022-12-09 | 2023-09-29 |
 | [last night](https://open.spotify.com/track/6yofOYr85Ur1seJDYCB76J) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [last night](https://open.spotify.com/album/4MAeVQqb6ZvNS73OhJk3L6) | 2:01 | 2022-08-05 | 2022-12-10 |

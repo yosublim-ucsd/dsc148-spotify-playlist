@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 40426,
+  "num_followers": 40440,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -314,6 +314,10 @@
         {
           "name": "Khasa Aala Chahar",
           "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "Ghanu Music",
+          "url": "https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T"
         }
       ],
       "duration_ms": 177473,

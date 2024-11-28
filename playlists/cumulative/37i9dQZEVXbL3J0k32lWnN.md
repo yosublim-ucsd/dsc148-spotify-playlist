@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,775 songs - 3 day 20 hr 19 min
+1,776 songs - 3 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,7 +1089,8 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-11 | 2023-09-03 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-01-11 | 2022-01-15 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 | 2023-01-29 |
-| [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-16 |  |
+| [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 | 2024-11-26 |  |
+| [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-16 | 2024-11-28 |
 | [Mit Hjem \(feat\. Aitch\)](https://open.spotify.com/track/7H0iMmtuWmG9K0Mzif3exL) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:31 | 2024-02-03 | 2024-02-13 |
 | [Mit Rette Element](https://open.spotify.com/track/4QVkXnAfXjsMPmeHY7kS8c) | [Jasmin](https://open.spotify.com/artist/1BYFmBdL7bfUFuNrwzvAw0) | [Mit Rette Element](https://open.spotify.com/album/3JUdPMGM9RVbw8Z6SaNEMj) | 3:12 | 2023-01-01 | 2023-01-03 |
 | [MJ \(feat\. Shooter Gang\)](https://open.spotify.com/track/2MjJiGe9zI51tr7zin5CBq) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [FUCK L.O.C.](https://open.spotify.com/album/3hA9742cGSpyar4lJEbmRA) | 3:26 | 2021-05-30 | 2021-05-31 |
@@ -1668,8 +1669,8 @@
 | [Urørlig](https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:59 | 2022-01-15 | 2022-02-13 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-26 | 2023-09-03 |
 | [Usynlig](https://open.spotify.com/track/45knUq9LnPm552nW8NpiwZ) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Fri](https://open.spotify.com/album/6IihVWau3jW3N1ho4ySKDk) | 2:27 | 2024-11-02 | 2024-11-07 |
-| [Valdes Jul](https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [New Christmas Songs 2023](https://open.spotify.com/album/7ApSNJfYDPwZ5ZVng3nLEK) | 3:01 | 2023-11-26 |  |
-| [Valdes Jul](https://open.spotify.com/track/6oQ5FpZJlBPPwNsYkAmx9V) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Valdes Jul](https://open.spotify.com/album/0GYLgT1zPfYLoeBkIUAti4) | 3:01 | 2024-11-17 | 2024-11-27 |
+| [Valdes Jul](https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [New Christmas Songs 2023](https://open.spotify.com/album/7ApSNJfYDPwZ5ZVng3nLEK) | 3:01 | 2023-11-26 | 2024-11-28 |
+| [Valdes Jul](https://open.spotify.com/track/6oQ5FpZJlBPPwNsYkAmx9V) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Valdes Jul](https://open.spotify.com/album/0GYLgT1zPfYLoeBkIUAti4) | 3:01 | 2024-11-17 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2023-10-08 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-03 |
 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2023-12-30 | 2024-04-03 |

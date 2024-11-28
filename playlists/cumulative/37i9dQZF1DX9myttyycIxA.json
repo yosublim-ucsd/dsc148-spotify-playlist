@@ -15337,6 +15337,24 @@
     },
     {
       "album": {
+        "name": "Mr. Smith",
+        "url": "https://open.spotify.com/album/7iBeqm0CwLcoQzPOpnJbtl"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Mr. Smith",
+      "url": "https://open.spotify.com/track/5G3DokUenWPvRjKoOSMWrZ"
+    },
+    {
+      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },

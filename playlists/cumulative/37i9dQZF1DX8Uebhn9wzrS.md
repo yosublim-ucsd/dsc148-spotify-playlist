@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,153 songs - 3 day 10 hr 4 min
+2,154 songs - 3 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,8 +1205,9 @@
 | [Mistletoe](https://open.spotify.com/track/6QA4PFuLTaHGlcakQuEQ1h) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Mistletoe](https://open.spotify.com/album/5oOCRsrE5ws6J1cLCLDUSP) | 2:01 | 2023-04-20 | 2023-10-06 |
 | [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-31 |  |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |
-| [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 | 2022-09-02 |  |
+| [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 | 2022-09-02 | 2024-11-28 |
 | [Mombasa Night](https://open.spotify.com/track/2lGx79WyAqEyJcxtqqOaEb) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [Mombasa Night](https://open.spotify.com/album/2fk273nfng9SzpuYWygQRo) | 2:09 | 2022-04-15 | 2022-07-22 |
+| [Moments](https://open.spotify.com/track/4QIWt5Y4ysU2uN7qKsdR1a) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [Moments](https://open.spotify.com/album/7vhm8YRW7sn4tAhsWIC1Qt) | 1:59 | 2024-11-22 |  |
 | [Monday](https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb) | [beatthump](https://open.spotify.com/artist/21LyMe2qaxBJYvdcOLyCBb) | [Monday](https://open.spotify.com/album/3fO79St3Wd1NtduoK9Tlno) | 2:37 | 2022-04-15 | 2022-05-13 |
 | [Monday Blues](https://open.spotify.com/track/02DElgHIrCuu73gu6sSBfI) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Monday Blues](https://open.spotify.com/album/5Tx1ZfiUfJ0HXj9xP1XYgN) | 1:34 | 2022-05-27 | 2022-11-12 |
 | [Monday Blues](https://open.spotify.com/track/3zB9poibhdiyIGVR9BSzXm) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Monday Blues](https://open.spotify.com/album/3iAUMuvg6ibcOflIoI0K8M) | 2:14 | 2022-04-15 | 2022-10-08 |
@@ -1695,7 +1696,7 @@
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-27 | 2022-11-12 |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2023-11-17 |  |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-04-15 | 2022-05-27 |
-| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 |  |
+| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 | 2024-11-28 |
 | [Smoking at Sundown](https://open.spotify.com/track/7fZE886mHBzgaeA5SlMSaa) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Laboratoire](https://open.spotify.com/album/6TmlJOoGjqc57gXO0lxgvX) | 2:12 | 2022-11-25 |  |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-04-15 | 2022-08-19 |
 | [Smooth](https://open.spotify.com/track/3jSuyQDMePz5zAusBX4Wh1) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Smooth](https://open.spotify.com/album/6JqYaastMBcPBiezjq7elr) | 2:16 | 2022-10-01 | 2023-01-07 |
@@ -2084,7 +2085,7 @@
 | [Wecki](https://open.spotify.com/track/4FgEcQBlEHG8JyKdYgL8uz) | [Sabo Tan](https://open.spotify.com/artist/3XkkVh8jU3QiGPiC8N5RBS) | [Wecki](https://open.spotify.com/album/1QsoRzYNsWn1eqOkVNvLC3) | 2:07 | 2022-04-15 | 2022-04-22 |
 | [Weekend Getaway](https://open.spotify.com/track/1Vn98IKQKI7fdaR3am9jlZ) | [insømnia](https://open.spotify.com/artist/1zof1SgsoqfvofHdVIaC3G), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Weekend Getaway](https://open.spotify.com/album/6WKR0bngS5SvYvwg5TxIww) | 2:23 | 2022-11-11 | 2023-09-16 |
 | [Weird Folks](https://open.spotify.com/track/1BMieBWqghjmpz28GiDkq9) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [The Spaceship](https://open.spotify.com/album/4jLrmKCgM04AqELWslYDOE) | 2:11 | 2022-04-15 | 2022-09-23 |
-| [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 | 2023-02-21 | 2024-09-26 |
+| [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 | 2023-02-21 |  |
 | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/track/643CczHWSpBvDOGSn78CDw) | [PETITE FESSE](https://open.spotify.com/artist/6Eb1zj0M4u2a3hrP2ndXRb) | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/album/45YnKJoeZlsHO3UCeAbdoa) | 1:37 | 2022-04-15 | 2022-09-02 |
 | [wellsee](https://open.spotify.com/track/6voTXsVbqTzczo7amKRsFN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [wellsee](https://open.spotify.com/album/5xaIEnxiUIi4LNO3HS24o4) | 2:08 | 2024-11-15 |  |
 | [Wellspring](https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/3w0KTyQTLn79f276D7AMj2) | 1:56 | 2022-04-22 | 2022-11-06 |

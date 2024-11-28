@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,275 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,348 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 33 | [Bigger Bigger BaNG!!!](https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show \-Battle of Unity\- Unit A](https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C) | 3:35 |
 | 34 | [表情差分](https://open.spotify.com/track/4LO8CQz1adoWx0BbXopJb8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [表情差分](https://open.spotify.com/album/2Y7SRpiQObxi8VlGjHACTe) | 3:26 |
 | 35 | [すくりぃむ！](https://open.spotify.com/track/7HkNdAaxSeDBxibDxJID0Q) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [すくりぃむ！](https://open.spotify.com/album/7nAnSF8dVNj6xEvptxyalH) | 3:02 |
-| 36 | [明日世界が終わるとしても](https://open.spotify.com/track/5ySid9srGoH5flPquFNB3r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/2Hf0qtnvGHnJxP7odu0aTX) | 3:36 |
+| 36 | [I DON’T CARE](https://open.spotify.com/track/5pJ31pWQ09AySGufgTndAa) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/1chQfda9KkSyk24NbI7CEW) | 3:33 |
 | 37 | [結言](https://open.spotify.com/track/2yNfeuPPa5iA1LTVyJN2ZQ) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [結言](https://open.spotify.com/album/4G5htGLwzRJqSE9bK7uGjQ) | 5:40 |
 | 38 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
 | 39 | [青](https://open.spotify.com/track/7zxCQ8TQZHJudxqVb5nRx1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [青](https://open.spotify.com/album/5KVyj8t42dWLIioJvasjRo) | 3:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [瞬間最大風速](https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [瞬間最大風速](https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6) | 3:28 |
 | 85 | [リバーシブルベイベー](https://open.spotify.com/track/1JxWL08ZvXXEIkLae8UgyM) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [リバーシブルベイベー](https://open.spotify.com/album/7loPqJhywWem2pzvfTH1fx) | 3:38 |
 
-Snapshot ID: `Zzy5ggAAAAAXIgs/M8LWo0Mlq9Q9i7zb`
+Snapshot ID: `Z0dA2AAAAABSCStBldWFwt1NdzIMn3ZB`

@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "bar on mars",
       "url": "https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 194085,
       "name": "Candlestick Oasis",
       "url": "https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 114666,
       "name": "care for u",
       "url": "https://open.spotify.com/track/5RC0Izi18K6pKl4SCWzJsP"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 104281,
       "name": "Come With A Sparkle",
       "url": "https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8"
@@ -5872,6 +5872,28 @@
       "duration_ms": 173358,
       "name": "Green Coco",
       "url": "https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P"
+    },
+    {
+      "album": {
+        "name": "Greenhouse",
+        "url": "https://open.spotify.com/album/6XbxhxcdM0T8uz4jaWtqcQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Ethan Deetz",
+          "url": "https://open.spotify.com/artist/2u9pLWgNWbfZ2qPPZ8jMhZ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122789,
+      "name": "Greenhouse",
+      "url": "https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR"
     },
     {
       "album": {
@@ -12050,7 +12072,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 129229,
       "name": "Purple Dye",
       "url": "https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ"
@@ -13948,7 +13970,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 164571,
       "name": "sleep tight",
       "url": "https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx"
@@ -18106,7 +18128,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 228345,
       "name": "Wild poetry",
       "url": "https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R"

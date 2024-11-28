@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1935,
+  "num_followers": 1938,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "Voices In Modern",
+        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "The Four Freshmen",
+          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+      "duration_ms": 178440,
+      "name": "It's A Blue World",
+      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -147,6 +147,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Bachelors - The Decca Years",
         "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 139840,
       "name": "Marie",
       "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Voices In Modern",
-        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
-      },
-      "artists": [
-        {
-          "name": "The Four Freshmen",
-          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "It's A Blue World",
-      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
         "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
@@ -265,22 +249,6 @@
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Anthology: 1931 - 1968",
@@ -295,6 +263,38 @@
       "duration_ms": 168600,
       "name": "Nevertheless (I'm In Love With You)",
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Best Of The Ames",
         "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 166520,
       "name": "Rag Mop",
       "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",

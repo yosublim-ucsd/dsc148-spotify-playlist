@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n"
+      },
+      "artists": [
+        {
+          "name": "Jack Haigh",
+          "url": "https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200416,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI"
+    },
+    {
+      "album": {
         "name": "Black eyed dog",
         "url": "https://open.spotify.com/album/5hUgi7lXgzbk27XorSx4zk"
       },
@@ -4179,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Ferry",
+        "url": "https://open.spotify.com/album/7uMck64d5mPtB3eOOgGf2J"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Ferry",
+      "url": "https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM"
+    },
+    {
+      "album": {
         "name": "Fields of rice",
         "url": "https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w"
       },
@@ -5926,7 +5962,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 142029,
       "name": "Kalon",
       "url": "https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6"
@@ -13294,7 +13330,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 161634,
       "name": "Wishing It Was So",
       "url": "https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL"

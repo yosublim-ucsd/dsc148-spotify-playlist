@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,259 likes - 570 songs - 1 day 10 hr 3 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,264 likes - 588 songs - 1 day 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -578,5 +578,23 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 568 | [Syncro](https://open.spotify.com/track/0ZK74IJO10o8XzZBz22UPV) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [El Año del Syncro](https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf) | 4:10 |
 | 569 | [In the Morning](https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF) | [Santa Selva](https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG) | [In the Morning](https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu) | 2:57 |
 | 570 | [Is It Easy](https://open.spotify.com/track/4SrQ3ckBtE3lbnu2Y1HWXP) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [Is It Easy](https://open.spotify.com/album/5zrGQDYD3KBJx8xE5xrxtz) | 3:25 |
+| 571 | [RUN](https://open.spotify.com/track/1GocvwXlCTYU8J30SPLUKv) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 3:49 |
+| 572 | [Morphine Drip](https://open.spotify.com/track/4KDDJNTgGGJgCqelzjV48Z) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 1:25 |
+| 573 | [Breathe](https://open.spotify.com/track/1TB7Mts0Ghso69xzXDDIF7) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 3:12 |
+| 574 | [Clueless](https://open.spotify.com/track/7eLfK2vzVezTYqaqG02Nmc) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 3:32 |
+| 575 | [Red Wool](https://open.spotify.com/track/26Odv3nehsmkMtX79CI2Cw) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 2:20 |
+| 576 | [Daffodil](https://open.spotify.com/track/35MDgPg3YuOeLY36dA2Mud) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 3:15 |
+| 577 | [I Will Be The Same](https://open.spotify.com/track/5rS9dq8bnWtKHjoNVEC2On) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 2:52 |
+| 578 | [In This Life](https://open.spotify.com/track/1TJNxZj0x71aWYF0VBl7Iy) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 3:02 |
+| 579 | [I Wanna Live](https://open.spotify.com/track/0S4RrTAPNV6rRk7gweDTyd) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 3:11 |
+| 580 | [Hills](https://open.spotify.com/track/6z1ElU34AmOwpJ8a4d1Vzt) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 2:22 |
+| 581 | [Working On Me](https://open.spotify.com/track/0yr2LoaiGP3gtZFKnZlC6i) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK), [Acacia Pip](https://open.spotify.com/artist/0nMxJkBFGCbCJfhDUKUY7V) | [Recently I've Been Missing The Colour Green](https://open.spotify.com/album/5VUIJqVSg5k9dsxUEIbhfE) | 2:47 |
+| 582 | [Summer Rain](https://open.spotify.com/track/73PJQtCOujagRPlUjcv8jM) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK), [Acacia Pip](https://open.spotify.com/artist/0nMxJkBFGCbCJfhDUKUY7V) | [Recently I've Been Missing The Colour Green](https://open.spotify.com/album/5VUIJqVSg5k9dsxUEIbhfE) | 2:43 |
+| 583 | [Another Day](https://open.spotify.com/track/5WEtgNHhrYiNuc4xBHYgma) | [GIMMY](https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0) | [Things Look Different Now](https://open.spotify.com/album/1wt6odICcCYOG17AjDZvri) | 3:03 |
+| 584 | [Lulu](https://open.spotify.com/track/4EOMFRy5Azu8vDHFfVkJPy) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Slow Lane](https://open.spotify.com/album/2eDMwa5rxsH3RjQZMhPUoI) | 4:37 |
+| 585 | [Cool Down](https://open.spotify.com/track/57azADqjTPXHWXb3PDv7pF) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Cool Down](https://open.spotify.com/album/1vHxfidoyqGtg9CU4u0y85) | 3:40 |
+| 586 | [Lo and Behold](https://open.spotify.com/track/3uUVSE3eycp19CyhHsqVFf) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:23 |
+| 587 | [Losin' End](https://open.spotify.com/track/6PpnHZnOOfekyIPDyNdBd3) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:45 |
+| 588 | [Small Faces](https://open.spotify.com/track/0gPGUvxqociR4KqWYUiJTB) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:42 |
 
-Snapshot ID: `AAALs97+UFbfY35vFbMkSHHr8jZk1L4n`
+Snapshot ID: `AAALxSvPeo2Sjs6FO6ZYRapW9wGe8qJz`

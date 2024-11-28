@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 765117,
+  "num_followers": 765226,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "The Story Of The Supremes (2CD Set)",
-        "url": "https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "My World Is Empty Without You - Single Version (Mono)",
-      "url": "https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "The Very Best Of William Bell",
         "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 140733,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "The Story Of The Supremes (2CD Set)",
+        "url": "https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "My World Is Empty Without You - Single Version (Mono)",
+      "url": "https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP"
     },
     {
       "added_at": "2024-07-02 22:47:47",

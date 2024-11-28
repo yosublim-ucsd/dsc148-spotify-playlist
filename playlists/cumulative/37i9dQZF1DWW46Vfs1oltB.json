@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "9+9",
+        "url": "https://open.spotify.com/album/7JZnzDDW8Nosost0lx4zLX"
+      },
+      "artists": [
+        {
+          "name": "GongGongGoo009",
+          "url": "https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225413,
+      "name": "9+9",
+      "url": "https://open.spotify.com/track/4hFNNWrjfsvh0BRboItvWy"
+    },
+    {
+      "album": {
         "name": "9th Wonder",
         "url": "https://open.spotify.com/album/50ll6S98hedNmTEdIz4ZBi"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 184673,
       "name": "After today",
       "url": "https://open.spotify.com/track/1P9OPO0vhDgouinbvc1rbE"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 183323,
       "name": "All In",
       "url": "https://open.spotify.com/track/5wpsmkGbCNwplqpdSDIzA9"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 157813,
       "name": "ASURABALBALTA",
       "url": "https://open.spotify.com/track/4wGL9pzTvtM2TwmkYQHL8I"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 205106,
       "name": "AURORA (feat. Crush)",
       "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
@@ -2606,6 +2624,24 @@
       "duration_ms": 242407,
       "name": "Back In The Day (HipHop Version) Feat. Don Malik, Paloalto",
       "url": "https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0"
+    },
+    {
+      "album": {
+        "name": "Parole Examiner Lee, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2NS6xd94oTni6bcTODy8cN"
+      },
+      "artists": [
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Back On The Game",
+      "url": "https://open.spotify.com/track/5GZ5bYnGD2mcLFU8Y62E4u"
     },
     {
       "album": {
@@ -4137,6 +4173,32 @@
     },
     {
       "album": {
+        "name": "RAP:PUBLIC Episode.1",
+        "url": "https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "DOMMIU",
+          "url": "https://open.spotify.com/artist/5YiCHcAT5uxyfjXMjAVXA8"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "BOWWOW (Feat. Deepflow)",
+      "url": "https://open.spotify.com/track/6Rfgp4ZpFh5G6GHIHUkZNp"
+    },
+    {
+      "album": {
         "name": "DEMOTAPE",
         "url": "https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ"
       },
@@ -5024,7 +5086,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 228666,
       "name": "Cheese Burger (Feat. Deepflow, Minos, DJ \uc190)",
       "url": "https://open.spotify.com/track/1XOm3FldDqLy2rUAM1Hn5T"
@@ -5890,6 +5952,28 @@
       "duration_ms": 169586,
       "name": "Crimson (Prod. Czaer)",
       "url": "https://open.spotify.com/track/19pgQAtjHTpDW8hq67uz8e"
+    },
+    {
+      "album": {
+        "name": "Love, Rap & Life",
+        "url": "https://open.spotify.com/album/7haNHybuGId0kqqgm1xMeA"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "Kwon Ki Back",
+          "url": "https://open.spotify.com/artist/7yo07YVAoz1b5McSZEtTQN"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "Cut the bullshit (feat. Kwon Ki Baek)",
+      "url": "https://open.spotify.com/track/29Gmq70bSmmOkN8y6gCizx"
     },
     {
       "album": {
@@ -8394,7 +8478,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 423866,
       "name": "FASHO",
       "url": "https://open.spotify.com/track/3CcOvobFZW42wJBh5oXd7Q"
@@ -8576,7 +8660,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 167453,
       "name": "FLAT COKE (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7"
@@ -10112,7 +10196,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 184386,
       "name": "GOAT (feat. MUSHVENOM, Dynamicduo)",
       "url": "https://open.spotify.com/track/2NboXwD8I8N8bWovRE6yp6"
@@ -11986,6 +12070,32 @@
       "duration_ms": 265620,
       "name": "home (feat. Hesper)",
       "url": "https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO"
+    },
+    {
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
       "album": {
@@ -15789,6 +15899,32 @@
     },
     {
       "album": {
+        "name": "RAP:PUBLIC Episode.1",
+        "url": "https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi"
+      },
+      "artists": [
+        {
+          "name": "O\u2019Domar",
+          "url": "https://open.spotify.com/artist/6BQDqgvj7U08coJTW72T68"
+        },
+        {
+          "name": "JOONIE",
+          "url": "https://open.spotify.com/artist/4sX22X56Udyfw5vOewwKfP"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265186,
+      "name": "Line (Feat. oceanfromtheblue)",
+      "url": "https://open.spotify.com/track/0McjONE4eqkgTtS2GcgNbk"
+    },
+    {
+      "album": {
         "name": "Primary and the Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -15918,7 +16054,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 158146,
       "name": "Look at Me",
       "url": "https://open.spotify.com/track/3KIThw7S5IVduW1XW3kVep"
@@ -16480,7 +16616,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 199053,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X"
@@ -17434,7 +17570,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 166189,
       "name": "Million / Warrior",
       "url": "https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN"
@@ -17752,7 +17888,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 146666,
       "name": "Money Making Song",
       "url": "https://open.spotify.com/track/1REGHoA013hs8m9tI9ZD7V"
@@ -19144,7 +19280,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 139200,
       "name": "No Lowkey",
       "url": "https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml"
@@ -20623,6 +20759,28 @@
     },
     {
       "album": {
+        "name": "Garion 3",
+        "url": "https://open.spotify.com/album/4OlzhcOKtqfiu6OqwEBlQa"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Pawn Shop",
+      "url": "https://open.spotify.com/track/5xWZAxE3duVN71tX1eEZA3"
+    },
+    {
+      "album": {
         "name": "BLAS\u00c9",
         "url": "https://open.spotify.com/album/0dp2N1ofQgSFG9AWRawHkZ"
       },
@@ -20790,7 +20948,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 141693,
       "name": "Pheasant GangGang",
       "url": "https://open.spotify.com/track/0MALDbb4ZNO8cAhopQv6AB"
@@ -20830,7 +20988,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 170315,
       "name": "Pierrot",
       "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
@@ -23350,7 +23508,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 474013,
       "name": "SAD GAS CYPHER VOL.1 (feat. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint)",
       "url": "https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11"
@@ -25056,7 +25214,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 161495,
       "name": "SPIDER-MAN (Feat. ZENE THE ZILLA)",
       "url": "https://open.spotify.com/track/2SqC2gYIKjTFoLnnRxThDQ"
@@ -27247,6 +27405,28 @@
     },
     {
       "album": {
+        "name": "Love, Rap & Life",
+        "url": "https://open.spotify.com/album/7haNHybuGId0kqqgm1xMeA"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178117,
+      "name": "Till i die (feat. Deepflow)",
+      "url": "https://open.spotify.com/track/3lm9dEzWzkZschxn9UBWmt"
+    },
+    {
+      "album": {
         "name": "Giggles",
         "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
       },
@@ -27558,7 +27738,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 200013,
       "name": "TOTG (Feat. Gist, TRADE L)",
       "url": "https://open.spotify.com/track/1lOQmHOLCNvx3z8pea2saM"
@@ -28314,7 +28494,7 @@
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         },
         {
-          "name": "HEIZE",
+          "name": "Heize",
           "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
@@ -29026,7 +29206,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 180986,
       "name": "Warm-Up (Feat. Boy Wonder, OSWALD)",
       "url": "https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu"
@@ -29238,7 +29418,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 185015,
       "name": "WAY 2A HEAD",
       "url": "https://open.spotify.com/track/4vEI1sDxqzjteNYL9JYkUi"
@@ -30776,7 +30956,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 166499,
       "name": "Yaro!",
       "url": "https://open.spotify.com/track/4XAR1tOVBg3GpLnd3HhxBd"
@@ -31218,6 +31398,36 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "RAP:PUBLIC Episode.1",
+        "url": "https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi"
+      },
+      "artists": [
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        },
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "Zigle Zigle (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/44n7Wbnl9vcDbkAkVPW0Lu"
     },
     {
       "album": {

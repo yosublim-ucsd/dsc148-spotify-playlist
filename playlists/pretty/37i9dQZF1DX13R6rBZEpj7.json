@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 233588,
+  "num_followers": 233706,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
         "name": "No Other Man (One Man)",
         "url": "https://open.spotify.com/album/77nnpZro8WHHrEX0nscxJH"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 140571,
       "name": "No Other Man (One Man)",
       "url": "https://open.spotify.com/track/15NJ4BGMClGSBXbZ96XwLy"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -315,6 +315,30 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
+        "name": "We Multiply",
+        "url": "https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "We Multiply",
+      "url": "https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -359,22 +383,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Y'all Ready For Dis",
-        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Y'all Ready For Dis",
-      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "On My Line",
         "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
       },
@@ -395,26 +403,18 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "We Multiply",
-        "url": "https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO"
+        "name": "Y'all Ready For Dis",
+        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
       },
       "artists": [
         {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
         }
       ],
-      "duration_ms": 229333,
-      "name": "We Multiply",
-      "url": "https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP"
+      "duration_ms": 197142,
+      "name": "Y'all Ready For Dis",
+      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "P.S Remix (2023)",
         "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 204000,
       "name": "P.S 2023 (Bassline Remix)",
       "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Seshame Street EP",
-        "url": "https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Party Starter (feat. Slick Don)",
-      "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
+        "name": "Seshame Street EP",
+        "url": "https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Party Starter (feat. Slick Don)",
+      "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Gloom EP",
-        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
-      },
-      "artists": [
-        {
-          "name": "Alix Perez",
-          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
-        }
-      ],
-      "duration_ms": 285203,
-      "name": "Circadian",
-      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
+        "name": "Gloom EP",
+        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "duration_ms": 285203,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
     },
     {
       "added_at": "2024-11-14 15:03:04",

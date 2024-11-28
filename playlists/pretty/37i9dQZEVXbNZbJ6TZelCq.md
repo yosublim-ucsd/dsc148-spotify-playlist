@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,623 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [ultima noapte de dragoste](https://open.spotify.com/track/0oXZ3qfucx429EeoUDbXhK) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [ultima noapte de dragoste](https://open.spotify.com/album/5sJ2mae4ntm9IQejfepkPO) | 3:36 |
 | 50 | [REGINA](https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [REGINA](https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8) | 2:18 |
 
-Snapshot ID: `Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover:  Haute & Freddy",
-  "num_followers": 231604,
+  "num_followers": 231740,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0PsmQAAAADMd9+fuj7jTLK3H+jH4iOc",
+  "snapshot_id": "Z0dQEAAAAACJboPuBEeKwHGv9gaoodTx",
   "tracks": [
     {
       "added_at": "2024-11-20 17:00:00",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/17o7CTsb658mfoL0ENdaCe"
     },
     {
+      "added_at": "2024-11-13 17:00:00",
+      "album": {
+        "name": "BLUEBERRY",
+        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
+    },
+    {
+      "added_at": "2024-11-27 17:00:00",
+      "album": {
+        "name": "the white lines",
+        "url": "https://open.spotify.com/album/0VWJ2zcnEvAeSzcW1jDC7U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Borts",
+          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "the white lines",
+      "url": "https://open.spotify.com/track/52yH7m5lvTd4xOIYjm8cup"
+    },
+    {
+      "added_at": "2024-11-27 17:00:00",
+      "album": {
+        "name": "Bodys Chorus",
+        "url": "https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "Bodys Chorus",
+      "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
+    },
+    {
       "added_at": "2024-11-20 17:00:00",
       "album": {
         "name": "maze",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/3Hg414R5WNpkKn1ofE7j9D"
     },
     {
-      "added_at": "2024-11-13 17:00:00",
+      "added_at": "2024-11-27 17:00:00",
       "album": {
-        "name": "BLUEBERRY",
-        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
+        "name": "Yellow Light",
+        "url": "https://open.spotify.com/album/1SsMu9ZW0HpuM8KuKxf4KQ"
       },
       "artists": [
         {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
         }
       ],
-      "duration_ms": 189000,
-      "name": "BLUEBERRY",
-      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
+      "duration_ms": 184666,
+      "name": "Yellow Light",
+      "url": "https://open.spotify.com/track/4q7tGoPa8TTFpMOLnu0Lwj"
     },
     {
       "added_at": "2024-11-20 17:00:00",
@@ -87,6 +135,22 @@
       "duration_ms": 269160,
       "name": "Going Nowhere",
       "url": "https://open.spotify.com/track/1Wgrc2Ajfn8PDjMBS8OigH"
+    },
+    {
+      "added_at": "2024-11-27 17:00:00",
+      "album": {
+        "name": "god loves a trier",
+        "url": "https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 147543,
+      "name": "god loves a trier",
+      "url": "https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39"
     },
     {
       "added_at": "2024-11-20 17:00:00",

@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: REA
 
-228 songs - 11 hr 12 min
+230 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
+| [Campari](https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw) | [Kate](https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv) | [Campari](https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp) | 2:41 | 2024-11-26 |  |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-11-22 |
 | [Canzone poco originale sulla solitudine](https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0) | [EDEL](https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah) | [Canzone poco originale sulla solitudine](https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr) | 3:35 | 2024-11-12 |  |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
@@ -180,7 +181,7 @@
 | [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-26 | 2024-11-21 |
 | [Rumore](https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Rumore](https://open.spotify.com/album/6QOsXyx17cx4ZsDylUEQNH) | 2:29 | 2024-06-27 | 2024-07-12 |
 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 | 2024-09-05 | 2024-11-18 |
-| [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 |  |
+| [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 | 2024-11-28 |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-10-22 |
 | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
@@ -195,6 +196,7 @@
 | [Settembre](https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX) | [Nuela](https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP) | [Settembre](https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5) | 3:01 | 2024-09-26 |  |
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [Siviglia](https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Sette di Cuori](https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG) | 3:21 | 2024-10-17 |  |
+| [Soli per errore](https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [Soli per errore](https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK) | 2:58 | 2024-11-26 |  |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 | 2024-11-15 |
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |
 | [Sott'acqua](https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Sott'acqua](https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF) | 3:11 | 2024-10-03 |  |
@@ -230,7 +232,7 @@
 | [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 | 2024-10-17 |  |
 | [violenza](https://open.spotify.com/track/1yVLQv8SOjFIbV2IKCdy4s) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [violenza](https://open.spotify.com/album/0NMw6VlB1DUFMyoOX5v8Os) | 3:03 | 2024-11-21 |  |
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 | 2024-10-25 |
-| [Vivere](https://open.spotify.com/track/0qqjeJRAuC7EwXxqgHaQuB) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Vivere](https://open.spotify.com/album/3ammkuVx5QoqEiAqohDhNV) | 2:50 | 2024-11-07 |  |
+| [Vivere](https://open.spotify.com/track/0qqjeJRAuC7EwXxqgHaQuB) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Vivere](https://open.spotify.com/album/3ammkuVx5QoqEiAqohDhNV) | 2:50 | 2024-11-07 | 2024-11-28 |
 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 | 2024-07-11 | 2024-10-04 |
 | [Voglia 'E Turnà](https://open.spotify.com/track/1m4ToLe6HU0B6zehZy17ih) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG), [Teresa De Sio](https://open.spotify.com/artist/65Eqk4W8UjMAOfYDGg5vvB) | [Voglia 'E Turnà](https://open.spotify.com/album/1GB7kzWAYYsfiKsrLy4PxQ) | 3:32 | 2024-11-21 |  |
 | [yo\-yo](https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [yo\-yo](https://open.spotify.com/album/4rtWcaZdsuVQ9tT41TWNeY) | 2:49 | 2024-06-27 | 2024-09-27 |

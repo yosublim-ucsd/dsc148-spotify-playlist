@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 126601,
+  "num_followers": 126669,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -93,7 +93,7 @@
         },
         {
           "name": "CARMEE",
-          "url": "https://open.spotify.com/artist/6OHONEQPRKD9oYckcnnKdq"
+          "url": "https://open.spotify.com/artist/7sbAMhH8HEGL3uP3FBvgwu"
         }
       ],
       "duration_ms": 305806,
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 243838,
+      "name": "Pictures Of You - Cassian Remix",
+      "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Lift Me Up (feat. Kyozo)",
         "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 233203,
       "name": "Lift Me Up (feat. Kyozo)",
       "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 243838,
-      "name": "Pictures Of You - Cassian Remix",
-      "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Where Are You Tonight",
+        "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 235248,
+      "name": "Where Are You Tonight",
+      "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 197416,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Where Are You Tonight",
-        "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 235248,
-      "name": "Where Are You Tonight",
-      "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 323221,
-      "name": "Another Dimension",
-      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+      "duration_ms": 323221,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 182432,
       "name": "Love Is A Drug - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Greece 2000 (KREAM Remix)",
         "url": "https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Friends (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 260307,
       "name": "Friends - ARTBAT Remix",
       "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 159555,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/67g647pS91MZxdzdmUYSda"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 220434,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/2YCgldCFM52mBBZdQCOfDE"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -2091,6 +2091,42 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
       },
@@ -2115,22 +2151,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Nothing Ever Changes (Agents of Time Remix)",
         "url": "https://open.spotify.com/album/5PsIsYwY9XgclLpfzkETpv"
       },
@@ -2151,26 +2171,6 @@
       "duration_ms": 204285,
       "name": "Nothing Ever Changes - Agents of Time Remix",
       "url": "https://open.spotify.com/track/2XAxDEYtT8X5ZLm7hktDOG"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -2231,30 +2231,6 @@
       "duration_ms": 226680,
       "name": "Sternstunde - Joris Voorn Edit",
       "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Just Like Home (Kevin de Vries Remix)",
-        "url": "https://open.spotify.com/album/13YJVBkMGH2lfiBvKJabWr"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Yellowitz",
-          "url": "https://open.spotify.com/artist/3VnY2LVBNIFS6Xx8YUd2JQ"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 302981,
-      "name": "Just Like Home - Kevin de Vries Remix",
-      "url": "https://open.spotify.com/track/6UckF71HWN5rxwB3y7LHrd"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -2331,6 +2307,30 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Just Like Home (Kevin de Vries Remix)",
+        "url": "https://open.spotify.com/album/13YJVBkMGH2lfiBvKJabWr"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Yellowitz",
+          "url": "https://open.spotify.com/artist/3VnY2LVBNIFS6Xx8YUd2JQ"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 302981,
+      "name": "Just Like Home - Kevin de Vries Remix",
+      "url": "https://open.spotify.com/track/6UckF71HWN5rxwB3y7LHrd"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "A Lot Like Heaven (Space Motion Remix)",
         "url": "https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7"
       },
@@ -2395,26 +2395,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Vintage Culture & Friends, Vol. 5",
-        "url": "https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Coach Harrison",
-          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Hear you calling",
-      "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 272180,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Vintage Culture & Friends, Vol. 5",
+        "url": "https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Hear you calling",
+      "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Rondo",
+        "url": "https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Rondo",
+      "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "RIDERS ON THE STORM",
         "url": "https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS"
       },
@@ -2583,26 +2599,6 @@
       "duration_ms": 310819,
       "name": "RIDERS ON THE STORM",
       "url": "https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Close Encounters",
-        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Close Encounters",
-      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     }
   ],
   "unique_name": "Melodic Techno Elements",

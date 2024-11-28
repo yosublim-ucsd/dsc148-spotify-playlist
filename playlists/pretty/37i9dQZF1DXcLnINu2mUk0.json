@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Agir",
-  "num_followers": 48287,
+  "num_followers": 48305,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Vidrado",
+        "url": "https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR"
+      },
+      "artists": [
+        {
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+        }
+      ],
+      "duration_ms": 165448,
+      "name": "Vidrado",
+      "url": "https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Dona do Love",
         "url": "https://open.spotify.com/album/5n6ndgfRieqDfbQ6vJhI7U"
       },
@@ -1387,42 +1403,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Vidrado",
-        "url": "https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR"
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
       "artists": [
         {
-          "name": "Harold",
-          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 165448,
-      "name": "Vidrado",
-      "url": "https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "NATURAL THING",
-        "url": "https://open.spotify.com/album/649gr6IHq69jSqnGRo2uD8"
-      },
-      "artists": [
-        {
-          "name": "Monsta",
-          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        },
-        {
-          "name": "BECCAA",
-          "url": "https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "NATURAL THING",
-      "url": "https://open.spotify.com/track/1gonVjMNVSzTVg3w5PzsiV"
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     }
   ],
   "unique_name": "Seda",

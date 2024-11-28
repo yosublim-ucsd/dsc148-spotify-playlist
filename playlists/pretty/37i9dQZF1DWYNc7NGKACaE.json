@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83521,
+  "num_followers": 83531,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
-      },
-      "artists": [
-        {
-          "name": "Koke",
-          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
-        }
-      ],
-      "duration_ms": 96548,
-      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
+      },
+      "artists": [
+        {
+          "name": "Koke",
+          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
+        }
+      ],
+      "duration_ms": 96548,
+      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "SPEED Versions",
-        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 106392,
-      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
-      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "BOMBEI AQUELA MSC DO INVEJOSO",
         "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 149538,
       "name": "BOMBEI AQUELA MSC DO INVEJOSO",
       "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "SPEED Versions",
+        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 106392,
+      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
+      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
     },
     {
       "added_at": "2024-07-08 19:10:57",

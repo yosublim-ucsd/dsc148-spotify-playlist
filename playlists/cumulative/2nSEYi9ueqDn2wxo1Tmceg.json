@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 238758,
       "name": "Bimba",
       "url": "https://open.spotify.com/track/5hIDN5upHgqKgUHQUHd2DQ"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 271435,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
@@ -4887,6 +4887,28 @@
     },
     {
       "album": {
+        "name": "Didn't Need U Anyway",
+        "url": "https://open.spotify.com/album/3b0ZEhwSdEBByDAW8Jztuv"
+      },
+      "artists": [
+        {
+          "name": "Mun Sing",
+          "url": "https://open.spotify.com/artist/4i2WqYOYiN18NvrlWyNzfc"
+        },
+        {
+          "name": "Katy Ketani",
+          "url": "https://open.spotify.com/artist/1KbI3NrADfveX439QxMpj5"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171564,
+      "name": "Didn't Need U Anyway",
+      "url": "https://open.spotify.com/track/1Szztl5VDUpqrmeB1JqDmf"
+    },
+    {
+      "album": {
         "name": "Dig feat. Rhian Teasdale",
         "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
       },
@@ -5152,6 +5174,32 @@
       "duration_ms": 232469,
       "name": "Down - Sworn Virgins Remix - Edit",
       "url": "https://open.spotify.com/track/51TCXUklE2Ng2uJFHfBhHQ"
+    },
+    {
+      "album": {
+        "name": "Down Where The Valleys Are Low",
+        "url": "https://open.spotify.com/album/4vPtxrlyw4XK7Z0l5PYKed"
+      },
+      "artists": [
+        {
+          "name": "Asher White",
+          "url": "https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv"
+        },
+        {
+          "name": "Eli Winter",
+          "url": "https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11"
+        },
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298717,
+      "name": "Down Where The Valleys Are Low",
+      "url": "https://open.spotify.com/track/5ptNyr1c4SH4wIEDk7kOR3"
     },
     {
       "album": {
@@ -6764,7 +6812,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 132933,
       "name": "Freak Mode",
       "url": "https://open.spotify.com/track/5GP0elNzD1nBFVNie9vy33"
@@ -6804,6 +6852,24 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+    },
+    {
+      "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
     },
     {
       "album": {
@@ -7844,7 +7910,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 197375,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/5pIUTjLUr3o2KqGYDMd9Ex"
@@ -13294,7 +13360,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 191584,
       "name": "New Life",
       "url": "https://open.spotify.com/track/1N5ThaYWVVdUedgebIHlRG"
@@ -15640,7 +15706,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 228622,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/4CP0pVsMhxvnRz7hs17SGz"
@@ -18178,7 +18244,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 209413,
       "name": "Swansea",
       "url": "https://open.spotify.com/track/0wlyxvIiW940XgB4DDVAUQ"
@@ -20804,6 +20870,28 @@
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+    },
+    {
+      "album": {
+        "name": "Visions Of Pain (Tim Goldsworthy Remix)",
+        "url": "https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        {
+          "name": "Tim Goldsworthy",
+          "url": "https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446294,
+      "name": "Visions Of Pain - Tim Goldsworthy Remix",
+      "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"
     },
     {
       "album": {

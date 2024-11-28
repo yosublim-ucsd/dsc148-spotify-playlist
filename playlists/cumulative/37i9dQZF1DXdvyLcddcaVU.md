@@ -4,7 +4,7 @@
 
 > Manque plus qu'une p'tite Pauline \#fyp
 
-548 songs - 1 day 4 hr 58 min
+549 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Bella](https://open.spotify.com/track/1vELwZM3uBYWd8HrtddD4l) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 3:46 | 2024-11-15 |  |
 | [Belle](https://open.spotify.com/track/2BUtRxxgzFgmhXeVyXAdZv) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Belle et Sébastien : L'aventure continue \(Bande originale du film\)](https://open.spotify.com/album/1viAIMkI82vG92WwHXZ7YD) | 2:56 | 2023-12-01 | 2023-12-20 |
 | [Beuh d'Hollande](https://open.spotify.com/track/2lbKZKVRX54sPoNKZyp56H) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 2:49 | 2024-01-05 | 2024-06-01 |
-| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-30 |  |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-30 | 2024-11-28 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-26 | 2024-02-17 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-03-24 | 2024-01-27 |
 | [Bolingo](https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 3:31 | 2023-06-16 | 2024-06-15 |
@@ -529,6 +529,7 @@
 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 | 2023-11-24 | 2024-09-07 |
 | [Tu Me Donne Des Idées](https://open.spotify.com/track/0nMl1BkJR6d9SwhrKEzq5C) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Zombie Life](https://open.spotify.com/album/4xtjyr3GAf3uQFyl3VSSWK) | 3:37 | 2023-11-10 | 2024-06-01 |
 | [Tu vas rien faire](https://open.spotify.com/track/3A3D6xWNthYOn1utv5NfwH) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Brulux](https://open.spotify.com/artist/1LYOKaB67uPrzpNMIk10k9) | [Johnny Niuum ne meurt jamais](https://open.spotify.com/album/0Va85Zfy8njcGaq7mvk3Ph) | 4:00 | 2024-09-27 | 2024-10-26 |
+| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-27 |  |
 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-06-30 | 2023-08-12 |
 | [Un Petit](https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9) | [B.O Wunna](https://open.spotify.com/artist/2WfCynvKp4DlJVsZ2E4yNg) | [Un Petit](https://open.spotify.com/album/2x7WvHHWdN2S9wUPu0t3lg) | 3:20 | 2024-06-21 | 2024-10-12 |
 | [Under The Same Moon](https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL) | [Myla](https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj) | [Sweet Melodies](https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB) | 3:31 | 2024-07-04 | 2024-07-27 |

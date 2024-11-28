@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1410402,
+  "num_followers": 1410669,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 210480,
-      "name": "To Be With You - 2010 Remastered Version",
+      "name": "To Be With You",
       "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Wings Of Tomorrow",
         "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 246733,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Watershed (Special Edition)",
-        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 461053,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Evolution (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Watershed (Special Edition)",
+        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 461053,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
     },
     {
       "added_at": "2024-06-10 16:00:39",

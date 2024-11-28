@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 192165,
+  "num_followers": 192216,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 209316,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 181935,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 209316,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
-      },
-      "artists": [
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Light, Dark, Light Again",
         "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 162628,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1705,6 +1705,22 @@
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "W.L. (Deluxe)",
+        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 203949,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
+    },
+    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "Grown Up",
@@ -1735,22 +1751,6 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2024-06-04 13:29:57",
-      "album": {
-        "name": "W.L. (Deluxe)",
-        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 203949,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Fly Away XTC",
-      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
       },
       "artists": [
         {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
+      "duration_ms": 277200,
+      "name": "Fly Away XTC",
+      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2099,6 +2083,22 @@
       "duration_ms": 271306,
       "name": "Right Here - Andy C Remix",
       "url": "https://open.spotify.com/track/4EqJZ1bQ55Jq4vi2gHuQdQ"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/5SxkCsVQLLCt5edqjNvssO"
+      },
+      "artists": [
+        {
+          "name": "Josh Rouse",
+          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
+        }
+      ],
+      "duration_ms": 286933,
+      "name": "Flight Attendant",
+      "url": "https://open.spotify.com/track/51b932KKxiuq7pMxfTqwW6"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 80406,
       "name": "Birthday Suit",
       "url": "https://open.spotify.com/track/598B9RU1jZhObFSQJhisIa"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "1972",
-        "url": "https://open.spotify.com/album/5SxkCsVQLLCt5edqjNvssO"
-      },
-      "artists": [
-        {
-          "name": "Josh Rouse",
-          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
-        }
-      ],
-      "duration_ms": 286933,
-      "name": "Flight Attendant",
-      "url": "https://open.spotify.com/track/51b932KKxiuq7pMxfTqwW6"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/6DiwyMhNGSkMwJxGg8DUVZ"
-      },
-      "artists": [
-        {
-          "name": "Steel Pulse",
-          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Handsworth Revolution",
-      "url": "https://open.spotify.com/track/6IvCfEDx144Whfy0RWUdO3"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/6DiwyMhNGSkMwJxGg8DUVZ"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Handsworth Revolution",
+      "url": "https://open.spotify.com/track/6IvCfEDx144Whfy0RWUdO3"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Back To Back (B2B)",
-        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
-      },
-      "artists": [
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Back To Back (B2B)",
-      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Safe In My Arms / YourLove",
         "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Back To Back (B2B)",
+        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Back To Back (B2B)",
+      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Tape Deck Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XW0PtYAsQhKNOOXcvQzgN"
-      },
-      "artists": [
-        {
-          "name": "Frank Turner",
-          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/49ccDOSipaIJ4PcmovJy4h"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "The \"Debut\" Mix Tape",
         "url": "https://open.spotify.com/album/1VE5Uk8DePg4HcYTlT3Tvt"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 164757,
       "name": "Another Minute with You",
       "url": "https://open.spotify.com/track/1sqixLUSTJKPHCSBc42egp"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Tape Deck Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XW0PtYAsQhKNOOXcvQzgN"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/49ccDOSipaIJ4PcmovJy4h"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3107,6 +3107,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Ancient Heart",
+        "url": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4"
+      },
+      "artists": [
+        {
+          "name": "Tanita Tikaram",
+          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "Twist in My Sobriety",
+      "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "White Label Classics",
         "url": "https://open.spotify.com/album/1AgOPl14j50mZ7cNCmCaOf"
       },
@@ -3139,22 +3155,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Ancient Heart",
-        "url": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4"
-      },
-      "artists": [
-        {
-          "name": "Tanita Tikaram",
-          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Twist in My Sobriety",
-      "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Still Learning",
         "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
       },
@@ -3167,22 +3167,6 @@
       "duration_ms": 140453,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/7djFwustLqPxYnrdaPByty"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 213298,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3223,18 +3207,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "The Ghost Of Cain",
-        "url": "https://open.spotify.com/album/3Nb8Vso3Q3eCYymVqicVRV"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
       },
       "artists": [
         {
-          "name": "New Model Army",
-          "url": "https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         }
       ],
-      "duration_ms": 155333,
-      "name": "51st State",
-      "url": "https://open.spotify.com/track/5hiUBcY7ZvytQfWOOfV1pA"
+      "duration_ms": 213298,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3255,6 +3239,22 @@
       "duration_ms": 182259,
       "name": "WOOF",
       "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Ghost Of Cain",
+        "url": "https://open.spotify.com/album/3Nb8Vso3Q3eCYymVqicVRV"
+      },
+      "artists": [
+        {
+          "name": "New Model Army",
+          "url": "https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "51st State",
+      "url": "https://open.spotify.com/track/5hiUBcY7ZvytQfWOOfV1pA"
     },
     {
       "added_at": "2024-05-31 13:56:16",

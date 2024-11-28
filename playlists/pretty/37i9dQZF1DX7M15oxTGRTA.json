@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 144353,
+  "num_followers": 144413,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 338386,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 405200,
       "name": "Silky Soul",
       "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 338386,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
     },
     {
       "added_at": "2024-07-09 17:06:54",

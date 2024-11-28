@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,669 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,668 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 16 | [Don't Leave Me](https://open.spotify.com/track/6iA7Zzr7stMdcUukOvzFkz) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The 7th Blues](https://open.spotify.com/album/6pA1XkHBkJnaYnh0pRRfLS) | 4:22 |
 | 17 | [祭りのあと](https://open.spotify.com/track/2bVWhLQUl70vdpIu3nvSFJ) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [TOP OF THE POPS](https://open.spotify.com/album/0Hi41ccpXRu4Httjo6O83v) | 4:51 |
 | 18 | [survival dAnce 〜no no cry more〜](https://open.spotify.com/track/0p0E1n8eVmtIPG07vzrRS4) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [TRF 20th Anniversary BEST SINGLE Collection × EZ DO DANCERCIZE](https://open.spotify.com/album/2lLUGSyglTd8rlqbS2773W) | 5:03 |
-| 19 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
+| 19 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 ～All Singles + ～](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
 | 20 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 21 | [A Hazy Shade of Winter](https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:17 |
 | 22 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 51 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 |
 | 52 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 53 | [WINTER SONG \(“雪のクリスマス” WORLDWIDE VERSION\)](https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WINTER SONG](https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf) | 4:45 |
-| 54 | [夏が来る](https://open.spotify.com/track/32MwyrgupLo6dWgCWbqrb8) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:44 |
+| 54 | [夏が来る](https://open.spotify.com/track/32MwyrgupLo6dWgCWbqrb8) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 ～All Singles + ～](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:44 |
 | 55 | [夏を抱きしめて](https://open.spotify.com/track/5lKYNdiGaR6n68ALW4SCxU) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [BEST of TUBEst ～All Time Best～](https://open.spotify.com/album/29X3mJkXUG7yUMUMntkUZ0) | 4:22 |
 | 56 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 |
 | 57 | [Wild Night](https://open.spotify.com/track/6opIwpImZYdxNgG4wpDxED) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Dance Naked](https://open.spotify.com/album/7JAOJVFqLdIyjwQKi9H3Qp) | 3:27 |

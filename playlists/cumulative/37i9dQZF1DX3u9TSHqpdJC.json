@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover:  Dani Marchio.  Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover:  Beth McKenzie.  Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/4V2iBuhAVo7h7jMuwkwFTo"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264874,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7go4whTIsUM6GirLCZ9bTe"
+    },
+    {
+      "album": {
         "name": "I Am Sensitive",
         "url": "https://open.spotify.com/album/0wmate5GtFGBiqSesOxHUs"
       },
@@ -3205,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Andrea",
+        "url": "https://open.spotify.com/album/0xvorabcgOSniuEU7mRDN7"
+      },
+      "artists": [
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/1GkgkmgQaJE2mF1gvvxgZE"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0ikmWGI4KdO7VZu8qzgJif"
       },
@@ -3432,7 +3468,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 234167,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6QNX7GBao96UUPlSTaSh5X"
@@ -9385,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "bye, bye",
+        "url": "https://open.spotify.com/album/7sBDfJSXySjNiqqAuutTRv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKI",
+          "url": "https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "bye, bye",
+      "url": "https://open.spotify.com/track/6gvLaJ7wAIM3E1tKn2ipQM"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/25QpHk0NzPiDQosY51Mf0A"
       },
@@ -10566,6 +10620,24 @@
       "duration_ms": 189250,
       "name": "Chaos Mode",
       "url": "https://open.spotify.com/track/5BXqbY6SA51iwt26JItqMy"
+    },
+    {
+      "album": {
+        "name": "Cheap Cherry Bubblegum",
+        "url": "https://open.spotify.com/album/3SsXl2bAwXABX1pbIrNd1G"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Cheap Cherry Bubblegum",
+      "url": "https://open.spotify.com/track/68CZHScUMvCAIpyfOFkqWu"
     },
     {
       "album": {
@@ -12726,7 +12798,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 175890,
       "name": "CREATURES OF THE NIGHT - Radio Edit",
       "url": "https://open.spotify.com/track/0X42CLJBTxXBYp7dLdAWLC"
@@ -14132,7 +14204,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 250306,
       "name": "days i've cried this year",
       "url": "https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ"
@@ -28808,7 +28880,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 188696,
       "name": "I Fear",
       "url": "https://open.spotify.com/track/1svaDQEqxrqu8YaVRkGTJe"
@@ -29136,7 +29208,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 126272,
       "name": "i like that",
       "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
@@ -31096,7 +31168,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 171528,
       "name": "in another life",
       "url": "https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj"
@@ -32078,7 +32150,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 251904,
       "name": "IT'S NOT MY FAULT.",
       "url": "https://open.spotify.com/track/3NZ1x68xzf6PGg0pkRkMPV"
@@ -32950,7 +33022,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 175443,
       "name": "KINDA NERVOUS",
       "url": "https://open.spotify.com/track/2KMtIr4ct0FxKeui6w7OEY"
@@ -36646,7 +36718,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 172094,
       "name": "Love Always Knocks Me Out",
       "url": "https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR"
@@ -38984,6 +39056,24 @@
       "duration_ms": 164897,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/2idQ4LpMl4zzhDK61XqWi9"
+    },
+    {
+      "album": {
+        "name": "Messing With My Mind",
+        "url": "https://open.spotify.com/album/4spPoIjMnES4OhWEYt5Z7c"
+      },
+      "artists": [
+        {
+          "name": "Alex White",
+          "url": "https://open.spotify.com/artist/5MsRgRCwnEr9N7Ok9XeT1d"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120711,
+      "name": "Messing With My Mind",
+      "url": "https://open.spotify.com/track/69vzgSWj9feqFMgbdA3UPO"
     },
     {
       "album": {
@@ -45132,7 +45222,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 183117,
       "name": "Pacifist",
       "url": "https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R"
@@ -45598,6 +45688,24 @@
       "duration_ms": 183652,
       "name": "Parents",
       "url": "https://open.spotify.com/track/4criR1WAeW4svSZKwpxNdI"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0UdEJZ1klUUOZ93QcnlD6V"
+      },
+      "artists": [
+        {
+          "name": "Aria Wood",
+          "url": "https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207401,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2mWgaI5sQA7xyresqRnQFj"
     },
     {
       "album": {
@@ -51275,6 +51383,24 @@
     },
     {
       "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "album": {
         "name": "sea u n tea",
         "url": "https://open.spotify.com/album/14kyx1y0yhOWqFfsNqWLKh"
       },
@@ -51640,7 +51766,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 153940,
       "name": "selfdestructive",
       "url": "https://open.spotify.com/track/0R2HURXAR6ZWtdPosQkxMG"
@@ -51868,6 +51994,24 @@
       "duration_ms": 168000,
       "name": "service road to boston",
       "url": "https://open.spotify.com/track/67JsuQl85aNJYOG0WdbVK0"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/69RbJjVaNSYD8zEtA8M9J1"
+      },
+      "artists": [
+        {
+          "name": "Mariae Cassandra",
+          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY"
     },
     {
       "album": {
@@ -52250,7 +52394,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 170713,
       "name": "She's Finally Lost It!",
       "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
@@ -56925,6 +57069,24 @@
     },
     {
       "album": {
+        "name": "Sunset of Your Love",
+        "url": "https://open.spotify.com/album/4IRHGrQR3hbVXmoiVSsjCq"
+      },
+      "artists": [
+        {
+          "name": "Toni Cornell",
+          "url": "https://open.spotify.com/artist/4PTerLvBoujuUk8TUpiVXR"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201074,
+      "name": "Sunset of Your Love",
+      "url": "https://open.spotify.com/track/1hcayQjeRDMlLUDK3YkPBE"
+    },
+    {
+      "album": {
         "name": "Sunsets (feat. Knightly)",
         "url": "https://open.spotify.com/album/4rSQnnaQHttxMPjLmJkSLW"
       },
@@ -59301,6 +59463,24 @@
     },
     {
       "album": {
+        "name": "Does This Make Me A Bitter Woman?",
+        "url": "https://open.spotify.com/album/79uZQ74ChNMaiYKorFyj7m"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/509jzoLTq7VZWKaXHZ4fjr"
+    },
+    {
+      "album": {
         "name": "The Cut",
         "url": "https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt"
       },
@@ -60254,7 +60434,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 158384,
       "name": "There's a Reason You're My Ex",
       "url": "https://open.spotify.com/track/5AmO9Yq0jfD9wXPZNhJIM4"
@@ -67340,6 +67520,24 @@
       "duration_ms": 194618,
       "name": "wreck",
       "url": "https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx"
+    },
+    {
+      "album": {
+        "name": "Write The End",
+        "url": "https://open.spotify.com/album/0hj66XP6eMW5UaBeVv1l2g"
+      },
+      "artists": [
+        {
+          "name": "Kallie Rock",
+          "url": "https://open.spotify.com/artist/6sy0x8H1yhibPRsKyPglpt"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Write The End",
+      "url": "https://open.spotify.com/track/1LLeydOnOw42Rj6K2zWYJS"
     },
     {
       "album": {

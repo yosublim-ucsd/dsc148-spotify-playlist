@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
@@ -9173,6 +9173,24 @@
     },
     {
       "album": {
+        "name": "Rodeo Girls",
+        "url": "https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "MZ",
+      "url": "https://open.spotify.com/track/3qCjcrKAydtscX9yIE3SYg"
+    },
+    {
+      "album": {
         "name": "Nag Champa",
         "url": "https://open.spotify.com/album/37KYceHlgrIpVPHVR3mWkW"
       },
@@ -11413,6 +11431,28 @@
     },
     {
       "album": {
+        "name": "Rodeo Girls",
+        "url": "https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188125,
+      "name": "Rodeo Girls (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/5JWhqhdDhVaZLZdP0ksDGb"
+    },
+    {
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -11980,7 +12020,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
@@ -12852,7 +12892,7 @@
           "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "HEIZE",
+          "name": "Heize",
           "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
@@ -14514,7 +14554,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 177333,
       "name": "Waterfalls (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1dL6K73YgzUj58luLfRTpV"

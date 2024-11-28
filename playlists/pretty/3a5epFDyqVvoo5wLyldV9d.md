@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 820 songs - 2 day 16 hr 26 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 822 songs - 2 day 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -828,5 +828,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 818 | [Shakaboom](https://open.spotify.com/track/57hdy1BPfsLbIUqasY4us1) | [Tito Del Monte](https://open.spotify.com/artist/1q2oWTDN817eGcvUv2T61K) | [Invencible](https://open.spotify.com/album/4icsMRMLxJ0VBEFtxjAbt0) | 3:06 |
 | 819 | [Deep Down In Zanzibar](https://open.spotify.com/track/4EjzZPy2wXaRVIhU5ytysS) | [Afrodesia](https://open.spotify.com/artist/6hUdkBNGkpsiHn86bnw6LG), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY) | [Afrodesia – Episode One](https://open.spotify.com/album/1Wu4MNQF4ybWoj8LzGRQUU) | 6:44 |
 | 820 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 |
+| 821 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
+| 822 | [Katarina, Katarina](https://open.spotify.com/track/3P6tp78NKjhldcTAdKlEKs) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Bem\-Vinda Amizade](https://open.spotify.com/album/1Dbn6bkxBBY8KsQYv85aRB) | 4:04 |
 
-Snapshot ID: `AAADnHJ5GVTl6T+TicgjvAM8qWA0fHDg`
+Snapshot ID: `AAADno8wTwxaVZsNbuIQgnE+0+d4brSS`

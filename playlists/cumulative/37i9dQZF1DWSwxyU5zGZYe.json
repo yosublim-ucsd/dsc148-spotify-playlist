@@ -463,6 +463,40 @@
     },
     {
       "album": {
+        "name": "Chal Zero Pe Chalte Hain (From \"Zero Se Restart\")",
+        "url": "https://open.spotify.com/album/3NofFZuMj0ZcbseAMrSFRz"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238229,
+      "name": "Chal Zero Pe Chalte Hain (From \"Zero Se Restart\")",
+      "url": "https://open.spotify.com/track/7eVS5X6uQqcMy1szwTXlZR"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -924,6 +958,10 @@
         {
           "name": "Arko",
           "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
         }
       ],
       "date_added": "2024-11-14",
@@ -1882,7 +1920,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 249258,
       "name": "Marjaaneya III",
       "url": "https://open.spotify.com/track/1ap7TTDEP4jHfEfy2doQyK"

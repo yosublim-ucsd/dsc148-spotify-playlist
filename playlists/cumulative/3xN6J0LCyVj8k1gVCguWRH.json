@@ -8391,6 +8391,28 @@
     },
     {
       "album": {
+        "name": "Blind (feat. Keiynan Lonsdale)",
+        "url": "https://open.spotify.com/album/2lzrgCaMxKjwNqfHkGsc8x"
+      },
+      "artists": [
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        },
+        {
+          "name": "Keiynan Lonsdale",
+          "url": "https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193897,
+      "name": "Blind (feat. Keiynan Lonsdale)",
+      "url": "https://open.spotify.com/track/0xVLBgZW9QeL4VKTj2yvMB"
+    },
+    {
+      "album": {
         "name": "Blink of an Eye",
         "url": "https://open.spotify.com/album/3wxmo5U8iHyPFmY0veK7QU"
       },
@@ -12288,6 +12310,24 @@
       "duration_ms": 163047,
       "name": "Champagne Cry",
       "url": "https://open.spotify.com/track/69DoAXNOhV2QyiTN88aSEV"
+    },
+    {
+      "album": {
+        "name": "Champagne Pink Convertible",
+        "url": "https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52"
+      },
+      "artists": [
+        {
+          "name": "The Alex Opal Outfit",
+          "url": "https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212003,
+      "name": "Champagne Pink Convertible",
+      "url": "https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi"
     },
     {
       "album": {
@@ -32200,7 +32240,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 130000,
       "name": "I Can Take U",
       "url": "https://open.spotify.com/track/0KELOkaULluJVLY68rcKYh"
@@ -58408,7 +58448,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 202666,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/23THJDefjNaOu9u0yWdCgN"
@@ -64354,7 +64394,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 152307,
       "name": "Steez",
       "url": "https://open.spotify.com/track/6irHIvfQ3VKFjptbxXdu0M"
@@ -66080,7 +66120,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 203991,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/74T1C4bqc5jiHONjP9dSlL"
@@ -76394,7 +76434,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 174857,
       "name": "What I'm Not Gonna Do",
       "url": "https://open.spotify.com/track/2GqPzHFm4Dcuyr48co7llk"

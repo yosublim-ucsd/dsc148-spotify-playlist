@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
 
-1,247 songs - 3 day 1 hr 38 min
+1,250 songs - 3 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Find me!](https://open.spotify.com/track/2dNrPqEJvwOQURA0sKx9uG) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [Find me!](https://open.spotify.com/album/0Xls8W7f64nPmP9YQ3Lnr3) | 3:48 | 2022-04-05 | 2022-05-05 |
 | [FIRST STEP](https://open.spotify.com/track/0jlgX7f6gbUX3xuCZyCHmP) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FIRST STEP](https://open.spotify.com/album/2la9wHGIteZN8ipPkXgkfQ) | 3:29 | 2023-04-04 | 2023-05-03 |
 | [FLAME](https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Saru jr.fool](https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR), [taisyov](https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf) | [FLAME](https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo) | 3:16 | 2022-08-02 | 2023-03-01 |
+| [Flower](https://open.spotify.com/track/5DZomUYgJ6AabMgn7V4mQN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Flower](https://open.spotify.com/album/4ItIxRLdNDoG4Z7hPk5rqC) | 2:42 | 2024-11-27 |  |
 | [Flower In The Dark](https://open.spotify.com/track/468bxGU7VdCGhE9vuvKSlY) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/5UHP0I0vneauLWydADc2jb) | 4:08 | 2024-02-06 | 2024-03-06 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 | 2023-02-01 | 2023-03-01 |
 | [Focus](https://open.spotify.com/track/63qCn8C2TJrEyAG1LTWngH) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [MALACHITE](https://open.spotify.com/album/0IpsUn6oG3FVVZK7tK8Cke) | 2:31 | 2023-09-05 | 2023-11-08 |
@@ -488,6 +489,7 @@
 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 | 2022-01-04 | 2024-03-06 |
 | [MO\-MO](https://open.spotify.com/track/1TgTIZDDkdP744im1NffJe) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [MO\-MO](https://open.spotify.com/album/7gfp3qrlYDwNc8y6WSyVZ2) | 3:26 | 2021-11-30 | 2022-01-05 |
 | [Moment26](https://open.spotify.com/track/0EgDnc3kNytxdGCubI5ysi) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [REIMEI](https://open.spotify.com/album/5kKCwtofiTJiEEPpUWKhGa) | 2:45 | 2022-05-04 | 2022-06-01 |
+| [Mona Lisa](https://open.spotify.com/track/5w9QUh8OIm4k0YQQVygent) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Mona Lisa](https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK) | 2:45 | 2024-11-27 |  |
 | [Monkey Man](https://open.spotify.com/track/1JAhWQoNo16uuxAudWs9ZY) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Return of 13 Hedgehogs \(Mxbx Singles 2000\-2009\)](https://open.spotify.com/album/5HOq417LBZ77SUNTxxOIwz) | 2:00 | 2022-05-04 | 2022-06-01 |
 | [Monster](https://open.spotify.com/track/6OgDOWenUoSOYeRDMKhv0y) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/1KgQVdNcXk2RBc7ktwv0An) | 3:08 | 2024-01-09 | 2024-02-07 |
 | [Moonlight](https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Moonlight](https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V) | 2:06 | 2024-11-12 |  |
@@ -601,6 +603,7 @@
 | [Poison \(feat\. NENE\)](https://open.spotify.com/track/3hDGNMsG7428l9vPQjN91a) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 2:42 | 2023-06-06 | 2024-04-03 |
 | [PONPONPON](https://open.spotify.com/track/1c6C2wg7PRbPBRRUaEvheC) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [ぱみゅぱみゅレボリューション](https://open.spotify.com/album/0dYoEirIRah6OKJl1okk6Z) | 4:02 | 2022-12-06 | 2023-01-04 |
 | [PONPONPON](https://open.spotify.com/track/4bQrS8lhD0GKkWxcycbBzA) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 4:02 | 2022-09-06 | 2022-10-05 |
+| [Poppin' Run](https://open.spotify.com/track/5i2yNVp1fdqSwOGEMcDLnX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [RUBY POP](https://open.spotify.com/album/4hqJmt2QoyXsAvIMsHbRYd) | 2:38 | 2024-11-27 |  |
 | [PORTLAND](https://open.spotify.com/track/4g67SysRy5Ups9gQ5qPhID) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [JUST SAYING HI](https://open.spotify.com/album/4hnW7kQFsv60ccyuQxPAST) | 4:36 | 2022-01-04 | 2022-02-02 |
 | [POWER SPOT](https://open.spotify.com/track/0E1KEUXvRfHRTtG56qEqwR) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/5alBkCQwn9sG6izwrraNDO) | 3:30 | 2023-04-04 | 2024-04-03 |
 | [POWER SPOT](https://open.spotify.com/track/155hCdvvOX3zsudibFIyG7) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/1mmTuDM7M8LsvYNLimERpV) | 3:30 | 2024-06-20 | 2024-09-20 |

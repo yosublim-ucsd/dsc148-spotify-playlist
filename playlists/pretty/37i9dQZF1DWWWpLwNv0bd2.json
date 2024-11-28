@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Amaran",
-  "num_followers": 106263,
+  "num_followers": 107035,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0RjbQAAAAAXb6fBYX9jsFHQ0AK6B0Gn",
+  "snapshot_id": "Z0cjnwAAAAC3ftY9z3+5ljhoFEId4nVD",
   "tracks": [
     {
       "added_at": "2024-10-04 14:39:54",
@@ -75,6 +75,34 @@
       "duration_ms": 235102,
       "name": "Dheema (From \"Love Insurance Kompany\")",
       "url": "https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk"
+    },
+    {
+      "added_at": "2024-11-27 13:50:23",
+      "album": {
+        "name": "Kadhal Theeradha (From \"Lara\")",
+        "url": "https://open.spotify.com/album/1LPS3pDw3xBekGyYHNvFoP"
+      },
+      "artists": [
+        {
+          "name": "Raghu Sravan Kumar",
+          "url": "https://open.spotify.com/artist/4shsgl44FArZtKjAPHPh1t"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        },
+        {
+          "name": "Karthikesan",
+          "url": "https://open.spotify.com/artist/6jFRjMewjDAcgbqJONGCoh"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kadhal Theeradha (From \"Lara\")",
+      "url": "https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn"
     },
     {
       "added_at": "2024-05-24 12:56:45",

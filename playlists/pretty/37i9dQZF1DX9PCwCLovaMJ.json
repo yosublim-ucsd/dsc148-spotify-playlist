@@ -923,6 +923,26 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "ULTRAVIOLET",
+        "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
+      },
+      "artists": [
+        {
+          "name": "Lido",
+          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
+        },
+        {
+          "name": "Easton Fitz",
+          "url": "https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ"
+        }
+      ],
+      "duration_ms": 208225,
+      "name": "WOMAN",
+      "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
         "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 202480,
       "name": "Step By Step - Axel Boman\u2019s In The Air Version",
       "url": "https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "ULTRAVIOLET",
-        "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
-      },
-      "artists": [
-        {
-          "name": "Lido",
-          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
-        },
-        {
-          "name": "Easton Fitz",
-          "url": "https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ"
-        }
-      ],
-      "duration_ms": 208225,
-      "name": "WOMAN",
-      "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
     },
     {
       "added_at": "2023-11-29 12:17:00",

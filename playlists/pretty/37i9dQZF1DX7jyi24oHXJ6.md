@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,144 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,145 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 | 27 | [They sing for us](https://open.spotify.com/track/2sZrp7KDIy5J2kMWFlC2tN) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 3:32 |
 | 28 | [Love remnants](https://open.spotify.com/track/6Z8HhBie79IA6BEhwf7PwZ) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 |
 | 29 | [Message from Paul Blanco](https://open.spotify.com/track/6vDz4cJhqmAnAAY27a3I9s) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EXchange3 Audio Liner](https://open.spotify.com/album/5SBrbDH8wP6zdb0gFys0ZI) | 0:10 |
-| 30 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
+| 30 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 31 | [The Only One Have to Forget](https://open.spotify.com/track/4wAWmdqsNaJfMRNkoXdhnm) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [EXchange2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4a8eA0F5aFMH3NvCX2hYTX) | 4:23 |
 | 32 | [Thank you](https://open.spotify.com/track/7ncELTySeq5yRbZlGsSDlz) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [EXchange, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4lmTxgqct4aaAc4IFUJEqQ) | 4:03 |
 | 33 | [In My Spot](https://open.spotify.com/track/2DFaLKFt7yrhCPVPeLUPcX) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:53 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 | 43 | [Together \- Instrumental](https://open.spotify.com/track/04qmgNNfOdMpAbrfLdSzeL) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 3:36 |
 | 44 | [Sunset \- Instrumental](https://open.spotify.com/track/5uBqXqeW6yoGTMXbprk847) | [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 2:53 |
 | 45 | [They sing for us \- Instrumental](https://open.spotify.com/track/4AUcB7gzStsmlGOE0DDY4K) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 3:32 |
-| 46 | [On my mind \- Instrumental](https://open.spotify.com/track/0q9MlTUSwaLkEBaQoESp8o) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
+| 46 | [On my mind \- Instrumental](https://open.spotify.com/track/0q9MlTUSwaLkEBaQoESp8o) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 47 | [Love remnants \- Instrumental](https://open.spotify.com/track/1d9JGDX84lUtWBmZAthyp2) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 |
 | 48 | [Timing](https://open.spotify.com/track/7FhBQY7R64VijEarIaT56H) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [EXchange2, Pt\. 4 'My Heart Flutter, Again' \(Original Television Soundtrack\)](https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF) | 3:16 |
 | 49 | [My World, My First](https://open.spotify.com/track/5ZTJUc0BhK2pvrs72WT8nt) | [Jungtune](https://open.spotify.com/artist/4GzXJN1RrXRMB9XqIeZeiT) | [EXchange2, Pt\. 4 'My Heart Flutter, Again' \(Original Television Soundtrack\)](https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF) | 4:48 |

@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover:  Dani Marchio.  Artwork by Paola Saliby",
-  "num_followers": 219740,
+  "description": "The best new pop music by independent artists and labels. Cover:  Beth McKenzie.  Artwork by Paola Saliby",
+  "num_followers": 219813,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz1s0AAAAABUITs2TcF1OQSl/Fu/j8jE",
+  "snapshot_id": "Z0d73wAAAADF3LokpVHox/hsiUprNnd9",
   "tracks": [
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Does This Make Me A Bitter Woman?",
+        "url": "https://open.spotify.com/album/79uZQ74ChNMaiYKorFyj7m"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/509jzoLTq7VZWKaXHZ4fjr"
+    },
+    {
+      "added_at": "2024-11-27 20:06:55",
+      "album": {
+        "name": "Andrea",
+        "url": "https://open.spotify.com/album/0xvorabcgOSniuEU7mRDN7"
+      },
+      "artists": [
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "duration_ms": 169230,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/1GkgkmgQaJE2mF1gvvxgZE"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/69RbJjVaNSYD8zEtA8M9J1"
+      },
+      "artists": [
+        {
+          "name": "Mariae Cassandra",
+          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Cheap Cherry Bubblegum",
+        "url": "https://open.spotify.com/album/3SsXl2bAwXABX1pbIrNd1G"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Cheap Cherry Bubblegum",
+      "url": "https://open.spotify.com/track/68CZHScUMvCAIpyfOFkqWu"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Sunset of Your Love",
+        "url": "https://open.spotify.com/album/4IRHGrQR3hbVXmoiVSsjCq"
+      },
+      "artists": [
+        {
+          "name": "Toni Cornell",
+          "url": "https://open.spotify.com/artist/4PTerLvBoujuUk8TUpiVXR"
+        }
+      ],
+      "duration_ms": 201074,
+      "name": "Sunset of Your Love",
+      "url": "https://open.spotify.com/track/1hcayQjeRDMlLUDK3YkPBE"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
     {
       "added_at": "2024-11-13 05:00:00",
       "album": {
@@ -25,6 +121,22 @@
       "url": "https://open.spotify.com/track/16v7MKE8cy4EfHJ4ZgDSlG"
     },
     {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/4V2iBuhAVo7h7jMuwkwFTo"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 264874,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7go4whTIsUM6GirLCZ9bTe"
+    },
+    {
       "added_at": "2024-11-20 05:00:00",
       "album": {
         "name": "DON'T BE SO OVERDRAMATIC",
@@ -39,6 +151,22 @@
       "duration_ms": 199245,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/2ieoz22DNZyqZSnulU6nsn"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0UdEJZ1klUUOZ93QcnlD6V"
+      },
+      "artists": [
+        {
+          "name": "Aria Wood",
+          "url": "https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK"
+        }
+      ],
+      "duration_ms": 207401,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2mWgaI5sQA7xyresqRnQFj"
     },
     {
       "added_at": "2024-11-13 05:00:00",
@@ -73,6 +201,22 @@
       "url": "https://open.spotify.com/track/0Irj6PuEEGzi7JGJvAhdZ8"
     },
     {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Write The End",
+        "url": "https://open.spotify.com/album/0hj66XP6eMW5UaBeVv1l2g"
+      },
+      "artists": [
+        {
+          "name": "Kallie Rock",
+          "url": "https://open.spotify.com/artist/6sy0x8H1yhibPRsKyPglpt"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Write The End",
+      "url": "https://open.spotify.com/track/1LLeydOnOw42Rj6K2zWYJS"
+    },
+    {
       "added_at": "2024-11-13 05:00:00",
       "album": {
         "name": "Kissing With a Cavity",
@@ -103,6 +247,22 @@
       "duration_ms": 188437,
       "name": "Do You Hate Me?",
       "url": "https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "Messing With My Mind",
+        "url": "https://open.spotify.com/album/4spPoIjMnES4OhWEYt5Z7c"
+      },
+      "artists": [
+        {
+          "name": "Alex White",
+          "url": "https://open.spotify.com/artist/5MsRgRCwnEr9N7Ok9XeT1d"
+        }
+      ],
+      "duration_ms": 120711,
+      "name": "Messing With My Mind",
+      "url": "https://open.spotify.com/track/69vzgSWj9feqFMgbdA3UPO"
     },
     {
       "added_at": "2024-11-06 05:00:00",
@@ -199,6 +359,22 @@
       "duration_ms": 206935,
       "name": "Standing at our grave",
       "url": "https://open.spotify.com/track/1sbPzHVcvNITmbJkRw1avs"
+    },
+    {
+      "added_at": "2024-11-27 17:12:56",
+      "album": {
+        "name": "bye, bye",
+        "url": "https://open.spotify.com/album/7sBDfJSXySjNiqqAuutTRv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKI",
+          "url": "https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "bye, bye",
+      "url": "https://open.spotify.com/track/6gvLaJ7wAIM3E1tKn2ipQM"
     },
     {
       "added_at": "2024-11-13 05:00:00",
@@ -989,22 +1165,6 @@
       "url": "https://open.spotify.com/track/1dkv7Wet7tohrkQTPXzdvw"
     },
     {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "She's Finally Lost It!",
-        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
-      },
-      "artists": [
-        {
-          "name": "Beth McKenzie",
-          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "She's Finally Lost It!",
-      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
-    },
-    {
       "added_at": "2024-10-09 04:00:00",
       "album": {
         "name": "don't ruin my life",
@@ -1253,38 +1413,6 @@
       "url": "https://open.spotify.com/track/50wveEAlCseE6HIoWUc4y6"
     },
     {
-      "added_at": "2024-10-02 15:30:09",
-      "album": {
-        "name": "i like that",
-        "url": "https://open.spotify.com/album/23a2HXc2IcpPrPtYNQCJz3"
-      },
-      "artists": [
-        {
-          "name": "country girl",
-          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
-        }
-      ],
-      "duration_ms": 126272,
-      "name": "i like that",
-      "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
-    },
-    {
-      "added_at": "2024-10-02 15:30:09",
-      "album": {
-        "name": "There's a Reason You're My Ex",
-        "url": "https://open.spotify.com/album/4nCZ9DRUSG5pTJpzgEaa4z"
-      },
-      "artists": [
-        {
-          "name": "Emerson Azarian",
-          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
-        }
-      ],
-      "duration_ms": 158384,
-      "name": "There's a Reason You're My Ex",
-      "url": "https://open.spotify.com/track/5AmO9Yq0jfD9wXPZNhJIM4"
-    },
-    {
       "added_at": "2024-09-25 13:02:41",
       "album": {
         "name": "Mercy Me",
@@ -1349,54 +1477,6 @@
       "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
     },
     {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "selfdestructive",
-        "url": "https://open.spotify.com/album/1NAYk24kS3biTl86Nl0jj6"
-      },
-      "artists": [
-        {
-          "name": "Pia Baris",
-          "url": "https://open.spotify.com/artist/2VVGojicJB7CS2lAfphtOc"
-        }
-      ],
-      "duration_ms": 153940,
-      "name": "selfdestructive",
-      "url": "https://open.spotify.com/track/0R2HURXAR6ZWtdPosQkxMG"
-    },
-    {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "Pacifist",
-        "url": "https://open.spotify.com/album/1mNnhgEogBi5yJTGBGv54d"
-      },
-      "artists": [
-        {
-          "name": "Nanna Bottos",
-          "url": "https://open.spotify.com/artist/0xoGDgIUsZaAwfSnIzA0V2"
-        }
-      ],
-      "duration_ms": 183117,
-      "name": "Pacifist",
-      "url": "https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R"
-    },
-    {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "days i've cried this year",
-        "url": "https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj"
-      },
-      "artists": [
-        {
-          "name": "priyana",
-          "url": "https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "days i've cried this year",
-      "url": "https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ"
-    },
-    {
       "added_at": "2024-09-18 14:18:26",
       "album": {
         "name": "AMERICAN HEART",
@@ -1445,70 +1525,6 @@
       "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
     },
     {
-      "added_at": "2024-09-04 04:00:00",
-      "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY"
-      },
-      "artists": [
-        {
-          "name": "Isabella Kensington",
-          "url": "https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb"
-        }
-      ],
-      "duration_ms": 171528,
-      "name": "in another life",
-      "url": "https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj"
-    },
-    {
-      "added_at": "2024-09-11 04:00:00",
-      "album": {
-        "name": "KINDA NERVOUS",
-        "url": "https://open.spotify.com/album/6yb0Z75bxHVQPka25GxUHT"
-      },
-      "artists": [
-        {
-          "name": "Porsh Bet$",
-          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
-        }
-      ],
-      "duration_ms": 175443,
-      "name": "KINDA NERVOUS",
-      "url": "https://open.spotify.com/track/2KMtIr4ct0FxKeui6w7OEY"
-    },
-    {
-      "added_at": "2024-09-11 04:00:00",
-      "album": {
-        "name": "I Fear",
-        "url": "https://open.spotify.com/album/2Zp5vehQ8E4b3nYWXnoxvM"
-      },
-      "artists": [
-        {
-          "name": "Rubina",
-          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "I Fear",
-      "url": "https://open.spotify.com/track/1svaDQEqxrqu8YaVRkGTJe"
-    },
-    {
-      "added_at": "2024-09-11 04:00:00",
-      "album": {
-        "name": "CREATURES OF THE NIGHT",
-        "url": "https://open.spotify.com/album/1gNeOvK337fHF81y8aoJUT"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vain",
-          "url": "https://open.spotify.com/artist/5FdOGzeFCHrfospN2JcfmE"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "CREATURES OF THE NIGHT - Radio Edit",
-      "url": "https://open.spotify.com/track/0X42CLJBTxXBYp7dLdAWLC"
-    },
-    {
       "added_at": "2024-08-21 04:21:49",
       "album": {
         "name": "Josefina",
@@ -1523,38 +1539,6 @@
       "duration_ms": 168949,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/4bv5ZSgEDfvJlZ6xJebEw7"
-    },
-    {
-      "added_at": "2024-09-11 04:00:00",
-      "album": {
-        "name": "IT'S NOT MY FAULT.",
-        "url": "https://open.spotify.com/album/3enOgj3kH7WZmckmq6FIgv"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Clarke",
-          "url": "https://open.spotify.com/artist/1XYMi6D20kvVICBIfkaefS"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "IT'S NOT MY FAULT.",
-      "url": "https://open.spotify.com/track/3NZ1x68xzf6PGg0pkRkMPV"
-    },
-    {
-      "added_at": "2024-09-11 04:00:00",
-      "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/5EdEMmocaRmbjCuzT2jSy3"
-      },
-      "artists": [
-        {
-          "name": "Temm",
-          "url": "https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD"
-        }
-      ],
-      "duration_ms": 234167,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/6QNX7GBao96UUPlSTaSh5X"
     },
     {
       "added_at": "2024-09-04 04:00:00",
@@ -1619,22 +1603,6 @@
       "duration_ms": 235725,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
-        "name": "Love Always Knocks Me Out",
-        "url": "https://open.spotify.com/album/2PzM429yMvxxpcUpPfoCfr"
-      },
-      "artists": [
-        {
-          "name": "Jessica Doolan",
-          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
-        }
-      ],
-      "duration_ms": 172094,
-      "name": "Love Always Knocks Me Out",
-      "url": "https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR"
     },
     {
       "added_at": "2024-07-17 04:00:00",

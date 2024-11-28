@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,379 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,399 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 94 | [LET iT END](https://open.spotify.com/track/7G6Fc2VT96ZKbqPWDU0UUf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [LET iT END](https://open.spotify.com/album/3yRKqbOIbmuX5KDcWa10Jq) | 3:13 |
 | 95 | [Respect](https://open.spotify.com/track/2oTG8Q2sfX9YFo8rBniHAL) | [with\(cv.八島さらら、渕上舞\)](https://open.spotify.com/artist/0Br5envwtW1V44ZOhsAT25) | [Respect\(TVアニメ『アイドル事変』エンディングテーマ\)](https://open.spotify.com/album/1JeEBEPjp9IXR5CDtzZLWE) | 4:03 |
 | 96 | [歌え!愛の公約](https://open.spotify.com/track/01egtZBROo2gseLZ5fNq8R) | [SMILE♥X\(cv.八島さらら、渕上舞、上田麗奈、Lynn、久保ユリカ、仲谷明香、吉田有里、赤﨑千夏、山本希望\)](https://open.spotify.com/artist/4U0XJnCV8cqbQm7CC0TAZF) | [歌え!愛の公約\(TVアニメ『アイドル事変』オープニングテーマ\)](https://open.spotify.com/album/0fhiepqLt8hS4noGJHv4AQ) | 3:50 |
-| 97 | [たんぽぽ\(さらにいくつものversion\)](https://open.spotify.com/track/0aNksFQU8gnbmpxs8MhZJS) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 5:08 |
+| 97 | [たんぽぽ（さらにいくつものversion）](https://open.spotify.com/track/0aNksFQU8gnbmpxs8MhZJS) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 5:08 |
 | 98 | [悲しくてやりきれない](https://open.spotify.com/track/5VO9PtiWH5KgldpYrQWwIx) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:58 |
 | 99 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 |
 | 100 | [History Maker](https://open.spotify.com/track/388Goi8izhV978LfGi0AQM) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/4BsUgURzIq1r5FRCXDl66v) | 3:10 |

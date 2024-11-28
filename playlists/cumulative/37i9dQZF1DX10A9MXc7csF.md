@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Antonin Padilla, Hans El Oso, JR Torres
 
-1,094 songs - 2 day 7 hr 59 min
+1,095 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 | 2024-04-12 | 2024-06-29 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-14 | 2022-06-04 |
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-01-27 | 2023-04-22 |
+| [No Funcionó](https://open.spotify.com/track/7xJ1pW2V2Cj4dLl3iTvm1F) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35) | [No Funcionó](https://open.spotify.com/album/3XKKQTOH2a7tahTJSetqYJ) | 3:03 | 2024-11-27 |  |
 | [No Hay De Otra](https://open.spotify.com/track/5Iez4UeO6JdQix7iG6Cukm) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [No Hay De Otra](https://open.spotify.com/album/0uTpiFlyHFwa4UumXDbzDF) | 2:48 | 2023-10-13 | 2023-11-25 |
 | [No Hay Manera](https://open.spotify.com/track/3JgqK05SpGrrsLwo7Z9TQz) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [No Hay Manera](https://open.spotify.com/album/7AzS9OtFaaMRzuGatOaLkI) | 3:23 | 2022-08-26 | 2023-01-28 |
 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 | 2023-09-08 | 2023-11-25 |

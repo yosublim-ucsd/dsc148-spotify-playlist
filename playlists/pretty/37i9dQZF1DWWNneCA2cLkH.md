@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Tinariwen
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,682 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,677 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soixante Trois](https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Idrache \(Traces Of The Past\)](https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ) | 5:13 |
-| 2 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:24 |
+| 2 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 |
 | 3 | [Rent Boy](https://open.spotify.com/track/4J8458lcLZQoAKo9WLSkaS) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Marry Me Tonight](https://open.spotify.com/album/0UdPmSFMw6cnXxlBEr3mN6) | 3:37 |
 | 4 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 |
 | 5 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 10 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 11 | [Tallulah](https://open.spotify.com/track/4VTjwGmtr5rkubx3i4gLG6) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Tallulah](https://open.spotify.com/album/0zVJBPrJMcuD9DuJtFyCLt) | 3:53 |
 | 12 | [There's A Fire, Yet To Burn](https://open.spotify.com/track/38tSQAvgOBe77xcXsujBy1) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Ripple On The Wing](https://open.spotify.com/album/1tdv6dpcgqA9eZP8MHzEhS) | 3:43 |
-| 13 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
+| 13 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 14 | [Hypnagogic](https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA) | [Intermood](https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG) | [Hypnagogic](https://open.spotify.com/album/3ELHI8IOc8XpEkjAdPVAN9) | 8:40 |
 | 15 | [The High](https://open.spotify.com/track/0ECkSquRuDEjn0fbmo7y5I) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [The High](https://open.spotify.com/album/0NGiSoVy69K6jLqidcgli5) | 4:55 |
 | 16 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |

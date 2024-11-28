@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-83 songs - 5 hr 20 min
+86 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Butterfly](https://open.spotify.com/track/7bZknZ9h1Gnv1dEpiyAvso) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:52 | 2024-01-31 |  |
 | [C'est une belle journée](https://open.spotify.com/track/5S7mQHUAKFYsEQOrtTKMth) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Les mots](https://open.spotify.com/album/5Rc8dzu798sibwLHrk8oDB) | 4:16 | 2024-01-31 |  |
 | [C'est une belle journée](https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Histoires de](https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG) | 4:16 | 2023-03-06 | 2024-04-19 |
-| [Cassé](https://open.spotify.com/track/1YqHug87ndn6HN6D00Smuw) | [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Nolwenn Leroy](https://open.spotify.com/album/0OXTqDGWSYhKR0IzkBiVip) | 4:30 | 2023-03-06 |  |
+| [Caravane](https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:26 | 2024-11-27 |  |
+| [Cassé](https://open.spotify.com/track/1YqHug87ndn6HN6D00Smuw) | [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Nolwenn Leroy](https://open.spotify.com/album/0OXTqDGWSYhKR0IzkBiVip) | 4:30 | 2023-03-06 | 2024-11-28 |
 | [Comme des enfants](https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur De Pirate](https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3) | 2:46 | 2024-01-31 |  |
 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 | 2023-03-06 | 2024-04-19 |
 | [Confessions Nocturnes](https://open.spotify.com/track/0C9qil6cXEEJ8AzrMUEHv6) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 6:00 | 2024-01-31 |  |
@@ -60,7 +61,8 @@
 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 | 2023-03-06 |  |
 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 | 2024-01-31 |  |
 | [Le Manège](https://open.spotify.com/track/6yOGumo25Hrr7IKDS75gm6) | [Stanislas](https://open.spotify.com/artist/4B6omre6u07tKDEXvDNJBc) | [L'Equilibre Instable](https://open.spotify.com/album/6eMCkS0r8atntN0rgg2i9G) | 4:45 | 2023-03-06 | 2024-02-01 |
-| [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 | 2023-03-06 |  |
+| [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 | 2024-11-27 |  |
+| [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 | 2023-03-06 | 2024-11-28 |
 | [Liberta](https://open.spotify.com/track/3QutrqACpwGWzywF3FVZsQ) | [Pep's](https://open.spotify.com/artist/6dvyAgidTbcn9vJO1eWQ6y) | [Utopies Dans Le Décor](https://open.spotify.com/album/1fOao2GZ24fIO9qJ8Mo3y8) | 3:22 | 2024-01-31 |  |
 | [Liberta](https://open.spotify.com/track/7sJBx5VyGxbLlhwloGBmyP) | [Pep's](https://open.spotify.com/artist/6dvyAgidTbcn9vJO1eWQ6y) | [Utopies dans le décor](https://open.spotify.com/album/7KQWVtf0EE4HwmCN0GWZpe) | 3:24 | 2023-03-06 | 2024-04-19 |
 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 | 2024-01-31 |  |
@@ -70,7 +72,7 @@
 | [Marie](https://open.spotify.com/track/0ITqkmf62Q0Izdyo3PkNeU) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [A La Vie A La Mort](https://open.spotify.com/album/4yrYIH9dGbP75771NBeRO6) | 3:56 | 2024-01-31 |  |
 | [Marly\-Gomont](https://open.spotify.com/track/42SUjSOr2tsUmOIlYBX04Z) | [Kamini](https://open.spotify.com/artist/0AFEmxYJqHfNUtADd6eWhc) | [Psychostar World](https://open.spotify.com/album/2mkgMkWDs1Xi2Sqzd4oxVF) | 5:08 | 2023-03-06 |  |
 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 | 2023-03-06 |  |
-| [Mon coeur, mon amour](https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn) | [Anaïs](https://open.spotify.com/artist/6uwKWDKLDlM0PXvXQ97sRT) | [The Cheap Show](https://open.spotify.com/album/3JnzpVc0Wx4c46enGLAHi7) | 4:23 | 2023-03-06 |  |
+| [Mon coeur, mon amour](https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn) | [Anaïs](https://open.spotify.com/artist/6uwKWDKLDlM0PXvXQ97sRT) | [The Cheap Show](https://open.spotify.com/album/3JnzpVc0Wx4c46enGLAHi7) | 4:23 | 2023-03-06 | 2024-11-28 |
 | [Mourir demain](https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'instant d'après](https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9) | 3:37 | 2024-01-31 |  |
 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 | 2023-03-06 |  |
 | [Parce qu'on vient de loin](https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 3:52 | 2023-03-06 |  |
@@ -86,6 +88,7 @@
 | [Tout Le Bonheur Du Monde](https://open.spotify.com/track/2l1ovp6orGRxysHpzhU7lu) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout Les Yeux Ouverts](https://open.spotify.com/album/5YR52hInBgTZFOBNQYIA9Y) | 3:49 | 2024-01-31 |  |
 | [Toutes les femmes de ta vie](https://open.spotify.com/track/0ZpCuFfUUgGNGvMVN5kjhc) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [Lipsyncs Legendarios Volumen 2](https://open.spotify.com/album/1XuJpBdzHn81l2duw8TR4y) | 3:14 | 2023-03-06 | 2024-04-19 |
 | [Toutes les femmes de ta vie](https://open.spotify.com/track/3PkVPI5Qj87BCyNBUQ2pJB) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [L5](https://open.spotify.com/album/1tO5kLF2GXzBdoJTNJEKut) | 3:15 | 2024-01-31 |  |
+| [Tu seras](https://open.spotify.com/track/4XR3HHhd1mYXcDcPcFEUx9) | [Emma Daumas](https://open.spotify.com/artist/0oT6Mh0CaikcCfNREZjlsC) | [Tu Seras](https://open.spotify.com/album/6GzjhPgQh9EaLZScfQoeLM) | 3:44 | 2024-11-27 |  |
 | [Ulysse](https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7) | [Ridan](https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz) | [L'Ange De Mon Démon](https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0) | 3:39 | 2023-03-06 |  |
 | [Une étincelle](https://open.spotify.com/track/5OBdN1F98YEtrRoW8YLYVu) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [L5](https://open.spotify.com/album/1tO5kLF2GXzBdoJTNJEKut) | 3:53 | 2023-03-06 | 2024-02-01 |
 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 | 2023-03-06 |  |

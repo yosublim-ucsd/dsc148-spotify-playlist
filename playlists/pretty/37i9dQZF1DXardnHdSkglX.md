@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,857 likes - 122 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,937 likes - 122 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 84 | [Sign Your Name Across My Heart](https://open.spotify.com/track/3ZnwYceO2sv5z0UcpaLicf) | [Lydia Gray](https://open.spotify.com/artist/0VMYRZ6lRJtkOpIvFLomZ0), [Ed Eastridge](https://open.spotify.com/artist/02VVc5i9QRuXc4qt0ajyVo) | [Sign Your Name Across My Heart](https://open.spotify.com/album/1PXUyxo34edj0nByI1vzuD) | 4:50 |
 | 85 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
 | 86 | [Self Control](https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB) | [World Mestizo Ensemble presents Acoustic](https://open.spotify.com/artist/2CaRC2DUlOcHNqWhMNsmRK) | [Ananda, Vol.3 \(Chill Out Season 2006\)](https://open.spotify.com/album/3pkbCID6RshGvUcdK5YR9N) | 3:33 |
-| 87 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
+| 87 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 | 88 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 | 89 | [Slide \- Bossanova](https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk) | [Ensolarada](https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:53 |
 | 90 | [Hard Woman](https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [A New Beginning](https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT) | 3:54 |

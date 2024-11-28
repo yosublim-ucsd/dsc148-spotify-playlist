@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 160,569 likes - 130 songs - 9 hr 31 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 160,564 likes - 130 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 124 | [The Last Man on Earth](https://open.spotify.com/track/3SWg8HDCdqfN7Xy5VIZa75) | [Neon Nox](https://open.spotify.com/artist/4hePFF9hQhzhZ1ZHELHYa5) | [Vanishing Point](https://open.spotify.com/album/40n5YCOWEy8m3K6hT4QeJ0) | 5:28 |
 | 125 | [Nightland](https://open.spotify.com/track/4AmKLnFWAXVexQtucB881h) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Electric Love](https://open.spotify.com/album/2HwybawUT4o2QCy8MNdebG) | 6:01 |
 | 126 | [Electric Dreams](https://open.spotify.com/track/4NGNiR0zwa26sxjeKbv59z) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Night Driving Avenger EP](https://open.spotify.com/album/4RPZwe7DRyQd805dyzs1pC) | 4:46 |
-| 127 | [La Mer Des Possibilités](https://open.spotify.com/track/4HDCMfoZfUzfeKJ2JYruJR) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Join Us](https://open.spotify.com/album/7MDFWbbFE27CuKen5DHAL3) | 5:58 |
+| 127 | [La Mer Des Possibilités](https://open.spotify.com/track/4HDCMfoZfUzfeKJ2JYruJR) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Join Us](https://open.spotify.com/album/7MDFWbbFE27CuKen5DHAL3) | 5:58 |
 | 128 | [Luminance](https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw) | [Miroir](https://open.spotify.com/artist/4bFpWwKSDiCDBUbYwX59aX) | [So Fewer Particles Scatter](https://open.spotify.com/album/49VWM8s5jKyfJdBcwJ4tDH) | 5:27 |
 | 129 | [Stars of the Night](https://open.spotify.com/track/7LxMlmPxMdm6tm58F7ykxm) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [The Legacy Collection, Vol\. II](https://open.spotify.com/album/0cGJHeAxaQEkitESU7gN8c) | 5:48 |
 | 130 | [Arrival](https://open.spotify.com/track/0LGIEqMP9sc0UqZJ5uk4zF) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:27 |

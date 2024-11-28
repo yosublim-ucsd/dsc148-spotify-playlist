@@ -6095,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Bem-Vinda Amizade",
+        "url": "https://open.spotify.com/album/1Dbn6bkxBBY8KsQYv85aRB"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Katarina, Katarina",
+      "url": "https://open.spotify.com/track/3P6tp78NKjhldcTAdKlEKs"
+    },
+    {
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -7110,6 +7128,24 @@
       "duration_ms": 192965,
       "name": "Lotus 72 D",
       "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
+    },
+    {
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "album": {

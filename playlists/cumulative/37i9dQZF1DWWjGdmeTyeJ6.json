@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music by independent artists and labels. Cover: Lambrini Girls, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. Cover: Annahstasia, Artwork: Isu Kim",
   "name": "Fresh Finds",
   "tracks": [
     {
@@ -6487,6 +6487,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
+    },
+    {
+      "album": {
         "name": "amun\u00ec",
         "url": "https://open.spotify.com/album/0NLBvNzqS8IJWoYFEwkuDr"
       },
@@ -6834,6 +6852,24 @@
       "duration_ms": 207209,
       "name": "angry angry song",
       "url": "https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG"
+    },
+    {
+      "album": {
+        "name": "Anima (Think of You)",
+        "url": "https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Anima (Think of You)",
+      "url": "https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv"
     },
     {
       "album": {
@@ -15824,6 +15860,24 @@
       "duration_ms": 201930,
       "name": "Body Tides (feat. Pollena)",
       "url": "https://open.spotify.com/track/7BSzhS8L9uFl6sAizssYko"
+    },
+    {
+      "album": {
+        "name": "Bodys Chorus",
+        "url": "https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238220,
+      "name": "Bodys Chorus",
+      "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
     },
     {
       "album": {
@@ -25932,6 +25986,24 @@
       "duration_ms": 155948,
       "name": "Crane Stance",
       "url": "https://open.spotify.com/track/5l2jxyEjKxoxknbBcsAAYW"
+    },
+    {
+      "album": {
+        "name": "Cranium",
+        "url": "https://open.spotify.com/album/6GLvAOeCOr1KK2O6S59KHU"
+      },
+      "artists": [
+        {
+          "name": "Lei Hope",
+          "url": "https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148504,
+      "name": "Cranium",
+      "url": "https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O"
     },
     {
       "album": {
@@ -42515,6 +42587,24 @@
     },
     {
       "album": {
+        "name": "Flowers Fell",
+        "url": "https://open.spotify.com/album/7ze8W3JJR82KMGHcFl1S3f"
+      },
+      "artists": [
+        {
+          "name": "Avery Friedman",
+          "url": "https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268050,
+      "name": "Flowers Fell",
+      "url": "https://open.spotify.com/track/5QnZ9eHpNQhqVvjd7mhFzP"
+    },
+    {
+      "album": {
         "name": "Flowers From Japan",
         "url": "https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw"
       },
@@ -47948,6 +48038,24 @@
       "duration_ms": 169187,
       "name": "God Knew",
       "url": "https://open.spotify.com/track/5V4A8R3AthkuYhC6fdcypg"
+    },
+    {
+      "album": {
+        "name": "god loves a trier",
+        "url": "https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147543,
+      "name": "god loves a trier",
+      "url": "https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39"
     },
     {
       "album": {
@@ -62953,6 +63061,24 @@
     },
     {
       "album": {
+        "name": "It Can't Be Heartbreak If It's Not Love",
+        "url": "https://open.spotify.com/album/6MScK2eZOqsJ7HvfmWUwsj"
+      },
+      "artists": [
+        {
+          "name": "Maddy Jane",
+          "url": "https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213185,
+      "name": "It Can't Be Heartbreak If It's Not Love",
+      "url": "https://open.spotify.com/track/6CpY8ATteXX2xOtYKc05fR"
+    },
+    {
+      "album": {
         "name": "A Julia's War Tripple Split",
         "url": "https://open.spotify.com/album/6QWsm4PKJwYRtFZYXU5ySS"
       },
@@ -67146,6 +67272,24 @@
       "duration_ms": 190154,
       "name": "Lady What, Lady Who?",
       "url": "https://open.spotify.com/track/2xmlUMn5wqH3vnVFx2goIU"
+    },
+    {
+      "album": {
+        "name": "LAFG (Like A Fuckin' Gansta)",
+        "url": "https://open.spotify.com/album/6S6Zop3e8Uq7kb79ZmM5tH"
+      },
+      "artists": [
+        {
+          "name": "Jambeau",
+          "url": "https://open.spotify.com/artist/294dt5FF6vPvuflq8O9FAZ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126967,
+      "name": "LAFG (Like A Fuckin' Gansta)",
+      "url": "https://open.spotify.com/track/2ErOChWDLE3ojD0jBPJTQm"
     },
     {
       "album": {
@@ -73195,6 +73339,32 @@
     },
     {
       "album": {
+        "name": "love you more",
+        "url": "https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        },
+        {
+          "name": "Jake Amy",
+          "url": "https://open.spotify.com/artist/0l3S7lX3Tx1oHawkWZv4Gz"
+        },
+        {
+          "name": "Anthony Liddell",
+          "url": "https://open.spotify.com/artist/5EROmQprkIlm8uVLWjo3Ql"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139019,
+      "name": "love you more",
+      "url": "https://open.spotify.com/track/6lGyKdsX8VQpWIe6Bf3iaa"
+    },
+    {
+      "album": {
         "name": "Love!",
         "url": "https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN"
       },
@@ -74224,6 +74394,24 @@
       "duration_ms": 136800,
       "name": "M's",
       "url": "https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh"
+    },
+    {
+      "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/0n6bkIU5E4RzhhKeKr0tSd"
+      },
+      "artists": [
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138198,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4QefQE5iRafmuKBdt2YcT5"
     },
     {
       "album": {
@@ -89517,6 +89705,24 @@
     },
     {
       "album": {
+        "name": "Organ Donor",
+        "url": "https://open.spotify.com/album/1AXggEP7cJeCx9G2utbwq4"
+      },
+      "artists": [
+        {
+          "name": "Stella Bridie",
+          "url": "https://open.spotify.com/artist/6N7zzgXz4PvcAf5NMPpQjL"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/52UaND1j9dqiIecybqupd0"
+    },
+    {
+      "album": {
         "name": "Orgone",
         "url": "https://open.spotify.com/album/6mw1bJn80BY9WdMrtTJkBI"
       },
@@ -89630,6 +89836,28 @@
       "duration_ms": 228073,
       "name": "OTRA VEZ CASUALIDAD",
       "url": "https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1"
+    },
+    {
+      "album": {
+        "name": "OTRACOSA",
+        "url": "https://open.spotify.com/album/4Q6zXqMTai9EGMXcBtRiUf"
+      },
+      "artists": [
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        },
+        {
+          "name": "Dawer",
+          "url": "https://open.spotify.com/artist/2Xju0wnN27Qb6yhOuGrBnB"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127012,
+      "name": "Otracosa",
+      "url": "https://open.spotify.com/track/1ZWAx7qPThPTsL9LJBcHWR"
     },
     {
       "album": {
@@ -90158,6 +90386,24 @@
       "duration_ms": 177631,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
+    {
+      "album": {
+        "name": "Over For Now",
+        "url": "https://open.spotify.com/album/30c5s9KqnBRP865PsSTnAC"
+      },
+      "artists": [
+        {
+          "name": "Aeris Roves",
+          "url": "https://open.spotify.com/artist/1O5IeYqvtwnWzlNq3Ux3jd"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105666,
+      "name": "Over For Now",
+      "url": "https://open.spotify.com/track/52Wa3XXAZ2w0kznGyBsS6R"
     },
     {
       "album": {
@@ -99886,6 +100132,24 @@
       "duration_ms": 194438,
       "name": "RNDS",
       "url": "https://open.spotify.com/track/6vi8rnrpTsqKM88odyNCWQ"
+    },
+    {
+      "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     },
     {
       "album": {
@@ -113647,6 +113911,24 @@
     },
     {
       "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307746,
+      "name": "Stress Test",
+      "url": "https://open.spotify.com/track/0UehMLxaN4JAEhldH8VUFY"
+    },
+    {
+      "album": {
         "name": "Stretch",
         "url": "https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX"
       },
@@ -115016,6 +115298,24 @@
       "duration_ms": 164601,
       "name": "Sunburnt Satellite",
       "url": "https://open.spotify.com/track/6UOPu68t2xakvjSWpf2gZT"
+    },
+    {
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
       "album": {
@@ -120927,6 +121227,24 @@
     },
     {
       "album": {
+        "name": "the white lines",
+        "url": "https://open.spotify.com/album/0VWJ2zcnEvAeSzcW1jDC7U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Borts",
+          "url": "https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "the white lines",
+      "url": "https://open.spotify.com/track/52yH7m5lvTd4xOIYjm8cup"
+    },
+    {
+      "album": {
         "name": "the world could end with you",
         "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
       },
@@ -123560,6 +123878,24 @@
       "duration_ms": 202851,
       "name": "Touche",
       "url": "https://open.spotify.com/track/4J7fXO87MTKKFLGzuUYAuP"
+    },
+    {
+      "album": {
+        "name": "touched by an angel",
+        "url": "https://open.spotify.com/album/2figa3s9C4LXryFSs3irMG"
+      },
+      "artists": [
+        {
+          "name": "Wet World",
+          "url": "https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247594,
+      "name": "touched by an angel",
+      "url": "https://open.spotify.com/track/0XcuXGPeTNTrcFej2Pv38u"
     },
     {
       "album": {
@@ -130391,6 +130727,24 @@
     },
     {
       "album": {
+        "name": "Weakness(is)",
+        "url": "https://open.spotify.com/album/447zutXkIMwPTj5csHd7a6"
+      },
+      "artists": [
+        {
+          "name": "Courtney Courtney",
+          "url": "https://open.spotify.com/artist/4C8ud3kCsv4Fce3hfSyTrj"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Weakness(is)",
+      "url": "https://open.spotify.com/track/5TT88dUcFBv1Y8bM9mQDEF"
+    },
+    {
+      "album": {
         "name": "Wear Me Down",
         "url": "https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN"
       },
@@ -132744,6 +133098,24 @@
       "duration_ms": 130742,
       "name": "Who",
       "url": "https://open.spotify.com/track/1E3u5YwynwrKVXxSzbjN6B"
+    },
+    {
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     },
     {
       "album": {
@@ -135514,6 +135886,24 @@
       "duration_ms": 241839,
       "name": "Yellow Daisies",
       "url": "https://open.spotify.com/track/59T4pIQ7MefF2zVbtdXELl"
+    },
+    {
+      "album": {
+        "name": "Yellow Light",
+        "url": "https://open.spotify.com/album/1SsMu9ZW0HpuM8KuKxf4KQ"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Yellow Light",
+      "url": "https://open.spotify.com/track/4q7tGoPa8TTFpMOLnu0Lwj"
     },
     {
       "album": {

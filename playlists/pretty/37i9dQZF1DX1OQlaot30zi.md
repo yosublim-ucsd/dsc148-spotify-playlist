@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Nayt, Lazza, Geolier, Néza, Plaza e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,127 likes - 91 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,140 likes - 91 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

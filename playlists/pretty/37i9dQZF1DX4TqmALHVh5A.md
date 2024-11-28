@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Liv Oddman
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,526 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,524 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 18 | [ami imaginaire](https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [ami imaginaire](https://open.spotify.com/album/0B7SOPumsN7vzJ7Ygo8Zet) | 3:31 |
 | 19 | [Between Love And Hate](https://open.spotify.com/track/4DbRJhWeAgFlYG7O9UHAJU) | [Entropie](https://open.spotify.com/artist/5zz3hrenMZn0uIE7aHQarB) | [DID](https://open.spotify.com/album/3LlwbCNSb0SgSVksGXgnwd) | 4:03 |
 | 20 | [The Mouse Song](https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [The Mouse Song](https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0) | 3:33 |
-| 21 | [Sourire à la mort](https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA), [Zzero](https://open.spotify.com/artist/2TSyPh1tPtbFXauzwu7Kq0), [Puff Natas](https://open.spotify.com/artist/2FKH5WgOBz0RfFbyeLMnQ8) | [Sourire à la mort](https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8) | 3:08 |
+| 21 | [Sourire à la mort](https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA), [ZZERO](https://open.spotify.com/artist/2TSyPh1tPtbFXauzwu7Kq0), [Puff Natas](https://open.spotify.com/artist/2FKH5WgOBz0RfFbyeLMnQ8) | [Sourire à la mort](https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8) | 3:08 |
 | 22 | [PTSMR](https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [PTSMR](https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J) | 3:00 |
 | 23 | [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 |
 | 24 | [Méchant garçon](https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h), [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Méchant garçon](https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ) | 2:56 |

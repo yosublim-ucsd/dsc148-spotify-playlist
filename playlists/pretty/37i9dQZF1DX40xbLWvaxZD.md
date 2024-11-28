@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,207 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,213 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 24 | [Bloody Moon](https://open.spotify.com/track/23kIep0hm2FEJ8pkHh6Rr7) | [GOSPELS OF JUDAS](https://open.spotify.com/artist/59BRLcy4SjxESP4kbUSuzk) | [IF](https://open.spotify.com/album/3Cm491VF4SVOLyuAJXRIyH) | 5:38 |
 | 25 | [ダイヤモンド・ダスト](https://open.spotify.com/track/3IzX4QRuZ96mNZI694do1k) | [Kyosuke Himuro](https://open.spotify.com/artist/0ZSqL5iXTuBWy7ur7vT2lP) | [Ballad 〜La Pluie](https://open.spotify.com/album/1Nm83HSg3sgmUzEhI9P1rv) | 5:11 |
 | 26 | [The Battle for the Dream](https://open.spotify.com/track/4Kkha4rMFoDlVEgYev7qz3) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [福山光晴](https://open.spotify.com/artist/6zzYZzyCOJVeKRfoDAp8JA) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.1 Revised Version\)](https://open.spotify.com/album/482MT3TLno3BQDNTSN38Y2) | 3:53 |
-| 27 | [Clock Strikes](https://open.spotify.com/track/1XPzVq4TS2D38MUb9uu0hi) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [人生×僕=](https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU) | 3:55 |
+| 27 | [Clock Strikes](https://open.spotify.com/track/1XPzVq4TS2D38MUb9uu0hi) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [人生×僕＝](https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU) | 3:55 |
 | 28 | [With You](https://open.spotify.com/track/0uPROYxV8Blcs3z72HDJmq) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [青木 千紘](https://open.spotify.com/artist/5YvgNxxPf7g5RuWvLmqrbW) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/55LLQDNzszX3nYaw9VXLeX) | 3:37 |
 | 29 | [バブル](https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [バブル](https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP) | 4:56 |
 | 30 | [紅](https://open.spotify.com/track/7Kyh4musIxUJhuhOVgR60f) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [湘南乃風 〜COME AGAIN〜](https://open.spotify.com/album/0rfIbXcXQYQDslQw1cvNPh) | 6:17 |

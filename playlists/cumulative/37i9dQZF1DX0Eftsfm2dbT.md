@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ANARCHY
 
-1,234 songs - 2 day 15 hr 12 min
+1,235 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1178,6 +1178,7 @@
 | [使命](https://open.spotify.com/track/1vXZePGZRY1CfUMqjZyI0e) | [DJ AKAKABE](https://open.spotify.com/artist/6bLGVTDGDceVj5AWqvgiMi), [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [熱くなろう! / 使命](https://open.spotify.com/album/3zVXXprviH9i724whHYoJW) | 5:18 | 2024-08-07 | 2024-08-21 |
 | [俺に言わせりゃ](https://open.spotify.com/track/4lu6ZZ0yDzIr08yXXafqBj) | [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Turnover](https://open.spotify.com/album/2gnkd0SuRDzzhGIzIzbaJ6) | 3:59 | 2024-11-27 |  |
 | [全部うまくいくように](https://open.spotify.com/track/48PHkb5YttY3XGZG4gayBB) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX), [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [22世紀計画](https://open.spotify.com/album/7KDIsUHFhvZ90SkCXwEnB5) | 2:06 | 2024-05-28 | 2024-07-03 |
+| [再周回](https://open.spotify.com/track/1g2lrE0CafBvcsjiiBbEor) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [再周回](https://open.spotify.com/album/1CUrcwDkeVDUpuVZRhvt0w) | 3:44 | 2024-11-27 |  |
 | [再生](https://open.spotify.com/track/69FGuX0qRbjZhN4guCQhrg) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [再生](https://open.spotify.com/album/7GZDR9oYWNg0zaz7VcOmEV) | 3:11 | 2024-06-11 | 2024-06-26 |
 | [凍京](https://open.spotify.com/track/0NhvXLchzEoKKElJGDsTCT) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [凍京](https://open.spotify.com/album/3gSwsUWse0y6OkU05vsL4D) | 2:25 | 2024-07-02 | 2024-08-14 |
 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 | 2024-07-16 | 2024-11-06 |

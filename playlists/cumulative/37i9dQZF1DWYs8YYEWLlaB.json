@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 224960,
       "name": "Benden Uzak Dur",
       "url": "https://open.spotify.com/track/2IAPQ0akP6TSqPUguuVkfn"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 140315,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
@@ -470,6 +470,24 @@
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
+    },
+    {
+      "album": {
+        "name": "Derdo",
+        "url": "https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218049,
+      "name": "Derdo",
+      "url": "https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN"
     },
     {
       "album": {
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Gece Film (Soundtrack)",
+        "url": "https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD"
+      },
+      "artists": [
+        {
+          "name": "Electro T\u00fclay",
+          "url": "https://open.spotify.com/artist/3nYlYKL8wcK4OertfuVsfl"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264920,
+      "name": "G\u00f6nl\u00fcm",
+      "url": "https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9"
+    },
+    {
+      "album": {
         "name": "G\u00f6r Bak",
         "url": "https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm"
       },
@@ -938,7 +974,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 147136,
       "name": "Kapak Olsun",
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
@@ -1145,6 +1181,32 @@
     },
     {
       "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "album": {
         "name": "Merhametsiz",
         "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
       },
@@ -1160,6 +1222,24 @@
       "duration_ms": 246494,
       "name": "Merhametsiz",
       "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
+    },
+    {
+      "album": {
+        "name": "Mevzu Derin",
+        "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
+      },
+      "artists": [
+        {
+          "name": "Soner Sar\u0131kabaday\u0131",
+          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Mevzu Derin",
+      "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
     },
     {
       "album": {
@@ -1210,7 +1290,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 256777,
       "name": "Numarac\u0131",
       "url": "https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL"

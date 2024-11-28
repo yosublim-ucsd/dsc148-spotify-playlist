@@ -5066,7 +5066,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 171250,
       "name": "Laykin",
       "url": "https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk"
@@ -7438,6 +7438,24 @@
       "duration_ms": 202514,
       "name": "Sochu",
       "url": "https://open.spotify.com/track/651OglmdGFaRT2W47hx696"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs"
+      },
+      "artists": [
+        {
+          "name": "Savneet Singh",
+          "url": "https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206101,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj"
     },
     {
       "album": {

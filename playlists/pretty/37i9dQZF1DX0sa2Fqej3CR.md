@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 901 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 902 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 6 | [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 |
 | 7 | [like my father](https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:58 |
 | 8 | [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 |
-| 9 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 |
+| 9 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 |
 | 10 | [엄마 생각 \- Other Version](https://open.spotify.com/track/0ls9JTv3X9QATrSQDdj56c) | [꼬마견\(Ggomagyun\)](https://open.spotify.com/artist/10w8K7zTMeKA1asBNvIGzG), [Yaein](https://open.spotify.com/artist/3ACBPowC8XZYkh4JjFzwgQ) | [Family Love](https://open.spotify.com/album/2OcBY84oimO731dGYSELhs) | 3:05 |
 | 11 | [Father \(Feat\. Ra.D\)](https://open.spotify.com/track/4M9GqvIXtqPADntPncPTfv) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:17 |
 | 12 | [Piggyback Ride \(Eobuba\)](https://open.spotify.com/track/7ta151FpY1tdSesH8tCPrm) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h), [Nada](https://open.spotify.com/artist/1YUbj9xRxaq0EoK5FRsS3U) | [MBN MISS BACK Part.2](https://open.spotify.com/album/016HQsnxsoYfT2RlO4659g) | 4:23 |

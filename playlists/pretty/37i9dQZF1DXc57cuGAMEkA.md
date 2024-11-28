@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tyla, Jorja Smith, ヨルシカ, キタニタツヤ, and more! cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,470 likes - 93 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,475 likes - 93 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 46 | [Cold Rain](https://open.spotify.com/track/6sGu3gCeYh6cSCFs6mE1Za) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Cold Rain](https://open.spotify.com/album/5TvxX2rWueaw0ZmwKAq6fL) | 3:55 |
 | 47 | [君とデート](https://open.spotify.com/track/08RwOcXdFCvy44zm1awpJh) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [君とデート](https://open.spotify.com/album/7vdj88FcBsYGcUDa4si9Zf) | 2:51 |
 | 48 | [Flower](https://open.spotify.com/track/5DZomUYgJ6AabMgn7V4mQN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Flower](https://open.spotify.com/album/4ItIxRLdNDoG4Z7hPk5rqC) | 2:42 |
-| 49 | [Touch \(Holiday Version\)](https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Count Baldor](https://open.spotify.com/artist/6PVWZrJ7N7zrg4Ljr6OfUN) | [Touch \(Holiday Version\)](https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC) | 2:10 |
+| 49 | [Touch \(Holiday Version\)](https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch \(Holiday Version\)](https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC) | 2:10 |
 | 50 | [Arigato Kokorokara](https://open.spotify.com/track/1GO6w3ACYzuxwKQqpVfeA1) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Arigato Kokorokara / Yuki 100%](https://open.spotify.com/album/3RyfiSEh3dqTai1GQPZqNp) | 3:49 |
 | 51 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 |
 | 52 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |

@@ -657,28 +657,6 @@
     },
     {
       "album": {
-        "name": "De\u0301jame Vivir",
-        "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Barajas",
-          "url": "https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP"
-        },
-        {
-          "name": "Natalia Aguilar",
-          "url": "https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV"
-        }
-      ],
-      "date_added": "2021-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 250880,
-      "name": "De\u0301jame Vivir",
-      "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
-    },
-    {
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -730,6 +708,28 @@
       "duration_ms": 203626,
       "name": "Diferentes",
       "url": "https://open.spotify.com/track/2cjxxNd9Tn5eMUSFazVq2d"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Barajas",
+          "url": "https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP"
+        },
+        {
+          "name": "Natalia Aguilar",
+          "url": "https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
     },
     {
       "album": {

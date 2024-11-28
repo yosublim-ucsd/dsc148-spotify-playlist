@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 110697,
+  "num_followers": 110714,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "\"Folon\".....The Past",
-        "url": "https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "The Best Of Victor Uwaifo, Vol. 1",
         "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
+        "name": "\"Folon\".....The Past",
+        "url": "https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b"
     },
     {
       "added_at": "2024-08-01 10:26:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,020 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,021 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 56 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
 | 57 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
 | 58 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
-| 59 | [Be Free \(feat\. Verbal Jint, Sean2Slow\)](https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [We Are Music](https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ) | 4:19 |
-| 60 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
+| 59 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
+| 60 | [Be Free \(feat\. Verbal Jint, Sean2Slow\)](https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [We Are Music](https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ) | 4:19 |
 | 61 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
 | 62 | [What U Write 4 \(Feat\. P\-Type & The Illest I.L.L.S.\) \- 2021 Remaster](https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [The Illest I.L.L.S.](https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:52 |
 | 63 | [박교주 전성시대](https://open.spotify.com/track/471yf20erR95AOOzVeGcZU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [Another Level](https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h) | 2:46 |

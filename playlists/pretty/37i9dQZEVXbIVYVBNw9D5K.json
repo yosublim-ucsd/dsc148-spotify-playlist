@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most played tracks right now - Turkey.",
-  "num_followers": 842631,
+  "num_followers": 842459,
   "original_name": "Top 50 - Turkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-26 13:01:40",
@@ -547,18 +547,10 @@
     {
       "added_at": "2024-11-26 13:01:40",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
         {
           "name": "Stromae",
           "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
@@ -566,17 +558,21 @@
         {
           "name": "Pomme",
           "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         }
       ],
       "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
       "added_at": "2024-11-26 13:01:40",
       "album": {
         "name": "Duydun Mu?",
-        "url": "https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ"
+        "url": "https://open.spotify.com/album/2jhvaNspa2Gh8LjDJ7vSnS"
       },
       "artists": [
         {
@@ -586,7 +582,7 @@
       ],
       "duration_ms": 221159,
       "name": "Duydun Mu?",
-      "url": "https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc"
+      "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
     },
     {
       "added_at": "2024-11-26 13:01:40",

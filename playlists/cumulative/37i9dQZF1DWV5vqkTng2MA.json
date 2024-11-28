@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 179506,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"
@@ -4790,6 +4790,24 @@
       "duration_ms": 190600,
       "name": "The Ruse",
       "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
+    },
+    {
+      "album": {
+        "name": "Strange Time To Be Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6jVGqA0LXYLY5AGwBXI2bh"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207018,
+      "name": "The Trouble With Redemption",
+      "url": "https://open.spotify.com/track/3CDP6MxdBXEtBbFxS9SaYv"
     },
     {
       "album": {

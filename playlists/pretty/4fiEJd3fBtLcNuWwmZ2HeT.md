@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 254 songs - 14 hr 29 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 253 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 22 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 |
 | 23 | [世界を壊している](https://open.spotify.com/track/0k6S71Qc4oKox0YVF2AWXh) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:29 |
 | 24 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 |
-| 25 | [ゴチャゴチャうるせー!](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 |
+| 25 | [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 |
 | 26 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
 | 27 | [脱獄](https://open.spotify.com/track/4xABbRQwAr4nFxdRYA6kbE) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:47 |
 | 28 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 |
@@ -253,14 +253,13 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 243 | [I want to be poisoned by you and drown](https://open.spotify.com/track/1EXISH6kISEMaqXAoD8uEO) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [I want to be poisoned by you and drown](https://open.spotify.com/album/165uzoJNb4F27IaludLZCU) | 2:12 |
 | 244 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 |
 | 245 | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/track/3LW4FCmPUAErFmMRDOhvE0) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/album/61hPWE3xufYcYjiqZGYHXp) | 2:03 |
-| 246 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 |
-| 247 | [指切り](https://open.spotify.com/track/4wpXmgzRjw7BPn98g9P97I) | [すこっぷ](https://open.spotify.com/artist/0nUd9oIcmVWMeYtx4sfJJv) | [指切り](https://open.spotify.com/album/4HCRzZ4VypUoEmHr5Pn04L) | 2:48 |
-| 248 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 |
-| 249 | [どろどろ](https://open.spotify.com/track/19t29QL6AooboodhvpetrU) | [吐息](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu) | [天使も悪魔もいないから 2](https://open.spotify.com/album/69zt6hXI7NtmUQrGJbBqad) | 1:35 |
-| 250 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 |
-| 251 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 |
-| 252 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 |
-| 253 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 |
-| 254 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
+| 246 | [指切り](https://open.spotify.com/track/4wpXmgzRjw7BPn98g9P97I) | [すこっぷ](https://open.spotify.com/artist/0nUd9oIcmVWMeYtx4sfJJv) | [指切り](https://open.spotify.com/album/4HCRzZ4VypUoEmHr5Pn04L) | 2:48 |
+| 247 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 |
+| 248 | [どろどろ](https://open.spotify.com/track/19t29QL6AooboodhvpetrU) | [吐息](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu) | [天使も悪魔もいないから 2](https://open.spotify.com/album/69zt6hXI7NtmUQrGJbBqad) | 1:35 |
+| 249 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 |
+| 250 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 |
+| 251 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 |
+| 252 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 |
+| 253 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
 
-Snapshot ID: `AAAI1VCpS3oL+SyitJfEOdfqwS0zGzFq`
+Snapshot ID: `AAAI1q22Oz3TFnMucl11I1/TfIS+E7t+`

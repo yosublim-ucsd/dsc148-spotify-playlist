@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,123 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,124 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 31 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 |
 | 32 | [泡吹](https://open.spotify.com/track/17nAb0ZqT4J6qnoXbPZ3jw) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [泡吹](https://open.spotify.com/album/4PYcHByJYp9cZvoHmT2sZL) | 3:43 |
 | 33 | [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 |
-| 34 | [帰路](https://open.spotify.com/track/4Zy2lbkoqJAfSa5OIQXt9g) | [峰清](https://open.spotify.com/artist/52rJAjMjyHHV4fQds4PBmt) | [帰路](https://open.spotify.com/album/4vwLTLlXmzCYCK4VxvyxGx) | 4:30 |
+| 34 | [帰路](https://open.spotify.com/track/4Zy2lbkoqJAfSa5OIQXt9g) | [峰清](https://open.spotify.com/artist/4VjS1iEsHgVYyQ73dMqZYt) | [帰路](https://open.spotify.com/album/4vwLTLlXmzCYCK4VxvyxGx) | 4:30 |
 | 35 | [アブラカタブラ](https://open.spotify.com/track/12yyNcfJMYfk9Bht74re7y) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [アブラカタブラ](https://open.spotify.com/album/3K5x7wSFvmEWk8pg4i7ara) | 3:44 |
 | 36 | [君の彼氏になりたい](https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [君の彼氏になりたい](https://open.spotify.com/album/5VlpDzBArKgiDPvQiYfKNq) | 3:40 |
 | 37 | [ロンリー](https://open.spotify.com/track/6maxEmVT2WdATAImTV927K) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [ロンリー](https://open.spotify.com/album/36rpNUWXJnX7awaCrtdxAl) | 2:02 |

@@ -8127,6 +8127,24 @@
     },
     {
       "album": {
+        "name": "Pair of Aces, Pt. 1",
+        "url": "https://open.spotify.com/album/4yR9WW3L9AdPfO0K2lL6Ak"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633359,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/2OygxxakjQDX5s3EFZAvJ9"
+    },
+    {
+      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -12588,7 +12606,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
@@ -15374,6 +15392,24 @@
       "duration_ms": 229522,
       "name": "SOUL4SALE (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/5EvWLvL5xHdXKdvGPEpZyz"
+    },
+    {
+      "album": {
+        "name": "ODDWORLD",
+        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "SOWHAT1999",
+      "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
     },
     {
       "album": {
@@ -18214,7 +18250,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 159220,
       "name": "Unbreakable - Reloaded",
       "url": "https://open.spotify.com/track/4LaCJo6KQzOkWHY3XxDk8Q"

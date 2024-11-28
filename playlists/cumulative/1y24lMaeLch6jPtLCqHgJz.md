@@ -4,7 +4,7 @@
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music
 
-378 songs - 19 hr 9 min
+379 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-11-21 | 2024-01-10 |
 | [At Night](https://open.spotify.com/track/2D9XsitJsf4ZpzLAeLDFVd) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [At Night](https://open.spotify.com/album/6kImPQjtwRJAuPzZWu3mNT) | 3:09 | 2023-11-02 |  |
 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 | 2024-08-17 |
+| [Aura](https://open.spotify.com/track/618MpkaRMLWDn7zrQDvnuE) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no) | [Aura](https://open.spotify.com/album/7yrESSptXZZDJxD2vAlG7j) | 3:44 | 2024-11-27 |  |
 | [Baby Don't Go](https://open.spotify.com/track/5QXGbNayCQ6JQEt8AN6zOt) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Baby Don't Go](https://open.spotify.com/album/7j0YEY6qCQnbkpGOCb0SYh) | 2:22 | 2024-06-20 | 2024-08-17 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-12-08 |  |
 | [Baby, We Go Fast](https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Baby, We Go Fast](https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB) | 3:30 | 2024-01-25 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-818 songs - 2 day 16 hr 28 min
+820 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Jooni Joonom](https://open.spotify.com/track/5KPqXgINJ8iux3GZgxTAvf) | [Leila Forouhar](https://open.spotify.com/artist/5DKMxoSsZBKkZG22hJHbfq) | [60 Leila Golden Songs, Vol 1 \- Persian Music](https://open.spotify.com/album/0UgLN6JsOqYpVfxPL3EWnY) | 4:22 | 2023-11-08 |  |
 | [Journey Of The Black Star](https://open.spotify.com/track/0EBeaxgP77W8PtR3yvShtP) | [Michael White](https://open.spotify.com/artist/1jPvp2HN1JDqrnjrR45Gld) | [Pneuma](https://open.spotify.com/album/2HIP1xE9p8zqP444WAJWnM) | 2:51 | 2022-11-28 |  |
 | [Kaes On Aeg](https://open.spotify.com/track/2Rt87txGAEFKxZCfdwhka7) | [Velly Joonas](https://open.spotify.com/artist/1WoU8lOx3E5zywST7ov4NL) | [Late Night Tales: Badbadnotgood](https://open.spotify.com/album/1J3enVyckc2vOR0xOK1jZX) | 2:52 | 2020-04-06 |  |
+| [Katarina, Katarina](https://open.spotify.com/track/3P6tp78NKjhldcTAdKlEKs) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Bem\-Vinda Amizade](https://open.spotify.com/album/1Dbn6bkxBBY8KsQYv85aRB) | 4:04 | 2024-11-27 |  |
 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 | 2021-09-19 |  |
 | [Khalas](https://open.spotify.com/track/2ybL8Dy1tXxmiRWpFueKqg) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:55 | 2020-11-18 |  |
 | [Khaleek Bilbait](https://open.spotify.com/track/66OfcmVdn21dawC2KvetVW) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:15 | 2023-01-09 |  |
@@ -390,6 +391,7 @@
 | [Loco](https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 5:25 | 2022-01-06 |  |
 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 | 2024-01-25 |  |
 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 | 2020-11-24 |  |
+| [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2024-11-27 |  |
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2020-06-11 |  |
 | [Love on the Sand](https://open.spotify.com/track/6G92PEEvTgJVWuCI7XECPL) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [A Trip Around the World](https://open.spotify.com/album/2YPRffE03kmLtsqaHn2w6v) | 3:43 | 2022-07-08 |  |
 | [Love Words](https://open.spotify.com/track/48ZhKhbBQFF5hTVvWRHZCa) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 4:42 | 2020-04-11 |  |

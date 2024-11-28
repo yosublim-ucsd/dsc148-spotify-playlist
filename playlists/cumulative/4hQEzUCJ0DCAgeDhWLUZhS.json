@@ -7629,6 +7629,24 @@
     },
     {
       "album": {
+        "name": "Vapes",
+        "url": "https://open.spotify.com/album/0qy4lAf7UWei3c40jfLWBN"
+      },
+      "artists": [
+        {
+          "name": "Brashs",
+          "url": "https://open.spotify.com/artist/1GBjCQqhEPn3vWsQYDi90Z"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Vapes",
+      "url": "https://open.spotify.com/track/4U3APnURFGyG3Z3kM3EaJB"
+    },
+    {
+      "album": {
         "name": "Ancient Dreams In A Modern Land",
         "url": "https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd"
       },

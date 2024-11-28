@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,292 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,316 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 21 | [Kaakkai Siraginile](https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 3:53 |
 | 22 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 |
 | 23 | [Nagavulu Nijamani \- Instrumental](https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 5:24 |
-| 24 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
+| 24 | [Kurai Onrum Illai \- Ragamalika \- Adi \(Live\)](https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Haridwaramangalam A.K\. Palanivel](https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7) | [Chinnajiru Kiliye \(Live\)](https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia) | 4:15 |
 | 25 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
-| 26 | [Kurai Onrum Illai \- Ragamalika \- Adi \(Live\)](https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Haridwaramangalam A.K\. Palanivel](https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7) | [Chinnajiru Kiliye \(Live\)](https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia) | 4:15 |
+| 26 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
 | 27 | [Annapoorne Visalakshi \(Raga: Sama; Tala: Adi\)](https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t) | [Sikkil Mala Chandrasekhar](https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo) | [Annapoorne Visalakshi \- Sikkil Mala Chandrasekhar](https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ) | 5:41 |
 | 28 | [Charukesi \(Violin Solo\)](https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:24 |
 | 29 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |

@@ -26389,6 +26389,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u5468\u56de",
+        "url": "https://open.spotify.com/album/1CUrcwDkeVDUpuVZRhvt0w"
+      },
+      "artists": [
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224794,
+      "name": "\u518d\u5468\u56de",
+      "url": "https://open.spotify.com/track/1g2lrE0CafBvcsjiiBbEor"
+    },
+    {
+      "album": {
         "name": "\u518d\u751f",
         "url": "https://open.spotify.com/album/7GZDR9oYWNg0zaz7VcOmEV"
       },

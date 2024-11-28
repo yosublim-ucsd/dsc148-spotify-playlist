@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 226588,
       "name": "Aasa Orave",
       "url": "https://open.spotify.com/track/6LT7bcpxRV7y2ipQbOvgka"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 229181,
       "name": "Daavudi (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/3CHY4MsKz8LpARTEqx8877"
@@ -12731,6 +12731,36 @@
     },
     {
       "album": {
+        "name": "Kadhal Theeradha (From \"Lara\")",
+        "url": "https://open.spotify.com/album/1LPS3pDw3xBekGyYHNvFoP"
+      },
+      "artists": [
+        {
+          "name": "Raghu Sravan Kumar",
+          "url": "https://open.spotify.com/artist/4shsgl44FArZtKjAPHPh1t"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        },
+        {
+          "name": "Karthikesan",
+          "url": "https://open.spotify.com/artist/6jFRjMewjDAcgbqJONGCoh"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Kadhal Theeradha (From \"Lara\")",
+      "url": "https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn"
+    },
+    {
+      "album": {
         "name": "Natchathiram Nagargirathu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml"
       },
@@ -15024,6 +15054,28 @@
       "duration_ms": 222206,
       "name": "Kolladhey",
       "url": "https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu"
+    },
+    {
+      "album": {
+        "name": "Maanavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ULwo6v5RPfWzPD6IZvU3J"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250363,
+      "name": "Kolluraale",
+      "url": "https://open.spotify.com/track/3yVMO1sbT6JHXNOPDwZADH"
     },
     {
       "album": {
@@ -23829,6 +23881,28 @@
     },
     {
       "album": {
+        "name": "Maanavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ULwo6v5RPfWzPD6IZvU3J"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Paaraai Paaraai",
+      "url": "https://open.spotify.com/track/2uYbvWorsJGlk662QmgTOz"
+    },
+    {
+      "album": {
         "name": "Paartha Nyabhagam (From \"Kolai\") - Single",
         "url": "https://open.spotify.com/album/6VNCXzImQUqraMLH2ygueg"
       },
@@ -25878,7 +25952,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 193469,
       "name": "Por Veeran (Azadi) (From \"Amaran\") (Tamil)",
       "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
@@ -31426,7 +31500,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 42365,
       "name": "The OG Thug (From \"Thug Life\")",
       "url": "https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN"

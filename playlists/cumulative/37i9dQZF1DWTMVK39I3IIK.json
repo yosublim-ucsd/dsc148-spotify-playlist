@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Crying In The Bathroom",
+        "url": "https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ"
+      },
+      "artists": [
+        {
+          "name": "june",
+          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166640,
+      "name": "Crying In The Bathroom",
+      "url": "https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR"
+    },
+    {
+      "album": {
         "name": "Caravan",
         "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
       },
@@ -636,7 +654,7 @@
           "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
         },
         {
-          "name": "Wads.png",
+          "name": "Wads",
           "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
         }
       ],
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 164523,
       "name": "I Wanna Dive in the Seven Seas",
       "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"

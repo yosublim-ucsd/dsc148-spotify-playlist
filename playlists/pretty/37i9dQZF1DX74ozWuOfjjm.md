@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,803 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,802 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 2 | [Ghost Of Us](https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Ghost Of Us](https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS) | 3:27 |
 | 3 | [KILLER!](https://open.spotify.com/track/62VMrTv6dQ4YCNP2GNPm8N) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr) | [KILLER!](https://open.spotify.com/album/2pmIzzuIMDDT1QoZl98eQU) | 3:25 |
 | 4 | [Heartstrings](https://open.spotify.com/track/21HCaGayxYiAokAHqydFur) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Heartstrings](https://open.spotify.com/album/2SF0yI3iKH5i3LHLo4bEFF) | 2:53 |
-| 5 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:24 |
+| 5 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 |
 | 6 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
 | 7 | [So Easy](https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C) | 3:28 |
 | 8 | [Michelle Obama](https://open.spotify.com/track/4H6QjtFXqdMCp1GvkGpzxC) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Michelle Obama](https://open.spotify.com/album/531LqMUQR26C1LLfnrsV9E) | 3:31 |

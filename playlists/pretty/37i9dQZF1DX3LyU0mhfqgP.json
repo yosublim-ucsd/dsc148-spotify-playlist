@@ -1,55 +1,31 @@
 {
   "description": "Songs from LGBTQIA+ artists, featuring highlights from the Transa compilation. Cover: Beverly Glenn-Copeland & Sam Smith",
-  "num_followers": 1080607,
+  "num_followers": 1080557,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzsW+QAAAABDHQr3x35P9c1nJNfkUr6C",
+  "snapshot_id": "Z0dG3wAAAADo+VycgvHoZyowzFcmg0TG",
   "tracks": [
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
-        "name": "Transa: Selects",
-        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
       },
       "artists": [
         {
-          "name": "Beverly Glenn-Copeland",
-          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 290001,
-      "name": "Ever New - Single Version",
-      "url": "https://open.spotify.com/track/4phgo7gXRpdu66hrLKtyM3"
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
-      "album": {
-        "name": "Transa: Selects",
-        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        },
-        {
-          "name": "Wendy & Lisa",
-          "url": "https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/77G475NhzNj9ulVQe5FZFH"
-    },
-    {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Cyan Blue",
         "url": "https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4"
@@ -65,7 +41,7 @@
       "url": "https://open.spotify.com/track/5PFNNFzXDmLBPrcmpO5EYW"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Punish",
         "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
@@ -81,7 +57,43 @@
       "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        }
+      ],
+      "duration_ms": 344714,
+      "name": "Ever New",
+      "url": "https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX"
+    },
+    {
+      "added_at": "2024-11-27 16:20:47",
+      "album": {
+        "name": "House With The Blue Door",
+        "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
+    },
+    {
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "SEASON I",
         "url": "https://open.spotify.com/album/561lG9BweytmTlZwizsJx3"
@@ -97,7 +109,23 @@
       "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
+      },
+      "artists": [
+        {
+          "name": "Craig Lucas",
+          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
+    },
+    {
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Transa: Selects",
         "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
@@ -125,55 +153,7 @@
       "url": "https://open.spotify.com/track/1IV5NFOcD05qO4bv0xAeaj"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
-      "album": {
-        "name": "House With The Blue Door",
-        "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
-    },
-    {
-      "added_at": "2024-11-12 05:00:00",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
-      },
-      "artists": [
-        {
-          "name": "Craig Lucas",
-          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
-    },
-    {
-      "added_at": "2024-11-12 05:00:00",
-      "album": {
-        "name": "Transa: Selects",
-        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 252889,
-      "name": "Young Lion",
-      "url": "https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ"
-    },
-    {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "EL NENE, VOL. 1",
         "url": "https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx"
@@ -193,7 +173,7 @@
       "url": "https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Stop Before It Starts",
         "url": "https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp"
@@ -209,7 +189,7 @@
       "url": "https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Doskonale",
         "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
@@ -225,7 +205,7 @@
       "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
@@ -241,7 +221,7 @@
       "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Transa: Selects",
         "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
@@ -257,7 +237,7 @@
       "url": "https://open.spotify.com/track/7mQ24tU0e1xZwl550Yhvzf"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
@@ -273,7 +253,7 @@
       "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
@@ -289,7 +269,23 @@
       "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
+      "album": {
+        "name": "Transa: Selects",
+        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 252889,
+      "name": "Young Lion",
+      "url": "https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ"
+    },
+    {
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -317,7 +313,7 @@
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Magnetic Field",
         "url": "https://open.spotify.com/album/0fHYpziHlPlbpOzoODFa2k"
@@ -333,7 +329,7 @@
       "url": "https://open.spotify.com/track/4AkhBdhZNpIs17kFG6B0dx"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Paris Hilton",
         "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
@@ -349,7 +345,7 @@
       "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2iryKfTuMMv8Bj34Legbwh"
@@ -365,7 +361,7 @@
       "url": "https://open.spotify.com/track/7C4BJqU5UYbcCph56UVWJO"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Tuttoscorre",
         "url": "https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH"
@@ -381,7 +377,7 @@
       "url": "https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "HYPOCRITE",
         "url": "https://open.spotify.com/album/1EuazudBc9kKhIPK0oThbO"
@@ -397,7 +393,7 @@
       "url": "https://open.spotify.com/track/3k2MD6jq9BAoNgYy85UBQH"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Sad Girl Era",
         "url": "https://open.spotify.com/album/2FHLOAMBVJ1AuHZYWERM6K"
@@ -413,7 +409,7 @@
       "url": "https://open.spotify.com/track/1xgBezvfQi39j9KWhg9lya"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Lunch At Dune",
         "url": "https://open.spotify.com/album/2xOtAm3st9TAxA6yys3vZb"
@@ -433,7 +429,27 @@
       "url": "https://open.spotify.com/track/0Bf7gUvoEmjK71L7PYhoUX"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
+      "album": {
+        "name": "Transa: Selects",
+        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        },
+        {
+          "name": "Wendy & Lisa",
+          "url": "https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/77G475NhzNj9ulVQe5FZFH"
+    },
+    {
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "NUOVOSPAZIOTEMPO",
         "url": "https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "GREEN GRASS",
         "url": "https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Pies na dw\u00f3ch \u0142apach",
         "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "One More Time (feat. Popstar)",
         "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "BRAND NEW BITCH",
         "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/77XFLtELsCZfkDST1eQB1s"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/138fmDmRZaO5nywfi1TyFi"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Jonny",
         "url": "https://open.spotify.com/album/5kb4iA44fvXteO1SII12ri"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/6D0uOc0DxoMwCnn0SPqZ0s"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Cosmic Silence (the enby song)",
         "url": "https://open.spotify.com/album/0mW9SJQIKEixwA7jusDZVL"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/7wn3gsCaWyGcbOE4mVUx8E"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
         "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Eurostar",
         "url": "https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Life's An Awful Mess",
         "url": "https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/5Xi8BklhDEkag3WBuX2cl1"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6g0kIfHxJCpNVFh8vROprd"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "love you more",
         "url": "https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/6lGyKdsX8VQpWIe6Bf3iaa"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "JOYRIDE",
         "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Madrid Sonora",
         "url": "https://open.spotify.com/album/0unH93ZPnjB9S0SmRkp8EG"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/4ij6ittTA5anRwdOjlAJ9R"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/65ocdKTGjti9ea5nNqaq4v"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "UFO RELIGION",
         "url": "https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/0Y4JJwScd8AMPlmFuwsppx"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "PEDRIN",
         "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Tytt\u00f6yst\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/1mcb7p1hHgV85NyPZvPpyL"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/1ZYdynsL0Js9Ha7C9h6XtW"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "Love Handles",
         "url": "https://open.spotify.com/album/5JoC1ArDhuxX0Rdy6oFEbw"
@@ -841,23 +857,7 @@
       "url": "https://open.spotify.com/track/1jIyEgxGzY6MPeFYShYhcU"
     },
     {
-      "added_at": "2024-11-12 05:00:00",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-11-12 05:00:00",
+      "added_at": "2024-11-27 16:20:47",
       "album": {
         "name": "talking to myself",
         "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"

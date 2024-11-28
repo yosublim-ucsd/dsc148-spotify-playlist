@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Annahstasia
 
-1,453 songs - 3 day 14 hr 32 min
+1,455 songs - 3 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Florida](https://open.spotify.com/track/7LI0A9HGjw38J0gJZeOqpZ) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Wellswood](https://open.spotify.com/album/0dGArczYsJKL5TqdFyxDyb) | 4:43 | 2022-11-30 | 2023-01-12 |
 | [Florida Honey](https://open.spotify.com/track/1tKyVj4ejDhDfcoOLNXCkp) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 2:18 | 2023-01-11 | 2023-02-23 |
 | [flower bed](https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT) | [Joei Razook](https://open.spotify.com/artist/7lKfXXpidmX8SAO3cEUrPr) | [flower bed](https://open.spotify.com/album/5ibsh6LBJZ481uwfyjDfvB) | 3:08 | 2023-04-12 | 2023-06-08 |
+| [Flowers Fell](https://open.spotify.com/track/5QnZ9eHpNQhqVvjd7mhFzP) | [Avery Friedman](https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG) | [Flowers Fell](https://open.spotify.com/album/7ze8W3JJR82KMGHcFl1S3f) | 4:28 | 2024-11-27 |  |
 | [Flowers in the Desert](https://open.spotify.com/track/0fNklgaxj7lySQtsXL9hTC) | [Drew Erwin](https://open.spotify.com/artist/2375stUa3UNtEAGG0F5XBc) | [Flowers in the Desert](https://open.spotify.com/album/6JVdXW7ThZqU2pg8qL2GUA) | 3:17 | 2023-08-02 | 2023-10-05 |
 | [Fool Me As Many Times As You Like](https://open.spotify.com/track/5qHKy3c40Ol2N80lEqQdHW) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Fool Me As Many Times As You Like](https://open.spotify.com/album/5bal1Q4TdPwgGIZbNoAf2C) | 5:12 | 2023-04-26 | 2023-06-15 |
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-10-02 |  |
@@ -707,6 +708,7 @@
 | [is there something for me?](https://open.spotify.com/track/3Jlh73nzDpIXkSnvZyOU1J) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [is there something for me?](https://open.spotify.com/album/7ECfin3AA5UE4lRbtEvzQx) | 2:39 | 2023-04-12 | 2023-06-08 |
 | [Islands](https://open.spotify.com/track/7Gxqbty6LFkCLpdWo8aSSd) | [Blonds](https://open.spotify.com/artist/2ZsLZ7HyeKAAGpBISlG4A5) | [Islands](https://open.spotify.com/album/3qUtotKz3qP2QehYjnKmS3) | 3:10 | 2024-01-10 | 2024-02-08 |
 | [Isn't It A Pity](https://open.spotify.com/track/28yHkfI9MSddss1VIpGrSm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:40 | 2022-10-26 | 2022-12-01 |
+| [It Can't Be Heartbreak If It's Not Love](https://open.spotify.com/track/6CpY8ATteXX2xOtYKc05fR) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It Can't Be Heartbreak If It's Not Love](https://open.spotify.com/album/6MScK2eZOqsJ7HvfmWUwsj) | 3:33 | 2024-11-27 |  |
 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 | 2023-10-04 | 2023-12-11 |
 | [It's Getting Brighter](https://open.spotify.com/track/6D6Ha0bBtOhIJEjCEZFAmc) | [sleep well.](https://open.spotify.com/artist/1NXvLZUU2sXwWRG1bm54Lj) | [It's Getting Brighter](https://open.spotify.com/album/5qwg79tb8u4yO4AdTIurhd) | 3:26 | 2024-01-10 | 2024-02-29 |
 | [It's Gonna Take Some Time](https://open.spotify.com/track/2mpLoW6FABTmFSDUwEjSqB) | [Schaefer Llana](https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq) | [It's Gonna Take Some Time](https://open.spotify.com/album/2hYOaBJ3oqvRfjhgnVLbvk) | 3:23 | 2022-11-09 | 2022-12-01 |

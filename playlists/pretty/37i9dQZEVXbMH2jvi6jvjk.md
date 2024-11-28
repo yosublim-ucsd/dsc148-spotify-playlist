@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,350 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,385 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 44 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 |
 | 45 | [Iza Mawala \(feat\. Dladla Mshunqisi & Goldmax\)](https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9) | [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Sly](https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Iza Mawala \(feat\. Dladla Mshunqisi & Goldmax\)](https://open.spotify.com/album/5EBJ5rZbVPpvhooXsDXP2g) | 6:35 |
 | 46 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 47 | [Let Me Love You](https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv) | 4:09 |
+| 47 | [Let Me Love You](https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp) | 4:09 |
 | 48 | [eGoli \(feat\. Eltee & Novatron\)](https://open.spotify.com/track/3mWu4sw2LsmNX4UBfhrvC1) | [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Eltee](https://open.spotify.com/artist/4mexy8G8bBE7SBuAzTBLYr), [Novatron](https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s) | [eGoli \(feat\. Eltee & Novatron\)](https://open.spotify.com/album/3IY6YKEqImAGM3hfoVO8W0) | 6:54 |
 | 49 | [Ncono Siyeke](https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ncono Siyeke](https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T) | 4:59 |
 | 50 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 
-Snapshot ID: `Ltk5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtqLIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

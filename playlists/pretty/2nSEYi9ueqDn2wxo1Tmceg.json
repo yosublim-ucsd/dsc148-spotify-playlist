@@ -1,15 +1,15 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67613,
+  "num_followers": 67618,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQPt/maz36nRcWSlW/uLcVKXK3Qasr",
+  "snapshot_id": "AAAQQDdGi6M8zidCbBLbkTyFwkghuJZX",
   "tracks": [
     {
-      "added_at": "2024-11-21 10:20:48",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Night Or Day",
-        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 201929,
-      "name": "Night Or Day",
-      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "UPWARDS",
-        "url": "https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 195802,
-      "name": "UPWARDS",
-      "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
-    },
-    {
-      "added_at": "2024-11-25 09:59:53",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Boxing Day sales",
         "url": "https://open.spotify.com/album/4CHbPhGxxnrpmc2N5oNpGA"
@@ -73,7 +41,23 @@
       "url": "https://open.spotify.com/track/1TdFnDGVbOGSqiq5LgxAqW"
     },
     {
-      "added_at": "2024-11-26 12:10:18",
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Nom Nom Nom / Cat Burglar",
         "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
@@ -93,7 +77,87 @@
       "url": "https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "Visions Of Pain (Tim Goldsworthy Remix)",
+        "url": "https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        {
+          "name": "Tim Goldsworthy",
+          "url": "https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc"
+        }
+      ],
+      "duration_ms": 446294,
+      "name": "Visions Of Pain - Tim Goldsworthy Remix",
+      "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "Didn't Need U Anyway",
+        "url": "https://open.spotify.com/album/3b0ZEhwSdEBByDAW8Jztuv"
+      },
+      "artists": [
+        {
+          "name": "Mun Sing",
+          "url": "https://open.spotify.com/artist/4i2WqYOYiN18NvrlWyNzfc"
+        },
+        {
+          "name": "Katy Ketani",
+          "url": "https://open.spotify.com/artist/1KbI3NrADfveX439QxMpj5"
+        }
+      ],
+      "duration_ms": 171564,
+      "name": "Didn't Need U Anyway",
+      "url": "https://open.spotify.com/track/1Szztl5VDUpqrmeB1JqDmf"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "UPWARDS",
+        "url": "https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 195802,
+      "name": "UPWARDS",
+      "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "Down Where The Valleys Are Low",
+        "url": "https://open.spotify.com/album/4vPtxrlyw4XK7Z0l5PYKed"
+      },
+      "artists": [
+        {
+          "name": "Asher White",
+          "url": "https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv"
+        },
+        {
+          "name": "Eli Winter",
+          "url": "https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11"
+        },
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 298717,
+      "name": "Down Where The Valleys Are Low",
+      "url": "https://open.spotify.com/track/5ptNyr1c4SH4wIEDk7kOR3"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Just Be Friends",
         "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
@@ -109,7 +173,23 @@
       "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
+      "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
+    },
+    {
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "for frank forever",
         "url": "https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp"
@@ -125,7 +205,7 @@
       "url": "https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "You Never End",
         "url": "https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9"
@@ -141,7 +221,7 @@
       "url": "https://open.spotify.com/track/3ldEcTJVxYIIgAyYtMTMHc"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Too Cold To Hold",
         "url": "https://open.spotify.com/album/4M5iN5GeHPwOGBRQw8JBxy"
@@ -157,7 +237,7 @@
       "url": "https://open.spotify.com/track/4LiwtekLNmPvuA7gYfuPAA"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/1rPuRrk8ArbVkZc3Phde3s"
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/3xobtE6FZBCCr46WR0OGCf"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Dance Of Love",
         "url": "https://open.spotify.com/album/1aA7OojB1z3TCyTWb65v2h"
@@ -193,7 +273,7 @@
       "url": "https://open.spotify.com/track/4v1iJtw7eco5J0H7DFRTui"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "The Laugh Is in the Eyes",
         "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Blue Desert",
         "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/1eKJJJcSzxvZw1cjGYe0O0"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "I'd Fly Tip For You",
         "url": "https://open.spotify.com/album/6nBcPnKUvN9K9p9Yk4j64I"
@@ -241,7 +321,7 @@
       "url": "https://open.spotify.com/track/2HoBinmo9MKPWsUssK2U9Y"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Catching a Stray",
         "url": "https://open.spotify.com/album/5zA0lgdJy1EyrAfXW5nZFf"
@@ -257,7 +337,7 @@
       "url": "https://open.spotify.com/track/0kr02mdAEivEmvPFU9rHCb"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Birth Of A Smirk",
         "url": "https://open.spotify.com/album/0MD4axHSt4v2Iz8BQ0m5bT"
@@ -277,7 +357,7 @@
       "url": "https://open.spotify.com/track/6IMy3IRAKEopI2KI78GMCf"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "2468",
         "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
@@ -293,7 +373,7 @@
       "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Smoke & Mirrors",
         "url": "https://open.spotify.com/album/0ljEwyBRhGnXmTrXlE1ROQ"
@@ -309,7 +389,7 @@
       "url": "https://open.spotify.com/track/39f1JIGA5Jed3ngMmbRe4I"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
         "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Crispy Skin",
         "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Indio",
         "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "John on the Ceiling",
         "url": "https://open.spotify.com/album/3nyceFRPsa3uKbY2i0oWTM"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/2JiZW02xDHJkoI6LQm9uPR"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/3irMUSoDur3DQylLZwrZHM"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Forever Held",
         "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
@@ -417,7 +497,7 @@
       "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "'Til I Come Around",
         "url": "https://open.spotify.com/album/3M9J7HOHDNf0CboCMSpOdi"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/02LqtUPTOQ8wcouIumUKQM"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Heavy Glory",
         "url": "https://open.spotify.com/album/2zh8YLgTukVMhUzLSRbNPd"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/0kNLf4wE1aLe2zL9n4TwBX"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Polytunnel",
         "url": "https://open.spotify.com/album/5vnNqEymI4mVzL9pMxPUBy"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/7x0juzokJaVB0EOlhRiec3"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Sa\u00e2da Bonaire",
         "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Fountain Of You",
         "url": "https://open.spotify.com/album/16ZxeA0JdIhrgeav9kiDcQ"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/0LAlvWPXtED1fMdqIzbYmj"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "This Is How We Walk On The Moon (feat. Tirzah)",
         "url": "https://open.spotify.com/album/2LpmvsHkzEBXNUPE0ZMW6l"
@@ -517,7 +597,7 @@
       "url": "https://open.spotify.com/track/6mJWE79oqFY6eKAasM8XcF"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
         "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
@@ -541,7 +621,7 @@
       "url": "https://open.spotify.com/track/2omeJgC9hH7hinmReYlnpx"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Deux Paradis",
         "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
@@ -557,7 +637,7 @@
       "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Waxwing",
         "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "INBETWEEZER",
         "url": "https://open.spotify.com/album/2zj4JjONfex1seMq5QWc0C"
@@ -589,7 +669,7 @@
       "url": "https://open.spotify.com/track/2jWc30rgp7Vg0GGK4Dz9d6"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Defense",
         "url": "https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27"
@@ -609,7 +689,7 @@
       "url": "https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Stadiums",
         "url": "https://open.spotify.com/album/22Cc3FXff1cE3RlCowrNUM"
@@ -625,7 +705,7 @@
       "url": "https://open.spotify.com/track/5BHUwhakTTiUeQfR3nktmg"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "New Internationale",
         "url": "https://open.spotify.com/album/1ZPLPEVm0f3SSBiDPJZjfx"
@@ -641,7 +721,7 @@
       "url": "https://open.spotify.com/track/4W5UMi4WqgYgk77NLNbIfj"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt"
@@ -657,7 +737,7 @@
       "url": "https://open.spotify.com/track/5zm4eqsPptfN7VDGpvIuCc"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Lion Rumpus",
         "url": "https://open.spotify.com/album/2FQlTOSIj5D5gQZh8DsRYr"
@@ -673,7 +753,7 @@
       "url": "https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "NoMoreLuv4u",
         "url": "https://open.spotify.com/album/2uYqyx1hSxvLwD2KvyF4Ao"
@@ -689,7 +769,7 @@
       "url": "https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Babychan (Paresse Remix)",
         "url": "https://open.spotify.com/album/492auvlgUYPDNEiX8wKWkt"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/3275TURQ2GdUTSOCw3tt1h"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Our Home",
         "url": "https://open.spotify.com/album/0uuO2TsNA6SLPxt6dWj9XI"
@@ -729,7 +809,7 @@
       "url": "https://open.spotify.com/track/12JnuOPmKnvhSKaaL13HTm"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Endless Rain",
         "url": "https://open.spotify.com/album/37G9jNIbXIQd96MhK2IqXp"
@@ -745,7 +825,7 @@
       "url": "https://open.spotify.com/track/5xUMXs2MsIKGg9VwHBgyV0"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Galactic Romance (Kiva Kiva Versio)",
         "url": "https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i"
@@ -765,7 +845,7 @@
       "url": "https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Casement",
         "url": "https://open.spotify.com/album/6yjIAYHXp4QQjmy1Bub5Rx"
@@ -781,7 +861,7 @@
       "url": "https://open.spotify.com/track/2QVhrLjYMoX0jSu03N4wlO"
     },
     {
-      "added_at": "2024-11-20 15:11:50",
+      "added_at": "2024-11-27 12:02:09",
       "album": {
         "name": "Graucha Max",
         "url": "https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn"
@@ -795,118 +875,6 @@
       "duration_ms": 335474,
       "name": "Graucha Max",
       "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "BROKEN",
-        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 271435,
-      "name": "BROKEN",
-      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Halftime",
-        "url": "https://open.spotify.com/album/1MQGTqZ2CQQxGEsTZpU1DU"
-      },
-      "artists": [
-        {
-          "name": "Xades",
-          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
-        }
-      ],
-      "duration_ms": 197375,
-      "name": "Halftime",
-      "url": "https://open.spotify.com/track/5pIUTjLUr3o2KqGYDMd9Ex"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Swansea",
-        "url": "https://open.spotify.com/album/1R1Kr7UHQ9PZL6DxgXbADT"
-      },
-      "artists": [
-        {
-          "name": "Ex-V\u00f6id",
-          "url": "https://open.spotify.com/artist/19tUwWHnSVp9UdgKveCtzJ"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Swansea",
-      "url": "https://open.spotify.com/track/0wlyxvIiW940XgB4DDVAUQ"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Freak Mode",
-        "url": "https://open.spotify.com/album/0saCV1FTXjurusb9kK5nwm"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 132933,
-      "name": "Freak Mode",
-      "url": "https://open.spotify.com/track/5GP0elNzD1nBFVNie9vy33"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Bimba",
-        "url": "https://open.spotify.com/album/29DB4wqTw4DkaJ7At8mpvM"
-      },
-      "artists": [
-        {
-          "name": "NaraBara",
-          "url": "https://open.spotify.com/artist/5ri5adkr8ualRheReGoFpc"
-        }
-      ],
-      "duration_ms": 238758,
-      "name": "Bimba",
-      "url": "https://open.spotify.com/track/5hIDN5upHgqKgUHQUHd2DQ"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5RMW3S2ZP6ndIYaZJfxZ2o"
-      },
-      "artists": [
-        {
-          "name": "Kassie Krut",
-          "url": "https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X"
-        }
-      ],
-      "duration_ms": 228622,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/4CP0pVsMhxvnRz7hs17SGz"
-    },
-    {
-      "added_at": "2024-11-20 15:11:50",
-      "album": {
-        "name": "New Life",
-        "url": "https://open.spotify.com/album/5ixcx3ff19X650QX4HcGgs"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 191584,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/1N5ThaYWVVdUedgebIHlRG"
     }
   ],
   "unique_name": "Domino Sound System",

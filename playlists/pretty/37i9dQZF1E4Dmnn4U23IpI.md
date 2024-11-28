@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, Gunship and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,872 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,878 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Only When It's Dark](https://open.spotify.com/track/05auOjVROFlChSRdINOGUr) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Sentimental](https://open.spotify.com/album/2n7yk5MepcS82A75Co2qKv) | 5:07 |
 | 50 | [Midnight FM](https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Midnight FM](https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le) | 3:58 |
 
-Snapshot ID: `Z0aGrwAAAADXkxoHc37c6ILjc6VqH18J`
+Snapshot ID: `Z0fSlgAAAADD2uJVHkeKh4oXQaqQZ8xb`

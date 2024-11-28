@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,025 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,260 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 6 | [DJ Play A Christmas Song](https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [DJ Play A Christmas Song](https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s) | 4:02 |
 | 7 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
 | 8 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
-| 9 | [Touch \(Holiday Version\)](https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Count Baldor](https://open.spotify.com/artist/6PVWZrJ7N7zrg4Ljr6OfUN) | [Touch \(Holiday Version\)](https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC) | 2:10 |
+| 9 | [Touch \(Holiday Version\)](https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch \(Holiday Version\)](https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC) | 2:10 |
 | 10 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 11 | [Mistletoe](https://open.spotify.com/track/6Z0pjURlamA464rYvxhV18) | [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [HBM Presents: Sleigh The Holidays, Volume 1](https://open.spotify.com/album/5IDVJc3tRD4gnjojZHKvxP) | 3:01 |
 | 12 | [Snow Globe](https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Snow Globe](https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj) | 3:21 |

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,084 songs - 11 day 4 hr 33 min
+7,085 songs - 11 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1946,6 +1946,7 @@
 | [Everything Is Calm](https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN), [Taranczewski](https://open.spotify.com/artist/64amSSHhJP5ZtaaYxFKgb5) | [Everything Is Calm](https://open.spotify.com/album/2Q6VgJGBArEegBfrnZ6tKn) | 2:24 | 2023-03-16 | 2023-09-29 |
 | [EVOLVE](https://open.spotify.com/track/5EHDA0A0Srz6hDQl5KHpOJ) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [EVOLVE](https://open.spotify.com/album/2TsmprRRiOy7tqqAhqWFbH) | 2:02 | 2024-05-24 | 2024-06-04 |
 | [Exhale](https://open.spotify.com/track/59FRrPKwRUonc05ZrxXv1i) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Exhale](https://open.spotify.com/album/6l715y22gn98BnokxOrqNX) | 1:59 | 2022-08-26 | 2022-12-03 |
+| [exhibit](https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhibit](https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp) | 2:29 | 2024-11-22 |  |
 | [exit here](https://open.spotify.com/track/3WI9cGxs5BEMre9qpNXlVZ) | [solae](https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4) | [reunion](https://open.spotify.com/album/6mEiUNuRfKOnRvwHcDFSMz) | 2:38 | 2022-04-08 | 2022-09-02 |
 | [Exit: Planet Wave](https://open.spotify.com/track/3T5TtKSyEtiCtwiYN5q56k) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Exit: Planet Wave](https://open.spotify.com/album/0rHMLKeEo3DK8Bxvt2qJsm) | 2:57 | 2022-11-11 | 2023-03-18 |
 | [Exklusive Mermaid](https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp) | [Hurricana Life](https://open.spotify.com/artist/0Kcx1vBedIEV2q1zAbzeyk) | [Exklusive Mermaid](https://open.spotify.com/album/1RgNgfXKEUaV4cxCcYHUvy) | 1:43 | 2022-02-25 |  |
@@ -5400,7 +5401,7 @@
 | [Sightseeing \- Spotify Singles](https://open.spotify.com/track/6hyBixOyKG0NCIiQxN2utY) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 4:20 | 2022-05-04 | 2022-08-27 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-04-17 | 2022-01-14 |
 | [Signs](https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Signs](https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N) | 3:20 | 2019-05-27 | 2019-11-08 |
-| [Signs](https://open.spotify.com/track/7nB3T5DhVJWafsWsWIUCXO) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Signs](https://open.spotify.com/album/469tq1BR7TXKXQJYgFwsHo) | 2:30 | 2024-02-02 |  |
+| [Signs](https://open.spotify.com/track/7nB3T5DhVJWafsWsWIUCXO) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Signs](https://open.spotify.com/album/469tq1BR7TXKXQJYgFwsHo) | 2:30 | 2024-02-02 | 2024-11-28 |
 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 | 2023-11-10 |  |
 | [Silence](https://open.spotify.com/track/6pGldgJpE1s0M83rksHHqr) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Silence](https://open.spotify.com/album/5ayHL3qDCkZZUBSdprKNrA) | 1:49 | 2023-03-08 | 2024-01-05 |
 | [Silent Sunset](https://open.spotify.com/track/6gXCH7itgW81WVh7SuT8qk) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ), [Taras B.](https://open.spotify.com/artist/2ubyJC8vE6FxT7ulpyz7Qt) | [Silent Sunset](https://open.spotify.com/album/32Gga0Xez0ZkrASPnimHox) | 2:00 | 2022-07-15 | 2022-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,940 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,948 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 3 | [9INTRO](https://open.spotify.com/track/6Q9bzJRs0U0rLV0FRZom6d) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:46 |
 | 4 | [Celeb](https://open.spotify.com/track/3F7ONltjlWoXuvpzK01YSK) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:19 |
 | 5 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:40 |
-| 6 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:05 |
+| 6 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:05 |
 | 7 | [GANJI \(feat\. Jessi\)](https://open.spotify.com/track/5FiQiVebbjWgrV9sMFJ9aa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:51 |
 | 8 | [Now \(feat\. Hwa Sa\)](https://open.spotify.com/track/3tXzsm4d0w4w1Dyx7Eo88g) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:27 |
 | 9 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/6idH1Qz9jcXzKcZeNIa9uU) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 4:11 |

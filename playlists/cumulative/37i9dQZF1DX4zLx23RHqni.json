@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Kaadhal Alaipayuthey",
+        "url": "https://open.spotify.com/album/4xZOOlqlaIY9CZcwt2Rjjn"
+      },
+      "artists": [
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "Kaadhal Alaipayuthey",
+      "url": "https://open.spotify.com/track/0gn50It1wJxkhAn7IQe5XS"
+    },
+    {
+      "album": {
         "name": "Kaadhalae Thalli Pogadhae - Single",
         "url": "https://open.spotify.com/album/3ctUBiDN7Wibe8uT6yBmf8"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 210104,
       "name": "Nin Kannin - Ambient Version",
       "url": "https://open.spotify.com/track/5Vu4diOCD4PPirW1uK7g40"

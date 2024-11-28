@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > il pop è un  mega caleidoscopio 🏵️ cover: Ottobre ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,220 likes - 73 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,224 likes - 73 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

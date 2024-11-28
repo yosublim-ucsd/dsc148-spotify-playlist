@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 610389,
+  "num_followers": 610409,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 210174,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     }
   ],
   "unique_name": "Country Rocks",

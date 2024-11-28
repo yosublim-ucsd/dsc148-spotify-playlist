@@ -4,7 +4,7 @@
 
 > 
 
-2,024 songs - 4 day 12 hr 40 min
+2,025 songs - 4 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Flockflockflock](https://open.spotify.com/track/1CDnyainFHx8URkuFiR3KH) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:21 | 2021-08-05 |  |
 | [Florida Kilos](https://open.spotify.com/track/6sFI9u5d9BN6aixR0ttOqL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/2FAym5mbg597mlqhfwGx13) | 4:16 | 2022-04-20 |  |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2022-04-05 |  |
+| [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2024-11-27 |  |
 | [Fly \- FKJ Remix](https://open.spotify.com/track/2cbWaw8K4fKvR9kgBg3ugq) | [June Marieezy](https://open.spotify.com/artist/538d30rb03lrsD9u8Yipar), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Fly \(The Remixes\)](https://open.spotify.com/album/42kuwlXkfhDrH6mvH53EL7) | 4:12 | 2021-08-05 |  |
 | [For the Departed](https://open.spotify.com/track/5BZp6bbnf3BQ2s9YGkQMpV) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:40 | 2022-11-10 |  |
 | [For the Last Time](https://open.spotify.com/track/240audWazVjwvwh7XwfSZE) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [For the Last Time](https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR) | 2:36 | 2021-08-05 |  |

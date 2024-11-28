@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-465 songs - 1 day 4 hr 33 min
+466 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,13 +398,14 @@
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-20 |  |
 | [The Message](https://open.spotify.com/track/1L6cVfyVnlkd3Heg8Ylb0M) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The Message](https://open.spotify.com/album/6eYurS4v6bT0aOsnXwYnVa) | 4:10 | 2022-02-17 | 2022-07-28 |
 | [The Message](https://open.spotify.com/track/4coCk3GIa2lYd2y5uySZja) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:10 | 2022-06-22 | 2022-10-07 |
-| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 |  |
+| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 | 2024-11-28 |
 | [The Other Side](https://open.spotify.com/track/6QQhvz6gvWh6r9SJLkWDPi) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Other Side](https://open.spotify.com/album/1h1lCBNb4OinPezoP17VBW) | 3:38 | 2022-03-03 | 2022-06-03 |
 | [The People's Changes](https://open.spotify.com/track/7uYrtiRSwgK6KccFG9iJo7) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matt Dal Din](https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX), [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Aron Ottignon](https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV) | [The People's Changes](https://open.spotify.com/album/7pMXg7uSgfZTt3lNYksc64) | 3:42 | 2022-02-17 | 2022-12-16 |
 | [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 | 2022-06-22 | 2023-03-21 |
 | [The Resurrection](https://open.spotify.com/track/4QPbdYWhalTiDZBi9ZSXhG) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/2wgZU2AxlsOPBeWV3h6HUd) | 4:03 | 2022-03-31 | 2022-07-29 |
 | [The Sun's Awake](https://open.spotify.com/track/6xdgKaUtzKkXCbn1eK0dTg) | [Russell Rozenbaum](https://open.spotify.com/artist/3ms9IQtzjX0cUTw078KalY) | [Timeless Cafe](https://open.spotify.com/album/6m2qwDFCLB418aGRgu2bqK) | 2:17 | 2022-06-16 | 2023-03-21 |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2022-06-02 | 2022-11-20 |
+| [The Way You Look Tonight](https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [The Way You Look Tonight](https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11) | 3:54 | 2024-11-18 |  |
 | [The Wind](https://open.spotify.com/track/30f3b4Ths4zd2na9tip4CP) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [The Wind](https://open.spotify.com/album/1uMrSU3YkCa8yP9ymLFaTd) | 2:12 | 2023-03-24 | 2023-05-05 |
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |

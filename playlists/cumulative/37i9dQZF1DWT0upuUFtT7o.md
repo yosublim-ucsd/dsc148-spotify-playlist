@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover:  Haute & Freddy
 
-2,886 songs - 6 day 15 hr 31 min
+2,890 songs - 6 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Bobby](https://open.spotify.com/track/1CYrOahjNKvUshii3vqQ1o) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Bobby](https://open.spotify.com/album/4IlD8dZVC7hLmUZR289g2q) | 4:07 | 2023-08-23 | 2023-09-21 |
 | [bodies](https://open.spotify.com/track/3HWT8fY7SF3UZQdblusfI8) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [Secret Third Thing](https://open.spotify.com/album/5nRdGKFyU0RAz0HCObmLee) | 3:02 | 2023-01-11 | 2023-02-16 |
 | [Body](https://open.spotify.com/track/5fGROnVQVSqJrLR9AHSbjJ) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Body](https://open.spotify.com/album/3rmtAtgfjpik3JanGZWQFi) | 2:35 | 2023-06-14 | 2023-06-28 |
+| [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-27 |  |
 | [Bolo Tie](https://open.spotify.com/track/5CykahcOwsoqTEEyj7m6eq) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2) | [Bolo Tie](https://open.spotify.com/album/2TNwFrSxUrDJ47YoDw6cZ2) | 3:17 | 2023-02-01 | 2023-03-02 |
 | [Bon Bon](https://open.spotify.com/track/6CWvAjwzYoALz72oDqgdzm) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 3:30 | 2024-09-11 | 2024-10-17 |
 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 | 2023-01-18 | 2023-03-02 |
@@ -985,6 +986,7 @@
 | [Go!](https://open.spotify.com/track/5AARofyviyJx6k9A6L7vuS) | [The Angles](https://open.spotify.com/artist/06eL99hHwD6Z2KAD9JXjJw) | [Go!](https://open.spotify.com/album/1UkLtLh9ygQClGETxsQBTv) | 3:13 | 2023-02-15 | 2023-03-23 |
 | [God Bite](https://open.spotify.com/track/6PRkr8Z1mwcGShsQvZFGxF) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [God Bite](https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV) | 2:45 | 2022-11-09 | 2022-12-01 |
 | [GOD INSIDE A HUMAN MACHINE](https://open.spotify.com/track/2TrVp4q1tuIXmOdRzCosMN) | [cool sorcery](https://open.spotify.com/artist/2ql2HUwWCBWJ6mRPX3lIA4) | [GOD INSIDE A HUMAN MACHINE](https://open.spotify.com/album/1rM5dgYSZk1yGjqafhgk8A) | 1:30 | 2023-07-19 | 2023-08-24 |
+| [god loves a trier](https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [god loves a trier](https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii) | 2:27 | 2024-11-27 |  |
 | [Godard The Director](https://open.spotify.com/track/7DINGLhXq3j4g6SoK7wgZr) | [sandy crow](https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC) | [Godard The Director](https://open.spotify.com/album/60emmlz3sibbVamREfBVnB) | 2:00 | 2024-07-10 | 2024-09-05 |
 | [Goddess](https://open.spotify.com/track/0mlzyhSPLBbHc9XD4Nx3S3) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [Goddess](https://open.spotify.com/album/0xQcwc4n8pxAPVtJENtT2L) | 4:00 | 2023-09-13 | 2023-11-09 |
 | [Goin' in Circles](https://open.spotify.com/track/652sE2HyWSQDYFZY0mYCp2) | [Daisies](https://open.spotify.com/artist/1blgyRhlGKEz9giyB0Pejv) | [Goin' in Circles](https://open.spotify.com/album/5cFZW2Z65y8NPuJB5fMUb3) | 3:43 | 2023-04-05 | 2023-04-20 |
@@ -2525,6 +2527,7 @@
 | [The Visitation](https://open.spotify.com/track/7c4T0WGil3iBfVtfMXxU2T) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Jon Nellen](https://open.spotify.com/artist/68eXZPcc2MQ1xEbwQ0M1Gn) | [The Visitation](https://open.spotify.com/album/33LAgAXSxNEHqeX1AKykTt) | 3:04 | 2023-03-01 | 2023-03-23 |
 | [The Way It Goes](https://open.spotify.com/track/4qHYTQ3aoUXegLFXQUWtcK) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Soon We'll All Be Smoking](https://open.spotify.com/album/0NiTx4og5ObpzpfY13SG5W) | 2:54 | 2024-07-31 | 2024-10-10 |
 | [the way you looked](https://open.spotify.com/track/5AcBzZhAOexsSNfiNzUw32) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked, and](https://open.spotify.com/album/0z3sQBOjbmU7b0ffCiOS1B) | 4:47 | 2023-05-03 | 2023-06-08 |
+| [the white lines](https://open.spotify.com/track/52yH7m5lvTd4xOIYjm8cup) | [Harrison Borts](https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv) | [the white lines](https://open.spotify.com/album/0VWJ2zcnEvAeSzcW1jDC7U) | 2:43 | 2024-11-27 |  |
 | [The Woman](https://open.spotify.com/track/248o3wN7UDc0p63BJsruRx) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [The Woman](https://open.spotify.com/album/2UGZiCLMKJMgyppfPWKgVb) | 3:05 | 2023-11-15 | 2023-11-30 |
 | [The Year I Felt Cool](https://open.spotify.com/track/3YDBE5D40lspp85bmBwQFI) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [The Year I Felt Cool](https://open.spotify.com/album/7fRvd5vTIXYAhXfxNhEXXw) | 4:08 | 2023-03-15 | 2023-04-06 |
 | [therapy](https://open.spotify.com/track/49JbiWqd2bINwP1No7x3aD) | [Bathtub Cig](https://open.spotify.com/artist/36OSPlIMogn7w28xGz8keY) | [therapy](https://open.spotify.com/album/6uPxjrsU1DztGL3ORoQIHG) | 1:59 | 2022-01-12 | 2022-02-10 |
@@ -2853,6 +2856,7 @@
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-09 |  |
 | [Ye Old Man](https://open.spotify.com/track/7L6DW04d2MzlVwmROCAQUh) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/2xIGwq94Eu3mfEEEQ5piYi) | 2:03 | 2023-01-11 | 2023-02-02 |
 | [YEARS WASTED](https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [YEARS WASTED](https://open.spotify.com/album/2Vmq3WW4nYoa6mxE4LjVbX) | 2:24 | 2022-02-09 | 2022-03-17 |
+| [Yellow Light](https://open.spotify.com/track/4q7tGoPa8TTFpMOLnu0Lwj) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Yellow Light](https://open.spotify.com/album/1SsMu9ZW0HpuM8KuKxf4KQ) | 3:04 | 2024-11-27 |  |
 | [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 | 2024-02-01 | 2024-03-07 |
 | [Yesterday's Toy](https://open.spotify.com/track/6ZMAkKjBEQLv5DoGSxiv73) | [Shallowhalo](https://open.spotify.com/artist/302pglvxOK8fDRZTsNoAgq) | [No Fun](https://open.spotify.com/album/6IzE4FQ4qNpv3qVi3PCapf) | 3:18 | 2022-07-14 | 2022-07-16 |
 | [Yet I Dream](https://open.spotify.com/track/3AEIFRn8n4ZmawWdKmTXXx) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Yet I Dream](https://open.spotify.com/album/6am1UcW6JlIXktdv9y3Pz8) | 2:44 | 2024-10-09 | 2024-11-21 |

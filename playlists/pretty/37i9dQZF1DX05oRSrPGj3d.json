@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 270635,
+  "num_followers": 270702,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Wave On Wave",
-        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 244373,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Wave On Wave",
+        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
+      "duration_ms": 244373,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Resurrection EP",
-        "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
-      },
-      "artists": [
-        {
-          "name": "Seven Miles South",
-          "url": "https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Texas Rain",
-      "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Resurrection EP",
+        "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
+      },
+      "artists": [
+        {
+          "name": "Seven Miles South",
+          "url": "https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Texas Rain",
+      "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Burning The Day",
         "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 281653,
       "name": "Interstate",
       "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Mr. Bojangles",
-        "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jeff Walker",
-          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
-        }
-      ],
-      "duration_ms": 328146,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Tails I Lose",
         "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "duration_ms": 328146,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Brand New Me",
-        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
-      },
-      "artists": [
-        {
-          "name": "Cory Morrow",
-          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Don't Forget Where You Come From",
         "url": "https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
+      },
+      "artists": [
+        {
+          "name": "Cory Morrow",
+          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
     },
     {
       "added_at": "2024-07-05 20:39:25",

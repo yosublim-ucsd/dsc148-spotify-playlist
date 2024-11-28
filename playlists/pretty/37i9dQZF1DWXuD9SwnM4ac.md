@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Hope D
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,387 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,407 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 17 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
 | 18 | [Lewps](https://open.spotify.com/track/2Nuv2gVkBhaCn9xW9J1QIk) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lewps](https://open.spotify.com/album/6xccvovJvFSK4UXyQtYkOH) | 2:58 |
 | 19 | [Sell My Soul](https://open.spotify.com/track/4qKWscqhtPthPd30Mw1VCg) | [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM) | [Sell My Soul](https://open.spotify.com/album/7LWNhloebJVLmQZDbzdFt5) | 3:20 |
-| 20 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:24 |
+| 20 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 |
 | 21 | [Seahorses](https://open.spotify.com/track/3lfYwz6hv1BbzaPtVWNgL9) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [Seahorses](https://open.spotify.com/album/6wR7X7whM8IEHMk0OwWUH2) | 3:04 |
 | 22 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
 | 23 | [golden rule](https://open.spotify.com/track/6orIhSzgoqm0O1jW8KsFHN) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [golden rule](https://open.spotify.com/album/4423bnRVvWzpAwLPwHsC8a) | 2:54 |

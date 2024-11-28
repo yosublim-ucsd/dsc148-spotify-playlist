@@ -1,6 +1,6 @@
 {
   "description": "Geolier in cover + le migliori uscite di questa settimana!",
-  "num_followers": 319929,
+  "num_followers": 319954,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
         }
       ],
       "duration_ms": 220043,

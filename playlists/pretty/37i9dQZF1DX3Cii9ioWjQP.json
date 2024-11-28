@@ -1,15 +1,51 @@
 {
-  "description": "All about Korean Jazz hits & new (Cover: SHUYA(\uc288\uc57c))",
-  "num_followers": 21391,
+  "description": "All about Korean Jazz hits & new (Cover: Luca minor)",
+  "num_followers": 21403,
   "original_name": "Jazzy Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywiTAAAAACDXu4dqDQ6TBf5o2Cfl+yN",
+  "snapshot_id": "Z0bCzwAAAAA8jAwO6Bo40Wk8+T0w48wg",
   "tracks": [
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
+      "album": {
+        "name": "romanticismo",
+        "url": "https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg"
+      },
+      "artists": [
+        {
+          "name": "Luca minor",
+          "url": "https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "romanticismo",
+      "url": "https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR"
+    },
+    {
+      "added_at": "2024-11-27 06:57:19",
+      "album": {
+        "name": "The Night View In Seoul (Feat. Ahn Seo Jin) [Big Band ver.]",
+        "url": "https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f"
+      },
+      "artists": [
+        {
+          "name": "Yoo Geunho",
+          "url": "https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g"
+        },
+        {
+          "name": "Ahn Seo Jin",
+          "url": "https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "The Night View In Seoul (Feat. Ahn Seo Jin) - Big Band ver.",
+      "url": "https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul"
+    },
+    {
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Things I Love",
         "url": "https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me"
@@ -25,7 +61,7 @@
       "url": "https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Michael Bender Big Band : Feast Of Jazz",
         "url": "https://open.spotify.com/album/6xUUwSnK5MvA4dhfsxMdKR"
@@ -41,7 +77,7 @@
       "url": "https://open.spotify.com/track/3LnrTczveIzEqxAr74aY52"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Sae jip da oh",
         "url": "https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/1QOrJBxHzCW74wFYDh8rxe"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Impatient",
         "url": "https://open.spotify.com/album/3qBZXH0Exl3yFx6Ue2w9pn"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/7odKBZr3NcHzff5ZEEZpCl"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Soft Swing Jazz Piano",
         "url": "https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "BLUFF",
         "url": "https://open.spotify.com/album/0D5vrxdURqpeLD63v8BCWL"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/6ByYCzySGJ0zfQus2J4NKc"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Letter",
         "url": "https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "MuRR P84. Journey Through Autumn",
         "url": "https://open.spotify.com/album/2BGQGDtlSCfhBYBTNrGKNv"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "bye summer",
         "url": "https://open.spotify.com/album/3zWePPmeOOZVOjLMWsPqRv"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/61CZH3oXQ7pkcTCwo1MoXa"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Modalism",
         "url": "https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "dudndudndudn",
         "url": "https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Fine waltz",
         "url": "https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Woo-Woo-Ah-Ah",
         "url": "https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "\ud55c\uac00\uc704 \ube14\ub8e8\uc2a4",
         "url": "https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4HYMYaXJfzGhBHS6pPkdui"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/1diaSeNj5bvc48mTGrabJQ"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/3Z1KCZyrhWSCXkO19acBA8"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/0OevcboX4JSYxC2o9RtOOm"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "\uc774\uc0c1\uc544\uc758 \uc7ac\uc988&\ud53c\uc544\ub178 Pt.2",
         "url": "https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "BOSSA",
         "url": "https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE"
@@ -301,7 +337,7 @@
       "url": "https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "My summer's not over yet",
         "url": "https://open.spotify.com/album/1bEhI89GMah1UU96sfAQFb"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag"
@@ -337,7 +373,7 @@
       "url": "https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Supernova (Jazz Version)",
         "url": "https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7"
@@ -353,7 +389,7 @@
       "url": "https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "JAZZSTRA Live in Seoul",
         "url": "https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Prologue : Hope",
         "url": "https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "visitor",
         "url": "https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Romantic Slow Jazz Piano",
         "url": "https://open.spotify.com/album/4ns5qsQplj2MR9Dv2dsAmN"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Research Daily 2",
         "url": "https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2Yf93imyiTFQajsE5BYvux"
@@ -449,7 +485,7 @@
       "url": "https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Puddle",
         "url": "https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "love nwantiti",
         "url": "https://open.spotify.com/album/1uWWEYIJdIencEhnfQiEXt"
@@ -485,7 +521,7 @@
       "url": "https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Parasol Violet",
         "url": "https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D"
@@ -501,7 +537,7 @@
       "url": "https://open.spotify.com/track/50xIhpMuGbJD6ZGVUoRjaO"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Take a Break",
         "url": "https://open.spotify.com/album/0aEMu0UemoafzHBLiRHX96"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/5fjY9RhBP29AYMPaWLcq1V"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Romantic Bossa Nova Jazz",
         "url": "https://open.spotify.com/album/39MI6zpDha8UnD2BTDdm3v"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/1CpFmDDFvPvKP386r04vNV"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Parasol Violet",
         "url": "https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D"
@@ -553,7 +589,7 @@
       "url": "https://open.spotify.com/track/34K57qXV5vNW7DmCSau8TH"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/118mcL5m0P2Ve2Gietl36B"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "DUO",
         "url": "https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/0p17w3kRTTtLI2PBfqP9PN"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Audrey",
         "url": "https://open.spotify.com/album/5HTXudQOdLtmZvDNawqwMW"
@@ -669,23 +705,7 @@
       "url": "https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
-      "album": {
-        "name": "Dear Mozart",
-        "url": "https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72"
-      },
-      "artists": [
-        {
-          "name": "Shin Hyunpill & Ko Heean",
-          "url": "https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Wiegenlied (Lullaby) K.350",
-      "url": "https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw"
-    },
-    {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "2 Minutes",
         "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
@@ -701,23 +721,7 @@
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
-      "album": {
-        "name": "A Snowy Field",
-        "url": "https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv"
-      },
-      "artists": [
-        {
-          "name": "LCY Project",
-          "url": "https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "A Snowy Field",
-      "url": "https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81"
-    },
-    {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "On the Way Home",
         "url": "https://open.spotify.com/album/5vlDbrQPuOXA5FdGnE634D"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "The Day Before",
         "url": "https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX"
@@ -749,7 +753,7 @@
       "url": "https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "\uc624\ub298\uc740 \ub9d1\uc74c (Sunny Side Up)",
         "url": "https://open.spotify.com/album/3u4UzQDUTwaO70GbvVj0o7"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/3oA2whD4CPexa0Klod6msm"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Unrealtime",
         "url": "https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "A Finite time",
         "url": "https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "I Wished On The Moon",
         "url": "https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d"
@@ -813,7 +817,7 @@
       "url": "https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0"
     },
     {
-      "added_at": "2024-11-07 02:13:32",
+      "added_at": "2024-11-27 06:57:19",
       "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES"

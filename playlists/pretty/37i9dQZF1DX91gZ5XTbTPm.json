@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 139645,
+  "num_followers": 139696,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0V9kAAAAAAjA+0KT84irt24vJV/sVtm",
+  "snapshot_id": "Z0dvtwAAAAAsBGIUpanVvKLw1GOt0SGk",
   "tracks": [
     {
       "added_at": "2024-11-26 06:01:13",
@@ -411,6 +411,22 @@
       "duration_ms": 158393,
       "name": "She Love Fxce",
       "url": "https://open.spotify.com/track/2jo6ciwkR8MgGbLgwRQrd9"
+    },
+    {
+      "added_at": "2024-11-27 19:15:03",
+      "album": {
+        "name": "Marching Band",
+        "url": "https://open.spotify.com/album/41eEHGORF9RSMrUzAzEAsN"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 152149,
+      "name": "Marching Band",
+      "url": "https://open.spotify.com/track/11eARYScqhoAdY3YQzxuAi"
     },
     {
       "added_at": "2024-11-26 06:01:13",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-11-26 06:01:13",
       "album": {
-        "name": "Pound for Pound / Everything You Fear",
-        "url": "https://open.spotify.com/album/3ykfCjKpZgc2zB3h7mLYK4"
-      },
-      "artists": [
-        {
-          "name": "VERSE",
-          "url": "https://open.spotify.com/artist/1fr7B0pDiQwmq6b3Nt8Seg"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Everything You Fear",
-      "url": "https://open.spotify.com/track/3NtTwsqg0F8UM5rdx4h1eD"
-    },
-    {
-      "added_at": "2024-11-26 06:01:13",
-      "album": {
         "name": "You Only Die 1nce",
         "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 128640,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/1MjyHbLE8elgTlokBpNMk4"
+    },
+    {
+      "added_at": "2024-11-27 19:15:03",
+      "album": {
+        "name": "Pound for Pound / Everything You Fear",
+        "url": "https://open.spotify.com/album/3ykfCjKpZgc2zB3h7mLYK4"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 214229,
+      "name": "Pound for Pound",
+      "url": "https://open.spotify.com/track/2iiX2eV1DcvlN0ZhnIzNQZ"
     },
     {
       "added_at": "2024-11-26 06:01:13",

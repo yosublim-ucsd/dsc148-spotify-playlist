@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 133617,
       "name": "Clear Sight",
       "url": "https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 149950,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN"
@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184987,
+      "name": "Reveries",
+      "url": "https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv"
+    },
+    {
+      "album": {
         "name": "Ripples",
         "url": "https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK"
       },
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 140603,
       "name": "Tapestry",
       "url": "https://open.spotify.com/track/048o35tQQ7UzsXhargOg58"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 303409,
       "name": "Two Soon",
       "url": "https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8"

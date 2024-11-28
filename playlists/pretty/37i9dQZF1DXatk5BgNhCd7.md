@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Gilberto Santa Rosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,214 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,262 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 27 | [Hamaca Paraguaya](https://open.spotify.com/track/0oHEwoLk8e2dCwaFxtQ1qq) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hamaca Paraguaya](https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp) | 2:38 |
 | 28 | [SE LE NOTA](https://open.spotify.com/track/1ACSMWYRj17oX6ILhdrHXY) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [SE LE NOTA](https://open.spotify.com/album/1ecwDXVvqSKXFG616C2RiJ) | 2:42 |
 | 29 | [Dame un beso / Sera Porque Te Amo / Si me dejas no vale](https://open.spotify.com/track/1wEuKIKY2A2GwnJnpyCDKE) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Dame un beso / Sera Porque Te Amo / Si me dejas no vale](https://open.spotify.com/album/6FRBJ8SY8MLlBqMb97EgzH) | 5:51 |
-| 30 | [Éxitos De La Piedra Urbana](https://open.spotify.com/track/3PaO3my4YAmcIi9ysLhQp9) | [Lautaro Monzon](https://open.spotify.com/artist/7MiCCsU0JNhT6Q0vPlvt5o), [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Éxitos De La Piedra Urbana](https://open.spotify.com/album/6RDwmyqVQUzEXnY2ZaO2xu) | 5:41 |
+| 30 | [Éxitos De La Piedra Urbana](https://open.spotify.com/track/3PaO3my4YAmcIi9ysLhQp9) | [Lautaro Monzon](https://open.spotify.com/artist/7MiCCsU0JNhT6Q0vPlvt5o) | [Éxitos De La Piedra Urbana](https://open.spotify.com/album/6RDwmyqVQUzEXnY2ZaO2xu) | 5:41 |
 | 31 | [Era para Siempre](https://open.spotify.com/track/15Dc1U5JBnMV2nFKNHH59Z) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Era para Siempre](https://open.spotify.com/album/77wUgIwhafk5sLCOhqKzPG) | 3:00 |
 | 32 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
 | 33 | [Ni Que Estuviera Loco](https://open.spotify.com/track/16ixtmlHJBGlqXw5dqQnhc) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2), [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Ni Que Estuviera Loco](https://open.spotify.com/album/0ZokGXie4YdpEwWToyJsOs) | 2:28 |

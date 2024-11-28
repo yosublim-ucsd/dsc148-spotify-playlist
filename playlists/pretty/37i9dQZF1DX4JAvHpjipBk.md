@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from ROSÉ, Jack Harlow, Wizkid, Lil Nas X, Quevedo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,240,829 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,240,942 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

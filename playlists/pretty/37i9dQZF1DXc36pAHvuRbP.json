@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Les Girafes Se Pavanent",
+        "url": "https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Lotus",
+          "url": "https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Les Girafes Se Pavanent",
+      "url": "https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Chansons polies pour enfants \u00e9nerv\u00e9s",
         "url": "https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM"
       },
@@ -863,6 +879,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Au fil des \u00e9motions",
+        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lyne",
+          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
+        }
+      ],
+      "duration_ms": 127840,
+      "name": "Je suis d\u00e9go\u00fbt\u00e9(e)",
+      "url": "https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
         "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 189462,
       "name": "J'm'aime pas comme papa",
       "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Au fil des \u00e9motions",
-        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lyne",
-          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "J'ai trop la honte",
-      "url": "https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Monstrueux et mocheu",
-        "url": "https://open.spotify.com/album/3oOukafeNkqyXLr8olKbJV"
-      },
-      "artists": [
-        {
-          "name": "Monstre Moche",
-          "url": "https://open.spotify.com/artist/1xQ8hZYPyB9gQ4JxVxIIgV"
-        }
-      ],
-      "duration_ms": 45266,
-      "name": "F\u00e9touskitepl\u00e9",
-      "url": "https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu"
     }
   ],
   "unique_name": "Bo\u00eete \u00e0 jouets",

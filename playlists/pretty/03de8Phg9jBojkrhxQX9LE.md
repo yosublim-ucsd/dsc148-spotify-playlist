@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,032 likes - 150 songs - 8 hr 25 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,030 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 5 | [ESCAPE \(Get Off The Internet\)](https://open.spotify.com/track/4XY0PlLECYWOa01Dys1Ofd) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [404: Get Off The Internet \[Redux\]](https://open.spotify.com/album/5YBcqn9fDFel7qgDTqMA2k) | 4:04 |
 | 6 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 |
 | 7 | [Rapid Fire](https://open.spotify.com/track/0YzrViv4LXpfLotDq58YKS) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rapid Fire](https://open.spotify.com/album/5hqK495WT7LZG2AKzOWyTV) | 2:46 |
-| 8 | [Young Lion](https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Young Lion](https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U) | 4:12 |
+| 8 | [Young Lion](https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Young Lion](https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U) | 4:12 |
 | 9 | [GATEKEEPER](https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [GATEKEEPER](https://open.spotify.com/album/1cc92QAKcg66F5NWqbZE6t) | 4:26 |
 | 10 | [That's the Spot](https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Sven Lochenhoer](https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU) | [That's the Spot](https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H) | 3:02 |
 | 11 | [FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FALLING](https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb) | 2:42 |

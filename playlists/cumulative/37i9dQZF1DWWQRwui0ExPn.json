@@ -37785,6 +37785,24 @@
     },
     {
       "album": {
+        "name": "exhibit",
+        "url": "https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149745,
+      "name": "exhibit",
+      "url": "https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr"
+    },
+    {
+      "album": {
         "name": "reunion",
         "url": "https://open.spotify.com/album/6mEiUNuRfKOnRvwHcDFSMz"
       },
@@ -105080,7 +105098,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-28",
       "duration_ms": 150000,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7nB3T5DhVJWafsWsWIUCXO"

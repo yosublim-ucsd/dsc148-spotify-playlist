@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,656 likes - 81 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,589 likes - 81 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

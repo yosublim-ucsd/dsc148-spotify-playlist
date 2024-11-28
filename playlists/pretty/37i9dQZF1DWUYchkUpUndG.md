@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=n4D7V\_B8SO2AlBcDtjFUyQ>Spotlite Nation</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,367 likes - 95 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,383 likes - 95 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

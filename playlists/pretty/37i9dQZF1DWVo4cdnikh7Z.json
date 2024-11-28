@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Kadhalikka Neramillai",
-  "num_followers": 685358,
+  "num_followers": 685507,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Xt0AAAAABlD9bAxkutuJbIVbo8awLA",
+  "snapshot_id": "Z0cjfQAAAADAfECFjpwU3kAZfxpisl28",
   "tracks": [
     {
       "added_at": "2024-11-22 12:14:15",
@@ -67,6 +67,26 @@
       "duration_ms": 235600,
       "name": "Kadhal Fail (From \"Nilavuku En Mel Ennadi Kobam\")",
       "url": "https://open.spotify.com/track/65uuaOTqIa6wqLlcZZJpnX"
+    },
+    {
+      "added_at": "2024-11-27 13:47:57",
+      "album": {
+        "name": "Maanavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ULwo6v5RPfWzPD6IZvU3J"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "duration_ms": 250363,
+      "name": "Kolluraale",
+      "url": "https://open.spotify.com/track/3yVMO1sbT6JHXNOPDwZADH"
     },
     {
       "added_at": "2024-11-26 05:25:30",
@@ -137,6 +157,26 @@
       "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
     },
     {
+      "added_at": "2024-11-27 13:47:57",
+      "album": {
+        "name": "Maanavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ULwo6v5RPfWzPD6IZvU3J"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Paaraai Paaraai",
+      "url": "https://open.spotify.com/track/2uYbvWorsJGlk662QmgTOz"
+    },
+    {
       "added_at": "2024-11-26 15:48:32",
       "album": {
         "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
@@ -159,6 +199,34 @@
       "duration_ms": 248035,
       "name": "Manasula",
       "url": "https://open.spotify.com/track/6Fo8GFG8jVMyRu5oRfMQY4"
+    },
+    {
+      "added_at": "2024-11-27 13:49:49",
+      "album": {
+        "name": "Kadhal Theeradha (From \"Lara\")",
+        "url": "https://open.spotify.com/album/1LPS3pDw3xBekGyYHNvFoP"
+      },
+      "artists": [
+        {
+          "name": "Raghu Sravan Kumar",
+          "url": "https://open.spotify.com/artist/4shsgl44FArZtKjAPHPh1t"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        },
+        {
+          "name": "Karthikesan",
+          "url": "https://open.spotify.com/artist/6jFRjMewjDAcgbqJONGCoh"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kadhal Theeradha (From \"Lara\")",
+      "url": "https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn"
     },
     {
       "added_at": "2024-11-17 06:52:57",
@@ -1025,30 +1093,6 @@
       "url": "https://open.spotify.com/track/3VJfy8u8CZx7Vbi19pc4vT"
     },
     {
-      "added_at": "2024-11-13 12:49:14",
-      "album": {
-        "name": "The OG Thug (From \"Thug Life\")",
-        "url": "https://open.spotify.com/album/6nwruUy2eySbzUPq86Yn1H"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        },
-        {
-          "name": "Alexandra Joy",
-          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
-        }
-      ],
-      "duration_ms": 42365,
-      "name": "The OG Thug (From \"Thug Life\")",
-      "url": "https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN"
-    },
-    {
       "added_at": "2024-08-29 13:07:13",
       "album": {
         "name": "Lubber Pandhu (Original Motion Picture Soundtrack)",
@@ -1091,42 +1135,6 @@
       "duration_ms": 155400,
       "name": "Paiya Dei - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
-    },
-    {
-      "added_at": "2024-10-19 12:12:15",
-      "album": {
-        "name": "Por Veeran (Azadi) (From \"Amaran\") (Tamil)",
-        "url": "https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Por Veeran (Azadi) (From \"Amaran\") (Tamil)",
-      "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
-    },
-    {
-      "added_at": "2024-08-29 13:08:01",
-      "album": {
-        "name": "Lubber Pandhu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3LBvPx4DFCDyRUbfdlu9xk"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        }
-      ],
-      "duration_ms": 226588,
-      "name": "Aasa Orave",
-      "url": "https://open.spotify.com/track/6LT7bcpxRV7y2ipQbOvgka"
     },
     {
       "added_at": "2024-10-17 07:32:15",
@@ -1203,30 +1211,6 @@
       "duration_ms": 222165,
       "name": "Paththavaikkum (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
-    },
-    {
-      "added_at": "2024-09-04 11:40:33",
-      "album": {
-        "name": "Daavudi (From \"Devara Part 1\") [TAMIL]",
-        "url": "https://open.spotify.com/album/1jHgn93dUw9duzdTYY9YMZ"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 229181,
-      "name": "Daavudi (From \"Devara Part 1\")",
-      "url": "https://open.spotify.com/track/3CHY4MsKz8LpARTEqx8877"
     }
   ],
   "unique_name": "Latest Tamil",

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: KYUHYUN\(규현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,346 songs - 3 day 15 hr 4 min
+1,349 songs - 3 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/album/4SmZATHF72c12OFmONqnw0) | 4:31 | 2023-04-28 | 2023-09-19 |
 | [Falling Leaves are Beautiful](https://open.spotify.com/track/0zaSzLLXVwOKuh0ABPibqi) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:22 | 2022-04-19 | 2022-04-21 |
 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 | 2024-03-05 | 2024-08-01 |
-| [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-06 |  |
+| [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-06 |  |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-05-16 | 2022-10-08 |
 | [Farewell In Tears](https://open.spotify.com/track/28ctCyUPyDomk7LLwN4aY8) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-31 | 2022-04-12 |
 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 | 2023-10-02 | 2023-12-30 |
@@ -765,6 +765,7 @@
 | [My Feelings for You will Never Change](https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [My Feelings for You will Never Change](https://open.spotify.com/album/6JAaQPpuauWTLTxQuSpBFq) | 2:38 | 2023-02-24 | 2023-05-16 |
 | [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-09-05 | 2022-11-08 |
 | [My Girl](https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv) | [nautilus](https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ) | [My Girl](https://open.spotify.com/album/6j6oWzD2FDaatkJWaGcggf) | 4:18 | 2022-11-07 | 2023-01-12 |
+| [My Heart Is Full Of You](https://open.spotify.com/track/07WUAnERMSnM1KLU38oegD) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [My Heart Is Full Of You](https://open.spotify.com/album/6fzdCCBF3209jWNyIOlRw5) | 3:49 | 2024-11-27 |  |
 | [My heart says](https://open.spotify.com/track/2GUAkbWxTLNIyTMNUCqX54) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [My Lovely Liar, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0KQD5f1uZuvqxdDIAXyd7n) | 4:05 | 2023-08-24 | 2023-11-03 |
 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 | 2021-12-20 | 2022-07-08 |
 | [My Love](https://open.spotify.com/track/3fLGciDBnydNdpgAfAr8Fj) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1iCLqvveyYARoQBwenf0HY) | 4:21 | 2023-02-24 | 2023-05-16 |
@@ -949,6 +950,7 @@
 | [Small Things](https://open.spotify.com/track/4tnz79vOfi6zwq4sWr2MVD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Sensory Flows \- The 1st Album](https://open.spotify.com/album/1JTBgKjJ7WnUtYvKVBH5fU) | 3:22 | 2023-01-25 | 2023-03-28 |
 | [Smile Good Bye](https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Fu Bao and Grandfather, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt) | 3:48 | 2024-03-25 | 2024-09-24 |
 | [Snow Blanket](https://open.spotify.com/track/6TOJpU7DiZnzzncC0OCMQG) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Been](https://open.spotify.com/album/0stsEEw9pc3Sd9WqyHGn8N) | 3:27 | 2023-12-28 | 2024-06-05 |
+| [Snow Flower](https://open.spotify.com/track/2qflAmVMghM3O9YpridUng) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [I'm Sorry, I Love You 2024 \(Original Television Soundtrack\) \- Wavve New Classic Project](https://open.spotify.com/album/2Ymac6gT4xh0tM7waxKeiu) | 5:52 | 2024-11-27 |  |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-20 | 2023-02-25 |
 | [snow light](https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [snow light](https://open.spotify.com/album/795rDvVKt9nAga7CBw6NLi) | 3:57 | 2023-02-06 | 2023-03-28 |
 | [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2022-12-26 | 2023-02-09 |
@@ -1024,7 +1026,7 @@
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-03-31 | 2022-04-19 |
 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 | 2024-05-18 |
 | [Supppperman's dream](https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58) | [Supppperman](https://open.spotify.com/artist/4MsSecxgHDVQGEx9SPQSDP) | [Supppperman's dream](https://open.spotify.com/album/2CCq19fvsTdzafRqISmF8K) | 3:36 | 2024-07-31 | 2024-11-07 |
-| [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 |  |
+| [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 |  |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |
 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 |  |
@@ -1155,6 +1157,7 @@
 | [Unable to Say Goodbye](https://open.spotify.com/track/6Py7I15kNGwKA0anOBBusx) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Unable to Say Goodbye](https://open.spotify.com/album/5UiCvPlZOqnsl7hvvzp6RP) | 4:07 | 2023-03-08 | 2023-07-08 |
 | [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 | 2022-10-13 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2022-03-24 | 2022-04-19 |
+| [Unending Days](https://open.spotify.com/track/3XZJZvwp6B6NFJYsrNAchp) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [COLORS](https://open.spotify.com/album/0PwtzRZxpKmozYdYQdcAgp) | 3:07 | 2024-11-27 |  |
 | [Unfollow](https://open.spotify.com/track/4eMZhQwegizQW1pMgHv0RM) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Unfollow](https://open.spotify.com/album/5H6iZHlasIZBPdxI0eUECR) | 3:51 | 2023-10-27 | 2024-03-21 |
 | [Unforgettable memories](https://open.spotify.com/track/3DzihRTuMj2cR5awD5t1Tq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [Unforgettable memories](https://open.spotify.com/album/2nsCYqJqfLuuebsVZTNXmb) | 3:59 | 2023-08-07 | 2023-10-17 |
 | [Unhateable](https://open.spotify.com/track/7oXQfEySOUukDThklMkr76) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Unhateable](https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW) | 4:20 | 2021-12-23 | 2022-04-22 |

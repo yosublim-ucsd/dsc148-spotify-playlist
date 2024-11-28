@@ -1545,6 +1545,42 @@
     },
     {
       "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ"
+      },
+      "artists": [
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/0WaTCIDPcQbP0BVvXgkBPk"
+    },
+    {
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ"
+      },
+      "artists": [
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Armageddon - Extended Mix",
+      "url": "https://open.spotify.com/track/2JEC1KjfbIRAU0q2CpGz8k"
+    },
+    {
+      "album": {
         "name": "Armageddon (Noxiouz Remix)",
         "url": "https://open.spotify.com/album/00QlryN6MeGXvja8Z5diFR"
       },

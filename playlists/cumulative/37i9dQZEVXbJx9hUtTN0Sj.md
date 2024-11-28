@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,015 songs - 2 day 3 hr 53 min
+1,016 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-10 | 2024-10-30 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-15 | 2024-05-06 |
 | [ENIGE ECHTE](https://open.spotify.com/track/4PmcIRzpW13ukIM3SIsbbU) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [ENIGE ECHTE](https://open.spotify.com/album/6alhJuqij8CP5v5MwXT6ob) | 2:00 | 2024-06-17 | 2024-06-26 |
-| [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-26 |  |
+| [Ensemble](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2024-11-26 |  |
+| [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-26 | 2024-11-28 |
 | [EQUINOX \- from “PUTAIN”](https://open.spotify.com/track/6yRz2tVRLuDjsOZdPnRLL3) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [gala dragot](https://open.spotify.com/artist/5bec6G42etdHwqurstmocM), [Chuki Beats](https://open.spotify.com/artist/3I2KQWCAh5aOh1YJ62LIlQ) | [EQUINOX](https://open.spotify.com/album/44sDk4Wtd4pqw4ZEOAKxJC) | 4:23 | 2024-11-26 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-30 | 2024-07-05 |
 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 | 2024-08-06 | 2024-08-20 |
@@ -1008,7 +1009,7 @@
 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:44 | 2024-08-05 | 2024-08-07 |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-02-03 | 2024-02-07 |
 | [You Make Me Horny](https://open.spotify.com/track/5S4icN8xrGsSCDgF0wLd4b) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/3oCMWdOyAqEQhTwqcH4Hee) | 4:54 | 2024-01-29 | 2024-02-03 |
-| [Young Lion](https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Young Lion](https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U) | 4:12 | 2024-11-25 |  |
+| [Young Lion](https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Young Lion](https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U) | 4:12 | 2024-11-25 |  |
 | [Your New Morning Alarm](https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56) | [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Your New Morning Alarm](https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL) | 0:57 | 2024-07-08 | 2024-08-24 |
 | [ZARI](https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 3:00 | 2024-05-16 | 2024-05-29 |
 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 | 2024-03-26 | 2024-05-17 |

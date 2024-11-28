@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,069 songs - 2 day 5 hr 20 min
+1,070 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,8 +311,8 @@
 | [Durma Yürüsene](https://open.spotify.com/track/2up5kUpA2yQb5DtXE8B2WJ) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 3:41 | 2024-11-09 | 2024-11-13 |
 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 | 2024-06-01 | 2024-11-09 |
 | [Durmaz Akar](https://open.spotify.com/track/1USNiWOUKXZFcG5acRYEp5) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Durmaz Akar](https://open.spotify.com/album/6T3pdxARkf8mKGzzbTz238) | 3:30 | 2023-03-17 | 2023-04-03 |
-| [Duydun Mu?](https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ) | 3:41 | 2024-10-18 |  |
-| [Duydun Mu?](https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/2jhvaNspa2Gh8LjDJ7vSnS) | 3:41 | 2024-10-19 | 2024-11-25 |
+| [Duydun Mu?](https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ) | 3:41 | 2024-10-18 | 2024-11-28 |
+| [Duydun Mu?](https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/2jhvaNspa2Gh8LjDJ7vSnS) | 3:41 | 2024-10-19 |  |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-06-01 |
 | [Dön Ne Olur](https://open.spotify.com/track/6WDSYMvcKN2AsEXJ9U5xsG) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Dön Ne Olur](https://open.spotify.com/album/4fXbwXl9agxf4EWkLZZlqy) | 4:59 | 2024-01-02 | 2024-01-17 |
 | [Düldül](https://open.spotify.com/track/6kbIemHzAcnM60eHdrUI4u) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:25 | 2023-11-08 | 2024-04-14 |
@@ -651,7 +651,8 @@
 | [Lütfen](https://open.spotify.com/track/3tdECBQEI1vwJhYu4EQhRB) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/3zItDhKXMKTNtyQDnoteJK) | 2:27 | 2021-08-22 | 2021-08-26 |
 | [Lütfen](https://open.spotify.com/track/6AVblFcGxnVp66PUmIcRIf) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/1f4PePKL0J3waEvNsUP9J8) | 2:27 | 2021-08-20 | 2021-08-21 |
 | [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 | 2023-02-09 |
-| [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-11-26 |  |
+| [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-26 |  |
+| [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-11-26 | 2024-11-28 |
 | [MAGAZIN](https://open.spotify.com/track/6ivhsnbHyB37W4zD16OO5F) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 3:03 | 2023-11-25 | 2023-11-29 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |

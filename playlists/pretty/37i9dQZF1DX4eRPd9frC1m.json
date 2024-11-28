@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2588647,
+  "num_followers": 2588677,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,42 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
+        "name": "Keep Pushin' (Beast)",
+        "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 185581,
+      "name": "Keep Pushin' (Beast)",
+      "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
+        "name": "symphony no.5 in bass minor",
+        "url": "https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        }
+      ],
+      "duration_ms": 178235,
+      "name": "symphony no.5 in bass minor",
+      "url": "https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
@@ -375,22 +411,6 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "symphony no.5 in bass minor",
-        "url": "https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        }
-      ],
-      "duration_ms": 178235,
-      "name": "symphony no.5 in bass minor",
-      "url": "https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
         "name": "SEE YOU DROP",
         "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 157600,
       "name": "SEE YOU DROP",
       "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -459,22 +463,18 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "Keep Pushin' (Beast)",
-        "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
         }
       ],
-      "duration_ms": 185581,
-      "name": "Keep Pushin' (Beast)",
-      "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
         "name": "Rapid Fire",
         "url": "https://open.spotify.com/album/5hqK495WT7LZG2AKzOWyTV"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 166206,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/0YzrViv4LXpfLotDq58YKS"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "Name Drop",
-        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Name Drop",
-      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 150857,
       "name": "Uncaged",
       "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
+        "name": "Name Drop",
+        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Name Drop",
+      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
       },
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4gLtEjpQonZ0UQ8jdd6IFq"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 220974,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/37wgdvYBFxYsLTTQKwqctw"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
-        "name": "IN THE ALLEY",
-        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "IN THE ALLEY",
-      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "added_at": "2024-11-22 07:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-11-22 07:00:00",
       "album": {
-        "name": "BRULURE",
-        "url": "https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF"
-      },
-      "artists": [
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        },
-        {
-          "name": "Automhate",
-          "url": "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
-        }
-      ],
-      "duration_ms": 247814,
-      "name": "DESPAIR",
-      "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
-    },
-    {
-      "added_at": "2024-11-22 07:00:00",
-      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2024-11-22 07:00:00",
+      "album": {
+        "name": "BRULURE",
+        "url": "https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Automhate",
+          "url": "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
+        }
+      ],
+      "duration_ms": 247814,
+      "name": "DESPAIR",
+      "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
     },
     {
       "added_at": "2024-11-22 07:00:00",

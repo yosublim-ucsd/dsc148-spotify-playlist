@@ -130,7 +130,7 @@
 | [花葬](https://open.spotify.com/track/5QJ9smoKZXJC8venVEgwW8) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [花葬](https://open.spotify.com/album/6OrvOOIzRIugnEZR6wj3HE) | 5:12 | 2023-07-22 |  |
 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 | 2023-07-22 |  |
 | [運命の人](https://open.spotify.com/track/3s09o4Fv4Mc5DfqPL0uRcE) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 5:11 | 2023-07-22 |  |
-| [長い間](https://open.spotify.com/track/5kfsa8umNApDtGrVG8uHeI) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [長い間 \~キロロの森\~](https://open.spotify.com/album/4luaCLEKYIouQdt6zyVH2b) | 4:40 | 2023-07-22 |  |
+| [長い間](https://open.spotify.com/track/5kfsa8umNApDtGrVG8uHeI) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [長い間 ～キロロの森～](https://open.spotify.com/album/4luaCLEKYIouQdt6zyVH2b) | 4:40 | 2023-07-22 |  |
 | [陽のあたる場所](https://open.spotify.com/track/6EyZPRnCZc7evpOR02qLPB) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Mother Father Brother Sister](https://open.spotify.com/album/60B4x5zJ4YezFWEtN5RkUn) | 5:17 | 2023-07-22 |  |
 | [陽はまたのぼりくりかえす](https://open.spotify.com/track/3DKTDOOHd2YS9tB8TmYcVy) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [陽はまたのぼりくりかえす](https://open.spotify.com/album/5yUgXqVH9pSvDpUJi0WkSj) | 7:13 | 2023-07-22 |  |
 

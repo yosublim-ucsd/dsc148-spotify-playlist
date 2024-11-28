@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,164 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,170 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 40 | [Umarm sie](https://open.spotify.com/track/1IzbWCl9MQJx8kRmWeO9ih) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Zuckerbrot & Peitsche](https://open.spotify.com/album/6qCXS60IfyOyJQP8bMzm4v) | 4:30 |
 | 41 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
 | 42 | [Grau](https://open.spotify.com/track/3gOGV9ZXBJvM9ij6Dq6vLQ) | [Mimiks](https://open.spotify.com/artist/4Bg4oUbN39ECtRSb4xRSFw) | [Grau](https://open.spotify.com/album/7suS0zVwB3fxHocaLjwtUe) | 4:29 |
-| 43 | [Grächtigkeitsgass \[feat\. Lo & Leduc\]](https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn) | [Steff La Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/5jlOlbLwRxl46TaqbpLhy9) | 4:01 |
+| 43 | [Grächtigkeitsgass \[feat\. Lo & Leduc\]](https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/5jlOlbLwRxl46TaqbpLhy9) | 4:01 |
 | 44 | [I de Schwiiz](https://open.spotify.com/track/4uBmWRtomdBBFAVNHOVflp) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/0n3UzP0bmjDNUHeCT7tl32) | 5:37 |
 | 45 | [Villech](https://open.spotify.com/track/3uOGs571OyoxsYsO3B9vQM) | [Fygeludi](https://open.spotify.com/artist/3Gf5HXGmPDFTZQMzE0CeO4), [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Tour de Suisse](https://open.spotify.com/album/6KwaoppsoovbcsJAmGP5Cq) | 4:30 |
 | 46 | [Traktor Racing](https://open.spotify.com/track/4zxGnFV66gDHNJSQRNgdRu) | [Hmk & daeWue](https://open.spotify.com/artist/0bKPUOOWraWxDKu11tkNHp) | [Am Uferstah](https://open.spotify.com/album/66PPg7jl8YQeLf0e4ZGMn9) | 2:58 |

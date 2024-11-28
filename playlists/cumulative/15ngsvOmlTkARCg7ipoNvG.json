@@ -13185,6 +13185,24 @@
     },
     {
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/7rvGoQS8uNu8CGqzGJbcrQ"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60418,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/0xEIFXod9ToeqFgrrmOcjC"
+    },
+    {
+      "album": {
         "name": "Piano Sleep Music",
         "url": "https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy"
       },

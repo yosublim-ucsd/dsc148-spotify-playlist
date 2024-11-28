@@ -339,6 +339,36 @@
     },
     {
       "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma"
+      },
+      "artists": [
+        {
+          "name": "Abigail Barlow",
+          "url": "https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu"
+        },
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        },
+        {
+          "name": "Mark Mancina",
+          "url": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Beyond (Instrumental)",
+      "url": "https://open.spotify.com/track/1vZEwelI2gSwLxd1WkcfMz"
+    },
+    {
+      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -416,6 +446,36 @@
       "duration_ms": 168760,
       "name": "Bundle of Joy",
       "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
+    },
+    {
+      "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma"
+      },
+      "artists": [
+        {
+          "name": "Abigail Barlow",
+          "url": "https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu"
+        },
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        },
+        {
+          "name": "Mark Mancina",
+          "url": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Can I Get A Chee Hoo? (Instrumental)",
+      "url": "https://open.spotify.com/track/3YJTzaN1bPMhggeMr9ni2z"
     },
     {
       "album": {

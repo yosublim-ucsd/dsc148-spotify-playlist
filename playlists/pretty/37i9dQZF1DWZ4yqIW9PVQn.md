@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,093 likes - 128 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,099 likes - 128 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 7 | [Spring Road](https://open.spotify.com/track/6gJwSGDQs5KHPPwmYLon1z) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [D.Story](https://open.spotify.com/artist/2AEhBDQu2S6EX9xKOrSFfD) | [Spring Road](https://open.spotify.com/album/60COHBzsOf9dEcYuBzz4x0) | 2:53 |
 | 8 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
 | 9 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 |
-| 10 | [Falling Leaves are Beautiful](https://open.spotify.com/track/0zaSzLLXVwOKuh0ABPibqi) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:22 |
+| 10 | [Falling Leaves are Beautiful](https://open.spotify.com/track/0zaSzLLXVwOKuh0ABPibqi) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:22 |
 | 11 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 |
 | 12 | [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 |
 | 13 | [I Wanted To Say](https://open.spotify.com/track/0S1Dp45I35i17I9BvrTJBW) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [I Wanted To Say](https://open.spotify.com/album/3NhbBEQP5aPmmua8eqVB8V) | 3:22 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 18 | [Time Travel](https://open.spotify.com/track/3ppS6pCWBP6Yh47ypI3zEo) | [gnay](https://open.spotify.com/artist/7Fni4XZIpShWwVpEMtyqzi) | [Time Travel](https://open.spotify.com/album/7DZVRDnf7r0aR3PBBmQ0Pq) | 3:41 |
 | 19 | [Stay \(Feat\. amin\)](https://open.spotify.com/track/1gYqYDbYQuuFFcfVSo0aLg) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Stay \(Feat\. amin\)](https://open.spotify.com/album/6XcdNgatOlaJ5EspniDp7x) | 2:48 |
 | 20 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
-| 21 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 |
+| 21 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 |
 | 22 | [Endless dream, good night](https://open.spotify.com/track/1Tn3BfNkoQio5yL0ZbO2z8) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 3:00 |
 | 23 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 24 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 |

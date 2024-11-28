@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,264 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,293 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 31 | [The painter and the boxer](https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [Surprise !](https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT) | 3:56 |
 | 32 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 | 33 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
-| 34 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
+| 34 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 35 | [Argos l'Agile](https://open.spotify.com/track/6YA1CAxpNkhujkByiCQFyf) | [Paul Lay](https://open.spotify.com/artist/6hIQVG8TxY0XpPqtRa6NHR) | [L'Odyssée de Paul Lay](https://open.spotify.com/album/06LYAgvG8QiGoUAcMUbP62) | 4:05 |
 | 36 | [Take It Higher](https://open.spotify.com/track/6LwlCtA2lARQe2Atz6v6Ly) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Take It Higher](https://open.spotify.com/album/1v39mabJGNjblUNcqcwL0M) | 4:15 |
 | 37 | [Sea](https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28) | [Benjamin Sanz](https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u) | [Black Seeds](https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol) | 3:54 |

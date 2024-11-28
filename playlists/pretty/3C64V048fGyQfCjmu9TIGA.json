@@ -1,12 +1,12 @@
 {
   "description": "The best of the 1990s classics, from TLC, Backstreet Boys, Destiny's Child, *NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.",
-  "num_followers": 2271571,
+  "num_followers": 2271914,
   "original_name": "90s HITS | TOP 100 SONGS",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAAIkLNproRw2fy7zVoE8XGzHBDM68rV",
+  "snapshot_id": "AAAIk4ccdUMoBGJrD14gZDeDyYaRdewJ",
   "tracks": [
     {
       "added_at": "2024-11-22 19:23:03",
@@ -135,6 +135,22 @@
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2024-11-27 16:14:39",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Use Your Heart",
+      "url": "https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq"
     },
     {
       "added_at": "2024-11-22 19:23:03",

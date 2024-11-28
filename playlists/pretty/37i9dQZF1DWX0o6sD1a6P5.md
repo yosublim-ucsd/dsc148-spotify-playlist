@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: KeBlack x SDM
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,114 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,348 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 |
 | 50 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 |
 
-Snapshot ID: `Zz+7cAAAAAAgI3Sg78JVerqb5dBWzUz3`
+Snapshot ID: `Z0cnmwAAAAAZyX27RTy3I0ZbqxHXJi35`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Mood Bored
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,254 likes - 74 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,265 likes - 74 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
