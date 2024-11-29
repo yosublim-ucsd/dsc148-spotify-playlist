@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -7502,7 +7502,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 227053,
       "name": "Mahzouz",
       "url": "https://open.spotify.com/track/2fNGw4weCNtNiP58znlTve"
@@ -13569,6 +13569,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627",
+        "url": "https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "\u0623\u0646\u0627",
+      "url": "https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7"
+    },
+    {
+      "album": {
         "name": "\u0623\u0646\u0627 \u0628\u0627\u0628\u0627",
         "url": "https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS"
       },
@@ -13758,7 +13776,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 182752,
       "name": "\u0627\u0633\u0637\u0628\u0644\u0627\u062a",
       "url": "https://open.spotify.com/track/2KFvDnkJK7AIlRJ9DjNrLj"
@@ -15490,7 +15508,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162580,
       "name": "\u0631\u0648\u0642\u0627\u0646",
       "url": "https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf"
@@ -16700,7 +16718,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 221379,
       "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
       "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"

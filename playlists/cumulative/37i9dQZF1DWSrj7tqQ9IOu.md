@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Oscar Anton
+> The best French indie tracks right now\. Cover : Miki
 
-552 songs - 1 day 6 hr 6 min
+554 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-02 | 2022-09-09 |
 | [Aluminium](https://open.spotify.com/track/3filG2EHGAidF3zRBBxyj8) | [Damlif](https://open.spotify.com/artist/0mPfVYJyS10AuDGrS3ira2), [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3) | [MAISON À L'AIDE](https://open.spotify.com/album/69bqDlHq5GztZDNTXgrY7O) | 2:44 | 2023-04-13 | 2023-06-02 |
 | [Am I A Fool ?](https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever Melodies](https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d) | 4:30 | 2022-10-06 | 2022-10-28 |
+| [Am I Too Good For You, Baby ?](https://open.spotify.com/track/4KZjNKHc5Q6QLCUj6akI8U) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Am I Too Good For You, Baby ?](https://open.spotify.com/album/0iUKKortl6H8N3my0oFYtw) | 3:18 | 2024-11-28 |  |
 | [Amber Eyes](https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [Amber Eyes](https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4) | 3:15 | 2024-04-11 |  |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-09 | 2023-02-24 |
 | [Amour Halogène](https://open.spotify.com/track/7tGH74eIWFCUId56ZJvgPb) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Amour Halogène](https://open.spotify.com/album/6DvujGXOrfFeRKT3eyFMAV) | 3:32 | 2023-01-12 | 2023-02-17 |
@@ -53,7 +54,7 @@
 | [best day ever](https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [postcard from Amsterdam](https://open.spotify.com/album/4WVKByV0X2xO0G6BMR6RDL) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [BETTER PLACE](https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG) | [Martin Oh](https://open.spotify.com/artist/6HLceITotixnO2OoXhc5so) | [BETTER PLACE](https://open.spotify.com/album/08ieQlcdmu8tcAjIJLq7eK) | 2:41 | 2024-04-11 | 2024-09-20 |
 | [Better Place](https://open.spotify.com/track/6WsIlHouT5aKb13OH9QIIU) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Better Place](https://open.spotify.com/album/1Vx2KKGOduLm5qyvZSVtM2) | 3:40 | 2023-10-05 | 2023-12-22 |
-| [Big Time](https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Big Time](https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv) | 3:46 | 2024-08-01 |  |
+| [Big Time](https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Big Time](https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv) | 3:46 | 2024-08-01 | 2024-11-29 |
 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 | 2024-02-01 | 2024-07-12 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
@@ -425,6 +426,7 @@
 | [Saint\-Germain](https://open.spotify.com/track/0xjRkSgHG8A14Z2q5TdEiy) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Saint\-Germain](https://open.spotify.com/album/5v60CETbGHisBr29z93w3S) | 3:10 | 2024-04-04 | 2024-05-17 |
 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-07 | 2023-10-06 |
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 | 2023-02-03 |
+| [satellite](https://open.spotify.com/track/7ioR5gy31HW0tKpDoMmYfr) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [satellite](https://open.spotify.com/album/2EMmdZaSWvScbh5EB2evfX) | 3:47 | 2024-11-28 |  |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 | 2022-12-09 |
 | [Se laisser partir](https://open.spotify.com/track/7AU11YKhAzZhRGwGDiXJqj) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Se laisser partir](https://open.spotify.com/album/2sEgqV6P0z6qROTfuColna) | 3:18 | 2024-03-28 | 2024-04-12 |
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-19 | 2024-06-21 |
@@ -489,7 +491,7 @@
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-22 | 2023-01-20 |
 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 | 2023-06-15 | 2023-09-15 |
 | [The Wedding Song](https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq) | [Magon](https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0) | [The Wedding Song](https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN) | 2:53 | 2024-05-16 | 2024-11-08 |
-| [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 |  |
+| [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 | 2024-11-29 |
 | [Tiger Teeth \(Feat Just Jack\)](https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Tiger Teeth \(Feat Just Jack\)](https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT) | 3:00 | 2024-09-26 |  |
 | [Tired](https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Tired](https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD) | 3:32 | 2022-06-09 | 2022-12-02 |
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-04-14 | 2022-09-30 |

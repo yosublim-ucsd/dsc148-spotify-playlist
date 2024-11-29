@@ -4,7 +4,7 @@
 
 > focus modus is aan en leren maar
 
-322 songs - 19 hr 25 min
+323 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [moonchild](https://open.spotify.com/track/7B02F2vNeU33Q04DbhlyAd) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:52 | 2024-07-18 |  |
 | [Muddy Waters](https://open.spotify.com/track/28t0Fp23qgptKwnTn55Hq2) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:48 | 2023-04-13 | 2023-10-06 |
 | [My Bad](https://open.spotify.com/track/1DUSuNhF8P5vUGNPpQiZa5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [My Bad](https://open.spotify.com/album/0B1vzblCZwbnUF8cv5jGkd) | 2:46 | 2022-11-11 | 2023-10-06 |
+| [My Future](https://open.spotify.com/track/1DVuojxZO0ow17J5Ihj53z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Outsider](https://open.spotify.com/album/5JEUPADWOtiacVATAXBMHk) | 3:25 | 2024-11-28 |  |
 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 | 2022-11-11 |  |
 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 | 2022-11-11 | 2023-04-14 |
 | [Need Someone](https://open.spotify.com/track/1UubQzL9nNulJW5DHqMKVO) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Need Someone](https://open.spotify.com/album/2Yl9jO2WZfAbgcJavevqcO) | 3:03 | 2022-11-11 | 2023-04-14 |

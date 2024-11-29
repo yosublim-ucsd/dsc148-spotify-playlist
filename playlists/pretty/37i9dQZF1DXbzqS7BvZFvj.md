@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Bonbero, Benjazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,394 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,387 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

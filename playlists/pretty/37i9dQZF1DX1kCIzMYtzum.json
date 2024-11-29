@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
-  "num_followers": 274271,
+  "num_followers": 274630,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 236270,
       "name": "Tears (with Paige Cavell)",
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Magic Moment (feat. Chris de Sarandy)",
+        "url": "https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "Magic Moment (feat. Chris de Sarandy)",
+      "url": "https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Magic Moment (feat. Chris de Sarandy)",
-        "url": "https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "Magic Moment (feat. Chris de Sarandy)",
-      "url": "https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1639,26 +1639,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1707,30 +1687,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Where Do I Go",
-        "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "Alpharock",
-          "url": "https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Where Do I Go",
-      "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
+      "duration_ms": 127714,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1763,6 +1735,34 @@
       "duration_ms": 149237,
       "name": "I'm Going Out",
       "url": "https://open.spotify.com/track/2FHwme6spTGP80vXHlOSAV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Where Do I Go",
+        "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Alpharock",
+          "url": "https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Where Do I Go",
+      "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1855,6 +1855,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 233604,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
       },
@@ -1871,42 +1895,6 @@
       "duration_ms": 155409,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "My Home",
-        "url": "https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1935,6 +1923,42 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2003,30 +2027,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 233604,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Where You Are (Zedd Remix)",
         "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
       },
@@ -2067,6 +2067,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Tears Don\u2019t Fall",
+        "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "duration_ms": 214323,
+      "name": "Tears Don\u2019t Fall",
+      "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Lucid Dream",
         "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
       },
@@ -2079,26 +2099,6 @@
       "duration_ms": 193235,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/6AG2dzUkeCrgMdh59urTUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 138562,
-      "name": "SHINE",
-      "url": "https://open.spotify.com/track/1vioIZPEbKDasDXRu8c11E"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2127,22 +2127,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Tears Don\u2019t Fall",
-        "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/6AG2dzUkeCrgMdh59urTUo"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
         }
       ],
-      "duration_ms": 214323,
-      "name": "Tears Don\u2019t Fall",
-      "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+      "duration_ms": 138562,
+      "name": "SHINE",
+      "url": "https://open.spotify.com/track/1vioIZPEbKDasDXRu8c11E"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2211,22 +2211,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Missing You (feat. Nate Smith)",
-        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
         }
       ],
-      "duration_ms": 187258,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+      "duration_ms": 279692,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
     }
   ],
   "unique_name": "EDM 2024",

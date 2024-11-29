@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 192625,
+  "num_followers": 196532,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2024-11-27 19:43:55",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2024-11-27 19:43:55",
+      "album": {
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 95760,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
-    },
-    {
-      "added_at": "2024-11-27 19:43:55",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2024-11-27 19:43:55",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 95760,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2024-11-27 19:43:55",
+      "album": {
         "name": "Winter Hat",
         "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 161811,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
-    },
-    {
-      "added_at": "2024-11-27 19:43:55",
-      "album": {
         "name": "O\u2019Holy Night",
         "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 173402,
       "name": "O\u2019Holy Night",
       "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
-    },
-    {
-      "added_at": "2024-11-27 19:43:55",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+    },
+    {
+      "added_at": "2024-11-27 19:43:55",
+      "album": {
         "name": "ugly xmas sweater party",
         "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "Santa Baby (Recorded at Strongroom Studios London)",
-        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
         }
       ],
-      "duration_ms": 163741,
-      "name": "Santa Baby - Recorded at Strongroom Studios London",
-      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
+      "duration_ms": 121480,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF"
+        "name": "Santa Baby (Recorded at Strongroom Studios London)",
+        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
       },
       "artists": [
         {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 121480,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2"
+      "duration_ms": 163741,
+      "name": "Santa Baby - Recorded at Strongroom Studios London",
+      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
-    },
-    {
-      "added_at": "2024-11-27 19:43:55",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-11-27 19:43:55",
       "album": {
-        "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
-        "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
         }
       ],
-      "duration_ms": 225022,
-      "name": "Christmas Eve (Soul Purpose)",
-      "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
+      "duration_ms": 192440,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
     },
     {
       "added_at": "2024-11-27 19:43:55",
@@ -1247,6 +1231,22 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2024-11-27 19:43:55",
+      "album": {
+        "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
+        "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 225022,
+      "name": "Christmas Eve (Soul Purpose)",
+      "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
     }
   ],
   "unique_name": "Indie Christmas",

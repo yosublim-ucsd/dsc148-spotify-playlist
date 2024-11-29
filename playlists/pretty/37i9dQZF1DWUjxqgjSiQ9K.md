@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,358 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,440 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 16 | [Bendita Sangre \- Live](https://open.spotify.com/track/2q2vvdkpytWG2CUIGxzoGZ) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Bendita Sangre](https://open.spotify.com/album/4k0CH9XLmJfb0HjUYffymR) | 15:33 |
 | 17 | [Viento Y Fuego](https://open.spotify.com/track/0YO3ZAN6xDAf4Ppwic7hFQ) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Algo Nuevo Viene](https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX) | 7:07 |
 | 18 | [Habita \- Live](https://open.spotify.com/track/7zdFxQhgrHC3WI2NfRiRR6) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Habita \(Live\)](https://open.spotify.com/album/5DHbZGCZfthgf1yKRgnYDV) | 6:58 |
-| 19 | [Worthy \(feat\. Yandel\)](https://open.spotify.com/track/2X9pPhUKzlmThqWiWp6a4L) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Worthy \(feat\. Yandel\)](https://open.spotify.com/album/60A7ZBZ41jcHBa6MAtL0md) | 2:58 |
+| 19 | [Worthy](https://open.spotify.com/track/2X9pPhUKzlmThqWiWp6a4L) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Worthy](https://open.spotify.com/album/60A7ZBZ41jcHBa6MAtL0md) | 2:58 |
 | 20 | [El mood](https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Base y fundamento](https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72) | 2:53 |
 | 21 | [Otra Vez](https://open.spotify.com/track/17nibmm08dDXmL2U8mtjaR) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Otra Vez](https://open.spotify.com/album/5OZRIdpZD8OuTNF9KAhydo) | 3:13 |
 | 22 | [Novus](https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [NOVUS](https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY) | 3:38 |

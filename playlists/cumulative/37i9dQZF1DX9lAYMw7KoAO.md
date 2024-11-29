@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=PbLQzRB\-Rlq06R8mFkB1CA">Anendlessocean</a>
 
-434 songs - 1 day 13 hr 59 min
+435 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ascend](https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Ascend](https://open.spotify.com/album/5FlHPCYzDDLhHsNTwmT3nm) | 9:59 | 2021-10-18 | 2023-04-01 |
 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-06-09 |  |
 | [Aseda 3 Music \- Live](https://open.spotify.com/track/0WlZUtnSjrhcxCxAM4ZWC6) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda 3 Music \(Live\)](https://open.spotify.com/album/4ooUFS9MpoDPmblApehAqw) | 4:17 | 2023-08-04 | 2023-08-25 |
-| [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-09-23 |  |
+| [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-09-23 | 2024-11-29 |
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-08-25 | 2023-09-01 |
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2023-08-25 | 2023-09-01 |
 | [Awesome God](https://open.spotify.com/track/2tiRGU9qYi04MjQVHUI4qq) | [Tembalami](https://open.spotify.com/artist/4xKkR6aTDm0Qc9m9iXjMoZ) | [Faith Aid Kit](https://open.spotify.com/album/0IpkJUzNR2N5uyKzn88PyH) | 4:38 | 2018-10-01 | 2023-04-01 |
@@ -293,6 +293,7 @@
 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2023-08-11 | 2024-07-05 |
 | [Ogologo](https://open.spotify.com/track/4azoJ0e7rxYKARSzLf2nfX) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Ogologo](https://open.spotify.com/album/6luZYQRH1UNR87gNL81HjO) | 3:08 | 2023-08-25 | 2023-09-01 |
 | [Okay](https://open.spotify.com/track/03UnPfDS0FvZzi0Z3I7yue) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/7H0fhbJWzN4zP9aPWwSLRl) | 2:35 | 2020-09-17 | 2023-05-05 |
+| [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-11-29 |  |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2023-08-25 | 2023-09-01 |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-03-31 | 2023-06-23 |
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2021-03-25 | 2023-04-28 |

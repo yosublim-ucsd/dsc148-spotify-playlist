@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 170374,
       "name": "Ambiorix",
       "url": "https://open.spotify.com/track/7J3nQarp8FIGvQVk2vQytB"
@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1DlmOoDd9T7j29fUB8cOsq"
+      },
+      "artists": [
+        {
+          "name": "Solar Collective",
+          "url": "https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153252,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6bC9aCrFNtCrX3EErko1gL"
+    },
+    {
+      "album": {
         "name": "Renacer en Calma",
         "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
       },
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 178750,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/19PlKAonAMJI24h468rBFp"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151714,
       "name": "In Solitude",
       "url": "https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71"
@@ -3560,6 +3578,24 @@
       "duration_ms": 213621,
       "name": "Irmas",
       "url": "https://open.spotify.com/track/2Wod7pTNsGwJwZDQIt8N4H"
+    },
+    {
+      "album": {
+        "name": "Itemized",
+        "url": "https://open.spotify.com/album/0le8AtWfFsqV2UB4U01ZcJ"
+      },
+      "artists": [
+        {
+          "name": "Holzer",
+          "url": "https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170427,
+      "name": "Itemized",
+      "url": "https://open.spotify.com/track/1bZlCoTfq20bZh62fHZFOw"
     },
     {
       "album": {
@@ -4186,7 +4222,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 180352,
       "name": "Miuys",
       "url": "https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge"
@@ -5050,7 +5086,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168180,
       "name": "Peaks",
       "url": "https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv"
@@ -5194,7 +5230,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 190500,
       "name": "Positive Reaction",
       "url": "https://open.spotify.com/track/2iU9lxQ5XbDn1TVYVl2ciQ"
@@ -6533,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Subdued",
+        "url": "https://open.spotify.com/album/2ZFcz18FfobqSYG3jPlq6t"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Subdued",
+      "url": "https://open.spotify.com/track/3NnOISTgydjYvBvV49JVXx"
+    },
+    {
+      "album": {
         "name": "Submerged",
         "url": "https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV"
       },
@@ -7520,7 +7574,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 205051,
       "name": "When It Was Just A Dream",
       "url": "https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc"
@@ -7592,7 +7646,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 154137,
       "name": "Winds Of The Night",
       "url": "https://open.spotify.com/track/05IatHk1cfPpJ4ZQBc4O11"

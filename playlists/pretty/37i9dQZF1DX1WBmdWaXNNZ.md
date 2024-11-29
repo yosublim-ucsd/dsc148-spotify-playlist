@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,091 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,112 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 55 | [湯気](https://open.spotify.com/track/3EMr3gNOpGCC4Uaty4sCcB) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 2:56 |
 | 56 | [穴を掘る](https://open.spotify.com/track/5jgmSmIUIMjuaoDbER4Wgs) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 2:48 |
 | 57 | [彼方](https://open.spotify.com/track/0X6YqzGOAaShLBr6HmnTxT) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [夢の外へ](https://open.spotify.com/album/16Qv1FdwQb59zNHBNG94lb) | 4:01 |
-| 58 | [Night Troop](https://open.spotify.com/track/0CdWeglfN1w2ZlK1yk4kgK) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Crazy Crazy/桜の森](https://open.spotify.com/album/6MpR8BS7yIKKS2DPejjYvw) | 3:26 |
+| 58 | [Night Troop](https://open.spotify.com/track/0CdWeglfN1w2ZlK1yk4kgK) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Crazy Crazy／桜の森](https://open.spotify.com/album/6MpR8BS7yIKKS2DPejjYvw) | 3:26 |
 | 59 | [KIDS](https://open.spotify.com/track/48xCwzYgpO629btODlQxgK) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:46 |
 | 60 | [Nothing](https://open.spotify.com/track/037Z9dmkkqelP4cU0fcqWs) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:40 |
 | 61 | [ばかのうた](https://open.spotify.com/track/6CkWNqNXkCpYx55if8I9oj) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 3:25 |

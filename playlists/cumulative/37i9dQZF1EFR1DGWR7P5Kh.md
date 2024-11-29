@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 50 min
+52 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [My Way \(feat\. Common, Lloyd & Kendrick Lamar\)](https://open.spotify.com/track/1MiOERiZEithQZt3SviVPl) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Quality Street Music](https://open.spotify.com/album/7dRun7qvnfPxrC41bgI0WH) | 3:38 | 2021-12-27 | 2023-12-24 |
 | [My Way \(feat\. Common, Lloyd & Kendrick Lamar\)](https://open.spotify.com/track/3MUTO5VJza3DjSGyAcyFtb) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:38 | 2023-12-23 |  |
 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 | 2021-12-27 |  |
+| [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 | 2024-11-28 |  |
 | [No Caption](https://open.spotify.com/track/0oxJLSSARMeex4ECEFa5jG) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [No Caption](https://open.spotify.com/album/79AFj3rfMfrKcXPaJVfUuE) | 2:26 | 2021-12-27 |  |
 | [One Time](https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 4:22 | 2021-12-27 |  |
 | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/4A3ndoCydKhWbeny68qmNC) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/4l5OxJiSL2UXAvYjegmz4m) | 3:51 | 2023-12-13 |  |

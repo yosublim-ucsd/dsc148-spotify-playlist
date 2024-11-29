@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,974 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,976 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 21 | [Hyper Hyper](https://open.spotify.com/track/69X71ZUtJA2zbkaQXY59XF) | [Byron Yeates](https://open.spotify.com/artist/4Pt24uijuBP8PsTmE62liN) | [Time Machine](https://open.spotify.com/album/1fEy0e6RZITzEnkcZ3sYWm) | 6:08 |
 | 22 | [A Journey](https://open.spotify.com/track/3pQjxKg6aH5tgZE4SaHj4k) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [A Journey](https://open.spotify.com/album/6jVKnTYeWznLXEb8t4HdFA) | 6:13 |
 | 23 | [Witch King](https://open.spotify.com/track/45Cepmf3dCTQrsSTwlcunY) | [Body Clinic](https://open.spotify.com/artist/6yDOr6Z8ADMUhr9fsi2dgl) | [BH\-02](https://open.spotify.com/album/5eRPxjBPSM1HFF2qJAP1F8) | 5:12 |
-| 24 | [Psycho \(Roza Terenzi Remix\)](https://open.spotify.com/track/4BaHHPCJhauqK4NS1XTDGJ) | [Baraka](https://open.spotify.com/artist/6EjnvgTO514mUFDlwZtUu7), [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Psycho](https://open.spotify.com/album/22cpPqSe2cfSpVSbZiapkC) | 5:50 |
+| 24 | [Psycho \(Roza Terenzi Remix\)](https://open.spotify.com/track/4BaHHPCJhauqK4NS1XTDGJ) | [Pureblast](https://open.spotify.com/artist/3N6RArrKKab6iZDer6wdbX), [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Psycho](https://open.spotify.com/album/22cpPqSe2cfSpVSbZiapkC) | 5:50 |
 | 25 | [To\-K](https://open.spotify.com/track/3krMW85c3YU8KvyNMNs9ck) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Rise of the Raptor](https://open.spotify.com/album/414IHjHdQBRGJQqazfx1JH) | 4:09 |
 | 26 | [Error De Perdedor](https://open.spotify.com/track/2b0BCakBcG8fKKmGYI3W7e) | [Gaston Fiore](https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn) | [Back To The Old School](https://open.spotify.com/album/7vtpg1spxvpPTHfDlylZhg) | 3:45 |
 | 27 | [Papua New Guinea \- 12" Original Mix](https://open.spotify.com/track/1tG5Tdihl13aTLNZHoIbJJ) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Papua New Guinea](https://open.spotify.com/album/4D5PVEXHKVHOS4TvYArzJV) | 5:00 |

@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Yo Hai Haryanvi Hip\-Hop! Cover: DG Immortals & Parmish Verma
 
-312 songs - 16 hr 9 min
+313 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 | 2023-09-27 |  |
 | [140](https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [140](https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ) | 2:53 | 2024-07-08 | 2024-11-05 |
 | [2 Days](https://open.spotify.com/track/1XNKXmkefgu40Np0EwJ82V) | [Raag 1](https://open.spotify.com/artist/6gwSMvUSpSdzBBWQY5cPnh), [Bobby Hope](https://open.spotify.com/artist/4jRroQI1GgH5cZKMMZJyAZ) | [2 Days](https://open.spotify.com/album/5cSPw8wV59vAOWuPA9zXav) | 3:16 | 2024-11-26 |  |
+| [2 Number](https://open.spotify.com/track/1Vkmw7gIjtBlScxQRyIBmQ) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [2 Number](https://open.spotify.com/album/7uogQySx6Oreqn7c6pxHHd) | 3:08 | 2024-11-28 |  |
 | [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 | 2024-05-11 |
 | [24 Carat](https://open.spotify.com/track/6i7wtqo9gPCc0XMs6j1PF8) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [24 Carat](https://open.spotify.com/album/0ZNoe4fHoGA5OMVQXoLYbk) | 3:17 | 2024-02-06 | 2024-04-10 |
 | [24 Parche](https://open.spotify.com/track/0AZJ1kTo2H9IbvBS3wNrRF) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 1:55 | 2024-04-30 | 2024-05-28 |
@@ -161,7 +162,7 @@
 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 | 2024-01-05 |
 | [Jaat Warriors](https://open.spotify.com/track/34A6afqf198Tg75CSQ5csO) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/6IarN2HJWcunKkPf46tsU9) | 2:43 | 2024-02-12 | 2024-04-19 |
 | [Jaatan Ka Khoon](https://open.spotify.com/track/5HDjg1dQlSyZxZRHBeyfMk) | [Sukh Deswal](https://open.spotify.com/artist/45YUQZr5AoXTOlVLBX07NF), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Jaatan Ka Khoon](https://open.spotify.com/album/26mkB6zfQaAq8RrvOt2jKv) | 2:24 | 2024-04-30 | 2024-08-27 |
-| [Jadugarni](https://open.spotify.com/track/5aLXtQEdnNajRY8JTv81C2) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Jadugarni](https://open.spotify.com/album/2dZx3ML6nkjS8tA1wgh3Ya) | 2:44 | 2024-02-12 |  |
+| [Jadugarni](https://open.spotify.com/track/5aLXtQEdnNajRY8JTv81C2) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Jadugarni](https://open.spotify.com/album/2dZx3ML6nkjS8tA1wgh3Ya) | 2:44 | 2024-02-12 | 2024-11-29 |
 | [JagPal](https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [JagPal](https://open.spotify.com/album/067lRvGEDxtt6MwMSJyhpk) | 2:23 | 2023-03-28 | 2023-07-12 |
 | [Jai Haryana](https://open.spotify.com/track/0WQRZiBSaPuOKIFmgCIYAv) | [The Revolutions](https://open.spotify.com/artist/6igkfBT5f2WGeedteb4bqb) | [Jai Haryana](https://open.spotify.com/album/5Q5D9I1d99Rh7NRlvHj013) | 3:00 | 2024-07-03 | 2024-07-19 |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-03-28 | 2023-09-28 |

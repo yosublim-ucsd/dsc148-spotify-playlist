@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Helena",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Stromae et Pomme",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169582,
       "name": "Ange",
       "url": "https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 197533,
       "name": "donne tout",
       "url": "https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit"
@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "je vais bien.",
+        "url": "https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "je vais bien.",
+      "url": "https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw"
+    },
+    {
+      "album": {
         "name": "Je veux, je veux, je veux",
         "url": "https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS"
       },
@@ -2650,6 +2668,24 @@
       "duration_ms": 162706,
       "name": "Mauvais gar\u00e7on",
       "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/3kF6Rpu6DSBzk26TTHG3U2"
+      },
+      "artists": [
+        {
+          "name": "Kaky",
+          "url": "https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/7xIXUDJ1NCJHSytNF2neR9"
     },
     {
       "album": {

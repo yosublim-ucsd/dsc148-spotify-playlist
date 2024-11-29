@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa J. Karjalainen.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Apulanta.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 214698,
       "name": "Anna K.",
       "url": "https://open.spotify.com/track/0XIyge4FqVuwSgDZeEZnf1"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Joni Ekman Group",
+        "url": "https://open.spotify.com/album/4oc1CplQfSwiiFPrRRZzhN"
+      },
+      "artists": [
+        {
+          "name": "Joni Ekman",
+          "url": "https://open.spotify.com/artist/4RYXmp0JLdPVLHnad9qivJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130834,
+      "name": "En katso taakseni",
+      "url": "https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE"
+    },
+    {
+      "album": {
         "name": "En tahtoisi kuulla susta en\u00e4\u00e4 mit\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN"
       },
@@ -680,6 +698,28 @@
       "duration_ms": 212320,
       "name": "Haluaako Piepponen turpaan?",
       "url": "https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9"
+    },
+    {
+      "album": {
+        "name": "Hautajaismuusikot",
+        "url": "https://open.spotify.com/album/6y9Hiiy0KfBSmXWDUlWYiz"
+      },
+      "artists": [
+        {
+          "name": "Karri Lehtonen",
+          "url": "https://open.spotify.com/artist/1DfYnEWrVM7KTAqe10SReh"
+        },
+        {
+          "name": "Hautajaismuusikot",
+          "url": "https://open.spotify.com/artist/3PPl2pAFIUANr7LFMj5GHy"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248698,
+      "name": "Hautajaismuusikot",
+      "url": "https://open.spotify.com/track/1lTKyfgZBIbaRrGIRG1Jmb"
     },
     {
       "album": {
@@ -953,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Jokainen maaliviiva",
+        "url": "https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3"
+      },
+      "artists": [
+        {
+          "name": "Kissa",
+          "url": "https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294556,
+      "name": "Jokainen maaliviiva",
+      "url": "https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ"
+    },
+    {
+      "album": {
         "name": "Jokaiselle jotakin",
         "url": "https://open.spotify.com/album/1UyCAuD7IiNINPDC9crXQS"
       },
@@ -1004,6 +1062,28 @@
       "duration_ms": 209500,
       "name": "Joku \u00e4ij\u00e4 vei mun kangaskassin",
       "url": "https://open.spotify.com/track/71f4qBrT3chsVi4k8yWNLS"
+    },
+    {
+      "album": {
+        "name": "Jos alkaa saan uudelleen",
+        "url": "https://open.spotify.com/album/3Wg2cVxspa7N5KgXxtC0vC"
+      },
+      "artists": [
+        {
+          "name": "Jani Matti Juhani",
+          "url": "https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a"
+        },
+        {
+          "name": "Knipi",
+          "url": "https://open.spotify.com/artist/4wLgqkai4BYWNKbHcQJi7c"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137700,
+      "name": "Jos alkaa saan uudelleen",
+      "url": "https://open.spotify.com/track/3ETvZjC9p1RV8UHokrjBdM"
     },
     {
       "album": {
@@ -1120,10 +1200,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 155727,
       "name": "J\u00e4tk\u00e4n humppa",
       "url": "https://open.spotify.com/track/0tBzPIIuAFNtFPUALFHf73"
+    },
+    {
+      "album": {
+        "name": "Kadonnut kaamokseen",
+        "url": "https://open.spotify.com/album/2bAWRGAZtBFdrkJV012Do9"
+      },
+      "artists": [
+        {
+          "name": "Tuomo Mannonen",
+          "url": "https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179763,
+      "name": "Kadonnut kaamokseen",
+      "url": "https://open.spotify.com/track/68pm6FHAdoLVreb87luOip"
     },
     {
       "album": {
@@ -1286,7 +1384,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 233773,
       "name": "Kemin savut",
       "url": "https://open.spotify.com/track/0R3DcHNuWvQucIRjZWY8E1"
@@ -1992,7 +2090,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 194853,
       "name": "Me ollaan niin pienii",
       "url": "https://open.spotify.com/track/6vwccN8uniz3l1mNwVBdzl"
@@ -2050,6 +2148,24 @@
       "duration_ms": 297925,
       "name": "Meri josta el\u00e4n",
       "url": "https://open.spotify.com/track/1FGwbuI501ZwGBrncqb4lI"
+    },
+    {
+      "album": {
+        "name": "Mielenkiintona toimintaa",
+        "url": "https://open.spotify.com/album/3BpUyn4iL0a5zpIQiJ13ui"
+      },
+      "artists": [
+        {
+          "name": "PIMEE",
+          "url": "https://open.spotify.com/artist/0IDEQvvWfj2E7sPTXqBGit"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Mielenkiintona toimintaa",
+      "url": "https://open.spotify.com/track/6P3TP4tgr3RqLGpBZZASmj"
     },
     {
       "album": {
@@ -2619,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Pid\u00e4 must huolta",
+        "url": "https://open.spotify.com/album/53f1dbr5oM4gcKqwXmshhk"
+      },
+      "artists": [
+        {
+          "name": "Tunnelbana",
+          "url": "https://open.spotify.com/artist/5bNNuGL4THQqa5FIXs3Mdm"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Pid\u00e4 must huolta",
+      "url": "https://open.spotify.com/track/4Tafll24hcEHzCHHNbyr3X"
+    },
+    {
+      "album": {
         "name": "Pienest\u00e4 pit\u00e4en",
         "url": "https://open.spotify.com/album/3jYGchiScibECdKPEdmKe5"
       },
@@ -2810,7 +2944,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 211161,
       "name": "Rakkautta & anarkiaa",
       "url": "https://open.spotify.com/track/154heblJv4md1puOCiEFWq"
@@ -2918,7 +3052,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 213355,
       "name": "Ruusu",
       "url": "https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX"
@@ -3044,7 +3178,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 210866,
       "name": "Se mik\u00e4 ei tapa",
       "url": "https://open.spotify.com/track/6w1vP5SziTqpvFkHzVOU8D"
@@ -3383,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Suru teki taas kodin sun sis\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS"
+      },
+      "artists": [
+        {
+          "name": "Ikuinenkes\u00e4",
+          "url": "https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172257,
+      "name": "Suru teki taas kodin sun sis\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB"
+    },
+    {
+      "album": {
         "name": "Sut luotiin lumoamaan",
         "url": "https://open.spotify.com/album/5j7QkVGfjNZHCpQzDf9iES"
       },
@@ -3700,7 +3852,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175889,
       "name": "Tuonelan tuulet",
       "url": "https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE"
@@ -3959,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Vie meid\u00e4t t\u00e4\u00e4lt\u00e4 pois",
+        "url": "https://open.spotify.com/album/2O9iQqieq0yPtLIIKzrUhV"
+      },
+      "artists": [
+        {
+          "name": "Likaiset Pikkarit",
+          "url": "https://open.spotify.com/artist/2yckomJkcl94rQYu8outXS"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158247,
+      "name": "Vie meid\u00e4t t\u00e4\u00e4lt\u00e4 pois",
+      "url": "https://open.spotify.com/track/76QqtA3mTSyqzCJBd5tMiN"
+    },
+    {
+      "album": {
         "name": "Vihaa ja rakkautta",
         "url": "https://open.spotify.com/album/4Qz9J3ZUGhN2Dk6hIuLsao"
       },
@@ -4024,7 +4194,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162744,
       "name": "VMP",
       "url": "https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI"
@@ -4166,7 +4336,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 222400,
       "name": "\u00c4idin tytt\u00f6",
       "url": "https://open.spotify.com/track/2eF1S0SQVUwh2HLJlQ3LZO"
@@ -4188,6 +4358,24 @@
       "duration_ms": 203940,
       "name": "\u00c4kkil\u00e4ht\u00f6",
       "url": "https://open.spotify.com/track/3S07whFULQyuYyNWkoblap"
+    },
+    {
+      "album": {
+        "name": "\u00c4l\u00e4 Itke",
+        "url": "https://open.spotify.com/album/6xdkWjLLb1qFy2AmnXgokR"
+      },
+      "artists": [
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/5Yt3NcGVg8EBrHNUqkS6bm"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188966,
+      "name": "\u00c4l\u00e4 Itke",
+      "url": "https://open.spotify.com/track/55Q7QT05lB5Iyl606l7Jyz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n"

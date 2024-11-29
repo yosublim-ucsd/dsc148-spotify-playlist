@@ -2,13 +2,13 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Oswald
+> Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
 187 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-10-24 | 2024-11-09 |
+| [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-10-24 |  |
 | [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 | 2024-04-18 | 2024-06-28 |
 | [A GOU A\-W](https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws) | [Tronixx](https://open.spotify.com/artist/6RO2UXynldo4GeiBvccA5M), [Fécat'jy](https://open.spotify.com/artist/6El92u2iCNwzyOQPXpparK) | [A GOU A\-W](https://open.spotify.com/album/6DojCUM0aZVwBzq021MUt8) | 3:29 | 2024-01-18 | 2024-02-09 |
 | [Alchimie](https://open.spotify.com/track/24LZjnwdJ7jn8aiW3Ym70D) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Alchimie](https://open.spotify.com/album/0KUAKOJFUlocgmrwGwvV07) | 3:11 | 2024-04-04 |  |
@@ -80,7 +80,7 @@
 | [Karésé Mwen \- Toi et Moi](https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ) | [Dj Jackson](https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB), [Methi's](https://open.spotify.com/artist/4Sx9MLqVbK6oUTFK9HrEoa), [KENNY HAITI](https://open.spotify.com/artist/6xK22PI2rZCvTE4KECYDb7) | [Karésé Mwen \(Toi et Moi\)](https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5) | 4:54 | 2023-09-28 | 2023-10-27 |
 | [KEN](https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [KEN](https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM) | 3:19 | 2023-12-08 | 2024-02-23 |
 | [Kitem Ale](https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 3:52 | 2024-04-04 |  |
-| [Kité mwen viv](https://open.spotify.com/track/5SvnOPyDmVeKX7ScUvHeBH) | [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4), [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4) | [Kité mwen viv](https://open.spotify.com/album/66bbikdf2Uz1ufYHVieGAu) | 3:27 | 2024-10-17 |  |
+| [Kité mwen viv](https://open.spotify.com/track/5SvnOPyDmVeKX7ScUvHeBH) | [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4), [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4) | [Kité mwen viv](https://open.spotify.com/album/66bbikdf2Uz1ufYHVieGAu) | 3:27 | 2024-10-17 | 2024-11-29 |
 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 | 2023-09-28 | 2023-11-17 |
 | [LA BEST](https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [RMN’PROD](https://open.spotify.com/artist/2mV9eCX5doDUKeBRD4uV1i) | [LA BEST](https://open.spotify.com/album/2AnxHAMKA64G2gat36DDVa) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [La la land \(Part\. 2\)](https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [La la land \(Part\. 2\)](https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2) | 3:58 | 2024-07-11 |  |

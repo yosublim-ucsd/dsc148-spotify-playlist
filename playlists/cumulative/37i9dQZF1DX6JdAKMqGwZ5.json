@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: rusowsky, Bb trickz.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 152548,
       "name": "Buscando Mitades",
       "url": "https://open.spotify.com/track/6hdEvBSGqMsoHGk9PZXahB"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 117891,
       "name": "COMO YO",
       "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
+      },
+      "artists": [
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Desde El Otro Lado",
+      "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+    },
+    {
+      "album": {
         "name": "Destra",
         "url": "https://open.spotify.com/album/1YmTA0BCvH8mZgBYvsuJ8p"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 202429,
       "name": "Drama en el Sonorama",
       "url": "https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
@@ -2332,6 +2350,24 @@
       "duration_ms": 199451,
       "name": "La Ni\u00f1a [2000]",
       "url": "https://open.spotify.com/track/59zRZ7eFYSXVjzu4W6fx86"
+    },
+    {
+      "album": {
+        "name": "la soledad",
+        "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197383,
+      "name": "la soledad",
+      "url": "https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW"
     },
     {
       "album": {
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 172562,
       "name": "Mimetizarnos",
       "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 164870,
       "name": "Tengo que despertar",
       "url": "https://open.spotify.com/track/0gM4UMvAiejJuZpUdeSdoO"
@@ -4456,7 +4492,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 183123,
       "name": "TUCUCU",
       "url": "https://open.spotify.com/track/6af48Ny0ELO6KOnst9GY32"
@@ -4536,6 +4572,28 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+    },
+    {
+      "album": {
+        "name": "uwu ^^",
+        "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "uwu ^^",
+      "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
     },
     {
       "album": {

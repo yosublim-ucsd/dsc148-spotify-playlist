@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ama Yine Sen",
+        "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134946,
+      "name": "Ama Yine Sen",
+      "url": "https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 268494,
       "name": "Bir K\u0131\u015f Masal\u0131",
       "url": "https://open.spotify.com/track/4AF4SBaAnrqYNWxJgz3vjV"
@@ -613,6 +631,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
+        "url": "https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV"
+      },
+      "artists": [
+        {
+          "name": "ZED\u0130",
+          "url": "https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139585,
+      "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
+      "url": "https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5"
+    },
+    {
+      "album": {
         "name": "Elini Ver",
         "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
       },
@@ -812,7 +848,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196864,
       "name": "Hay\u0131rl\u0131 G\u00fcnler",
       "url": "https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt"
@@ -1095,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "album": {
         "name": "Merhametsiz",
         "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
       },
@@ -1106,7 +1168,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 246494,
       "name": "Merhametsiz",
       "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
@@ -1516,7 +1578,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 209136,
       "name": "Tek Ba\u015f\u0131ma",
       "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
@@ -1556,6 +1618,24 @@
       "duration_ms": 215172,
       "name": "T\u0131rna\u011f\u0131n K\u0131r\u0131lmas\u0131n",
       "url": "https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU"
+    },
+    {
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "VURDUM TELLER\u0130NE",
+      "url": "https://open.spotify.com/track/5Y5fFEqazjbtNAgbx9noTF"
     },
     {
       "album": {

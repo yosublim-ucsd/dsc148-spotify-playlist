@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 188 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 188 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 63 | [Paris is a Lonely Town](https://open.spotify.com/track/4pGzL03XRZL9OdMSFz9ZGK) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 4:35 |
 | 64 | [Night](https://open.spotify.com/track/3MPfRldAmsHbQiglpKXkTp) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Baby's Bedtime](https://open.spotify.com/album/4T24U4z2YTGmX88EaVuCrX) | 2:12 |
 | 65 | [Time And Tide](https://open.spotify.com/track/4eDssR4UFFvm0StH3Butti) | [Red Norvo Trio](https://open.spotify.com/artist/2TL0zejnnKDrll8hy5E0nM) | [The Savoy Sessions: The Red Norvo Trio](https://open.spotify.com/album/3KnBB66rB52svJzqp6tstV) | 2:34 |
-| 66 | [What Can You Say in a Love Song](https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Incredible Richard Himber & His Orchestra](https://open.spotify.com/album/7EVN1JHWkDsPzxPkmmsFQm) | 3:14 |
-| 67 | [You're a Builder Upper](https://open.spotify.com/track/0nJqmfXJjQIZ1DEa0R6SyP) | [Will Osborne And His Orchestra](https://open.spotify.com/artist/5yYqSnLFU75PQVKIEWG3eu) | [Will Osborne and His Orchestra, 1934, Also Red Nichols and His Orchestra, 1936](https://open.spotify.com/album/6GAMtlMXxw3Fd1ilQfuPZr) | 2:37 |
+| 66 | [You're a Builder Upper](https://open.spotify.com/track/0nJqmfXJjQIZ1DEa0R6SyP) | [Will Osborne And His Orchestra](https://open.spotify.com/artist/5yYqSnLFU75PQVKIEWG3eu) | [Will Osborne and His Orchestra, 1934, Also Red Nichols and His Orchestra, 1936](https://open.spotify.com/album/6GAMtlMXxw3Fd1ilQfuPZr) | 2:37 |
+| 67 | [What Can You Say in a Love Song](https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Incredible Richard Himber & His Orchestra](https://open.spotify.com/album/7EVN1JHWkDsPzxPkmmsFQm) | 3:14 |
 | 68 | [Exit Music: \(A\) Jazz Baby \(B\) Jimmy \(C\) Thoroughly Modern Millie](https://open.spotify.com/track/3kwsJlTaRI4Rt6HUASzJtJ) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Thoroughly Modern Millie](https://open.spotify.com/album/1San4zGcXNBKHQbgtBfUbE) | 2:36 |
 | 69 | [Happiest Girl in the World](https://open.spotify.com/track/4EAfQBOMsisU159cHoBxAl) | [Plus 4](https://open.spotify.com/artist/7bwxKK7KGQ37lZ1Fv0Neta) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:45 |
 | 70 | [Fun To Be Fooled](https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC) | [Teddi King/John Meyer](https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ) | [Teddi King, Live at The Painted Pony](https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD) | 2:16 |
@@ -189,12 +189,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 179 | [Edelaine](https://open.spotify.com/track/44Jj8bvEXzw6uJDzr9yHf1) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:52 |
 | 180 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 |
 | 181 | [Promise Me Not to Love Me](https://open.spotify.com/track/4Jz1jNsPwGIKNJAiDNmrwJ) | [David Keith Jones](https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7) | [Arlen Magic](https://open.spotify.com/album/2PIEp4cjSXpwIrXuOWUQGS) | 3:12 |
-| 182 | [Love Comes in Many Different Colors](https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:24 |
-| 183 | [Crazy Old World](https://open.spotify.com/track/4nRDzupVtLnkjwZ5W4nZrq) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:16 |
+| 182 | [Crazy Old World](https://open.spotify.com/track/4nRDzupVtLnkjwZ5W4nZrq) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:16 |
+| 183 | [Love Comes in Many Different Colors](https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:24 |
 | 184 | [Honorable Moon \- Princess O'Rourke, 1943](https://open.spotify.com/track/5SQyDZHDvhNa2uuA5DXqWV) | [Nan Wynn](https://open.spotify.com/artist/01fbAIanLsfk95sETzqHdh) | [Best OLIVIA DE HAVILLAND Early Movie Themes, Vol\. 1](https://open.spotify.com/album/1slkBt8QzYVb57LWkRgVOC) | 2:21 |
 | 185 | [Hot Moonlight](https://open.spotify.com/track/3XDEtILipdstPlK9y5mp2W) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
 | 186 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbiqAAAAAAD2E/fJM7otiKlnowF+JI9R`
+Snapshot ID: `AbivoAAAAACVMGO67wJuXBNH49RjYcb0`

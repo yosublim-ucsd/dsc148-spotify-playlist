@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-424 songs - 1 day 2 hr 34 min
+425 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Joy! He Shall Reign](https://open.spotify.com/track/5sSYPQhy2vUqEyUpabt9QP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Joy! He Shall Reign](https://open.spotify.com/album/2hpGum3ctcqVd7IdKQS1ul) | 3:24 | 2021-12-24 |  |
 | [Joyful, Joyful](https://open.spotify.com/track/1lu6ScmSxrsI0J2FzjohGw) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Away In A Manger](https://open.spotify.com/album/4ZENQNgVwl7qkgHIhmDOk6) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Joyful, Joyful, We Adore Thee](https://open.spotify.com/track/2kLqVNbsz0ySTx3T1W2JZV) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [Joyful, Joyful, We Adore Thee](https://open.spotify.com/album/0mrJNSlR0ehLjTxWiJFULu) | 4:27 | 2024-11-17 |  |
-| [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 |  |
+| [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2024-11-29 |
 | [Just a Girl](https://open.spotify.com/track/0grZxMpNFzHwF8nJ0HG9QU) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Christmas is Here](https://open.spotify.com/album/4SguiqcjQJJgPx9Hxyo5Se) | 4:24 | 2021-12-24 | 2024-08-02 |
 | [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2021-12-24 | 2022-07-26 |
 | [Last Christmas With You](https://open.spotify.com/track/4EIsjsmCaoEK0MNSjfTCBq) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Last Christmas With You](https://open.spotify.com/album/0PWwUOsXl9ahnZabFIXtjL) | 3:29 | 2021-12-24 | 2022-07-29 |
@@ -266,6 +266,7 @@
 | [May You Find a Light](https://open.spotify.com/track/4ihsQ2R46NSvGItUXcTpO7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:47 | 2021-12-24 |  |
 | [Maybe Christmas Will Make It Right](https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Maybe Christmas Will Make It Right](https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7) | 3:38 | 2022-12-11 |  |
 | [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2023-12-15 |  |
+| [Merry Christmas, Happy Holidays \- Radio Version](https://open.spotify.com/track/6G0t7FGJKJOVcAT2gfX0xE) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Merry Christmas, Happy Holidays](https://open.spotify.com/album/3muVVR6oXz7pepxadc2wGy) | 3:44 | 2024-11-17 |  |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
 | [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 |  |
 | [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 |  |

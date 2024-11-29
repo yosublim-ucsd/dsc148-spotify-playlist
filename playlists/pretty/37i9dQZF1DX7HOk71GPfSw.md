@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new music from Babymorocco & Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,028 likes - 163 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,043 likes - 163 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

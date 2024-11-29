@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Derin Mevzu",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: TUANA",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 170888,
       "name": "Aynen \u00d6yle",
       "url": "https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u"
+    },
+    {
+      "album": {
+        "name": "a\u015fk olsun",
+        "url": "https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk"
+      },
+      "artists": [
+        {
+          "name": "TUANA",
+          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180974,
+      "name": "a\u015fk olsun",
+      "url": "https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 135314,
       "name": "DOLDURDUM TABANCAMI",
       "url": "https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200547,
       "name": "Ekim",
       "url": "https://open.spotify.com/track/32CkDtvmJwrciS4BtWrd57"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 147790,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 159272,
       "name": "Kulak Asmad\u0131m",
       "url": "https://open.spotify.com/track/6O7HCwehEX8mU3GIW2JUnN"
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 264874,
       "name": "Laleler Beyaz",
       "url": "https://open.spotify.com/track/2QTpa3t9Jl913GbfiTJxjQ"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 121263,
       "name": "Sevmeyi Bilmeliydik",
       "url": "https://open.spotify.com/track/0Lxmwww1gG4okcAZtVirjd"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 185200,
       "name": "Sevmi\u015fsin Gibi",
       "url": "https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk"
@@ -1996,10 +2014,28 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 203141,
       "name": "Son Perde",
       "url": "https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ"
+    },
+    {
+      "album": {
+        "name": "Sonbahar",
+        "url": "https://open.spotify.com/album/2F5Ezf5vY94JUKvoW7J2g1"
+      },
+      "artists": [
+        {
+          "name": "Kaan K\u00fc\u00e7\u00fck",
+          "url": "https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "Sonbahar",
+      "url": "https://open.spotify.com/track/01ATofuZVa1yja9i9LCa6a"
     },
     {
       "album": {
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 152699,
       "name": "S\u00f6yle",
       "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
@@ -2238,7 +2274,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 153034,
       "name": "Veda",
       "url": "https://open.spotify.com/track/0NwM0mW9D9UaIvQO2YgW0K"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 190291,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/1TUfJJ1DHAX7pGeN9AkStH"
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 202702,
       "name": "Yoksa",
       "url": "https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695"

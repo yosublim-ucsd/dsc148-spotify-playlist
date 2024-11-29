@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > sam austins its your time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,966 likes - 147 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,994 likes - 147 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

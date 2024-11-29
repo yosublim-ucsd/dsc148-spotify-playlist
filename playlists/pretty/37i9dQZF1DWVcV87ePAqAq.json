@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 360775,
+  "num_followers": 360750,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 181672,
       "name": "Without You (feat. Sandro Cavazza)",
       "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "The Spark",
-        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
-      },
-      "artists": [
-        {
-          "name": "Kabin Crew",
-          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
-        },
-        {
-          "name": "Lisdoonvarna Crew",
-          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
-        }
-      ],
-      "duration_ms": 146384,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Fest i v\u00e5ra l\u00e4nder",
-        "url": "https://open.spotify.com/album/3NlgO6EYJpa6KKxFfb6TkG"
-      },
-      "artists": [
-        {
-          "name": "Pidde P",
-          "url": "https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS"
-        },
-        {
-          "name": "REMO",
-          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
-        },
-        {
-          "name": "Petter Northug Jr",
-          "url": "https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq"
-        }
-      ],
-      "duration_ms": 162861,
-      "name": "Fest i v\u00e5ra l\u00e4nder",
-      "url": "https://open.spotify.com/track/3LIVbFIzbWDgtkLt29Quhx"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Mwaki (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 177230,
       "name": "Mwaki - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Fest i v\u00e5ra l\u00e4nder",
+        "url": "https://open.spotify.com/album/3NlgO6EYJpa6KKxFfb6TkG"
+      },
+      "artists": [
+        {
+          "name": "Pidde P",
+          "url": "https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS"
+        },
+        {
+          "name": "REMO",
+          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
+        },
+        {
+          "name": "Petter Northug Jr",
+          "url": "https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq"
+        }
+      ],
+      "duration_ms": 162861,
+      "name": "Fest i v\u00e5ra l\u00e4nder",
+      "url": "https://open.spotify.com/track/3LIVbFIzbWDgtkLt29Quhx"
     },
     {
       "added_at": "2024-06-13 22:00:00",

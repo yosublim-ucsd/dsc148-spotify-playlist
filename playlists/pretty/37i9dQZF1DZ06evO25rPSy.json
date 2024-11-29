@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 24151,
+  "num_followers": 24154,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABzyNJcGNnbu8jCZR/huBj5",
+  "snapshot_id": "Z0ZhAAAAAABNaqZHhSzbWneKZJFAtNe1",
   "tracks": [
     {
       "added_at": null,
@@ -297,7 +297,7 @@
         }
       ],
       "duration_ms": 251026,
-      "name": "Tema del Adio\u0301s",
+      "name": "Tema del Adi\u00f3s",
       "url": "https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE"
     },
     {
@@ -509,7 +509,7 @@
         }
       ],
       "duration_ms": 256413,
-      "name": "Tu\u0301nel del Tiempo",
+      "name": "T\u00fanel del Tiempo",
       "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
     },
     {
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
       "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     },
     {
       "added_at": null,
@@ -609,7 +609,7 @@
         }
       ],
       "duration_ms": 317933,
-      "name": "Marilo\u0301",
+      "name": "Maril\u00f3",
       "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
     },
     {
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Hoy Me Llenar\u00e9 de Valor (Tema de Tereso)",
-      "url": "https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw"
+      "duration_ms": 236186,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
+      "duration_ms": 193186,
+      "name": "Hoy Me Llenar\u00e9 de Valor (Tema de Tereso)",
+      "url": "https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw"
     },
     {
       "added_at": null,
@@ -689,24 +689,8 @@
         }
       ],
       "duration_ms": 238200,
-      "name": "Se Te Parari\u0301an los Pelos",
+      "name": "Se Te Parar\u00edan los Pelos",
       "url": "https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "El Triunfo Tan So\u00f1ado",
-      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 237880,
       "name": "Ella y \u00e9l",
       "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "El Triunfo Tan So\u00f1ado",
+      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
     },
     {
       "added_at": null,

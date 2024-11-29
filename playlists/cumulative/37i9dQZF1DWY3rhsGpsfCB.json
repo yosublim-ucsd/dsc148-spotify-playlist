@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "girl",
+        "url": "https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG"
+      },
+      "artists": [
+        {
+          "name": "Sar\u00e0h Phenom",
+          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "Boyfriend In Paris",
+      "url": "https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H"
+    },
+    {
+      "album": {
         "name": "Boys Like U",
         "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
       },
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"

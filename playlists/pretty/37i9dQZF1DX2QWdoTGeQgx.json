@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54303,
+  "num_followers": 54302,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+        "name": "hi, i like you.",
+        "url": "https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "Yewy",
+          "url": "https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq"
         }
       ],
-      "duration_ms": 230060,
-      "name": "A Day That Feels Better",
-      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
+      "duration_ms": 187898,
+      "name": "comeoutside",
+      "url": "https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu"
     }
   ],
   "unique_name": "tired lei",

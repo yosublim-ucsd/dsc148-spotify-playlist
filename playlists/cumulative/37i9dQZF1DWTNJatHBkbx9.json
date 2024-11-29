@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: Baaba J",
+  "description": "From the alternative scene in Ghana. Cover: Malaika",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 179154,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/20WmTjQrBqDLvsSaLG6bKi"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/1XWVMGy4OxaBCSNLyX6mYs"
+      },
+      "artists": [
+        {
+          "name": "mala\u00efka",
+          "url": "https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236551,
+      "name": "Mine (The Daughter Song)",
+      "url": "https://open.spotify.com/track/4EWbRhMVdbRwBPOs6hY26A"
+    },
+    {
+      "album": {
         "name": "Mo Ko B3",
         "url": "https://open.spotify.com/album/0A97D5dehZVdHdf2sTuMRc"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 153965,
       "name": "My Way",
       "url": "https://open.spotify.com/track/46o3CbNVM2vIAMDSpP22os"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160823,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA"
@@ -2469,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "Shigege",
+        "url": "https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl"
+      },
+      "artists": [
+        {
+          "name": "Rvdical the Kid",
+          "url": "https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Shigege",
+      "url": "https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu"
+    },
+    {
+      "album": {
         "name": "Shika K3 Kotoku",
         "url": "https://open.spotify.com/album/7cmHiFkLU5ydMOKfX6sR9u"
       },
@@ -2872,6 +2912,24 @@
       "duration_ms": 190000,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc"
+    },
+    {
+      "album": {
+        "name": "LIMINAL SPACES",
+        "url": "https://open.spotify.com/album/5VeEgnUM7NaFDK8RsJpFmS"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "UNDER THE SUN",
+      "url": "https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo"
     },
     {
       "album": {

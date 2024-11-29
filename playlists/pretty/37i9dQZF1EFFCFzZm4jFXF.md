@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 106 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 106 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 34 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
 | 35 | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/track/7g8xeIDcQfN0j2WaLHKYxy) | [No Mondays](https://open.spotify.com/artist/7cSIDO4sCKFSTHP4Soan5t), [Haverklap](https://open.spotify.com/artist/2FhJxps0HPHf7Jwhi84Sig), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/album/6RMYulo6FcirlMOoTECJEt) | 3:09 |
 | 36 | [Black Soul Ceremony](https://open.spotify.com/track/4mXVIokibUvTrf0XPCpfJe) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Black Soul Ceremony](https://open.spotify.com/album/2Y95VVr68GKBNl0x9KEtTw) | 2:54 |
-| 37 | [Your Eyes](https://open.spotify.com/track/5A0adi2wTWMlyLnsnC67MZ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:30 |
-| 38 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 37 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 38 | [Your Eyes](https://open.spotify.com/track/5A0adi2wTWMlyLnsnC67MZ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:30 |
 | 39 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
 | 40 | [Love Language](https://open.spotify.com/track/5RuUO9oLyJkgJMR5Vttn5G) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Love Language](https://open.spotify.com/album/2NAHu9dxwtIzNonKlFkiLQ) | 2:41 |
 | 41 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 62 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
 | 63 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 |
 | 64 | [Shut Up \(Move On\)](https://open.spotify.com/track/1StVteSWhBuwQLbUYnAtrK) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:23 |
-| 65 | [Falling For A Friend](https://open.spotify.com/track/4lLPl7RHFa4bcIKLYhfayz) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Falling For A Friend](https://open.spotify.com/album/7wfhTy5qm6SrTf7SgRZYgL) | 2:57 |
-| 66 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 65 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 66 | [Falling For A Friend](https://open.spotify.com/track/4lLPl7RHFa4bcIKLYhfayz) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Falling For A Friend](https://open.spotify.com/album/7wfhTy5qm6SrTf7SgRZYgL) | 2:57 |
 | 67 | [Lost \(Never Enough\)](https://open.spotify.com/track/68l89zTMSlOXFdDKTqSFaL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:05 |
 | 68 | [Red Mist](https://open.spotify.com/track/2JcLNFlx0NB69p86D04Xc8) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:17 |
 | 69 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 88 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
 | 89 | [Spacebike](https://open.spotify.com/track/5ga7wZc4B0JuOnUGUiOrOk) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3) | [Spacebike](https://open.spotify.com/album/0sF3gZIDKvrGdutAfNuj8v) | 2:23 |
 | 90 | [Why Did We Say Forever](https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs) | 3:10 |
-| 91 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
-| 92 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
+| 91 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
+| 92 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
 | 93 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
 | 94 | [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 |
 | 95 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 105 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 106 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbiqAAAAAAAtV7o4E76lXRl6+t3ZM528`
+Snapshot ID: `AbivvgAAAABu9whS9EM+svghbYsTRKEc`

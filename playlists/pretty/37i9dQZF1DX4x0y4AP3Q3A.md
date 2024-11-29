@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: cafetrauma
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,514 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,513 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 | 71 | [Wojna!](https://open.spotify.com/track/7644pTTAiZYfZZdhZRY71l) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 2:45 |
 | 72 | [Bezczas](https://open.spotify.com/track/0ekED4yVYTayJbhVncSbmq) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Bezczas](https://open.spotify.com/album/79PuM5tvCb3mT5fDDS8fQp) | 3:04 |
 | 73 | [Płomyk](https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd) | [Płomyk](https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN) | 3:21 |
-| 74 | [Na Stromej Skale](https://open.spotify.com/track/01XMo3zyA7Fl4wpLTppurX) | [Butelki Zwrotne](https://open.spotify.com/artist/0Sca2Og6M7vnGAmL8Rsete), [Heldorado](https://open.spotify.com/artist/0TEOyDDwYWIjnkwOqMhtHD), [Bydgoscy Bluesmani](https://open.spotify.com/artist/3pZCe3qGo7Ys9MELZarVJv), [Anna Wiśniewska](https://open.spotify.com/artist/6D7aKP15oD2GI3JjnGIEIy), [Krystian "Krychu" Zasada](https://open.spotify.com/artist/1o5tnju0QGtCw6JHu48fhb), [Kris Forbot](https://open.spotify.com/artist/4YqVXgPOOpkgsF9IyTnMcB), [Adela Konop](https://open.spotify.com/artist/2MrOXeGQLUtuQugl17GlbC) | [Na Stromej Skale](https://open.spotify.com/album/4yXyJBPXAA5FXlxTAUkcV3) | 5:00 |
+| 74 | [Na Stromej Skale](https://open.spotify.com/track/01XMo3zyA7Fl4wpLTppurX) | [Butelki Zwrotne](https://open.spotify.com/artist/0Sca2Og6M7vnGAmL8Rsete), [Adela Konop](https://open.spotify.com/artist/6hLp27UNL9CMH0X76F2KTV), [Anna Wiśniewska](https://open.spotify.com/artist/5tMGjPymGbXZ4BhaTmZLhW), [Bydgoscy Bluesmani](https://open.spotify.com/artist/7xvk0jSP8yBaDS638LNfbL), [Heldorado](https://open.spotify.com/artist/0TEOyDDwYWIjnkwOqMhtHD), [Kris Forbot](https://open.spotify.com/artist/4YqVXgPOOpkgsF9IyTnMcB), [Krystian "Krychu" Zasada](https://open.spotify.com/artist/3zRGuL3rmBDWXiqPGTC9YT), [Pawziu](https://open.spotify.com/artist/7jqJjso9Cispn3nfwmr7LN) | [Na Stromej Skale](https://open.spotify.com/album/4yXyJBPXAA5FXlxTAUkcV3) | 5:00 |
 | 75 | [Roboty](https://open.spotify.com/track/5dI9OMRn37zPKmspyvY5CR) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Roboty](https://open.spotify.com/album/2jJfK3kEY9xPEv8o8XLi2w) | 2:58 |
 | 76 | [Na Księżyc \- MTV Unplugged \- Live](https://open.spotify.com/track/0hiiSZXvqGp2RCtZC9ZL5l) | [Wojciech Waglewski](https://open.spotify.com/artist/7JD5zcxm7BuEHC7fUiyVSN), [Waglewski Fisz Emade](https://open.spotify.com/artist/1iVtqED0cwyZXzrWZPih4H) | [Na Księżyc \- MTV Unplugged \(Live\)](https://open.spotify.com/album/44sVY5o8XE4QoRfqPtAXIn) | 6:28 |
 | 77 | [Zimno](https://open.spotify.com/track/14vWx3j1B8gtwFCQqfu4zV) | [Hoszpital](https://open.spotify.com/artist/6uHQjvQb17rofUQgk2GxB0) | [Zimno](https://open.spotify.com/album/7ey02ry3WqjbCTWyegLJBM) | 2:21 |

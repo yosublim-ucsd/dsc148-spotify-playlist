@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,492 songs - 3 day 9 hr 6 min
+1,493 songs - 3 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,6 +1310,7 @@
 | [That Song With The Kick Drum](https://open.spotify.com/track/5TO3kVu0IMPs9KGDUkprjK) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [That Song With The Kick Drum](https://open.spotify.com/album/6piLxUrATeF7bybEoqvzys) | 2:55 | 2024-06-16 | 2024-06-21 |
 | [That's the Spot](https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Sven Lochenhoer](https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU) | [That's the Spot](https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H) | 3:02 | 2024-11-22 |  |
 | [The Awakening](https://open.spotify.com/track/6RocITTkIgzYw0oaazgDvF) | [9BLADE](https://open.spotify.com/artist/1NFcTe19CrpWk3TNUIBOd6) | [The Awakening](https://open.spotify.com/album/6LCRbxfGwxn3fb4Rg4kC9g) | 2:47 | 2024-10-11 | 2024-10-22 |
+| [The Bomb! \[These Sounds Fall Into My Mind\]](https://open.spotify.com/track/1YEDMGX19pW1RPNED6I2a9) | [Tiidex](https://open.spotify.com/artist/2rJXH8I5PMm9gSRCQxmuTc) | [The Bomb! \[These Sounds Fall Into My Mind\]](https://open.spotify.com/album/3b0IxPKeWpMKQ5vlqwCpls) | 2:23 | 2024-11-28 |  |
 | [The Controller \- Ibrahim Inci Remix](https://open.spotify.com/track/7zdt7nbqSuS50JD9AhLnxr) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [Ibrahim Inci](https://open.spotify.com/artist/17EA5vbDTm0SNmMhxMPDjX) | [The Controller \(Ibrahim Inci Remix\)](https://open.spotify.com/album/5z3oevaK0D545UuB891TNh) | 2:13 | 2024-06-07 | 2024-06-17 |
 | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Chloe Paige](https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq) | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV) | 3:54 | 2024-06-28 | 2024-07-06 |
 | [The Drums](https://open.spotify.com/track/1oEJFi0JGHY9dyCdz4brDM) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [The Drums](https://open.spotify.com/album/3FOnVRyMplcbGQfYu6NcUp) | 4:14 | 2024-11-08 | 2024-11-16 |

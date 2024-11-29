@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Unearthing trailblazers. Cover: Amir Hasan",
+  "description": "Unearthing trailblazers. Cover: J.M3",
   "name": "RADAR SG & MY",
   "tracks": [
+    {
+      "album": {
+        "name": "30,000",
+        "url": "https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg"
+      },
+      "artists": [
+        {
+          "name": "J.M3",
+          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "30,000",
+      "url": "https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD"
+    },
     {
       "album": {
         "name": "99",
@@ -154,6 +172,28 @@
       "duration_ms": 222558,
       "name": "brozone",
       "url": "https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU"
+    },
+    {
+      "album": {
+        "name": "Buih Jadi Permadani",
+        "url": "https://open.spotify.com/album/0Ln5cqHxEjFcHGe7PqIgju"
+      },
+      "artists": [
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        },
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361630,
+      "name": "Buih Jadi Permadani",
+      "url": "https://open.spotify.com/track/5HjUZ1cxdN4hrmdsXACNUw"
     },
     {
       "album": {
@@ -640,6 +680,28 @@
       "duration_ms": 189600,
       "name": "Gimme That Crown",
       "url": "https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/4kOEOvS3GI3by0V2f04NNw"
+      },
+      "artists": [
+        {
+          "name": "Calista Liaw",
+          "url": "https://open.spotify.com/artist/5pHNhL7wLSKVAkZzu2VSfI"
+        },
+        {
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/75pwLp6ykAwnLJbIajnwUL"
     },
     {
       "album": {

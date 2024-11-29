@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 223353,
+  "num_followers": 223340,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,42 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 185816,
+      "name": "5 Minutinhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
         "name": "FUDER CHAPADA RMX",
         "url": "https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV"
       },
@@ -411,42 +447,6 @@
       "duration_ms": 174192,
       "name": "FUDER CHAPADA RMX",
       "url": "https://open.spotify.com/track/1dd5D9BYGZK9dcyIkNneAH"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "5 Minutinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Cavalo de Troia",
-        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        }
-      ],
-      "duration_ms": 165740,
-      "name": "Cavalo de Troia",
-      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Colo da Tropa",
         "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 161888,
       "name": "Colo da Tropa",
       "url": "https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Cavalo de Troia",
+        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "duration_ms": 165740,
+      "name": "Cavalo de Troia",
+      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
     },
     {
       "added_at": "2024-10-08 13:46:40",

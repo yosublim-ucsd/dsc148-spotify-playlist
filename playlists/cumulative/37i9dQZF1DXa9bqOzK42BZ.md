@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=LXKgZPm3QrWGlI2w7sLuXA">Joel Lwaga</a>
 
-201 songs - 17 hr 49 min
+203 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Mungu Wa Namna Hii](https://open.spotify.com/track/5r6nfwaKNs5THoXls9dVri) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mungu Wa Namna Hii](https://open.spotify.com/album/2S4QeVTjXoXolpBrk812UR) | 3:31 | 2024-07-05 |  |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 |  |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 |  |
+| [Nangoja](https://open.spotify.com/track/6J5VuHsRitkeGk8jZC5WK0) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Nangoja](https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M) | 4:08 | 2024-11-29 |  |
 | [Naogopa](https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 4:36 | 2023-03-10 | 2023-06-09 |
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-06-16 |  |
 | [Napepea](https://open.spotify.com/track/2ob9JjI40J4qMWFOHKiPiC) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Napepea](https://open.spotify.com/album/1jWXHiQEp87jhJsiofEu1b) | 4:19 | 2024-05-03 | 2024-11-22 |
@@ -157,6 +158,7 @@
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 | 2024-05-03 |
+| [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 | 2024-11-29 |  |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |

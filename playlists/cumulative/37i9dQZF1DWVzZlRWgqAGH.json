@@ -13307,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "je t'aime",
+        "url": "https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "je t'aime",
+      "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
+    },
+    {
+      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },

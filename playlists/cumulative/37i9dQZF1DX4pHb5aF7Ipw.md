@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-281 songs - 13 hr 8 min
+282 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Outta Reach](https://open.spotify.com/track/0oCskX48nwxbA25Z1zODjA) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Outta Reach](https://open.spotify.com/album/0IYDXuY0NWcBV1ACZkHmL5) | 4:21 | 2023-03-18 | 2024-09-11 |
 | [P.O.V \(Point of View\)](https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [P.O.V \(Point of View\)](https://open.spotify.com/album/65vqiJwNrkv0it9fclatIK) | 3:05 | 2023-05-26 | 2024-09-10 |
 | [Paagal](https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK) | [Vaibhav Kundra](https://open.spotify.com/artist/3XAdZyZkmNsijRsRF6hjRe), [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi) | [Paagal](https://open.spotify.com/album/7ly3aOw2u28Jg8EKl6rRFf) | 3:04 | 2024-09-09 | 2024-10-04 |
-| [Pariyan Di Rani](https://open.spotify.com/track/0tYEJq5faTClQ1fyFma5zg) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq) | [Pariyan Di Rani](https://open.spotify.com/album/35qtP5Lz0fGjFumPhGVg26) | 2:25 | 2024-11-04 |  |
+| [Pariyan Di Rani](https://open.spotify.com/track/0tYEJq5faTClQ1fyFma5zg) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq) | [Pariyan Di Rani](https://open.spotify.com/album/35qtP5Lz0fGjFumPhGVg26) | 2:25 | 2024-11-04 | 2024-11-29 |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-10-27 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-09-18 |
 | [Racks and Rounds \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:45 | 2023-03-18 | 2024-09-06 |
@@ -231,6 +231,7 @@
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 | 2024-11-12 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 | 2024-10-25 |
 | [SEE ME FLY](https://open.spotify.com/track/4pYo1TRKCAiJagNY5a505C) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Trappy](https://open.spotify.com/artist/76LtgenFU7yZKyx6y1Xkx8) | [MONEY OVER MATTERS](https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp) | 3:19 | 2024-08-30 | 2024-09-21 |
+| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
 | [Selfish](https://open.spotify.com/track/300TWXl7OjiBKakaQXleo1) | [Mankoo](https://open.spotify.com/artist/1ZOFaNHpt8lGFD4wbUtZ40) | [Selfish](https://open.spotify.com/album/25yk22rF7WxzuC5fXX9zNk) | 2:11 | 2024-09-09 | 2024-10-01 |
 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-05-03 | 2024-05-11 |
 | [She](https://open.spotify.com/track/2n0F6hno9WUlcmS4Xg0vFa) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:15 | 2024-10-10 | 2024-11-23 |

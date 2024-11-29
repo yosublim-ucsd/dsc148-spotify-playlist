@@ -7443,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "Laat los",
+        "url": "https://open.spotify.com/album/2DjNQN2Ayif4KV68JkMl7D"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196994,
+      "name": "Laat los",
+      "url": "https://open.spotify.com/track/6VHD653hMV6l5so33kX5fK"
+    },
+    {
+      "album": {
         "name": "Laat Me Dansen",
         "url": "https://open.spotify.com/album/5Psg8RGP7f8EsKBdTd9N4S"
       },
@@ -7614,6 +7632,24 @@
       "duration_ms": 171024,
       "name": "Lakens",
       "url": "https://open.spotify.com/track/2O4rUniWWA1K1vrUwCFQok"
+    },
+    {
+      "album": {
+        "name": "Laten",
+        "url": "https://open.spotify.com/album/7CJvT8RllN7wENyeCKiaSw"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hoefnagels",
+          "url": "https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127663,
+      "name": "Laten",
+      "url": "https://open.spotify.com/track/73cv6FhNe4Lt8JBylWljTb"
     },
     {
       "album": {
@@ -8394,7 +8430,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 139046,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r"
@@ -10403,6 +10439,24 @@
     },
     {
       "album": {
+        "name": "Grensgebied",
+        "url": "https://open.spotify.com/album/2tN5hmNiqAeAKCjrCFJ1ry"
+      },
+      "artists": [
+        {
+          "name": "Melo",
+          "url": "https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139504,
+      "name": "Reflectie",
+      "url": "https://open.spotify.com/track/5FK0Juq9j6A5bWptn50zRE"
+    },
+    {
+      "album": {
         "name": "Sociale Zaken",
         "url": "https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR"
       },
@@ -11148,7 +11202,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 113700,
       "name": "Slaaptekort (feat. KATNUF)",
       "url": "https://open.spotify.com/track/4oAhzXzhh67S6g0wQVjw5P"
@@ -11170,6 +11224,24 @@
       "duration_ms": 177142,
       "name": "Slapeloosheid",
       "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
+    },
+    {
+      "album": {
+        "name": "Slapeloze Nachten",
+        "url": "https://open.spotify.com/album/0FtWIHivA3Ak6CG7N0Drss"
+      },
+      "artists": [
+        {
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160316,
+      "name": "Slapeloze Nachten",
+      "url": "https://open.spotify.com/track/3fmYPNsF8AgNGRxYWLwcCv"
     },
     {
       "album": {
@@ -12350,7 +12422,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 145500,
       "name": "Twee April",
       "url": "https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4"
@@ -12368,7 +12440,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169410,
       "name": "Tweede plaats",
       "url": "https://open.spotify.com/track/6iqeSHQx1ncY31OwZ5ahIE"

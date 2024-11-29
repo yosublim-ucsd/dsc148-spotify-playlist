@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: Devara",
+  "description": "Trending songs from Tollywood! \nCover: Game Changer",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -2019,7 +2019,7 @@
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196812,
+      "duration_ms": 182000,
       "name": "Kakinada Kaja",
       "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
     },
@@ -2592,6 +2592,36 @@
       "duration_ms": 372600,
       "name": "Naaloney Pongaynu",
       "url": "https://open.spotify.com/track/2bageubuN1HjNZwTNlyh0v"
+    },
+    {
+      "album": {
+        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
     },
     {
       "album": {
@@ -3920,7 +3950,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 252435,
       "name": "Souraa (From \"Bharateeyudu 2\")",
       "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"

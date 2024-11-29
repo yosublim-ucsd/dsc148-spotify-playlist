@@ -2,7 +2,7 @@
 
 ### [Most Favored](https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g)
 
-> The top Christian songs worldwide!  Cover: <a href="spotify:artist:6pRi6EIPXz4QJEOEsBaA0m">Chris Tomlin</a>
+> The top Christian songs worldwide!  Cover: CeCe Winans
 
 138 songs - 11 hr 3 min
 

@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "AOS",
+        "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "AOS",
+      "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
+    },
+    {
+      "album": {
         "name": "Aqua Surface",
         "url": "https://open.spotify.com/album/2kzWMc0tsVOMJZn4fOlIwn"
       },
@@ -2380,6 +2398,32 @@
       "duration_ms": 202835,
       "name": "Bandiera",
       "url": "https://open.spotify.com/track/3FFrlPwGseeA6Xrc3647vG"
+    },
+    {
+      "album": {
+        "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
+        "url": "https://open.spotify.com/album/055AvOcWEetDQadSXlFUxg"
+      },
+      "artists": [
+        {
+          "name": "Riribeatz",
+          "url": "https://open.spotify.com/artist/4vZkqsvZNwDxGpqq9AlbZ7"
+        },
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "Nyture",
+          "url": "https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
+      "url": "https://open.spotify.com/track/2130kEjZH8rs1gGGO2maev"
     },
     {
       "album": {
@@ -5272,7 +5316,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 174081,
       "name": "DEATH NOTE",
       "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
@@ -9910,7 +9954,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195159,
       "name": "Hold On (feat. CHICO CARLITO & \u7b20\u539f\u7460\u6597)",
       "url": "https://open.spotify.com/track/0lN86dcBFMN7xByXXrzzko"
@@ -9970,6 +10014,28 @@
       "duration_ms": 232418,
       "name": "Honey Buns",
       "url": "https://open.spotify.com/track/0C6dB6iIQRiZLgcdikCoEM"
+    },
+    {
+      "album": {
+        "name": "HOOD RHYME (feat. FAT D)",
+        "url": "https://open.spotify.com/album/57s5usbC1Igwnae1jyStSw"
+      },
+      "artists": [
+        {
+          "name": "Eric.B.Jr",
+          "url": "https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0"
+        },
+        {
+          "name": "FAT D",
+          "url": "https://open.spotify.com/artist/26v3TcikOorxaQPWYrTqsn"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171542,
+      "name": "HOOD RHYME (feat. FAT D)",
+      "url": "https://open.spotify.com/track/5oqmyyaX4XefJgQkcmt9lU"
     },
     {
       "album": {
@@ -12638,7 +12704,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 127440,
       "name": "Live in Tokyo",
       "url": "https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC"
@@ -15891,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185896,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ"
+    },
+    {
+      "album": {
         "name": "No.5",
         "url": "https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H"
       },
@@ -15902,7 +15986,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 185896,
       "name": "No.5",
       "url": "https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV"
@@ -16414,7 +16498,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 184000,
       "name": "Ol fly lab",
       "url": "https://open.spotify.com/track/3obE4xD3n0YqTyeRGFjshH"
@@ -16724,6 +16808,28 @@
       "duration_ms": 224295,
       "name": "Only Lord Knows",
       "url": "https://open.spotify.com/track/2NLLybfhx4GykoPEtEUk5K"
+    },
+    {
+      "album": {
+        "name": "Only One For Me (feat. Skaai)",
+        "url": "https://open.spotify.com/album/7sEhckgDCKmjev7OfC9Pg2"
+      },
+      "artists": [
+        {
+          "name": "AIRIE",
+          "url": "https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Only One For Me (feat. Skaai)",
+      "url": "https://open.spotify.com/track/2nRsHNSlD0ycaecn4zGec7"
     },
     {
       "album": {
@@ -19906,7 +20012,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 164533,
       "name": "SEVEN EIGHT (conquer self) [feat. Benjazzy]",
       "url": "https://open.spotify.com/track/78coseENx2CWjwkFB7OrQy"
@@ -20877,6 +20983,28 @@
     },
     {
       "album": {
+        "name": "STACK UP (feat. JNKMN)",
+        "url": "https://open.spotify.com/album/0xer0Sm4IFCLr8QMHkO1B6"
+      },
+      "artists": [
+        {
+          "name": "Luv Fvvgo",
+          "url": "https://open.spotify.com/artist/4sN6pnesQTwtRMI7AuTrSw"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "STACK UP (feat. JNKMN)",
+      "url": "https://open.spotify.com/track/0g45YiJeUF6Yk06NryJ16s"
+    },
+    {
+      "album": {
         "name": "STAND BY ME",
         "url": "https://open.spotify.com/album/1J6BzneiHw9GADh715F14W"
       },
@@ -21228,7 +21356,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162620,
       "name": "Street Princess",
       "url": "https://open.spotify.com/track/0cYmeHq9kiCIvbatYNCmMK"
@@ -24177,6 +24305,28 @@
     },
     {
       "album": {
+        "name": "WHEN U LOVED ME",
+        "url": "https://open.spotify.com/album/0qbHW3cVyLeaApvPRdJQiD"
+      },
+      "artists": [
+        {
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        },
+        {
+          "name": "\u68ee",
+          "url": "https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "WHEN U LOVED ME",
+      "url": "https://open.spotify.com/track/5FUzX1vkqXRnzdlsax5QLo"
+    },
+    {
+      "album": {
         "name": "WHERE U AT",
         "url": "https://open.spotify.com/album/41OvpxZOO7rX8pYs6fdgwl"
       },
@@ -24727,6 +24877,24 @@
     },
     {
       "album": {
+        "name": "Yella Dogg",
+        "url": "https://open.spotify.com/album/1pc3SYoR8VFRhX40jqIvgC"
+      },
+      "artists": [
+        {
+          "name": "BSC",
+          "url": "https://open.spotify.com/artist/6gb39K86ctQFpICp7ps9hn"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193709,
+      "name": "Yella Dogg",
+      "url": "https://open.spotify.com/track/1Qfw9ywCpzyLQJ6nMgF1yT"
+    },
+    {
+      "album": {
         "name": "Yellow Flag",
         "url": "https://open.spotify.com/album/6O4IO5uehIKXAb9AGezoJM"
       },
@@ -25040,6 +25208,24 @@
       "duration_ms": 148148,
       "name": "Zone 6 - BDM! Circus Remix",
       "url": "https://open.spotify.com/track/7gJDcMSqGDGnbkd6QzL9fk"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3063\u304b\u3093\u3079\u3047",
+        "url": "https://open.spotify.com/album/3UkisDnRxQm0peokXjFK1w"
+      },
+      "artists": [
+        {
+          "name": "GADORO",
+          "url": "https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "\u3042\u3063\u304b\u3093\u3079\u3047",
+      "url": "https://open.spotify.com/track/1eZ6pO8IGiy31VLm9F62b6"
     },
     {
       "album": {
@@ -26684,7 +26870,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 99522,
       "name": "\u5a11\u5a46\u6700\u9ad8",
       "url": "https://open.spotify.com/track/2mkdeVS97cD9zYQzKq1LAd"
@@ -27654,7 +27840,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156200,
       "name": "\u8a00\u3063\u305f!! - Remix",
       "url": "https://open.spotify.com/track/1L2WkdPGNAU3UKtGcuUsYT"

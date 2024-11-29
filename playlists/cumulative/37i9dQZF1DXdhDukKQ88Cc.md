@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe 🌪️ <a href="spotify:artist:09Tr5rMM8oP3lN24JOnBW9">Bellyyy</a>🌪️
+> dk rap og den vibe 🌪️ <a href="spotify:artist:4mDyp9yRHugUnXvIBrt9xP">Cizzo</a>🌪️
 
-259 songs - 11 hr 8 min
+260 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Vi Har Den](https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Vi Har Den](https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4) | 2:15 | 2024-02-22 | 2024-10-04 |
 | [vi ku' blive](https://open.spotify.com/track/1B6jWZtTp6od8DQBQ9l8Ji) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [vi ku' blive](https://open.spotify.com/album/0vgn9MyoQ9YfNPHV3vAIc9) | 3:27 | 2023-09-21 | 2024-02-23 |
 | [Welcome To The Party](https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Welcome To The Party](https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX) | 2:35 | 2023-12-08 | 2024-05-14 |
+| [WHIP](https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [WHIP](https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3) | 2:17 | 2024-11-28 |  |
 | [Wimbledon](https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Wimbledon](https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN) | 2:20 | 2024-01-19 | 2024-09-13 |
 | [winwin](https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:41 | 2024-03-21 | 2024-04-19 |
 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 | 2024-01-25 | 2024-10-04 |

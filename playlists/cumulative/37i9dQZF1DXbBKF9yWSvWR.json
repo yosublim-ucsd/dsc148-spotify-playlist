@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "MY ALBUM RELEASES FEB 14TH!!",
+        "url": "https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr"
+      },
+      "artists": [
+        {
+          "name": "Jean Valery",
+          "url": "https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224212,
+      "name": "BRING ME BACK",
+      "url": "https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE"
+    },
+    {
+      "album": {
         "name": "Broken Bottles",
         "url": "https://open.spotify.com/album/5mWU14MdyONaYi7wW8nGQe"
       },
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"

@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: RENE\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: Meaningful Stone \)
 
-142 songs - 9 hr 51 min
+144 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 | 2024-11-22 |
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 | 2024-11-22 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 | 2024-08-31 |
+| [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 |  |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 |  |
 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 | 2024-06-27 |  |
 | [Florida](https://open.spotify.com/track/668zlxXdGYpzw8ALsaRkhH) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Florida](https://open.spotify.com/album/61ChRb4sarnZsE0G4QC8gL) | 3:36 | 2024-06-27 |  |
@@ -106,6 +107,7 @@
 | [Parak](https://open.spotify.com/track/531HNK0hxKnxo6pI7KxPm5) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Evol](https://open.spotify.com/album/5HHoebNadPA58uamidwMJH) | 3:30 | 2024-06-27 |  |
 | [Perfect Girl](https://open.spotify.com/track/5pO90RA1mYHHrTzVr3Y7AL) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Sputnik\-1](https://open.spotify.com/album/6XwUVQWw83K5KU4PZ8Nzys) | 3:38 | 2024-06-27 |  |
 | [Pesan](https://open.spotify.com/track/0UAVfS0bpWoDt6rlBDzmhI) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Pesan](https://open.spotify.com/album/5jFc5r6vMg8wavsHHYEk0Y) | 5:25 | 2024-06-27 |  |
+| [Pinkish Hue](https://open.spotify.com/track/59qSBpBDV5B3l4LMNGUocY) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Pinkish Hue](https://open.spotify.com/album/1koev9GlYhpVmuzZX3Ffdi) | 5:04 | 2024-11-28 |  |
 | [Placid Mind](https://open.spotify.com/track/10TXhniXWvdify6A5mze8c) | [Shrine](https://open.spotify.com/artist/7oYkFph1CNSKnx7kYLgS3j) | [Placid Mind](https://open.spotify.com/album/6OnytK89zTWyodQxpBeFS1) | 5:17 | 2024-06-27 |  |
 | [Plane Crash](https://open.spotify.com/track/6rkyyg2HZzZBikUJEV5LLO) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [we should've killed each other](https://open.spotify.com/album/06a64F1q3p9gMlvuiEcume) | 4:09 | 2024-10-31 |  |
 | [Precious Me](https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Precious Me / Feel Any Pain](https://open.spotify.com/album/4pQOw5OThpX8wjRKyk8Ypf) | 3:42 | 2024-06-27 | 2024-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con PARDOPARDO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,652 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,626 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 52 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 |
 | 53 | [atelier](https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:42 |
 | 54 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
-| 55 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |
-| 56 | [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 |
+| 55 | [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 |
+| 56 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |
 | 57 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 | 58 | [something bout u](https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [something bout u](https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2) | 2:51 |
 | 59 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 68 | [Top](https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Top](https://open.spotify.com/album/3Vq3Ow6BcjMRq3lHSF36CN) | 3:22 |
 | 69 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
 | 70 | [A LA MISMA VEZ](https://open.spotify.com/track/1D5h1T0D8zO8G6MG1rGXC1) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [A LA MISMA VEZ](https://open.spotify.com/album/5sVG3RXEsIbKdANEwQOArP) | 3:39 |
-| 71 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
-| 72 | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [KIKI](https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp) | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz) | 2:21 |
+| 71 | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [KIKI](https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp) | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz) | 2:21 |
+| 72 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
 | 73 | [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 |
 | 74 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 | 75 | [SINSE](https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [SINSE](https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4) | 4:00 |

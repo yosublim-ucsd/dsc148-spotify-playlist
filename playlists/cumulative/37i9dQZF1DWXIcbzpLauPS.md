@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Thornhill
 
-1,081 songs - 2 day 18 hr 44 min
+1,082 songs - 2 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,7 +784,7 @@
 | [Reshape Me](https://open.spotify.com/track/4lr08jZqpZ2duhBuIcFoky) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Reshape Me](https://open.spotify.com/album/3dQ31D349hGROq281dT6yg) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 | 2024-05-13 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
-| [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 |  |
+| [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |
 | [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 | 2022-12-10 | 2023-03-11 |
@@ -932,6 +932,7 @@
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 | 2024-08-26 |
 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |
 | [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |
+| [The Hills Are Alive with the Sound of Violence](https://open.spotify.com/track/6kflpnBVsxM8T0F9QtLB0T) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [Five Arrows](https://open.spotify.com/album/3yYrSXk9yDZ8PT2buv4dpF) | 2:12 | 2024-11-22 |  |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2022-07-01 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2022-07-13 | 2022-07-20 |
 | [The Last Son](https://open.spotify.com/track/25HvoVQ5AylQIYlFamVwV1) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [The Last Son](https://open.spotify.com/album/1ncaSMw4K9naUrRdiAzBjV) | 4:03 | 2024-08-12 | 2024-08-26 |

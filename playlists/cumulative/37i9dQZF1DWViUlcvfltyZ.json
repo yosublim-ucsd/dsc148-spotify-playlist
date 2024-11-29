@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Mondaze in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Post Nebbia in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 133636,
       "name": "17ANNI",
       "url": "https://open.spotify.com/track/1m5toofXTu0ceqXlm311ye"
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "A Dead Tree Gives No Shelter",
+        "url": "https://open.spotify.com/album/3ASkaFwg373weJ4flMvzKi"
+      },
+      "artists": [
+        {
+          "name": "Neko At Stella",
+          "url": "https://open.spotify.com/artist/3Yu9iL8NwGYNAImxIOmXsV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335346,
+      "name": "A Dead Tree Gives No Shelter",
+      "url": "https://open.spotify.com/track/6IPHX6g0FcBp2FvJQHLYd1"
+    },
+    {
+      "album": {
         "name": "A Diosa (Non potho reposare)",
         "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 280060,
       "name": "A step to lose the balance",
       "url": "https://open.spotify.com/track/0cncltlVleqwfPtzS1hOdy"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 337621,
       "name": "Agrumi",
       "url": "https://open.spotify.com/track/62zWJRw5YuPemCiEcjBQ6r"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157271,
       "name": "Animali Selvatici",
       "url": "https://open.spotify.com/track/2EyQhiXyZm2hywIhBiGJXh"
@@ -1938,10 +1956,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 240573,
       "name": "Battesimo oscuro",
       "url": "https://open.spotify.com/track/1LGLBLCVMu1Tla7kzJNu85"
+    },
+    {
+      "album": {
+        "name": "TO ALL THE LOST SOULS",
+        "url": "https://open.spotify.com/album/1rtS4ZXUT58JHbA3ekCEFS"
+      },
+      "artists": [
+        {
+          "name": "Guinevere",
+          "url": "https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366306,
+      "name": "Be Like A Spider - She Said",
+      "url": "https://open.spotify.com/track/5MfsyPzZkcWHKTiPMSw1b5"
     },
     {
       "album": {
@@ -5551,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "NATI STELLE",
+        "url": "https://open.spotify.com/album/6QoODjuN72eDQIASRlElHz"
+      },
+      "artists": [
+        {
+          "name": "COMRAD",
+          "url": "https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Dolcedorme",
+      "url": "https://open.spotify.com/track/4QjH9WdnC0fD5gOC9GXeIt"
+    },
+    {
+      "album": {
         "name": "Trespass",
         "url": "https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE"
       },
@@ -6116,6 +6170,28 @@
       "duration_ms": 190372,
       "name": "era l'unico modo per vederci riuniti",
       "url": "https://open.spotify.com/track/6r8AUsZlAZj6NfwqqAXyGI"
+    },
+    {
+      "album": {
+        "name": "Isobel",
+        "url": "https://open.spotify.com/album/2mYgFhon7a8Px1LMx7jwhr"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        },
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Eraserhead",
+      "url": "https://open.spotify.com/track/2ZuwigNV0Yw9yshkr0wtDQ"
     },
     {
       "album": {
@@ -7680,7 +7756,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 182587,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/2dhwtyvHhDPXmnF2JHtBng"
@@ -8074,6 +8150,24 @@
       "duration_ms": 204390,
       "name": "Giro Classico",
       "url": "https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1"
+    },
+    {
+      "album": {
+        "name": "Giudicami",
+        "url": "https://open.spotify.com/album/0aRFYT18cp1xpvNTvFYdxB"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178241,
+      "name": "Giudicami",
+      "url": "https://open.spotify.com/track/6sLQswkgqMQS3CEpFn1BSB"
     },
     {
       "album": {
@@ -8482,7 +8576,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149390,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4W7vAqesSzcJctUxxMQEen"
@@ -9842,7 +9936,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 273540,
       "name": "Ischia",
       "url": "https://open.spotify.com/track/5Wm8RI5gJA6pCqVM8PAehZ"
@@ -10588,7 +10682,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 198643,
       "name": "La Discoteca",
       "url": "https://open.spotify.com/track/2hjsG4JRRGsWH7TnFUpEiJ"
@@ -11032,6 +11126,24 @@
       "duration_ms": 187950,
       "name": "Lack Of Attention",
       "url": "https://open.spotify.com/track/4RAGyLQOh2pEbJESFCtQcp"
+    },
+    {
+      "album": {
+        "name": "Laguna Beach",
+        "url": "https://open.spotify.com/album/0wKva0yRd5Lu0hbJdJRBGQ"
+      },
+      "artists": [
+        {
+          "name": "Heaven or Las Vegas",
+          "url": "https://open.spotify.com/artist/5ozL9iHS3LgG1tH7FfErqQ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "Laguna Beach",
+      "url": "https://open.spotify.com/track/1kKioXBMQSxAzq8T79i3ko"
     },
     {
       "album": {
@@ -12628,7 +12740,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 292068,
       "name": "Mi manchi gi\u00e0 per quando mi mancherai",
       "url": "https://open.spotify.com/track/0y9E3xafSSc9ytnlRQOEE4"
@@ -13216,6 +13328,24 @@
       "duration_ms": 200339,
       "name": "My Cigarettes",
       "url": "https://open.spotify.com/track/5kW5FpH2ntjaNtJCRCz0nD"
+    },
+    {
+      "album": {
+        "name": "My circle",
+        "url": "https://open.spotify.com/album/1FcaTgxPh2ikU1IhAFizKE"
+      },
+      "artists": [
+        {
+          "name": "Vanarin",
+          "url": "https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160162,
+      "name": "My circle",
+      "url": "https://open.spotify.com/track/2Tydf7VLsxxdIyxxr4QFIc"
     },
     {
       "album": {
@@ -13869,6 +13999,24 @@
     },
     {
       "album": {
+        "name": "non mi guardavi nemmeno",
+        "url": "https://open.spotify.com/album/0eT6RoM3l688rLKFfMd5Z9"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Apathy",
+          "url": "https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "non mi guardavi nemmeno",
+      "url": "https://open.spotify.com/track/3DqwilpSwz1ElbRhFvUIBe"
+    },
+    {
+      "album": {
         "name": "La Grande Evasione",
         "url": "https://open.spotify.com/album/5Rl0BkcT5nNOqijZycnzXk"
       },
@@ -14260,6 +14408,24 @@
       "duration_ms": 186374,
       "name": "Nuvolone",
       "url": "https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB"
+    },
+    {
+      "album": {
+        "name": "Nyx",
+        "url": "https://open.spotify.com/album/4k9lo5AnWOiWqvCBe0YEs1"
+      },
+      "artists": [
+        {
+          "name": "COMMA",
+          "url": "https://open.spotify.com/artist/5Jyh4mVSUWVM4KLO9c8zeD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Nyx",
+      "url": "https://open.spotify.com/track/7FkS5O6RgaL8zLJa4JRl8I"
     },
     {
       "album": {
@@ -15018,7 +15184,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157170,
       "name": "passanti",
       "url": "https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng"
@@ -16092,7 +16258,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 166941,
       "name": "prima d'ora",
       "url": "https://open.spotify.com/track/1hwVmePqZwItex3vcnyxI5"
@@ -18336,7 +18502,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 304570,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/2UTYg5uXmOENuXutOJ3sUl"
@@ -19249,6 +19415,24 @@
     },
     {
       "album": {
+        "name": "Sudime",
+        "url": "https://open.spotify.com/album/0fjXhB4puSfcGx3LDvFERA"
+      },
+      "artists": [
+        {
+          "name": "CALEDUNE",
+          "url": "https://open.spotify.com/artist/4Xfkj0cIUMm1E3Wdcplxcj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256165,
+      "name": "Sudime",
+      "url": "https://open.spotify.com/track/5nskNdrnU9wlZqJNdpsWMU"
+    },
+    {
+      "album": {
         "name": "suitable",
         "url": "https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez"
       },
@@ -19264,6 +19448,24 @@
       "duration_ms": 198746,
       "name": "suitable",
       "url": "https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7"
+    },
+    {
+      "album": {
+        "name": "Sul Globo d'argento",
+        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
+      },
+      "artists": [
+        {
+          "name": "Neoprimitivi",
+          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1259437,
+      "name": "Sul Globo d'argento",
+      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
     },
     {
       "album": {
@@ -19752,7 +19954,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175445,
       "name": "The Decider",
       "url": "https://open.spotify.com/track/3xGWXWaINpE8G6QyL5EY9v"
@@ -20898,7 +21100,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 174240,
       "name": "Tuttoscorre",
       "url": "https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA"
@@ -21648,7 +21850,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 193548,
       "name": "Vigliacco",
       "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"

@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-231 songs - 11 hr 31 min
+232 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Lighter](https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:26 | 2024-07-26 | 2024-08-24 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-12 |
 | [Mac 10](https://open.spotify.com/track/0Vgr2dVE3TNkCX9ClRmRNS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Mac 10](https://open.spotify.com/album/46I5K3RT1uGm8RZWlNoXpX) | 2:46 | 2024-09-28 | 2024-11-13 |
-| [Maddasa](https://open.spotify.com/track/6PwSJSOkmsnPsYl5o9Aicf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Maddasa](https://open.spotify.com/album/7DlAfq7u6KdeqmWVJ4cdrL) | 2:01 | 2024-11-11 |  |
+| [Maddasa](https://open.spotify.com/track/6PwSJSOkmsnPsYl5o9Aicf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Maddasa](https://open.spotify.com/album/7DlAfq7u6KdeqmWVJ4cdrL) | 2:01 | 2024-11-11 | 2024-11-29 |
 | [Mafia Family](https://open.spotify.com/track/5L2noDPHJSpviufoZoeWuQ) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [SHV](https://open.spotify.com/artist/2tQ6KitZbXn63ikvq6cbMo), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 2:25 | 2024-03-26 | 2024-07-27 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2023-03-18 | 2023-09-05 |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2023-03-18 | 2024-02-03 |
@@ -199,6 +199,7 @@
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 |  |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2023-03-18 | 2024-04-06 |
+| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 | 2023-06-23 | 2024-04-19 |
 | [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2023-03-18 | 2024-10-17 |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-23 | 2023-06-24 |

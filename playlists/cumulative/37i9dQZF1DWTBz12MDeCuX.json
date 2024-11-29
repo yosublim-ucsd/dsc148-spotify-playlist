@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157659,
       "name": "100 Lieder",
       "url": "https://open.spotify.com/track/3YzN8rggzWjdDEkK2WTUEx"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149472,
       "name": "An der Bar",
       "url": "https://open.spotify.com/track/62jLyJfqv4jCFcpINA1EV9"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151232,
       "name": "Baddietransfer",
       "url": "https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA"
@@ -7806,7 +7806,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129279,
       "name": "Chopard",
       "url": "https://open.spotify.com/track/4U5QQLxxig0D7dipnsGzBQ"
@@ -8232,7 +8232,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160500,
       "name": "Come Outside (So Sick)",
       "url": "https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9"
@@ -8762,7 +8762,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151838,
       "name": "CREEPY!",
       "url": "https://open.spotify.com/track/60uLpy5MiAtIHOHKlQD8YI"
@@ -9136,6 +9136,24 @@
       "duration_ms": 143200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/2kQ9udZ0v3H8PFSVmbY1Kq"
+    },
+    {
+      "album": {
+        "name": "Ich w\u00fcnschte, es w\u00fcrd' mich k\u00fcmmern",
+        "url": "https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Das erste Mal",
+      "url": "https://open.spotify.com/track/4WeHpXTdNPBa3WI1qLI84W"
     },
     {
       "album": {
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 141702,
       "name": "DNS",
       "url": "https://open.spotify.com/track/5Qu865IRH0yQ3M5uMzNRmb"
@@ -10832,7 +10850,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 174117,
       "name": "du bist so gut zu mir_demo",
       "url": "https://open.spotify.com/track/60mCqWeO8RYbRnbkQzHKdN"
@@ -12397,6 +12415,24 @@
     },
     {
       "album": {
+        "name": "es tut mir leid_demo",
+        "url": "https://open.spotify.com/album/0BzPrwI8OxWYmkeC2Wk82z"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250526,
+      "name": "es tut mir leid_demo",
+      "url": "https://open.spotify.com/track/3aCeFqO6LEtYXGRXQ9tohZ"
+    },
+    {
+      "album": {
         "name": "Escape From BABYLON",
         "url": "https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8"
       },
@@ -13298,6 +13334,24 @@
       "duration_ms": 156484,
       "name": "Fang dich",
       "url": "https://open.spotify.com/track/3YlfwU0qwX1vUxfpJbrgRX"
+    },
+    {
+      "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148229,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK"
     },
     {
       "album": {
@@ -16112,7 +16166,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 158600,
       "name": "Going On",
       "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
@@ -22369,6 +22423,28 @@
     },
     {
       "album": {
+        "name": "Pass auf dich auf",
+        "url": "https://open.spotify.com/album/6bqC483vc5wrQc0v6LGoJo"
+      },
+      "artists": [
+        {
+          "name": "Savvy",
+          "url": "https://open.spotify.com/artist/31PAzAvprOXLSA01ff7elC"
+        },
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197017,
+      "name": "Komm nach Hause",
+      "url": "https://open.spotify.com/track/5aFqgztyTdXs2OJcP2LxDq"
+    },
+    {
+      "album": {
         "name": "Asozial Allstars 5",
         "url": "https://open.spotify.com/album/7rEDvujoosXs3cWHd5v0uf"
       },
@@ -22804,6 +22880,24 @@
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
+    },
+    {
+      "album": {
+        "name": "lass dich los",
+        "url": "https://open.spotify.com/album/723T7wmPOm3KkUC1AunOg5"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145004,
+      "name": "lass dich los",
+      "url": "https://open.spotify.com/track/1BVqOjjfoLqRXS5n8gA8A5"
     },
     {
       "album": {
@@ -23932,7 +24026,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -24614,6 +24708,28 @@
       "duration_ms": 119200,
       "name": "Low",
       "url": "https://open.spotify.com/track/2k0ZMNVR4Wk6M6ZFcD0NwR"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
     },
     {
       "album": {
@@ -26711,6 +26827,28 @@
     },
     {
       "album": {
+        "name": "Monkey Banana",
+        "url": "https://open.spotify.com/album/5mFxQXbNBRKcvLpeiC0uX3"
+      },
+      "artists": [
+        {
+          "name": "Gadi Dahan",
+          "url": "https://open.spotify.com/artist/76P4id8hhFe14738Mscy70"
+        },
+        {
+          "name": "Omri Mordehai",
+          "url": "https://open.spotify.com/artist/0BREsNrdgzHIxk12quNbA6"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185392,
+      "name": "Monkey Banana - Original Mix",
+      "url": "https://open.spotify.com/track/0KEA9eVLmbND3kuRVxJ7Yy"
+    },
+    {
+      "album": {
         "name": "Musik an, Welt aus Tape",
         "url": "https://open.spotify.com/album/5kqM78MuXcctyZHT2G0BHL"
       },
@@ -27166,7 +27304,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 101461,
       "name": "mund zu mund",
       "url": "https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i"
@@ -27684,6 +27822,24 @@
       "duration_ms": 205446,
       "name": "m\u00fcde",
       "url": "https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv"
+    },
+    {
+      "album": {
+        "name": "M\u00dcNCHNER STR.",
+        "url": "https://open.spotify.com/album/5xJckM22Vin7IOtXfQ7yfQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Antonia",
+          "url": "https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141490,
+      "name": "M\u00dcNCHNER STR.",
+      "url": "https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph"
     },
     {
       "album": {
@@ -28898,7 +29054,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -33089,6 +33245,28 @@
     },
     {
       "album": {
+        "name": "Richtung Sonne (OSWALD Remix)",
+        "url": "https://open.spotify.com/album/3ypykdBTksF0I61XbEdb3m"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199613,
+      "name": "Richtung Sonne - OSWALD Remix",
+      "url": "https://open.spotify.com/track/5yztbDRTINrSR1Ut01bjwk"
+    },
+    {
+      "album": {
         "name": "RICOCHET",
         "url": "https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3"
       },
@@ -33180,6 +33358,28 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "album": {
+        "name": "Risk It All (feat. Maverick Sabre)",
+        "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Risk It All (feat. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
     },
     {
       "album": {
@@ -36264,7 +36464,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 117554,
       "name": "SO WIE DU",
       "url": "https://open.spotify.com/track/1MOJxgbEl6hL9ZyFHU2lwA"
@@ -37564,7 +37764,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206865,
       "name": "Sthlm In My <3",
       "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
@@ -38873,6 +39073,28 @@
     },
     {
       "album": {
+        "name": "Hater werden Fans",
+        "url": "https://open.spotify.com/album/4mFMhIFiC5UYweY2gqXCzx"
+      },
+      "artists": [
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Taylor Swift",
+      "url": "https://open.spotify.com/track/23rcM50tzMgQxa9n9nkThM"
+    },
+    {
+      "album": {
         "name": "Teen",
         "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
       },
@@ -39662,7 +39884,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 101954,
       "name": "TikTok Sportlich",
       "url": "https://open.spotify.com/track/6pGsdnKTuOgOR7CC9JGyLn"
@@ -40843,6 +41065,24 @@
     },
     {
       "album": {
+        "name": "uiuiui",
+        "url": "https://open.spotify.com/album/16rmOJfOFZwHxt9YNd1a45"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143991,
+      "name": "uiuiui",
+      "url": "https://open.spotify.com/track/1lWROf2SbolUmwEZT33OAE"
+    },
+    {
+      "album": {
         "name": "ULTRA INSTINCT (w/ kets4eki)",
         "url": "https://open.spotify.com/album/4VlYotfJ2aC2E0Px7lKUoT"
       },
@@ -41972,7 +42212,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 153500,
       "name": "Vernetzt",
       "url": "https://open.spotify.com/track/3WquCmFXrhti6cLBeXn6CS"
@@ -42354,6 +42594,24 @@
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
     },
     {
       "album": {
@@ -43707,6 +43965,24 @@
     },
     {
       "album": {
+        "name": "Wei\u00dfe Lilien",
+        "url": "https://open.spotify.com/album/1p17N6nMxbAZ0s3Saj3h6N"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212545,
+      "name": "Wei\u00dfe Lilien",
+      "url": "https://open.spotify.com/track/1Q25uwMr0TQjwmMzLrTNx8"
+    },
+    {
+      "album": {
         "name": "Wei\u00dfes Haus",
         "url": "https://open.spotify.com/album/76MbuCHFar5NafVYMqVopm"
       },
@@ -44214,6 +44490,28 @@
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
+    },
+    {
+      "album": {
+        "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
     },
     {
       "album": {

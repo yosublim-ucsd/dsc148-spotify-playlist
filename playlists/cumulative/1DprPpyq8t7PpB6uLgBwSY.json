@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Babylon Springs",
+        "url": "https://open.spotify.com/album/3AgCA1gsjvQeU3xz12rIRY"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Ox Baker Triumphant",
+      "url": "https://open.spotify.com/track/4UqIifJqMVB4SXIUkTOeDH"
+    },
+    {
+      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },

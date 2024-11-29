@@ -2485,6 +2485,28 @@
     },
     {
       "album": {
+        "name": "BAILANDO",
+        "url": "https://open.spotify.com/album/6mkaCLJ8xURi3hRvu5Ipgl"
+      },
+      "artists": [
+        {
+          "name": "Cleyh",
+          "url": "https://open.spotify.com/artist/0t4vLHyQH6collUSn8wU8G"
+        },
+        {
+          "name": "Jozzu RD",
+          "url": "https://open.spotify.com/artist/0Ud7fLppThg4xcMHvicnKo"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209705,
+      "name": "BAILANDO",
+      "url": "https://open.spotify.com/track/4jty7qqVZoNZpCPmyjHwOb"
+    },
+    {
+      "album": {
         "name": "Baja Lento",
         "url": "https://open.spotify.com/album/4lLhQ9iQCFW4JknPntrTFB"
       },
@@ -6836,7 +6858,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/5tZgkV8FTe3rtl8OcSeQAb"
@@ -8904,7 +8926,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -25220,7 +25242,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 219460,
       "name": "TE FALL\u00c9",
       "url": "https://open.spotify.com/track/2stYCm7UAyZ4srGFrI4MNX"
@@ -26514,7 +26536,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 239634,
       "name": "Tu Man",
       "url": "https://open.spotify.com/track/3wMxU6KYZ89HhYSBoJe78M"
@@ -26630,6 +26652,24 @@
       "duration_ms": 158130,
       "name": "TUKUN",
       "url": "https://open.spotify.com/track/3GLUdGhv1tknST1tFY3qhU"
+    },
+    {
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/7lZUSqbmFhfsEZXGljDMMH"
+      },
+      "artists": [
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/13tkGHf4DRwbKnGZbQFTu2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164082,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/29n3Ry9XwRbKGvYrvWq61M"
     },
     {
       "album": {

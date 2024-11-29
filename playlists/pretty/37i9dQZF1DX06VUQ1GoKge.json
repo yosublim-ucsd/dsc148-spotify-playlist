@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 554087,
+  "num_followers": 554065,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/7LUSsBkuyyv0X49NiV8735"
-      },
-      "artists": [
-        {
-          "name": "Resolve",
-          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/0J3zKZ2mKOuE54nU2BWhLN"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 251000,
       "name": "The Blood, the Sweat, the Tears",
       "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 428946,
+      "name": "Keep It In The Family",
+      "url": "https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

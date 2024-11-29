@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,224 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,208 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maria Bonita](https://open.spotify.com/track/3ladrTlwblEkzdn5CUcU0U) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Maria Bonita](https://open.spotify.com/album/1ZD6tVGWTAoG2wJblWiMhY) | 2:35 |
 | 2 | [Não é Normal \- Ao Vivo](https://open.spotify.com/track/0KFnlMH2qIzpAr2daxGXVa) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Tour Cedo ou Tarde \(Ao Vivo\)](https://open.spotify.com/album/4xOPGSx0QLhjmYo1OG1NbR) | 5:08 |
 | 3 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 |
-| 4 | [Na Contra Mão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
+| 4 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
 | 5 | [PERPÉTUO](https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PERPÉTUO](https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW) | 4:17 |
 | 6 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Malandragem \(Ao Vivo\)](https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne) | 3:51 |
 | 7 | [Ligação \- Ao Vivo](https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Ligação \(Ao Vivo\)](https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq) | 4:32 |

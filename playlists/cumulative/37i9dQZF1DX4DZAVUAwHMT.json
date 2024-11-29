@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Spiritbox",
+  "description": "The UK's biggest rock playlist. Cover: Chloe Slater",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1826,6 +1826,28 @@
       "duration_ms": 189312,
       "name": "BLOODSTREAM",
       "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
+    },
+    {
+      "album": {
+        "name": "ANATOMY",
+        "url": "https://open.spotify.com/album/0GyTlhdr6mF1jllBgzDxbb"
+      },
+      "artists": [
+        {
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+        },
+        {
+          "name": "Debbie Gough",
+          "url": "https://open.spotify.com/artist/4OvDgVw2NEVzt79bIDxsjF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167424,
+      "name": "BLOODSUCKA (feat. Debbie Gough)",
+      "url": "https://open.spotify.com/track/2qoc9gvHSFGx8c4hLBQxPy"
     },
     {
       "album": {
@@ -4196,6 +4218,24 @@
       "duration_ms": 253373,
       "name": "feminine adornments",
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
+    },
+    {
+      "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
     },
     {
       "album": {
@@ -7484,7 +7524,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 273337,
       "name": "Living A Lie",
       "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
@@ -12526,6 +12566,24 @@
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
+    },
+    {
+      "album": {
+        "name": "The Downfall",
+        "url": "https://open.spotify.com/album/3HiKtj609zB1IYtQsu4xUG"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284563,
+      "name": "The Downfall",
+      "url": "https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5"
     },
     {
       "album": {

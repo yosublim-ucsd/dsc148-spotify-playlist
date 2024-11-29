@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "AAAHcS8SZYk28xkJlWwRzJ4h1f66wxDv",
+  "snapshot_id": "AAAHdNBPse44CUAoKFICSjlSZJx6Zu57",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -34661,22 +34661,6 @@
       "url": "https://open.spotify.com/track/3myc4hzNkPXqEkEo1rWHMm"
     },
     {
-      "added_at": "2024-11-27 16:05:58",
-      "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ"
-      },
-      "artists": [
-        {
-          "name": "Scarra",
-          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/0WaTCIDPcQbP0BVvXgkBPk"
-    },
-    {
       "added_at": "2024-11-27 16:12:58",
       "album": {
         "name": "Armageddon",
@@ -34691,6 +34675,50 @@
       "duration_ms": 190500,
       "name": "Armageddon - Extended Mix",
       "url": "https://open.spotify.com/track/2JEC1KjfbIRAU0q2CpGz8k"
+    },
+    {
+      "added_at": "2024-11-28 22:27:36",
+      "album": {
+        "name": "HIT THE GAS",
+        "url": "https://open.spotify.com/album/3mKDzsggXNwFdrLzztCiFB"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Wavehi",
+          "url": "https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "HIT THE GAS",
+      "url": "https://open.spotify.com/track/7Gjw1vTEFvEbmv5STIjHF3"
+    },
+    {
+      "added_at": "2024-11-28 22:50:25",
+      "album": {
+        "name": "Release The Kraken (Sefa Remix)",
+        "url": "https://open.spotify.com/album/3A5RkXvSIyZmh9z8RbUFrW"
+      },
+      "artists": [
+        {
+          "name": "Destructive Tendencies",
+          "url": "https://open.spotify.com/artist/1Yc03TvBp08WN2oHVuvewX"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 203850,
+      "name": "Release The Kraken - Sefa Remix Edit",
+      "url": "https://open.spotify.com/track/1TbafpKeTekVYjgC6f2vCN"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",

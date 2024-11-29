@@ -2,9 +2,9 @@
 
 ### [SEVENTEEN WORLD TOUR \[RIGHT HERE\]](https://open.spotify.com/playlist/37i9dQZF1DX6PTGGjeMigF)
 
-> Relive the excitement of that day by listening to the setlist of SEVENTEEN's world tour <RIGHT HERE> Seoul concert! \(세븐틴의 월드투어 <RIGHT HERE> 서울 콘서트의 셋리스트를 감상하며 그 날의 감동을 다시 느껴보세요!\)
+> Enjoy the SEVENTEEN world tour \[RIGHT HERE\] LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 \[RIGHT HERE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-39 songs - 2 hr 3 min
+43 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,10 @@
 | [Oh My!](https://open.spotify.com/track/06pQBEBRpmMv9JlxbpLp0E) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:15 | 2024-11-01 |  |
 | [Our dawn is hotter than day](https://open.spotify.com/track/2EGRE8lyfRRGuq7spra3eR) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:32 | 2024-11-01 |  |
 | [Rain](https://open.spotify.com/track/6rp55IcEsq3nJgTc0kMa0h) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:20 | 2024-11-01 |  |
+| [RIGHT HERE Stage Ment 1](https://open.spotify.com/track/6L0aAnBCyhM7xnmAKspQkE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 11:28 | 2024-11-28 |  |
+| [RIGHT HERE Stage Ment 2](https://open.spotify.com/track/0HZzsLkfCluYMEZY2pSbSZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 7:02 | 2024-11-28 |  |
+| [RIGHT HERE Stage Ment 3](https://open.spotify.com/track/4L23CD3Uow1hdXFOYiXnV3) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 7:01 | 2024-11-28 |  |
+| [RIGHT HERE Stage Ment 4](https://open.spotify.com/track/4kGwWOXSKoIJ6uWy67yjRL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN RIGHT HERE WORLD TOUR Audio Liners](https://open.spotify.com/album/6gFtZnroIh0aYrHkSdCZjp) | 15:38 | 2024-11-28 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2024-09-21 | 2024-11-02 |
 | [Shining Diamond](https://open.spotify.com/track/4BHThgh4ODCszIJ6e4YGGw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 | 2024-09-21 | 2024-11-02 |
 | [Snap Shoot](https://open.spotify.com/track/1Yimn9plSAWNv9G3ePzITO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 | 2024-11-01 |  |

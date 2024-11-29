@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-191 songs - 12 hr 25 min
+193 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 | 2024-10-11 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 | 2024-09-20 |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 |  |
-| [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 |  |
+| [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 | 2024-11-29 |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 |  |
@@ -66,11 +66,13 @@
 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-06-27 | 2024-11-08 |
 | [Fimbulvinter](https://open.spotify.com/track/2KdMJs4m5Q0UeJHNQ05sv9) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Fimbulvinter](https://open.spotify.com/album/2EXvdgRZQyHmwlE3v2vjxd) | 5:46 | 2024-09-26 |  |
 | [Fire & Ore](https://open.spotify.com/track/48xpPhCtkauqitPNiDzLb4) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Fire & Ore](https://open.spotify.com/album/7IDyJDMxw4cA2ELxpwKhHV) | 3:54 | 2024-08-29 |  |
+| [Game of Faces](https://open.spotify.com/track/49loMZxyVpQJZCX0O1sSwV) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Game of Faces](https://open.spotify.com/album/4BsHur1DtAVOm4rvjrK7mZ) | 3:15 | 2024-11-28 |  |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 |  |
 | [Get a Grip](https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Evil Eye / Get a Grip](https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF) | 4:01 | 2024-06-27 | 2024-08-02 |
 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 | 2024-10-24 |  |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2024-06-27 |  |
 | [Grand Finale](https://open.spotify.com/track/0UIYcRAhNjvDrDdo8TCGcH) | [Reach](https://open.spotify.com/artist/4PAH2hYK4vEvxLEwCg9zQ2) | [Prophecy](https://open.spotify.com/album/1PlAzDc2xlmK33ykOEA80P) | 4:14 | 2024-06-27 | 2024-11-08 |
+| [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-28 |  |
 | [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-06-27 | 2024-08-02 |
 | [Haters](https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Mister Misery](https://open.spotify.com/album/6fKArz5J5tdK4eSFEe7YDF) | 3:29 | 2024-08-01 | 2024-09-20 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |

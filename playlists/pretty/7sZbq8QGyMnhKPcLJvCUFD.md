@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 731,651 likes - 112 songs - 5 hr 27 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 731,645 likes - 113 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 110 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 111 | [I'll Be There](https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [I'll Be There](https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr) | 2:14 |
 | 112 | [Royalty \- Super Slowed + Reverb](https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Royalty \(Sped Up/Slowed\)](https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG) | 4:48 |
+| 113 | [On My Mind](https://open.spotify.com/track/5J8TKpkkpZkvPpWz3e7fzY) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [On My Mind](https://open.spotify.com/album/78k6jCjXWoCoLNefxEIupo) | 2:46 |
 
-Snapshot ID: `AAAYCY03jaZDYKyGQnS4HfQPYCJceedg`
+Snapshot ID: `AAAYCoog80LSkG4XTbTxrcW0THGu72Rf`

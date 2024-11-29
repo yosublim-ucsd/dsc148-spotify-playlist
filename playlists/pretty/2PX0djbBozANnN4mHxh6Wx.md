@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,275 likes - 544 songs - 1 day 8 hr 44 min
+[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,271 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 310 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 |
 | 311 | [FALLIN' LOVE, AND](https://open.spotify.com/track/4jnkHhEYNzm7No8H1Ph1WO) | [Game Music](https://open.spotify.com/artist/0CGljuwFKbIo62kRxgO1WT) | [MOTHER](https://open.spotify.com/album/0nJMvM3LNPMWuOuVOPK8xw) | 6:18 |
 | 312 | [Closing Argument V3](https://open.spotify.com/track/5gEwpCFQZ9hN4LGWkpCTDE) | [Masafumi Takada](https://open.spotify.com/artist/6u08wRMmY0Myz8HaNbIOQb) | [Danganronpa V3: Killing Harmony Original Soundtrack White](https://open.spotify.com/album/1n74b3FUpRhNHVBrCSK4xL) | 5:30 |
-| 313 | [from the roof top\~somewhere in the silence\[sniper's theme\]](https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 6:31 |
+| 313 | [from the roof top～somewhere in the silence\[sniper's theme\]](https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 6:31 |
 | 314 | [Heaven](https://open.spotify.com/track/1G5jWQn1OwFVJMmySMwl7X) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/6X3WjCJIzOzTAyTSjZ65op) | 2:59 |
 | 315 | [mint tears](https://open.spotify.com/track/3T8xr6PCMdp2aHz2Jdvyjh) | [太鼓の達人](https://open.spotify.com/artist/5TuifiMxdEVXdUXRI4UGwn), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Taiko no Tatsujin Namco Original Soundtrack ”Hit songs” collection](https://open.spotify.com/album/4X8yktGQS5pULcm11d1bwq) | 1:54 |
 | 316 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |

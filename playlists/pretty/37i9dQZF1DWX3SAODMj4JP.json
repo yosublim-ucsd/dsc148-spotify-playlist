@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 149121,
+  "num_followers": 149175,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -339,18 +339,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
       "artists": [
         {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Vagner Dida",
+          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
         }
       ],
-      "duration_ms": 277692,
-      "name": "Me Deixe Aqui",
-      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
+      "duration_ms": 201247,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -371,22 +375,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
       "artists": [
         {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Vagner Dida",
-          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
         }
       ],
-      "duration_ms": 201247,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
+      "duration_ms": 277692,
+      "name": "Me Deixe Aqui",
+      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -419,6 +419,26 @@
       "duration_ms": 273994,
       "name": "N\u00e3o Te Abandono",
       "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "O Tempo N\u00e3o Para",
+        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 202431,
+      "name": "O Tempo N\u00e3o Para",
+      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -475,26 +495,6 @@
       "duration_ms": 360000,
       "name": "Tua Presen\u00e7a Vale Mais",
       "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "O Tempo N\u00e3o Para",
-        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 202431,
-      "name": "O Tempo N\u00e3o Para",
-      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 141537,
-      "name": "Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Eu Quero Voltar",
         "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 213762,
       "name": "Eu Quero Voltar",
       "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 141537,
+      "name": "Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Descansar em Ti",
         "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Tributo A Iehovah (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+        "name": "Pra Viver Project",
+        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
       },
       "artists": [
         {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+          "name": "Praviver Worship",
+          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
         }
       ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+      "duration_ms": 195000,
+      "name": "Pra Viver - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -963,34 +979,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Pra Viver Project",
-        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
+        "name": "Caminho Estreito",
+        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
       },
       "artists": [
         {
-          "name": "Praviver Worship",
-          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pra Viver - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        },
         {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+          "name": "Bullara",
+          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
         }
       ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+      "duration_ms": 204294,
+      "name": "Caminho Estreito",
+      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Caminho Estreito",
-        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
       },
       "artists": [
         {
-          "name": "Marcelo Siss\u00e1",
-          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
-        },
-        {
-          "name": "Bullara",
-          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
         }
       ],
-      "duration_ms": 204294,
-      "name": "Caminho Estreito",
-      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2024-08-30 03:01:00",

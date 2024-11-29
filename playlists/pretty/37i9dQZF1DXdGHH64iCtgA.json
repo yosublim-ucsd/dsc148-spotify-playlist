@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 81067,
+  "num_followers": 81083,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
-      },
-      "artists": [
-        {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "XTASIS CARNAL",
-        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
-      },
-      "artists": [
-        {
-          "name": "SITA",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
-        },
-        {
-          "name": "Cardopusher",
-          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "XTASIS CARNAL",
-      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "XTASIS CARNAL",
+        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
+      },
+      "artists": [
+        {
+          "name": "SITA",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+        },
+        {
+          "name": "Cardopusher",
+          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "XTASIS CARNAL",
+      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
     },
     {
       "added_at": "2024-10-24 17:18:17",

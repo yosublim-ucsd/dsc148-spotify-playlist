@@ -102,7 +102,7 @@
 | [流れ星](https://open.spotify.com/track/0W7i2mlLUM3SdVa8urLt8e) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 1:37 | 2022-03-25 |  |
 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 | 2022-03-25 |  |
 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 | 2022-03-25 |  |
-| [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2022-03-25 |  |
+| [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン　THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2022-03-25 |  |
 | [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 | 2022-03-25 |  |
 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 | 2022-03-25 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 280909,
+  "num_followers": 280938,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Guapa",
-        "url": "https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US"
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
       },
       "artists": [
         {
           "name": "Edgar Oceransky",
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
         }
       ],
-      "duration_ms": 285289,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US"
       },
       "artists": [
         {
           "name": "Edgar Oceransky",
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
         }
       ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
+      "duration_ms": 285289,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
     },
     {
       "added_at": "2021-07-29 16:46:05",

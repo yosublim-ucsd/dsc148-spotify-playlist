@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-66 songs - 4 hr 41 min
+67 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Perfect\-area complete!](https://open.spotify.com/track/4EXGfnQPnDQrtZPUIrveL3) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Perfect\-area complete!](https://open.spotify.com/album/5kVBlTeeGPK0ufg742c49h) | 4:03 | 2022-04-08 |  |
 | [PUNCH☆MIND☆HAPPINESS](https://open.spotify.com/track/5VpshhnsseZ9rV3tlZXTtl) | [Happy Clover](https://open.spotify.com/artist/75P5zGNnt9MZDRvG7UmcjO) | [PUNCH☆MIND☆HAPPINESS](https://open.spotify.com/album/2U94VoeNyJhoN7WV7MIIN5) | 3:24 | 2022-04-08 |  |
 | [See you on Brown Street](https://open.spotify.com/track/3dmTVfo6kIZIREDhc6ATiq) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [Name of the mirror \- KAIKO Garden Vol.05 \-](https://open.spotify.com/album/4uakqrl9w5wVfDBWbCth4f) | 3:32 | 2022-04-08 | 2024-04-19 |
+| [Shining days, shining stars!](https://open.spotify.com/track/0ECe8BZm9rweAvROhQlXyR) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Shining days, shining stars!](https://open.spotify.com/album/0rB9crMa6oQw5NeAcAqSgj) | 5:15 | 2024-11-28 |  |
 | [Silent tonight](https://open.spotify.com/track/5klLVOYKURBm2cVEDUkCIH) | [BiBi](https://open.spotify.com/artist/2Y3ofvZHDfYYsmOHdpPy2D) | [μ's Complete BEST BOX \(Chapter.08\)](https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb) | 5:17 | 2022-04-08 |  |
 | [Snow halation](https://open.spotify.com/track/7B2YKWz6UoXvOUEX32r3ov) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [ラブライブ! μ's Best Album Best Live! Collection](https://open.spotify.com/album/3D6S8s4QyjcF92x5oMZBKU) | 4:20 | 2022-04-08 |  |
 | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/track/0dc0AQEmAY35RKUiV11a9M) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/album/6RTT2jqMmGfzKK9j6f6gsz) | 4:35 | 2022-04-08 |  |

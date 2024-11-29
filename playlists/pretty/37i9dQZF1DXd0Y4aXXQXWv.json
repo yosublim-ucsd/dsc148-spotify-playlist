@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 482723,
+  "num_followers": 482741,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
     },
     {
       "added_at": "2024-10-21 08:32:27",

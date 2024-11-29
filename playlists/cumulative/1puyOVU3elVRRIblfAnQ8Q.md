@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-199 songs - 11 hr 33 min
+201 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Jaded](https://open.spotify.com/track/0qICNf9xJjMQtZLqNSLopD) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Escapism Vol\. 1](https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY) | 3:30 | 2024-10-07 |  |
 | [Kat Tracker](https://open.spotify.com/track/09SowvtFvazAyUZCyKjnSI) | [Katret](https://open.spotify.com/artist/251oyBDSa8SSr5QtplJVxq) | [Kat Tracker](https://open.spotify.com/album/312CLrGUtXpPKmxVJ04AqW) | 3:56 | 2024-06-03 | 2024-08-24 |
 | [keep jumpin](https://open.spotify.com/track/4qjJrkk54dWtoPb1z7uBXQ) | [not yes](https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax) | [keep jumpin](https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40) | 3:17 | 2023-08-28 | 2023-11-09 |
+| [KNOCKIN](https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [KNOCKIN](https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN) | 2:17 | 2024-11-28 |  |
 | [Know By Now](https://open.spotify.com/track/7nAqAAY59ADeBkfNtbNL9h) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 4:35 | 2024-01-26 | 2024-02-10 |
 | [Know By Now](https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Know By Now](https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu) | 4:35 | 2023-11-17 | 2024-08-24 |
 | [Lambo](https://open.spotify.com/track/4A7vEAKe2465yBuf98CxoZ) | [LUMBERJVCK](https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T), [HiddenLif](https://open.spotify.com/artist/2lMW6aLF38tAoJAK21NiyX) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:55 | 2024-08-23 | 2024-09-27 |
@@ -181,6 +182,7 @@
 | [Stockholm](https://open.spotify.com/track/4Z1vVfxlDqjd9VrzTkZeFf) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Insecure / Stockholm](https://open.spotify.com/album/77B124rmMuj5uXvdvtYI6A) | 5:15 | 2023-04-19 | 2023-11-09 |
 | [Stomper](https://open.spotify.com/track/3noczVtrj34BqPp4wp00Nc) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Stomper](https://open.spotify.com/album/1QJCAgDV6nWOjn3TxFIQ6b) | 3:00 | 2023-03-31 | 2023-11-09 |
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-08-24 |
+| [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 | 2024-11-28 |  |
 | [Talavara](https://open.spotify.com/track/0sMreITajXmgjIQq4O1HBu) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:47 | 2023-12-06 | 2024-01-27 |
 | [The Blade](https://open.spotify.com/track/2ZeV6RMdHIdNIqermL9IcU) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:36 | 2023-11-08 | 2024-08-24 |
 | [The Box](https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [The Box](https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A) | 3:41 | 2024-10-07 |  |

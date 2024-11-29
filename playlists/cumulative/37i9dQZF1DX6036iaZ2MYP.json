@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Wizkid",
+  "description": "Tracks popping off in the Afro scene. Cover: Bayanni",
   "name": "Afro Station",
   "tracks": [
     {
@@ -909,6 +909,32 @@
     },
     {
       "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/1iRNt5807C5qnxCFTo4JIg"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb"
+    },
+    {
+      "album": {
         "name": "Baby Chou",
         "url": "https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars"
       },
@@ -1413,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "BLKN",
+        "url": "https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9"
+      },
+      "artists": [
+        {
+          "name": "Theecember",
+          "url": "https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127400,
+      "name": "BLKN",
+      "url": "https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc"
+    },
+    {
+      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -1484,6 +1528,24 @@
       "duration_ms": 158571,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/6Un2RiAiS25kTOXFJOOOj6"
+    },
+    {
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/2OHIWGJpTUKx5WuEhJ2QoO"
+      },
+      "artists": [
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/0BkYNFe23cGq7herskna5k"
     },
     {
       "album": {
@@ -1764,7 +1826,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175770,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/3XwlygOBxmj4VFu8SyXV16"
@@ -2492,7 +2554,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 171040,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/5Oy18y0Jg89TE9aBSVcyEH"
@@ -2942,7 +3004,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 205333,
       "name": "Dirty Whine",
       "url": "https://open.spotify.com/track/1aKFp4DRTAUuVJWSutQ47D"
@@ -3806,7 +3868,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
@@ -4170,7 +4232,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 163320,
       "name": "FO",
       "url": "https://open.spotify.com/track/0QC78byr4xeU188bszEBWn"
@@ -4192,6 +4254,28 @@
       "duration_ms": 261428,
       "name": "Fondili",
       "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
+    },
+    {
+      "album": {
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "album": {
@@ -4487,6 +4571,28 @@
     },
     {
       "album": {
+        "name": "Gimme Your Love",
+        "url": "https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/03V7PgLCjOMQ9RwiFyzb3u"
       },
@@ -4680,7 +4786,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157714,
       "name": "Grind",
       "url": "https://open.spotify.com/track/0IuFUw34z1kSdnU8pCzZKX"
@@ -5574,6 +5680,28 @@
       "duration_ms": 125413,
       "name": "Jojo",
       "url": "https://open.spotify.com/track/2AGO7KCyvZgIgmwG00BU3Y"
+    },
+    {
+      "album": {
+        "name": "Jostimilo",
+        "url": "https://open.spotify.com/album/71i0Q7sZiqg8j7QoKdcskH"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117916,
+      "name": "Jostimilo",
+      "url": "https://open.spotify.com/track/0zKgp4hE1VnNANbMgKFWA5"
     },
     {
       "album": {
@@ -7505,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "MOOD (In the House Pt.2)",
+        "url": "https://open.spotify.com/album/1bxkXKeZuwboGCL5uOD5mG"
+      },
+      "artists": [
+        {
+          "name": "VinR",
+          "url": "https://open.spotify.com/artist/0GGUWzxEVuDaFHnmoogMYk"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181778,
+      "name": "MOOD (In the House Pt.2)",
+      "url": "https://open.spotify.com/track/7qJuFjsvsqP4XxDDPAZAOf"
+    },
+    {
+      "album": {
         "name": "Mopepe",
         "url": "https://open.spotify.com/album/0OAOKGvPhuYixFALUlayGe"
       },
@@ -7742,7 +7888,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157758,
       "name": "My Niqqa",
       "url": "https://open.spotify.com/track/3HEe6VTTRVGsfYJauDgufe"
@@ -8004,6 +8150,24 @@
       "duration_ms": 257071,
       "name": "Never Let Go - Remix",
       "url": "https://open.spotify.com/track/7LOZ9ogL9heo1JiA7Va175"
+    },
+    {
+      "album": {
+        "name": "Nice Like This",
+        "url": "https://open.spotify.com/album/1KGPOs5GOUmnXT4gEd0blx"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "Nice Like This",
+      "url": "https://open.spotify.com/track/2fhtCBYjSpIUHFgvI3hpEJ"
     },
     {
       "album": {
@@ -9786,7 +9950,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 182727,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"

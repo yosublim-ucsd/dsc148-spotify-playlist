@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Marcel et son Orchestre
+> Les meilleures nouveautés de la scène rock française\. Photo : Clavicule
 
-303 songs - 18 hr 28 min
+305 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Hurricanes](https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Hurricanes](https://open.spotify.com/album/3coIK4BNVCgOLy9kAPGumC) | 3:14 | 2023-12-14 | 2024-01-26 |
 | [Hypnotized](https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hypnotized](https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO) | 3:46 | 2023-10-12 | 2023-11-17 |
 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 | 2024-01-11 | 2024-03-01 |
+| [I Dance Through The Night](https://open.spotify.com/track/3LxWOnpgXhGRj9CmiBCPtb) | [Nina Attal](https://open.spotify.com/artist/14rvM3wQu19N8voFW4Q53W) | [I Dance Through The Night](https://open.spotify.com/album/2hJgieJ8ClORMw4lhMJPkf) | 3:43 | 2024-11-28 |  |
 | [I Wish Myself To Be Happier](https://open.spotify.com/track/6fqORwQ9eGFYf9U96iXmBh) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [I Wish Myself To Be Happier](https://open.spotify.com/album/2fCy7NJX4jcHE0XLzPOIrr) | 2:15 | 2024-02-29 | 2024-03-15 |
 | [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 | 2024-06-13 | 2024-07-19 |
 | [Ignition](https://open.spotify.com/track/0h3K04iQP75lCuo6eWWgBc) | [The Redshift Empire](https://open.spotify.com/artist/281h6Q0ZjiaowIEl77K000) | [New Horizons](https://open.spotify.com/album/5nTX6Gy6ivhCStwSL2xTu9) | 3:51 | 2023-11-09 | 2024-03-01 |
@@ -141,7 +142,7 @@
 | [Kiss Of Death](https://open.spotify.com/track/3OYp1OJFwgv3gNzqG2Dq7X) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Kiss Of Death](https://open.spotify.com/album/2rkxdVv17cqa3IvfhdrbBd) | 2:55 | 2024-08-29 | 2024-11-15 |
 | [Knife Edge](https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV) | [Doorshan](https://open.spotify.com/artist/4b0rw6riYNCnFzZ2vYFjTk) | [Knife Edge](https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5) | 3:42 | 2023-09-28 | 2023-10-20 |
 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 | 2024-11-21 |  |
-| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 |  |
+| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 | 2024-11-29 |
 | [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-28 | 2024-10-04 |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-03-21 | 2024-06-14 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 | 2024-11-08 |
@@ -154,6 +155,7 @@
 | [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-14 | 2024-11-22 |
 | [Limousine](https://open.spotify.com/track/5Iatj6CbK0AjL90wZZMCY0) | [The Late Speakers...!](https://open.spotify.com/artist/524hQV3Jv9I3Ozep6dBR0r) | [Limousine](https://open.spotify.com/album/61FOACCkZkHVZdOLPFlhSf) | 3:15 | 2024-09-05 | 2024-09-20 |
 | [Lona](https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Lona](https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ) | 4:16 | 2024-08-29 | 2024-10-12 |
+| [Lonesome](https://open.spotify.com/track/26kdrgpZZici4YVYMMyAYE) | [Born Idiot](https://open.spotify.com/artist/6qWanKqyz8K80aIrLzUFzH) | [Lonesome](https://open.spotify.com/album/0AqNLxPUcyOpAtWyqCk5tk) | 3:27 | 2024-11-28 |  |
 | [Lust](https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 3:01 | 2024-09-19 |  |
 | [Lésinight](https://open.spotify.com/track/0kSs8D9jHyK9JLwMLb37Ru) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Lésinight](https://open.spotify.com/album/3Yx0rlQDcQGgDg3pmYSKca) | 2:36 | 2024-01-11 | 2024-02-16 |
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 | 2024-05-24 |
@@ -271,7 +273,7 @@
 | [The Great Listener](https://open.spotify.com/track/48xyIsRUcmjh1PwKsKCD4t) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [The Great Listener](https://open.spotify.com/album/7wiMo6yTrHY8M0OSPdPHVg) | 3:31 | 2024-04-11 | 2024-05-17 |
 | [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-09-28 | 2024-01-05 |
 | [The One \- The One I'm Looking For](https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The One \(The One I'm Looking For\)](https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F) | 2:41 | 2023-11-09 | 2024-01-12 |
-| [THE OUTSIDER](https://open.spotify.com/track/6uApMCvfHnJVLDG538k5kr) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 7:22 | 2024-04-25 |  |
+| [THE OUTSIDER](https://open.spotify.com/track/6uApMCvfHnJVLDG538k5kr) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 7:22 | 2024-04-25 | 2024-11-29 |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-23 | 2024-01-12 |
 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 |  |
 | [The Undercover Man](https://open.spotify.com/track/1mQmOLp6op4aXMggN800U9) | [Shaker Poisson](https://open.spotify.com/artist/0bZSQ7lf91kvi8h7fioG3A) | [The Undercover Man](https://open.spotify.com/album/59bl4gqVOdo9QNxbMcJiVR) | 3:56 | 2024-04-18 | 2024-07-27 |

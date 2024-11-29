@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Your new favorite pop star ⭐ cover: Mercer Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,278 likes - 126 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,240 likes - 126 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

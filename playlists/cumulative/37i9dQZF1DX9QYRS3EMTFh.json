@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Bay Li",
+        "url": "https://open.spotify.com/album/0knvB3K2OoUrbpSlMfem0f"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bay Li",
+      "url": "https://open.spotify.com/track/0kiZ2yPXAuR9VXQQBdRd6m"
+    },
+    {
+      "album": {
         "name": "Bayo",
         "url": "https://open.spotify.com/album/7dpJ4kKlz3k6GcEVXmNqgn"
       },
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 130423,
       "name": "C carr\u00e9",
       "url": "https://open.spotify.com/track/1iLEeAsDP8zDExqOweU09v"
@@ -3747,6 +3769,32 @@
     },
     {
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/2sSRlmp5ZtyGPHeWjs89lK"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Jula Fatstash",
+          "url": "https://open.spotify.com/artist/3zxfY6NQG388WIeAtLQPH7"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Gyall 4 Ever",
+      "url": "https://open.spotify.com/track/6h6OoDYaWZ7EGYyX6gXmJq"
+    },
+    {
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/3PpoGIk4czgWjtzo72L5lj"
       },
@@ -5572,7 +5620,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 133875,
       "name": "MI MAS LA - Karata",
       "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
@@ -6236,7 +6284,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 171197,
       "name": "No Follow",
       "url": "https://open.spotify.com/track/6u7kaJxH3ZcSuaautLweli"
@@ -8770,6 +8818,32 @@
       "duration_ms": 147017,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1ojgg2BOtNQYkhbvm0csoy"
+    },
+    {
+      "album": {
+        "name": "TELL THEM",
+        "url": "https://open.spotify.com/album/4XsGYG2twnsCJK7vN0yc1z"
+      },
+      "artists": [
+        {
+          "name": "S\u014cLAL",
+          "url": "https://open.spotify.com/artist/4zZ4fIocankM51Oz24V9ql"
+        },
+        {
+          "name": "LMK",
+          "url": "https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ"
+        },
+        {
+          "name": "TARZ\u00c4N",
+          "url": "https://open.spotify.com/artist/70KL00ZCpDe41JcN0ZrEsT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "TELL THEM",
+      "url": "https://open.spotify.com/track/3agLmniykQtjB9LNet7dTc"
     },
     {
       "album": {

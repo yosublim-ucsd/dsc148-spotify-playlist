@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: GJ (\u8523\u5353\u5609)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Everydaze",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 286666,
       "name": "99",
       "url": "https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 222352,
       "name": "Balloon - Sunset Rollercoaster Remake",
       "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "DAZE",
+        "url": "https://open.spotify.com/album/5AVAhEi55ejrT8fXgvJSaw"
+      },
+      "artists": [
+        {
+          "name": "Everydaze",
+          "url": "https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218993,
+      "name": "Evil Gemini",
+      "url": "https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB"
+    },
+    {
+      "album": {
         "name": "Expired \u301c\u671f\u9650\u5207\u308c\u306e\u611b\u301c",
         "url": "https://open.spotify.com/album/2ixCuTOpX8vP1iCai1Tecz"
       },
@@ -1475,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Glued To",
+        "url": "https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl"
+      },
+      "artists": [
+        {
+          "name": "Fi-N\u00e9 \u7c89\u5167",
+          "url": "https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247164,
+      "name": "Glued To",
+      "url": "https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g"
+    },
+    {
+      "album": {
         "name": "GOOD LOOKING",
         "url": "https://open.spotify.com/album/4gMmT8HIwXPuDt5cwWp3S9"
       },
@@ -1613,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/6LBQhdFWbqpfQRamiVWAF5"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/6o7n7ivMPF4E0N3Wwxz09J"
+    },
+    {
+      "album": {
         "name": "The Great Escape Of Our Time",
         "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
       },
@@ -1704,7 +1762,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206457,
       "name": "I Can't Feel",
       "url": "https://open.spotify.com/track/3767V9CBkByt1ZTVDCtle9"
@@ -2115,6 +2173,36 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/5ZvgU6EOPllBYKTDDWI6kr"
+        },
+        {
+          "name": "HAOTING",
+          "url": "https://open.spotify.com/artist/4QcyxiPSZK5SzPyjmqapHD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186199,
+      "name": "Leaveyourlove (with Cosmos People, HAOTING from Sunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/3NpOFREVwEWhwNFZhnD5F5"
+    },
+    {
+      "album": {
         "name": "\u5bf6\u85cf Treasure",
         "url": "https://open.spotify.com/album/1iC0JGbLqwkkBcGZsgwSbJ"
       },
@@ -2392,7 +2480,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 216750,
       "name": "Millions of Years Apart",
       "url": "https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG"
@@ -2486,7 +2574,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 269693,
       "name": "My Nova",
       "url": "https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF"
@@ -3594,7 +3682,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 217125,
       "name": "St. Lover",
       "url": "https://open.spotify.com/track/3dvvbyu9mSK1AotEW8ngR4"
@@ -3722,6 +3810,24 @@
       "duration_ms": 259648,
       "name": "S\u00f8ul\u043ca\u0442e - Remix",
       "url": "https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO"
+    },
+    {
+      "album": {
+        "name": "A Room in Brockley",
+        "url": "https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227932,
+      "name": "Take You to the Universe",
+      "url": "https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ"
     },
     {
       "album": {
@@ -5160,6 +5266,24 @@
       "duration_ms": 229489,
       "name": "\u6566\u5316\u5357\u8def",
       "url": "https://open.spotify.com/track/3VMlI9cU27pmhchnP2Uajr"
+    },
+    {
+      "album": {
+        "name": "IMAGINATE",
+        "url": "https://open.spotify.com/album/65h9AtfR0gAf9qHAv5orbB"
+      },
+      "artists": [
+        {
+          "name": "DJ SON666",
+          "url": "https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "\u661f\u725bSpace Cowboy",
+      "url": "https://open.spotify.com/track/2v1XKZScj9M1NsmMZnCQZt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 100994,
+  "num_followers": 101045,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "YESHUA",
-        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160663,
-      "name": "YESHUA",
-      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 150510,
       "name": "Ele Pode Fazer",
       "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+        "name": "Pequenas Coisas",
+        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Louisy Cim",
+          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
         }
       ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+      "duration_ms": 159119,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -607,38 +623,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Pequenas Coisas",
-        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
-      },
-      "artists": [
-        {
-          "name": "Louisy Cim",
-          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
         }
       ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -735,18 +751,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
       "artists": [
         {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
         }
       ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -767,26 +787,6 @@
       "duration_ms": 168461,
       "name": "Deixar para Tr\u00e1s",
       "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+      },
+      "artists": [
+        {
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
-      },
-      "artists": [
-        {
-          "name": "Gabriela de S\u00e1",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
         }
       ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Fui Liberto",
         "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 153333,
       "name": "Fui Liberto",
       "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1567,22 +1583,6 @@
       "duration_ms": 209664,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-10-25 15:00:24",

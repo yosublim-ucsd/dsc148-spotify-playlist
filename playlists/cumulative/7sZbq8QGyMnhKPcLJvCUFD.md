@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-635 songs - 1 day 8 hr 12 min
+636 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [On & On \- nuumi Remix](https://open.spotify.com/track/4qH7J782JmdxbNnuNmLjcl) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [nuumi](https://open.spotify.com/artist/1lqYiWjUzZVxxgdVdwFSvc), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:15 | 2022-05-12 | 2023-04-28 |
 | [On & On \- Time To Talk Remix](https://open.spotify.com/track/6SxnErPRbyesOjoTSbINTt) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:00 | 2022-05-12 | 2023-04-28 |
 | [On and On](https://open.spotify.com/track/3KS1hlfxo77GOEySGvK9MS) | [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Sayfro](https://open.spotify.com/artist/274OSu1Uy1vanqdjPFSpIr) | [On and On](https://open.spotify.com/album/7jDh6rZroXZ51hiDNEorsx) | 2:03 | 2024-09-26 |  |
+| [On My Mind](https://open.spotify.com/track/5J8TKpkkpZkvPpWz3e7fzY) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [On My Mind](https://open.spotify.com/album/78k6jCjXWoCoLNefxEIupo) | 2:46 | 2024-11-28 |  |
 | [On Replay](https://open.spotify.com/track/1odaQBZo8t450tZ8RSrNx5) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [On Replay](https://open.spotify.com/album/188NwSZJ11msSds8LLPBaG) | 3:01 | 2023-07-14 | 2023-08-10 |
 | [One more try](https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [One more try](https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C) | 3:17 | 2022-06-14 | 2023-04-28 |
 | [One Taste](https://open.spotify.com/track/0HwgZzRDcSC6dvDz7Eepsy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [One Taste](https://open.spotify.com/album/7z5mJozS5AxvzQqcXTvvtR) | 3:12 | 2023-03-31 | 2023-12-14 |

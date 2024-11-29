@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits de la pop maghrébine\. Cover: Lazaro
+> Les meilleurs hits de la pop maghrébine\. Cover: Hatim Ammor
 
 156 songs - 8 hr 30 min
 

@@ -2,9 +2,9 @@
 
 ### [gen z ](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> nasze brzmienie ✨ Cover: Maciej Skiba
+> nasze brzmienie ✨ Cover: Artur Sikorski
 
-250 songs - 11 hr 43 min
+253 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
-| [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 |  |
+| [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 | 2024-11-29 |
 | [blokowiska](https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [blokowiska](https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy) | 3:28 | 2024-06-28 | 2024-08-02 |
 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 | 2024-08-22 |  |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 |  |
@@ -99,7 +99,7 @@
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 |  |
 | [jesteś głupi](https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [jesteś głupi](https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw) | 2:38 | 2024-08-22 |  |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
-| [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 |  |
+| [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-10-26 |
 | [Kiss And Fly](https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Terminal 3](https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS) | 2:37 | 2024-06-28 | 2024-10-26 |
@@ -107,7 +107,7 @@
 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 | 2024-09-19 |  |
 | [Kolejny Marzec](https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Kolejny Marzec](https://open.spotify.com/album/37bVRC9MrNGXpU0ITCmRYA) | 2:50 | 2024-06-28 | 2024-07-19 |
 | [Kosmosy](https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP) | [Kosmosy](https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7) | 2:55 | 2024-07-04 | 2024-11-22 |
-| [Koło mnie](https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Koło mnie](https://open.spotify.com/album/1iQrmb16dKa2BmbrMfEGz8) | 3:28 | 2024-07-04 |  |
+| [Koło mnie](https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Koło mnie](https://open.spotify.com/album/1iQrmb16dKa2BmbrMfEGz8) | 3:28 | 2024-07-04 | 2024-11-29 |
 | [kropelki](https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [kropelki](https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI) | 2:30 | 2024-10-11 |  |
 | [KRYMINAŁ](https://open.spotify.com/track/4CupO50phnd0GQWq7yP6qq) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [KONSEKWENCJE](https://open.spotify.com/album/6yxancfs9vsfRjZxNUR17z) | 2:14 | 2024-10-18 |  |
 | [Królowa i Król](https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Królowa i Król](https://open.spotify.com/album/48gfoj9ZDGraMyTKJHLCzD) | 2:34 | 2024-07-18 | 2024-11-08 |
@@ -168,6 +168,7 @@
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 |  |
 | [Okej](https://open.spotify.com/track/7G6hL64mboXjkMRjbkIAAT) | [Martyna Gąsak](https://open.spotify.com/artist/5Ne3HqzciPsPhYX4jl1obI) | [Okej](https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [OMG](https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [OMG](https://open.spotify.com/album/0oXn4IpuCHcQvEEe6a0U5C) | 3:23 | 2024-08-01 |  |
+| [Ona](https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC) | [xavier.](https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li) | [Ona](https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej) | 2:44 | 2024-11-28 |  |
 | [Ona jest niebywała](https://open.spotify.com/track/3SDkCauHsCFX3cgdntWDzf) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Ona jest niebywała](https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC) | 2:01 | 2024-08-30 |  |
 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-28 | 2024-09-14 |
 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 | 2024-08-30 |  |
@@ -200,6 +201,7 @@
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 | 2024-10-05 |
 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 | 2024-08-30 |  |
 | [SELFISH](https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SELFISH](https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2) | 2:31 | 2024-07-04 | 2024-08-23 |
+| [Sentymenty](https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji) | [Martyna Rempała](https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt) | [Droga do marzeń](https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m) | 2:30 | 2024-11-28 |  |
 | [side eye](https://open.spotify.com/track/2ZfmRSYUAbHE2twToeQgdV) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [side eye](https://open.spotify.com/album/5ZDhhwbT8AGih1jLwZzh9d) | 1:51 | 2024-06-28 | 2024-09-14 |
 | [SILVERMAN](https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [BABYGIRL](https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q) | 2:39 | 2024-08-22 | 2024-11-08 |
 | [Skarbie](https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6) | [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Skarbie](https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0) | 2:57 | 2024-07-18 | 2024-11-22 |
@@ -249,6 +251,7 @@
 | [Zachód Słońca](https://open.spotify.com/track/2D7qsWBWiOED4L5xeyhXZB) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [Zachód Słońca](https://open.spotify.com/album/6DZC4yhbLTDu5xyDfH6FWe) | 2:28 | 2024-06-28 | 2024-09-14 |
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 | 2024-11-08 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-10-12 |
+| [zapomniałem wydać w lipcu](https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [zapomniałem wydać w lipcu](https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64) | 2:53 | 2024-11-28 |  |
 | [zero dwa](https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA) | [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY), [Marianna Matyja](https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48) | [zero dwa](https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv) | 4:08 | 2024-07-18 | 2024-09-20 |
 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 | 2024-08-01 |  |
 | [zimny dzień](https://open.spotify.com/track/2pEaRv3Qbc1UzuJF0pMJfU) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [zimny dzień](https://open.spotify.com/album/5hX0TIgitm0kVNwgLOrL6x) | 2:57 | 2024-06-28 | 2024-07-19 |

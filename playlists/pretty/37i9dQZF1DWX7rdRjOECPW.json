@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1532312,
+  "num_followers": 1532185,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1363,18 +1363,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 153100,
-      "name": "Simple Life",
-      "url": "https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD"
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
+      "duration_ms": 153100,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1467,6 +1467,22 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Beautiful Reason",
+        "url": "https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Beautiful Reason",
+      "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1527,26 +1543,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Randali",
-        "url": "https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 143043,
-      "name": "Randali",
-      "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5"
       },
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Beautiful Reason",
-        "url": "https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl"
+        "name": "Randali",
+        "url": "https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 183586,
-      "name": "Beautiful Reason",
-      "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
+      "duration_ms": 143043,
+      "name": "Randali",
+      "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
     },
     {
       "added_at": "2024-08-29 14:50:12",

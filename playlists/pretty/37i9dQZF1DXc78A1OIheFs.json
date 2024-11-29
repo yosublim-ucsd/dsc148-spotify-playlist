@@ -1,13 +1,113 @@
 {
-  "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18613,
+  "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
+  "num_followers": 18617,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyydsAAAAABxJiNfWH4YseV92CmvP69M",
+  "snapshot_id": "Z0hpUAAAAAASxoYi5BExib8KFviKiH7Z",
   "tracks": [
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Daywrecker",
+        "url": "https://open.spotify.com/album/1pYleX1lJM1cuNpdDgOVc8"
+      },
+      "artists": [
+        {
+          "name": "Flaxxies",
+          "url": "https://open.spotify.com/artist/0doxeEtpqkHvGFyegeoGEo"
+        },
+        {
+          "name": "Tiki Taane",
+          "url": "https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO"
+        }
+      ],
+      "duration_ms": 243916,
+      "name": "Daywrecker",
+      "url": "https://open.spotify.com/track/0ammUTNNA7dAVrB8ijWoPD"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Just Don't Know",
+        "url": "https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc"
+      },
+      "artists": [
+        {
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+        }
+      ],
+      "duration_ms": 187038,
+      "name": "Just Don't Know",
+      "url": "https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Water Baby",
+        "url": "https://open.spotify.com/album/3F96Zeao6Yw4itgDXBt647"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Water Baby",
+      "url": "https://open.spotify.com/track/0CBeM3gMPXgSEwdA2m8mHZ"
+    },
     {
       "added_at": "2024-11-07 11:00:00",
       "album": {
@@ -23,6 +123,22 @@
       "duration_ms": 335043,
       "name": "Stand Straight",
       "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -71,22 +187,6 @@
       "duration_ms": 170235,
       "name": "Grin",
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "how to say goodbye",
-        "url": "https://open.spotify.com/album/4KcmPWoY1mQKNKcvgqYk4l"
-      },
-      "artists": [
-        {
-          "name": "MACEY",
-          "url": "https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i"
-        }
-      ],
-      "duration_ms": 226041,
-      "name": "more than a minute",
-      "url": "https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -151,22 +251,6 @@
       "duration_ms": 167911,
       "name": "Flames",
       "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "City Limits",
-        "url": "https://open.spotify.com/album/5I9p558GnUlIcsJtSO9YZl"
-      },
-      "artists": [
-        {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
-        }
-      ],
-      "duration_ms": 217914,
-      "name": "City Limits",
-      "url": "https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -415,6 +499,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
       },
@@ -431,18 +531,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -467,6 +567,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Slo Mo",
         "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
       },
@@ -483,18 +599,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
       },
       "artists": [
         {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 197840,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -515,38 +631,6 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -595,22 +679,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "pinky boy",
-        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 285153,
-      "name": "pinky boy",
-      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "It's You (Remix)",
         "url": "https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6"
       },
@@ -635,6 +703,22 @@
       "duration_ms": 175294,
       "name": "It's You - Remix",
       "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -737,22 +821,6 @@
       "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Gravity",
@@ -771,18 +839,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Bigger",
-        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Bigger",
-      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -799,6 +867,22 @@
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -827,38 +911,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "RNZ\u014c SZN",
-        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
-      },
-      "artists": [
-        {
-          "name": "RNZ\u014c",
-          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "RNZ\u014c SZN",
-      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Commit",
-        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 201580,
-      "name": "Commit",
-      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -875,18 +927,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
+        "name": "Commit",
+        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
       },
       "artists": [
         {
-          "name": "South Summit",
-          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
         }
       ],
-      "duration_ms": 175494,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
+      "duration_ms": 201580,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -923,6 +975,22 @@
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "duration_ms": 175494,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1039,22 +1107,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 212843,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
       },
@@ -1071,6 +1123,22 @@
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 212843,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1181,40 +1249,20 @@
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2024-11-07 11:00:00",
       "album": {
-        "name": "Mumma and Me",
-        "url": "https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl"
+        "name": "City Limits",
+        "url": "https://open.spotify.com/album/5I9p558GnUlIcsJtSO9YZl"
       },
       "artists": [
         {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
         }
       ],
-      "duration_ms": 212615,
-      "name": "Mumma and Me",
-      "url": "https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Idols & Vices (Vol. 1)",
-        "url": "https://open.spotify.com/album/3ZRStuZuROwZNNpkEYAjDy"
-      },
-      "artists": [
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "Taylor Graves",
-          "url": "https://open.spotify.com/artist/4bGuGkRbnGtihUtYz0MN3n"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Stay Strong",
-      "url": "https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD"
+      "duration_ms": 217914,
+      "name": "City Limits",
+      "url": "https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1233,68 +1281,20 @@
       "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS"
-      },
-      "artists": [
-        {
-          "name": "The Butlers",
-          "url": "https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN"
-        }
-      ],
-      "duration_ms": 213130,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Moneypenny",
-        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
+        "name": "Mumma and Me",
+        "url": "https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl"
       },
       "artists": [
         {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
         }
       ],
-      "duration_ms": 258191,
-      "name": "Moneypenny",
-      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+      "duration_ms": 212615,
+      "name": "Mumma and Me",
+      "url": "https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn"
     }
   ],
   "unique_name": "The Local List Aotearoa",

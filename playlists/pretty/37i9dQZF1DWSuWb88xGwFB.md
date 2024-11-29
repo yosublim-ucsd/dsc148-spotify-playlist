@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,343 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,355 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 45 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
 | 46 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
 | 47 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
-| 48 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |
-| 49 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
+| 48 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
+| 49 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |
 | 50 | [Just Us \- B.O.P\. Radio Joint](https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ) | [Joey Washington](https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ), [The Men's Club](https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6) | [Just Us](https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r) | 3:47 |
 | 51 | [Just An Organ \- Just An Organ Mix](https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2) | [D\-Tune](https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:37 |
 | 52 | [Shine \- Sundown Dub](https://open.spotify.com/track/2s2bVNK44NPctaxBMCg2Z6) | [Barbara Douglas](https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 4:20 |

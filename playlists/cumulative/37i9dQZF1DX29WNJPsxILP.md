@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Karma
 
-172 songs - 8 hr 46 min
+173 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-02-14 | 2024-04-19 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 | 2024-03-24 |
 | [Ustaadi \(feat\. Faris Shafi\)](https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:50 | 2024-09-17 |  |
+| [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 | 2024-11-28 |  |
 | [Villain](https://open.spotify.com/track/1HCdZjUS2HaXCf7SJpOROy) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:38 | 2023-03-10 | 2024-09-18 |
 | [Vision](https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK) | 2:53 | 2023-08-10 | 2023-11-04 |
 | [Vision](https://open.spotify.com/track/25yiXm2n2wqRLWrx45VASc) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/0N7CdOxDLpXLLHq5MngCRN) | 2:59 | 2023-10-12 | 2024-04-19 |
@@ -178,7 +179,7 @@
 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-16 |  |
 | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 | 2024-07-22 | 2024-08-21 |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-10 | 2024-07-23 |
-| [Young 4EVER](https://open.spotify.com/track/06v9NnS6OVA77FjCFFvLHc) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Mr\. Baawe](https://open.spotify.com/album/1vOTWQkwc01nGARFmA3fKO) | 2:21 | 2024-06-28 |  |
+| [Young 4EVER](https://open.spotify.com/track/06v9NnS6OVA77FjCFFvLHc) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Mr\. Baawe](https://open.spotify.com/album/1vOTWQkwc01nGARFmA3fKO) | 2:21 | 2024-06-28 | 2024-11-29 |
 | [Zaruri Nahi](https://open.spotify.com/track/6JLBvPFd61Y0t7scB9TxEH) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Zaruri Nahi](https://open.spotify.com/album/515rEggHfPWyzspMu4zgBY) | 3:12 | 2023-03-10 | 2023-10-12 |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

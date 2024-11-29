@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,644 songs - 4 day 6 hr 39 min
+1,645 songs - 4 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-07-14 |
 | [Wherever](https://open.spotify.com/track/6APr8sy2QQ069Semu8mHLI) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [Wherever](https://open.spotify.com/album/7uLHf7YtnW93JodSYUl7AE) | 3:30 | 2022-08-16 | 2022-10-19 |
 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 | 2022-11-24 | 2022-12-07 |
+| [White Night! White Wish!](https://open.spotify.com/track/53h9qebEiSqrdE3aWZRQZ7) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [葛城リーリヤ](https://open.spotify.com/artist/5njOtP6afp2cbGAa5s8iYJ), [花海佑芽](https://open.spotify.com/artist/0EPcSoJwzUaREV8OMBSSN3), [藤田ことね](https://open.spotify.com/artist/6L7jieQ3QgDPkfFDk41GCw) | [White Night! White Wish!](https://open.spotify.com/album/303Sy3PJxHQvQMBnmdcjel) | 3:56 | 2024-11-28 |  |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 | 2023-06-09 |
 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 | 2023-08-01 | 2023-10-04 |
 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-28 | 2024-03-13 |
@@ -1536,7 +1537,7 @@
 | [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 | 2022-12-13 | 2022-12-15 |
 | [眠らされたリネージュ](https://open.spotify.com/track/5A2K5W8s9v0MR594JMjDL5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [眠らされたリネージュ](https://open.spotify.com/album/2Kd6rOFw49jWatAzMJKwIj) | 4:28 | 2023-10-05 | 2023-10-07 |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-10-17 | 2024-01-10 |
-| [瞬間最大風速](https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [瞬間最大風速](https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6) | 3:28 | 2024-10-25 |  |
+| [瞬間最大風速](https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [瞬間最大風速](https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6) | 3:28 | 2024-10-25 | 2024-11-29 |
 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 | 2023-07-13 | 2023-10-08 |
 | [祈](https://open.spotify.com/track/2zA8ieFjvQNetHoSnXCYyb) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [祈](https://open.spotify.com/album/6l6gilWLojDjJIUXVdm2qD) | 4:40 | 2023-01-26 | 2023-04-12 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-01 | 2023-01-18 |

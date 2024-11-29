@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206162,
       "name": "B\u0103ng Qua C\u1ea7u Gi\u1ea5y",
       "url": "https://open.spotify.com/track/12rIwDpMKwx77nV5O998nB"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -11565,6 +11565,28 @@
     },
     {
       "album": {
+        "name": "RAP VI\u1ec6T 2024, T\u1eadp 11",
+        "url": "https://open.spotify.com/album/7IF0Ku2wElzBhTE4pjH6oV"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251176,
+      "name": "L\u01af\u1edaT TR\u00caN CON S\u00d3NG (feat. Dangrangto)",
+      "url": "https://open.spotify.com/track/35gc5FTZehQ5DF2BI6wkgf"
+    },
+    {
+      "album": {
         "name": "L\u1ea1 L\u00f9ng",
         "url": "https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR"
       },
@@ -12848,7 +12870,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 202629,
       "name": "M\u1ed8NG YU",
       "url": "https://open.spotify.com/track/5oFEvbM7lGnx8jfAkuhVyo"
@@ -13848,7 +13870,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -16642,7 +16664,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 223200,
       "name": "Say Yes (Vietnamese Version)",
       "url": "https://open.spotify.com/track/7mbWwlHgukuuW8r7Nc3FHv"
@@ -17018,7 +17040,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 230675,
       "name": "shhhhhhh..",
       "url": "https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x"
@@ -20164,7 +20186,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 316000,
       "name": "T\u00ccNH \u0110\u1ea6U QU\u00c1 CH\u00c9N (feat. Quang H\u00f9ng MasterD, Negav, Ph\u00e1p Ki\u1ec1u & Erik)",
       "url": "https://open.spotify.com/track/3Nn9QjxOEj1pleW9xTG6cq"
@@ -20744,7 +20766,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"

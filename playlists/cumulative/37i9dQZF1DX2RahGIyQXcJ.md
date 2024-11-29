@@ -4,7 +4,7 @@
 
 > Best of DHH\. Cover:  Dhanda Nyoliwala
 
-344 songs - 19 hr 31 min
+345 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-15 | 2024-03-22 |
 | [Shayad](https://open.spotify.com/track/1RD5wRJuPegDsFtyXRsHY1) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Shayad](https://open.spotify.com/album/67JQKgqmuRtTXxBSQmazrx) | 5:25 | 2022-01-13 | 2022-02-25 |
 | [Shor](https://open.spotify.com/track/5u6yeBNC3Tsh5GTAMBlcUD) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Bittersweet](https://open.spotify.com/album/7Gqhzo0GJ4QhGq6tBspAgQ) | 4:25 | 2024-02-23 | 2024-04-16 |
-| [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 | 2024-08-09 |  |
+| [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 | 2024-08-09 | 2024-11-29 |
 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-10-21 |  |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2024-08-09 |  |
 | [smile](https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:48 | 2024-11-07 |  |
@@ -328,6 +328,7 @@
 | [Unsure](https://open.spotify.com/track/1tsSrHpdlziakBHylF6Bda) | [Umer Anjum](https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [Unsure](https://open.spotify.com/album/3je0rSVbred7JMg2LVh4jT) | 3:36 | 2024-11-07 |  |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2024-06-28 | 2024-08-10 |
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2024-08-09 | 2024-11-07 |
+| [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 | 2024-11-28 |  |
 | [Villain](https://open.spotify.com/track/1HCdZjUS2HaXCf7SJpOROy) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:38 | 2024-01-05 | 2024-08-10 |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-02-24 | 2023-05-26 |
 | [W](https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [W](https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk) | 2:23 | 2024-01-05 | 2024-03-22 |

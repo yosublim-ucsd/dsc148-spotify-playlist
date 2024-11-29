@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: FLO",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Grime Scene Saviours ",
   "name": "Who We Be",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 174166,
       "name": "7.62",
       "url": "https://open.spotify.com/track/0RqC76cRiZv5lHE4GcQa1i"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 126315,
       "name": "Billion Streams Freestyle",
       "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
@@ -4283,6 +4283,28 @@
     },
     {
       "album": {
+        "name": "Can't Decide 3P",
+        "url": "https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cautionary Tales",
+      "url": "https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J"
+    },
+    {
+      "album": {
         "name": "Changed",
         "url": "https://open.spotify.com/album/50AdhgOPWfkkzwXStLOCz9"
       },
@@ -4516,7 +4538,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169195,
       "name": "Choppa (with Lil Baby & Rvssian)",
       "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
@@ -5815,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Every Choice Has An Invoice",
+        "url": "https://open.spotify.com/album/71ml0doaKPxvbb76Zvse56"
+      },
+      "artists": [
+        {
+          "name": "Yungen",
+          "url": "https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139236,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/3kvSHwLQzT8LIobAuPfYkq"
+    },
+    {
+      "album": {
         "name": "Deep in the Water",
         "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
       },
@@ -6362,6 +6402,28 @@
       "duration_ms": 131200,
       "name": "DL4V",
       "url": "https://open.spotify.com/track/5FW38WD2dg30PgXsOv2ICm"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/5sxTwXizIVDkg6B1zKW7v4"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216925,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/5lCgUInjbMSBVuWmfHG7W9"
     },
     {
       "album": {
@@ -7652,7 +7714,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129029,
       "name": "F.N.F.",
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
@@ -8124,6 +8186,32 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "album": {
+        "name": "Finish Me",
+        "url": "https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        },
+        {
+          "name": "Ransom Beatz",
+          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Finish Me",
+      "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
     },
     {
       "album": {
@@ -9883,6 +9971,64 @@
     },
     {
       "album": {
+        "name": "Grime Scene Saviours (feat. D Double E, Frisco, Flirta D, Skepta, Bruza, JME, Jendor, Novelist, Jamakabi & Flowdan)",
+        "url": "https://open.spotify.com/album/4lRNGUDoWKMLlGWTRrDIN4"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Bruza",
+          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Jendor",
+          "url": "https://open.spotify.com/artist/7JbRNtccMoGpkmt0elXur7"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174324,
+      "name": "Grime Scene Saviours (feat. D Double E, Frisco, Flirta D, Skepta, Bruza, JME, Jendor, Novelist, Jamakabi & Flowdan)",
+      "url": "https://open.spotify.com/track/3isrebcnXNgEXGyV2nXiuG"
+    },
+    {
+      "album": {
         "name": "Groupie (feat. Krept & Konan)",
         "url": "https://open.spotify.com/album/7f8yrrLvb3AaNfn7Tk0FOm"
       },
@@ -9923,6 +10069,24 @@
     },
     {
       "album": {
+        "name": "Guava Riddim (Amina)",
+        "url": "https://open.spotify.com/album/7KppFFqUGMDsKtZiT3gsUk"
+      },
+      "artists": [
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166987,
+      "name": "Guava Riddim (Amina)",
+      "url": "https://open.spotify.com/track/0yIfWovrtHKJT0WKTaRGrj"
+    },
+    {
+      "album": {
         "name": "Guillotine",
         "url": "https://open.spotify.com/album/2qEqDJ20yMk7cY2PkYYgRH"
       },
@@ -9956,7 +10120,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 132244,
       "name": "Gyalis Pree",
       "url": "https://open.spotify.com/track/1rZmdW7o9GmgjFqpSrvwj7"
@@ -10738,7 +10902,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 128858,
       "name": "HOLLON",
       "url": "https://open.spotify.com/track/2AB83f5ztHiCFA6DIgodzc"
@@ -12031,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Patience & Heart / In your absence",
+        "url": "https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "In Your Absence",
+      "url": "https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp"
+    },
+    {
+      "album": {
         "name": "WSTRN Season 3",
         "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
@@ -12100,7 +12282,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 116756,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/2ZKigFND4unNopll76YEp4"
@@ -13830,7 +14012,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162061,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/04OZG5UQwgNAY3iHKffiAQ"
@@ -15567,6 +15749,24 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3mPR7LvmfIZMuUKh2xdF1W"
+      },
+      "artists": [
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7zgA27HKj204y0DNT1NHtA"
+    },
+    {
+      "album": {
         "name": "Mini Me's",
         "url": "https://open.spotify.com/album/2juJFdzjxF5S4Nca1D0sKm"
       },
@@ -17054,7 +17254,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 193684,
       "name": "No Bad Energy",
       "url": "https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt"
@@ -18140,6 +18340,24 @@
       "duration_ms": 124714,
       "name": "One Direction",
       "url": "https://open.spotify.com/track/75B9CAbXJgMmwrT6aFTgpv"
+    },
+    {
+      "album": {
+        "name": "One Foot",
+        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156690,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
     },
     {
       "album": {
@@ -23166,7 +23384,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 116571,
       "name": "STORY",
       "url": "https://open.spotify.com/track/19O8BNgECit13QYa7DXpHw"
@@ -23312,7 +23530,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 102765,
       "name": "Studio Fit Riddim",
       "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
@@ -24948,7 +25166,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 215157,
       "name": "Tony Soprano 3",
       "url": "https://open.spotify.com/track/0y4jUgtW1KlE9CCLxhNBZi"
@@ -26151,6 +26369,28 @@
     },
     {
       "album": {
+        "name": "DOG WITH A \u00a3",
+        "url": "https://open.spotify.com/album/7a1FeuSRU5Q6jX52fUcgL6"
+      },
+      "artists": [
+        {
+          "name": "Deema",
+          "url": "https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm"
+        },
+        {
+          "name": "BlazeYL",
+          "url": "https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91875,
+      "name": "WAP (feat. BlazeYL)",
+      "url": "https://open.spotify.com/track/7LmCo5y34qkaewG0fpHMR1"
+    },
+    {
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/6rWrQmCAsrocRq5HL2dqgU"
       },
@@ -27170,6 +27410,24 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "album": {

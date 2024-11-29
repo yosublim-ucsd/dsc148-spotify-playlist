@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 396721,
+  "num_followers": 396795,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Perfect (Exceeder) [1991 Remix]",
         "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
         "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 162857,
       "name": "Never Going Home Tonight (feat. Madison Love) - KAAZE Remix",
       "url": "https://open.spotify.com/track/0znQfZSluraTNVo8Fg6mHs"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1551,30 +1551,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1595,6 +1571,30 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "My Fantasy",
-        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 180535,
-      "name": "My Fantasy",
-      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
@@ -1879,18 +1859,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Europatr\u00e4ume",
-        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 216592,
-      "name": "Europatr\u00e4ume",
-      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
+      "duration_ms": 180535,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1935,22 +1919,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/4w9ZyBnfyr7HBF3VDZhByA"
+        "name": "Europatr\u00e4ume",
+        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
       },
       "artists": [
         {
-          "name": "MAUD",
-          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
-        },
-        {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 122424,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/59lfG5dM0s7uyX3JbJoPsz"
+      "duration_ms": 216592,
+      "name": "Europatr\u00e4ume",
+      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1991,26 +1971,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Lift Me Up (feat. Kyozo)",
-        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/4w9ZyBnfyr7HBF3VDZhByA"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "MAUD",
+          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
         }
       ],
-      "duration_ms": 233203,
-      "name": "Lift Me Up (feat. Kyozo)",
-      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
+      "duration_ms": 122424,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/59lfG5dM0s7uyX3JbJoPsz"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2035,22 +2011,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
       },
       "artists": [
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         },
         {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+      "duration_ms": 233203,
+      "name": "Lift Me Up (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2071,6 +2051,26 @@
       "duration_ms": 156169,
       "name": "LSD",
       "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2024-11-07 23:00:00",

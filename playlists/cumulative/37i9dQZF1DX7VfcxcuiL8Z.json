@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Linkin Park",
+  "description": "The best in new rock. Cover: Spiritbox",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Dead Slow",
+        "url": "https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC"
+      },
+      "artists": [
+        {
+          "name": "Heavy Moss",
+          "url": "https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335998,
+      "name": "Blutac",
+      "url": "https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5"
+    },
+    {
+      "album": {
         "name": "Bomb.com",
         "url": "https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 222154,
       "name": "Cat 5 (Cyclone)",
       "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
+    },
+    {
+      "album": {
         "name": "The Only Place I Know",
         "url": "https://open.spotify.com/album/43lrNoD7YTqyHtZL6TaX8M"
       },
@@ -1044,6 +1080,24 @@
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "Ghost Of Us",
+        "url": "https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS"
+      },
+      "artists": [
+        {
+          "name": "Siobhan Cotchin",
+          "url": "https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207955,
+      "name": "Ghost Of Us",
+      "url": "https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO"
     },
     {
       "album": {
@@ -1730,7 +1784,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 167315,
       "name": "Leading Man",
       "url": "https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD"

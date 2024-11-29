@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-461 songs - 1 day 3 hr 14 min
+462 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-02-10 |  |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR) | [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Deja de Llorar](https://open.spotify.com/album/0bSs0ly2sGFwLnokPatqRn) | 1:25 | 2022-05-13 | 2022-07-23 |
+| [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-28 |  |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-07-15 | 2022-07-30 |
 | [Desconocidos](https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desconocidos](https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ) | 3:24 | 2022-05-13 | 2022-07-29 |
 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-05-13 |  |
@@ -320,7 +321,7 @@
 | [Previa y Cachengue 35 \- Remix](https://open.spotify.com/track/4a0XLZUjHFHPwMBxQJD2JX) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue \#35 \(Remix\)](https://open.spotify.com/album/4KYGJ3pW39Guxs8sqe5JmY) | 12:19 | 2022-05-13 | 2022-07-29 |
 | [Previa y Cachengue 38 \- Remix](https://open.spotify.com/track/1ba1ZedHHXyiQdFQM2Baak) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 38 \(Remix\)](https://open.spotify.com/album/0z8FZzklO72iHmn1zFfmyY) | 14:02 | 2022-05-13 | 2022-07-28 |
 | [Previa y Cachengue 40 \- Remix](https://open.spotify.com/track/3fq0e1TpOQFBDi0vuYrePo) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 40 \(Remix\)](https://open.spotify.com/album/3zZSfu8y3EaQAD1puIuwvI) | 15:28 | 2022-05-13 | 2022-07-29 |
-| [Privado](https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 1:58 | 2023-11-24 |  |
+| [Privado](https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 1:58 | 2023-11-24 | 2024-11-29 |
 | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 | 2022-07-22 |  |
 | [Que a Pasao \- Remix](https://open.spotify.com/track/5saUoeceT2zau6ScmU77e6) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao \(Remix\)](https://open.spotify.com/album/2V8rhM3I4tjA94MLqt42cr) | 3:32 | 2022-05-13 | 2022-07-29 |
 | [Que Calor](https://open.spotify.com/track/5okavJ731DnmenoazNvinG) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 4:04 | 2023-01-26 | 2023-02-11 |

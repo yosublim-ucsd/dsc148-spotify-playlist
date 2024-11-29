@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran
 
-876 songs - 1 day 19 hr 53 min
+877 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Ariana](https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli) | [Igor Jansen](https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Meus Gostos](https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb) | 2:48 | 2024-07-19 | 2024-09-17 |
 | [Assanhadinha](https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Assanhadinha](https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms) | 2:36 | 2023-09-15 | 2023-10-28 |
 | [Assault \(Crime Perfeito\)](https://open.spotify.com/track/7b8kjWj4TKWmWo2LX9Lkiz) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Assault \(Crime Perfeito\)](https://open.spotify.com/album/3tnFroQ43SHOKeCxMLAAxY) | 3:44 | 2020-10-20 | 2022-07-27 |
+| [Assome](https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:00 | 2024-11-28 |  |
 | [Atenção](https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77) | [Letícia Hally](https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p) | [Atenção](https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke) | 2:36 | 2023-09-15 | 2023-10-14 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 | 2024-03-23 |
 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2023-02-14 | 2023-07-15 |
@@ -159,7 +160,7 @@
 | [CARAMELO E FLOR DE SAL](https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5) | [Quorum](https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH), [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG), [Nobuga](https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [GALE](https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB) | [CARAMELO E FLOR DE SAL](https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM) | 3:20 | 2024-08-30 | 2024-09-28 |
 | [Carinha De Sol](https://open.spotify.com/track/7aWj6KIVFvecD207YszjVU) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 2:44 | 2023-10-13 | 2023-11-11 |
 | [CARNAVAL](https://open.spotify.com/track/3uQMkBJrOPY07j0SjMuuFg) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CARNAVAL](https://open.spotify.com/album/7tpmiuOnL3w02bEUILTcDo) | 3:01 | 2023-03-03 | 2023-03-11 |
-| [Carnificina](https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:20 | 2023-09-01 |  |
+| [Carnificina](https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:20 | 2023-09-01 | 2024-11-29 |
 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 | 2023-09-08 | 2024-04-19 |
 | [Carolina](https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Carolina / Levemente](https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1) | 2:46 | 2024-03-22 | 2024-04-27 |
 | [Carta Aberta](https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Carta Aberta](https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo) | 3:23 | 2023-10-13 | 2023-11-18 |

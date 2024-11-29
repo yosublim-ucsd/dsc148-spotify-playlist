@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,411 likes - 87 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 53 | [ワンダーランド・ア・ゴーゴー!!](https://open.spotify.com/track/0hlAFAATSv1icVEjLogJvt) | [アリス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/2lunpMyiR8JzCHQA4MvYhQ), [帽子屋\[茅ヶ崎至\(CV:浅沼晋太郎\)\]](https://open.spotify.com/artist/5nwJhbtk5quhP9YzgA7i9G) | [A3! Blooming SPRING EP](https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb) | 3:53 |
 | 54 | [ゴクドルミュージック](https://open.spotify.com/track/3x3BqSrtE0hXSHXjZmjD0w) | [ゴクドルズ虹組](https://open.spotify.com/artist/5WOWJODSacmBJ4u14GrpmU) | [ゴクドルミュージック](https://open.spotify.com/album/2JOHC8truIUF3asKYqbDo6) | 3:32 |
 | 55 | [乗ってけ!ジャパリビート](https://open.spotify.com/track/1CxDf1WLgaXRvR74BTjHp3) | [どうぶつビスケッツ×PPP](https://open.spotify.com/artist/5bb5Dk8231aHrLH1EOXyhL) | [「乗ってけ!ジャパリビート\(TVアニメ「けものフレンズ2」オープニング主題歌\)」](https://open.spotify.com/album/7Ahslt2dKFZo6XRkU9kZox) | 3:34 |
-| 56 | [フレ!フレ!ベストフレンズ](https://open.spotify.com/track/54URYrsQij0Qn2rULJRtdU) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [フレ!フレ!ベストフレンズ](https://open.spotify.com/album/7qS0pR835gt1LcgFAd1dgG) | 3:32 |
+| 56 | [フレ！フレ！ベストフレンズ](https://open.spotify.com/track/54URYrsQij0Qn2rULJRtdU) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [フレ！フレ！ベストフレンズ](https://open.spotify.com/album/7qS0pR835gt1LcgFAd1dgG) | 3:32 |
 | 57 | [け・も・の・だ・も・の](https://open.spotify.com/track/67q8caFftg7kStkERSsA91) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [け・も・の・だ・も・の](https://open.spotify.com/album/4KRip6V782opXQRRndSgUO) | 3:23 |
 | 58 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 |
 | 59 | [不可侵領域デストロイヤー](https://open.spotify.com/track/7vs9n0laWV2Ole3lDRZ6Sd) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [singing Rib](https://open.spotify.com/album/1MkN04fNAC7dfiM0q1tXVM) | 3:54 |

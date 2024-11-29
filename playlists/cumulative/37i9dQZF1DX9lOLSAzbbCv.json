@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0425\u0456\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0435\u043f\u0443. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Santorin",
+  "description": "\u0425\u0456\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0435\u043f\u0443. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: YARMAK",
   "name": "\u0420\u0435\u043f \u0445\u0456\u0442\u0438",
   "tracks": [
     {
@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u0435\u0442\u0435\u0440\u0430\u043d\u0438",
+        "url": "https://open.spotify.com/album/1tecohDEUs4Nu4fE2d8BJO"
+      },
+      "artists": [
+        {
+          "name": "NORD DIVISION",
+          "url": "https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap"
+        },
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 733953,
+      "name": "\u0412\u0435\u0442\u0435\u0440\u0430\u043d\u0438",
+      "url": "https://open.spotify.com/track/0HxClcncftQKpABXo3utOm"
+    },
+    {
+      "album": {
         "name": "\u0412\u0438\u0440\u0438\u0432\u0430\u0442\u0438\u0441\u044c",
         "url": "https://open.spotify.com/album/5KkueXcsi2b6ehh4wGuDgG"
       },
@@ -328,7 +350,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 136363,
       "name": "\u0412\u0441\u0435 \u043c\u043e\u0454 \u0442\u0435\u043f\u043b\u043e",
       "url": "https://open.spotify.com/track/1XtcgJaRUWyzbiRpzZC6Rq"
@@ -422,7 +444,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188313,
       "name": "\u0413\u0456\u0440\u043a\u0430",
       "url": "https://open.spotify.com/track/3iUvPfvenb2vkXycIAiRF7"
@@ -616,6 +638,24 @@
       "duration_ms": 173280,
       "name": "\u0417\u0410\u0413\u041b\u041e\u0425",
       "url": "https://open.spotify.com/track/4ASeRZheeHg7e2F9Bc0q7q"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u043c\u043a\u043d\u0443\u0442\u0438\u0439 \u043a\u043e\u043d\u0442\u0443\u0440",
+        "url": "https://open.spotify.com/album/4IOx4Td5EQbHWpSov33foo"
+      },
+      "artists": [
+        {
+          "name": "YARMAK",
+          "url": "https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0417\u0430\u043c\u043a\u043d\u0443\u0442\u0438\u0439 \u043a\u043e\u043d\u0442\u0443\u0440",
+      "url": "https://open.spotify.com/track/1R9UZQgsL2rZJuBmT3WJrF"
     },
     {
       "album": {
@@ -1048,7 +1088,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151378,
       "name": "\u041d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439",
       "url": "https://open.spotify.com/track/4YqSpwcDIyB6crtbSqdeJg"
@@ -1750,6 +1790,24 @@
       "duration_ms": 168000,
       "name": "\u0428\u0443\u043a\u0430\u043b\u0438 \u0432\u0447\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/6LWU2SReUMAZ4XixabuZqp"
+    },
+    {
+      "album": {
+        "name": "\u0429\u0435 \u043e\u0434\u0438\u043d \u0434\u0435\u043d\u044c \u0434\u043e \u0437\u0438\u043c\u0438",
+        "url": "https://open.spotify.com/album/7seTgO1XJbOV7t2EAT7zzA"
+      },
+      "artists": [
+        {
+          "name": "Santorin",
+          "url": "https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "\u0429\u0435 \u043e\u0434\u0438\u043d \u0434\u0435\u043d\u044c \u0434\u043e \u0437\u0438\u043c\u0438",
+      "url": "https://open.spotify.com/track/3xaEJxLFACn7xNYscqf1NE"
     },
     {
       "album": {

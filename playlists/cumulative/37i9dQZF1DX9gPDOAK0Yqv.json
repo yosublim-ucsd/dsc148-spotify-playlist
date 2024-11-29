@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207096,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0bKeh6PzHLm5WElPsoGXSu"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 238093,
       "name": "Ana",
       "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
@@ -4778,7 +4778,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 215988,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE"
@@ -5228,7 +5228,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 236125,
       "name": "How to Get Lost",
       "url": "https://open.spotify.com/track/5tWTZwUDixgTZ6T3eXg0VG"
@@ -5696,6 +5696,24 @@
       "duration_ms": 329032,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2ppzido13eOQlSPew0KrdA"
+    },
+    {
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "album": {
@@ -7171,6 +7189,32 @@
     },
     {
       "album": {
+        "name": "Miss You (Argy Remix)",
+        "url": "https://open.spotify.com/album/1o9F9wzQQTAU1k8Qj5fDza"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Miss You - Argy Remix",
+      "url": "https://open.spotify.com/track/7sNSLpiSJrNYWc0XLgFEBn"
+    },
+    {
+      "album": {
         "name": "Mistery Lady",
         "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
       },
@@ -7372,7 +7416,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188750,
       "name": "Move It",
       "url": "https://open.spotify.com/track/3si1xexU5wiWQZ2HEbucdD"
@@ -8338,6 +8382,32 @@
       "duration_ms": 446280,
       "name": "Oxygen Levels Low",
       "url": "https://open.spotify.com/track/6WUIzfezzm9TyJQAZHCDBs"
+    },
+    {
+      "album": {
+        "name": "Pankrepas",
+        "url": "https://open.spotify.com/album/5p3jdI5wKt2X0En9WxQ44W"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Koraia",
+          "url": "https://open.spotify.com/artist/75pPkq8AGi21u8CHVXKKHT"
+        },
+        {
+          "name": "NURAH",
+          "url": "https://open.spotify.com/artist/5mZrrXWoXJhErQMWVrp6fs"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230087,
+      "name": "Pankrepas",
+      "url": "https://open.spotify.com/track/39Ynos9s3WJPvss8z4JBg8"
     },
     {
       "album": {
@@ -9615,6 +9685,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0zJtwrOgT3IqXpYAOFX71i"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69"
+    },
+    {
+      "album": {
         "name": "Run & Hide (Ae:ther Remix)",
         "url": "https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS"
       },
@@ -9692,6 +9780,28 @@
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/0z7xVubreIoeySVXQuAPN3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        },
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206498,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/6GILOzBgkTHtyinx0SvI4r"
     },
     {
       "album": {
@@ -12008,7 +12118,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 219562,
       "name": "Touch Infinity - Nihil Young Remix Radio Edit",
       "url": "https://open.spotify.com/track/507l89LCZvQgBTASxLXqtf"
@@ -12216,6 +12326,28 @@
       "duration_ms": 219840,
       "name": "Try",
       "url": "https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV"
+    },
+    {
+      "album": {
+        "name": "TTXTC",
+        "url": "https://open.spotify.com/album/2H6KmOLrqr1agkyyWrusXl"
+      },
+      "artists": [
+        {
+          "name": "8Kays",
+          "url": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+        },
+        {
+          "name": "OBSESH",
+          "url": "https://open.spotify.com/artist/5hpljfhFCdjLWHlUurdOJo"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207594,
+      "name": "TTXTC",
+      "url": "https://open.spotify.com/track/5r3EW4LmqB5XejDA5Sfkal"
     },
     {
       "album": {
@@ -12676,6 +12808,32 @@
       "duration_ms": 220434,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/2YCgldCFM52mBBZdQCOfDE"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/0Gma39XwkcWTvN6sSGqJCT"
+      },
+      "artists": [
+        {
+          "name": "Alan Wools",
+          "url": "https://open.spotify.com/artist/7o3vkxJ1muibqnDdlqOf8x"
+        },
+        {
+          "name": "Two Are",
+          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
+        },
+        {
+          "name": "Etonika",
+          "url": "https://open.spotify.com/artist/6oYOWjiYvztZcf1yzKFFQ7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192619,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/26K0n0LCW6WB4AcFStHRVe"
     },
     {
       "album": {

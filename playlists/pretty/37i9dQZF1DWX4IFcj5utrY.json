@@ -1,15 +1,35 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=0Q-uVSfjTZuxckiXHs0lhw\"> Sun-El Musician",
-  "num_followers": 74649,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi\"> Blackwhole</a>",
+  "num_followers": 74666,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+tYAAAAABBW90ppz931d7Q/WD9pAjX",
+  "snapshot_id": "Z0jn4AAAAADXbKyfDhGpjJawId/fKP+C",
   "tracks": [
     {
-      "added_at": "2024-11-21 22:00:00",
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "1000 Seconds (Atmos Blaq Remix)",
+        "url": "https://open.spotify.com/album/3IlTSiZPFDmiOQdBbqtVUC"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 427118,
+      "name": "1000 Seconds - Atmos Blaq Remix",
+      "url": "https://open.spotify.com/track/10TbShpB6filtUg2GJqLtA"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4kChvG2Mn0eCTXVezJY9SP"
@@ -33,7 +53,7 @@
       "url": "https://open.spotify.com/track/4fgJvKOlQZ7tJYv42vjtss"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Finally Famous Too",
         "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
@@ -57,7 +77,27 @@
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Gypsy Woman (Prince Kaybee Remake)",
+        "url": "https://open.spotify.com/album/3baptKL2BUUl6WYqNrBCue"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Halala",
+          "url": "https://open.spotify.com/artist/1ZzzoPzKTlktHtAR3JAGg1"
+        }
+      ],
+      "duration_ms": 357995,
+      "name": "Gypsy Woman (Prince Kaybee Remake)",
+      "url": "https://open.spotify.com/track/4xIHRqcNECGyAHOwwbWWoG"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Caiiro",
         "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
@@ -77,7 +117,7 @@
       "url": "https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Can't Let You Go",
         "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Tantalizing",
         "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
@@ -117,7 +157,31 @@
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "THE XO EFFECT 2",
+        "url": "https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        },
+        {
+          "name": "Beat Soul",
+          "url": "https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        }
+      ],
+      "duration_ms": 438548,
+      "name": "INHLIZIYO (feat. Brandon Dhludhlu)",
+      "url": "https://open.spotify.com/track/5f33BzBZzMMAFrMr0O4xHe"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/2Oit1MJ8gZH5IpROBXO7Lk"
@@ -137,7 +201,27 @@
       "url": "https://open.spotify.com/track/1RklS9IcOUVxolkPW4YaXl"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Fractured Reflections",
         "url": "https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T"
@@ -157,7 +241,7 @@
       "url": "https://open.spotify.com/track/1h5Ds9SNjbVIu0qMXs723B"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
@@ -173,7 +257,7 @@
       "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
@@ -193,7 +277,7 @@
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "A Life Worth Living",
         "url": "https://open.spotify.com/album/0MC35ofBLwDfne9bhI2bvq"
@@ -213,7 +297,7 @@
       "url": "https://open.spotify.com/track/49oBwW9tEz6J2fh2GYSEdD"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Murder On The Dancefloor (THEMBA Remix)",
         "url": "https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9"
@@ -233,7 +317,27 @@
       "url": "https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Know You Well",
+        "url": "https://open.spotify.com/album/7BSYfxoJgxwNwcoToDI29w"
+      },
+      "artists": [
+        {
+          "name": "Jay Em",
+          "url": "https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw"
+        },
+        {
+          "name": "Nothando Mamba",
+          "url": "https://open.spotify.com/artist/4DMTgsuDFjGAR0Zm4z6Ijj"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Know You Well",
+      "url": "https://open.spotify.com/track/4y1bBDiB33le7jEgQLKNqD"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "QMA (feat. Ze2 & Kuthathu)",
         "url": "https://open.spotify.com/album/46MjznyFZbFUA2pFNWuCwm"
@@ -257,7 +361,7 @@
       "url": "https://open.spotify.com/track/12sbuKdjDUAcDbq1sC4ovU"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
@@ -277,7 +381,7 @@
       "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Chibuku",
         "url": "https://open.spotify.com/album/5QUdoYUVe7djjf9C3XWiZb"
@@ -293,7 +397,7 @@
       "url": "https://open.spotify.com/track/6q2TVvIWdKbt7sC3vn4FlO"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Emhlabeni",
         "url": "https://open.spotify.com/album/0MxLaGVWWjzjU60iw83H1a"
@@ -317,7 +421,7 @@
       "url": "https://open.spotify.com/track/5lXg6GlhS6V3SsIlORH7uI"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Tanzania (Rampa Remix)",
         "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
@@ -345,7 +449,7 @@
       "url": "https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Njalo",
         "url": "https://open.spotify.com/album/3vQTRdT20zloJ9ZDCiGWim"
@@ -365,7 +469,7 @@
       "url": "https://open.spotify.com/track/7d5mCjXNlMmNz9SlBWR9F4"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/3sIcA0y6M6xsUbN6YOCV0f"
@@ -389,7 +493,7 @@
       "url": "https://open.spotify.com/track/1EZsoWbbn4nkK2GIhqbFSy"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Thanda Wena (feat. Sanele Guduza)",
         "url": "https://open.spotify.com/album/0xk5UMQnCDJAeu4aBHOiDr"
@@ -413,7 +517,7 @@
       "url": "https://open.spotify.com/track/2NmJ1Lbvi1brYFYeOTvvhF"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "ARCADE TRILOGY",
         "url": "https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ"
@@ -433,7 +537,7 @@
       "url": "https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/2Nvmmhm6S2H2hIAiU38Tb1"
@@ -449,7 +553,7 @@
       "url": "https://open.spotify.com/track/0WgK4eOF58SZmFRvMboxXp"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "The 3 Step Ritual",
         "url": "https://open.spotify.com/album/1hTVY4UR7eJCoiOrX2cb3T"
@@ -485,7 +589,7 @@
       "url": "https://open.spotify.com/track/1VGjNRUkiOiyT45NGBzLuj"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Kitu",
         "url": "https://open.spotify.com/album/2Sod7d7BoCFDWMSlFJdqF5"
@@ -505,7 +609,7 @@
       "url": "https://open.spotify.com/track/6syW3rE6yMNKqVhCSCWMzM"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/6LkurPSxQp2hYWtRgPOnQ1"
@@ -525,7 +629,7 @@
       "url": "https://open.spotify.com/track/6liVqLO60pM5HCWE59YC38"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Was It Really Worth It",
         "url": "https://open.spotify.com/album/5brrruOxAFb86AOCguMJTP"
@@ -541,7 +645,7 @@
       "url": "https://open.spotify.com/track/17pJvCYip66rkb1gTkHBHZ"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Spheres",
         "url": "https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly"
@@ -565,7 +669,7 @@
       "url": "https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Tendani",
         "url": "https://open.spotify.com/album/0OgjkOSuZ0mMYftKotcUG1"
@@ -589,7 +693,7 @@
       "url": "https://open.spotify.com/track/3xfrMDmH7NDw6Pk2MFpv85"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
@@ -613,7 +717,7 @@
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/09364IuNP2S0Fgr9yz0lLc"
@@ -633,7 +737,7 @@
       "url": "https://open.spotify.com/track/38pYs49ZDhY59Sjo9E9DWO"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Rekindled",
         "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
@@ -653,7 +757,7 @@
       "url": "https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Besa (House Mix)",
         "url": "https://open.spotify.com/album/3nDonPBkQj9rEIyTviw9DQ"
@@ -681,7 +785,7 @@
       "url": "https://open.spotify.com/track/3DENuqVRPac4Jj0O6FRkNm"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Book Of Wav",
         "url": "https://open.spotify.com/album/4waKUQnq2Fzr302t4Z4lRX"
@@ -701,7 +805,7 @@
       "url": "https://open.spotify.com/track/2NbUGDfrkDSklM8bFgl6MC"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Send Me (Doug Gomez Remix)",
         "url": "https://open.spotify.com/album/77aajLlLL3GaEnyM4r9BUv"
@@ -725,7 +829,7 @@
       "url": "https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
@@ -753,7 +857,7 @@
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -781,7 +885,7 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
@@ -801,7 +905,7 @@
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Intando",
         "url": "https://open.spotify.com/album/1eXSdSoqvj19h6yMMy3O4p"
@@ -825,7 +929,7 @@
       "url": "https://open.spotify.com/track/6mdCx5RSO2BmsIb6IbHqW2"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Nomvula (feat. Nia Pearl & Bontle Smith)",
         "url": "https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM"
@@ -849,7 +953,7 @@
       "url": "https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Sauti",
         "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
@@ -873,7 +977,7 @@
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "God's Calling",
         "url": "https://open.spotify.com/album/66bCCLeNNd58izphT50VwP"
@@ -897,27 +1001,27 @@
       "url": "https://open.spotify.com/track/2YKWrbHso3MViCrzcY8Qsk"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "I Forgive You [(Chromeo Remix) [radio edit]]",
-        "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
+        "name": "XXVI",
+        "url": "https://open.spotify.com/album/540mWucmj2AlhjBcHRmwg5"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
         }
       ],
-      "duration_ms": 201123,
-      "name": "I Forgive You - (Chromeo Remix) [radio edit]",
-      "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
+      "duration_ms": 356413,
+      "name": "Subanomona",
+      "url": "https://open.spotify.com/track/1q8iDWZBjtjz2ClG0DHPHO"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
@@ -937,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "J'oublierai tout",
         "url": "https://open.spotify.com/album/1N9oQv561k9x70SdhrHt2w"
@@ -961,7 +1065,7 @@
       "url": "https://open.spotify.com/track/78cTZ1y6VMYEQxZMpjPuaq"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Archaeology",
         "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
@@ -985,7 +1089,7 @@
       "url": "https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Digane",
         "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
@@ -1005,23 +1109,7 @@
       "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "Feeling Alive",
-        "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229903,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Take Us Away",
         "url": "https://open.spotify.com/album/7GduOppJbqxIZdf1Wuvun6"
@@ -1041,7 +1129,7 @@
       "url": "https://open.spotify.com/track/11jwZYeSspa9XT5I9zCXrI"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Ithuba EP",
         "url": "https://open.spotify.com/album/6rFVAJeo4itNlq20dFuABO"
@@ -1065,27 +1153,7 @@
       "url": "https://open.spotify.com/track/4ZyzaDX42CIIyxdJnArQZ1"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "GET UP BITCH! shake ya ass (with Anitta)",
-        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "GET UP BITCH! shake ya ass (with Anitta)",
-      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
@@ -1105,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Nothing That I Need",
         "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
@@ -1121,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
@@ -1141,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Parachute (feat. Rachel Chinouriri)",
         "url": "https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl"
@@ -1161,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Mmino Wa Batho",
         "url": "https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ"
@@ -1185,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Indalo",
         "url": "https://open.spotify.com/album/7kx9yTATM8wc4c1u4fmwQc"
@@ -1205,35 +1273,7 @@
       "url": "https://open.spotify.com/track/0WGcw62a3tCniUTFP50lWt"
     },
     {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "Love Generation (Reimagined)",
-        "url": "https://open.spotify.com/album/1ulfBxeNo0QvBBgkO8mALO"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 221743,
-      "name": "Love Generation - Reimagined",
-      "url": "https://open.spotify.com/track/0XNmVc3Q1wVIgY4hRAYaTv"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
+      "added_at": "2024-11-28 22:00:00",
       "album": {
         "name": "Things you Love",
         "url": "https://open.spotify.com/album/5EugR2Veit91H04zSLf6lN"
@@ -1251,78 +1291,6 @@
       "duration_ms": 401000,
       "name": "Things you Love",
       "url": "https://open.spotify.com/track/1HDJlzNrCXrspyHmynZNMN"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        },
-        {
-          "name": "Jordan Arts",
-          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
-        }
-      ],
-      "duration_ms": 295283,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i"
-    },
-    {
-      "added_at": "2024-11-15 00:23:02",
-      "album": {
-        "name": "Pareidolia - EP",
-        "url": "https://open.spotify.com/album/56IkkkJE8tTX0ltCxJuwmn"
-      },
-      "artists": [
-        {
-          "name": "Thor Rixon",
-          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
-        },
-        {
-          "name": "Helena Goddard",
-          "url": "https://open.spotify.com/artist/0vX217F6j6snRGLcim2F8F"
-        }
-      ],
-      "duration_ms": 309020,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/19eQwNJvPhk6muA4Xwa3Cs"
     }
   ],
   "unique_name": "mint South Africa",

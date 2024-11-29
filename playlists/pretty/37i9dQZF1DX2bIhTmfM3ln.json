@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 40399,
+  "num_followers": 40429,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 170666,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Lately (feat. Ruger)",
-        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Lately (feat. Ruger)",
-      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Lately (feat. Ruger)",
+        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Lately (feat. Ruger)",
+      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Falling/Unleash",
-        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+        "name": "Hard Guy Confessions",
+        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
+      "duration_ms": 234767,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -703,6 +707,22 @@
       "duration_ms": 164081,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/7wKjjHpcu0XT8xvW5rE8PU"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Falling/Unleash",
+        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -727,26 +747,6 @@
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Hard Guy Confessions",
-        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 234767,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Keep It Sexy",
-        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Keep It Sexy",
-      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 165517,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Time Traveler",
-        "url": "https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Time Traveler",
-      "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 158939,
       "name": "CWT (feat. BNXN)",
       "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Time Traveler",
+      "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Son of Chike",
+        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 152315,
+      "name": "Mma (Beauty)",
+      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 145200,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Son of Chike",
-        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 152315,
-      "name": "Mma (Beauty)",
-      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Gon Gon / No Forget",
-        "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Gon Gon",
-      "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
+      "duration_ms": 178144,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Gon Gon / No Forget",
+        "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Gon Gon",
+      "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 156448,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     }
   ],
   "unique_name": "Lovin' Beats",

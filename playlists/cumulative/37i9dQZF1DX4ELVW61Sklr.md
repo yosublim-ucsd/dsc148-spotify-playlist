@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-176 songs - 11 hr 16 min
+177 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 | 2022-11-25 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/51u4r13PK8Bb2aKwuMkBtc) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:04 | 2024-11-22 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:45 | 2024-11-22 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [A Classic Christmas Night \- EP](https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE) | 3:18 | 2021-12-15 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [A Classic Christmas Night \- EP](https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE) | 3:18 | 2021-12-15 | 2024-11-29 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 5:18 | 2021-12-15 |  |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:43 | 2021-12-15 | 2022-10-31 |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/3yQbBL8hsYtUhXSrmbKq8X) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:43 | 2021-12-15 | 2022-07-24 |
@@ -145,6 +145,7 @@
 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 | 2023-11-10 |  |
 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 | 2021-12-15 |  |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 | 2022-11-25 | 2023-12-09 |
+| [The First Noel](https://open.spotify.com/track/2tGmFHZybqa7gtVWKRAHGp) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI) | [The First Noel](https://open.spotify.com/album/1mNAIBxkCHT0QJqBURS3OY) | 3:23 | 2024-11-22 |  |
 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 | 2023-11-03 |  |
 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 | 2021-12-15 | 2024-04-19 |
 | [The First Noel](https://open.spotify.com/track/2W1H6AfncpHMUYXX5kWYKr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/2PzjS06Y5MfY34OlhHpCWd) | 4:24 | 2021-12-15 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Ludmilla, Belo",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto, Belo",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 89335,
       "name": "Abertura / Como Eu Te Amo - Ao Vivo",
       "url": "https://open.spotify.com/track/6GSbwgHCJ2A6cv0U0FHBEs"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160460,
       "name": "Inten\u00e7\u00e3o / N\u00e3o Precisa Mudar - Ao Vivo",
       "url": "https://open.spotify.com/track/4qti4BlDJKmJGDRADMGc6h"
@@ -1951,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "Na Nossa Sala / Amor e Amor (Ao Vivo em Paris, 2024)",
+        "url": "https://open.spotify.com/album/08iAr8wue0oJwfP1Kn9yyL"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "Na Nossa Sala / Amor e Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ni3iN8AhweKQ3yBis62HR"
+    },
+    {
+      "album": {
         "name": "Samba da Ladeira (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP"
       },
@@ -1966,6 +1992,28 @@
       "duration_ms": 339637,
       "name": "Nosso Lance / No Meu Olhar / Uma Estrela - Ao Vivo",
       "url": "https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Foi a Toa / Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202869,
+      "name": "N\u00e3o Foi a Toa / Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8"
     },
     {
       "album": {
@@ -2667,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "Que Dure para Sempre / Sempre Ser\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3fVp8YWPghrP2d7sCg3z3z"
+      },
+      "artists": [
+        {
+          "name": "Quinteto S.A.",
+          "url": "https://open.spotify.com/artist/5w2pxzBYtW7suiztfGg1dR"
+        },
+        {
+          "name": "Marcelinho Freitas",
+          "url": "https://open.spotify.com/artist/5qH9dZ2VxfJxMlPmLZ3bAk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236682,
+      "name": "Que Dure para Sempre / Sempre Ser\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ewto95q2LCw0JTkTTWPfj"
+    },
+    {
+      "album": {
         "name": "Mania do Brasil (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4x6saOWa3jIl2sN6hOchu5"
       },
@@ -3147,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Mixturadin 3 - Vol. 2",
+        "url": "https://open.spotify.com/album/32fYls29AbB59cgAopGyIW"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297117,
+      "name": "Talvez / S\u00f3 Depois / J\u00e1 Virou Rotina",
+      "url": "https://open.spotify.com/track/0ZxXIbSuTzHq0pCdbcoKlX"
+    },
+    {
+      "album": {
         "name": "Teu Segredo / Duvido / Pra N\u00e3o Dar Bandeira",
         "url": "https://open.spotify.com/album/0RijaS9tnT22QnO0xcYpkM"
       },
@@ -3474,7 +3566,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 562569,
       "name": "Vendaval | Diz Pra Mim | Cuidado, Cupido | Homem-Aranha | Paci\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/3y7KBZag9XjlUWlzcrXOa8"
@@ -3492,7 +3584,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 324661,
       "name": "Vento dos Areais / Apelo / Pura Solid\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3dVsSZMN7GRAC3xsWStJuB"

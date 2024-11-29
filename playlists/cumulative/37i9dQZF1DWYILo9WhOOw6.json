@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Resting Thought Delta",
+        "url": "https://open.spotify.com/album/48Y5oZwISVxOx93pziNL0c"
+      },
+      "artists": [
+        {
+          "name": "Peace In Stillness",
+          "url": "https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Careless Waves Delta (86-89hz)",
+      "url": "https://open.spotify.com/track/3MnbVyqZd9u7oYKR7MrQdM"
+    },
+    {
+      "album": {
         "name": "Sun Salutation : Delta Sinus Beats",
         "url": "https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG"
       },
@@ -2106,6 +2124,24 @@
       "duration_ms": 270000,
       "name": "Ocean Wings - Delta Sinus 156Hz - 159Hz",
       "url": "https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh"
+    },
+    {
+      "album": {
+        "name": "One Day 80Khz-85Khz",
+        "url": "https://open.spotify.com/album/72YXtCCAAPmaf8rDh5pHjv"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "One Day 80Khz-85Khz",
+      "url": "https://open.spotify.com/track/4M0GU2g6JSA1oASNfHjScG"
     },
     {
       "album": {

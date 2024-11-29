@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196363,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 145454,
       "name": "FRESH AND NEW",
       "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
@@ -2054,6 +2054,28 @@
       "duration_ms": 410222,
       "name": "Keep Thinking",
       "url": "https://open.spotify.com/track/1SGdclEPwF1EL2SFrmX5px"
+    },
+    {
+      "album": {
+        "name": "King Steps",
+        "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181141,
+      "name": "King Steps",
+      "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
     },
     {
       "album": {
@@ -2935,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "ATW010",
+        "url": "https://open.spotify.com/album/5bAjV1VEQhanl7oUlwqCHS"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333230,
+      "name": "Playa Hataz",
+      "url": "https://open.spotify.com/track/0PvbF79bkh2JhxYp8wyuxY"
+    },
+    {
+      "album": {
         "name": "Poolside (feat. Katy Alex)",
         "url": "https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW"
       },
@@ -3704,7 +3744,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 161715,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
@@ -4096,6 +4136,24 @@
       "duration_ms": 266086,
       "name": "Untitled Emo Organ Banger",
       "url": "https://open.spotify.com/track/0gEqDMxmQ3eeBiQud6DJFB"
+    },
+    {
+      "album": {
+        "name": "UNTITLED SINES",
+        "url": "https://open.spotify.com/album/5jtPHjJVML1jP5WgiGK9zn"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198908,
+      "name": "UNTITLED SINES",
+      "url": "https://open.spotify.com/track/616fgoQPjrNSdLp5KB4vG0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,10 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 142 | [Benjamin](https://open.spotify.com/track/5U3Tr6FXNvnFVzpl9mYStN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 3:41 |
 | 143 | [U vs\. Me](https://open.spotify.com/track/5pBaBusnt3TlilvgQ2iXDA) | [Ashley Loren](https://open.spotify.com/artist/0nfs9fHoZi8sD5Wc8iJzRP) | [U vs\. Me](https://open.spotify.com/album/3fBZEmbujje5C9T70QitjI) | 4:08 |
 | 144 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 |
-| 145 | [Home](https://open.spotify.com/track/1axwzLgo9Iwn0Yf336Jj4T) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 2:56 |
-| 146 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 |
-| 147 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
-| 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
-| 149 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
+| 145 | [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 |
+| 146 | [Home](https://open.spotify.com/track/1axwzLgo9Iwn0Yf336Jj4T) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 2:56 |
+| 147 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 |
+| 148 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
+| 149 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
+| 150 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AbiqAAAAAAA++kthlkNypKWWjfp95a34`
+Snapshot ID: `AbivoAAAAAAPO89mtgCQJ/Q2bDZ7zTIR`

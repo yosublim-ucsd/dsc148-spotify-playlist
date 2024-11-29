@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Kashcoming",
+  "description": "From the trenches. Through the streets.\nCover: T.I Blaze",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162336,
       "name": "1999",
       "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 134482,
       "name": "50 Billion (feat. Zlatan)",
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 174358,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ"
+    },
+    {
+      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
       },
@@ -2095,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "FIND MONEY (feat. Zerrydl)",
+        "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149896,
+      "name": "FIND MONEY (feat. Zerrydl)",
+      "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
+    },
+    {
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
       },
@@ -2656,6 +2696,28 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "album": {
@@ -3680,7 +3742,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
@@ -4815,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "Port-harcourt",
+        "url": "https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw"
+      },
+      "artists": [
+        {
+          "name": "Vicoka",
+          "url": "https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170896,
+      "name": "Port-harcourt",
+      "url": "https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3"
+    },
+    {
+      "album": {
         "name": "Ogbafia",
         "url": "https://open.spotify.com/album/3AhGL8nHH5rN3KNkNuP3aR"
       },
@@ -5846,7 +5926,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 163800,
       "name": "Trench Anthem",
       "url": "https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV"
@@ -6080,6 +6160,28 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "album": {
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
       "album": {

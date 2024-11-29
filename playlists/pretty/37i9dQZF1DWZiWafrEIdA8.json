@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9872,
+  "num_followers": 9879,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-10-27 12:57:22",
       "album": {
-        "name": "Life is Wet",
-        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Life is Wet",
-      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
-    },
-    {
-      "added_at": "2024-10-27 12:57:22",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 165700,
       "name": "Goodbye (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+    },
+    {
+      "added_at": "2024-10-27 12:57:22",
+      "album": {
+        "name": "Life is Wet",
+        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Life is Wet",
+      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
     },
     {
       "added_at": "2024-10-27 12:57:22",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-10-27 12:57:22",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
-    },
-    {
-      "added_at": "2024-10-27 12:57:22",
-      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2024-10-27 12:57:22",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2024-10-27 12:57:22",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-10-27 12:57:22",
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "added_at": "2024-10-27 12:57:22",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-10-27 12:57:22",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
-    },
-    {
-      "added_at": "2024-10-27 12:57:22",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 249317,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
-    },
-    {
-      "added_at": "2024-10-27 12:57:22",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2024-10-27 12:57:22",
@@ -899,22 +879,22 @@
     {
       "added_at": "2024-10-27 12:57:22",
       "album": {
-        "name": "Why (Feat. Hoody)",
-        "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
       "artists": [
         {
-          "name": "VVON",
-          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
         }
       ],
-      "duration_ms": 140866,
-      "name": "Why (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2024-10-27 12:57:22",
@@ -939,6 +919,46 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2024-10-27 12:57:22",
+      "album": {
+        "name": "Why (Feat. Hoody)",
+        "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
+      },
+      "artists": [
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Why (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
+    },
+    {
+      "added_at": "2024-10-27 12:57:22",
+      "album": {
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "if i die (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
     },
     {
       "added_at": "2024-10-27 12:57:22",
@@ -987,26 +1007,6 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
-    },
-    {
-      "added_at": "2024-10-27 12:57:22",
-      "album": {
-        "name": "And July",
-        "url": "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 199281,
-      "name": "Shut Up & Groove",
-      "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

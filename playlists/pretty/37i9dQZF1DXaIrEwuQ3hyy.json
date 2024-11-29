@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051893,
+  "num_followers": 1051857,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 184559,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2024-11-22 10:43:15",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213312,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 258505,
       "name": "All Again",
       "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
     },
     {
       "added_at": "2024-11-22 10:43:15",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
         "name": "Two Thirds",
         "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
+        "name": "i don't mind floating",
+        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "september lightning",
+      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
     },
     {
       "added_at": "2024-11-22 10:43:15",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
-        "name": "i don't mind floating",
-        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
-      },
-      "artists": [
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        },
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "september lightning",
-      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
-        "name": "Same Vibes",
-        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 180721,
-      "name": "Same Vibes",
-      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
         "name": "wo bin ich",
         "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 123297,
       "name": "wo bin ich",
       "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
+        "name": "Same Vibes",
+        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 180721,
+      "name": "Same Vibes",
+      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
     },
     {
       "added_at": "2024-11-22 10:43:15",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
+        "name": "cupped and open",
+        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "cupped and open",
+      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 156500,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
-        "name": "cupped and open",
-        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "cupped and open",
-      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
     },
     {
       "added_at": "2024-11-22 10:43:15",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-11-22 10:43:15",
       "album": {
-        "name": "when words fail",
-        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
-      },
-      "artists": [
-        {
-          "name": "Lara Samira",
-          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "when words fail",
-      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
-    },
-    {
-      "added_at": "2024-11-22 10:43:15",
-      "album": {
         "name": "Versailles (Hold)",
         "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2024-11-22 10:43:15",
+      "album": {
+        "name": "when words fail",
+        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "when words fail",
+      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
     },
     {
       "added_at": "2024-11-22 10:43:15",

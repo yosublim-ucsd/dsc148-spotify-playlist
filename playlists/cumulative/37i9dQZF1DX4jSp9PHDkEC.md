@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-588 songs - 1 day 15 hr 43 min
+589 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Late](https://open.spotify.com/track/0o6dHLopdXxFKtPusAh2IJ) | [Ostel](https://open.spotify.com/artist/2jPXYtYbPX8qgScKiPJJI2), [Marcelan](https://open.spotify.com/artist/0eotK24x1tJQHZQwF0hJ61) | [Late](https://open.spotify.com/album/1HkjmL2E17igsNHkrLjFq6) | 5:03 | 2023-01-17 |  |
 | [Let It Out](https://open.spotify.com/track/72rHjyz3i7K90Hk1eF1f0c) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Johnny Hostile](https://open.spotify.com/artist/4I5W2DiifLDIdUI0FJajuU) | [Xy Chelsea \(Original Soundtrack\)](https://open.spotify.com/album/4uhdLK482PDT0ThDtg8iy4) | 3:33 | 2023-01-17 |  |
 | [Life and Death](https://open.spotify.com/track/5lE4QCcdMDB6zw7BdjTN4W) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:00 | 2023-01-17 |  |
+| [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2023-01-17 |  |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2023-01-17 | 2024-04-19 |
 | [Like It Was Yesterday](https://open.spotify.com/track/6bHBIj9bWWbGA18uwInOVf) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:27 | 2023-01-17 |  |
 | [Linger](https://open.spotify.com/track/2TaBkGBK3NSGcaHBuvToVe) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Linger](https://open.spotify.com/album/5RPrdb4VjSduFPAyAr4FC6) | 4:22 | 2023-01-17 | 2024-04-19 |
@@ -346,10 +347,10 @@
 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 | 2023-01-17 | 2024-04-19 |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2023-01-17 |  |
 | [New Love Cassette](https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:26 | 2023-01-17 | 2024-04-19 |
-| [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2023-01-17 | 2024-04-30 |
+| [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2023-01-17 |  |
 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Song of the Lark and Other Far Memories](https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj) | 3:28 | 2023-01-17 | 2023-10-16 |
 | [Night on Earth](https://open.spotify.com/track/1gyO5iqn92t4c70dQFH4OK) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:40 | 2023-01-17 | 2024-04-19 |
-| [Night on Earth](https://open.spotify.com/track/2OAOS8qkuKu5Kd8TvA5BAA) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Night on Earth](https://open.spotify.com/album/40RElth4AxUdGekGU7zQS8) | 5:40 | 2023-01-17 |  |
+| [Night on Earth](https://open.spotify.com/track/2OAOS8qkuKu5Kd8TvA5BAA) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Night on Earth](https://open.spotify.com/album/40RElth4AxUdGekGU7zQS8) | 5:40 | 2023-01-17 | 2024-11-29 |
 | [Night Vision](https://open.spotify.com/track/1vZ0a1HcvtsiJf7Erf6q3h) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Night Vision](https://open.spotify.com/album/1pCV7Zbvq3eQn7Jotv7fTb) | 1:58 | 2023-01-17 |  |
 | [Nighttime Drive](https://open.spotify.com/track/2BbNiLBCb5cQg87ceqx22u) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:13 | 2023-01-17 | 2024-04-19 |
 | [No Caller id](https://open.spotify.com/track/2ENM62GD4qvtM29CPTLhyo) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [No Caller id](https://open.spotify.com/album/1fHHiQ8PJiOsKWCrP47uJy) | 3:59 | 2023-01-17 |  |
@@ -426,7 +427,7 @@
 | [Sculpting the Exodus](https://open.spotify.com/track/1XEttwWu7tXhKpCFpYQtf2) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Sculpting the Exodus](https://open.spotify.com/album/1wjoyEFIq1LjaCE43WFAUr) | 5:01 | 2023-01-17 |  |
 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 | 2023-04-14 |  |
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2024-04-19 |
-| [Seahorse](https://open.spotify.com/track/4ZKZcRKlWxRtQlocxtWVQu) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Seahorse](https://open.spotify.com/album/4IpkbmtpbeMRZ3GVSG5N1b) | 2:33 | 2023-01-17 |  |
+| [Seahorse](https://open.spotify.com/track/4ZKZcRKlWxRtQlocxtWVQu) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Seahorse](https://open.spotify.com/album/4IpkbmtpbeMRZ3GVSG5N1b) | 2:33 | 2023-01-17 | 2024-11-29 |
 | [See Me](https://open.spotify.com/track/3Pvv1THse5T4dAa2niaFYv) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:50 | 2023-01-17 | 2024-04-19 |
 | [See Me](https://open.spotify.com/track/4akuE3uBD4t5HTXaAEm88t) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [See Me](https://open.spotify.com/album/3dxbBloSBjw2C9uiVKm5tD) | 3:50 | 2023-01-17 | 2024-10-11 |
 | [See Us](https://open.spotify.com/track/6dmvic5s3LHMDgT3S13A2W) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:10 | 2023-01-17 | 2024-04-19 |

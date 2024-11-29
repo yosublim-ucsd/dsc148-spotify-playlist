@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 512796,
+  "num_followers": 512987,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
-        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Houdini - Adam Port Mix",
-      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
         "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
       },
@@ -1263,22 +1243,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Peperuke (feat. Nes Mburu)",
-        "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
       },
       "artists": [
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Peperuke (feat. Nes Mburu)",
-      "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1299,6 +1279,26 @@
       "duration_ms": 217377,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Peperuke (feat. Nes Mburu)",
+        "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Peperuke (feat. Nes Mburu)",
+      "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Matahale",
+        "url": "https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj"
+      },
+      "artists": [
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        },
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Matahale",
+      "url": "https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
       },
@@ -1727,30 +1751,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Matahale",
-        "url": "https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj"
-      },
-      "artists": [
-        {
-          "name": "Goldcher",
-          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        },
-        {
-          "name": "Manuel Riva",
-          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Matahale",
-      "url": "https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "More Than You Know (Mont Rouge Remix)",
         "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
       },
@@ -1787,6 +1787,42 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Titatite",
+        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Titatite - Radio Edit",
+      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Release Me (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/6Ed6m6dNICFco8Jx8BxH6X"
       },
@@ -1811,22 +1847,6 @@
       "duration_ms": 203542,
       "name": "Release Me (feat. Jules Buckley)",
       "url": "https://open.spotify.com/track/37IB9gTLJognX12EMMvR9T"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Titatite",
-        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Titatite - Radio Edit",
-      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1903,26 +1923,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
-      },
-      "artists": [
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Kidz",
         "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
       },
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Gorah (Francis Mercier Midnight Mix)",
-        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "Gorah - Francis Mercier Midnight Mix",
-      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C"
       },
@@ -2027,22 +2003,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Shake Body",
-        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+        "name": "Gorah (Francis Mercier Midnight Mix)",
+        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
       "artists": [
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
         },
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Shake Body",
-      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
+      "duration_ms": 199512,
+      "name": "Gorah - Francis Mercier Midnight Mix",
+      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2071,6 +2051,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Shake Body",
+        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Dakar",
         "url": "https://open.spotify.com/album/2PRUftf1n9Bu1Om6xMBQH2"
       },
@@ -2087,6 +2087,22 @@
       "duration_ms": 224000,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/7eaIM9KWmC70NUnOeYUHuz"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2143,42 +2159,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Seve 2.0 (Luch Rework)",
-        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
-      },
-      "artists": [
-        {
-          "name": "Tez Cadey",
-          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
-        },
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 396833,
-      "name": "Seve 2.0 - Luch Rework",
-      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Boy You Got Me",
         "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
       },
@@ -2227,6 +2207,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Seve 2.0 (Luch Rework)",
+        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 396833,
+      "name": "Seve 2.0 - Luch Rework",
+      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Light Down",
         "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
       },
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "La Casa",
-        "url": "https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV"
-      },
-      "artists": [
-        {
-          "name": "Souave",
-          "url": "https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw"
-        }
-      ],
-      "duration_ms": 278319,
-      "name": "La Casa",
-      "url": "https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Sun Is Shining",
         "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 183439,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "La Casa",
+        "url": "https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV"
+      },
+      "artists": [
+        {
+          "name": "Souave",
+          "url": "https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw"
+        }
+      ],
+      "duration_ms": 278319,
+      "name": "La Casa",
+      "url": "https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        },
-        {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
-        }
-      ],
-      "duration_ms": 344738,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Promised Land (Solomun Remix)",
         "url": "https://open.spotify.com/album/5M06GH1qZPiVoOdfO3D19v"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 191812,
       "name": "Promised Land - Solomun Remix",
       "url": "https://open.spotify.com/track/04BIRcOMlj5DBtjXOBqW7s"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "duration_ms": 344738,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2491,6 +2491,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "IN\u00d3",
+        "url": "https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Black Culture",
+          "url": "https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 198873,
+      "name": "ronju",
+      "url": "https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Guessing Game",
         "url": "https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi"
       },
@@ -2527,30 +2551,6 @@
       "duration_ms": 241983,
       "name": "Tomorrow's Dusk",
       "url": "https://open.spotify.com/track/6i0s4IJiM6hzhh4eBbtnme"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "IN\u00d3",
-        "url": "https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw"
-      },
-      "artists": [
-        {
-          "name": "Yimeeka",
-          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
-        },
-        {
-          "name": "Black Culture",
-          "url": "https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 198873,
-      "name": "ronju",
-      "url": "https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2667,30 +2667,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Dope Dance (Hugo Cantarra Remix)",
-        "url": "https://open.spotify.com/album/3GnMLftJutXtkO0jj96u7Q"
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
       },
       "artists": [
         {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        },
-        {
-          "name": "Radeckt",
-          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
-        },
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         }
       ],
-      "duration_ms": 283064,
-      "name": "Dope Dance - Hugo Cantarra Remix",
-      "url": "https://open.spotify.com/track/0eVAFurxrzU6kJwHwZDUiD"
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     }
   ],
   "unique_name": "Tantra",

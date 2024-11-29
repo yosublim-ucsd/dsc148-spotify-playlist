@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Adena Aho 3erefna",
+        "url": "https://open.spotify.com/album/2CoaUb9vBVpdBBAq1tqDSk"
+      },
+      "artists": [
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        },
+        {
+          "name": "elian",
+          "url": "https://open.spotify.com/artist/64PMGrLxR3vhQRekfKh2D2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Adena Aho 3erefna",
+      "url": "https://open.spotify.com/track/4zNMrKW70OjqQbebtDoh6d"
+    },
+    {
+      "album": {
         "name": "Ader Akmel",
         "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
       },
@@ -10676,7 +10698,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 193630,
       "name": "Mesh Haseebek",
       "url": "https://open.spotify.com/track/4I8OefmjRwiB55ARcX6wq1"
@@ -12206,7 +12228,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168827,
       "name": "Rozma",
       "url": "https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK"
@@ -18926,7 +18948,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 139800,
       "name": "\u0632\u064a \u0627\u062e\u062a\u0647",
       "url": "https://open.spotify.com/track/1BU4bq0P5GLKYfGXJtIryR"
@@ -19462,7 +19484,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 143304,
       "name": "\u0637\u0628\u0627\u062e",
       "url": "https://open.spotify.com/track/3B54o4HHnxF5Z9ahXy9XI4"
@@ -19990,7 +20012,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 213061,
       "name": "\u063a\u0645\u0636 \u0639\u064a\u0646\u064a\u0643",
       "url": "https://open.spotify.com/track/2QgEJONiDNppVGeLhcGoDP"
@@ -20477,6 +20499,24 @@
     },
     {
       "album": {
+        "name": "\u0642\u0644\u0644\u062a \u0645\u0646 \u0646\u0641\u0633\u064a",
+        "url": "https://open.spotify.com/album/42KJPaJptQyPLHQT1sd0h0"
+      },
+      "artists": [
+        {
+          "name": "Amr Gaber",
+          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268197,
+      "name": "\u0642\u0644\u0644\u062a \u0645\u0646 \u0646\u0641\u0633\u064a",
+      "url": "https://open.spotify.com/track/3f42ZBoQcnTPJbO9REc9Qi"
+    },
+    {
+      "album": {
         "name": "\u0642\u0647\u0648\u0629 \u0645\u062d\u0648\u062c\u0629",
         "url": "https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk"
       },
@@ -20510,6 +20550,24 @@
       "duration_ms": 161019,
       "name": "\u0642\u0648\u0644 \u0644\u0627",
       "url": "https://open.spotify.com/track/3rcGZGI1P2lHg1L6LOtDlo"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0625\u0646\u0643 \u0645\u0633\u0643\u0646",
+        "url": "https://open.spotify.com/album/2ukwdLszuyImuImHrpfyQW"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "\u0643\u0625\u0646\u0643 \u0645\u0633\u0643\u0646",
+      "url": "https://open.spotify.com/track/0N951bbetOixebVN6fUnyi"
     },
     {
       "album": {
@@ -20666,6 +20724,24 @@
       "duration_ms": 214520,
       "name": "\u0643\u0639\u0628\u0643 \u0639\u0644\u064a",
       "url": "https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0641\u0627\u064a\u0627\u0643",
+        "url": "https://open.spotify.com/album/7rHgANUhOAqja8LEGKydTz"
+      },
+      "artists": [
+        {
+          "name": "Abdelrahman",
+          "url": "https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209109,
+      "name": "\u0643\u0641\u0627\u064a\u0627\u0643",
+      "url": "https://open.spotify.com/track/2JbVi1uv2ViF7tLI3z2zwJ"
     },
     {
       "album": {
@@ -22850,6 +22926,24 @@
       "duration_ms": 216576,
       "name": "\u064a\u0627 \u062f\u0645\u0648\u0639",
       "url": "https://open.spotify.com/track/1GIgWGFcQUXCSMJAFXeGP4"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0631\u0628 \u062a\u0631\u062c\u0639",
+        "url": "https://open.spotify.com/album/44MLGyDz5k3A90BjcF18ER"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "\u064a\u0627 \u0631\u0628 \u062a\u0631\u062c\u0639",
+      "url": "https://open.spotify.com/track/0LFkuniWvlZ405W8BHd1sf"
     },
     {
       "album": {

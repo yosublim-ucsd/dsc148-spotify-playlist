@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Sofie Royer
 
-355 songs - 18 hr 33 min
+356 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 | 2023-05-04 | 2023-06-30 |
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-02-03 | 2022-04-22 |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2021-12-16 | 2022-04-01 |
-| [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-21 |  |
+| [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-21 | 2024-11-29 |
 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 | 2021-12-16 |  |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-09-02 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-17 | 2022-07-08 |
@@ -298,6 +298,7 @@
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2024-08-23 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 | 2024-04-19 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 | 2024-01-19 |
+| [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 | 2024-11-28 |  |
 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 | 2023-06-29 | 2024-05-17 |
 | [That Girl Is Rollercoaster](https://open.spotify.com/track/1XS9BH8bASVM1Vnr8XbSzG) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Lucky Dancer](https://open.spotify.com/album/3XG7s95kEcdaNZliaIbvyL) | 3:55 | 2024-10-17 | 2024-10-25 |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 | 2022-09-23 |

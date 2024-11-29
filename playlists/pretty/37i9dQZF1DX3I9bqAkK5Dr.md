@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,858 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,859 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 29 | [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/track/0eblrJGz2Suo4NpIDJuzVd) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4), [Praveen](https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6) | [Kadale Kadhile \(From "The Slam Book Stories"\)](https://open.spotify.com/album/007SdIRuq2BTVRp8i7GUB8) | 4:10 |
 | 30 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 |
 | 31 | [Swapnam](https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Swapnam](https://open.spotify.com/album/0gh8MM140CnK7VwM1u5Q5K) | 3:36 |
-| 32 | [Kakinada Kaja](https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Kakinada Kaja](https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz) | 3:16 |
+| 32 | [Kakinada Kaja](https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Kakinada Kaja](https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz) | 3:02 |
 | 33 | [Thaanu](https://open.spotify.com/track/2wOflzlWeTjOtzq5xWce1E) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Thaanu](https://open.spotify.com/album/5l0c9ZBV6Y3NQza3E7m3jL) | 3:12 |
 | 34 | [HeartBeat](https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [HeartBeat](https://open.spotify.com/album/31NQaNaV1DapEitznBvGpA) | 2:15 |
 | 35 | [Raa Macha Vachey Raa \- Vibe Anthem](https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Raa Macha Vachey Raa \(Vibe Anthem\)](https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98) | 3:16 |

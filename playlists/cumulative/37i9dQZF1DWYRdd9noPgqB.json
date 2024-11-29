@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181448,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES"
       },
@@ -2634,6 +2652,28 @@
       "duration_ms": 249405,
       "name": "Love from the Other Side",
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "album": {
+        "name": "Love It When I Need It",
+        "url": "https://open.spotify.com/album/5surNQCjxrSMVmiJ67H6dk"
+      },
+      "artists": [
+        {
+          "name": "Boy Amor",
+          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203916,
+      "name": "Love It When I Need It",
+      "url": "https://open.spotify.com/track/0ssfMVEA0x8ARvoXb8krym"
     },
     {
       "album": {
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212928,
       "name": "Melt",
       "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"

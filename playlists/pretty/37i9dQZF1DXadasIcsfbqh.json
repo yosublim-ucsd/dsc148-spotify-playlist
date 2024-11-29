@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Thomas Rhett and Teddy Swims",
-  "num_followers": 209251,
+  "num_followers": 209338,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+        "name": "Hurt (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Take A Bow (with Halsey)",
-      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
+      "duration_ms": 156813,
+      "name": "Hurt (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -595,22 +595,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Hurt (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 156813,
-      "name": "Hurt (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
+      "duration_ms": 220520,
+      "name": "Take A Bow (with Halsey)",
+      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 181485,
+      "name": "Please Please Please - Acoustic",
+      "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Rather Be Us (feat. Maddie & Tae)",
         "url": "https://open.spotify.com/album/0KqSClxSvnpzmx4ljwxU5C"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 159614,
       "name": "Rather Be Us (feat. Maddie & Tae)",
       "url": "https://open.spotify.com/track/78cuU28P16uIfXgHakZSk5"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 181485,
-      "name": "Please Please Please - Acoustic",
-      "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 215074,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "California Rain",
-        "url": "https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 215074,
-      "name": "California Rain",
-      "url": "https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1787,22 +1787,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Space in My Heart",
-        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+        "name": "Play Responsibly",
+        "url": "https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 178849,
-      "name": "Space in My Heart",
-      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+      "duration_ms": 181688,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA"
     }
   ],
   "unique_name": "Pop Country",

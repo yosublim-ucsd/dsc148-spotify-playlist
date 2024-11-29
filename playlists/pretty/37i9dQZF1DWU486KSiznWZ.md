@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اسمعوا افضل الاغاني الخليجية\. الغلاف: محمد عبده
+> اسمعوا افضل الاغاني الخليجية\. الغلاف: أميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,889 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,930 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Khoth Fouady](https://open.spotify.com/track/4UwswoHtYPxbRVPrrng34C) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 3:23 |
+| 1 | [Alsaa Kam](https://open.spotify.com/track/0XK1Pijju1M9oGvw1GG1cf) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 3:57 |
 | 2 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
 | 3 | [Kheth Aoyooni](https://open.spotify.com/track/5Zs2FzSOcxPYdsItUkZyiH) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Kheth Aoyooni](https://open.spotify.com/album/5CgTnYK4kmkz8fomq4Gwh9) | 4:07 |
 | 4 | [Haka Wajed](https://open.spotify.com/track/5VpHmHIWNXyNmLd4ryeyHV) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:14 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 18 | [Ya Teeby](https://open.spotify.com/track/5VEyLrrmsz5m4qw09EFTLY) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [Ya Teeby](https://open.spotify.com/album/5cRh6dR6POLV2wUyP5uVLc) | 3:37 |
 | 19 | [Abader](https://open.spotify.com/track/7clpLRhperdFynKEaIsG7I) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG) | [Abader](https://open.spotify.com/album/749eE00Y5A8hauiQJi2V2S) | 3:24 |
 | 20 | [Habni Gherak](https://open.spotify.com/track/71k2EHQDHNqUYAXfUAyCEu) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Habni Gherak](https://open.spotify.com/album/7JvxrgSGDLhhdYxs0LWAcb) | 4:44 |
-| 21 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 |
-| 22 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
+| 21 | [Bekheel Al Wasl](https://open.spotify.com/track/1lqJwQ3hpqs1ctgLjZyPgh) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 5:28 |
+| 22 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 |
 | 23 | [Ya Jannat El Dinia](https://open.spotify.com/track/47P2kGqDQtyVXAzg1ywjmr) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 3:53 |
 | 24 | [Baaiesh Lnfse](https://open.spotify.com/track/6okEM3hxHHbZQ8GEFH312v) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 5:38 |
 | 25 | [Ana Akbar Men Kalam Ely](https://open.spotify.com/track/0XLP04Gnei7eCA33w2czkN) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ana Akbar Men Kalam Ely](https://open.spotify.com/album/0yvVg9Nvu8of38AXaexOBD) | 6:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 | 40 | [Thaag El Ghamaam](https://open.spotify.com/track/7CJTam1agxsYHmlByF1sa0) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:23 |
 
-Snapshot ID: `Z0PkiQAAAABzGn2IGyCdYA1MTEiKKVGE`
+Snapshot ID: `Z0jliwAAAAAR4WAt1o+namuSKx467K1n`

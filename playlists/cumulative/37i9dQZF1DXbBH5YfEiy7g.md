@@ -4,11 +4,12 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg">Lebo Sekgobela</a>
 
-92 songs - 9 hr 44 min
+93 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akakho Praise \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 2 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a) | 5:54 | 2024-11-15 |  |
+| [Akhonamandla](https://open.spotify.com/track/3WWcor629CeucJRhcEv0eT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Akhonamandla](https://open.spotify.com/album/2fwuj75mQD6TX173EXylPt) | 3:03 | 2024-11-29 |  |
 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 | 2024-10-25 |  |
 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-10-04 |  |
 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 | 2024-10-04 |  |

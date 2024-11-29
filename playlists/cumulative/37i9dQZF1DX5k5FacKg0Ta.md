@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-282 songs - 1 day 0 hr 35 min
+283 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Thing With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 | 2022-09-02 | 2024-01-20 |
 | [Aava](https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aava](https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH) | 4:20 | 2022-09-02 | 2023-03-04 |
 | [Abyss](https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Abyss](https://open.spotify.com/album/5AWHqcIYnZh5uI56sL81Um) | 5:25 | 2022-09-02 | 2024-01-06 |
+| [Addis](https://open.spotify.com/track/36lkRyKb03oHDeYM5ddAhY) | [Herd](https://open.spotify.com/artist/4Ai3fTyN3aG8QoalEbhlXA), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Addis](https://open.spotify.com/album/3XLQKiwy30JneCHSKX0UIj) | 3:50 | 2024-11-28 |  |
 | [Adrift](https://open.spotify.com/track/2MF5PmEeFCudJz87mbQ3aX) | [The Watercolors](https://open.spotify.com/artist/5xbkbQqKZyoPSK49m7MjmU) | [La Grande Odyssée](https://open.spotify.com/album/4CYgMZ3NIUbwMOOIG6Jgg1) | 4:39 | 2024-03-08 |  |
 | [Aelita](https://open.spotify.com/track/61rFTzOs4B62gXv9HCK8x8) | [VIRTA](https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b) | [Horros](https://open.spotify.com/album/7KUmdgjZxB8wvZKwAgKePs) | 6:01 | 2023-10-05 | 2024-03-23 |
 | [Again](https://open.spotify.com/track/2iGdBQuR3jcaGF5MCM4TsV) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Again](https://open.spotify.com/album/3SJ2EYiAW1TswTxPEdZET5) | 3:32 | 2023-10-26 | 2023-11-11 |
@@ -83,7 +84,7 @@
 | [Filters](https://open.spotify.com/track/3L9ud04WNKCzgGaLoYRijH) | [Janne Halonen](https://open.spotify.com/artist/4MFMMAAOnLJZJiTknZT9RL) | [Music From The Zone](https://open.spotify.com/album/4MOlgwvKV8zo89fNXTSdkD) | 5:24 | 2024-09-12 |  |
 | [Final Round](https://open.spotify.com/track/011SZbBS0yvSFPHxRb6fGs) | [El Aviador](https://open.spotify.com/artist/0QWlaxqAXPpENfZtGbmJQh) | [Final Round](https://open.spotify.com/album/5iv71zHywXGWiJsB697xpE) | 2:47 | 2022-09-02 | 2023-08-26 |
 | [Flame](https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Flame](https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc) | 5:29 | 2023-09-08 |  |
-| [Flesh & Bones](https://open.spotify.com/track/6DfOfgTpipToDPs9MGUd53) | [Herd](https://open.spotify.com/artist/4Ai3fTyN3aG8QoalEbhlXA), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Flesh & Bones](https://open.spotify.com/album/7kHg3tr6566lOceRN6ZWAS) | 4:31 | 2024-11-15 |  |
+| [Flesh & Bones](https://open.spotify.com/track/6DfOfgTpipToDPs9MGUd53) | [Herd](https://open.spotify.com/artist/4Ai3fTyN3aG8QoalEbhlXA), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Flesh & Bones](https://open.spotify.com/album/7kHg3tr6566lOceRN6ZWAS) | 4:31 | 2024-11-15 | 2024-11-29 |
 | [Flores](https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk) | [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Globus](https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [Flores](https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T) | 15:04 | 2022-09-16 | 2024-05-04 |
 | [Flower Growing, Dying](https://open.spotify.com/track/7iE9ooS8TLwRGyF9kKMPct) | [Jonathan Bäckström Quartet](https://open.spotify.com/artist/1XPcTlu2DmKymNr2MlvbAo) | [Jonathan Bäckström Quartet](https://open.spotify.com/album/79dArk1Clk6AjfADuORsQe) | 6:54 | 2024-05-17 |  |
 | [For Dizzy and Lionel](https://open.spotify.com/track/5ITwIIHYSu2lGOe2EtkoAS) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Mirror Mirror](https://open.spotify.com/album/0FXmXOtp6aZMs5iYDdDTw6) | 4:51 | 2024-04-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 576048,
+  "num_followers": 576083,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAAAkLEssGeabk2uIZf2V5UCD",
+  "snapshot_id": "Z0ZhAAAAAAA9ipW2zkMxy6xs3ECIAn2i",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Killer / Papa Was a Rollin' Stone",
-      "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
+      "duration_ms": 283426,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 283426,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
+      "duration_ms": 255373,
+      "name": "Killer / Papa Was a Rollin' Stone",
+      "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 105946,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Wild Is the Wind",
-      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     },
     {
       "added_at": null,

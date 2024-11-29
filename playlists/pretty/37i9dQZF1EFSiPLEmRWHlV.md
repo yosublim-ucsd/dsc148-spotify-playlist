@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 32 | [Another Chance](https://open.spotify.com/track/4kNPMxRexEZSrsXfz628D3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Another Chance](https://open.spotify.com/album/41R3SckRg74bzO6lmitqkX) | 2:46 |
 | 33 | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/track/2qfKlNXwBtGGzUuJBGZYVF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/album/2M6A1kotD0LIMOokRXJF5J) | 2:23 |
 | 34 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 |
-| 35 | [Dancing In The Shadows](https://open.spotify.com/track/0HRAne096RNKohb88WnT67) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:37 |
-| 36 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
-| 37 | [Sensory Division](https://open.spotify.com/track/0RHRAC8MnmFzLxKaIVMP2u) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 4:57 |
-| 38 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
+| 35 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 36 | [Dancing In The Shadows](https://open.spotify.com/track/0HRAne096RNKohb88WnT67) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:37 |
+| 37 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
+| 38 | [Sensory Division](https://open.spotify.com/track/0RHRAC8MnmFzLxKaIVMP2u) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 4:57 |
 | 39 | [Oxygen](https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ten Thousand Feet & Rising](https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP) | 4:04 |
 | 40 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 | 41 | [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 68 | [Ice Tea](https://open.spotify.com/track/3ipskVxqlZ1YATVgAe1xvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ice Tea \(Huxley Remix\)](https://open.spotify.com/album/7frIC2ydIyUQFxeAjgEeDf) | 4:34 |
 | 69 | [Think It Over](https://open.spotify.com/track/3o5Np7dRn95xMVeLc4xSc3) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Think It Over](https://open.spotify.com/album/0YR2su2ee5ZoteRQAUESYj) | 2:40 |
 | 70 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 |
-| 71 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
-| 72 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
+| 71 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
+| 72 | [Mercy](https://open.spotify.com/track/2YaGzHnKiOaUJx0FlxbFuK) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mercy](https://open.spotify.com/album/57ddBwsqBKwxVQdyAf0gvQ) | 4:12 |
 | 73 | [Out of Control](https://open.spotify.com/track/434e2SzFdouV3BN3asPJw4) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Friends and Fam](https://open.spotify.com/album/6dSPW8TB4VsGsIe2S40AMD) | 2:39 |
 | 74 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
 | 75 | [Heart & Soul](https://open.spotify.com/track/6EJCWAsghmXowYHsATICoK) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Heart & Soul](https://open.spotify.com/album/1LBJDoSJtZlJOskDr1Tuvv) | 2:47 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 125 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 126 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbiqCgAAAAAsr7NrH93+QAa36xN1hJkJ`
+Snapshot ID: `AbivoAAAAABiqiurPRZT3EdiG7Soh4ab`

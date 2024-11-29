@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/0RUCWIlHmPbxoUN6ioYq18"
+      },
+      "artists": [
+        {
+          "name": "Sedona Hernandez",
+          "url": "https://open.spotify.com/artist/7wpcL4qFes0LlQpv94rjLq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212532,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/2nqcT3NYFE994z6YhYHdOV"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },

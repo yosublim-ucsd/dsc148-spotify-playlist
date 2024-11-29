@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 80401,
+  "num_followers": 80423,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABtuwjNu62boisopsRmY8Kc",
+  "snapshot_id": "Z0ZhAAAAAADaWD1A5QfhQ0dHIIz2niTB",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
+      "duration_ms": 293093,
+      "name": "Watch the World Burn",
+      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 249653,
-      "name": "The Ghost That's Haunting You",
-      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 293093,
-      "name": "Watch the World Burn",
-      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
+      "duration_ms": 207893,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+      "duration_ms": 249653,
+      "name": "The Ghost That's Haunting You",
+      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
     },
     {
       "added_at": null,

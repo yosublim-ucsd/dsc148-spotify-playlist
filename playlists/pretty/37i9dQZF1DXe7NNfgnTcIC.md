@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 
 > Enjoy the world of <a href="http://caroleandtuesday.com/">CAROLE & TUESDAY</a> with great theme songs and soundtrack! ©ボンズ・渡辺信一郎／キャロル＆チューズデイ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,791 likes - 59 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,796 likes - 59 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 | 2 | [Breathe Again](https://open.spotify.com/track/5cspeJTjus61kUwG6W2DHW) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 4:06 |
 | 3 | [Day By Day](https://open.spotify.com/track/5AV9iqAqyZx13iJIIie9Is) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:26 |
 | 4 | [Message in the Wind](https://open.spotify.com/track/0hGwdjRG0aADdjzGB8csR6) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:54 |
-| 5 | [TWO OF US](https://open.spotify.com/track/1rVyeQS9Oq36ZZ65BhVDeY) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [TVアニメ「キャロル&チューズデイ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12AKw7KDtnZ5xEJrOpVKsW) | 3:03 |
+| 5 | [TWO OF US](https://open.spotify.com/track/1rVyeQS9Oq36ZZ65BhVDeY) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [TVアニメ「キャロル＆チューズデイ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12AKw7KDtnZ5xEJrOpVKsW) | 3:03 |
 | 6 | [After the fire](https://open.spotify.com/track/6SM2YaOueNhqVTvii6mff9) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:48 |
 | 7 | [Miserere mei, Deus](https://open.spotify.com/track/44ISTISbQ7xvJrHGam3PXJ) | [デズモンド\(Vo.Marker Starling\)](https://open.spotify.com/artist/3QXeIJuBmky5IqT0P7qTda) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 4:40 |
 | 8 | [Give You The World](https://open.spotify.com/track/38GqRYu9s6uJpkbBrhaSAc) | [フローラ\(Vo.Jessica Karpov\)](https://open.spotify.com/artist/6JwVU5Cpde7of58UACCOHg) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:23 |

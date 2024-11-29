@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: In\u00e9s Errandonea.",
-  "num_followers": 126777,
+  "num_followers": 126803,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "Regresar\u00e9",
+        "url": "https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls"
+      },
+      "artists": [
+        {
+          "name": "Gabo Ferro",
+          "url": "https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT"
+        },
+        {
+          "name": "Sergio Ch.",
+          "url": "https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf"
+        }
+      ],
+      "duration_ms": 368163,
+      "name": "Regresar\u00e9",
+      "url": "https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Regresar\u00e9",
-        "url": "https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls"
-      },
-      "artists": [
-        {
-          "name": "Gabo Ferro",
-          "url": "https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT"
-        },
-        {
-          "name": "Sergio Ch.",
-          "url": "https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf"
-        }
-      ],
-      "duration_ms": 368163,
-      "name": "Regresar\u00e9",
-      "url": "https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Casida de la Rosa",
         "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
       },
@@ -1451,26 +1435,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
       },
@@ -1491,6 +1455,42 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1503,26 +1503,6 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "As vidas caladas",
-        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        },
-        {
-          "name": "Caama\u00f1o & Ameixeiras",
-          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "As vidas caladas",
-      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "As vidas caladas",
+        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        },
+        {
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "As vidas caladas",
+      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "Por Qu\u00e9?",
         "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Caribe boreal",
-        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
-      },
-      "artists": [
-        {
-          "name": "Pacoenlaluna",
-          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
-        }
-      ],
-      "duration_ms": 229871,
-      "name": "Caribe boreal",
-      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
+        "name": "Caribe boreal",
+        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
+      },
+      "artists": [
+        {
+          "name": "Pacoenlaluna",
+          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
+        }
+      ],
+      "duration_ms": 229871,
+      "name": "Caribe boreal",
+      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Pan de muertos",
+        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
+      },
+      "artists": [
+        {
+          "name": "Raquel L\u00faa",
+          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "Pan de muertos",
+      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
-        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
-      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Cantar\u00eda",
         "url": "https://open.spotify.com/album/6VrDcrxU9nMX9kg0bqv7sh"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 240115,
       "name": "Cantar\u00eda",
       "url": "https://open.spotify.com/track/20HCtD3crDnUe2Hc4aKPbs"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
+        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
+      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2024-11-22 06:00:00",
       "album": {
-        "name": "Pan de muertos",
-        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
-      },
-      "artists": [
-        {
-          "name": "Raquel L\u00faa",
-          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Pan de muertos",
-      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
         "name": "Herba de Namorar",
         "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 179324,
       "name": "Herba de Namorar",
       "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "El chico de Andratx",
-        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sotos",
-          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
-        }
-      ],
-      "duration_ms": 153492,
-      "name": "El cielo de tu boca",
-      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1887,6 +1871,22 @@
       "duration_ms": 264341,
       "name": "Flores Muertas - Exasperaci\u00f3n",
       "url": "https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Todo palante ya",
+        "url": "https://open.spotify.com/album/0J4pHbmkeVEEolJ1YhIjB5"
+      },
+      "artists": [
+        {
+          "name": "Lino Suricato",
+          "url": "https://open.spotify.com/artist/2B3pogaficYqwZ3DwaKH47"
+        }
+      ],
+      "duration_ms": 214197,
+      "name": "Todo palante ya",
+      "url": "https://open.spotify.com/track/4yu3fWLvZRvyjyOrGIUPfF"
     }
   ],
   "unique_name": "Cancionistas",

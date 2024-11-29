@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,668 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,672 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 76 | [君だけを見ていた](https://open.spotify.com/track/2PE8FMsCbdREcWyrsE7tpe) | [To Be Continued](https://open.spotify.com/artist/6mwLCmbHMnerJGme5Hd138) | [GOLDEN☆BEST / To Be Continued　～SINGLES～](https://open.spotify.com/album/67VkYLr3Co16wVezzwiDF2) | 4:14 |
 | 77 | [思い出さない夜はないだろう \- Re\-mix](https://open.spotify.com/track/3UqhejCmYDqnwYm5MkOJe9) | [Satoshi Ikeda](https://open.spotify.com/artist/6WkHx5NUEa8hlSvfYoS9TF) | [Re\-born](https://open.spotify.com/album/70oPcB6ElgflOFekoc3ytj) | 4:57 |
 | 78 | [こんなにそばに居るのに](https://open.spotify.com/track/1TKhjaw9WAvlfjraNODbPu) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [こんなにそばに居るのに](https://open.spotify.com/album/7fHzMEU6qE6Ss0z9PUb9pM) | 5:31 |
-| 79 | [ロード\~第二章](https://open.spotify.com/track/5jfQUzFEXQJvoc8Tk54b7X) | [THE TRABRYU](https://open.spotify.com/artist/2e6Ljcoe4AcMeTWZtsemzs) | [THE虎舞竜 SUPER BEST](https://open.spotify.com/album/5OKkPwgtVD6ij58nZa3YJv) | 4:42 |
+| 79 | [ロード～第二章](https://open.spotify.com/track/5jfQUzFEXQJvoc8Tk54b7X) | [THE TRABRYU](https://open.spotify.com/artist/2e6Ljcoe4AcMeTWZtsemzs) | [THE虎舞竜 SUPER BEST](https://open.spotify.com/album/5OKkPwgtVD6ij58nZa3YJv) | 4:42 |
 | 80 | [愛のために](https://open.spotify.com/track/3wvRAydE792aG1EyPU6fHK) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [愛のために](https://open.spotify.com/album/7E7k8PGCs9zftrHkr4vs6Q) | 4:57 |
 | 81 | [スパイダー](https://open.spotify.com/track/42QYe0dWubzpMtEkmjM9l1) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [空の飛び方](https://open.spotify.com/album/5MMtYEvrKRP7Wv85KU1Eod) | 3:44 |
 | 82 | [Love Is Strong \- Remastered](https://open.spotify.com/track/1FMQd25wsXU14lg323zyNa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Voodoo Lounge \(Remastered 2009\)](https://open.spotify.com/album/62ZT16LY1phGM0O8x5qW1z) | 3:48 |

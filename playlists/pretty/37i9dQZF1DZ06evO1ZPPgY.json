@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 221902,
+  "num_followers": 221914,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAADJ7ys/W7t0lsSds8IKN4Ly",
+  "snapshot_id": "Z0ZhAAAAAADO0AjunkT/IbocOblxbNon",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Message is Love",
-        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 265333,
-      "name": "You're The One I Need",
-      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+        "name": "The Message is Love",
+        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+      "duration_ms": 265333,
+      "name": "You're The One I Need",
+      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "I Love You More Than Anything (In This World Girl)",
-      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "I Love You More Than Anything (In This World Girl)",
+      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Oh Love, Well We Finally Made It",
-      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -715,6 +699,38 @@
       "duration_ms": 344600,
       "name": "Anything You Want Me To",
       "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
     },
     {
       "added_at": null,
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 302493,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
+      "duration_ms": 267546,
+      "name": "No I'm Never Gonna Give Ya Up - Instrumental",
+      "url": "https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 245466,
       "name": "The Right Night",
       "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "No I'm Never Gonna Give Ya Up - Instrumental",
-      "url": "https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U"
     },
     {
       "added_at": null,

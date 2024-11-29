@@ -1964,24 +1964,6 @@
     {
       "album": {
         "name": "THE\u864e\u821e\u7adc SUPER BEST",
-        "url": "https://open.spotify.com/album/5OKkPwgtVD6ij58nZa3YJv"
-      },
-      "artists": [
-        {
-          "name": "THE TRABRYU",
-          "url": "https://open.spotify.com/artist/2e6Ljcoe4AcMeTWZtsemzs"
-        }
-      ],
-      "date_added": "2024-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 282000,
-      "name": "\u30ed\u30fc\u30c8\u3099~\u7b2c\u4e8c\u7ae0",
-      "url": "https://open.spotify.com/track/5jfQUzFEXQJvoc8Tk54b7X"
-    },
-    {
-      "album": {
-        "name": "THE\u864e\u821e\u7adc SUPER BEST",
         "url": "https://open.spotify.com/album/4sXjQCYxqiPoI7kitHXce6"
       },
       "artists": [
@@ -1996,6 +1978,24 @@
       "duration_ms": 281480,
       "name": "\u30ed\u30fc\u30c9~\u7b2c2\u7ae0",
       "url": "https://open.spotify.com/track/3r7NhEEtDXy0jGi59ckW1E"
+    },
+    {
+      "album": {
+        "name": "THE\u864e\u821e\u7adc SUPER BEST",
+        "url": "https://open.spotify.com/album/5OKkPwgtVD6ij58nZa3YJv"
+      },
+      "artists": [
+        {
+          "name": "THE TRABRYU",
+          "url": "https://open.spotify.com/artist/2e6Ljcoe4AcMeTWZtsemzs"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "\u30ed\u30fc\u30c9\uff5e\u7b2c\u4e8c\u7ae0",
+      "url": "https://open.spotify.com/track/5jfQUzFEXQJvoc8Tk54b7X"
     },
     {
       "album": {

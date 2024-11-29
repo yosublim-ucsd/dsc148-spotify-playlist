@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Thandel",
-  "num_followers": 136630,
+  "num_followers": 136703,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz8tNgAAAADk1gAigRGdcZjnGuxGIkG/",
+  "snapshot_id": "Z0hnlwAAAABW5ttxr399DXHp6xD/AXbC",
   "tracks": [
     {
       "added_at": "2024-11-21 12:53:10",
@@ -31,6 +31,34 @@
       "duration_ms": 248825,
       "name": "Bujji Thalli (From \"Thandel\")",
       "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+    },
+    {
+      "added_at": "2024-11-28 12:52:39",
+      "album": {
+        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
     },
     {
       "added_at": "2024-07-14 04:20:52",
@@ -661,7 +689,7 @@
         },
         {
           "name": "Lynn",
-          "url": "https://open.spotify.com/artist/5eQIvJs6k9dDFErNq3Rk6d"
+          "url": "https://open.spotify.com/artist/4A9bPmU7aVNk37wwNmMmtu"
         }
       ],
       "duration_ms": 217381,
@@ -935,30 +963,6 @@
       "duration_ms": 246997,
       "name": "Maaye Chesi (From \"Devil - The British Secret Agent\")",
       "url": "https://open.spotify.com/track/3NJa12j9bLQ7eZHg0JNrRD"
-    },
-    {
-      "added_at": "2023-09-21 13:42:22",
-      "album": {
-        "name": "Gandeevadhari Arjuna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5AeyZe923QisS2s9VyDIs3"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Elvya",
-          "url": "https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Nee Jathai",
-      "url": "https://open.spotify.com/track/3vl82UXmY4KEk8cYc8Qq8i"
     },
     {
       "added_at": "2023-09-16 06:39:10",

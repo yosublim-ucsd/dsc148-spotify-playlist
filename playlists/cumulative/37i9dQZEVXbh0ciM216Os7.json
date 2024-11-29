@@ -37328,7 +37328,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 156553,
       "name": "THE RHYTHM",
       "url": "https://open.spotify.com/track/6dNsYZysUU6KhKONae4SNc"
@@ -37504,10 +37504,40 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 259750,
       "name": "The Source",
       "url": "https://open.spotify.com/track/5HDOKsCfllv5gOfJAOd9Z7"
+    },
+    {
+      "album": {
+        "name": "HOFFA",
+        "url": "https://open.spotify.com/album/2t1o7VoQnVVQoa69Js1mYz"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259750,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/6992ODzJY6aC74fUXhDk7Z"
     },
     {
       "album": {
@@ -39748,7 +39778,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175604,
       "name": "Verbal Swords - Remix",
       "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"

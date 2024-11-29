@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Sute Iwar
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 95ANTNY
 
-781 songs - 1 day 14 hr 18 min
+783 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 | 2024-02-16 | 2024-03-22 |
 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2024-03-21 | 2024-03-25 |
 | [BANDS GO MAKE HER WHAT?](https://open.spotify.com/track/5yy3EgImH4G09iQfjChVNl) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz) | [BANDS GO MAKE HER WHAT?](https://open.spotify.com/album/3woHyLSe3YcUqBKvmN0SHG) | 2:39 | 2023-11-17 | 2023-11-24 |
-| [Bang!](https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Bang!](https://open.spotify.com/album/6Rjw6loSBCxD0Laj1WR6uh) | 3:15 | 2024-09-06 |  |
+| [Bang!](https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Bang!](https://open.spotify.com/album/6Rjw6loSBCxD0Laj1WR6uh) | 3:15 | 2024-09-06 | 2024-11-29 |
 | [Banger \(feat\. Boj\)](https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Banger](https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl) | 2:03 | 2023-10-20 | 2024-03-08 |
 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 | 2023-07-14 | 2024-03-01 |
 | [barie](https://open.spotify.com/track/40P32hxmAR2sYfTNidx1Yz) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [barie](https://open.spotify.com/album/3WwfBDxwWoBfQguagROvjq) | 2:28 | 2022-04-28 | 2022-05-20 |
@@ -106,6 +106,7 @@
 | [BLESSINGS](https://open.spotify.com/track/3brIQFWT3uH1qBiHwXgJID) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe) | [BLESSINGS](https://open.spotify.com/album/4UeIGRcGHjtrzfbU8RWlFB) | 4:17 | 2024-09-27 | 2024-11-08 |
 | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/track/5w5RWZCayZmDQ2sIq4xnzb) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/album/3FBwuaDksx69N9qzYb3m8N) | 3:50 | 2021-04-16 | 2022-07-08 |
 | [Bloody Samaritan](https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bloody Samaritan](https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd) | 3:07 | 2021-07-30 | 2022-03-12 |
+| [Blu](https://open.spotify.com/track/2ej7qHClvrtJrWPELAYpfN) | [Stunna](https://open.spotify.com/artist/6EEgw2JJ1ZCwtZZKZoaLFT), [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Blu](https://open.spotify.com/album/71k0hgAwdO2mXAUNdhZDtX) | 2:17 | 2024-11-29 |  |
 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 | 2022-03-03 | 2022-10-08 |
 | [BLUR](https://open.spotify.com/track/4kxAF5q87vbJHQhsdiSnoT) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [BLUR](https://open.spotify.com/album/2u6Ufwxw2oJ6R95oLqRzvW) | 2:52 | 2022-04-14 | 2022-05-20 |
 | [Bob and Weave](https://open.spotify.com/track/58dedH6kLMIhVwyqK7mefv) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [M3nsa](https://open.spotify.com/artist/2wNWHzf49gY3f6kujkR391) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:36 | 2021-11-18 | 2022-03-12 |
@@ -405,7 +406,7 @@
 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 | 2024-03-21 | 2024-03-25 |
 | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR) | [Summit Boahen](https://open.spotify.com/artist/5C7WgwClUDG17aFZnAw3kU), [Loyce](https://open.spotify.com/artist/4N65Lgra8mZF22JBr9YP7i) | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/album/0h9gmISOKBEDFdBq4bX5Qx) | 3:22 | 2022-04-28 | 2022-05-06 |
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-01-19 | 2023-02-17 |
-| [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 | 2024-06-21 |  |
+| [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 | 2024-06-21 | 2024-11-29 |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 | 2023-11-10 |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 |  |
 | [Lights go dim](https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41), [KooKusi](https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p) | [Lights go dim](https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH) | 3:39 | 2023-01-27 | 2023-02-04 |
@@ -735,6 +736,7 @@
 | [Twisted](https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Twisted](https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH) | 3:10 | 2024-10-12 | 2024-10-19 |
 | [Tycoon](https://open.spotify.com/track/1hS2xmC5qJ8R534RiLw07k) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/1ogcYw7K6AZzR52ZuT811b) | 3:58 | 2021-07-09 | 2022-03-12 |
 | [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-02-17 | 2022-03-25 |
+| [UNDER THE SUN](https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [LIMINAL SPACES](https://open.spotify.com/album/5VeEgnUM7NaFDK8RsJpFmS) | 2:44 | 2024-11-29 |  |
 | [Unforgettable](https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Unforgettable](https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC) | 2:43 | 2023-12-08 | 2024-01-05 |
 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 |  |
 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 | 2024-04-19 | 2024-10-04 |

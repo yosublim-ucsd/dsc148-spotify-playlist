@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Karlsson, mishlawi",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Milhanas",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 249729,
       "name": "Ainda ontem tinha c\u00e9u",
       "url": "https://open.spotify.com/track/6t4jFLKOzlOVVLel6gVSns"
+    },
+    {
+      "album": {
+        "name": "Algo Mais",
+        "url": "https://open.spotify.com/album/6Th9hsMeGTf9MKs9kwUBQh"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Algo Mais",
+      "url": "https://open.spotify.com/track/38DUG8SHze3qRmZ8ECNUm5"
     },
     {
       "album": {
@@ -240,7 +258,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 251768,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
@@ -1495,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "album": {
         "name": "LEGO",
         "url": "https://open.spotify.com/album/7pDrrSj5yaHpRKJOmQ7leg"
       },
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 227711,
       "name": "manto azul",
       "url": "https://open.spotify.com/track/00erCrDIXKydkxP2rUqRK7"
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
@@ -2187,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Que Fossem Flores",
+        "url": "https://open.spotify.com/album/0JJ7Kh07P3wTT53XSp3IEh"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o N\u00e3o",
+          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197267,
+      "name": "Que Fossem Flores",
+      "url": "https://open.spotify.com/track/7vLd3JDOS122fkiQQUQg41"
+    },
+    {
+      "album": {
         "name": "Quem me acende a voz",
         "url": "https://open.spotify.com/album/0N6A7vdzCKatAlzFSVRd4P"
       },
@@ -2512,7 +2570,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
@@ -3019,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "we can be our own ruin",
+        "url": "https://open.spotify.com/album/11Z7Oi55Nd8EeKbM5S99Gw"
+      },
+      "artists": [
+        {
+          "name": "Mariana Tereso",
+          "url": "https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169851,
+      "name": "we can be our own ruin",
+      "url": "https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1"
+    },
+    {
+      "album": {
         "name": "WE COULD BE",
         "url": "https://open.spotify.com/album/0P6GQcT3XIPg4ZWyA45n3V"
       },
@@ -3092,6 +3168,24 @@
       "duration_ms": 198073,
       "name": "\u00c9 da Cabe\u00e7a",
       "url": "https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Duro Ser Velho",
+        "url": "https://open.spotify.com/album/6KvebaBVTJPbK5GEVfmYYC"
+      },
+      "artists": [
+        {
+          "name": "Filipe Sambado",
+          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286178,
+      "name": "\u00c9 Duro Ser Velho",
+      "url": "https://open.spotify.com/track/2U3N54MwGyF8u6Qrd35w1F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn"

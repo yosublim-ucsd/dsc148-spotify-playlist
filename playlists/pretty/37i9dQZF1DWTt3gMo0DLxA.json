@@ -1,13 +1,41 @@
 {
-  "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 225404,
+  "description": "Trending songs from Tollywood! \nCover: Game Changer",
+  "num_followers": 226330,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0RM6gAAAAAhYV4tn1wNMGbJFQj199C1",
+  "snapshot_id": "Z0hnowAAAAD7a53sixWu473VO9Uy//3Q",
   "tracks": [
+    {
+      "added_at": "2024-11-28 12:52:51",
+      "album": {
+        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
+    },
     {
       "added_at": "2024-08-05 12:07:26",
       "album": {
@@ -300,7 +328,7 @@
           "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
         }
       ],
-      "duration_ms": 196812,
+      "duration_ms": 182000,
       "name": "Kakinada Kaja",
       "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
     },
@@ -451,30 +479,6 @@
       "duration_ms": 230866,
       "name": "Gumma (From \"Ambajipeta Marriage Band\")",
       "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
-    },
-    {
-      "added_at": "2024-06-25 09:12:10",
-      "album": {
-        "name": "Souraa (From \"Bharateeyudu 2\")",
-        "url": "https://open.spotify.com/album/0bjug1LVXNf7WiAqNUHjLr"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        },
-        {
-          "name": "Shruthika Samudhrala",
-          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
-        }
-      ],
-      "duration_ms": 252435,
-      "name": "Souraa (From \"Bharateeyudu 2\")",
-      "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"
     },
     {
       "added_at": "2023-12-30 10:49:01",

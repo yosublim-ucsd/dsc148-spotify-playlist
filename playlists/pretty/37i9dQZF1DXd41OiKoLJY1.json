@@ -1,13 +1,357 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Manuel Bruno Artwork: Isu Kim\n",
-  "num_followers": 62605,
+  "description": "Fresh releases from your future favorite artists. Cover: Saddlepin Artwork: Isu Kim\n",
+  "num_followers": 62626,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ADhAAAAADtQCWCdTTjhH2fuTWehfzE",
+  "snapshot_id": "Z0kEAAAAAADvMOSXwINiBu2IpL1n3EBn",
   "tracks": [
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Anong Gagawin",
+        "url": "https://open.spotify.com/album/3fgm0Hj5JV8fqr9ldIGCa7"
+      },
+      "artists": [
+        {
+          "name": "Starlight Replica",
+          "url": "https://open.spotify.com/artist/2AbaEhL8UZoeSn4KbsXkjB"
+        }
+      ],
+      "duration_ms": 271630,
+      "name": "Anong Gagawin",
+      "url": "https://open.spotify.com/track/0Y5WBTOk3udkBE4QMDuIW2"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "It's No Secret (Precious Silver)",
+        "url": "https://open.spotify.com/album/5J5NHqu7U7LL64IY8M1I0b"
+      },
+      "artists": [
+        {
+          "name": "Jong Azores",
+          "url": "https://open.spotify.com/artist/5NjJYdruKcp8Mw1HYd4n8m"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "It's No Secret - Precious Silver",
+      "url": "https://open.spotify.com/track/7taaIgWQAx5V72jliRwPOj"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Aking Sinta",
+        "url": "https://open.spotify.com/album/1slawNkMawHytzVBSlNBIC"
+      },
+      "artists": [
+        {
+          "name": "JetNekko",
+          "url": "https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "Aking Sinta",
+      "url": "https://open.spotify.com/track/3Jo1VMkkAuY3tYyTrHe9CT"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "No Label",
+        "url": "https://open.spotify.com/album/0xWBskzulNmlnyMJRuvg2i"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/2eOPLvQweQBgQMtJutxAhn"
+        }
+      ],
+      "duration_ms": 304785,
+      "name": "No Label",
+      "url": "https://open.spotify.com/track/5VTHbpvuHPX9MslhPm0DUZ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "You're Still Home",
+        "url": "https://open.spotify.com/album/7BfYVrt0oH7v6EZrNWQQb8"
+      },
+      "artists": [
+        {
+          "name": "Saddlepin",
+          "url": "https://open.spotify.com/artist/3VUOY5IFusWnawjB0uLd91"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "You're Still Home",
+      "url": "https://open.spotify.com/track/73QhG8EpQF9fMPEyogVH26"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Sigurado",
+        "url": "https://open.spotify.com/album/3CfbzuRqiVjlQAJ0UEU3HB"
+      },
+      "artists": [
+        {
+          "name": "Jade Makawili",
+          "url": "https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Sigurado",
+      "url": "https://open.spotify.com/track/6iV6ntbxPlMi0xAt1gp3EW"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/4urL3iul6P11bd6BkULejR"
+      },
+      "artists": [
+        {
+          "name": "Chasing Juan",
+          "url": "https://open.spotify.com/artist/7ds8mkniNEN13hKVoupaKJ"
+        }
+      ],
+      "duration_ms": 257250,
+      "name": "40",
+      "url": "https://open.spotify.com/track/25xGiTDYy2ZtNMTdOwfEZI"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Pinkish Hue",
+        "url": "https://open.spotify.com/album/1koev9GlYhpVmuzZX3Ffdi"
+      },
+      "artists": [
+        {
+          "name": "We Are Imaginary",
+          "url": "https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr"
+        }
+      ],
+      "duration_ms": 304433,
+      "name": "Pinkish Hue",
+      "url": "https://open.spotify.com/track/59qSBpBDV5B3l4LMNGUocY"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Hanggang Sa Alaala",
+        "url": "https://open.spotify.com/album/5dZKEKqd6ae9BpfgWTLmsY"
+      },
+      "artists": [
+        {
+          "name": "Mico Angeles",
+          "url": "https://open.spotify.com/artist/5YJV7cBxSMIt3HpqXzxYD5"
+        }
+      ],
+      "duration_ms": 244557,
+      "name": "Hanggang Sa Alaala",
+      "url": "https://open.spotify.com/track/4btsMXvt19zHQ5htovr5Ig"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "LUMAYO",
+        "url": "https://open.spotify.com/album/3RoIYQaQU5WmhGW9gwCghW"
+      },
+      "artists": [
+        {
+          "name": "Hijo",
+          "url": "https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6"
+        },
+        {
+          "name": "Kyrus",
+          "url": "https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az"
+        }
+      ],
+      "duration_ms": 141321,
+      "name": "LUMAYO",
+      "url": "https://open.spotify.com/track/4aiyAlAj3l39duygSKKwxr"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Hurricane Dreams",
+        "url": "https://open.spotify.com/album/1D0QaQKQ3orVDRtat5SzvG"
+      },
+      "artists": [
+        {
+          "name": "Manilenya",
+          "url": "https://open.spotify.com/artist/1atUnYa1mqUUVJwA24aBl5"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hurricane Dreams",
+      "url": "https://open.spotify.com/track/3Jo1YhKlae1cwrkz45sW1j"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Sa'yong Sa'yo",
+        "url": "https://open.spotify.com/album/4yoFvYnFnsSfyznXycowrl"
+      },
+      "artists": [
+        {
+          "name": "EarlySeven",
+          "url": "https://open.spotify.com/artist/1zted6kiTW8K8nR6lpSlJX"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Sa'yong Sa'yo",
+      "url": "https://open.spotify.com/track/1EyM1Ybao6VA9aQoRsqZfK"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Desserie",
+        "url": "https://open.spotify.com/album/6FA7mjWrGUZq9MseljE0jG"
+      },
+      "artists": [
+        {
+          "name": "BRKLN",
+          "url": "https://open.spotify.com/artist/7EinogsQmUUxCYtHOx7ruq"
+        }
+      ],
+      "duration_ms": 268966,
+      "name": "Desserie",
+      "url": "https://open.spotify.com/track/3a8Ox4TFCgUUr1LmY1WOyA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Second Thought",
+        "url": "https://open.spotify.com/album/6YywKm7xFmZVmrF9AHG9He"
+      },
+      "artists": [
+        {
+          "name": "Jyrel",
+          "url": "https://open.spotify.com/artist/0Y2QetXbjW0MeHFbpbadfa"
+        }
+      ],
+      "duration_ms": 186101,
+      "name": "The Second Thought",
+      "url": "https://open.spotify.com/track/2arNF1jMgbwlbtsZVN42fA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Lerma",
+        "url": "https://open.spotify.com/album/4gHulYAHhe6tCc3Pqounu7"
+      },
+      "artists": [
+        {
+          "name": "The Samoyeds",
+          "url": "https://open.spotify.com/artist/7CPcMWZkSV1DSz70mpKNL8"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Lerma",
+      "url": "https://open.spotify.com/track/3F7L3Ps0EXDNdFdT23SUnb"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/6NWPHnxmqhKavQVO5BLRDB"
+      },
+      "artists": [
+        {
+          "name": "plutostxcks",
+          "url": "https://open.spotify.com/artist/6Kw18vajbnr4bUH6pGPB5L"
+        },
+        {
+          "name": "MILEZ 2 THA WRLD",
+          "url": "https://open.spotify.com/artist/0yqogmQUQS97jdBSe64hwO"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/6CM0CHfKYBjf6h2HQTFo6J"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Kawalan",
+        "url": "https://open.spotify.com/album/1GiT3hsU9RQc6a6YHPp0X6"
+      },
+      "artists": [
+        {
+          "name": "Lags",
+          "url": "https://open.spotify.com/artist/6HrM9bQKCjFM0o0nXw4rGt"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Kawalan",
+      "url": "https://open.spotify.com/track/4ddLp0KKG4VUf8n6YFqMt2"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2cnbqKST9fUX5MBendUlff"
+      },
+      "artists": [
+        {
+          "name": "lxni",
+          "url": "https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0k3MhH5EppwTixVAPh1SG6"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "INYAFACE",
+        "url": "https://open.spotify.com/album/4qwv8VHMtErEAZ8qsL9qGK"
+      },
+      "artists": [
+        {
+          "name": "Fresh-iLL Club",
+          "url": "https://open.spotify.com/artist/3jamuarQXhtNxN2w6YjBEB"
+        }
+      ],
+      "duration_ms": 205642,
+      "name": "INYAFACE",
+      "url": "https://open.spotify.com/track/4BlbBxsEtfokeEzxCTeLsv"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "PERA",
+        "url": "https://open.spotify.com/album/7LHolq0dcQrmUOUPVcCEOh"
+      },
+      "artists": [
+        {
+          "name": "Blcktrg Gvng",
+          "url": "https://open.spotify.com/artist/2G7yhawrn1yR9iTnvgpprS"
+        }
+      ],
+      "duration_ms": 161790,
+      "name": "PERA",
+      "url": "https://open.spotify.com/track/5KDCijBpvjhiQACI0okk8V"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "040412",
+        "url": "https://open.spotify.com/album/7Ew9iMLetRzKWfS7aVtPiV"
+      },
+      "artists": [
+        {
+          "name": "OG Presko",
+          "url": "https://open.spotify.com/artist/3JfCT6OJ0gBsOw0VbKKOJd"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "040412",
+      "url": "https://open.spotify.com/track/5JzMweDMqHqkxYGDLEoH8A"
+    },
     {
       "added_at": "2024-11-22 04:07:32",
       "album": {

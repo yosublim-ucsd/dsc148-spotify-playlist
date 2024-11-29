@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 86501,
+  "num_followers": 86530,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAAA2ybfYX4YRZ5m/2dD2vp8V",
+  "snapshot_id": "Z0ZhAAAAAADIWjysa9UnqPQIaKji8rTv",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 161608,
-      "name": "hi grace",
-      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 194360,
       "name": "King of Everything",
       "url": "https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 161608,
+      "name": "hi grace",
+      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
     },
     {
       "added_at": null,

@@ -4,13 +4,14 @@
 
 > let the dj set u free ❤️‍🩹
 
-420 songs - 1 day 1 hr 35 min
+421 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 | 2023-06-09 | 2023-07-01 |
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-09 | 2023-06-25 |
 | [11\-11](https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [11\-11](https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4) | 4:07 | 2021-10-01 | 2022-07-29 |
+| [365 Days](https://open.spotify.com/track/2lV2cMkuW3GXrTsiWQTLYD) | [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j) | [365 Days](https://open.spotify.com/album/5AXBTKErod6BPJsRXHf6Kv) | 2:22 | 2024-11-22 |  |
 | [4 AM](https://open.spotify.com/track/0dNlRf2AojTujK7fx1KP32) | [Mike V](https://open.spotify.com/artist/7G82sN12HLMXbBCLM65UJk) | [4 AM](https://open.spotify.com/album/1d1HdeiJo05RM8KVkCXF44) | 2:29 | 2024-03-29 | 2024-04-13 |
 | [a little bitter](https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [a little bitter](https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U) | 2:07 | 2024-03-01 |  |
 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 | 2021-04-02 | 2024-08-17 |
@@ -186,7 +187,7 @@
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-28 | 2022-04-01 |
 | [Irreplaceable](https://open.spotify.com/track/79slKnl1QR5Ah6hgJqThpw) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Irreplaceable](https://open.spotify.com/album/0ZqOqdKsfpH2hX6ihfSQWv) | 3:41 | 2024-10-04 |  |
 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 | 2023-12-08 | 2024-08-17 |
-| [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2) | 3:52 | 2024-05-17 |  |
+| [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2) | 3:52 | 2024-05-17 | 2024-11-29 |
 | [it's bad](https://open.spotify.com/track/2gYaR0Io3gCVFfiNlHsltg) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [valo](https://open.spotify.com/album/3fBbbnUJxjPQ81d8rMZgFr) | 2:45 | 2024-01-12 | 2024-02-24 |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-04-13 |
 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 |  |

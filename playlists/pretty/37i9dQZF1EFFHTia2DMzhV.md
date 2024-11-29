@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 90 | [You Are Never Away](https://open.spotify.com/track/3xT7ifC673rw3UfFORShPq) | [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52), [Rodgers & Hammerstein](https://open.spotify.com/artist/1gxSU9Tzyh9Sv4FyvKntrA) | [Allegro \(First Complete Recording\)](https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2) | 1:45 |
 | 91 | [The Sound of Music \- Reprise](https://open.spotify.com/track/6gLozZ4U1u2ZG8sjCuXSoE) | [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw), [Theodore Bikel](https://open.spotify.com/artist/67p0NB8haJlULQy2gr4iKZ), [Lauri Peters](https://open.spotify.com/artist/6NbAHhqijQ4WVJFaovU83O), [William Snowden](https://open.spotify.com/artist/7MlpvDCvsT50rugjnDvtM9), [Kathy Dunn](https://open.spotify.com/artist/5MRQIpcCqMsdlle1w0tFwb), [Joseph Stewart](https://open.spotify.com/artist/1kEjq5x0FNbeFEj3LX9nyV), [Marilyn Rogers](https://open.spotify.com/artist/0ZugnGveH64xneVq2oRvnU), [Mary Susan Locke](https://open.spotify.com/artist/5vt49YZLRj6ryXzcwnVmvU), [Evanna Lien](https://open.spotify.com/artist/3Ebb2lHxbbKiMnJ2PKJaNT) | [The Sound Of Music \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1jD04dq3jRnTUYt4bwT378) | 3:15 |
 | 92 | [One Kiss](https://open.spotify.com/track/6uvQ1zjuebFm9bhN6x3rUf) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Color Me Barbra](https://open.spotify.com/album/4aBWPP2oFW7J4efNtqEGkl) | 2:15 |
-| 93 | [Wanting You](https://open.spotify.com/track/3kkV3aYb7bPJ168rz1tjpM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [On Broadway](https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ) | 2:23 |
-| 94 | [Doll Song](https://open.spotify.com/track/1cE5EAGzW4DYOQXhXEOou7) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 2:26 |
+| 93 | [Doll Song](https://open.spotify.com/track/1cE5EAGzW4DYOQXhXEOou7) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 2:26 |
+| 94 | [Wanting You](https://open.spotify.com/track/3kkV3aYb7bPJ168rz1tjpM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [On Broadway](https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ) | 2:23 |
 | 95 | [The Mountain](https://open.spotify.com/track/1svQxsheb1h1jawZJWSsoq) | [Michael Showalter](https://open.spotify.com/artist/62nnZCDuGeZNIdPwhuS7xW) | [Sandwiches & Cats](https://open.spotify.com/album/69W7XS1iOWJWAaAmbiL2HL) | 6:36 |
 | 96 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 |
 | 97 | [You Will Remember Vienna](https://open.spotify.com/track/2LUs5nqiOlxa2OR6duR4EK) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [Presentando a Mantovani y Su Gran Orquesta](https://open.spotify.com/album/2sorFRZEtOYZE6DHhdnEkF) | 2:30 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AbiqAAAAAAAz2aD/0dDyInkMITDoSq+U`
+Snapshot ID: `AbivoAAAAACeWWrgHNbFYxrYUMYq4qjX`

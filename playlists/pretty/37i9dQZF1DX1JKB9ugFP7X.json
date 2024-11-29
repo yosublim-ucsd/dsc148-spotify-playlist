@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "MA\u00d1ANA ES PEOR :(",
+        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "PARQUE DE LA COSTA",
+      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "MA\u00d1ANA ES PEOR :(",
-        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "PARQUE DE LA COSTA",
-      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
+        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
+      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
-        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
-      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/6CJlsg416F8vi0YWIMGE2x"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 205238,
       "name": "Entender la luz",
       "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1067,26 +1087,6 @@
       "duration_ms": 221711,
       "name": "Nft",
       "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
       },
       "artists": [
         {
-          "name": "Linxes",
-          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 170822,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 256120,
       "name": "El Modo",
       "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
+      },
+      "artists": [
+        {
+          "name": "Linxes",
+          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+        }
+      ],
+      "duration_ms": 170822,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Remixes II",
         "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 228290,
       "name": "Pana",
       "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
     },
     {
       "added_at": "2024-11-15 03:00:00",

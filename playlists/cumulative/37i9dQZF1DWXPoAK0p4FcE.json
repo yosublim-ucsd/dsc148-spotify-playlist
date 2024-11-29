@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Uncle Ben",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: AYLA's",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 236625,
       "name": "badbye",
       "url": "https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA"
+    },
+    {
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        },
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk"
     },
     {
       "album": {
@@ -219,6 +241,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e32\u0e25\u0e31\u0e1a\u0e44\u0e1b - Single",
+        "url": "https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN"
+      },
+      "artists": [
+        {
+          "name": "LEMONY",
+          "url": "https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246817,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e32\u0e25\u0e31\u0e1a\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e41\u0e25\u0e30\u0e1a\u0e2d\u0e01\u0e25\u0e32 - Single",
         "url": "https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x"
       },
@@ -248,7 +288,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 295300,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
       "url": "https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z"
@@ -302,7 +342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 246000,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e19\u0e48\u0e32\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a\u0e2a\u0e39\u0e0d (0%)",
       "url": "https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN"
@@ -422,6 +462,24 @@
       "duration_ms": 264995,
       "name": "\u0e14\u0e32\u0e27\u0e19\u0e33\u0e17\u0e32\u0e07 (Quiet Night)",
       "url": "https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c",
+        "url": "https://open.spotify.com/album/1kLrFPixDXY499py8uQryD"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e14\u0e32\u0e27\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c",
+      "url": "https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM"
     },
     {
       "album": {
@@ -606,6 +664,24 @@
       "duration_ms": 216857,
       "name": "\u0e17\u0e35\u0e48\u0e02\u0e49\u0e32\u0e07\u0e46\u0e09\u0e31\u0e19 (Bolster)",
       "url": "https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32 (Lucid Dream)",
+        "url": "https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323200,
+      "name": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32 (Lucid Dream)",
+      "url": "https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4"
     },
     {
       "album": {
@@ -836,7 +912,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 257600,
       "name": "\u0e23\u0e49\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/0dz7CG4PilygZufNh79F7Q"
@@ -944,7 +1020,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 230277,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e25\u0e47\u0e01 (Wishful)",
       "url": "https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,070 songs - 2 day 5 hr 23 min
+1,071 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Dayanamam](https://open.spotify.com/track/4V7xs605t9EWS81GSbP1il) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Dayanamam](https://open.spotify.com/album/3tV1CUeVadMIGv7idVrBtv) | 2:37 | 2022-12-10 | 2022-12-20 |
 | [Dayanamıyorum](https://open.spotify.com/track/1iv9A5Rvjff0T5I9pcJJpL) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Dayanamıyorum](https://open.spotify.com/album/4h7y7eDbVmD5wLoy7hCNeh) | 2:54 | 2023-03-20 | 2023-03-25 |
 | [DEFOL](https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [DEFOL](https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm) | 2:53 | 2023-05-06 | 2023-09-11 |
-| [Deme](https://open.spotify.com/track/4biLp5rLnSeDTnn5lYW2V0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Deme](https://open.spotify.com/album/0Ah9p0nWUvaNqdmtvKuyGT) | 3:21 | 2024-11-17 |  |
+| [Deme](https://open.spotify.com/track/4biLp5rLnSeDTnn5lYW2V0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Deme](https://open.spotify.com/album/0Ah9p0nWUvaNqdmtvKuyGT) | 3:21 | 2024-11-17 | 2024-11-29 |
 | [DENE](https://open.spotify.com/track/1Sa1IX2uXnAuJkmqg5r3lj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:15 | 2023-11-25 | 2023-12-22 |
 | [deniyorum, ama](https://open.spotify.com/track/4yhO1qzAICkyoN0w2P2Za4) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [deniyorum, ama](https://open.spotify.com/album/59jm1W5RpcgHVuyymSn3nL) | 3:05 | 2022-12-16 | 2023-03-29 |
 | [Derdo](https://open.spotify.com/track/0FLwRAV57ntFQHKrV8jaPa) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/28WWrNIUffrjPkNzARekmg) | 3:38 | 2024-11-23 |  |
@@ -868,6 +868,7 @@
 | [Seni Kalbimden Kovdum](https://open.spotify.com/track/34pNakIoVQSuTccHUj1m1q) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 5:19 | 2022-03-14 | 2022-03-18 |
 | [Seni Kendime Sakladım](https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Seni Kendime Sakladım](https://open.spotify.com/album/2gvskYWFqq1fW8scp1kdsj) | 4:02 | 2021-10-31 | 2021-11-03 |
 | [Seni Kırmışlar](https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Sen Böyle Değildin](https://open.spotify.com/album/14KTTy0gQAGWcOLTGkw9hy) | 2:53 | 2022-06-05 | 2022-10-09 |
+| [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-28 |  |
 | [Seni Severdim](https://open.spotify.com/track/4wafsaGv4ofwEBmDyp4qsA) | [Yıldız Usmonova](https://open.spotify.com/artist/7J9o5Hdc4fNz21SsIBztYK), [Yaşar Günaçgün](https://open.spotify.com/artist/5h9ueyfXGdgh1rkRQFixkj) | [Dünya](https://open.spotify.com/album/4OANCg2XGfMsaP3bMhazsu) | 4:30 | 2023-05-20 | 2023-07-13 |
 | [Seni Seviyorum \(Live\)](https://open.spotify.com/track/730eP2Ndifb7WUPerT4Nes) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Seni Seviyorum \(Live\)](https://open.spotify.com/album/5p0DQL5PEhRNkeWq0patAL) | 4:19 | 2024-03-24 | 2024-04-28 |
 | [Seni Yazdım](https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Seni Yazdım](https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg) | 2:31 | 2024-02-03 | 2024-04-20 |
@@ -997,8 +998,8 @@
 | [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 | 2024-05-25 |
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
-| [YANKI X İNTİHAR](https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [SNOW](https://open.spotify.com/artist/0fAHMR13Qz5mriTjBDiITA) | [YANKI X İNTİHAR](https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr) | 2:31 | 2024-11-17 | 2024-11-19 |
-| [Yankı](https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yankı](https://open.spotify.com/album/0kX8F7egB7R6A54L5hyPOd) | 4:25 | 2024-10-11 |  |
+| [YANKI X İNTİHAR](https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [SNOW](https://open.spotify.com/artist/0fAHMR13Qz5mriTjBDiITA) | [YANKI X İNTİHAR](https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr) | 2:31 | 2024-11-17 |  |
+| [Yankı](https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yankı](https://open.spotify.com/album/0kX8F7egB7R6A54L5hyPOd) | 4:25 | 2024-10-11 | 2024-11-29 |
 | [Yanlış](https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Yanlış](https://open.spotify.com/album/7F5XFNNcmntqkZ7gAvEgqi) | 3:41 | 2023-02-16 | 2023-03-08 |
 | [Yansıma](https://open.spotify.com/track/4T73JmNNhtkFBzjRfCeMzN) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj), [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:53 | 2023-11-27 | 2024-09-25 |
 | [Yap Bi Güzellik](https://open.spotify.com/track/5wZ4RzkwZhjbwRyA7Q29Zr) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yap Bi Güzellik](https://open.spotify.com/album/3PnDqF9MGtLmxMgtdXYFmR) | 3:07 | 2022-07-23 | 2022-09-16 |

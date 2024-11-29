@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LEX",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -162,6 +162,40 @@
       "duration_ms": 153750,
       "name": "4U",
       "url": "https://open.spotify.com/track/6Wq97Q9kQ8pioRtYQYfcNQ"
+    },
+    {
+      "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/1615XuqGbVnR38cxNTuz7i"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "WhiteShadow",
+          "url": "https://open.spotify.com/artist/0lNfBIsR4PHDhcqyNd2PXw"
+        },
+        {
+          "name": "BretBeats",
+          "url": "https://open.spotify.com/artist/081tiewtqFki2X2zWMzQGR"
+        },
+        {
+          "name": "Levianth",
+          "url": "https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H"
+        },
+        {
+          "name": "Fleet",
+          "url": "https://open.spotify.com/artist/2R0zf6rRaaj7je9PdEJr5Z"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149181,
+      "name": "747",
+      "url": "https://open.spotify.com/track/3z6pVCrBVu2ZeGHiSZ2oUi"
     },
     {
       "album": {
@@ -826,7 +860,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 232854,
       "name": "C4",
       "url": "https://open.spotify.com/track/6qOOizC2N3Qe2wSoVF4dFn"
@@ -2241,6 +2275,32 @@
     },
     {
       "album": {
+        "name": "ILEGAL",
+        "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "ILEGAL",
+      "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
+    },
+    {
+      "album": {
         "name": "SUMMER VIBES",
         "url": "https://open.spotify.com/album/1ugicj22TpnVazIyqQAFYh"
       },
@@ -2590,7 +2650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 208111,
       "name": "KSIRASIA",
       "url": "https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8"
@@ -3198,7 +3258,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 192515,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
@@ -3238,7 +3298,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151573,
       "name": "MYKONOS",
       "url": "https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d"
@@ -3348,6 +3408,28 @@
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
+    },
+    {
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207225,
+      "name": "Nyxterides",
+      "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
     },
     {
       "album": {
@@ -3466,7 +3548,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
@@ -3671,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/0lQBgLD1s0sFBgE0rEuCz5"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187433,
+      "name": "Pasok",
+      "url": "https://open.spotify.com/track/5WuzHndVMAOgcunToFjp4U"
+    },
+    {
+      "album": {
         "name": "Passion Haze",
         "url": "https://open.spotify.com/album/2V0SJWjhXpcxZXq7w4dEd5"
       },
@@ -3756,6 +3856,24 @@
       "duration_ms": 204105,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2lzP8ZaWG45DhmaMZ7L7q3"
+    },
+    {
+      "album": {
+        "name": "PIES MIA",
+        "url": "https://open.spotify.com/album/7jdDWAA9GaJDSkfD2jUIrw"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124537,
+      "name": "PIES MIA",
+      "url": "https://open.spotify.com/track/2jcYHljAsM7bHOcPKVkJAH"
     },
     {
       "album": {
@@ -4222,6 +4340,24 @@
       "duration_ms": 182400,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/0uNOPjIB2uBEQznfxmOMdJ"
+    },
+    {
+      "album": {
+        "name": "SHOOTER ME TN",
+        "url": "https://open.spotify.com/album/12L9wurTgo8rckZsWH9EG5"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132343,
+      "name": "SHOOTER ME TN",
+      "url": "https://open.spotify.com/track/37netkV0ymoeRg5qmwtmwW"
     },
     {
       "album": {
@@ -5002,7 +5138,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206802,
       "name": "XADV",
       "url": "https://open.spotify.com/track/2f5yxc6MC191U7EALZugfi"

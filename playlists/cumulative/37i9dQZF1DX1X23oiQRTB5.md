@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gazo au top de la première playlist de rap français.
+> Ninho x Niska au top de la première playlist de rap français.
 
-291 songs - 15 hr 0 min
+293 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aqua](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 | 2022-07-21 | 2023-01-27 |
 | [AZNVR \- une minute de musique](https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [AZNVR \(une minute de musique\)](https://open.spotify.com/album/0CwImsCyjRO0p2kVE60MQq) | 3:59 | 2023-01-12 | 2023-04-07 |
 | [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-28 | 2024-07-05 |
-| [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-08-22 |  |
+| [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-08-22 | 2024-11-29 |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-05 | 2024-07-27 |
 | [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-04-11 |  |
 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 | 2022-05-19 | 2022-11-11 |
@@ -64,7 +64,7 @@
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-30 | 2022-11-17 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-11-10 | 2022-12-09 |
 | [Christian Dior](https://open.spotify.com/track/19xVZr90ICYmatwd3FsKbe) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Christian Dior](https://open.spotify.com/album/0zLub8F6Dp4VlswXPg9OTK) | 2:34 | 2024-02-22 | 2024-04-19 |
-| [Christian Dior](https://open.spotify.com/track/6YRplhBAorNmsdLf4eHIxc) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Christian Dior](https://open.spotify.com/album/3Zj4TuPXuharEk359TBOxc) | 2:34 | 2024-04-18 |  |
+| [Christian Dior](https://open.spotify.com/track/6YRplhBAorNmsdLf4eHIxc) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Christian Dior](https://open.spotify.com/album/3Zj4TuPXuharEk359TBOxc) | 2:34 | 2024-04-18 | 2024-11-29 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-10 | 2023-05-05 |
 | [Ciao](https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:36 | 2023-07-27 | 2023-12-22 |
 | [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-23 | 2023-07-29 |
@@ -155,12 +155,14 @@
 | [La faille](https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La faille](https://open.spotify.com/album/1jBSMXrJSzDX6GQnmqj5qL) | 4:51 | 2023-05-25 | 2024-02-23 |
 | [La famine](https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La famine](https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e) | 3:09 | 2024-10-24 |  |
 | [La Force Tranquille](https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La Force Tranquille](https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9) | 4:04 | 2023-02-23 | 2023-05-12 |
+| [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 | 2024-11-28 |  |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-18 | 2024-01-19 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-27 | 2024-03-01 |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-04-13 | 2023-07-30 |
 | [Laisse tomber](https://open.spotify.com/track/1qnEPb5kyJXaIq1xau0dRr) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [SUAVEMENTE](https://open.spotify.com/album/4VM0NDn0OQlz3odTKvnTJf) | 3:11 | 2022-11-10 | 2022-11-13 |
 | [Laisse tomber](https://open.spotify.com/track/2I09PaS6In9XUCrREVo4C6) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Racines](https://open.spotify.com/album/6yVw74sZZ2lDyvVVnWPTRc) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 | 2022-07-28 | 2022-11-18 |
+| [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-28 |  |
 | [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 | 2023-11-09 | 2024-01-19 |
 | [Les gentils bandits](https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Les gentils bandits / Focus](https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv) | 3:40 | 2022-03-10 | 2022-08-12 |

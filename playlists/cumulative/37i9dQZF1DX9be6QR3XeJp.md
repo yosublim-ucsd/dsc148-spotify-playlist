@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Leonie Biney
+> Discover your new favourite artists from UK&IE\. Cover: Annie\-Dog
 
-289 songs - 15 hr 30 min
+290 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Tell Nobody](https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Tell Nobody](https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X) | 2:49 | 2023-11-24 |  |
 | [Terrified](https://open.spotify.com/track/3ucxOAE4Is58lEIDMaAznA) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Terrified](https://open.spotify.com/album/4Oq1iLRq5iQ3VjVVWvEoCy) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [Terrified](https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:12 | 2022-07-28 | 2023-07-14 |
+| [The Feeling in My Fingertips](https://open.spotify.com/track/6jGGcDcYPO9iNvkmpBaEth) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Feeling in My Fingertips](https://open.spotify.com/album/7i9Y3pLu36bJWVsaIdlfso) | 3:09 | 2024-11-29 |  |
 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 | 2024-05-23 |  |
 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 | 2022-02-25 |  |
 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 | 2023-08-17 |  |

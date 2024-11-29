@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-273 songs - 19 hr 56 min
+274 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-16 |  |
 | [El Asel](https://open.spotify.com/track/20EzEzwQFCKaa4uAohXymK) | [Ahmed Shiba](https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW) | [El Asel](https://open.spotify.com/album/65kdqzMe7jKrDUx8iDmhdW) | 4:09 | 2021-12-16 | 2023-05-12 |
 | [El Einab](https://open.spotify.com/track/6by5tScCl9jWT2GLRdKyaw) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [El Einab](https://open.spotify.com/album/0p8lgkWBHMToB5qipgqGKQ) | 3:15 | 2021-12-30 | 2023-05-12 |
+| [El Far7a](https://open.spotify.com/track/44W2ZZ1jXUSOcuXrWdSAKE) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Mahmoud El Husseiny](https://open.spotify.com/artist/34uzyvGdcvqdhtB8Gskymj) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0Og7uaAgeWuH2fQ8Dmym0w) | 3:25 | 2024-11-29 |  |
 | [El Gaw Hady](https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Salefny Dehketak](https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY) | 4:16 | 2021-12-16 |  |
 | [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 |  |
 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 | 2021-12-16 | 2023-09-02 |
@@ -151,7 +152,7 @@
 | [Ya Bege7](https://open.spotify.com/track/6sZ0YGoIpHx2EQD8ltgFgU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Bege7](https://open.spotify.com/album/6mPMMYLI5iKMKfE1eGAwbV) | 5:38 | 2021-12-16 | 2022-07-27 |
 | [Ya Dmaghy](https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Ya Dmaghy](https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6) | 4:03 | 2021-12-16 | 2023-05-12 |
 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 | 2021-12-16 | 2023-07-12 |
-| [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 |  |
+| [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 | 2024-11-29 |
 | [Ya Sater El Str](https://open.spotify.com/track/2Uki6DNgj6ib30tTVf6abo) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ya Sater El Str](https://open.spotify.com/album/6FUV0Rdybs21gl520rrNMy) | 6:31 | 2024-01-26 | 2024-02-16 |
 | [Yala Bara Mn Hayaty](https://open.spotify.com/track/5zUXH9sKfnGy6oIZSf2wkA) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Yala Bara Mn Hayaty](https://open.spotify.com/album/6ER6I8lOsQiAqQNvkGILAB) | 4:57 | 2021-12-16 | 2023-03-30 |
 | [Yamnana](https://open.spotify.com/track/2dSBiSoVKqR16BxZnmanZv) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Zahmit Hayaty](https://open.spotify.com/album/4BgsZvPh2AKXKOB82suKNc) | 4:17 | 2023-02-16 | 2023-12-22 |

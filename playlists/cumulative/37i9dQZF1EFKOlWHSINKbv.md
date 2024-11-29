@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 9 hr 38 min
+157 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 | 2024-06-11 |  |
 | [Need to Know](https://open.spotify.com/track/0476QBUmuCw9RREzcqnNES) | [Count Bass D](https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [The Count in Cologne](https://open.spotify.com/album/79hsQDmsHePmpPOiT32n83) | 2:59 | 2024-07-10 |  |
 | [Never Be the Same \(feat\. Jay Rock\)](https://open.spotify.com/track/7usLkn9m0kjKqz5BD80IPq) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 4:22 | 2024-06-11 |  |
+| [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 | 2024-11-28 |  |
 | [Never Window Shoppin](https://open.spotify.com/track/6pfGgzrsOjiTVmHPtS3k1O) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 3:45 | 2024-06-11 |  |
 | [New Love](https://open.spotify.com/track/1KARZZIAZxCCiUpLD7Wv4D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:31 | 2024-06-11 |  |
 | [New National Anthem \(feat\. Skylar Grey\)](https://open.spotify.com/track/4L7rW7AtGsmdyBeBe9XsqR) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 4:17 | 2024-06-11 |  |

@@ -5285,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q"
+    },
+    {
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 208056,
       "name": "New Love Cassette (Mark Ronson Remix)",
       "url": "https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT"
@@ -6322,7 +6340,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 340768,
       "name": "Night on Earth",
       "url": "https://open.spotify.com/track/2OAOS8qkuKu5Kd8TvA5BAA"
@@ -7736,7 +7754,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 153600,
       "name": "Seahorse",
       "url": "https://open.spotify.com/track/4ZKZcRKlWxRtQlocxtWVQu"

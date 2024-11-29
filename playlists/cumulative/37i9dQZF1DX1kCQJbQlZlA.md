@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: Tố My
 
-160 songs - 13 hr 23 min
+161 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cầu Tre Kỷ Niệm](https://open.spotify.com/track/2xUqaSCJEHIKJT5GSoNpOI) | [Trung Quang](https://open.spotify.com/artist/5xesOAfG8rtGPBkxAzzc7W) | [Cầu Tre Kỷ Niệm](https://open.spotify.com/album/4O5yzxT8llSQxVgKcfiH8O) | 5:07 | 2022-05-12 | 2024-07-23 |
 | [Duyên Quê](https://open.spotify.com/track/2m6riy7oEECCFeJaOak972) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tiếng Hát Hà Vân 3](https://open.spotify.com/album/4Y5L9iYIBHESSO3BgYYCS0) | 4:24 | 2022-05-12 |  |
 | [Em Đi Trên Cỏ Non](https://open.spotify.com/track/4Vu18b6pv5w1rWuWtRSQEx) | [Hương Thủy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv), [Hà Phương](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq) | [Áo Em Chưa Mặc Một Lần & Vòng Nhẫn Cưới](https://open.spotify.com/album/5W9nC3NXCIohhmrs5SQ6EY) | 5:10 | 2022-05-12 | 2024-01-24 |
+| [Ghé Lại Miền Tây](https://open.spotify.com/track/0r2mGgutxTg2eVKE0tA0uA) | [Diệu Kiên](https://open.spotify.com/artist/3q7Fuv1HpyqegV9YpMXCp7) | [Ghé Lại Miền Tây](https://open.spotify.com/album/0z8JWJ8LtFPuRlt3YOyM6X) | 3:48 | 2024-11-28 |  |
 | [Giac Mo Canh Co](https://open.spotify.com/track/3Ss1Bg9QI7aohlqXIx8jQ9) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Giac Mo Canh Co](https://open.spotify.com/album/3wvCHjgAo8GHkBvoLAD7j6) | 5:15 | 2022-05-12 | 2022-07-29 |
 | [Giấc Mơ Cánh Cò](https://open.spotify.com/track/7r8ORh06ESb06YjShRTHqm) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Liveshow Châu Ngọc Tiên \- Em Không Thể Quên 2](https://open.spotify.com/album/3DGD1EAyiI1wfJ3fMRJQzl) | 5:15 | 2022-07-15 | 2022-11-13 |
 | [Giấc Mơ Cánh Cò](https://open.spotify.com/track/04LFLKz9gCVs36pocCTMfQ) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [The Best of Như Quỳnh](https://open.spotify.com/album/1zjm9bzyOtmIhWmVXBP9EJ) | 5:17 | 2022-07-15 | 2023-07-14 |
@@ -144,7 +145,7 @@
 | [Về Quê Ngoại](https://open.spotify.com/track/5oMCJAEW84GfIQ7NRk3JY9) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Nếu Đời Không Có Anh](https://open.spotify.com/album/5OBNE2Vuts89PIIvg7oWHN) | 5:51 | 2022-05-12 | 2024-01-24 |
 | [Về Quê Ngoại](https://open.spotify.com/track/28dVfwCuBfWE490ec5WWbT) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK) | [Những Bài Hát Hay Nhất](https://open.spotify.com/album/3qK0ScXR0jpZR2CiYnGPyt) | 5:00 | 2024-05-27 |  |
 | [Về Quê Thăm Mẹ](https://open.spotify.com/track/5dS9CTGdzW1I3avG0KOtPF) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Về Quê Thăm Mẹ](https://open.spotify.com/album/7Kr1dZVpV99Cy3pprFOKvQ) | 4:47 | 2022-05-12 |  |
-| [Về Quê Ăn Tết](https://open.spotify.com/track/2GkhcLv6UX9INsvy4mvQ62) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Về Quê Ăn Tết](https://open.spotify.com/album/5X1nPI72MZNvcFOR8Z9ORD) | 4:25 | 2022-05-12 |  |
+| [Về Quê Ăn Tết](https://open.spotify.com/track/2GkhcLv6UX9INsvy4mvQ62) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Về Quê Ăn Tết](https://open.spotify.com/album/5X1nPI72MZNvcFOR8Z9ORD) | 4:25 | 2022-05-12 | 2024-11-29 |
 | [Về thăm quê mình](https://open.spotify.com/track/1PHO7bbDbwyoF5sXd8jWet) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [The best of Trường Vũ \- Áo em chưa mặc một lần](https://open.spotify.com/album/1maA8TkWY8siQ0gjvm1MQ1) | 6:04 | 2022-05-12 |  |
 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 | 2022-05-12 |  |
 | [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/track/2UGPKCkjHO4jnbQRnahUT4) | [Hồng Loan](https://open.spotify.com/artist/05Tm8OwN7IdDg32zO31T7F), [Linh Tý](https://open.spotify.com/artist/0shjQjm3aGMmxJB5n3TQHb) | [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/album/2YMY9SW5vCoIwqb8PmfdPA) | 5:46 | 2023-11-09 |  |

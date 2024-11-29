@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 136079,
       "name": "Bana",
       "url": "https://open.spotify.com/track/36h6DJIrLY2Cc387KQg7R6"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 216711,
       "name": "Dexam",
       "url": "https://open.spotify.com/track/51t6FcKr0vjARDYHxDEu5a"
@@ -3343,6 +3343,28 @@
     },
     {
       "album": {
+        "name": "Biig Star",
+        "url": "https://open.spotify.com/album/6I8r61eEFPrWsKQhMXQn39"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Iban",
+      "url": "https://open.spotify.com/track/0hELxgRM8oVYFfvz3BHJIw"
+    },
+    {
+      "album": {
         "name": "If You Don't Know",
         "url": "https://open.spotify.com/album/5dzWo4oakpXNQ6NOZOAjI7"
       },
@@ -3642,7 +3664,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 201904,
       "name": "Ka Nu Perdi",
       "url": "https://open.spotify.com/track/54fClL6l5mVEaQFKDm8Y1o"
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 216127,
       "name": "O Jeito Dela - Radio Edit",
       "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
@@ -7652,7 +7674,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
@@ -7808,7 +7830,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 250912,
       "name": "Toda Poderosa",
       "url": "https://open.spotify.com/track/7KZytVRDmgTZ4NiKhc2fQ9"
@@ -8842,6 +8864,28 @@
       "duration_ms": 169732,
       "name": "We Good",
       "url": "https://open.spotify.com/track/6io1fSL5CzJzMJl0yGuZ6q"
+    },
+    {
+      "album": {
+        "name": "Welele",
+        "url": "https://open.spotify.com/album/6O39ZqVfMt0GC2JILSc5U8"
+      },
+      "artists": [
+        {
+          "name": "Bal00n Beats",
+          "url": "https://open.spotify.com/artist/3leYW5KDg6Pelw1yNUqVUN"
+        },
+        {
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Welele",
+      "url": "https://open.spotify.com/track/3rtNpMHpCLjiq4ig8pk2vB"
     },
     {
       "album": {

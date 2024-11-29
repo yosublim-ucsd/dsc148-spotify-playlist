@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Sylwia Grzeszczak",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Zalia",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -795,6 +795,28 @@
     },
     {
       "album": {
+        "name": "Daj Mi Zna\u0107",
+        "url": "https://open.spotify.com/album/5cCz3TGg6Md3Yv9qj0FjtF"
+      },
+      "artists": [
+        {
+          "name": "Motyl",
+          "url": "https://open.spotify.com/artist/4RXtFJNqv5jLkwPAOE5rP7"
+        },
+        {
+          "name": "WOLF HOUSE",
+          "url": "https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146982,
+      "name": "Daj Mi Zna\u0107",
+      "url": "https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1"
+    },
+    {
+      "album": {
         "name": "Daj \u017cy\u0107",
         "url": "https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL"
       },
@@ -1293,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "GAJA",
+        "url": "https://open.spotify.com/album/5LQjpfxUy2DtlWx58HqWuq"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "GAJA",
+      "url": "https://open.spotify.com/track/6ByYFelThczY8YSbUpA4gV"
+    },
+    {
+      "album": {
         "name": "GOTIK LOLITA",
         "url": "https://open.spotify.com/album/6C1ICbqY31hSwmGuug4Uou"
       },
@@ -1388,7 +1428,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206707,
       "name": "Himalaje",
       "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
@@ -3573,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Poznajmy si\u0119",
+        "url": "https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt"
+      },
+      "artists": [
+        {
+          "name": "Kacper Andrzejewski",
+          "url": "https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Poznajmy si\u0119",
+      "url": "https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL"
+    },
+    {
+      "album": {
         "name": "Po\u0142owa Mnie",
         "url": "https://open.spotify.com/album/6qnqvqS01qdpVp6WggOZlL"
       },
@@ -3752,7 +3810,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 233585,
       "name": "Ratuj si\u0119 kto mo\u017ce",
       "url": "https://open.spotify.com/track/3ngO8Qzh9c5PIE9s6IwjSu"
@@ -3916,7 +3974,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160000,
       "name": "Sob\u0105 Tak",
       "url": "https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq"
@@ -4278,7 +4336,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200187,
       "name": "Taniec pingwina na szkle",
       "url": "https://open.spotify.com/track/2BrlATApqB2DQimTGXCVzn"
@@ -4376,6 +4434,24 @@
       "duration_ms": 157500,
       "name": "Ten Kij",
       "url": "https://open.spotify.com/track/1xQu73IDqru1XUVzbcllol"
+    },
+    {
+      "album": {
+        "name": "Ten sam",
+        "url": "https://open.spotify.com/album/7f2ykCErnhYsrrYp0UyHkB"
+      },
+      "artists": [
+        {
+          "name": "Miko\u0142aj Przybylski",
+          "url": "https://open.spotify.com/artist/1BWCcaZ1CWk2WZUggI9oJT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Ten sam",
+      "url": "https://open.spotify.com/track/2uigCpHj37SX7tPHpKBHJJ"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74871,
+  "num_followers": 74869,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+HTAAAAACizbZXpytmenKri7QN4IWj",
+  "snapshot_id": "Z0iAjgAAAABfGoOE6elK8ZJBiFXt/hE8",
   "tracks": [
+    {
+      "added_at": "2024-11-28 14:39:10",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
     {
       "added_at": "2024-11-21 19:17:32",
       "album": {
@@ -447,22 +467,6 @@
       "duration_ms": 199852,
       "name": "Side Quest",
       "url": "https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h"
-    },
-    {
-      "added_at": "2024-06-26 18:38:55",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-07-19 21:04:06",

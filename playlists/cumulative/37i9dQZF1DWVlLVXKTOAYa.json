@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
@@ -9324,6 +9324,24 @@
       "duration_ms": 174120,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1Edv7BraLaIMY6qCZNIPLj"
+    },
+    {
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135559,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
     },
     {
       "album": {

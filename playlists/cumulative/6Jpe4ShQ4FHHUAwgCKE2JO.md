@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-30 songs - 1 hr 53 min
+32 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [Jeff Found A Genie](https://open.spotify.com/track/3FZ6EglonCHH9vBDuRiVyQ) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 2:26 | 2023-07-09 |  |
 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-09 |  |
+| [Normalization Blues](https://open.spotify.com/track/73UkvR1L7OGsslFutaBvjp) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:39 | 2024-11-28 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Out With the Crow](https://open.spotify.com/track/3rkRWnb8aaiXMevBmf2Ul8) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 2:44 | 2024-09-16 |  |
 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 | 2023-10-30 |  |
@@ -38,5 +39,6 @@
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2024-01-02 |  |
 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 | 2023-05-22 |  |
 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 | 2023-05-10 |  |
+| [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 | 2024-11-28 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

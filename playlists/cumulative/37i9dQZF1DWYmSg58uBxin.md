@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-287 songs - 13 hr 13 min
+288 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 | 2023-09-26 |  |
 | [Hybrid Eclipse](https://open.spotify.com/track/0WJ2EOp4SKW5ODXSVcl24d) | [Nucleus A.D.](https://open.spotify.com/artist/2bEtt3sQSaChWOLNzfyX9e) | [Hybrid Eclipse](https://open.spotify.com/album/3fkiWYlQT33Zt2tHesvf20) | 3:48 | 2020-10-20\* | 2024-07-30 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-09-26 |  |
+| [If Life Was a Movie](https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt) | [John Sachs](https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn) | [If Life Was a Movie](https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby) | 1:45 | 2024-11-28 |  |
 | [Impasse des Bourdonnais](https://open.spotify.com/track/53JV92TTWHIllhui4TkoU2) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Impasse des Bourdonnais](https://open.spotify.com/album/2Kiy7znRPwbZjK1fQvOe0F) | 1:07 | 2020-10-20\* | 2023-09-09 |
 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 | 2024-05-29 |  |
 | [In Joy Designed](https://open.spotify.com/track/1MBX1hS5XZaPv7cwQLMEYo) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Music for Five Parts](https://open.spotify.com/album/0Hrk51KOlGDZwd46XmfK1T) | 3:40 | 2020-10-20\* | 2021-11-17 |

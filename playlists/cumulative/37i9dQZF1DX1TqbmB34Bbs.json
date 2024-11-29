@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "9+9",
+        "url": "https://open.spotify.com/album/7JZnzDDW8Nosost0lx4zLX"
+      },
+      "artists": [
+        {
+          "name": "GongGongGoo009",
+          "url": "https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225413,
+      "name": "9+9",
+      "url": "https://open.spotify.com/track/4hFNNWrjfsvh0BRboItvWy"
+    },
+    {
+      "album": {
         "name": "2 Kids On The Block - Part.3",
         "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 170213,
       "name": "@rollsroycecars (Prod. imeanseoul, Wylo)",
       "url": "https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 190213,
       "name": "Acrobat2",
       "url": "https://open.spotify.com/track/1lr3eme5yOQOAplN5IeDyn"
@@ -4336,6 +4354,32 @@
       "duration_ms": 192289,
       "name": "BOW-WOW",
       "url": "https://open.spotify.com/track/2i9NoqCZixV3xZ6lxLekk4"
+    },
+    {
+      "album": {
+        "name": "RAP:PUBLIC Episode.1",
+        "url": "https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "DOMMIU",
+          "url": "https://open.spotify.com/artist/5YiCHcAT5uxyfjXMjAVXA8"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "BOWWOW (Feat. Deepflow)",
+      "url": "https://open.spotify.com/track/6Rfgp4ZpFh5G6GHIHUkZNp"
     },
     {
       "album": {
@@ -24996,7 +25040,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200013,
       "name": "TOTG (Feat. Gist, TRADE L)",
       "url": "https://open.spotify.com/track/1lOQmHOLCNvx3z8pea2saM"
@@ -28724,6 +28768,36 @@
       "duration_ms": 270600,
       "name": "Z Flip Fold (Feat. Damndef) - remix",
       "url": "https://open.spotify.com/track/61D3XmJsdJetc2IBTuQY0e"
+    },
+    {
+      "album": {
+        "name": "RAP:PUBLIC Episode.1",
+        "url": "https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi"
+      },
+      "artists": [
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        },
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "Zigle Zigle (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/44n7Wbnl9vcDbkAkVPW0Lu"
     },
     {
       "album": {

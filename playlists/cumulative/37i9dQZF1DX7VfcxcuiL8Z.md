@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Linkin Park
+> The best in new rock\. Cover: Spiritbox
 
-211 songs - 12 hr 7 min
+214 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-18 | 2024-10-11 |
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-10-11 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-05 | 2024-09-27 |
-| [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 |  |
+| [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 | 2024-11-29 |
 | [Another Day](https://open.spotify.com/track/5WEtgNHhrYiNuc4xBHYgma) | [GIMMY](https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0) | [Things Look Different Now](https://open.spotify.com/album/1wt6odICcCYOG17AjDZvri) | 3:03 | 2024-06-20 | 2024-09-13 |
 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 | 2024-11-22 |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 |  |
@@ -29,12 +29,13 @@
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-10-11 |
 | [Black Balloon](https://open.spotify.com/track/6xPaEPEayaj9sxYXMdWk7q) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Black Balloon](https://open.spotify.com/album/2YTaEe1xzi2YRGHKwSzDjE) | 4:02 | 2024-05-02 | 2024-08-23 |
 | [Blood](https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/5m1PFNZ4wQOqJrMVsSyGn4) | 3:34 | 2024-08-01 |  |
+| [Blutac](https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5) | [Heavy Moss](https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt) | [Dead Slow](https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC) | 5:35 | 2024-11-28 |  |
 | [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 |  |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-08-02 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-20 |
 | [Break Away](https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Break Away](https://open.spotify.com/album/1htNgwThQp0jBpv1YBtIu2) | 3:50 | 2024-07-04 | 2024-08-16 |
 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-11-07 |  |
-| [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-30 |  |
+| [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-30 | 2024-11-29 |
 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 | 2024-06-06 | 2024-08-23 |
 | [Check Mate](https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Check Mate](https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc) | 3:16 | 2024-05-16 | 2024-10-04 |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 | 2024-11-08 |
@@ -63,8 +64,10 @@
 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-05-30 | 2024-10-11 |
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-12 | 2024-11-15 |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 |  |
+| [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2024-11-28 |  |
 | [First One](https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [The Only Place I Know](https://open.spotify.com/album/43lrNoD7YTqyHtZL6TaX8M) | 2:04 | 2024-09-26 |  |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-04-09 | 2024-07-27 |
+| [Ghost Of Us](https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Ghost Of Us](https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS) | 3:27 | 2024-11-28 |  |
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-05-23 | 2024-08-02 |
 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 | 2024-04-09 | 2024-07-27 |
 | [Guided Tour](https://open.spotify.com/track/5libQaNWi39sL1255ivVwK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl) | 4:25 | 2024-10-17 |  |
@@ -101,7 +104,7 @@
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-09-26 | 2024-11-01 |
 | [Lately](https://open.spotify.com/track/2tOTRdiIf0PX3fhMGl5y6S) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l), [Brian Aubert](https://open.spotify.com/artist/4oSqkqAQHELywy2a9fd6xa), [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Make It Feel Like The Garden](https://open.spotify.com/album/6ifr5AvAQVzz2AYPsdJCBK) | 5:03 | 2024-07-18 | 2024-10-18 |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2024-11-01 |
-| [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 | 2024-09-26 |  |
+| [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 | 2024-09-26 | 2024-11-29 |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-04-09 | 2024-08-16 |
 | [Letters](https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Letters](https://open.spotify.com/album/63YZiViTBsGpNT25ZCz4FK) | 3:13 | 2024-04-09 | 2024-07-12 |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-01 |  |

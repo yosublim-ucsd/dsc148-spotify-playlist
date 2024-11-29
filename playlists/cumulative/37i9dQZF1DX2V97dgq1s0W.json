@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Tiana Major9",
+  "description": "The best voices in R&B. Cover: FLO",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 167000,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x"
@@ -2202,7 +2202,7 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "emil",
+          "name": "EMIL",
           "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
         }
       ],
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Patience & Heart / In your absence",
+        "url": "https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "In Your Absence",
+      "url": "https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp"
+    },
+    {
+      "album": {
         "name": "Too Late To Die Young",
         "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
@@ -3312,6 +3330,24 @@
       "duration_ms": 207499,
       "name": "Je me souviens de tout",
       "url": "https://open.spotify.com/track/0iqI9wMmP6EQsiIc7MDezv"
+    },
+    {
+      "album": {
+        "name": "je t'aime",
+        "url": "https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "je t'aime",
+      "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
     },
     {
       "album": {
@@ -5122,7 +5158,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162920,
       "name": "Personal",
       "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
@@ -7406,6 +7442,24 @@
       "duration_ms": 205030,
       "name": "White Tee - Acoustic",
       "url": "https://open.spotify.com/track/4GDgtRrv59oHpOXiiKaNMP"
+    },
+    {
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "album": {

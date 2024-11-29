@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel ",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive ",
   "name": "NKVT",
   "tracks": [
     {
@@ -450,10 +450,32 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207511,
       "name": "Anlat",
       "url": "https://open.spotify.com/track/1zTtEGttQKzKgtYhEKyfP9"
+    },
+    {
+      "album": {
+        "name": "Anlat Maria",
+        "url": "https://open.spotify.com/album/4zpcztNf7G5pVQ0dSjCHde"
+      },
+      "artists": [
+        {
+          "name": "Armagheddon",
+          "url": "https://open.spotify.com/artist/4hsmSmskimqtwGW0ouC6If"
+        },
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Anlat Maria",
+      "url": "https://open.spotify.com/track/3R9zmhVbaCtRhHaUC7MVVV"
     },
     {
       "album": {
@@ -581,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Aram\u0131zda Kals\u0131n",
+        "url": "https://open.spotify.com/album/5cAmJ3E0Ap8Vt6DriqXCRU"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Aram\u0131zda Kals\u0131n",
+      "url": "https://open.spotify.com/track/2zU66nMSjEwk3kPSzPQQLV"
+    },
+    {
+      "album": {
         "name": "Arar\u0131m Yar\u0131n",
         "url": "https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm"
       },
@@ -690,7 +730,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 130951,
       "name": "Asosyal",
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
@@ -1014,6 +1054,28 @@
       "duration_ms": 136483,
       "name": "BANA G\u00d6NDER!",
       "url": "https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI"
+    },
+    {
+      "album": {
+        "name": "BANA NE",
+        "url": "https://open.spotify.com/album/5voJxrRtxgo8dvWVvggyEO"
+      },
+      "artists": [
+        {
+          "name": "Zen-G",
+          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "BANA NE",
+      "url": "https://open.spotify.com/track/6YnoKIC8l4K9epOR9GvgwQ"
     },
     {
       "album": {
@@ -1700,6 +1762,24 @@
       "duration_ms": 158099,
       "name": "Cesaret",
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
+    },
+    {
+      "album": {
+        "name": "taycan",
+        "url": "https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "champion",
+      "url": "https://open.spotify.com/track/1hkHaf5g3O8II8beeZP3YY"
     },
     {
       "album": {
@@ -2424,7 +2504,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 121875,
       "name": "D\u00fc\u011f\u00fcn Dernek",
       "url": "https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij"
@@ -4370,7 +4450,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 140469,
       "name": "JET BABA",
       "url": "https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T"
@@ -4840,7 +4920,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 138363,
       "name": "Kennedy'i Ben Vurdum",
       "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
@@ -5092,6 +5172,28 @@
       "duration_ms": 141473,
       "name": "Korkmasan",
       "url": "https://open.spotify.com/track/4bVWnUmckay9Ek0HB05cCS"
+    },
+    {
+      "album": {
+        "name": "Korkum",
+        "url": "https://open.spotify.com/album/72G7Az0qke7dZxyIfkq1he"
+      },
+      "artists": [
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        },
+        {
+          "name": "Can Volkan",
+          "url": "https://open.spotify.com/artist/36uy2O0MwrgWR8B1hdQTPi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254734,
+      "name": "Korkum",
+      "url": "https://open.spotify.com/track/7bRBnEbBruzgkgLOIYVk0x"
     },
     {
       "album": {
@@ -5362,7 +5464,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 139047,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw"
@@ -7034,7 +7136,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129923,
       "name": "PRENSES",
       "url": "https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m"
@@ -7867,6 +7969,32 @@
     },
     {
       "album": {
+        "name": "Senden \u00c7ok Var",
+        "url": "https://open.spotify.com/album/6KfURVxHEs9zARPsplhc0E"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122671,
+      "name": "Senden \u00c7ok Var",
+      "url": "https://open.spotify.com/track/3HK1WOG1DMiMdzs0mBkhGf"
+    },
+    {
+      "album": {
         "name": "Seni Yazd\u0131m",
         "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
       },
@@ -8111,6 +8239,36 @@
     },
     {
       "album": {
+        "name": "taycan",
+        "url": "https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Bar B",
+          "url": "https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A"
+        },
+        {
+          "name": "Bekom",
+          "url": "https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy"
+        },
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294599,
+      "name": "sirenler \u00e7als\u0131n",
+      "url": "https://open.spotify.com/track/1EoxUkAYROcqyMC10SE038"
+    },
+    {
+      "album": {
         "name": "Siverek",
         "url": "https://open.spotify.com/album/4QexrF3FrYbn46cRPALILb"
       },
@@ -8228,6 +8386,28 @@
       "duration_ms": 147999,
       "name": "Sor Bize",
       "url": "https://open.spotify.com/track/5CaBkfl4rSKlXm91PZkNUV"
+    },
+    {
+      "album": {
+        "name": "taycan",
+        "url": "https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318967,
+      "name": "spacetusu",
+      "url": "https://open.spotify.com/track/04G66YxLhD9xLQJRzHHHpn"
     },
     {
       "album": {
@@ -9326,7 +9506,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 115594,
       "name": "Yetmedi",
       "url": "https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd"

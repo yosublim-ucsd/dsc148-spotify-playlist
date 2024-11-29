@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-346 songs - 19 hr 23 min
+347 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-04 | 2024-05-08 |
 | [Mirror, Mirror on the Wall](https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Mirror, Mirror on the Wall](https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip) | 3:48 | 2022-06-06 | 2024-05-28 |
 | [Moments](https://open.spotify.com/track/1AVL7qGcVJUOcfUdzpKbWa) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Moments](https://open.spotify.com/album/7LjYerJoXPBFOqR6e9ROHf) | 2:49 | 2022-06-06 | 2022-07-29 |
-| [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 | 2024-10-07 |  |
+| [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 | 2024-10-07 | 2024-11-29 |
 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 | 2022-06-06 |  |
 | [More](https://open.spotify.com/track/6tsmt6CZClKqODnIhhl9Rb) | [MAJULAH WEEKENDER](https://open.spotify.com/artist/5QLgkIgeQXD67BvBMYXyDU), [Fauxe](https://open.spotify.com/artist/6dvcG23IN4NjyLZ3nbKd6p), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [More](https://open.spotify.com/album/0cJ68DbXfMr2upEU8JP0UZ) | 3:10 | 2022-06-06 | 2022-07-29 |
 | [Muse](https://open.spotify.com/track/5Jvw7jdQmO622XAjtxQ6H0) | [Mickeyleano](https://open.spotify.com/artist/6F5Rx2IqlhNXoIRLrVb9bH), [Jema](https://open.spotify.com/artist/67FKMgdwLLDfGiQR7BUrJL) | [Muse](https://open.spotify.com/album/3aHINg5eCfOPl6GMDS3je8) | 3:15 | 2022-06-06 | 2022-07-29 |
@@ -239,6 +239,7 @@
 | [Only You](https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Only You](https://open.spotify.com/album/27bRSjzXQUyYBFNstOtWHv) | 3:41 | 2022-06-06 | 2022-07-26 |
 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-07-11 |  |
+| [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 |  |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-06-06 | 2023-04-27 |
 | [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 | 2022-10-10 | 2024-04-19 |

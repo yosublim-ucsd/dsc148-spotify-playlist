@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-645 songs - 1 day 4 hr 4 min
+646 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK) | [Sunday](https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp) | 2:01 | 2024-05-02 |  |
 | [Breathe](https://open.spotify.com/track/76lTObcVr6Z6e6Tqezk2N1) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Breathe](https://open.spotify.com/album/2oONqv7gpHaweACmIxM75A) | 3:34 | 2023-12-17 | 2024-01-21 |
 | [Breathe](https://open.spotify.com/track/4D0wSYUVDWZbp9uKYJPxDp) | [Thymaz](https://open.spotify.com/artist/2K9tlBARPJt7YCIzjWqQXC) | [Breathe](https://open.spotify.com/album/4ci5K21jFgJHxH4SEIljpx) | 2:34 | 2023-09-22 | 2024-05-13 |
+| [Breathing](https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Breathing](https://open.spotify.com/album/3KXlYR3ZbDaEpxxQ5T6Ez7) | 2:16 | 2024-11-28 |  |
 | [Brighter Than The Sun](https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM) | [MAESTRI](https://open.spotify.com/artist/1j3mntc3HJeQXRj7dSdvE4), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [GHALIA](https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc) | [Brighter Than The Sun](https://open.spotify.com/album/505KMTrlprZnZOjEY6DIGb) | 2:15 | 2024-02-18 | 2024-03-25 |
 | [Bring Me Home](https://open.spotify.com/track/3Z01gZjYKXLfRl4mRBxbqU) | [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E), [Elle Blue](https://open.spotify.com/artist/0oYf66lhuY6lT7xB5xSXuO) | [Bring Me Home](https://open.spotify.com/album/3U5DhN2CZXraWl3yr8gfYj) | 2:18 | 2024-10-26 | 2024-11-01 |
 | [Broken Waves](https://open.spotify.com/track/7ID9hY0L3R4GKtvUThHa0q) | [Indigo Pool](https://open.spotify.com/artist/7LL3pitjQODebuukupE8b9), [Mushroom People](https://open.spotify.com/artist/4ziIr4aQsNzHu1uJssQAUJ) | [Broken Waves](https://open.spotify.com/album/5Kckn5zh0h4wKGsu7jgcq6) | 2:26 | 2023-09-22 | 2024-05-13 |
@@ -529,7 +530,7 @@
 | [Sugar \(feat\. Eirik Næss\)](https://open.spotify.com/track/3JWBhbcviDe1gIvZS3wwFa) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Sugar](https://open.spotify.com/album/3wCwbzjcVI6PNPyWGuH3AG) | 2:45 | 2023-09-22 | 2024-06-19 |
 | [Summer](https://open.spotify.com/track/2uyWpCJ6Z0t8IhCzRV1KS9) | [Ana Maria](https://open.spotify.com/artist/2Slr8kvRh1iYRmb2qbfzx9), [Elary](https://open.spotify.com/artist/1s10EzzbWWO6LU4r1dHZ3y) | [Summer](https://open.spotify.com/album/0FvxLUC6vKduCf360e8dvS) | 2:12 | 2024-06-30 |  |
 | [Summer](https://open.spotify.com/track/5LEPFFaFzcjKsImMnhLsvS) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Summer](https://open.spotify.com/album/4XMGrmBKPdMZJtGtrHYpID) | 2:17 | 2024-06-09 | 2024-11-11 |
-| [Summer Dreams](https://open.spotify.com/track/5VF5Z29RricPLDtUugnbOr) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Summer Dreams](https://open.spotify.com/album/60ezehYNCecK9vXYGeidxB) | 2:37 | 2024-09-17 |  |
+| [Summer Dreams](https://open.spotify.com/track/5VF5Z29RricPLDtUugnbOr) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Summer Dreams](https://open.spotify.com/album/60ezehYNCecK9vXYGeidxB) | 2:37 | 2024-09-17 | 2024-11-29 |
 | [Summer Is Infinite](https://open.spotify.com/track/3LIlH7TeQa5lMsCScn0WKi) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Summer Is Infinite](https://open.spotify.com/album/1GnZB4TCMFyc5FXojnuNoz) | 2:47 | 2023-09-22 |  |
 | [Summer Life](https://open.spotify.com/track/6eDV3FK90z6IYZ7sewQTbB) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Summer Life](https://open.spotify.com/album/1FlOKgNGKSdlh0Z3uqou8j) | 2:11 | 2024-07-19 | 2024-08-26 |
 | [Summer Love](https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz), [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [Sven Falk](https://open.spotify.com/artist/7sNMOYS4M4zt4ZluXwramz) | [Summer Love](https://open.spotify.com/album/1CjjhANuqR63nt2qLlG9qz) | 3:20 | 2023-09-22 | 2024-02-26 |

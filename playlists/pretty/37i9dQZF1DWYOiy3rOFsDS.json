@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 540251,
+  "num_followers": 540295,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -583,38 +583,6 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -635,6 +603,22 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 218192,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3XNUDzTKKO4rimxDUG5vNj"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 215004,
       "name": "Nada",
       "url": "https://open.spotify.com/track/2wCXjsvQaWp9mMELz361Pn"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 218192,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
-        "name": "Viejitos",
-        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 225476,
-      "name": "Viejitos",
-      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
         "name": "Te Ofrezco",
         "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
+        "name": "Viejitos",
+        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 225476,
+      "name": "Viejitos",
+      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
+        "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
+        "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        },
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Amar Y Vivir - En Vivo",
+      "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
-        "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
-        "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Amar Y Vivir - En Vivo",
-      "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
         "name": "Antes de Quedarme",
         "url": "https://open.spotify.com/album/2z5I51EMZWgeo60i4tGBhE"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 148991,
       "name": "Antes de Quedarme",
       "url": "https://open.spotify.com/track/5Kzknltc6Dhjh30FGamAHD"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2024-10-25 16:46:35",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-10-25 16:46:35",
       "album": {
-        "name": "Bolero Para Mis Abuelos",
-        "url": "https://open.spotify.com/album/0CDZPlWCKPNrNnqGPvP6AG"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Bolero Para Mis Abuelos",
-      "url": "https://open.spotify.com/track/4kZNOWaebUqAXFR2xz3hol"
-    },
-    {
-      "added_at": "2024-10-25 16:46:35",
-      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 190000,
       "name": "Sin Raz\u00f3n",
       "url": "https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk"
+    },
+    {
+      "added_at": "2024-10-25 16:46:35",
+      "album": {
+        "name": "Bolero Para Mis Abuelos",
+        "url": "https://open.spotify.com/album/0CDZPlWCKPNrNnqGPvP6AG"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Bolero Para Mis Abuelos",
+      "url": "https://open.spotify.com/track/4kZNOWaebUqAXFR2xz3hol"
     },
     {
       "added_at": "2024-10-25 16:46:35",

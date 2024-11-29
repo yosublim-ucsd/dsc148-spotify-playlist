@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Elyanna
 
-689 songs - 1 day 15 hr 44 min
+690 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Mtarred](https://open.spotify.com/track/0S0U6igYrif5Y7brdKK2uu) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [Mtarred](https://open.spotify.com/album/37MvMQdvwYpe94sRAaLTk0) | 3:52 | 2021-12-23 | 2022-03-02 |
 | [Mustaheel](https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mustaheel](https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65) | 3:09 | 2022-11-09 | 2023-04-11 |
 | [Na'albet Lehkayi](https://open.spotify.com/track/4mZOR5fNx4zAMkEWIyMJin) | [Angi](https://open.spotify.com/artist/4sCkRNGvfn7dtQYu3sH4Gl) | [Na'albet Lehkayi](https://open.spotify.com/album/0KeYtVEVBxEhMeXY9pGqa5) | 3:01 | 2021-12-23 | 2022-03-02 |
+| [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 | 2024-11-28 |  |
 | [Nafs El Hala](https://open.spotify.com/track/1bUydEeimRr9QdPFWm9XSI) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Nafs El Hala](https://open.spotify.com/album/0K4hGC62l8qcDX0BKOJRYH) | 3:10 | 2023-08-17 | 2023-09-01 |
 | [Nafseti Sefr](https://open.spotify.com/track/6qfJt7LV8Lf4KTQnFqegFD) | [Riham](https://open.spotify.com/artist/2kkNaWuc56oKJAP77MRRHh) | [Nafseti Sefr](https://open.spotify.com/album/5TYkLU1YSF8zAUJuflIOOO) | 2:51 | 2021-12-30 | 2022-02-18 |
 | [Nas Kteer](https://open.spotify.com/track/6R4dDg756EIf1JuFnZfWau) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Nas Kteer](https://open.spotify.com/album/5pRjsZPHslmKIUbVyazQIE) | 3:27 | 2023-08-30 | 2024-01-11 |
@@ -643,7 +644,7 @@
 | [غمض عيونك](https://open.spotify.com/track/4cjgGhenl3vq2UehLcETXo) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [غمض عيونك](https://open.spotify.com/album/5uMM2Wclm2HLBkBNXI3cUb) | 2:08 | 2023-04-07 | 2023-05-05 |
 | [قرصة ودن](https://open.spotify.com/track/2jSZqQ4kLYprLVt2e4Ibx9) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قرصة ودن](https://open.spotify.com/album/4AGl3NBl7wcgJJZAHd9dNr) | 4:08 | 2022-11-10 | 2023-04-11 |
 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 | 2024-01-29 | 2024-11-15 |
-| [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-29 |  |
+| [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-29 | 2024-11-29 |
 | [قيود](https://open.spotify.com/track/2rEP86mIt9ictiz3Jcd0Bd) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/6L5iRtJBqgfZkqJeNw63EJ) | 2:56 | 2022-09-20 | 2022-11-09 |
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-03-01 | 2022-08-29 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2023-03-13 |

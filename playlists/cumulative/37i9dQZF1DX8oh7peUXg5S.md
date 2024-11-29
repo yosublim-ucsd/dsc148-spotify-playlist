@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-310 songs - 19 hr 44 min
+311 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [El Meteco \(Le Métèque\)](https://open.spotify.com/track/5Wsk3PjvEpeyJADawCDHsJ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2) | [Canta Moustaki y Canciones de la Resistencia](https://open.spotify.com/album/7igLnNu1BTR55GnN49wfoW) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [El novio de la muerte](https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Grandes Exitos](https://open.spotify.com/album/6XlZhZZ0tjPOTZhdyRDIul) | 4:00 | 2022-06-09 | 2022-07-28 |
 | [El Otro](https://open.spotify.com/track/3rSMP6Rx0DxlXN01DWotof) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [El Otro](https://open.spotify.com/album/6pl3ZsD89ASk91SpE61Gt5) | 3:36 | 2024-05-21 | 2024-06-29 |
-| [El Panadero](https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [De camino al camino](https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS) | 5:40 | 2024-07-31 |  |
+| [El Panadero](https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [De camino al camino](https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS) | 5:40 | 2024-07-31 | 2024-11-29 |
 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 | 2022-06-09 |  |
 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 | 2022-06-30 | 2024-04-19 |
 | [El Viaje](https://open.spotify.com/track/0XR0jBbghtl9mPFu2sdrkw) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [El Viaje](https://open.spotify.com/album/6yYEqaQ9hk4TSbimaDF7Dw) | 4:41 | 2022-06-09 | 2022-11-25 |
@@ -149,6 +149,7 @@
 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 | 2022-06-09 |  |
 | [La Puerta Violeta \- ACOUSTIC HOME sessions](https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR) | [Los Acústicos](https://open.spotify.com/artist/5tAfcROTNt4bBxY2ARRQ7d), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ROZALÉN \(ACOUSTIC HOME sessions\)](https://open.spotify.com/album/3zvESYWLw2GyBIj2r0RBPI) | 3:26 | 2023-09-01 | 2023-10-10 |
 | [La saeta \- En Directo](https://open.spotify.com/track/2JRNVKJOMGsso4M8SzL3h2) | [Carmen Linares](https://open.spotify.com/artist/5nJo9d4dYPQ9MiimCUdOhI), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La saeta \(En Directo\)](https://open.spotify.com/album/248ms1gkrDf8FGRZTgI2gL) | 4:26 | 2024-02-29 |  |
+| [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:17 | 2024-11-28 |  |
 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 | 2022-06-09 |  |
 | [Las Cosas Que Importan](https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB) | 3:34 | 2023-03-02 | 2023-06-22 |
 | [Las Cosas Que Importan](https://open.spotify.com/track/4jzcN41E4BMPFYp0WSlfQ5) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/4m8whfllhHJ02RU5LwIySw) | 3:34 | 2023-05-29 | 2023-10-24 |

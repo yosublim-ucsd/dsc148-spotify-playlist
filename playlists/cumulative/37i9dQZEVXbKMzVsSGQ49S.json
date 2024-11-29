@@ -10422,7 +10422,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 122601,
       "name": "Eitt l\u00edti\u00f0 j\u00f3lalag",
       "url": "https://open.spotify.com/track/675lRaSVfxNG6Iyo3YNE2c"
@@ -16562,7 +16562,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 292461,
       "name": "heart pt. 6",
       "url": "https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2"
@@ -17040,7 +17040,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 217478,
       "name": "hey now (feat. dody6)",
       "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
@@ -20737,6 +20737,28 @@
     },
     {
       "album": {
+        "name": "J\u00f3laH\u00fabbaBubba",
+        "url": "https://open.spotify.com/album/5Fdpff3h19KJe3aJIYr3Zb"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Svala",
+          "url": "https://open.spotify.com/artist/2rd4gPVTRgvoI6H4xZiNZH"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142976,
+      "name": "J\u00f3laH\u00fabbaB\u00fabba",
+      "url": "https://open.spotify.com/track/5J83QenK5UT6fCY5RkIFfU"
+    },
+    {
+      "album": {
         "name": "J\u00f3lastelpa",
         "url": "https://open.spotify.com/album/7vgY201sgi1VlSV77mbYd8"
       },
@@ -23186,7 +23208,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -24776,7 +24798,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 233173,
       "name": "man at the garden",
       "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
@@ -27078,7 +27100,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 215109,
       "name": "Nei, nei, ekki um j\u00f3lin",
       "url": "https://open.spotify.com/track/2Oh97IIdGSJ8jrIeIAPwMO"
@@ -32088,7 +32110,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 275740,
       "name": "reincarnated",
       "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
@@ -33390,7 +33412,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -42982,7 +43004,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
@@ -45862,7 +45884,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 208097,
       "name": "\u00c9g s\u00e1 m\u00f6mmu kyssa j\u00f3lasvein",
       "url": "https://open.spotify.com/track/3vr2MSHWP81XA7JCYBI2BJ"
@@ -47064,6 +47086,28 @@
       "duration_ms": 187306,
       "name": "\u00de\u00fa og \u00e9g",
       "url": "https://open.spotify.com/track/25jn8bLTAFYEHcOVNnxBrx"
+    },
+    {
+      "album": {
+        "name": "J\u00f3laH\u00fabbaBubba",
+        "url": "https://open.spotify.com/album/5Fdpff3h19KJe3aJIYr3Zb"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Svala",
+          "url": "https://open.spotify.com/artist/2rd4gPVTRgvoI6H4xZiNZH"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219657,
+      "name": "\u00de\u00fa og \u00e9g og j\u00f3l",
+      "url": "https://open.spotify.com/track/61v6yFohOVt4M1O3yVmPJy"
     },
     {
       "album": {

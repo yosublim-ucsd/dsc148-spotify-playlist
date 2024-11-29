@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=PFD8hpVuRZeJhtgZU_IkRQ\">Cyfred, <a href=\"https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=6WTguHhMSl2Ei8AeFqN3Sg\">Young Jonn  & <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=b792QK9aQu6YawSMhuiOjg\">Scotts Maphuma",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Cyfred, Young Jonn, Scotts Maphuma",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -1349,6 +1349,40 @@
     },
     {
       "album": {
+        "name": "Daily 2K (feat. Dolly Ditebogo, Treble Deep & Thebelebe)",
+        "url": "https://open.spotify.com/album/1jm8M0uqMsTKcaWRhehh9z"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "Dolly Ditebogo",
+          "url": "https://open.spotify.com/artist/2Ot5RNeKB99oO2qp51ImHd"
+        },
+        {
+          "name": "Treble Deep",
+          "url": "https://open.spotify.com/artist/5IkFjqMp1uaVpT1LjQz4dH"
+        },
+        {
+          "name": "Thebelebe",
+          "url": "https://open.spotify.com/artist/1f1kaWtEN0VoOQE9XAJa1n"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241071,
+      "name": "Daily 2K (feat. Dolly Ditebogo, Treble Deep & Thebelebe)",
+      "url": "https://open.spotify.com/track/5P7FSWVJWMSSbdy4t8Gx97"
+    },
+    {
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
       },
@@ -1708,6 +1742,32 @@
       "duration_ms": 173222,
       "name": "eWallet (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0LaWpOpruJVwVBhe4oJloZ"
+    },
+    {
+      "album": {
+        "name": "Exes (Tune Day Remix)",
+        "url": "https://open.spotify.com/album/4YuGoiQQDq6lK47x8q9o58"
+      },
+      "artists": [
+        {
+          "name": "lincoln bayo",
+          "url": "https://open.spotify.com/artist/0DSuR7SwdX3uCC7eiRlrmI"
+        },
+        {
+          "name": "Tune Day",
+          "url": "https://open.spotify.com/artist/0hajQGB5craQ6IbeOo2vki"
+        },
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185450,
+      "name": "Exes - Tune Day Remix",
+      "url": "https://open.spotify.com/track/2zoULMtc7toVv50PMg7zwK"
     },
     {
       "album": {
@@ -3381,6 +3441,32 @@
     },
     {
       "album": {
+        "name": "Messi",
+        "url": "https://open.spotify.com/album/6K0BW933aMH1QdxeY3aNfq"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212365,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/3OsKkE7i8MlCctdK2jiy25"
+    },
+    {
+      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
       },
@@ -3884,6 +3970,28 @@
       "duration_ms": 129306,
       "name": "No Collab",
       "url": "https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g"
+    },
+    {
+      "album": {
+        "name": "The Godson",
+        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242033,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm"
     },
     {
       "album": {
@@ -5259,6 +5367,32 @@
     },
     {
       "album": {
+        "name": "Loyal/Thela",
+        "url": "https://open.spotify.com/album/5bGnb59QWowjUc0g8OUtGI"
+      },
+      "artists": [
+        {
+          "name": "DJ Rosco",
+          "url": "https://open.spotify.com/artist/2rggJGUHFnNPiNQPIUaFK5"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "PRIME DE 1ST",
+          "url": "https://open.spotify.com/artist/38pdIQf0MhUs0LNiEL3kQ0"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229285,
+      "name": "Thela (feat. Prime De 1st)",
+      "url": "https://open.spotify.com/track/60BR8SaYgLxUbVRVjaldcv"
+    },
+    {
+      "album": {
         "name": "Things on Things",
         "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
       },
@@ -5274,6 +5408,24 @@
       "duration_ms": 196179,
       "name": "Things on Things",
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
+    },
+    {
+      "album": {
+        "name": "Ti RIRI",
+        "url": "https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od"
+      },
+      "artists": [
+        {
+          "name": "Hustle",
+          "url": "https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "Ti RIRI",
+      "url": "https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac"
     },
     {
       "album": {

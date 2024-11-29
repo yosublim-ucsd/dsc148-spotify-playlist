@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,526 likes - 69 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,579 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 8 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |
 | 9 | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/track/4guuWK2dDbaascmSeE191L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/album/3mFvgCj4JaMobvWndyr5rx) | 4:11 |
 | 10 | [Jojo's Bizarre Adventure: Il vento d'oro \- Golden Wind \- Piano Version](https://open.spotify.com/track/1c14God6YcHEtLvE6swPV8) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Jojo's Bizarre Adventure: Il vento d'oro \- Golden Wind \(Piano Version\)](https://open.spotify.com/album/0fdoEPSgIRrba6LQMGJwDs) | 2:07 |
-| 11 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 |
+| 11 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン　THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 |
 | 12 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 |
 | 13 | [ぼくドラえもん](https://open.spotify.com/track/16sjh1TIXOwVnPX268XjWm) | [今井亮太郎](https://open.spotify.com/artist/1Ogp4yK6RFM50S1RKqU21b) | [藤子・F・不二雄 生誕90年記念 CAFÉ de FUJIKO・F・FUJIO MUSEUM](https://open.spotify.com/album/1UYgLb8yvCv769iwYywT0X) | 3:35 |
 | 14 | [めぐり](https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:50 |

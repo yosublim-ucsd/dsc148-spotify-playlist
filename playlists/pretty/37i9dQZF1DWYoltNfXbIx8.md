@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,214 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,238 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 41 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 |
 | 42 | [Meu Filho Minhas Regras](https://open.spotify.com/track/0Dlh7GZRUh2so0f3oHdSPe) | [Visáo De Rua](https://open.spotify.com/artist/4Vaxb77sF92LF9z8ODEYzD) | [Ruas de Sangue](https://open.spotify.com/album/684stUH00OGoXW4J8jACwR) | 6:00 |
 | 43 | [Falcao](https://open.spotify.com/track/3C6fRtMqdcQltHcepeWBCY) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [O Bagulho E Doido](https://open.spotify.com/album/4cHZppm23SgeWzt3JTU8At) | 4:29 |
-| 44 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 |
+| 44 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 |
 | 45 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/4MEJ6rpnZSOBgA9B5xaFpg) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/1uE5G37TRNrqrXJvn2hPNu) | 6:34 |
 | 46 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
 | 47 | [Só por Você](https://open.spotify.com/track/3Xpwp14Xqhwh7F5wwimrJ8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:19 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 55 | [Lembrança](https://open.spotify.com/track/5z2JnOo0ZxrZVkaFpeV5AJ) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 9:34 |
 | 56 | [Pule ou Empurre](https://open.spotify.com/track/2moNnYG8Elyx9SYuGW2fx8) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/3c0wTYodyznfErM03IUkBD) | 3:44 |
 | 57 | [Mano de Fé](https://open.spotify.com/track/1rXh5lDcW9sMeBizF2awvd) | [Potencial 3](https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH) | [Mano de Fé](https://open.spotify.com/album/4PmbdwTs4hoYztsDs60T1j) | 4:16 |
-| 58 | [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 |
+| 58 | [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 |
 | 59 | [Bomba H](https://open.spotify.com/track/5ppBRENgvv5yADpOGQ6iO7) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [O Crime do Raciocínio](https://open.spotify.com/album/0G72VfXULEv3NrRCT6dOW3) | 6:24 |
 | 60 | [Soldado do Morro](https://open.spotify.com/track/6DcxN9jzax8WgSl39XtTfx) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:52 |
 | 61 | [Um Pião de Vida Loka](https://open.spotify.com/track/212C6IYOKvgi2G9a1mAPd2) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 7:47 |

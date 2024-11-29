@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Liv Oddman",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : billie",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7CeRpRTzRuAyCmzcfdWCPW"
+      },
+      "artists": [
+        {
+          "name": "Sure",
+          "url": "https://open.spotify.com/artist/5yrXtZYureEFlY57R4KW44"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0"
+    },
+    {
+      "album": {
         "name": "Traction",
         "url": "https://open.spotify.com/album/7LiCC0Nft1rvcw5EBuhPFz"
       },
@@ -1619,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "J'adore le monde",
+        "url": "https://open.spotify.com/album/666tXOtUDxk7LxvRSR3FTs"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210045,
+      "name": "J'adore le monde - Short Version",
+      "url": "https://open.spotify.com/track/5JWEx6AJ89LuupEXLIsdSC"
+    },
+    {
+      "album": {
         "name": "J'ai plus peur",
         "url": "https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p"
       },
@@ -1674,6 +1714,24 @@
       "duration_ms": 195735,
       "name": "J'aimerais tellement",
       "url": "https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx"
+    },
+    {
+      "album": {
+        "name": "j'avance",
+        "url": "https://open.spotify.com/album/7D62OzP4uQdoOcp278gbKh"
+      },
+      "artists": [
+        {
+          "name": "billie",
+          "url": "https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "j'avance",
+      "url": "https://open.spotify.com/track/2Z7qNInldtbww87osjOnt2"
     },
     {
       "album": {
@@ -2910,7 +2968,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 170946,
       "name": "Premier Baiser",
       "url": "https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa"
@@ -3669,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "T'as les formes t'as les armes",
+        "url": "https://open.spotify.com/album/1etOZNIsJItzWO5GOMJWbk"
+      },
+      "artists": [
+        {
+          "name": "Akira & le Sabbat",
+          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "T'as les formes t'as les armes",
+      "url": "https://open.spotify.com/track/4sOtdy0lt9vHnrF6OgbdhK"
+    },
+    {
+      "album": {
         "name": "Ta Fiction",
         "url": "https://open.spotify.com/album/0NHVDvucQ8dxh5OY3oG3X6"
       },
@@ -3932,7 +4008,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 231199,
       "name": "Un Autre Nom",
       "url": "https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl"
@@ -4004,7 +4080,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 163453,
       "name": "VHS",
       "url": "https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS"
@@ -4112,7 +4188,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 219431,
       "name": "Wreckin' My Soul (Dance Around The Fire)",
       "url": "https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK"

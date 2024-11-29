@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Le meilleur de la scène alternative du moment\. Photo : Astral Bakers
+> Le meilleur de la scène alternative du moment\. Photo : Franz Ferdinand
 
-332 songs - 20 hr 5 min
+335 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [103](https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [103](https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i) | 4:05 | 2023-09-28 | 2023-11-03 |
 | [21](https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [21](https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20) | 2:40 | 2024-05-23 | 2024-07-27 |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-10 | 2024-11-08 |
-| [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 | 2024-10-24 |  |
+| [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 | 2024-10-24 | 2024-11-29 |
 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 | 2024-03-14 | 2024-04-05 |
 | [Adios](https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy), [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Adios](https://open.spotify.com/album/68HnsbMad7vqV3qg7a9NPY) | 3:20 | 2024-01-11 | 2024-04-05 |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-06-28 | 2024-09-20 |
@@ -25,6 +25,7 @@
 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 | 2024-01-11 | 2024-01-19 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-30 | 2024-11-08 |
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-11-07 |  |
+| [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 |  |
 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 | 2023-10-19 | 2023-12-22 |
 | [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 | 2023-09-28 | 2023-11-03 |
 | [Artschool](https://open.spotify.com/track/2sXSfa8TIXgadMsS0Cu9p2) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Artschool](https://open.spotify.com/album/777lgsIpK2gGjr1oL4SsG7) | 3:19 | 2023-11-30 | 2024-02-09 |
@@ -57,7 +58,7 @@
 | [Bygones](https://open.spotify.com/track/0jkye0KLXWdmmrsJ4Uld4H) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Hysterical Strength](https://open.spotify.com/album/0TIs1t3CvFQnwS6T7t2dol) | 3:50 | 2024-09-12 |  |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-04 | 2024-02-16 |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-18 | 2024-09-20 |
-| [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 | 2024-02-22 |  |
+| [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 | 2024-02-22 | 2024-11-29 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 | 2024-03-29 |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-12-22 |
 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 | 2024-07-26 | 2024-08-23 |
@@ -100,6 +101,7 @@
 | [Feel Alive](https://open.spotify.com/track/20dwwr5VsKtjOmPBSeIdxm) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [Feel Alive](https://open.spotify.com/album/7AcGQ0oCQfX55vHDU9VmCj) | 2:51 | 2024-02-15 | 2024-05-24 |
 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 | 2024-04-25 | 2024-07-27 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-09-28 | 2023-10-20 |
+| [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2024-11-28 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-08 | 2024-06-01 |
 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 | 2024-03-28 | 2024-07-27 |
 | [Flirting Again](https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Flirting Again](https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS) | 3:02 | 2024-06-27 | 2024-07-19 |
@@ -229,6 +231,7 @@
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-11 | 2024-06-01 |
 | [Plastic Island](https://open.spotify.com/track/5sZUG9b9QXD0sRDNy1z2vh) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 3:03 | 2023-09-28 | 2024-02-02 |
 | [Powertrippn'](https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:10 | 2024-07-18 | 2024-10-11 |
+| [Pray To Me](https://open.spotify.com/track/0cUwbbBAQBIAVOoeViCIeb) | [BAMBARA](https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6) | [Pray To Me](https://open.spotify.com/album/11zYqXZ5SJzgXUh0HADIcg) | 3:29 | 2024-11-28 |  |
 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-07-18 | 2024-10-18 |
 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 | 2024-11-15 |  |
 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 | 2024-07-26 | 2024-09-13 |
@@ -314,7 +317,7 @@
 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 | 2024-03-28 | 2024-07-27 |
 | [Unwanted](https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Unwanted](https://open.spotify.com/album/5sl41tm6B1uqOx7PB0sAas) | 3:47 | 2023-11-02 | 2023-11-24 |
 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 | 2024-01-18 | 2024-02-16 |
-| [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 | 2024-06-20 |  |
+| [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 | 2024-06-20 | 2024-11-29 |
 | [Walk Through Fire](https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Walk Through Fire](https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc) | 3:23 | 2024-04-18 | 2024-07-19 |
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 | 2023-11-24 |
 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-26 | 2024-03-01 |

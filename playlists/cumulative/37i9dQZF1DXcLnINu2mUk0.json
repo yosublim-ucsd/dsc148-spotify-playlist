@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Agir",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Satiro, Deedz B",
   "name": "Seda",
   "tracks": [
     {
@@ -2285,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5ykTGL0e6veUP5QurhZ5zg"
+      },
+      "artists": [
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        },
+        {
+          "name": "Harley KSD",
+          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/1DSrE1U66j5YwvLA0loLru"
+    },
+    {
+      "album": {
         "name": "CHAMPAIN",
         "url": "https://open.spotify.com/album/1IPt0tSK5HEClRoL8Cd3iA"
       },
@@ -3612,7 +3634,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207602,
       "name": "Dona do Love",
       "url": "https://open.spotify.com/track/0yJDSlfiupPOhmBFFZaWrQ"
@@ -5019,6 +5041,28 @@
     },
     {
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/2EXADaUYYcKsfFX3jx5k3v"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        },
+        {
+          "name": "Deedz B",
+          "url": "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/0ZFsv8pDmhrRgsWkb0Lb5L"
+    },
+    {
+      "album": {
         "name": "Forever Na Street",
         "url": "https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk"
       },
@@ -5416,7 +5460,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
@@ -8958,6 +9002,28 @@
       "duration_ms": 236064,
       "name": "Outono",
       "url": "https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ"
+    },
+    {
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/4zGXOrEZt02O30dyowjV6A"
+      },
+      "artists": [
+        {
+          "name": "Lunn",
+          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125825,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/5Arc1bI723tSVDRLEWKcVG"
     },
     {
       "album": {
@@ -12898,7 +12964,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165448,
       "name": "Vidrado",
       "url": "https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ"

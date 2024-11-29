@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,126 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,187 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 53 | [Move](https://open.spotify.com/track/25mp9kXFVDGHQFPWSOw2TK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX) | [Move](https://open.spotify.com/album/0MrR3oM9oDYT0xKSYglKiT) | 3:55 |
 | 54 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |
 | 55 | [Better With You](https://open.spotify.com/track/7n8JRw3TnnUTsujwlOBefC) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Better With You](https://open.spotify.com/album/7D0yeqSsHNqH7zIM4znFEw) | 3:42 |
-| 56 | [Glow Girl](https://open.spotify.com/track/1VsSbDsTrTmycXKUui7lwG) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Majeste Pearson](https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ), [Mike Todd](https://open.spotify.com/artist/4cismFyP7xPVkee8c4agtb) | [Undefeated Champion](https://open.spotify.com/album/62lvhc9b0g7gkj9eFD9Tsn) | 3:22 |
+| 56 | [Glow Girl](https://open.spotify.com/track/1VsSbDsTrTmycXKUui7lwG) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Majeste Pearson](https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ), [Mike Todd](https://open.spotify.com/artist/4QpvRL62L5TZ19EWL8Wq2s) | [Undefeated Champion](https://open.spotify.com/album/62lvhc9b0g7gkj9eFD9Tsn) | 3:22 |
 | 57 | [Save Me](https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Free Love](https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q) | 3:36 |
 | 58 | [Distance](https://open.spotify.com/track/0Qup1ObuN08AcVl01Yq4bg) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM) | [Distance](https://open.spotify.com/album/4dkvfwQrzj9OAs0VxLB23e) | 3:45 |
 | 59 | [Still Standing](https://open.spotify.com/track/3oC35n7citT8lcBZHOAKhf) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [SET Sail](https://open.spotify.com/album/1UuVfMjQUk9quzZr0hx97U) | 2:39 |

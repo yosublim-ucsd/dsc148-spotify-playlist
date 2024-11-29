@@ -5586,7 +5586,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
@@ -5718,6 +5718,28 @@
       "duration_ms": 147987,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1sX4ucOwEW4sKN8pKaZnT8"
+    },
+    {
+      "album": {
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/0RAieBA8Jo2DRPO60BRehK"
+      },
+      "artists": [
+        {
+          "name": "Jimi The Kween",
+          "url": "https://open.spotify.com/artist/0GsG618ekRVVUw6shNuxT7"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183248,
+      "name": "Feels Good",
+      "url": "https://open.spotify.com/track/4MdFNU1CTGDco6Hqva7Sku"
     },
     {
       "album": {
@@ -7504,7 +7526,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 294000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
@@ -7574,7 +7596,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149673,
       "name": "Heart Like Mine (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
@@ -9226,6 +9248,32 @@
       "duration_ms": 183415,
       "name": "Keep It Comin",
       "url": "https://open.spotify.com/track/3tyw03CsA7n00xC5hnvjuX"
+    },
+    {
+      "album": {
+        "name": "Keep It Exciting",
+        "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Qobra",
+          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139009,
+      "name": "Keep It Exciting",
+      "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
       "album": {
@@ -12559,6 +12607,28 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/3scl0Lfq92CcfbIA7VxrVC"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6ozVpMaT25G5u9V9B1R8JL"
+    },
+    {
+      "album": {
         "name": "Oh No (Remix)",
         "url": "https://open.spotify.com/album/3dKoHMuyH3KvHRaljZTh8E"
       },
@@ -13228,7 +13298,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 234832,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1"
@@ -13302,6 +13372,28 @@
       "duration_ms": 158582,
       "name": "People Happy",
       "url": "https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH"
+    },
+    {
+      "album": {
+        "name": "People Happy (KLP Remix)",
+        "url": "https://open.spotify.com/album/2BYaGNaKdOirsrKMcF57MZ"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166759,
+      "name": "People Happy - KLP Remix",
+      "url": "https://open.spotify.com/track/5IfUyU5AC82xQBEek4UXOn"
     },
     {
       "album": {
@@ -13500,7 +13592,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 226836,
       "name": "Polite",
       "url": "https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv"
@@ -13806,6 +13898,32 @@
       "duration_ms": 151384,
       "name": "Public Demand",
       "url": "https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK"
+    },
+    {
+      "album": {
+        "name": "Pull Up (feat. Akz)",
+        "url": "https://open.spotify.com/album/1FnVmOTUExrgOF2GKT2oXZ"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        },
+        {
+          "name": "CERCA",
+          "url": "https://open.spotify.com/artist/0Dhv9zDcecamU4xLCL6pyN"
+        },
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Pull Up (feat. Akz)",
+      "url": "https://open.spotify.com/track/5dNrJMX6gZRqUN2hSNlcjy"
     },
     {
       "album": {
@@ -16622,7 +16740,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200045,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/2KwNrBsF6FjMJG0ffXhHH0"

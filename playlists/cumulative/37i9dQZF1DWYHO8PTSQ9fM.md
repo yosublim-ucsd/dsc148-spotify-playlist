@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> ElGrandeToto en tête de la plus grande playlist au Maroc.
+> Lazaro en tête de la plus grande playlist au Maroc.
 
 344 songs - 18 hr 25 min
 

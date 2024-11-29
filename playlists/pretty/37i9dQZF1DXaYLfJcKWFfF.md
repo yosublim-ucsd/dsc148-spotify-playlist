@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Baaba J
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,840 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,854 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 6 | [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 |
 | 7 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 |
 | 8 | [Alive](https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ) | [Thousand Voice](https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz) | [Alive](https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe) | 3:36 |
-| 9 | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Alvie Bitemo](https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO) | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s) | 3:40 |
+| 9 | [dEMOn](https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [dEMOn](https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP) | 4:36 |
 | 10 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 11 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 |
 | 12 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 |
 | 50 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 |
 
-Snapshot ID: `Z0AY8AAAAAAD1N0moCV7s4sTMlvYGqN9`
+Snapshot ID: `Z0kEPAAAAACc4TUNONmwQSMisszBrGmH`

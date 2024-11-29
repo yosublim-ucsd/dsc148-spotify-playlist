@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195416,
       "name": "Little Less Lonely",
       "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
@@ -862,6 +862,24 @@
       "duration_ms": 174160,
       "name": "Number 34",
       "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits 1998-2008",
+        "url": "https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239106,
+      "name": "Open Ended Heartache",
+      "url": "https://open.spotify.com/track/60tADaE8MpEuDbaOFl1eVZ"
     },
     {
       "album": {

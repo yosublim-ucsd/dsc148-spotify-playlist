@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Josey
+> African dance party music from the continent to Paris\. Photo : Fior 2 Bior
 
-208 songs - 11 hr 44 min
+210 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 | 2023-02-03 |
 | [Abacou](https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [Aboutou Roots](https://open.spotify.com/artist/4Mg9ctyuvtX852SAMNfLso) | [Abacou](https://open.spotify.com/album/5oko0ARkOH4fnLFuABsdqR) | 4:02 | 2022-09-15 | 2022-12-09 |
 | [Abidjan Est Doux](https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Abidjan Est Doux](https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4) | 3:44 | 2023-09-28 | 2023-12-01 |
-| [Abidjan Paris](https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye) | [Zagba Le Requin](https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Abidjan Paris](https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2) | 3:22 | 2023-05-18 |  |
+| [Abidjan Paris](https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye) | [Zagba Le Requin](https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Abidjan Paris](https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2) | 3:22 | 2023-05-18 | 2024-11-29 |
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 | 2022-12-16 |
 | [Aicha trambler](https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB) | [Dj domi 226](https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ) | [Aicha trambler](https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et) | 2:57 | 2023-09-21 | 2024-09-27 |
 | [Allez Dire](https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Allez Dire](https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve) | 3:31 | 2022-10-27 | 2023-05-19 |
@@ -27,11 +27,12 @@
 | [Avant de partir](https://open.spotify.com/track/5G9eZDVh8yomG2iUfu2Qxn) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [El Jay](https://open.spotify.com/artist/7LRIRop14jp1Z5jtwNManQ) | [Avant de partir](https://open.spotify.com/album/56WIVaUQZ2XwAbQI47DFcz) | 2:36 | 2024-04-18 | 2024-05-17 |
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 | 2024-04-19 |
+| [BBL](https://open.spotify.com/track/1OuPjyDcQxYJTJkLnsvbsX) | [ESMEY](https://open.spotify.com/artist/78K6aNk5RZ3DWfNqMqSIgu), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [BBL](https://open.spotify.com/album/29roxzFxZIiIxSDVkdgRuV) | 2:30 | 2024-11-28 |  |
 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 |  |
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
-| [Bio](https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [Bio](https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5) | 3:05 | 2024-05-16 |  |
+| [Bio](https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [Bio](https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5) | 3:05 | 2024-05-16 | 2024-11-29 |
 | [Blocage](https://open.spotify.com/track/1HliCFmp6TxhvMewIJlTs6) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Blocage](https://open.spotify.com/album/5Ka7VNTZwPq9OslyBiS3Fu) | 2:20 | 2023-06-08 | 2024-01-12 |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 | 2022-05-27 |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 | 2023-04-07 |
@@ -58,6 +59,7 @@
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 | 2023-11-09 | 2023-12-22 |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 | 2023-11-12 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
+| [DANI AGN'](https://open.spotify.com/track/00W5q1hvkgyUKC6METOcwh) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [DANI AGN'](https://open.spotify.com/album/7re6sfBf6dnhpw7qff5mbY) | 2:54 | 2024-11-28 |  |
 | [Danse comme nicapol](https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK) | [Juncko](https://open.spotify.com/artist/4tKswSKzVZ0hQ35Fo5TLes) | [Danse comme nicapol](https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy) | 2:47 | 2024-08-01 |  |
 | [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 | 2024-03-07 |  |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |

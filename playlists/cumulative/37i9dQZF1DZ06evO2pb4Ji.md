@@ -4,7 +4,7 @@
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 10 min
+94 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kindred, the Eternal Hunters \(From League of Legends: Season 5\)](https://open.spotify.com/track/7ki1GOGTzJGJAvxv6LndoR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/0AaYIwH5G6w82B8iKOWCCb) | 2:33 | 2024-01-29 | 2024-09-18 |
 | [Lee Sin, the Blind Monk](https://open.spotify.com/track/7K4eBNwSXioHdSkzNeNUph) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Lee Sin, the Blind Monk](https://open.spotify.com/album/45FmQlpIspEOjoK8yGMtaC) | 4:03 | 2024-05-07 | 2024-06-30 |
 | [Legends Never Die](https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Legends Never Die](https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA) | 3:55 | 2024-01-29 |  |
+| [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-11-29 |  |
 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 | 2024-03-02 | 2024-11-13 |
 | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU) | 3:09 | 2024-09-16 |  |
 | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/track/40giNwfX1pR3smltxvs3dB) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5qQkzCr8H5NyzkzVKlGGMm) | 3:09 | 2024-01-29 | 2024-09-16 |

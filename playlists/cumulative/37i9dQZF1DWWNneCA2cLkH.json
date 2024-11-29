@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Tinariwen",
+  "description": "These are the eclectic sounds of now. Cover: Good Morning",
   "name": "Alt Here",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 190677,
       "name": "A Hideous Win",
       "url": "https://open.spotify.com/track/2LBuGMikI1yYl1lMjOdWMK"
+    },
+    {
+      "album": {
+        "name": "The Accident",
+        "url": "https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "A Telephone Rings",
+      "url": "https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4"
     },
     {
       "album": {
@@ -651,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Bodys Chorus",
+        "url": "https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238220,
+      "name": "Bodys Chorus",
+      "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ"
       },
@@ -698,7 +734,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 262266,
       "name": "Bothering Me",
       "url": "https://open.spotify.com/track/74St96khEjAVTgMKDze3dr"
@@ -716,7 +752,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 136875,
       "name": "bounce",
       "url": "https://open.spotify.com/track/2j7eNmpJfj0wpT5oi9uW0v"
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 271920,
       "name": "How Can It Be?",
       "url": "https://open.spotify.com/track/4BwpyV0n4VQ0AvUme6pZRW"
@@ -2824,7 +2860,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 225160,
       "name": "Lady Sun",
       "url": "https://open.spotify.com/track/3tyHA9IfvUH9zJuhogyHa9"
@@ -3733,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Any Signs of Love",
+        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323304,
+      "name": "Not Too Late",
+      "url": "https://open.spotify.com/track/3s39wf2u7Yg2wh3SNvzWnZ"
+    },
+    {
+      "album": {
         "name": "The Making of Silk",
         "url": "https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT"
       },
@@ -3946,7 +4000,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203340,
       "name": "Only One I Want",
       "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
@@ -4203,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "album": {
         "name": "Part Time Chaos Part Time Calmness",
         "url": "https://open.spotify.com/album/2Yr7OK3Aj3dlG66BLrlU47"
       },
@@ -4280,7 +4356,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207333,
       "name": "Rebel Soul",
       "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
@@ -4374,6 +4450,24 @@
       "duration_ms": 196944,
       "name": "Rosy",
       "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
+    },
+    {
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
       "album": {
@@ -6100,6 +6194,42 @@
       "duration_ms": 196000,
       "name": "Wata M\u00e4wi",
       "url": "https://open.spotify.com/track/0Zp4XolBTA7q4SpBCDtIdt"
+    },
+    {
+      "album": {
+        "name": "DON WEST",
+        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284026,
+      "name": "What Turns You On",
+      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
+    },
+    {
+      "album": {
+        "name": "Londra",
+        "url": "https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151436,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/7vd1hbwEWmPQ9feNxlDKIq"
     },
     {
       "album": {

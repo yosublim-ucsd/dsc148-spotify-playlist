@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 67142,
+  "num_followers": 67424,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "Capital Lights",
-          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "His Favorite Christmas Story",
-      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas (Baby Please Come Home)",
         "url": "https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 187355,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "Capital Lights",
+          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "His Favorite Christmas Story",
+      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Jack Skellington",
-        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
-      },
-      "artists": [
-        {
-          "name": "The Jins",
-          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
-        }
-      ],
-      "duration_ms": 173695,
-      "name": "Jack Skellington",
-      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Jack Skellington",
+        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "duration_ms": 173695,
+      "name": "Jack Skellington",
+      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -707,6 +707,38 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
+      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "The Human Highlight Reel",
+        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Decemberism",
+      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Father Christmas",
         "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
       },
@@ -735,38 +767,6 @@
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "The Human Highlight Reel",
-        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Decemberism",
-      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
-      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Xmas Exile",
-        "url": "https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG"
-      },
-      "artists": [
-        {
-          "name": "Settle Your Scores",
-          "url": "https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O"
-        }
-      ],
-      "duration_ms": 176357,
-      "name": "Xmas Exile",
-      "url": "https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 178228,
       "name": "Under the Mistletoe",
       "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Xmas Exile",
+        "url": "https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG"
+      },
+      "artists": [
+        {
+          "name": "Settle Your Scores",
+          "url": "https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O"
+        }
+      ],
+      "duration_ms": 176357,
+      "name": "Xmas Exile",
+      "url": "https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -919,38 +919,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "I Caught Fire",
-        "url": "https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Alone This Holiday",
-      "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Christmas is Canceled",
-        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
-      },
-      "artists": [
-        {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "Christmas is Canceled",
-      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 171145,
       "name": "Christmas, Baby Please Come Home",
       "url": "https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas is Canceled",
+        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
+      },
+      "artists": [
+        {
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "Christmas is Canceled",
+      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "I Caught Fire",
+        "url": "https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Alone This Holiday",
+      "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Piebald Presents To You, A Musical Christmas Adventure",
-        "url": "https://open.spotify.com/album/6GoRZ10QREhvW1aYcc9eSL"
-      },
-      "artists": [
-        {
-          "name": "Piebald",
-          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
-        }
-      ],
-      "duration_ms": 246503,
-      "name": "(All I Want For Christmas Is To) Rage With My Friends",
-      "url": "https://open.spotify.com/track/5O0Q6cWPjvqVJcLSxHDImq"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Fairytale of New York",
         "url": "https://open.spotify.com/album/4dkhlhqXYfg5jFDHUT1nVK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 274124,
       "name": "Fairytale of New York",
       "url": "https://open.spotify.com/track/2V87ilIfikyiHJ4bU46YNg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Piebald Presents To You, A Musical Christmas Adventure",
+        "url": "https://open.spotify.com/album/6GoRZ10QREhvW1aYcc9eSL"
+      },
+      "artists": [
+        {
+          "name": "Piebald",
+          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
+        }
+      ],
+      "duration_ms": 246503,
+      "name": "(All I Want For Christmas Is To) Rage With My Friends",
+      "url": "https://open.spotify.com/track/5O0Q6cWPjvqVJcLSxHDImq"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Lullaby",
-        "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
-      },
-      "artists": [
-        {
-          "name": "CJ Ramone",
-          "url": "https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp"
-        }
-      ],
-      "duration_ms": 184532,
-      "name": "Christmas Lullaby",
-      "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Cards",
         "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 246074,
       "name": "Christmas Cards",
       "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Lullaby",
+        "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
+      },
+      "artists": [
+        {
+          "name": "CJ Ramone",
+          "url": "https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp"
+        }
+      ],
+      "duration_ms": 184532,
+      "name": "Christmas Lullaby",
+      "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Get This Christmas Right",
-        "url": "https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1"
-      },
-      "artists": [
-        {
-          "name": "Jaret and Kelly",
-          "url": "https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT"
-        }
-      ],
-      "duration_ms": 131292,
-      "name": "Get This Christmas Right",
-      "url": "https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The Myrrhderers Sleigh Christmas",
         "url": "https://open.spotify.com/album/4X3JPkIzfXiukzcFfDUOxu"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 190744,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Get This Christmas Right",
+        "url": "https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1"
+      },
+      "artists": [
+        {
+          "name": "Jaret and Kelly",
+          "url": "https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT"
+        }
+      ],
+      "duration_ms": 131292,
+      "name": "Get This Christmas Right",
+      "url": "https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Remastered 2011 / Edited Version",
       "url": "https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Christmas EP",
+        "url": "https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "A GC Christmas, Pt. 1",
         "url": "https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/73ifVn1xIZBAEW7RmoDVri"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Social",
-          "url": "https://open.spotify.com/artist/48PBERzNchz4E1ZYAiQWUa"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/3UQOYpKeLqhvy2inGi9YIZ"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas EP",
-        "url": "https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/73ifVn1xIZBAEW7RmoDVri"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Moonlight Social",
+          "url": "https://open.spotify.com/artist/48PBERzNchz4E1ZYAiQWUa"
         }
       ],
-      "duration_ms": 187333,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7"
+      "duration_ms": 112087,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/3UQOYpKeLqhvy2inGi9YIZ"
     },
     {
       "added_at": "2023-11-18 13:41:26",

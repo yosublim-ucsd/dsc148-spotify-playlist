@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Leonie Biney",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Annie-Dog",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4794,6 +4794,24 @@
       "duration_ms": 192786,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS"
+    },
+    {
+      "album": {
+        "name": "The Feeling in My Fingertips",
+        "url": "https://open.spotify.com/album/7i9Y3pLu36bJWVsaIdlfso"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189905,
+      "name": "The Feeling in My Fingertips",
+      "url": "https://open.spotify.com/track/6jGGcDcYPO9iNvkmpBaEth"
     },
     {
       "album": {

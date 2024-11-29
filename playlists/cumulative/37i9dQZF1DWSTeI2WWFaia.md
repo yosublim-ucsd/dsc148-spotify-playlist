@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs
 
-725 songs - 1 day 14 hr 49 min
+726 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-09-03 | 2022-10-01 |
 | [BUCKET](https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:05 | 2022-12-16 | 2023-03-05 |
 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 | 2023-05-12 | 2023-08-08 |
-| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 |  |
+| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 | 2024-11-29 |
 | [Buffalo Freestyle \(feat\. Drake\)](https://open.spotify.com/track/6sd45lml04PdPBeXbduJzn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buffalo Butch, Vol\. 1](https://open.spotify.com/album/6MM5ngsgBgSK4oKU5cNTY4) | 3:10 | 2024-08-23 | 2024-08-31 |
 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 | 2024-11-08 |  |
 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 | 2024-05-03 |  |
@@ -224,6 +224,7 @@
 | [Fight For Love](https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Fight For Love](https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1) | 2:56 | 2024-05-31 | 2024-07-12 |
 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 | 2022-08-19 | 2022-09-03 |
 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 | 2023-06-30 | 2023-08-03 |
+| [Fish Grease](https://open.spotify.com/track/4lqcL32AkuxcTSQyuLp4s5) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 3:09 | 2024-11-23 |  |
 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 | 2023-09-22 | 2024-05-05 |
 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 | 2023-07-28 | 2024-04-30 |
 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-02-24 | 2023-07-08 |

@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: FLEMMING
 
-304 songs - 15 hr 47 min
+305 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 | 2023-12-21 | 2024-04-19 |
 | [17](https://open.spotify.com/track/6Xd7Hqo1E5jnX5GtEt53xi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/70RE2v6ce8EB3CajsAzv2c) | 2:42 | 2024-04-16 | 2024-08-01 |
 | [17 Miljoen Mensen \- Live @538 in Ahoy](https://open.spotify.com/track/7e42rjxCt8tPjglU9VyBcz) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [17 Miljoen Mensen \(Live @538 in Ahoy\)](https://open.spotify.com/album/5yEomRiNf4W4hXsNiuZVIX) | 1:47 | 2023-02-24 | 2023-06-15 |
-| [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 | 2024-10-03 |  |
+| [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 | 2024-10-03 | 2024-11-29 |
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 | 2024-02-16 |
 | [Achterop](https://open.spotify.com/track/5JtmyVfB56KjesfcJlIQAA) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Achterop](https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT) | 2:40 | 2023-02-24 | 2023-11-11 |
 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 | 2023-12-07 | 2024-06-21 |
@@ -273,6 +273,7 @@
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-05-15 | 2024-03-20 |
 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 | 2024-07-25 |  |
 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-03-19 | 2024-06-21 |
+| [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 | 2024-11-28 |  |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2024-10-24 |  |
 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 | 2023-02-24 |  |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-05-02 |  |

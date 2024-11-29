@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Gh\u00e9 L\u1ea1i Mi\u1ec1n T\u00e2y",
+        "url": "https://open.spotify.com/album/0z8JWJ8LtFPuRlt3YOyM6X"
+      },
+      "artists": [
+        {
+          "name": "Di\u1ec7u Ki\u00ean",
+          "url": "https://open.spotify.com/artist/3q7Fuv1HpyqegV9YpMXCp7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Gh\u00e9 L\u1ea1i Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/0r2mGgutxTg2eVKE0tA0uA"
+    },
+    {
+      "album": {
         "name": "Giac Mo Canh Co",
         "url": "https://open.spotify.com/album/3wvCHjgAo8GHkBvoLAD7j6"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 265411,
       "name": "V\u1ec1 Qu\u00ea \u0102n T\u1ebft",
       "url": "https://open.spotify.com/track/2GkhcLv6UX9INsvy4mvQ62"

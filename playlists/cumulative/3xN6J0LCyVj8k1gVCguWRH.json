@@ -6269,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "balance",
+        "url": "https://open.spotify.com/album/46dZMLToBlz9irqtHIgEdL"
+      },
+      "artists": [
+        {
+          "name": "rallycap",
+          "url": "https://open.spotify.com/artist/67iUR9cYHmQYoNKEMKAEpO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161140,
+      "name": "balance",
+      "url": "https://open.spotify.com/track/7Aa6jXyjFcK6MLyyUG9VL0"
+    },
+    {
+      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E"
       },
@@ -25584,6 +25602,24 @@
       "duration_ms": 194000,
       "name": "Freud's Disciples",
       "url": "https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I"
+    },
+    {
+      "album": {
+        "name": "FRFS",
+        "url": "https://open.spotify.com/album/171rOTZubRAFl1FzdXHUBW"
+      },
+      "artists": [
+        {
+          "name": "Toni Jones",
+          "url": "https://open.spotify.com/artist/6PXEwzEXJYzH2DcpU3WVOa"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "FRFS",
+      "url": "https://open.spotify.com/track/2MOIfm6dznK772rXegA1yp"
     },
     {
       "album": {
@@ -47718,7 +47754,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 241973,
       "name": "Mystery's Golden",
       "url": "https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8"

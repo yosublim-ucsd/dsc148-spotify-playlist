@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1513741,
+  "num_followers": 1513753,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 173858,
       "name": "Quem Sabe",
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Espera a Primavera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 254878,
+      "name": "Espera a Primavera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 275750,
       "name": "B\u00e9di Beat (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Espera a Primavera (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 254878,
-      "name": "Espera a Primavera - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00f3s 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "N\u00f3s 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Interestelar",
         "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 226714,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "N\u00f3s 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "N\u00f3s 3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Valeu a Pena (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Valeu a Pena - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Valeu a Pena (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Valeu a Pena - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1471,6 +1439,38 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-08-02 18:37:00",

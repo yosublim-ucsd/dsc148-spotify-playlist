@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 49 songs - 2 hr 53 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 47 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 | 48 | [Baboon](https://open.spotify.com/track/7qPAVrld2XeywUukKEgBXs) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:16 |
 | 49 | [Family Happiness](https://open.spotify.com/track/2lbRuGZlv4jumboWPeRA59) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:57 |
+| 50 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 |
 
-Snapshot ID: `AAAAO2GFsTEFjev6LQ3uKf78E8j34bH+`
+Snapshot ID: `AAAAPKrgxLclvTRWRG18mI/uKkmxhhlB`

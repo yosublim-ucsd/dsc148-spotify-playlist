@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,749 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,754 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 41 | [Crying Nut\(크라잉넛\) \- Stage Comment 2](https://open.spotify.com/track/1GKdA67BRvGddMRDD5116m) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:14 |
 | 42 | [펑크걸 Punk Girl](https://open.spotify.com/track/6tKgjhRA8gS61JBZm4DqQf) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut Best Wild Wild Live](https://open.spotify.com/album/7nX1dCQhdkx2AmjHD1zDs7) | 2:50 |
 | 43 | [Crying Nut\(크라잉넛\) \- Stage Comment 3](https://open.spotify.com/track/3alw84TJ4sMZSrIDr6KtEo) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:29 |
-| 44 | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1) | 2:55 |
+| 44 | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1) | 2:55 |
 | 45 | [Crying Nut\(크라잉넛\) \- Stage Comment 4](https://open.spotify.com/track/4Xc0nRIaIiBllEBDW0nDFy) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:50 |
 | 46 | [Sooni Heading to the Cosmos \- 25th Anniversary Version](https://open.spotify.com/track/3XSP7ac7CEEjlwpjHejj1D) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [CRYING NUT 25th Anniversary Best Album](https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko) | 4:33 |
 | 47 | [Crying Nut\(크라잉넛\) \- Stage Comment 5](https://open.spotify.com/track/36aGOB0n0nSEIIBPhbxn56) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:06 |

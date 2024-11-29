@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 330394,
+  "num_followers": 330423,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAACV4YWQjK79vyGOSHyRMZX7",
+  "snapshot_id": "Z0ZhAAAAAABYc8sVwgz3SFQEMrw7WTmT",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Con Olor a Monte (En Vivo)",
         "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 205543,
       "name": "Kil\u00f3metro 11-60 - En Vivo",
       "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -767,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Que No Me Cuenten",
-        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 127728,
-      "name": "Pa' Que No Me Cuenten",
-      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s de una Raz\u00f3n",
-        "url": "https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198129,
-      "name": "M\u00e1s de una Raz\u00f3n",
-      "url": "https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gallo Jugado",
         "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 142013,
       "name": "La Propina",
       "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Que No Me Cuenten",
+        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 127728,
+      "name": "Pa' Que No Me Cuenten",
+      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s de una Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198129,
+      "name": "M\u00e1s de una Raz\u00f3n",
+      "url": "https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92"
     },
     {
       "added_at": null,

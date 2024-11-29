@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Jeffrey Heesen & Mike Peterson",
+  "description": "De nieuwste Hollandse hits. Cover: Donnie, Robert van Hemert & Trobi",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 181610,
       "name": "De Hele Wereld Mag Het Weten",
       "url": "https://open.spotify.com/track/6F5lpnzXy4dGno4tBon7UK"
@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Duizend kussen",
+        "url": "https://open.spotify.com/album/0HXNMyRDmf1xSibq4QQMGi"
+      },
+      "artists": [
+        {
+          "name": "Melissa Smilda",
+          "url": "https://open.spotify.com/artist/4AA6vrWQc9c05MQLorDzu1"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169158,
+      "name": "Duizend kussen",
+      "url": "https://open.spotify.com/track/1I4U08uGUi9zqpG5SzTpSY"
+    },
+    {
+      "album": {
         "name": "Echte Liefde",
         "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 161237,
       "name": "Fix Dit",
       "url": "https://open.spotify.com/track/0D8HUOCvEg6wI14uMRMMnp"
@@ -1108,6 +1126,24 @@
       "duration_ms": 216758,
       "name": "Hou me vast",
       "url": "https://open.spotify.com/track/1W6FvzWv11decQuYPkHPyB"
+    },
+    {
+      "album": {
+        "name": "Ik Ben Een Dromer",
+        "url": "https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "Ik Ben Een Dromer",
+      "url": "https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht"
     },
     {
       "album": {
@@ -1586,7 +1622,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 187002,
       "name": "Kater Van De Liefde",
       "url": "https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej"
@@ -2481,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "Slapen Doen We 's Nachts",
+        "url": "https://open.spotify.com/album/28oenfZzaK5tPqS4P3BRgq"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        },
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179233,
+      "name": "Slapen Doen We 's Nachts",
+      "url": "https://open.spotify.com/track/4yU5M9QE2leP2kBCW4ggG7"
+    },
+    {
+      "album": {
         "name": "Sluitingstijd",
         "url": "https://open.spotify.com/album/7rqRsWaApueRcN8aJkT9Pz"
       },
@@ -2514,7 +2572,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175520,
       "name": "Space Piloot",
       "url": "https://open.spotify.com/track/6fSLqvEylA2IUrvD7X6l8T"
@@ -2637,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "Tot In De Laatste Uurtjes",
+        "url": "https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168814,
+      "name": "Tot In De Laatste Uurtjes",
+      "url": "https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb"
+    },
+    {
+      "album": {
         "name": "Tranen van verdriet",
         "url": "https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq"
       },
@@ -2648,7 +2724,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 192574,
       "name": "Tranen van verdriet",
       "url": "https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe"
@@ -2740,6 +2816,24 @@
       "duration_ms": 158526,
       "name": "Venten Voor Me Centen",
       "url": "https://open.spotify.com/track/63dE87uLfQbiA1lwNq880B"
+    },
+    {
+      "album": {
+        "name": "Verder met m'n leven",
+        "url": "https://open.spotify.com/album/3Yh72jE3SNMTxSOKOdRXM3"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "Verder met m'n leven",
+      "url": "https://open.spotify.com/track/0PAlZloFNKcaOytm3Vhmcq"
     },
     {
       "album": {
@@ -2848,6 +2942,24 @@
       "duration_ms": 162161,
       "name": "Voel Voel Voel",
       "url": "https://open.spotify.com/track/2erib8JNK3cb4PiYk1cHvo"
+    },
+    {
+      "album": {
+        "name": "Voor Altijd In Ons Hart",
+        "url": "https://open.spotify.com/album/1oYeVuKHYEargOpCPTuZFu"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201498,
+      "name": "Voor Altijd In Ons Hart",
+      "url": "https://open.spotify.com/track/4TwZ4I2gv1QiyrvseV6XzF"
     },
     {
       "album": {

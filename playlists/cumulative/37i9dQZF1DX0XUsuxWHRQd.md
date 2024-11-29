@@ -4,7 +4,7 @@
 
 > Future, Metro, Kendrick, Tyler and Carti make All\-RapCaviar's 1st Team\. Plus new music from Jack Harlow and BossMan Dlow.
 
-2,234 songs - 4 day 19 hr 45 min
+2,235 songs - 4 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-05-24 | 2024-06-01 |
 | [GRoCERIES](https://open.spotify.com/track/0yFvWTLs3iIwDbc91noXGT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4tvWn8rsp56lzyMKV409Og) | 3:46 | 2019-05-26\* | 2019-08-13 |
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-31 | 2023-05-27 |
+| [Grown Simba](https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Warm Up](https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY) | 3:52 | 2024-11-28 |  |
 | [GTA \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wAFfH245FJP77ZugGVISe) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 2:30 | 2020-11-20 | 2021-01-23 |
 | [Gucci Flow](https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Gucci Flow](https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q) | 2:11 | 2022-10-14 | 2022-11-19 |
 | [GUESS WHAT \(feat\. Rick Ross\)](https://open.spotify.com/track/40FUPlp2KJvdHY5ABnK100) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:26 | 2020-01-31 | 2020-04-02 |

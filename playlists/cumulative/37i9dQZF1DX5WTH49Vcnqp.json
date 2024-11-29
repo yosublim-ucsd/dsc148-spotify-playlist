@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Vacations",
+  "description": "Music that's hard to define but easy to love. Cover: almost monday",
   "name": "Front Left",
   "tracks": [
     {
@@ -9765,6 +9765,24 @@
     },
     {
       "album": {
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
+    },
+    {
+      "album": {
         "name": "Gone Without a Trace",
         "url": "https://open.spotify.com/album/14UUC7JJM4HtlHmRsApk18"
       },
@@ -15235,6 +15253,28 @@
     },
     {
       "album": {
+        "name": "LOST SEASONS",
+        "url": "https://open.spotify.com/album/3oB74ZoXkpm2elQ62IjUmT"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "LOST SEASONS",
+      "url": "https://open.spotify.com/track/2kYAp4JSXQ6YrcfMJshenj"
+    },
+    {
+      "album": {
         "name": "Lots of Nothing",
         "url": "https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H"
       },
@@ -16938,7 +16978,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 216177,
       "name": "My Hair Is A Little Bit On Fire",
       "url": "https://open.spotify.com/track/02ALESYceJ79XmiErPZvbU"
@@ -17068,6 +17108,24 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "album": {
+        "name": "Nails",
+        "url": "https://open.spotify.com/album/3W5gzm7IExxZUhjFjgSXCe"
+      },
+      "artists": [
+        {
+          "name": "Hope D",
+          "url": "https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190465,
+      "name": "Nails",
+      "url": "https://open.spotify.com/track/2B83qROUA5odTV8wku4N2W"
     },
     {
       "album": {
@@ -22417,6 +22475,24 @@
     },
     {
       "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -23476,7 +23552,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165093,
       "name": "Stuck In Cheyenne",
       "url": "https://open.spotify.com/track/4M6WG6R3Rx3aB7LrNL9mx8"
@@ -23552,7 +23628,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
@@ -23756,7 +23832,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 183135,
       "name": "Sunday Stitches",
       "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"

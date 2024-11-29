@@ -16055,6 +16055,24 @@
     },
     {
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Grown Simba",
+      "url": "https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH"
+    },
+    {
+      "album": {
         "name": "QUARANTINE PACK",
         "url": "https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2"
       },

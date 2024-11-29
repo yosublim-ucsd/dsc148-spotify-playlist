@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 322000,
       "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
       "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
@@ -290,6 +290,24 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
+    },
+    {
+      "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "Dead Presidents II",
+      "url": "https://open.spotify.com/track/7nt9qV1gSFco5Y76Yt2SaY"
     },
     {
       "album": {
@@ -670,7 +688,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 54230,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6wXUgYeIJznRMh1F6OBVB1"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156186,
       "name": "Simba",
       "url": "https://open.spotify.com/track/06ytsFiHQ1Y7mYAQcya4zS"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 235480,
       "name": "Snow On Tha Bluff",
       "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
@@ -1662,6 +1680,24 @@
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
+    },
+    {
+      "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/6OSbHs2sqAgvEsNYtzFcqL"
     },
     {
       "album": {

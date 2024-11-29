@@ -4,7 +4,7 @@
 
 > put it on and let it play\. cover: jessica pratt
 
-847 songs - 2 day 2 hr 15 min
+848 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [What Lovers Do](https://open.spotify.com/track/0B5OlNsn2wbSMFd8hmLSZ7) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [What Lovers Do](https://open.spotify.com/album/5qJGM0nB5ex9xhQCqbUf0c) | 3:34 | 2021-11-19 | 2022-04-21 |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-06-11 | 2023-05-24 |
 | [What's Enough pt.2](https://open.spotify.com/track/38lANCGNjZV7zBfkjrqrO3) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Cirque Du Freak](https://open.spotify.com/album/101uHmfIKOnIIY4SAsRwKt) | 3:02 | 2021-08-27 | 2022-07-29 |
+| [what's true?](https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [what's true?](https://open.spotify.com/album/3fydnNsm5IL1LEVZ4rGBaP) | 3:45 | 2024-11-15 |  |
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2020-10-16 | 2021-03-19 |
 | [Whatever Comes to Mind](https://open.spotify.com/track/3mSDOXph5bbX3YfFIJLi64) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Heaven's Only Wishful](https://open.spotify.com/album/0c9sWtTqYILWgEddwu4Qiv) | 4:09 | 2020-10-20 | 2022-04-19 |
 | [Whatever Comes to Mind](https://open.spotify.com/track/4ZEwzNvzSlciLfAtPVPbmI) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/570hOKCaPALUB5z38Mwi87) | 4:09 | 2023-09-29 | 2023-12-13 |
@@ -836,7 +837,7 @@
 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2020-12-08 | 2022-11-21 |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-06-21 | 2022-08-27 |
-| [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 | 2020-10-16 |  |
+| [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 | 2020-10-16 | 2024-11-29 |
 | [White Jeans](https://open.spotify.com/track/3XRYirzvskaVLlGS9s4lJd) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [White Jeans](https://open.spotify.com/album/7Ex8MOEEKoXumDQPAIf2v5) | 3:48 | 2020-10-16 | 2022-04-20 |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2023-02-23 |  |
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-27 | 2022-07-29 |

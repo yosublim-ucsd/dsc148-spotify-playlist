@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,390 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,455 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 49 | [Selfless](https://open.spotify.com/track/1M8wBdIOXmv4oiF273ULET) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 2:55 |
 | 50 | [Cold Touch](https://open.spotify.com/track/1wfIgcxxQnJp6IA71WercW) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [This Too Shall Pass](https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i) | 3:57 |
 
-Snapshot ID: `Z0ekcAAAAAAcHfypbAXCqAUMOqang8qY`
+Snapshot ID: `Z0gz/AAAAADTeV1+DNgL4llOFJ40kokS`

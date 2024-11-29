@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-290 songs - 16 hr 4 min
+292 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-02-22 | 2024-07-19 |
 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 | 2024-06-27 | 2024-10-25 |
 | [Gonna Go to Japan](https://open.spotify.com/track/4oHM3OyIsgyAg7l1eu8iT6) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Moonlight Beach](https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA) | 3:06 | 2023-09-28 | 2023-11-24 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-26 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-26 | 2024-11-29 |
 | [Grateful](https://open.spotify.com/track/1uko3zWMyaFh14IKWq9ueo) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Grateful](https://open.spotify.com/album/3kraofsp8mvLKktb7r8IMw) | 2:59 | 2024-10-03 |  |
 | [Half Way Home](https://open.spotify.com/track/7fnZ3757bXWBqOrRHUdtdb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Half Way Home](https://open.spotify.com/album/0QPvBXhgcoxjjQuZQsb8yD) | 2:39 | 2024-10-17 |  |
 | [HAPPIER ON MY OWN](https://open.spotify.com/track/4ZAngLec3UnbcK8EXtoyOt) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [HAPPIER ON MY OWN](https://open.spotify.com/album/2KuKznxgBhBiXX4CyfEqbc) | 2:44 | 2024-11-14 |  |
@@ -140,10 +140,12 @@
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2024-01-11 | 2024-02-16 |
 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 | 2024-10-17 |  |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-20 | 2024-09-20 |
+| [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-11-28 |  |
 | [Lost](https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Lost](https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES) | 3:20 | 2024-01-25 | 2024-04-19 |
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-14 |  |
 | [Love for yourself](https://open.spotify.com/track/1lTKsqeDQWoPhekp6kbg9e) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Love for yourself](https://open.spotify.com/album/3x4zpBsAvtU9xXfBlA4c1V) | 4:34 | 2024-01-18 | 2024-02-23 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-07-19 |
+| [Love It When I Need It](https://open.spotify.com/track/0ssfMVEA0x8ARvoXb8krym) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love It When I Need It](https://open.spotify.com/album/5surNQCjxrSMVmiJ67H6dk) | 3:23 | 2024-11-28 |  |
 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 | 2024-04-18 | 2024-08-30 |
 | [Love x3](https://open.spotify.com/track/5Lpl5YBgiY4SJmMH8y84qs) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Love x3](https://open.spotify.com/album/1jm4KQyGYifQ3DaJXlHp5s) | 3:28 | 2023-09-28 | 2023-11-24 |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-06-27 | 2024-10-04 |
@@ -155,7 +157,7 @@
 | [Maybe Baby](https://open.spotify.com/track/6w3nZgt5eYg5tOpwXmLyuz) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Maybe Baby](https://open.spotify.com/album/72C5pRIvcloHfiMRr8ywlt) | 2:57 | 2023-12-21 | 2024-04-12 |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-07 | 2024-08-23 |
 | [Melody](https://open.spotify.com/track/5boPX5zFKequxpCqEvzy4C) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever Melodies](https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d) | 3:12 | 2023-09-28 | 2023-10-13 |
-| [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-07-04 |  |
+| [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-07-04 | 2024-11-29 |
 | [met someone](https://open.spotify.com/track/75hVEv2EHMyZ2o0u0aKeNl) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [met someone](https://open.spotify.com/album/6PJdFyt5marOQFZIvkQ8ON) | 2:49 | 2024-06-27 | 2024-11-22 |
 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-09 | 2024-09-06 |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-04 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > 
 
-26 songs - 1 hr 36 min
+27 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Shape Shifter](https://open.spotify.com/track/2dyKyygNd3EyZiGL5TbgPU) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Phone Power](https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k) | 3:11 | 2022-05-06 |  |
 | [Short, Fast, And Loud](https://open.spotify.com/track/2cn19ykuQ0vYdSpqqN4h0p) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Evening Out With Your Girlfriend](https://open.spotify.com/album/0zk9ITIOCEXthivlHuhBsd) | 2:16 | 2024-11-09 |  |
 | [Snail \(feat\. Chloe Moriondo\)](https://open.spotify.com/track/6wZRVdKVHHSEHiAyTcwtV2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:50 | 2022-10-11 |  |
+| [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 | 2024-11-28 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-06-14 |  |
 | [Tattoo](https://open.spotify.com/track/66H4tD2U1SNgIRSD19m5jv) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 4:43 | 2024-10-23 |  |

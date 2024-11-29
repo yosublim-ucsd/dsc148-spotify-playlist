@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Maiara & Mara\u00edsa\n\n",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano\n\n",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 201557,
       "name": "A Noite (La Notte) - Ao Vivo",
       "url": "https://open.spotify.com/track/2lhTndwmmoMqMq8SSDfwbU"
@@ -194,6 +194,28 @@
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo - Vol. 1",
+        "url": "https://open.spotify.com/album/3p0oXCvFis7r9CfA4xFN7V"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153949,
+      "name": "Aceita Que Ela T\u00e1 Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1aKO7s5pKClaGB31yW0tWg"
     },
     {
       "album": {
@@ -630,7 +652,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156377,
       "name": "Beijo Equivocado",
       "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
@@ -732,6 +754,28 @@
       "duration_ms": 165347,
       "name": "Boca Ocupada",
       "url": "https://open.spotify.com/track/36mUWhjTM3GNpncYy7RR6z"
+    },
+    {
+      "album": {
+        "name": "Carta Aberta (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/6wDpJDekjVBFXXHdLSmZkj"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154727,
+      "name": "Body Splash - Ao Vivo",
+      "url": "https://open.spotify.com/track/1AM8pZn5uY89vkItAH5bm3"
     },
     {
       "album": {
@@ -2138,7 +2182,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 152245,
       "name": "FALTA DE QU\u00ca?",
       "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
@@ -2378,7 +2422,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 176380,
       "name": "Gotejou No Celular - Ao Vivo",
       "url": "https://open.spotify.com/track/1sTGINNEM4sT3H2hDdQiPe"
@@ -2458,7 +2502,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 191365,
       "name": "Haver\u00e1 Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
@@ -2696,6 +2740,24 @@
       "duration_ms": 166490,
       "name": "Manda um Oi - Ao Vivo",
       "url": "https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh"
+    },
+    {
+      "album": {
+        "name": "Me Ama Mesmo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RN1Pw18MnsRIN7xruskYK"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181756,
+      "name": "Me Ama Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3EcLx5fFRgDIVAzfYwopuR"
     },
     {
       "album": {
@@ -4251,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / EP2)",
+        "url": "https://open.spotify.com/album/4ZJMaV7KtU2I5hvZhdaMGg"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183758,
+      "name": "Rom\u00e2ntico - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FdGeazienHpcYz9KYAuWW"
+    },
+    {
+      "album": {
         "name": "Quest\u00e3o de Tempo (Ao Vivo / Parte 1)",
         "url": "https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA"
       },
@@ -4589,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "Sujeito Homem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zwl5bcTHly4gwYqoiZCcC"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178983,
+      "name": "Sujeito Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn"
+    },
+    {
+      "album": {
         "name": "S\u00f3 N\u00e3o Divulga",
         "url": "https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2"
       },
@@ -4843,6 +4941,28 @@
     },
     {
       "album": {
+        "name": "Tu N\u00e3o Ama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4yVrgL6lgNK59BydY0fBX7"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Santiago",
+          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145211,
+      "name": "Tu N\u00e3o Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hK5NtpLhz9SZyGHzb50k4"
+    },
+    {
+      "album": {
         "name": "Eu, Yasmin Santos - Vol 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P"
       },
@@ -4854,7 +4974,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 189248,
       "name": "Tudo Ao Contr\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2"

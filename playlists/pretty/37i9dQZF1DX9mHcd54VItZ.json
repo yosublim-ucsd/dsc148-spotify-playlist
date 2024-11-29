@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=jt2QUqt7QZWvf4He_zjY1A\">Zaan Sonnekus</a>",
-  "num_followers": 20976,
+  "num_followers": 20979,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
-    },
-    {
       "added_at": "2024-11-08 13:20:55",
       "album": {
         "name": "Oor Jou",
@@ -203,6 +187,22 @@
       "duration_ms": 238112,
       "name": "Oor Jou",
       "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
+    },
+    {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "Victor Ludorum",
+        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 189895,
+      "name": "Victor Ludorum",
+      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Die Kortste Hier",
+        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Die Kortste Hier",
+      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Die Kortste Hier",
-        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Die Kortste Hier",
-      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
     },
     {
-      "added_at": "2024-10-25 09:16:00",
-      "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
       "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "WHEMG",
@@ -571,6 +555,22 @@
       "duration_ms": 190500,
       "name": "WHEMG",
       "url": "https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI"
+    },
+    {
+      "added_at": "2024-10-25 09:16:00",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "96-03 The Singles",
-        "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
-      },
-      "artists": [
-        {
-          "name": "Henry Ate",
-          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Hey Mister",
-      "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
-    },
-    {
       "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Horison",
@@ -719,6 +703,22 @@
       "duration_ms": 222938,
       "name": "Horison",
       "url": "https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "96-03 The Singles",
+        "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
+      },
+      "artists": [
+        {
+          "name": "Henry Ate",
+          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Hey Mister",
+      "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
     },
     {
       "added_at": "2024-07-28 19:12:15",

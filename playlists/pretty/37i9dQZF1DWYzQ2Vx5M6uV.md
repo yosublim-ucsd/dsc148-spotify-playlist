@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,407 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,509 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 45 | [Todita](https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Todita](https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu) | 2:20 |
 | 46 | [Madrid](https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Madrid](https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn) | 3:14 |
 | 47 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:07 |
-| 48 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
+| 48 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 49 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |
-| 50 | [Vuelve](https://open.spotify.com/track/4Qkq9NRnnWSiwfeWjQJXaW) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Vuelve](https://open.spotify.com/album/22YKWWUjZorWKzYWb0CcKJ) | 3:26 |
+| 50 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
 
 Snapshot ID: `Z0DEJwAAAACcvdwGAFiXhF1XmPkcahN6`

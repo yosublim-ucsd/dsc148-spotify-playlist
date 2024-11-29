@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 花譜
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,686 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,748 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [星街すいせい](https://open.spotify.com/artist/76MJfB59kw7VAKFG1uFc8M) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 |
+| 1 | [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 |
 | 2 | [Almost Famous](https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THE GHOST](https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL) | 2:15 |
 | 3 | [New me](https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me](https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf) | 3:26 |
 | 4 | [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 |

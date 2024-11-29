@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Brotherkupa, DJ Slique, Tyler, The Creator, and more...",
+  "description": "Only the hottest Hip Hop from Fuego Sintana, G-TECH 2bit, Tyler The Creator, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -664,6 +664,28 @@
       "duration_ms": 147746,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
+        "name": "Banditos II (feat. Priddy Ugly)",
+        "url": "https://open.spotify.com/album/5KYctDRgOBBD9Q5HNKxEGQ"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Banditos II (feat. Priddy Ugly)",
+      "url": "https://open.spotify.com/track/1qiFgKSyzlYttXMF5iymSx"
     },
     {
       "album": {
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129403,
       "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
       "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
@@ -5035,6 +5057,32 @@
     },
     {
       "album": {
+        "name": "Rent Paid",
+        "url": "https://open.spotify.com/album/7K1z0u8r7n6e2wFpA4tJSh"
+      },
+      "artists": [
+        {
+          "name": "Fuego Sintana",
+          "url": "https://open.spotify.com/artist/268uTWCotd2efN85tGatw7"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Rent Paid",
+      "url": "https://open.spotify.com/track/1I0ZmpGYzaKGORNwz585Ji"
+    },
+    {
+      "album": {
         "name": "Repeat (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj"
       },
@@ -5962,7 +6010,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160000,
       "name": "sugar rush",
       "url": "https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG"

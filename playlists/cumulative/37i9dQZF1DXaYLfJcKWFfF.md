@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Baaba J
 
-221 songs - 13 hr 16 min
+222 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 | 2023-09-09 | 2024-06-07 |
 | [Allez](https://open.spotify.com/track/041kBHDzMPUuePMKJy1RdB) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Love Lane](https://open.spotify.com/album/0xBtN0vikhUPmTsItssUkF) | 2:42 | 2023-05-04 | 2023-08-11 |
 | [Alunamehlo](https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Alunamehlo](https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4) | 4:22 | 2021-01-28 | 2023-02-17 |
-| [Amahoro \(Don't Get Angry\)](https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Alvie Bitemo](https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO) | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s) | 3:40 | 2024-02-02 |  |
+| [Amahoro \(Don't Get Angry\)](https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Alvie Bitemo](https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO) | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s) | 3:40 | 2024-02-02 | 2024-11-29 |
 | [ANSWERS](https://open.spotify.com/track/2peJoWRk7e8uJfL0kUx9Gr) | [Razor Man](https://open.spotify.com/artist/7EwM68D7S1KffJNAYKwtN8), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Conversations We Should Have Had](https://open.spotify.com/album/2ZZPghzV2pVyrtFVRv7rkU) | 3:23 | 2023-09-29 | 2024-06-21 |
 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 | 2023-10-20 | 2024-02-09 |
 | [Berlin Lights](https://open.spotify.com/track/75Fv87zEHrKOKG8KvxFjQB) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Berlin Lights](https://open.spotify.com/album/7EMfdp4BsQiS1HZGxpvBYJ) | 3:48 | 2023-07-13 | 2023-08-04 |
@@ -42,6 +42,7 @@
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 | 2023-09-15 |
 | [Debut](https://open.spotify.com/track/7taRvoC0XII55WwrU7Nuo2) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:49 | 2024-05-10 |  |
+| [dEMOn](https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [dEMOn](https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP) | 4:36 | 2024-11-29 |  |
 | [Dia](https://open.spotify.com/track/0ifPsNJwearRtX0v1wR75a) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Kikento](https://open.spotify.com/album/4m5qOzQLSLJnGSKPGQrDzM) | 3:49 | 2023-03-03 | 2023-04-21 |
 | [DIIISAPPEAR](https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [DIIISAPPEAR](https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl) | 3:16 | 2024-01-19 |  |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 | 2023-02-04 |

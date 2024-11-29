@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 70400,
       "name": "JOGO DE TOLOS",
       "url": "https://open.spotify.com/track/5Vuq8CP31cpEEq5zNJCjUN"
@@ -7794,7 +7794,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 127309,
       "name": "OVERDOZE",
       "url": "https://open.spotify.com/track/0Sn1QMasl819dDowzaXN3P"
@@ -8134,6 +8134,24 @@
       "duration_ms": 177936,
       "name": "Porque Te Vas (Versi\u00f3n Rock)",
       "url": "https://open.spotify.com/track/6vN2pBbBRBW5Qjj1FGgdOt"
+    },
+    {
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
       "album": {
@@ -9344,6 +9362,24 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "album": {
+        "name": "Bella Stella",
+        "url": "https://open.spotify.com/album/2cNQ2O8wQqQou7KOmAiRUq"
+      },
+      "artists": [
+        {
+          "name": "Highland",
+          "url": "https://open.spotify.com/artist/2tCqO4XjEGBFCMUfIokrGm"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2gkzJU3hVJn9UziHtNYsZd"
     },
     {
       "album": {
@@ -12232,7 +12268,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 103043,
       "name": "\u0410\u0440\u0438\u0442\u043c\u0438\u044f",
       "url": "https://open.spotify.com/track/6yU6ko4AlNiZrUZfmHKrv4"
@@ -13485,6 +13521,28 @@
     },
     {
       "album": {
+        "name": "\u0414\u043d\u0435\u0432\u043d\u0438\u043a \u043f\u0430\u043c\u044f\u0442\u0438",
+        "url": "https://open.spotify.com/album/2HYqeYEL0Q5KsCN1Jd9FOm"
+      },
+      "artists": [
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj"
+        },
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "\u0413\u043e\u0440\u043e\u0434 \u0434\u043e\u0440\u043e\u0433",
+      "url": "https://open.spotify.com/track/2akPxuWRZlrwapcnTgc3xv"
+    },
+    {
+      "album": {
         "name": "\u0413\u043e\u0440\u044b (Remixes)",
         "url": "https://open.spotify.com/album/1J44eVDWoIVsfYswOBwU2P"
       },
@@ -13514,7 +13572,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188448,
       "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
       "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
@@ -15882,7 +15940,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 98964,
       "name": "\u041d\u0415\u0414\u041e\u0421\u0422\u0423\u041f\u0415\u041d",
       "url": "https://open.spotify.com/track/5O5Lx4qRBY5p0oeHISxUM7"

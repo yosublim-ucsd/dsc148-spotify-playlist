@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,223 songs - 9 day 20 hr 55 min
+4,225 songs - 9 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [BAILE FUNK 5](https://open.spotify.com/track/04jfSmC2sRRI6i7fLExba1) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [BAILE FUNK 5](https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD) | 2:26 | 2020-10-12 | 2020-10-21 |
 | [Bala](https://open.spotify.com/track/5VA3AoNgeO9uTFz90bhlHr) | [Köra](https://open.spotify.com/artist/3B5qktpbevZXI9Fj3GjUZW) | [Bala](https://open.spotify.com/album/58ozGsquDOrwOsgD8NuGPH) | 2:47 | 2023-06-30 | 2023-07-22 |
 | [Balada Para Perrear](https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Balada Para Perrear](https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE) | 3:15 | 2021-01-29 | 2021-06-06 |
+| [balance](https://open.spotify.com/track/7Aa6jXyjFcK6MLyyUG9VL0) | [rallycap](https://open.spotify.com/artist/67iUR9cYHmQYoNKEMKAEpO) | [balance](https://open.spotify.com/album/46dZMLToBlz9irqtHIgEdL) | 2:41 | 2024-11-28 |  |
 | [Balance](https://open.spotify.com/track/7kfMPbWIYwOFIqnX6yMO13) | [Sayat Nokerban](https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez) | [Can't Get Over You](https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E) | 2:43 | 2024-08-18 | 2024-08-30 |
 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 | 2022-07-19 | 2022-08-05 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-18 | 2024-07-30 |
@@ -1351,6 +1352,7 @@
 | [Fresh](https://open.spotify.com/track/3gGGpWjG5TPA73BeRp7asf) | [Hatewine](https://open.spotify.com/artist/6b7ytNpGmrGPdvYnzFrxqB) | [Fresh](https://open.spotify.com/album/5bkVz2AjrqFDmYCXmHC5Al) | 3:22 | 2021-05-21 | 2021-06-06 |
 | [Fresh with the Force](https://open.spotify.com/track/2isTEbyvlEPORQsGw1kDVp) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Fresh with the Force](https://open.spotify.com/album/7CUo4srvaYTKx4lSaNnXvf) | 2:18 | 2023-09-15 | 2023-12-14 |
 | [Freud's Disciples](https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I) | [Ryan Stotland](https://open.spotify.com/artist/42lIaJIQPnHbCmspLZFpY5) | [The Ryan Stotland Experiment](https://open.spotify.com/album/1G82eqC1DNHGGoJTQMTqaN) | 3:14 | 2022-06-08 | 2022-06-29 |
+| [FRFS](https://open.spotify.com/track/2MOIfm6dznK772rXegA1yp) | [Toni Jones](https://open.spotify.com/artist/6PXEwzEXJYzH2DcpU3WVOa) | [FRFS](https://open.spotify.com/album/171rOTZubRAFl1FzdXHUBW) | 3:42 | 2024-11-28 |  |
 | [Friend Zone](https://open.spotify.com/track/4fHkxQ4v7t2M7r6b6uvb8Z) | [Bridget Sarai](https://open.spotify.com/artist/4WeKIzFnsW9Iarl38YO2JC) | [Friend Zone](https://open.spotify.com/album/6N0X6gOInqFrkT0n9WYxjW) | 3:46 | 2024-07-24 |  |
 | [Friends](https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [Friends](https://open.spotify.com/album/24uHWGhZHkrKsgJSLYWETa) | 3:08 | 2022-11-04 | 2022-11-27 |
 | [friends](https://open.spotify.com/track/14pphHglnTQVxLhJSdN5E6) | [Sadb0y](https://open.spotify.com/artist/4AuxeBExQg7E9xY7oYQoFG) | [self made heartbreak](https://open.spotify.com/album/5eEe4N6SQaXUrkPwa8T2Wv) | 2:21 | 2024-10-22 | 2024-11-03 |
@@ -2511,7 +2513,7 @@
 | [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 | 2021-07-11 | 2024-04-21 |
 | [My Type](https://open.spotify.com/track/1jrGYEJhRqQuugrjUNcNuV) | [Tre Moore](https://open.spotify.com/artist/45q9gZcmGChvO1UXvLWWBL) | [My Type](https://open.spotify.com/album/01MJhC8HFQAZAf37EsyBqT) | 2:10 | 2024-08-24 | 2024-09-18 |
 | [MYM](https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR) | [Trilla da Vinci](https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU) | [MYM](https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA) | 2:53 | 2022-09-02 | 2022-09-18 |
-| [Mystery's Golden](https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8) | [Ross Livermore](https://open.spotify.com/artist/3NnWvFrTYmolzV1athoz8g) | [Mystery's Golden](https://open.spotify.com/album/1Lb6SwZEf25ZbYOPjH1ayn) | 4:01 | 2024-11-08 | 2024-11-20 |
+| [Mystery's Golden](https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8) | [Ross Livermore](https://open.spotify.com/artist/3NnWvFrTYmolzV1athoz8g) | [Mystery's Golden](https://open.spotify.com/album/1Lb6SwZEf25ZbYOPjH1ayn) | 4:01 | 2024-11-08 |  |
 | [Más De La Una](https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Más De La Una](https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9) | 3:56 | 2021-01-01 | 2021-01-16 |
 | [Ménage à Moi](https://open.spotify.com/track/02I5hbRPecLm85QCifDRA2) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO) | [Ménage à Moi](https://open.spotify.com/album/3R7oUkZBnVxbthIYbQI9dd) | 3:36 | 2021-01-01 | 2021-01-16 |
 | [N\-ER\-G\-](https://open.spotify.com/track/17s6utKDkcwvqEk3z2ae9B) | [Dice Major](https://open.spotify.com/artist/2DvOeLhTwLTEncv0exmma6) | [N\-ER\-G\-](https://open.spotify.com/album/1tJoAnOGM3UPEjKLDOKRmz) | 3:39 | 2024-11-08 | 2024-11-20 |

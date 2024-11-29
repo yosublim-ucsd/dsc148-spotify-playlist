@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 💛 Mina Okabe💛
+> Det bedste nye pop 💛 Mumle 💛
 
-280 songs - 14 hr 16 min
+283 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Love, Come Down](https://open.spotify.com/track/5QN5EEA03w34Ukygz7ujwJ) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [And Then There Were Flowers](https://open.spotify.com/album/4cuKGmOVKXQRTb7Y2gQ15J) | 3:30 | 2024-06-27 | 2024-07-30 |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2024-10-04 |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-08 | 2024-10-04 |
+| [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 |  |
 | [Lullaby](https://open.spotify.com/track/0YuLMpdDhj3y0WziwZTiVk) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [Lullaby / LoveLoveLove](https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG) | 2:28 | 2024-07-11 | 2024-10-04 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-11-08 |
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-06-27 | 2024-11-08 |
@@ -196,6 +197,7 @@
 | [Nøgen](https://open.spotify.com/track/5gK8xceSADPn3qbdrYGlIM) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Nøgen](https://open.spotify.com/album/0GQD2M2mXTXSE5YSEnKOOA) | 2:57 | 2024-10-10 |  |
 | [OFF](https://open.spotify.com/track/67fUNwE7pR0lfnag4NQK4O) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [OFF](https://open.spotify.com/album/56g8bYTUxGfl4Vrdj5Tu8Z) | 3:02 | 2024-06-27 | 2024-07-30 |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 |  |
+| [Olinda](https://open.spotify.com/track/2AxLnOCVztkn6aNOkfhiak) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Olinda](https://open.spotify.com/album/2HYKw4TpRu6io8e64cPpdy) | 2:38 | 2024-11-28 |  |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-06-27 | 2024-07-30 |
 | [One By One \(with Kooldrink\)](https://open.spotify.com/track/5Szjjv92FYRgLXwlhD28Dl) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [One By One \(with Kooldrink\)](https://open.spotify.com/album/5DQIle1gEaxQRidaUA7RHw) | 3:33 | 2024-10-03 |  |
 | [Over Stregen](https://open.spotify.com/track/7bGBVGp05vZPjuLMxjUk2L) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Over Stregen](https://open.spotify.com/album/2XAX36G82b5vemhVLHggEx) | 2:54 | 2024-06-27 | 2024-11-08 |
@@ -226,6 +228,7 @@
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-07-30 |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 | 2024-08-30 |
 | [So What \(feat\. milo\)](https://open.spotify.com/track/3iar0tVgdzwpvQechUtUsz) | [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [So What \(feat\. milo\)](https://open.spotify.com/album/5LAWhv2Tz0NiVXUMqyH53e) | 2:28 | 2024-11-07 |  |
+| [Som Om \(feat\. Mumle\)](https://open.spotify.com/track/1gCY02xjTwjQkKOYgWdO0B) | [TV\-2](https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup), [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Som Om \(feat\. Mumle\)](https://open.spotify.com/album/0Wd0Ky9stG9qokr9L87xR8) | 3:32 | 2024-11-28 |  |
 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 | 2024-09-05 | 2024-10-04 |
 | [Sommerregn](https://open.spotify.com/track/1haBPCTX5PC7baqot4Jf4D) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Sommerregn](https://open.spotify.com/album/5CfKFxbSCzraCtUgUutANL) | 2:28 | 2024-08-22 | 2024-10-04 |
 | [Sortedam](https://open.spotify.com/track/3KKfy9c7s81AOoXbqd1obP) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Sortedam](https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv) | 4:02 | 2024-10-24 |  |

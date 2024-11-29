@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 10738,
+  "num_followers": 10768,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABi0A1ia/rSSSwl9H7PwgVB",
+  "snapshot_id": "Z0ZhAAAAAAAIGroL1a47E1UWV+Krdu3T",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPA",
-        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 177656,
-      "name": "EPA",
-      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
+      "duration_ms": 164347,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 164347,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
+      "duration_ms": 177656,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
     },
     {
       "added_at": null,
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+        "name": "Los Tiempos Cambian",
+        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
       "artists": [
+        {
+          "name": "Los Beltran",
+          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 186983,
+      "name": "Escuela 4 Letras",
+      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos Cambian",
-        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
-        {
-          "name": "Los Beltran",
-          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 186983,
-      "name": "Escuela 4 Letras",
-      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,

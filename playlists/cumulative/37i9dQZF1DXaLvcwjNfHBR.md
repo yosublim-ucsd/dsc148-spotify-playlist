@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Tate McRae
+> Your new favourite songs! Cover: Shaboozey
 
 701 songs - 1 day 13 hr 15 min
 

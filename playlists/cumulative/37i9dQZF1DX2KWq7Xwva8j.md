@@ -2,7 +2,7 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: Samuraï.
+> El futuro está aquí\. Foto: shego.
 
 250 songs - 12 hr 14 min
 

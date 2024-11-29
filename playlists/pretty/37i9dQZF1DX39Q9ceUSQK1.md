@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Mood Bored
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,265 likes - 74 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,263 likes - 74 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All The Time](https://open.spotify.com/track/1chSIMG2RYnBeTlp2OS7Bx) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [All The Time](https://open.spotify.com/album/2LCHdPqBVEyUZCdgDSM6H4) | 3:09 |
-| 2 | [I Want More](https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Karaoke Moon](https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x) | 3:09 |
-| 3 | [Shotgun](https://open.spotify.com/track/4i24juuTMLWjpJxx3MOMJZ) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Shotgun](https://open.spotify.com/album/3LNdFkC41vTw5uzgEq4AI7) | 2:44 |
-| 4 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 |
+| 2 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 |
+| 3 | [I Want More](https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Karaoke Moon](https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x) | 3:09 |
+| 4 | [Shotgun](https://open.spotify.com/track/4i24juuTMLWjpJxx3MOMJZ) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Shotgun](https://open.spotify.com/album/3LNdFkC41vTw5uzgEq4AI7) | 2:44 |
 | 5 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 |
 | 6 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 7 | [I'm So Sorry](https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Headache](https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ) | 4:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 73 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 |
 | 74 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 |
 
-Snapshot ID: `Z0BOUgAAAAARgkY0u4EnejtiHK8HJOEm`
+Snapshot ID: `Z0hjlgAAAADVaRskI+szwZPPzGMrjTGh`

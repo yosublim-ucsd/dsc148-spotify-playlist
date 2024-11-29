@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,243 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,244 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 51 | [Rain City](https://open.spotify.com/track/1LqOQyk3yq5CnxkymRuSWe) | [Turin Brakes](https://open.spotify.com/artist/1zrBQvkTNhFFby4V5UiK2L) | [Ether Song](https://open.spotify.com/album/1CyrPYt06AK8FSU7voXcSo) | 4:06 |
 | 52 | [Poison & Wine](https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:39 |
 | 53 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 |
-| 54 | [Maybe I'm Amazed](https://open.spotify.com/track/0vvYpjkZon4XwdowragVih) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Love and Romance Box Set](https://open.spotify.com/album/2h1Jm0kkeLyyK1CtsFv3Jg) | 3:51 |
+| 54 | [Maybe I'm Amazed](https://open.spotify.com/track/0vvYpjkZon4XwdowragVih) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Love and Romance Box Set](https://open.spotify.com/album/2h1Jm0kkeLyyK1CtsFv3Jg) | 3:51 |
 | 55 | [Quase Sem Querer](https://open.spotify.com/track/2Pr6qNmiOxTdo8B6bs8x8x) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:40 |
 | 56 | [Epitáfio](https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [A Melhor Banda De Todos Os Tempos Da Última Semana](https://open.spotify.com/album/71XhBGySJjyGOSHGVelZ4K) | 2:55 |
 | 57 | [Não Sei Viver Sem Ter Você](https://open.spotify.com/track/3QbPw4Aj3JgqG0In3ZPZ4q) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Chegou A Hora De Recomeçar](https://open.spotify.com/album/4vLwnLDByvCxN08icBe18r) | 3:46 |

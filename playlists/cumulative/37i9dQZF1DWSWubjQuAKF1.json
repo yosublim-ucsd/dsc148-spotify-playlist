@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Maciej Skiba",
+  "description": "nasze brzmienie \u2728 Cover: Artur Sikorski",
   "name": "gen z ",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 147970,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168002,
       "name": "Ju\u017c nie szkoda",
       "url": "https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 208000,
       "name": "Ko\u0142o mnie",
       "url": "https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR"
@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Ona",
+        "url": "https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej"
+      },
+      "artists": [
+        {
+          "name": "xavier.",
+          "url": "https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Ona",
+      "url": "https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC"
+    },
+    {
+      "album": {
         "name": "Ona jest niebywa\u0142a",
         "url": "https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC"
       },
@@ -3682,6 +3700,24 @@
       "duration_ms": 151341,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ"
+    },
+    {
+      "album": {
+        "name": "Droga do marze\u0144",
+        "url": "https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m"
+      },
+      "artists": [
+        {
+          "name": "Martyna Rempa\u0142a",
+          "url": "https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "Sentymenty",
+      "url": "https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji"
     },
     {
       "album": {
@@ -4612,6 +4648,24 @@
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "album": {
+        "name": "zapomnia\u0142em wyda\u0107 w lipcu",
+        "url": "https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64"
+      },
+      "artists": [
+        {
+          "name": "Kacper Garncarz",
+          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173726,
+      "name": "zapomnia\u0142em wyda\u0107 w lipcu",
+      "url": "https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0"
     },
     {
       "album": {

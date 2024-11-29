@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: KeBlack x SDM
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tiakola x Wizkid
 
-700 songs - 1 day 10 hr 31 min
+701 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Ningisa \(feat\. Tayron Kwidan's\)](https://open.spotify.com/track/3taDmOcts8iAoW9l4eLBI1) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Ningisa \(feat\. Tayron Kwidan's\)](https://open.spotify.com/album/3cfGsOFcYtPfP1BJSSQaCd) | 3:08 | 2023-05-11 | 2023-07-21 |
 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 | 2023-11-23 | 2023-12-08 |
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-29 | 2023-01-13 |
-| [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 | 2024-10-03 |  |
+| [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 | 2024-10-03 | 2024-11-29 |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-01-13 | 2022-07-22 |
 | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM) | 3:03 | 2023-09-28 | 2023-10-27 |
 | [Noche](https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Noche](https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy) | 3:03 | 2023-05-18 | 2023-06-23 |
@@ -463,6 +463,7 @@
 | [Nzoto](https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Nzoto](https://open.spotify.com/album/5g1MSyNcRhNKQroEZ8MKOR) | 4:38 | 2021-12-27 | 2022-02-04 |
 | [Nécessaire](https://open.spotify.com/track/2R4IBED2WnT3bTkJYcALpl) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [Nécessaire](https://open.spotify.com/album/4rB43sS6cMhR3wHnd3xwkG) | 2:52 | 2023-08-24 | 2023-11-24 |
 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 | 2022-06-02 | 2022-07-29 |
+| [Obrigado](https://open.spotify.com/track/5FBMIMZEuy1sncxWCDw7zr) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Nazaland \(Réédition\)](https://open.spotify.com/album/0fZ7hVOy0ZVQZMF7y20dDP) | 2:19 | 2024-11-28 |  |
 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-27 | 2023-09-22 |
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-10-10 |  |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-02 | 2023-04-21 |

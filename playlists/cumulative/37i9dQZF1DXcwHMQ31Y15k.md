@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty, Wahyu F Giri
 
-419 songs - 1 day 10 hr 52 min
+422 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Nona Jelita](https://open.spotify.com/track/64hz9qk2gzxG2jFZGUCYi9) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nona Jelita](https://open.spotify.com/album/3SXzuB2428PTauljc8dwbr) | 6:14 | 2024-09-12 | 2024-10-25 |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-08-11 |
 | [Not You No In](https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Kristin D](https://open.spotify.com/artist/2DwMeXS8DhOF0fPRRsSZJJ) | [Not You No In](https://open.spotify.com/album/0ttLzRa1gRqg3ROQD19Iwn) | 5:15 | 2024-07-25 |  |
+| [Nresnani](https://open.spotify.com/track/7wadKAqv8tjMsDZ9yr0dGP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Tadeus Lavora](https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm) | [Nresnani](https://open.spotify.com/album/5uhAn7VJZPkpkPpcJCYbRs) | 5:25 | 2024-11-28 |  |
 | [Nresnani](https://open.spotify.com/track/3xM5ljrKKRa3smVZF2ObFf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Nresnani](https://open.spotify.com/album/42y04fYST8LC6KCZcayUNf) | 4:30 | 2024-10-04 |  |
 | [Nresnani](https://open.spotify.com/track/3GErPF0Jefm11hx6b8xh0c) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Nresnani](https://open.spotify.com/album/2viXoe6IXeZjSCUHZoM5cp) | 4:46 | 2024-11-14 |  |
 | [Nresnani \- Accoustic Version](https://open.spotify.com/track/2d5ge8cLWayiZ1QySSs9gC) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Nresnani \(Accoustic Version\)](https://open.spotify.com/album/720X2yLc6ErIxR9pNYjeZ5) | 4:05 | 2024-11-21 |  |
@@ -354,6 +355,7 @@
 | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/album/1mI60JNFsKxSiC2E9IGD7V) | 1:08 | 2024-03-08 | 2024-06-14 |
 | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sauro Utangmu \(Live Version At The Boston Coffee\)](https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ) | 3:34 | 2024-08-29 |  |
 | [Segara Madu](https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu](https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR) | 4:41 | 2024-11-21 |  |
+| [Segara Madu \- Live](https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu \(Live\)](https://open.spotify.com/album/1H4fbANs1S0ZsSBCuWVlOg) | 6:00 | 2024-11-28 |  |
 | [Sekti](https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq) | [Suliyana](https://open.spotify.com/artist/4TJKjrYnqDXwBi1xJ5CyUc) | [Sekti](https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO) | 4:42 | 2024-10-24 |  |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
 | [Selendang Biru](https://open.spotify.com/track/4R6DWZXWg8DzJYUMNJmBuU) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Selendang Biru](https://open.spotify.com/album/3OTKfpbg9kfDwGyeoKlBPR) | 5:16 | 2024-04-25 | 2024-10-19 |
@@ -383,6 +385,7 @@
 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama Official](https://open.spotify.com/artist/1fUKdAlQVtR3mZmdiFTzrq) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 | 2023-08-01 | 2024-05-17 |
 | [Tanggal Tuwek](https://open.spotify.com/track/5QyyUfd7nPU1GHLxsr168Y) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Tanggal Tuwek](https://open.spotify.com/album/7pLpqwu4aTv0UiInLk7L6b) | 4:26 | 2024-05-16 | 2024-11-22 |
 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 | 2023-03-02 | 2023-08-11 |
+| [Tanpo Walesan](https://open.spotify.com/track/1AK4Fb4DP1WVgISoFPm0gT) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tanpo Walesan](https://open.spotify.com/album/5ahQGcFrIIviXDZcqbOdhc) | 5:41 | 2024-11-28 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2022-05-26 | 2022-09-16 |
 | [TAU DADI CERITO](https://open.spotify.com/track/3JjKkwQ3SVDpPqTyNeFiRE) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg), [Siti Aliyah](https://open.spotify.com/artist/5odREY5RWPqh6QMXDovkR5) | [TAU DADI CERITO](https://open.spotify.com/album/3dBzJxlkW6VgYiqkNUaCWX) | 6:33 | 2024-06-13 | 2024-10-11 |
 | [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 | 2022-11-14 |

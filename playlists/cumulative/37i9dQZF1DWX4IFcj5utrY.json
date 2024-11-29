@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=0Q-uVSfjTZuxckiXHs0lhw\"> Sun-El Musician",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi\"> Blackwhole</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -104,6 +104,28 @@
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "album": {
+        "name": "1000 Seconds (Atmos Blaq Remix)",
+        "url": "https://open.spotify.com/album/3IlTSiZPFDmiOQdBbqtVUC"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427118,
+      "name": "1000 Seconds - Atmos Blaq Remix",
+      "url": "https://open.spotify.com/track/10TbShpB6filtUg2GJqLtA"
     },
     {
       "album": {
@@ -6068,7 +6090,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 295283,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i"
@@ -6952,7 +6974,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
@@ -7588,7 +7610,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 213333,
       "name": "GET UP BITCH! shake ya ass (with Anitta)",
       "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
@@ -7764,7 +7786,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 309020,
       "name": "Golden",
       "url": "https://open.spotify.com/track/19eQwNJvPhk6muA4Xwa3Cs"
@@ -8076,6 +8098,28 @@
       "duration_ms": 501655,
       "name": "Gumbaya",
       "url": "https://open.spotify.com/track/3e3OBVdl94N5BB7nC7FN0G"
+    },
+    {
+      "album": {
+        "name": "Gypsy Woman (Prince Kaybee Remake)",
+        "url": "https://open.spotify.com/album/3baptKL2BUUl6WYqNrBCue"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Halala",
+          "url": "https://open.spotify.com/artist/1ZzzoPzKTlktHtAR3JAGg1"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357995,
+      "name": "Gypsy Woman (Prince Kaybee Remake)",
+      "url": "https://open.spotify.com/track/4xIHRqcNECGyAHOwwbWWoG"
     },
     {
       "album": {
@@ -9196,7 +9240,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 201123,
       "name": "I Forgive You - (Chromeo Remix) [radio edit]",
       "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
@@ -10290,6 +10334,32 @@
       "duration_ms": 184000,
       "name": "Inguwa - Radio Edit",
       "url": "https://open.spotify.com/track/1nOSnLy1WzS50UdCOmESmQ"
+    },
+    {
+      "album": {
+        "name": "THE XO EFFECT 2",
+        "url": "https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        },
+        {
+          "name": "Beat Soul",
+          "url": "https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438548,
+      "name": "INHLIZIYO (feat. Brandon Dhludhlu)",
+      "url": "https://open.spotify.com/track/5f33BzBZzMMAFrMr0O4xHe"
     },
     {
       "album": {
@@ -11773,6 +11843,28 @@
     },
     {
       "album": {
+        "name": "Know You Well",
+        "url": "https://open.spotify.com/album/7BSYfxoJgxwNwcoToDI29w"
+      },
+      "artists": [
+        {
+          "name": "Jay Em",
+          "url": "https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw"
+        },
+        {
+          "name": "Nothando Mamba",
+          "url": "https://open.spotify.com/artist/4DMTgsuDFjGAR0Zm4z6Ijj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "Know You Well",
+      "url": "https://open.spotify.com/track/4y1bBDiB33le7jEgQLKNqD"
+    },
+    {
+      "album": {
         "name": "Kolowa",
         "url": "https://open.spotify.com/album/19QgAU6ZRMY3OLz7rIfk1C"
       },
@@ -13010,7 +13102,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 221743,
       "name": "Love Generation - Reimagined",
       "url": "https://open.spotify.com/track/0XNmVc3Q1wVIgY4hRAYaTv"
@@ -14550,7 +14642,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -16044,6 +16136,28 @@
       "duration_ms": 238406,
       "name": "Nzara",
       "url": "https://open.spotify.com/track/11sXJamrz0EI2zf7wuwJF4"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
       "album": {
@@ -20142,6 +20256,28 @@
       "duration_ms": 190975,
       "name": "Strangers (with Mansionair) - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/4XWwO9fZnrDhXZrMBMGesE"
+    },
+    {
+      "album": {
+        "name": "XXVI",
+        "url": "https://open.spotify.com/album/540mWucmj2AlhjBcHRmwg5"
+      },
+      "artists": [
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356413,
+      "name": "Subanomona",
+      "url": "https://open.spotify.com/track/1q8iDWZBjtjz2ClG0DHPHO"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6MUrG3NBYtM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6MUrG3NBYtM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6MUrG3NBYtM)
 
-### [Alternative 2024](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
+### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Alternative, Indie en Rock van nu! Cover: Royel Otis
+> Indie & Alternative op zijn grootst\. Cover: Fontaines DC
 
 105 songs - 6 hr 12 min
 

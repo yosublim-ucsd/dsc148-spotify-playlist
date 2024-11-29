@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: ANGIE
+> Il meglio dell'R&B italiano\. Cover: Elodie, Tiziano Ferro
 
 681 songs - 1 day 9 hr 49 min
 

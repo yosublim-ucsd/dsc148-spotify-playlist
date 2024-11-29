@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 89297,
+  "num_followers": 89291,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "In my head",
         "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 155725,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "In The Function",
         "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
       },
@@ -571,22 +555,6 @@
       "duration_ms": 154285,
       "name": "In The Function",
       "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "DTB",
-      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -611,6 +579,22 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -643,6 +627,22 @@
       "duration_ms": 392013,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -699,30 +699,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Lost in Lofi",
-        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Hate That I Love You",
-      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Hearts Get Numb",
         "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
       },
@@ -771,22 +747,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -803,6 +763,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Lost in Lofi",
+        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 183851,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Lost in Lofi",
-        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Couple Little Things",
-      "url": "https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
       },
@@ -923,6 +899,22 @@
       "duration_ms": 164553,
       "name": "WAIT N SEE",
       "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -975,18 +967,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
+        "name": "Lost in Lofi",
+        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+      "duration_ms": 206166,
+      "name": "Couple Little Things",
+      "url": "https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1007,22 +1007,6 @@
       "duration_ms": 177110,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "THOUGHTS",
-        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
-      },
-      "artists": [
-        {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "THOUGHTS",
-      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 151730,
       "name": "Driscoll",
       "url": "https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "THOUGHTS",
+        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
+      },
+      "artists": [
+        {
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "THOUGHTS",
+      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
       },
       "artists": [
         {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "No Emotions",
-        "url": "https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ"
-      },
-      "artists": [
-        {
-          "name": "Ddotz x Dice",
-          "url": "https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "No Emotions",
-      "url": "https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1383,38 +1383,34 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+        "name": "No Emotions",
+        "url": "https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ"
       },
       "artists": [
         {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+          "name": "Ddotz x Dice",
+          "url": "https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd"
         }
       ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+      "duration_ms": 168751,
+      "name": "No Emotions",
+      "url": "https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D"
     },
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+      "duration_ms": 153045,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1447,22 +1443,6 @@
       "duration_ms": 110759,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 159764,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1OVkxs6N32KszTbvWRftjj"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2024-11-22 00:00:00",

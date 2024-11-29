@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 198138,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb"
@@ -2664,6 +2664,28 @@
       "duration_ms": 174453,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/1mNAIBxkCHT0QJqBURS3OY"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "V. Bozeman",
+          "url": "https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203544,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2tGmFHZybqa7gtVWKRAHGp"
     },
     {
       "album": {

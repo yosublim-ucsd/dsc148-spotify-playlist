@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. emily jeffri
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. BUBZ
 
-1,032 songs - 2 day 2 hr 4 min
+1,036 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [BLOODMONEY](https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:02 | 2024-03-08 | 2024-03-09 |
 | [BLOODMONEY](https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:02 | 2022-08-27 | 2022-09-02 |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-03-10 | 2023-07-07 |
+| [BLOODSUCKA \(feat\. Debbie Gough\)](https://open.spotify.com/track/2qoc9gvHSFGx8c4hLBQxPy) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W), [Debbie Gough](https://open.spotify.com/artist/4OvDgVw2NEVzt79bIDxsjF) | [ANATOMY](https://open.spotify.com/album/0GyTlhdr6mF1jllBgzDxbb) | 2:47 | 2024-11-29 |  |
 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 | 2022-03-11 | 2022-11-04 |
 | [Blossom](https://open.spotify.com/track/4Ft8VwrsSfGV2bXmWf51Kf) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Blossom](https://open.spotify.com/album/78gD487gcnP0mhlTOpvD9H) | 3:26 | 2023-11-10 | 2024-02-16 |
 | [Blossom](https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Blossom](https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1) | 4:04 | 2023-11-10 | 2023-12-09 |
@@ -442,6 +443,7 @@
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2024-05-28 | 2024-06-07 |
 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 | 2024-01-26 | 2024-07-12 |
 | [HIGH BY THE BEACH \- SIRENCORE Version](https://open.spotify.com/track/1bLROPTSiepDvid3Q0CzH5) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [HIGH BY THE BEACH \(SIRENCORE Version\)](https://open.spotify.com/album/2KvPr9Ewd7RSC4r2fwd28Z) | 3:10 | 2024-02-02 | 2024-03-08 |
+| [High Voltage Anxiety](https://open.spotify.com/track/6AQwb0d5wgyNQEwIpsjd4y) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [High Voltage Anxiety](https://open.spotify.com/album/3KfGy5Pp106mG5wgdaMX8b) | 3:40 | 2024-11-29 |  |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 | 2022-11-11 |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-01-20 |
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-04 | 2023-05-20 |
@@ -506,6 +508,7 @@
 | [INEVITABLE](https://open.spotify.com/track/2qtSizmBpVyaOZMypRdxZv) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [INEVITABLE](https://open.spotify.com/album/193XRG7LBnajqsiNXqpjtN) | 3:13 | 2023-06-15 | 2023-08-18 |
 | [Inner Child](https://open.spotify.com/track/0ZRIrT707yPnVxWJFhwnt0) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [why am i like this??](https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM) | 2:54 | 2023-05-12 | 2023-11-18 |
 | [INSECT](https://open.spotify.com/track/2vI0ZtZJSz5HAfJGJUFA7g) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [INSECT](https://open.spotify.com/album/2PeXvgtArcePH8sLXgE2TB) | 2:39 | 2024-07-11 | 2024-11-15 |
+| [Inside Out](https://open.spotify.com/track/1iCLFD5JQ8YOONoYR0LuPR) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [DEAR TASH](https://open.spotify.com/artist/6aTFp3gBxepw38KmDPQq3Q), [Tom Saint](https://open.spotify.com/artist/6tatWnZ4nH8Cpivd2uXKJn) | [Inside Out](https://open.spotify.com/album/0fbggCHMhr44lAiC0i9kSs) | 2:19 | 2024-11-29 |  |
 | [Instant Sobriety \(feat\. 8485\)](https://open.spotify.com/track/2lrG24N3gZbdu9uPSGD2wZ) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Camouflage](https://open.spotify.com/album/5f5QFBWEVi0ew8VZX89kFY) | 2:27 | 2022-01-19 | 2022-02-13 |
 | [Internetgf](https://open.spotify.com/track/62Nr3aP2VXVmNySZmiJyOY) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Internetgf/Limousine](https://open.spotify.com/album/4pOHBb9AIat9b5aXujaBzJ) | 2:38 | 2022-09-07 | 2023-03-03 |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-05-26 | 2022-07-29 |
@@ -654,6 +657,7 @@
 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 | 2022-08-25 | 2022-12-01 |
 | [Motorbike](https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Motorbike](https://open.spotify.com/album/6KuekGFTXLpJU73y7jXqG0) | 2:26 | 2023-10-19 | 2023-12-16 |
 | [mr\. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [mr\. mole](https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5) | 2:12 | 2024-09-26 | 2024-11-08 |
+| [MURDER](https://open.spotify.com/track/4eQhBK1EkRzUZAxvgqkQ7z) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [MURDER](https://open.spotify.com/album/2GuQlMTTDVRa71Knxe9qyO) | 3:22 | 2024-11-29 |  |
 | [Muse](https://open.spotify.com/track/0L90eNyjqTtmwbReUTwV1L) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Muse](https://open.spotify.com/album/1AxE7kx5I5yX5fdjdLkGhg) | 2:13 | 2022-11-18 | 2023-01-13 |
 | [My Bloody Valentine](https://open.spotify.com/track/4hnKoBZJ3XHMkNXCFWvoAm) | [Cottontail](https://open.spotify.com/artist/4TVXVHRuEfI05r7V2iKvss), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9), [Zepkins](https://open.spotify.com/artist/0wXgbtNwH7CcHmmmNcEZRo) | [My Bloody Valentine](https://open.spotify.com/album/261S9u5PrX8u1W6aRLC69Z) | 2:47 | 2021-12-27 | 2022-06-10 |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-06-27 | 2024-11-15 |

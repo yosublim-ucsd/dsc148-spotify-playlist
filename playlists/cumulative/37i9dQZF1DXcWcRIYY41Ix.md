@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Inés Errandonea.
 
-707 songs - 1 day 18 hr 8 min
+708 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [El Camino](https://open.spotify.com/track/2mPC1Y8qVCEK0Mm5Sku46g) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [El Camino](https://open.spotify.com/album/1Mccf8ij7YNdgvHkuOsVSi) | 3:34 | 2021-12-24 | 2022-07-29 |
 | [El Camino](https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [El Camino](https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz) | 3:34 | 2022-07-22 | 2023-06-17 |
 | [El Capricho](https://open.spotify.com/track/5QGTb92k46cyQlJDWo2Y7F) | [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [El Capricho](https://open.spotify.com/album/0xLKNZOfJs1fehyGCfHU0O) | 4:25 | 2022-04-01 | 2022-04-21 |
-| [El cielo de tu boca](https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN) | [Bruno Sotos](https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8) | [El chico de Andratx](https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU) | 2:33 | 2024-10-11 |  |
+| [El cielo de tu boca](https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN) | [Bruno Sotos](https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8) | [El chico de Andratx](https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU) | 2:33 | 2024-10-11 | 2024-11-29 |
 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 | 2024-07-05 |  |
 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 | 2022-07-22 | 2024-03-02 |
 | [El don de la ternura](https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [El don de la ternura](https://open.spotify.com/album/4NchRZ46MzLJaTfN9ugXwu) | 4:57 | 2021-12-24 | 2022-07-27 |
@@ -638,6 +638,7 @@
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2021-12-24 | 2024-06-12 |
 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-01-26 | 2024-03-09 |
 | [Todo o nada](https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Todo o nada](https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx) | 3:02 | 2023-09-29 | 2023-12-09 |
+| [Todo palante ya](https://open.spotify.com/track/4yu3fWLvZRvyjyOrGIUPfF) | [Lino Suricato](https://open.spotify.com/artist/2B3pogaficYqwZ3DwaKH47) | [Todo palante ya](https://open.spotify.com/album/0J4pHbmkeVEEolJ1YhIjB5) | 3:34 | 2024-11-22 |  |
 | [Todo volverá a ser como antes](https://open.spotify.com/track/1kbgFZjE0rkg5kg7w5noim) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [Todo volverá a ser como antes](https://open.spotify.com/album/70csm4MKaNgSwBMNghFfAJ) | 3:01 | 2024-09-24 | 2024-10-26 |
 | [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 | 2022-12-29 |
 | [Tonada de Luna Llena](https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Un Viajecito](https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr) | 4:42 | 2023-02-17 | 2023-03-11 |

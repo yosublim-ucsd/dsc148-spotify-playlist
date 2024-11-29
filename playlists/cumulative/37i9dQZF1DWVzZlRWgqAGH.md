@@ -4,7 +4,7 @@
 
 > Music for your soul\. Cover: Planet Giza
 
-1,396 songs - 3 day 9 hr 54 min
+1,397 songs - 3 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [JAI'S SONG \(FALLING\)](https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL: SIDE A](https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct) | 3:10 | 2024-03-22 | 2024-09-28 |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-10 | 2023-12-09 |
 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2019-10-03 | 2020-02-20 |
+| [je t'aime](https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [je t'aime](https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I) | 4:14 | 2024-11-22 |  |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2024-06-01 |
 | [Jonesin'](https://open.spotify.com/track/5QFSVxgAbaCJFoKMmtfcdK) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Love Had Other Plans](https://open.spotify.com/album/2uegzhhmxCYMIdWKL1FyYr) | 3:34 | 2023-09-22 | 2023-10-20 |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-08 |  |

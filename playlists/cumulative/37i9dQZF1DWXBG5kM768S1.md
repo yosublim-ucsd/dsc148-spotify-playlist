@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-247 songs - 15 hr 46 min
+248 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bak En Sky Heim](https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S) | 4:34 | 2023-06-01 | 2024-04-19 |
 | [Baklengs ombord](https://open.spotify.com/track/4eUlDBi2cXnnzbcyboq85B) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Baklengs ombord](https://open.spotify.com/album/6HUiML7VO1cx3OFKFIE4Av) | 3:48 | 2022-03-23 | 2022-07-20 |
 | [Balladen om Jonas Falch](https://open.spotify.com/track/5abeWSVef47zFitVZVINU3) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Balladen om Jonas Falch](https://open.spotify.com/album/2MjeGxxwzdEZYgUlmdStHg) | 4:37 | 2022-01-20 | 2022-06-16 |
+| [Beibi kom hjem \- Single Edit](https://open.spotify.com/track/6U55Tde9CdKzlRKGbnlEoG) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Beibi kom hjem](https://open.spotify.com/album/2QXDcaFzzjLkdt3J30Gi3V) | 3:44 | 2024-11-21 |  |
 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 | 2021-12-16 |  |
 | [Bonden](https://open.spotify.com/track/3qJ67DQIkl9FnqTcbxqkuf) | [Sigrid Moldestad](https://open.spotify.com/artist/4l2PfWenotuMdNx3O2QzkM) | [Bonden](https://open.spotify.com/album/4rhFyhczRVGlYU9zOPYmnE) | 4:44 | 2021-12-16 | 2022-06-17 |
 | [Brenner overalt](https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Brenner overalt](https://open.spotify.com/album/2tvHKfP5GG5mpPwaNhvM0D) | 4:04 | 2021-12-16 | 2022-06-10 |
@@ -153,7 +154,7 @@
 | [Kongen Av Ingenting](https://open.spotify.com/track/7i9MaELeXg5h6AZVLHkgTM) | [Johbru](https://open.spotify.com/artist/2h1VhxgeLNVn9VxkzlEhli) | [Kongen Av Ingenting](https://open.spotify.com/album/19x4mrX3ctHNseL2wiOf5f) | 4:17 | 2022-03-23 | 2022-04-22 |
 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/32hQouZsr5n9bcFbqKiNbf) | 1:53 | 2022-10-20 | 2022-12-30 |
 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/3aAlj4WfClIgNtli1nBnBm) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/77LUUJWapj666rvWseXTAy) | 1:53 | 2022-01-27 | 2022-06-24 |
-| [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 | 2024-10-17 |  |
+| [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 | 2024-10-17 | 2024-11-29 |
 | [Kyss med smak av tårer](https://open.spotify.com/track/0f7pE9aRfLoGaVEaRUUO4U) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Ingen vei hjem](https://open.spotify.com/album/7arXs3uqnOvvUBeeuhbADc) | 4:03 | 2022-03-23 | 2022-06-19 |
 | [La Boheme](https://open.spotify.com/track/3DGai1cPz4fxD1oOWw532r) | [Humle](https://open.spotify.com/artist/4Z8YvGSKlWwcKLm1Pem5X2) | [Ta meg hjem igjen](https://open.spotify.com/album/4oopUCZwZnhxgyOEdy56mr) | 3:13 | 2024-04-11 | 2024-06-07 |
 | [La oss ta en idealist](https://open.spotify.com/track/7sW9cHKbqoR9e8eL8M5uP0) | [Doddo](https://open.spotify.com/artist/7gWtJcbCpqPRWhvtGo9n1k) | [La oss ta en idealist](https://open.spotify.com/album/5ojGw9GLoqjqfb0hLJGb45) | 4:10 | 2022-01-27 | 2022-07-25 |

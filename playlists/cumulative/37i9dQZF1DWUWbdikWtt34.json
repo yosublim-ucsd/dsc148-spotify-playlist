@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Iis Dahlia",
+  "description": "Dendang Dangdut teratas. Cover: Lesti",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Jangan Tanggung Tanggung (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369352,
+      "name": "Jangan Tanggung Tanggung - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi"
+    },
+    {
+      "album": {
         "name": "Jatuh Bangun",
         "url": "https://open.spotify.com/album/2pcm5hzGChyqTYah12auu4"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 272727,
       "name": "Kilau Cinta",
       "url": "https://open.spotify.com/track/4pnuf1MaxKMi94aaSZ1xwq"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 293538,
       "name": "Matematika Cinta",
       "url": "https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw"
@@ -2695,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Rela Demi Cinta",
+        "url": "https://open.spotify.com/album/2x19JpufFs12UgYHcC74z3"
+      },
+      "artists": [
+        {
+          "name": "Aprilian",
+          "url": "https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320063,
+      "name": "Rela Demi Cinta",
+      "url": "https://open.spotify.com/track/1mlJzleUYpAdtSRfXFliE9"
+    },
+    {
+      "album": {
         "name": "Rindu",
         "url": "https://open.spotify.com/album/4xkXqRUixRjHEdTAF2aZUL"
       },
@@ -3240,7 +3276,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 356757,
       "name": "Simpati Cinta",
       "url": "https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP"

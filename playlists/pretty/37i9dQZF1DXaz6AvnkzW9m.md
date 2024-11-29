@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Justin Morales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,868 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,891 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 72 | [Ondeado V2](https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Ondeado V2](https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl) | 5:55 |
 | 73 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 |
 | 74 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
-| 75 | [Amiri](https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Amiri](https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI) | 3:31 |
+| 75 | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY) | [Jared Flórez](https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7) | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v) | 2:41 |
 
 Snapshot ID: `Zy48OQAAAACg58BiLDvq9zPCD7rpF7y9`

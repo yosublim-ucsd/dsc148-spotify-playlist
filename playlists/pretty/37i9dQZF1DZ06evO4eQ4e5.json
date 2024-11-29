@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 82093,
+  "num_followers": 82103,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAACSbqSko8YfFoscFC1rdd9V",
+  "snapshot_id": "Z0ZhAAAAAACPE4nDCkW5M7zVyyNwBxGE",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caricias del Cielo",
         "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 248026,
       "name": "Acost\u00fambrame al cielo",
       "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Entre ella y yo",
+      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Entre ella y yo",
-      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memorias Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 249586,
       "name": "No Renunciar\u00e9",
       "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 229011,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
       "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 220329,
-      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
-      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+      "duration_ms": 229011,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
     },
     {
       "added_at": null,
@@ -739,6 +719,26 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 220329,
+      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
+      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
     },
     {
       "added_at": null,

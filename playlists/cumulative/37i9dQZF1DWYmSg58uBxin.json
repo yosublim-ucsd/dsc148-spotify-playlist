@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "If Life Was a Movie",
+        "url": "https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby"
+      },
+      "artists": [
+        {
+          "name": "John Sachs",
+          "url": "https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105532,
+      "name": "If Life Was a Movie",
+      "url": "https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt"
+    },
+    {
+      "album": {
         "name": "Impasse des Bourdonnais",
         "url": "https://open.spotify.com/album/2Kiy7znRPwbZjK1fQvOe0F"
       },

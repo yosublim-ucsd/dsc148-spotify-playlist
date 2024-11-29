@@ -1297,7 +1297,7 @@
         },
         {
           "name": "Lynn",
-          "url": "https://open.spotify.com/artist/5eQIvJs6k9dDFErNq3Rk6d"
+          "url": "https://open.spotify.com/artist/4A9bPmU7aVNk37wwNmMmtu"
         }
       ],
       "date_added": "2023-12-28",
@@ -2889,6 +2889,36 @@
     },
     {
       "album": {
+        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
+    },
+    {
+      "album": {
         "name": "Nachavule Nachavule (From \"Virupaksha\")",
         "url": "https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V"
       },
@@ -3096,7 +3126,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 234000,
       "name": "Nee Jathai",
       "url": "https://open.spotify.com/track/3vl82UXmY4KEk8cYc8Qq8i"

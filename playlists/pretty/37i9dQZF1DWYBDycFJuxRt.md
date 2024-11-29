@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Eve \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Eve \*👉 <a href="https://spice.eplus.jp/articles/333608">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,002 likes - 90 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,040 likes - 90 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 16 | [Donkey Gongs](https://open.spotify.com/track/5dEqcmor35aN7xwbupzDqz) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [H⁺](https://open.spotify.com/album/0GoIL3ApSF3ttfO1U367bJ) | 3:35 |
 | 17 | [一億人の恋人（feat\. 乃紫）](https://open.spotify.com/track/2sMZaPIF2N8ZPxPCbAoAzz) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Circus Funk](https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY) | 4:16 |
 | 18 | [ACTOR](https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ACTOR](https://open.spotify.com/album/2F3rLv6zsQBB9ZZjb3d6YD) | 2:56 |
-| 19 | [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [星街すいせい](https://open.spotify.com/artist/76MJfB59kw7VAKFG1uFc8M) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 |
+| 19 | [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 |
 | 20 | [銃電中](https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [銃電中](https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw) | 3:31 |
 | 21 | [素晴らしき世界](https://open.spotify.com/track/2ymdD3bKOQXS3kiwCDnwyF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [素晴らしき世界](https://open.spotify.com/album/1Xt5gd2coJl4qTZS4jI0qN) | 3:13 |
 | 22 | [daybreak seeker](https://open.spotify.com/track/3Zb2kBd1Z5BlIgaP3sc2kW) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [NOTOK](https://open.spotify.com/album/2vJ6AsSjj2S6VJpCryQQ2w) | 4:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 89 | [BABY](https://open.spotify.com/track/52OLt8RkYdWM8S6Wbhdk4w) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [FLARE](https://open.spotify.com/album/7DFrPAptkCLvvTlcYPBSPQ) | 5:33 |
 | 90 | [愛をこめて](https://open.spotify.com/track/0TK2B5V3Rgu0jZqeXdz0fV) | [三四少女](https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS) | [恋してる・コンティニュー](https://open.spotify.com/album/0dkTdGqT95EHMebm6luJ6b) | 2:25 |
 
-Snapshot ID: `Z0afTQAAAADTKbIRk8V6/1Pm8pD/pn31`
+Snapshot ID: `Z0gNEwAAAABzqrypT+fg9QeW5yoDG3pq`

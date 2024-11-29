@@ -511,6 +511,22 @@
     {
       "added_at": "2024-11-26 15:00:00",
       "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "duration_ms": 299606,
+      "name": "DEAR MY LOVER",
+      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
+    },
+    {
+      "added_at": "2024-11-26 15:00:00",
+      "album": {
         "name": "Sweetest Tune",
         "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 222446,
       "name": "Royal",
       "url": "https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF"
-    },
-    {
-      "added_at": "2024-11-26 15:00:00",
-      "album": {
-        "name": "P.U!",
-        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
-      },
-      "artists": [
-        {
-          "name": "Hey! Say! JUMP",
-          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
-        }
-      ],
-      "duration_ms": 299606,
-      "name": "DEAR MY LOVER",
-      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
     },
     {
       "added_at": "2024-11-26 15:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-11-26 15:00:00",
       "album": {
-        "name": "Don't Tell Nobody",
-        "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        }
-      ],
-      "duration_ms": 173925,
-      "name": "Don't Tell Nobody",
-      "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
-    },
-    {
-      "added_at": "2024-11-26 15:00:00",
-      "album": {
         "name": "THE VIEW",
         "url": "https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 168986,
       "name": "ONE NIGHT",
       "url": "https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn"
+    },
+    {
+      "added_at": "2024-11-26 15:00:00",
+      "album": {
+        "name": "Don't Tell Nobody",
+        "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "duration_ms": 173925,
+      "name": "Don't Tell Nobody",
+      "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
     },
     {
       "added_at": "2024-11-26 15:00:00",

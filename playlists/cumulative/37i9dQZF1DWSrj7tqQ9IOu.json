@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Oscar Anton",
+  "description": "The best French indie tracks right now. Cover : Miki",
   "name": "Made in France",
   "tracks": [
     {
@@ -388,6 +388,28 @@
       "duration_ms": 270293,
       "name": "Am I A Fool ?",
       "url": "https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz"
+    },
+    {
+      "album": {
+        "name": "Am I Too Good For You, Baby ?",
+        "url": "https://open.spotify.com/album/0iUKKortl6H8N3my0oFYtw"
+      },
+      "artists": [
+        {
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198151,
+      "name": "Am I Too Good For You, Baby ?",
+      "url": "https://open.spotify.com/track/4KZjNKHc5Q6QLCUj6akI8U"
     },
     {
       "album": {
@@ -866,7 +888,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 226514,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
@@ -7939,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/2EMmdZaSWvScbh5EB2evfX"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/7ioR5gy31HW0tKpDoMmYfr"
+    },
+    {
+      "album": {
         "name": "postcard from Rio",
         "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
       },
@@ -9170,7 +9210,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212750,
       "name": "The world of yesterday",
       "url": "https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9"

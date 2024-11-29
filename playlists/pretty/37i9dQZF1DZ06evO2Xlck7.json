@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3079,
+  "num_followers": 3080,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAACTIeh/LlFN9MIFmNmSpY8s",
+  "snapshot_id": "Z0ZhAAAAAACz3RWqwovsJkL1UPPJyZ0f",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Insomniatic Meat",
-      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
+      "duration_ms": 185386,
+      "name": "A Piece Of Mind",
+      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 185386,
-      "name": "A Piece Of Mind",
-      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
+      "duration_ms": 264533,
+      "name": "Insomniatic Meat",
+      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,

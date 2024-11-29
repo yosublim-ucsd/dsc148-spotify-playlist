@@ -1,107 +1,79 @@
 {
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Odeal",
-  "num_followers": 121154,
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Sasha Keable",
+  "num_followers": 121160,
   "original_name": "Douces Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+7cAAAAAA5qL++eRgs18K3A2UnFZ3v",
+  "snapshot_id": "Z0j18AAAAABa8z52qCdpwJB6MBZMMdNV",
   "tracks": [
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Love's Letter (Deluxe)",
+        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "Ebbs & Flows",
+      "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 247185,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 244000,
-      "name": "You're Stuck (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "When He\u2019s Not There (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 268401,
-      "name": "When He\u2019s Not There (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 172924,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Send Your Loving (feat. Tayc) [Remix]",
-        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 221564,
-      "name": "Send Your Loving (feat. Tayc) [Remix]",
-      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "Here We Go (Uh Oh)",
         "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
@@ -117,7 +89,87 @@
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Oakland Pt. 2",
+        "url": "https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Oakland Pt. 2",
+      "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Anything I Can Do",
+        "url": "https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Anything I Can Do",
+      "url": "https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 226835,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 108791,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/13cBllnsjnefOgCxuKFrnF"
@@ -137,211 +189,39 @@
       "url": "https://open.spotify.com/track/2pKALxRl5U68raqa1ogDYx"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+        "name": "3",
+        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+      "duration_ms": 172924,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Take Your Time (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 235461,
-      "name": "Take Your Time (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
+      "duration_ms": 210051,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Oakland Pt. 2",
-        "url": "https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Oakland Pt. 2",
-      "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Red Light",
-        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 247185,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Love's Letter (Deluxe)",
-        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "Ebbs & Flows",
-      "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "LUCKY ME",
-        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 163561,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Sick (feat. 4batz)",
-        "url": "https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Sick (feat. 4batz)",
-      "url": "https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Anything I Can Do",
-        "url": "https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Anything I Can Do",
-      "url": "https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/1iFSSMmk9eJGPhiOw7Gk77"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 173753,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/57TWkgQVyTCzffOzMJKens"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
@@ -361,10 +241,178 @@
       "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "When He\u2019s Not There (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 268401,
+      "name": "When He\u2019s Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Preference",
+        "url": "https://open.spotify.com/album/11IDcKfSM4zLURG7pF1NaI"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 176978,
+      "name": "Preference",
+      "url": "https://open.spotify.com/track/51dVDANsWbXKQ5Y95gX6DH"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "You're Stuck (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Pink Magnolia (Deluxe)",
+        "url": "https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "je t'aime",
+        "url": "https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "je t'aime",
+      "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Gap Year!",
+        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Want 2",
+      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Patience & Heart / In your absence",
+        "url": "https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 145055,
+      "name": "In Your Absence",
+      "url": "https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
       "artists": [
         {
@@ -372,12 +420,32 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 228047,
-      "name": "YES IT IS",
-      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Take Your Time (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 235461,
+      "name": "Take Your Time (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "1:59 (feat. Gunna)",
         "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
@@ -397,203 +465,99 @@
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "9 to 5",
-        "url": "https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg"
+        "name": "Sick (feat. 4batz)",
+        "url": "https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz"
       },
       "artists": [
         {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Save Your Tears",
-        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         },
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Sick (feat. 4batz)",
+      "url": "https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Send Your Loving (feat. Tayc) [Remix]",
+        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
         },
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
+      "duration_ms": 221564,
+      "name": "Send Your Loving (feat. Tayc) [Remix]",
+      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Pink Magnolia (Deluxe)",
-        "url": "https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/1hGbOVIjKD9fA6wh4zEuLi"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 173187,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb"
+      "duration_ms": 218075,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/1LI1wDPemek20Hti9u56tu"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Finer Things",
-        "url": "https://open.spotify.com/album/2KoY8Zzf0mVM34MQrNasSC"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 235966,
-      "name": "Finer Things",
-      "url": "https://open.spotify.com/track/5ctfg8YxHUYbVFUPchrr8D"
+      "duration_ms": 213312,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH"
+        "name": "LUCKY ME",
+        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
       },
       "artists": [
         {
-          "name": "Elijah Blake",
-          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         },
         {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         }
       ],
-      "duration_ms": 217622,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"
+      "duration_ms": 163561,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 215178,
-      "name": "Residuals",
-      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "pretty little thing",
-        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 190959,
-      "name": "pretty little thing",
-      "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Loving You / Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 210051,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "SOS (Sex on Sight) (feat. USHER)",
         "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
@@ -613,59 +577,7 @@
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Make Money (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 231577,
-      "name": "Make Money (feat. Mereba)",
-      "url": "https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Gap Year!",
-        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Want 2",
-      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "SAFE FLIGHT",
-        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "DBHZ",
         "url": "https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4"
@@ -689,23 +601,127 @@
       "url": "https://open.spotify.com/track/2IKrV6qbX6i8vzjhYqIbIO"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "FOR THE BOY IN ME",
-        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/1iFSSMmk9eJGPhiOw7Gk77"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
         }
       ],
-      "duration_ms": 279746,
-      "name": "NARCISSIST?",
-      "url": "https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9"
+      "duration_ms": 173753,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/57TWkgQVyTCzffOzMJKens"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/2KoY8Zzf0mVM34MQrNasSC"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Finer Things",
+      "url": "https://open.spotify.com/track/5ctfg8YxHUYbVFUPchrr8D"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Make Money (feat. Mereba)",
+        "url": "https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 231577,
+      "name": "Make Money (feat. Mereba)",
+      "url": "https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Loving You / Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/1a6jnrigkX93IusTWIClLa"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "War",
+      "url": "https://open.spotify.com/track/271IpfD1vNfzrvgXW0lyXm"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "Passenger Princess (Remix)",
         "url": "https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l"
@@ -725,23 +741,55 @@
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Temptress",
-        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
+      "duration_ms": 279746,
+      "name": "NARCISSIST?",
+      "url": "https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Outside The Gate",
+        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "Outside The Gate",
+      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
@@ -757,23 +805,43 @@
       "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Glad You Came",
-        "url": "https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV"
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
         }
       ],
-      "duration_ms": 145517,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j"
+      "duration_ms": 217622,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
       "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
@@ -789,108 +857,20 @@
       "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
-      "added_at": "2024-11-21 23:00:00",
+      "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Just Another Day",
-        "url": "https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk"
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "Auryln",
-          "url": "https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 160496,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/2f52p1EhQFff9RlBZ4cZxy"
-      },
-      "artists": [
-        {
-          "name": "ELENA",
-          "url": "https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU"
-        },
-        {
-          "name": "HALES",
-          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1EJv8ZXlfjFQdnCNeAucAe"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/1a6jnrigkX93IusTWIClLa"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 157973,
-      "name": "War",
-      "url": "https://open.spotify.com/track/271IpfD1vNfzrvgXW0lyXm"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/1hGbOVIjKD9fA6wh4zEuLi"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 218075,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/1LI1wDPemek20Hti9u56tu"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Outside The Gate",
-        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 206739,
-      "name": "Outside The Gate",
-      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
+      "duration_ms": 145517,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j"
     }
   ],
   "unique_name": "Douces Vibes",

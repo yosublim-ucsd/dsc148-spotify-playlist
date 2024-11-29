@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-859 songs - 1 day 22 hr 44 min
+860 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 | 2022-09-02 | 2023-01-28 |
 | [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-03 | 2023-08-12 |
 | [black like you](https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [black like you](https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz) | 3:12 | 2023-06-23 | 2023-09-09 |
-| [Bleeding](https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Bleeding](https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z) | 2:53 | 2024-08-23 |  |
+| [Bleeding](https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Bleeding](https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z) | 2:53 | 2024-08-23 | 2024-11-29 |
 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 | 2021-12-15 | 2023-04-29 |
 | [Blessed](https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH) | 3:08 | 2022-04-07 | 2022-09-30 |
 | [Blind Man](https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man](https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X) | 4:02 | 2021-12-15 | 2022-04-03 |
@@ -269,7 +269,7 @@
 | [GARDEN](https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [GARDEN](https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH) | 3:06 | 2024-07-19 |  |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 | 2024-05-09 |
-| [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2024-03-01 |  |
+| [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2024-03-01 |  |
 | [Gay Face](https://open.spotify.com/track/0bDSviyAcNpCiIOipNDLhU) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Gay Face](https://open.spotify.com/album/0O0Hp49Ql9EKpcVPYxVzlf) | 3:01 | 2023-06-02 | 2023-06-10 |
 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 | 2023-12-08 | 2024-02-16 |
 | [Genius](https://open.spotify.com/track/6bFrDi7UT0FF5h4KZWxjKo) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Genius](https://open.spotify.com/album/2nPTI8iHG0LPTUTAybNO9h) | 2:33 | 2024-08-30 | 2024-10-14 |
@@ -535,6 +535,7 @@
 | [no spine](https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 3:02 | 2023-09-01 |  |
 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 | 2021-12-15 | 2022-06-11 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 | 2024-10-23 |
+| [note to self](https://open.spotify.com/track/6ykHRcw2cA8mA79WxkVx0M) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [SENSES VOL\. 2](https://open.spotify.com/album/205AETirDQxPoq8rmDnAFm) | 2:36 | 2024-11-22 |  |
 | [Nothing Sweeter](https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Nothing Sweeter](https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc) | 4:25 | 2024-01-19 |  |
 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 | 2023-08-26 |
 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 | 2024-03-29 | 2024-08-24 |
@@ -849,7 +850,7 @@
 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 | 2024-03-01 |  |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 4:53 | 2023-08-25 | 2023-11-04 |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 | 2023-08-25 | 2024-02-18 |
-| [Would You](https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J) | [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Would You](https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1) | 3:12 | 2023-03-03 |  |
+| [Would You](https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J) | [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Would You](https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1) | 3:12 | 2023-03-03 |  |
 | [wunna dem \(with QUIN\)](https://open.spotify.com/track/1w62bHcCzysJLbKEGuXykx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 1:51 | 2023-03-31 | 2023-07-15 |
 | [XO](https://open.spotify.com/track/28u4Zni1lBiTjUteOrSd0C) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [XO](https://open.spotify.com/album/1PYtYVMyQ1iZWzzqda1xqZ) | 2:48 | 2023-01-27 | 2023-04-01 |
 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 | 2021-12-15 | 2023-03-11 |

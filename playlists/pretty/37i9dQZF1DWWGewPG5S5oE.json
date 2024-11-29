@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c0f\u66fd\u6839 \u771f",
-  "num_followers": 40260,
+  "num_followers": 40283,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "qualia",
         "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 204306,
       "name": "qualia",
       "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "All Too Soon",
+        "url": "https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234758,
+      "name": "All Too Soon",
+      "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "The Bottle",
         "url": "https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 146800,
       "name": "JAPAN THREE",
       "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "All Too Soon",
-        "url": "https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234758,
-      "name": "All Too Soon",
-      "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
-        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Tateishi Trio",
-          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
-        }
-      ],
-      "duration_ms": 277343,
-      "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803\uff08\u7d05\u306e\u8c5a\uff09",
-      "url": "https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
+        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "duration_ms": 277343,
+      "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803\uff08\u7d05\u306e\u8c5a\uff09",
+      "url": "https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "What's Jazz? -STYLE-",
         "url": "https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "Silent Jazz Case 4",
         "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
-        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Tateishi Trio",
-          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
-        }
-      ],
-      "duration_ms": 243276,
-      "name": "\u611b\u306f\u82b1\u3001\u541b\u306f\u305d\u306e\u7a2e\u5b50\uff08\u304a\u3082\u3072\u3067\u307d\u308d\u307d\u308d\uff09",
-      "url": "https://open.spotify.com/track/18RThNYLEtcq3Kma7yeVYR"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -827,6 +811,22 @@
       "duration_ms": 272666,
       "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
       "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
+        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "duration_ms": 243276,
+      "name": "\u611b\u306f\u82b1\u3001\u541b\u306f\u305d\u306e\u7a2e\u5b50\uff08\u304a\u3082\u3072\u3067\u307d\u308d\u307d\u308d\uff09",
+      "url": "https://open.spotify.com/track/18RThNYLEtcq3Kma7yeVYR"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -907,6 +891,42 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "Wind Loop Case 1",
+        "url": "https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u5927\u6d25\u60c7",
+          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
+        }
+      ],
+      "duration_ms": 223385,
+      "name": "Stompin at the M",
+      "url": "https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "GOLD\uff06TURQUOISE",
         "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 262499,
       "name": "GOLD\uff06TURQUOISE",
       "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "All in your palms",
-        "url": "https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW"
-      },
-      "artists": [
-        {
-          "name": "Shingo Suzuki",
-          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
-        },
-        {
-          "name": "\u6e21\u8fba\u7fd4\u592a",
-          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "All in your palms",
-      "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
     }
   ],
   "unique_name": "Modern Jazz Japan",

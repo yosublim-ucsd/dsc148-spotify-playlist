@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Tymek",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Quebonafide",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 176275,
       "name": "Antrakt",
       "url": "https://open.spotify.com/track/2MHEXLyLu7FnpWWOhu1QAh"
@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/5DyNITY6kzUNsD6TJ2wSQ2"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210833,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/7gXv2P25KnqaSeJQDyqlC7"
+    },
+    {
+      "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
       },
@@ -1977,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/3vur868mFUc4nMXpfvCDM7"
+    },
+    {
+      "album": {
         "name": "co by si\u0119 nie dzia\u0142o",
         "url": "https://open.spotify.com/album/1KyewsVbz0uYBY4SMEu5Tt"
       },
@@ -2218,7 +2262,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 142176,
       "name": "Crash",
       "url": "https://open.spotify.com/track/7cQYTRbsDFuITw9trgoDxc"
@@ -2776,7 +2820,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 98241,
       "name": "DLA CIEBIE FREESTYLE",
       "url": "https://open.spotify.com/track/7umf5ey02bJ1N9GMauS002"
@@ -3522,6 +3566,14 @@
         {
           "name": "Quebonafide",
           "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "808Bros",
+          "url": "https://open.spotify.com/artist/44DGXC4Jy2OEik8LhoHjFg"
         }
       ],
       "date_added": "2024-11-21",
@@ -5463,6 +5515,36 @@
     },
     {
       "album": {
+        "name": "LONDON EYE",
+        "url": "https://open.spotify.com/album/2APrWfY4iT7LeVgGz7bMIs"
+      },
+      "artists": [
+        {
+          "name": "slowez",
+          "url": "https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Polak GBP",
+          "url": "https://open.spotify.com/artist/0VhXzgetfPr18StkVk6Wvx"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "LONDON EYE",
+      "url": "https://open.spotify.com/track/6C4ZCyEcdcFRGon7D6BgDT"
+    },
+    {
+      "album": {
         "name": "lord dripiez",
         "url": "https://open.spotify.com/album/1qnHasblxoblfP6zfipPyb"
       },
@@ -6970,10 +7052,36 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 154772,
       "name": "NARA",
       "url": "https://open.spotify.com/track/70lt8OJMEZO3NPjYwZIKmt"
+    },
+    {
+      "album": {
+        "name": "NASZE BY\u0141E",
+        "url": "https://open.spotify.com/album/38fb7I9tE3YxTOi0cOGzPU"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "Blacha 2115",
+          "url": "https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza"
+        },
+        {
+          "name": "Koder",
+          "url": "https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "NASZE BY\u0141E",
+      "url": "https://open.spotify.com/track/5mDpksidxXHanaVrmWeD5A"
     },
     {
       "album": {
@@ -7750,7 +7858,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 127500,
       "name": "Oh My Gawd",
       "url": "https://open.spotify.com/track/5l3bpOrYpI2T1dxU4ec5CM"
@@ -9024,7 +9132,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 115851,
       "name": "P\u0118-TLA",
       "url": "https://open.spotify.com/track/24qErivFb4fp512LeGn2Vf"
@@ -9252,6 +9360,32 @@
       "duration_ms": 176666,
       "name": "ROZK\u0141AD JAZDY",
       "url": "https://open.spotify.com/track/6PpF8XHla9uXYOxj0639Zy"
+    },
+    {
+      "album": {
+        "name": "RYK",
+        "url": "https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH"
+      },
+      "artists": [
+        {
+          "name": "Szaran",
+          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
+        },
+        {
+          "name": "Marcelina Szlachcic",
+          "url": "https://open.spotify.com/artist/5WFFogM0r43PYyPh5KAcIr"
+        },
+        {
+          "name": "Kize",
+          "url": "https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222095,
+      "name": "RYK",
+      "url": "https://open.spotify.com/track/62ZDe6IPl76tDIYasfVGY4"
     },
     {
       "album": {
@@ -11192,6 +11326,32 @@
       "duration_ms": 199694,
       "name": "WRAK",
       "url": "https://open.spotify.com/track/5yMCVbmvy0BvOWNjghN5en"
+    },
+    {
+      "album": {
+        "name": "Wszyscy To My",
+        "url": "https://open.spotify.com/album/3wgpoQF78GbQrTzZOOQMq2"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Ma\u0142gorzata Walewska",
+          "url": "https://open.spotify.com/artist/4RTHlg8s0nLOwX1xtDymTA"
+        },
+        {
+          "name": "Luxon",
+          "url": "https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173011,
+      "name": "Wszyscy To My",
+      "url": "https://open.spotify.com/track/3NDFp3qsPg1ADXSk8r12aB"
     },
     {
       "album": {

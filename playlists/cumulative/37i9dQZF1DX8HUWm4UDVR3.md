@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Helena
+> La pop française annonce la couleur\. Photo : Stromae et Pomme
 
-243 songs - 12 hr 5 min
+245 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Amertume](https://open.spotify.com/track/5gq6AxT0hDXKkfjsupliAz) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Amertume](https://open.spotify.com/album/7q3XF5A9rc8IzGBSb6JUlX) | 3:41 | 2024-06-27 |  |
 | [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 | 2023-07-27 | 2023-09-13 |
 | [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 | 2023-09-07 | 2023-10-06 |
-| [Ange](https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Ange](https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE) | 2:49 | 2024-04-25 |  |
+| [Ange](https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Ange](https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE) | 2:49 | 2024-04-25 | 2024-11-29 |
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2023-10-19 | 2024-02-09 |
 | [Avant la fin de l'été](https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Avant la fin de l'été](https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0) | 3:18 | 2024-08-29 |  |
 | [Baby Boom](https://open.spotify.com/track/1nBH9j0nyQiMjAT02rz35b) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Baby Boom](https://open.spotify.com/album/3LjqItLFxYl9xw1zpanrLE) | 3:03 | 2024-04-04 | 2024-04-19 |
@@ -73,7 +73,7 @@
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 | 2024-03-08 |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
 | [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 | 2024-04-25 | 2024-11-22 |
-| [donne tout](https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [donne tout](https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr) | 3:17 | 2024-11-07 |  |
+| [donne tout](https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [donne tout](https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr) | 3:17 | 2024-11-07 | 2024-11-29 |
 | [Dos à dos](https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Dos à dos](https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V) | 3:20 | 2024-09-05 |  |
 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 | 2024-01-26 |
 | [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 |  |
@@ -113,6 +113,7 @@
 | [J'vais passer l'âge](https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'vais passer l'âge](https://open.spotify.com/album/37vSJJne6tHF4nDhnRDybJ) | 3:02 | 2023-10-12 | 2023-11-10 |
 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 | 2024-10-17 |  |
 | [Je t'ai dit non](https://open.spotify.com/track/3hA78BzovZdpdl2ZQw9KzI) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Je t'ai dit non](https://open.spotify.com/album/1QgvJtMaR04Cy2VySFNBA6) | 2:28 | 2024-08-01 | 2024-09-06 |
+| [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-28 |  |
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-07-27 | 2023-09-22 |
 | [JSR](https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [JSR](https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4) | 2:03 | 2024-10-17 |  |
 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2023-09-28 |  |
@@ -150,6 +151,7 @@
 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 | 2023-08-24 | 2023-10-13 |
 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 | 2024-03-07 |  |
 | [Mauvais garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2024-11-21 |  |
+| [Mayday](https://open.spotify.com/track/7xIXUDJ1NCJHSytNF2neR9) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Mayday](https://open.spotify.com/album/3kF6Rpu6DSBzk26TTHG3U2) | 3:36 | 2024-11-28 |  |
 | [Meilleur](https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Meilleur](https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV) | 2:32 | 2023-11-30 | 2024-02-09 |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2023-10-19 | 2024-03-29 |
 | [Mes inconnus](https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [Mes inconnus](https://open.spotify.com/album/5qko1zYziTbwfo2VfNp6lU) | 2:56 | 2024-02-08 | 2024-04-26 |

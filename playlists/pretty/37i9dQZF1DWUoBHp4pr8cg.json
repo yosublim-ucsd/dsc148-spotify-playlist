@@ -1,13 +1,37 @@
 {
-  "description": "Only the hottest Hip Hop from Brotherkupa, DJ Slique, Tyler, The Creator, and more...",
-  "num_followers": 77417,
+  "description": "Only the hottest Hip Hop from Fuego Sintana, G-TECH 2bit, Tyler The Creator, and more...",
+  "num_followers": 77421,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+tYAAAAADTZHfwmMn3q9doB0qIsedb",
+  "snapshot_id": "Z0jn4AAAAAAv9apKeC32zB47Xgv5Jdz2",
   "tracks": [
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Rent Paid",
+        "url": "https://open.spotify.com/album/7K1z0u8r7n6e2wFpA4tJSh"
+      },
+      "artists": [
+        {
+          "name": "Fuego Sintana",
+          "url": "https://open.spotify.com/artist/268uTWCotd2efN85tGatw7"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Rent Paid",
+      "url": "https://open.spotify.com/track/1I0ZmpGYzaKGORNwz585Ji"
+    },
     {
       "added_at": "2024-11-21 22:00:00",
       "album": {
@@ -23,6 +47,26 @@
       "duration_ms": 156279,
       "name": "Kele Hampe",
       "url": "https://open.spotify.com/track/5TonGmNvzkRDCDOc0S49ZO"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "Banditos II (feat. Priddy Ugly)",
+        "url": "https://open.spotify.com/album/5KYctDRgOBBD9Q5HNKxEGQ"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Banditos II (feat. Priddy Ugly)",
+      "url": "https://open.spotify.com/track/1qiFgKSyzlYttXMF5iymSx"
     },
     {
       "added_at": "2024-11-15 00:01:43",
@@ -963,30 +1007,6 @@
     {
       "added_at": "2024-11-15 00:01:43",
       "album": {
-        "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
-        "url": "https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "PlayThatBoiZay",
-          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 129403,
-      "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
-    },
-    {
-      "added_at": "2024-11-15 00:01:43",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -1023,30 +1043,6 @@
       "duration_ms": 194811,
       "name": "coMPRess",
       "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
-    },
-    {
-      "added_at": "2024-11-15 00:01:43",
-      "album": {
-        "name": "AIR PISCINE",
-        "url": "https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        },
-        {
-          "name": "Merlyn Wood",
-          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
-        },
-        {
-          "name": "Ansah Live",
-          "url": "https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "sugar rush",
-      "url": "https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG"
     },
     {
       "added_at": "2024-11-15 00:01:43",

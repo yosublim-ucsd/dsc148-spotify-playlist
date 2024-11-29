@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BEN(\ubca4)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da-il(\uc591\ub2e4\uc77c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 155546,
       "name": "her",
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
@@ -5187,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "My insecure",
+        "url": "https://open.spotify.com/album/6MvNtD1NVC9rnLlt0Ne066"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195381,
+      "name": "Love me",
+      "url": "https://open.spotify.com/track/7n3IAdczd9T1MUqJLAMXoP"
+    },
+    {
+      "album": {
         "name": "Moonshine (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/11bS2DgEdThpmWFXxgC8kr"
       },
@@ -5972,7 +5990,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 234733,
       "name": "My Blooming Heart",
       "url": "https://open.spotify.com/track/0idORy7zZ4pKim6wzJTndW"
@@ -8028,6 +8046,24 @@
       "duration_ms": 218920,
       "name": "Sun\ufb01sh",
       "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
+    },
+    {
+      "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237065,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,909 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,938 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 74 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/4Z1A6CF9EumHQuz9vaogdf) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/3VcfDjnEzaN8nQ0p5gRLKD) | 4:24 |
 | 75 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |
 | 76 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 |
-| 77 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 |
+| 77 | [Ella es un Volcán](https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:36 |
 | 78 | [Gracias A La Vida](https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:24 |
 | 79 | [Como la Nube Se Impone al Sol](https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Como la Nube Se Impone al Sol](https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY) | 3:09 |
 | 80 | [El Primer Amor](https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [El Primer Amor](https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2) | 3:37 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 84 | [Tan Distintos \(A Duo Con Edgar Oceransky\)](https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Quiero Cantar](https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi) | 3:54 |
 | 85 | [Dentro de mi](https://open.spotify.com/track/7F8f8YwCe6VLsr6o0lkStR) | [Enrique Quezadas](https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP) | [Dentro de Mi](https://open.spotify.com/album/0ER87CKYmhwz6t8S2zWnhP) | 4:55 |
 | 86 | [Días de Junio](https://open.spotify.com/track/4NvTDPBXZk4CKH5KyHQ0z9) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Días de Junio](https://open.spotify.com/album/1mwi4HuLUtD1YyOqof2iZk) | 3:20 |
-| 87 | [Ella es un Volcán](https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:36 |
+| 87 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 |
 | 88 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
 | 89 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Todos los ojos te miran](https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n) | 4:13 |
 | 90 | [Los Grillos](https://open.spotify.com/track/5tnqRDcrlgLphc0OE7k1gu) | [Gerardo Pablo](https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh) | [Escucha a Gerardo Pablo](https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN) | 2:50 |

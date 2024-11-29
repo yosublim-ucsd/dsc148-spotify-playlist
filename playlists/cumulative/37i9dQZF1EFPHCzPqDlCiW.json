@@ -1559,6 +1559,32 @@
     },
     {
       "album": {
+        "name": "I'm Going Out (with Zak Abel & Nile Rodgers)",
+        "url": "https://open.spotify.com/album/1nQzYYPVXMKPb23hoAnioP"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "I'm Going Out (with Zak Abel & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/3yy2x178PndVRPFmLmtqDB"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/017RaL4pPG79H1ECtctJIw"
       },

@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 141913,
       "name": "Amor \u00c9 Bom Quando Tem Chama",
       "url": "https://open.spotify.com/track/2Jivvjt7JABrzX2D5dYn6i"
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Mel",
+        "url": "https://open.spotify.com/album/44q4l8hgjfTUObJlQwHJxA"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198705,
+      "name": "Mel",
+      "url": "https://open.spotify.com/track/3hXs94MLnQhDzQcXBYt3jH"
+    },
+    {
+      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -1979,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Quero Acorda Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+    },
+    {
+      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -2296,7 +2336,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 115636,
       "name": "s\u00f3 eu sei",
       "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"

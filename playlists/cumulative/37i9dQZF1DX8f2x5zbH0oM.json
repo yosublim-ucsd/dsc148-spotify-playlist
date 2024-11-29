@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "La playlist au-del\u00e0 des genres. Photo : spill tab",
+  "description": "La playlist au-del\u00e0 des genres. Photo : Kendrick Lamar",
   "name": "La Cr\u00e8me",
   "tracks": [
     {
@@ -2063,6 +2063,32 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+        "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182948,
+      "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+      "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
+    },
+    {
+      "album": {
         "name": "Lego Ring",
         "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
@@ -2967,6 +2993,28 @@
     },
     {
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "album": {
         "name": "Intercession Before Charlotte",
         "url": "https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49"
       },
@@ -3120,7 +3168,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
@@ -3138,7 +3186,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -4242,7 +4290,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168120,
       "name": "\u00e9chec et mat",
       "url": "https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 25 songs - 1 hr 27 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,6 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 | 23 | [I Don't Care \- Single Version](https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 | 24 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 |
 | 25 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
+| 26 | [Ox Baker Triumphant](https://open.spotify.com/track/4UqIifJqMVB4SXIUkTOeDH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Babylon Springs](https://open.spotify.com/album/3AgCA1gsjvQeU3xz12rIRY) | 2:39 |
 
-Snapshot ID: `AAAAHkwJXqrPU5VcrjLYjCXZHeWqFdei`
+Snapshot ID: `AAAAH5W2tqrRNWwh6VsDXe3G9hXZTiwq`

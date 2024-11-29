@@ -625,6 +625,32 @@
     },
     {
       "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4rSvD6l2ZvPpCzJXpL8FLy"
+      },
+      "artists": [
+        {
+          "name": "Ollie Crowe",
+          "url": "https://open.spotify.com/artist/1JkxFjMhqCQw1Lg9xUH1GJ"
+        },
+        {
+          "name": "B.R.T",
+          "url": "https://open.spotify.com/artist/1JNj4L9dFFnptBKFKpUaFL"
+        },
+        {
+          "name": "VIGIL",
+          "url": "https://open.spotify.com/artist/5woKrwqEi876LodaTkTCi1"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170875,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/4gGkcz9zciFZ0f7al7rmQz"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -870,7 +896,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 224642,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/763bin34MwKqujSalWc3lf"
@@ -1208,6 +1234,28 @@
       "duration_ms": 146974,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
+    },
+    {
+      "album": {
+        "name": "ALL MY LOVE (PNAU x Coldplay)",
+        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "ALL MY LOVE - PNAU x Coldplay",
+      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
     },
     {
       "album": {
@@ -4279,6 +4327,24 @@
     },
     {
       "album": {
+        "name": "calling me",
+        "url": "https://open.spotify.com/album/5WyohiXCkzmdotMhip4wPs"
+      },
+      "artists": [
+        {
+          "name": "COLDKIDS",
+          "url": "https://open.spotify.com/artist/0annmahwZLMPzszAw2OnMv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197420,
+      "name": "calling me",
+      "url": "https://open.spotify.com/track/7Glyxe9OP0do3499HgGMbh"
+    },
+    {
+      "album": {
         "name": "Can U Feel It?",
         "url": "https://open.spotify.com/album/4wJA7C810dCIEaZAh6KMMa"
       },
@@ -5520,6 +5586,28 @@
       "duration_ms": 153230,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2QHR2UmW2Nf3MFVhL4ibTS"
+    },
+    {
+      "album": {
+        "name": "Melancholiphoria",
+        "url": "https://open.spotify.com/album/4nbPeKD1ekuH64JNTn02vU"
+      },
+      "artists": [
+        {
+          "name": "Datskie",
+          "url": "https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB"
+        },
+        {
+          "name": "Noana",
+          "url": "https://open.spotify.com/artist/1MEpE2OXVJ2sD5TEQwNFiG"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250819,
+      "name": "Core Impulse",
+      "url": "https://open.spotify.com/track/5P51VfMCzVlQZJZnzilczf"
     },
     {
       "album": {
@@ -7530,6 +7618,24 @@
     {
       "album": {
         "name": "Dreams",
+        "url": "https://open.spotify.com/album/3efi8XRQsHaugmlmbatfXn"
+      },
+      "artists": [
+        {
+          "name": "Jay Ocean",
+          "url": "https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166611,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/60olyXv5tf2fCZi9nHJn6C"
+    },
+    {
+      "album": {
+        "name": "Dreams",
         "url": "https://open.spotify.com/album/25osRktzaln9czfz3iEyNa"
       },
       "artists": [
@@ -8797,6 +8903,24 @@
     },
     {
       "album": {
+        "name": "Familiars (From the Game \"World of Tanks Blitz\")",
+        "url": "https://open.spotify.com/album/5dbaxGVxlxtaV8vVcQ4nYF"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367500,
+      "name": "Familiars (From the Game \"World of Tanks Blitz\")",
+      "url": "https://open.spotify.com/track/4jaoBjvV9goyLG0o41Uhzx"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/2FJ73AkSKfYUO9X5oMz4NQ"
       },
@@ -9344,7 +9468,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 129375,
       "name": "Feelings In The Dark",
       "url": "https://open.spotify.com/track/412lTFKeMOrsUom6JBeYH0"
@@ -13055,6 +13179,32 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
+    },
+    {
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX"
       },
@@ -13070,6 +13220,24 @@
       "duration_ms": 177756,
       "name": "Home",
       "url": "https://open.spotify.com/track/76oZCBwQdihccib1CS6yiK"
+    },
+    {
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220031,
+      "name": "Honey Water",
+      "url": "https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo"
     },
     {
       "album": {
@@ -15090,7 +15258,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 191250,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
@@ -15522,6 +15690,28 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "album": {
+        "name": "King Steps",
+        "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181141,
+      "name": "King Steps",
+      "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
     },
     {
       "album": {
@@ -16922,7 +17112,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 163333,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
@@ -17410,7 +17600,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160551,
       "name": "Love The Way You Lie (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl"
@@ -18472,7 +18662,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 180923,
       "name": "Mine 4 All Time",
       "url": "https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2"
@@ -19044,7 +19234,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 255336,
       "name": "Motions",
       "url": "https://open.spotify.com/track/3EiwfFeoEgh8f7yW4QSWV3"
@@ -20634,7 +20824,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196186,
       "name": "NoMoreLuv4u",
       "url": "https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH"
@@ -21476,7 +21666,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188160,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5cxpXbXdOYF78n6dHBCAci"
@@ -22414,6 +22604,28 @@
       "duration_ms": 241983,
       "name": "Pangea (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+    },
+    {
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/7lcYk4ohgjMnT9d59xblAG"
+      },
+      "artists": [
+        {
+          "name": "LostVolts",
+          "url": "https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef"
+        },
+        {
+          "name": "Atro_Bex",
+          "url": "https://open.spotify.com/artist/7H2HlZViODmuwwkNuesUSf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7KDJd0uYx5aTOneALjifUD"
     },
     {
       "album": {
@@ -23808,7 +24020,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 219611,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
@@ -24986,7 +25198,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 162580,
       "name": "Saving All My Love",
       "url": "https://open.spotify.com/track/7oIUxzaZ2oCC9Imwyv0wsK"
@@ -25650,6 +25862,32 @@
       "duration_ms": 226135,
       "name": "Shuf (Adore U)",
       "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
+    },
+    {
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl"
+      },
+      "artists": [
+        {
+          "name": "Tollef",
+          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130476,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec"
     },
     {
       "album": {
@@ -27226,6 +27464,28 @@
       "duration_ms": 185750,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU"
+    },
+    {
+      "album": {
+        "name": "Swim (Becky Hill x MK)",
+        "url": "https://open.spotify.com/album/1VKJwB8DnVxi7aGAbv390i"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215629,
+      "name": "Swim - Becky Hill x MK",
+      "url": "https://open.spotify.com/track/54UwHm1Z6oa4XoEZ45A6WH"
     },
     {
       "album": {
@@ -30281,6 +30541,28 @@
     },
     {
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "album": {
         "name": "Waited All Night",
         "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
       },
@@ -30449,6 +30731,24 @@
     },
     {
       "album": {
+        "name": "Wan!",
+        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Wan!",
+      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
+    },
+    {
+      "album": {
         "name": "WANI",
         "url": "https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK"
       },
@@ -30586,7 +30886,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
@@ -30696,6 +30996,28 @@
       "duration_ms": 153750,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J"
+    },
+    {
+      "album": {
+        "name": "We Are Mirage (Radio Edit)",
+        "url": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202742,
+      "name": "We Are Mirage - Radio Edit",
+      "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
     },
     {
       "album": {
@@ -30942,7 +31264,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 202514,
       "name": "Weight Of The World",
       "url": "https://open.spotify.com/track/2tifgXqWZVeW1Nx5ylVP3D"
@@ -32934,6 +33256,32 @@
       "duration_ms": 137351,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5jNbxkv1A74xQgsFgl46Nl"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/764cifcOJcfyRda3XHZ56G"
+      },
+      "artists": [
+        {
+          "name": "STAY GOLDEN",
+          "url": "https://open.spotify.com/artist/20A8z5yy9IjcsrR7P2SeOr"
+        },
+        {
+          "name": "Rendelman",
+          "url": "https://open.spotify.com/artist/2AIzfoPOOZ5kYBmG4ZhEQ3"
+        },
+        {
+          "name": "NIZAM",
+          "url": "https://open.spotify.com/artist/44U4PmtL1WN0sLxxyyMUOu"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357073,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0ZlTJragiHsLqQuLIQwzBA"
     },
     {
       "album": {

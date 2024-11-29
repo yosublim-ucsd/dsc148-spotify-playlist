@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: ANGIE
+> Il meglio dell'R&B italiano\. Cover: Elodie, Tiziano Ferro
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,852 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,851 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scorpione](https://open.spotify.com/track/5AERJKSE77keQOpneV26rl) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scorpione](https://open.spotify.com/album/6zyNdgewCfx6Hstz3g5xQi) | 2:23 |
-| 2 | [MIA](https://open.spotify.com/track/6Ls80JLIa598r1HcZmLsP0) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [MIA](https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC) | 3:45 |
-| 3 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 |
-| 4 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 |
-| 5 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 |
-| 6 | [Stay](https://open.spotify.com/track/00rV7NRdXgyBNPJTLgcuou) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [Stay](https://open.spotify.com/album/3Yamej6rdIc4iEh5DU1tqX) | 3:51 |
-| 7 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 |
-| 8 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 |
-| 9 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
-| 10 | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw) | 2:51 |
-| 11 | [Phoenix](https://open.spotify.com/track/0AvKnMD5KaL2NVGwL93N12) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Phoenix](https://open.spotify.com/album/5h2LRZJExyO3ocA30p9PeG) | 2:53 |
-| 12 | [SOTTOVUOTO](https://open.spotify.com/track/6ebMDFSbcN7DuMBBsbHSN4) | [Andrea Lombardo](https://open.spotify.com/artist/2lXM4yC9ini3XKHIHWEQsL) | [SOTTOVUOTO](https://open.spotify.com/album/32zuTjHuyYMktO5QO6wRzH) | 3:17 |
-| 13 | [Runnin'](https://open.spotify.com/track/6PTkjN7w6gRLditOZiydxL) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Runnin'](https://open.spotify.com/album/6Ekg0UHGat8nP7O9oMDLSb) | 3:05 |
-| 14 | [Battito di ciglia](https://open.spotify.com/track/46EFf31m8kFhXbRsN3pPIQ) | [solamente](https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1) | [Battito di ciglia](https://open.spotify.com/album/3Sd1AcryUnWaTowhFMuPQs) | 2:11 |
-| 15 | [Apollo 12](https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Apollo 12](https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w) | 2:46 |
+| 1 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 |
+| 2 | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw) | 2:51 |
+| 3 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 |
+| 4 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
+| 5 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 |
+| 6 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 |
+| 7 | [Apollo 12](https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Apollo 12](https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w) | 2:46 |
+| 8 | [Runnin'](https://open.spotify.com/track/6PTkjN7w6gRLditOZiydxL) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Runnin'](https://open.spotify.com/album/6Ekg0UHGat8nP7O9oMDLSb) | 3:05 |
+| 9 | [Battito di ciglia](https://open.spotify.com/track/46EFf31m8kFhXbRsN3pPIQ) | [solamente](https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1) | [Battito di ciglia](https://open.spotify.com/album/3Sd1AcryUnWaTowhFMuPQs) | 2:11 |
+| 10 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 |
+| 11 | [Scorpione](https://open.spotify.com/track/5AERJKSE77keQOpneV26rl) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scorpione](https://open.spotify.com/album/6zyNdgewCfx6Hstz3g5xQi) | 2:23 |
+| 12 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
+| 13 | [Stay](https://open.spotify.com/track/00rV7NRdXgyBNPJTLgcuou) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [Stay](https://open.spotify.com/album/3Yamej6rdIc4iEh5DU1tqX) | 3:51 |
+| 14 | [Phoenix](https://open.spotify.com/track/0AvKnMD5KaL2NVGwL93N12) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Phoenix](https://open.spotify.com/album/5h2LRZJExyO3ocA30p9PeG) | 2:53 |
+| 15 | [SOTTOVUOTO](https://open.spotify.com/track/6ebMDFSbcN7DuMBBsbHSN4) | [Andrea Lombardo](https://open.spotify.com/artist/2lXM4yC9ini3XKHIHWEQsL) | [SOTTOVUOTO](https://open.spotify.com/album/32zuTjHuyYMktO5QO6wRzH) | 3:17 |
 | 16 | [SOLA](https://open.spotify.com/track/3jPYg5QCXu9gXeSSMvHXjQ) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk) | [SOLA](https://open.spotify.com/album/4jhHcDXdPjGrda06o64jOg) | 2:40 |
-| 17 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
+| 17 | [MIA](https://open.spotify.com/track/6Ls80JLIa598r1HcZmLsP0) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [MIA](https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC) | 3:45 |
 | 18 | [me l'ha detto il dottore](https://open.spotify.com/track/6NhaBZkWM8aQaqlpGiaWpV) | [Mario](https://open.spotify.com/artist/4u7z91Z6xLzdRBXiKSypFd) | [me l'ha detto il dottore](https://open.spotify.com/album/35blelzjUqgYqLd7SvUxcp) | 2:34 |
 | 19 | [Self Care](https://open.spotify.com/track/2bbhOJTCVkmYh010FsUqQV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Self Care](https://open.spotify.com/album/4S5XKP7TGVOPAgWjkZDyT1) | 3:56 |
 | 20 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Non c'è mai un per sempre](https://open.spotify.com/track/1SVRjIVG0yb7AEBW7TV149) | [Kiko](https://open.spotify.com/artist/2eLx8jWFI7STB9AUrpQnpm) | [Non c'è mai un per sempre](https://open.spotify.com/album/4W9KCdnhl9CZiiWOjWm4QC) | 2:33 |
 | 60 | [Fotoricordo](https://open.spotify.com/track/4awSy4eb4hEu8RnSWOJWIP) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Fotoricordo](https://open.spotify.com/album/1yXnI5FcLRTGITuPRmpehy) | 3:15 |
 
-Snapshot ID: `Zz+7rAAAAAAwXwRW2exKhdM/QwmlDDGj`
+Snapshot ID: `Z0j2LAAAAAAGtzx6nkTJk4PtqCAyL3wS`

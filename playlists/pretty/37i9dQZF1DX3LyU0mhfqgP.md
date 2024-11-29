@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists, featuring highlights from the Transa compilation\. Cover: Beverly Glenn\-Copeland & Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,557 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,527 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 5 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 |
 | 6 | [No Siento Nada](https://open.spotify.com/track/26njrrC807IokAXRM08tQN) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [SEASON I](https://open.spotify.com/album/561lG9BweytmTlZwizsJx3) | 3:02 |
 | 7 | [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 |
-| 8 | [People Are Small / Rapture](https://open.spotify.com/track/1IV5NFOcD05qO4bv0xAeaj) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn), [Imara Jones](https://open.spotify.com/artist/4fkvRwPIzptv8y9mjiE0FU), [Mojo Disco](https://open.spotify.com/artist/2UuZdHcbVkw0W7rmvto3PT), [Ceyenne Doroshow](https://open.spotify.com/artist/1hJMkQPdL15ZJMRl2glZUX) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 9:13 |
+| 8 | [People Are Small / Rapture](https://open.spotify.com/track/1IV5NFOcD05qO4bv0xAeaj) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn), [Imara Jones](https://open.spotify.com/artist/4fkvRwPIzptv8y9mjiE0FU), [Mojo Disco](https://open.spotify.com/artist/2UuZdHcbVkw0W7rmvto3PT), [Ceyenne Doroshow](https://open.spotify.com/artist/1hJMkQPdL15ZJMRl2glZUX) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 9:14 |
 | 9 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
 | 10 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 |
 | 11 | [Drap mnie](https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb) | [DIMoN](https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM) | [Doskonale](https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7) | 3:02 |

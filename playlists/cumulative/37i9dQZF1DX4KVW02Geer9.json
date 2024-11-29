@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Bristol Changes",
+        "url": "https://open.spotify.com/album/1MGMt3m8CQfTjmNNTOU22R"
+      },
+      "artists": [
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164394,
+      "name": "Bristol Changes",
+      "url": "https://open.spotify.com/track/1teiUk3Fzs3TXUqYjNwdW9"
+    },
+    {
+      "album": {
         "name": "Ten Fold",
         "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 135139,
       "name": "Child's eye",
       "url": "https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq"
@@ -686,6 +704,28 @@
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I"
+    },
+    {
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121833,
+      "name": "Cove",
+      "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
     },
     {
       "album": {
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 289800,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5JaQSETw0yC1OhuxkEIGnV"
@@ -1392,6 +1432,36 @@
       "duration_ms": 233749,
       "name": "Howlin' collective",
       "url": "https://open.spotify.com/track/4WHnPGqTUL3N6cZUnlpFs3"
+    },
+    {
+      "album": {
+        "name": "I don't give a damn",
+        "url": "https://open.spotify.com/album/7LP3Y1z89sjhYdx0bRFf9I"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332080,
+      "name": "I don't give a damn",
+      "url": "https://open.spotify.com/track/6eYsYXw6dJuEcRx159t2VN"
     },
     {
       "album": {
@@ -1616,6 +1686,24 @@
       "duration_ms": 263415,
       "name": "Just a Gigolo",
       "url": "https://open.spotify.com/track/1Yu02PXDRBCUSTVb4yO79E"
+    },
+    {
+      "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/3dTWT1J8v5WQjm5bcKBybo"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "Kaiya",
+      "url": "https://open.spotify.com/track/1iMBLG96QRfZeF8CVl51OJ"
     },
     {
       "album": {
@@ -2274,9 +2362,9 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 262306,
-      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "name": "No One's Watching Me - feat. Olivia Dean",
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
     },
     {
@@ -2879,6 +2967,36 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/2YtlLhImGkpxBntI3HtsOZ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205683,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/5mmwd1hld9h0fEhMnY08jl"
+    },
+    {
+      "album": {
         "name": "Sorrow (feat. Liam Bailey)",
         "url": "https://open.spotify.com/album/5A8H1eVSWckghg7Szj9oGp"
       },
@@ -3200,7 +3318,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 438306,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi"
@@ -3408,7 +3526,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 104228,
       "name": "Who Cares 1",
       "url": "https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq"

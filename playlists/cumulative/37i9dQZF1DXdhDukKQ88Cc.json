@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap og den vibe \ud83c\udf2a\ufe0f <a href=\"spotify:artist:09Tr5rMM8oP3lN24JOnBW9\">Bellyyy</a>\ud83c\udf2a\ufe0f",
+  "description": "dk rap og den vibe \ud83c\udf2a\ufe0f <a href=\"spotify:artist:4mDyp9yRHugUnXvIBrt9xP\">Cizzo</a>\ud83c\udf2a\ufe0f",
   "name": "100 dk",
   "tracks": [
     {
@@ -4980,6 +4980,24 @@
       "duration_ms": 155626,
       "name": "Welcome To The Party",
       "url": "https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl"
+    },
+    {
+      "album": {
+        "name": "WHIP",
+        "url": "https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3"
+      },
+      "artists": [
+        {
+          "name": "Tan",
+          "url": "https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137785,
+      "name": "WHIP",
+      "url": "https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls"
     },
     {
       "album": {

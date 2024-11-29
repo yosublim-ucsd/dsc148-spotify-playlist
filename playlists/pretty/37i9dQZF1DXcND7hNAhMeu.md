@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: <a href="spotify:artist:07eEGn8bSAJF9sUqeTtAmN">Baran Mengüç</a>, <a href="spotify:artist:4F85cxjAmlT0r7DZKu3ABX">Ceren Sagu</a>, <a href="spotify:artist:0nllPfFG95RzZnqdWLLDCD">Lotusx</a>, <a href="spotify:artist:2FkaZzzDTwnz1l1mK9DoT6">TUANA</a>, <a href="spotify:artist:71B1UV4HrPQk6TdNHM3h9h">Rana Türkyılmaz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,633 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,612 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 6 | [Alamet](https://open.spotify.com/track/24oNbZu94JS3Izo6ub1jWb) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Alamet](https://open.spotify.com/album/5aIyE00nAG4wfugbnmfZkA) | 2:49 |
 | 7 | [Yorgun](https://open.spotify.com/track/2SYCfe2yzmgHaZUuuppvbs) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yorgun](https://open.spotify.com/album/7xs9jllVuXbKdtyXHYqiH7) | 2:56 |
 | 8 | [Işığım Sensin](https://open.spotify.com/track/42bG1UIJfAhmZsmO4ekea6) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Işığım Sensin](https://open.spotify.com/album/79egQyuz9OZu00HAHs7R77) | 2:18 |
-| 9 | [YETEMEDİM](https://open.spotify.com/track/705YXVWwwCfENHmIwCFP50) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [YETEMEDİM](https://open.spotify.com/album/2h64Jim5JbA9dpHJl0x1N5) | 3:00 |
+| 9 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 |
 | 10 | [Son](https://open.spotify.com/track/2v79MkUBoTJUm7etERkbPh) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Son](https://open.spotify.com/album/6c6bPHFCEA3wc4nkJ8Lke6) | 2:35 |
 | 11 | [Unutulur Değil Mi?](https://open.spotify.com/track/5tGp0BntYrg5aVBkUiGqhQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Unutulur Değil Mi?](https://open.spotify.com/album/16VaDufn3R9KOxKm0xFuRp) | 3:35 |
 | 12 | [Nereye](https://open.spotify.com/track/1U4iTJD3CSeC9wyXre7eVg) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Nereye](https://open.spotify.com/album/6Lu5nYsp3ze0zBixZRKWbf) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Yine Seni Severim](https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yine Seni Severim](https://open.spotify.com/album/0h3PL3HJJ8bw4qqSWF9gAn) | 3:13 |
 | 50 | [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 |
 
-Snapshot ID: `ZytHiQAAAACFNRTk7sD1AHh6A4NV2S8y`
+Snapshot ID: `Z0jZ0AAAAADY69IdNqJ76XpgLcRBUsoo`

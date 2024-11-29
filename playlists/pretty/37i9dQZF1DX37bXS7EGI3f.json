@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 786609,
+  "num_followers": 786697,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Rogue (Aim for the Kill)",
-        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Rogue (Aim for the Kill)",
-      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 233653,
       "name": "Power of Will",
       "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Rogue (Aim for the Kill)",
+        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Rogue (Aim for the Kill)",
+      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "1066",
+        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 272013,
+      "name": "1066",
+      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "1066",
-        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 272013,
-      "name": "1066",
-      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
-      },
-      "artists": [
-        {
-          "name": "Floor Jansen",
-          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
-        }
-      ],
-      "duration_ms": 208859,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -1155,34 +1139,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
         }
       ],
-      "duration_ms": 243293,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "My Halo",
-        "url": "https://open.spotify.com/album/46F3hRy3U1LMctMliAMfGY"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "My Halo",
-      "url": "https://open.spotify.com/track/3DCpqTNoWQXuhY2PCGSXbs"
+      "duration_ms": 208859,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1203,6 +1171,22 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Axes",
-        "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
+        "name": "My Halo",
+        "url": "https://open.spotify.com/album/46F3hRy3U1LMctMliAMfGY"
       },
       "artists": [
         {
-          "name": "T\u00fdr",
-          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
         }
       ],
-      "duration_ms": 212493,
-      "name": "Axes",
-      "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
+      "duration_ms": 224893,
+      "name": "My Halo",
+      "url": "https://open.spotify.com/track/3DCpqTNoWQXuhY2PCGSXbs"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Retrospectator",
+      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+        "name": "Axes",
+        "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
       },
       "artists": [
         {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
+      "duration_ms": 212493,
+      "name": "Axes",
+      "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Grand Inferno",
-        "url": "https://open.spotify.com/album/0pa0VDXc571gPfHDTICWiq"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "The Grand Inferno",
-      "url": "https://open.spotify.com/track/6wvS71j5iww95t0Wu07kJI"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+        "name": "The Grand Inferno",
+        "url": "https://open.spotify.com/album/0pa0VDXc571gPfHDTICWiq"
       },
       "artists": [
         {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
         }
       ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+      "duration_ms": 282253,
+      "name": "The Grand Inferno",
+      "url": "https://open.spotify.com/track/6wvS71j5iww95t0Wu07kJI"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1619,6 +1619,38 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+      },
+      "artists": [
+        {
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+        }
+      ],
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4"
       },
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 574634,
       "name": "One (feat. Robert Trujillo) - Instrumental",
       "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2024-09-20 04:24:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "edgy en met karakter. cover: Fresku",
+  "description": "edgy en met karakter. cover: Sticks",
   "name": "karakter.",
   "tracks": [
     {
@@ -681,6 +681,40 @@
     },
     {
       "album": {
+        "name": "EAZY",
+        "url": "https://open.spotify.com/album/2QbUitFw4qqTMoAuJuUYT1"
+      },
+      "artists": [
+        {
+          "name": "Ella John",
+          "url": "https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9"
+        },
+        {
+          "name": "Waiiress",
+          "url": "https://open.spotify.com/artist/3zWit1kGZ0ilxY5zxAIf3B"
+        },
+        {
+          "name": "Fabs.075",
+          "url": "https://open.spotify.com/artist/0hrzr5SyIrJxg0pxndI1c5"
+        },
+        {
+          "name": "Bastet Black",
+          "url": "https://open.spotify.com/artist/4s2hhiRBWGEXenThdo7DEw"
+        },
+        {
+          "name": "Marvin Adam",
+          "url": "https://open.spotify.com/artist/0hP0AVnbH41ppib3LmeR6M"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174316,
+      "name": "Djoen",
+      "url": "https://open.spotify.com/track/6LVbOvtKUkihnJpI6J4ANC"
+    },
+    {
+      "album": {
         "name": "Narco X Styn, Vol. 1",
         "url": "https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l"
       },
@@ -744,7 +778,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 241957,
       "name": "ENERGIE",
       "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
@@ -788,7 +822,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 148110,
       "name": "eventjes verliefd",
       "url": "https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk"
@@ -1467,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Zonneschijn",
+        "url": "https://open.spotify.com/album/5U7faAZNcxI9949gqDMkiH"
+      },
+      "artists": [
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        },
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        },
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176927,
+      "name": "Kokai (met Rico en Typhoon)",
+      "url": "https://open.spotify.com/track/1dbIoyA1LPITtV7kdzNKJH"
+    },
+    {
+      "album": {
         "name": "Kop In The Sand",
         "url": "https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno"
       },
@@ -1536,7 +1596,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 181021,
       "name": "Laatste Dans",
       "url": "https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L"
@@ -1824,7 +1884,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 158012,
       "name": "met de tijd",
       "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
@@ -2246,7 +2306,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160902,
       "name": "Scherpe Knuffels",
       "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
@@ -2705,6 +2765,46 @@
     },
     {
       "album": {
+        "name": "Toch Alleen",
+        "url": "https://open.spotify.com/album/2WBQnbaFqPK3vl6pEUiIey"
+      },
+      "artists": [
+        {
+          "name": "Qucee",
+          "url": "https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197709,
+      "name": "Toch Alleen",
+      "url": "https://open.spotify.com/track/71mmoPNCDMlOveDRfaBLzT"
+    },
+    {
+      "album": {
+        "name": "Leren Leven",
+        "url": "https://open.spotify.com/album/0wMC6I2G3sKvhcsjn8N1Kd"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170823,
+      "name": "Tranen Van Geluk",
+      "url": "https://open.spotify.com/track/4Dd5z1rlrGPn4UTde65OKY"
+    },
+    {
+      "album": {
         "name": "Sterrenlopen",
         "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
       },
@@ -3086,6 +3186,24 @@
       "duration_ms": 210932,
       "name": "Who Sees",
       "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
+    },
+    {
+      "album": {
+        "name": "Winterdagen",
+        "url": "https://open.spotify.com/album/7qMEHwR0dZBPzDUSGQY8Nb"
+      },
+      "artists": [
+        {
+          "name": "NAVARONE COLE",
+          "url": "https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153353,
+      "name": "Winterdagen",
+      "url": "https://open.spotify.com/track/6id6DQfR5owlY0mkLv7Rsv"
     },
     {
       "album": {

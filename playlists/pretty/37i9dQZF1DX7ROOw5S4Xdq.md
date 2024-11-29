@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Brito, Kaique e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,733 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,756 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 30 | [Eu Te Vejo em Tudo](https://open.spotify.com/track/1gJYJyCirh97N2hoBC6FoA) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [Eu Te Vejo em Tudo](https://open.spotify.com/album/40XYp0Z4Bevcv2YAqj9KPb) | 5:56 |
 | 31 | [Ele É Deus](https://open.spotify.com/track/6kThcafPIPZcvIxFwGdPse) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Banca DK](https://open.spotify.com/artist/52u3csJZgXoJ7pXLmnEffX), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Luna Garcez](https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p), [Antiñanco](https://open.spotify.com/artist/3geBbnGvcS4RCxs3OBrxNV), [Léo BDK](https://open.spotify.com/artist/5YPjdan8GuLv9Gr2cTG7F2) | [Ele É Deus](https://open.spotify.com/album/0k9PCVVkuX6ayN8HRJzgkT) | 5:43 |
 | 32 | [Ao Que Está Assentado Sobre o Trono + Nada Vai Roubar Tua Glória \- Ao Vivo](https://open.spotify.com/track/2V5gqlJ7uvVqvX2y4KPhI1) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq) | [Ao Que Está Assentado Sobre o Trono + Nada Vai Roubar Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/4qU1U4sW98rxQjx8Ei15wt) | 9:01 |
-| 33 | [Na Contra Mão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
+| 33 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
 | 34 | [A Bênção \(The Blessing\)](https://open.spotify.com/track/7BqOfJbZO9p7wkJjvLylUm) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Dago Soares](https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS) | [A Bênção \(The Blessing\)](https://open.spotify.com/album/0mgN4IVsUXjpO34DkD1fSR) | 6:20 |
 | 35 | [Já Deu\(S\) Certo!](https://open.spotify.com/track/09phr4A83wMegS6Tz0CtpQ) | [Diego Fernandes](https://open.spotify.com/artist/61JXEPOXk6QwV1iJ3iag8B), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Já Deu\(S\) Certo!](https://open.spotify.com/album/3qYVA4kzjwhOAaV8IfYFJE) | 5:48 |
 | 36 | [Deus Tem a Última Palavra \- Ao Vivo](https://open.spotify.com/track/29e4w1hwibjEFajIkUPzCC) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Deus Tem a Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/6Bkd7xal6oOdx3vd54cGgW) | 5:55 |

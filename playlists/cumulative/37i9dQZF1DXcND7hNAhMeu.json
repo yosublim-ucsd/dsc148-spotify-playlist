@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "a\u015fk olsun",
+        "url": "https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk"
+      },
+      "artists": [
+        {
+          "name": "TUANA",
+          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180974,
+      "name": "a\u015fk olsun",
+      "url": "https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ"
+    },
+    {
+      "album": {
         "name": "Ba\u011f\u0131ml\u0131y\u0131m Tenine",
         "url": "https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 180058,
       "name": "YETEMED\u0130M",
       "url": "https://open.spotify.com/track/705YXVWwwCfENHmIwCFP50"

@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-97 songs - 5 hr 4 min
+98 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Hef Verið Verri](https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Hef Verið Verri](https://open.spotify.com/album/3i7Yhl3yKOS8ksCXlYmYtY) | 2:11 | 2024-06-21 | 2024-09-14 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-06-21 | 2024-10-26 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-21 |  |
-| [HubbaBubba](https://open.spotify.com/track/3qWnKB22BGrKCTTBRAfkb3) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [HubbaBubba](https://open.spotify.com/album/5BRijH5ZOuUJ2DiSnSlZiO) | 1:59 | 2024-07-26 |  |
+| [HubbaBubba](https://open.spotify.com/track/3qWnKB22BGrKCTTBRAfkb3) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [HubbaBubba](https://open.spotify.com/album/5BRijH5ZOuUJ2DiSnSlZiO) | 1:59 | 2024-07-26 | 2024-11-29 |
 | [Hvað með þig?](https://open.spotify.com/track/34sUp0Qv7GQzjTiufBMbJz) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx), [HÚGÓ](https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [Hvað með þig?](https://open.spotify.com/album/2NWyXlP1pmVQW5HMmJsrPL) | 2:28 | 2024-06-21 | 2024-08-09 |
 | [Hvert ertu að fara?](https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Hvert ertu að fara?](https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ) | 2:37 | 2024-06-21 | 2024-08-16 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 |  |
@@ -81,6 +81,7 @@
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-06-21 | 2024-09-06 |
 | [Sorry memmig](https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [PBT 2.0](https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe) | 2:43 | 2024-06-21 | 2024-10-22 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 |  |
+| [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-29 |  |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-08 |  |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-27 |  |
 | [STJÖRNUSTÆLAR](https://open.spotify.com/track/6bY9SWpW1GyCcZS64ttPae) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [STJÖRNUSTÆLAR](https://open.spotify.com/album/3CN59Yc8MiER2JnboAPOqF) | 2:44 | 2024-10-04 |  |

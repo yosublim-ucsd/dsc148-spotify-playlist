@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=11mOaw8DS3edYE3-wyf_lw\">Tyla</a>",
+  "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW?si=O1q5UOPpQZqX6mZJtreZdw\">Tellaman</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212571,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1cx013sF6CKE68Y2iCXMcK"
@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Watchlist",
+        "url": "https://open.spotify.com/album/0e4CQsKAPU3hIPipG0h5mX"
+      },
+      "artists": [
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "5 to 7",
+      "url": "https://open.spotify.com/track/5ZyQyKOLMG8ehwmMrGRKyS"
+    },
+    {
+      "album": {
         "name": "90's Anxiety",
         "url": "https://open.spotify.com/album/50Y1QCfzap5t0VdTZwEn7p"
       },
@@ -166,6 +184,24 @@
       "duration_ms": 168774,
       "name": "911",
       "url": "https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF"
+    },
+    {
+      "album": {
+        "name": "Watchlist",
+        "url": "https://open.spotify.com/album/0e4CQsKAPU3hIPipG0h5mX"
+      },
+      "artists": [
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152967,
+      "name": "About Last Night",
+      "url": "https://open.spotify.com/track/3ofElFUCdXQdaPjsnVIu1S"
     },
     {
       "album": {
@@ -365,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
+      "album": {
         "name": "HEARTBREAK HOTEL",
         "url": "https://open.spotify.com/album/5mHX0g8QrHMGlqC0CB2Xt5"
       },
@@ -478,7 +532,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 204800,
       "name": "Astral",
       "url": "https://open.spotify.com/track/2xTgBnulVwRMpLlpKUXNsa"
@@ -761,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn"
+    },
+    {
+      "album": {
         "name": "Blame Yourself",
         "url": "https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6"
       },
@@ -790,7 +862,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 187702,
       "name": "Blest",
       "url": "https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ"
@@ -2198,7 +2270,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 221066,
       "name": "Feel Everything",
       "url": "https://open.spotify.com/track/2WnuvdvPMAl8pW5Fb1iiBV"
@@ -2734,7 +2806,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 182154,
       "name": "Good Girls Finish Last",
       "url": "https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4"
@@ -2840,6 +2912,24 @@
       "duration_ms": 222000,
       "name": "Hate Crowds",
       "url": "https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G"
+    },
+    {
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
       "album": {
@@ -2970,7 +3060,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -3448,7 +3538,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 163239,
       "name": "IQINISO",
       "url": "https://open.spotify.com/track/03wM9MDUWJT6D901sRFvcT"
@@ -4207,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
         "name": "Too Late To Die Young",
         "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
@@ -4396,7 +4508,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 115000,
       "name": "Maybe It's You",
       "url": "https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE"
@@ -4619,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "album": {
         "name": "My Ones",
         "url": "https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC"
       },
@@ -4648,7 +4778,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 126000,
       "name": "My Terms",
       "url": "https://open.spotify.com/track/6Q1LfCohflkggCIpF5rO9S"
@@ -4692,7 +4822,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -4848,7 +4978,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 92209,
       "name": "Ngelosi Yami",
       "url": "https://open.spotify.com/track/4tFG4LK5HIF6JkkOru9YCo"
@@ -4888,7 +5018,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 262306,
       "name": "No One's Watching Me - feat. Olivia Dean",
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
@@ -4993,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224597,
+      "name": "One Of These",
+      "url": "https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ"
+    },
+    {
+      "album": {
         "name": "One Wish (feat. Childish Gambino)",
         "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
       },
@@ -5008,7 +5156,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
@@ -5182,7 +5330,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
@@ -5266,7 +5414,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160824,
       "name": "PAST MYSELF",
       "url": "https://open.spotify.com/track/1oSAd3Ta3gSAwxNjGja125"
@@ -6291,6 +6439,32 @@
     },
     {
       "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
+      "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
+    },
+    {
+      "album": {
         "name": "Sunday At Zuri's",
         "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
       },
@@ -6382,7 +6556,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 228420,
       "name": "Space",
       "url": "https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR"
@@ -7534,7 +7708,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200410,
       "name": "Visible",
       "url": "https://open.spotify.com/track/4VepHRgIDIlO65BaP9yuZ3"
@@ -7958,7 +8132,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188307,
       "name": "With Me",
       "url": "https://open.spotify.com/track/08YCkJHWMhxjqBMaUzRtcj"
@@ -8090,6 +8264,28 @@
       "duration_ms": 153163,
       "name": "You Wouldn't Understand",
       "url": "https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9"
+    },
+    {
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "You're Stuck (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
     },
     {
       "album": {

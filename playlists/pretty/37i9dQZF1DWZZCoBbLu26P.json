@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91086,
+  "num_followers": 91110,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
-      },
-      "artists": [
-        {
-          "name": "Shea Coule\u00e9",
-          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
-        }
-      ],
-      "duration_ms": 172488,
-      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "It's Chocolate",
         "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 159718,
       "name": "It's Chocolate",
       "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
+      },
+      "artists": [
+        {
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
+        }
+      ],
+      "duration_ms": 172488,
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
-      },
-      "artists": [
-        {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
-        }
-      ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191680,
       "name": "AAA",
       "url": "https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+      },
+      "artists": [
+        {
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+        }
+      ],
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
       },
       "artists": [
         {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
         }
       ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
       },
       "artists": [
         {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
         }
       ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2024-05-31 17:55:47",

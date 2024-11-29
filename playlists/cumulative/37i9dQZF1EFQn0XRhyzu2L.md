@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-524 songs - 1 day 4 hr 36 min
+525 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Pyro](https://open.spotify.com/track/4bqosCAIpXVsOIHlnDWHff) | [Plasty](https://open.spotify.com/artist/6w2XClDdEAT8f9VX8JwW8g) | [Pyro](https://open.spotify.com/album/2ql83hLRHyncD1c3QakaYt) | 3:05 | 2024-02-27 |  |
 | [Ransom](https://open.spotify.com/track/48l3DnojALd5yxBo9cHxJv) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:29 | 2024-02-27 |  |
 | [Rare](https://open.spotify.com/track/5p0G2rkk5rQODeWyP6Mlx3) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:55 | 2024-02-27 |  |
+| [Read The Room](https://open.spotify.com/track/6mi3aPfq085MYhFwxuMdO4) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [elijah! \(Deluxe Edition\)](https://open.spotify.com/album/3uq4V7MUVNrjfEQSAdxtGq) | 3:38 | 2024-11-28 |  |
 | [READ YOUR DIARY](https://open.spotify.com/track/16HsEMkim07LboMyhR81eu) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:30 | 2024-02-27 |  |
 | [Ready To Go](https://open.spotify.com/track/5BwePsda32E20WJPK2ei6w) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:02 | 2024-02-27 |  |
 | [RECOVER](https://open.spotify.com/track/5NVHwd6HM01Antt473RyE0) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:32 | 2024-02-27 |  |

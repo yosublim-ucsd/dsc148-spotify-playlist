@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-709 songs - 1 day 13 hr 53 min
+712 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Never Gunna](https://open.spotify.com/track/0NMFSmhrbbWMMVj1prQSwR) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Never Gunna](https://open.spotify.com/album/1ct7TgaDGeY72AcSIGA0u2) | 2:25 | 2024-07-12 |  |
 | [next to you](https://open.spotify.com/track/3wF8uN5Q8ozoNShh9QL9Bm) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h), [Emi Navarro](https://open.spotify.com/artist/6QwCy7Mp2rNXEhpy4NXMhE) | [next to you](https://open.spotify.com/album/0jPwMRZzHKpf1iY8Uo7B2B) | 2:09 | 2024-05-16 |  |
 | [Night Drive](https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [AM\_\_\_PM](https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ) | 2:50 | 2023-06-15 | 2024-01-06 |
+| [Nightfall](https://open.spotify.com/track/79vtUcQxwcYqpNnShTixM3) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Nightfall](https://open.spotify.com/album/49Pz6r4GU2QtcL0rqSoHVk) | 3:13 | 2024-11-28 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-04-13 | 2024-07-03 |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-04-13 |  |
 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 | 2023-10-26 |  |
@@ -578,6 +579,7 @@
 | [Sun Is Shining \- Lavern Remix / Radio Edit](https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sun Is Shining \(Lavern Remix\)](https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC) | 3:08 | 2024-09-26 |  |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 | 2024-01-06 |
 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-22 |  |
+| [Sweet Release](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sweet Release](https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO) | 3:46 | 2024-11-28 |  |
 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 | 2024-01-06 |
 | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/track/2aquitej8IO7a0hfKBjzdK) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/album/2ll505QGpNKTeIGYmnJsAh) | 2:47 | 2024-09-05 |  |
 | [Take Me Away](https://open.spotify.com/track/2uZGQfnuG1ZLmBhtz06IEX) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Take Me Away](https://open.spotify.com/album/19djgC1ATwUgOqfweOtUQW) | 3:14 | 2023-08-03 | 2024-01-06 |
@@ -697,6 +699,7 @@
 | [Will You Be There](https://open.spotify.com/track/2QRtCSYAaiCxUoENINsAg4) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Will You Be There](https://open.spotify.com/album/0Cq0XtuE4cy3KLZlVIfjCO) | 3:36 | 2024-02-01 | 2024-02-09 |
 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 | 2023-08-03 | 2024-01-06 |
 | [Wish You Well](https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [doVicente](https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU) | [Wish You Well](https://open.spotify.com/album/3cSoAAG3sON0XcwTV3gAIn) | 2:35 | 2023-10-26 | 2024-01-06 |
+| [With You](https://open.spotify.com/track/0xVkFgOXI5Q6Jff9AeAnKT) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [With You // Don't Go](https://open.spotify.com/album/3l3VUvVI0fzWX8hp3CdpbU) | 3:26 | 2024-11-28 |  |
 | [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 | 2023-09-21 |  |
 | [Without U \(jigitz Remix\)](https://open.spotify.com/track/0ZAH2VBLQdKNHrTgQywLEw) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [In Touch \(Remixes\)](https://open.spotify.com/album/5Cn0BndceHul8eUcjzKyUO) | 3:55 | 2024-03-07 |  |
 | [without ur love](https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [without ur love](https://open.spotify.com/album/1pjViRBeb37JuriN8ukcfX) | 3:51 | 2024-02-01 |  |

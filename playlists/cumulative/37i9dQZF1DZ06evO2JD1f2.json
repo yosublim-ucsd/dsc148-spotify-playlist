@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo"
+    },
+    {
+      "album": {
         "name": "Thump Shit",
         "url": "https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22763,
+  "num_followers": 22766,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAADAHCC1zQgwYV8sn1AiVuat",
+  "snapshot_id": "Z0ZhAAAAAACOwzga5uJD8wggspwjSe/9",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 182577,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+      "duration_ms": 206740,
+      "name": "Forever Song - Solo Piano Version",
+      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 206740,
-      "name": "Forever Song - Solo Piano Version",
-      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
+      "duration_ms": 182577,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
     },
     {
       "added_at": null,

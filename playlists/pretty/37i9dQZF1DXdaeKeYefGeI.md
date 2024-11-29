@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,539 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,562 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
-| 2 | [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 |
-| 3 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
-| 4 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
-| 5 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 |
-| 6 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
-| 7 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 2 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
+| 3 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
+| 4 | [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 |
+| 5 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
+| 6 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 7 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 |
 | 8 | [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 |
 | 9 | [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 |
 | 10 | [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [De Lucht Is Van Iedereen](https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR) | [Judith Agaath](https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM) | [De Lucht Is Van Iedereen](https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP) | 3:40 |
 | 70 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 
-Snapshot ID: `Zz+7cAAAAABdHjx2rfu6iGgxv1sYiWdt`
+Snapshot ID: `Z0icGwAAAAAcr8N4jGbWqsfasguinsTw`

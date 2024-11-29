@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 26 songs - 1 hr 36 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 27 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 | 24 | [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 |
 | 25 | [Tattoo](https://open.spotify.com/track/66H4tD2U1SNgIRSD19m5jv) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 4:43 |
 | 26 | [Short, Fast, And Loud](https://open.spotify.com/track/2cn19ykuQ0vYdSpqqN4h0p) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Evening Out With Your Girlfriend](https://open.spotify.com/album/0zk9ITIOCEXthivlHuhBsd) | 2:16 |
+| 27 | [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 |
 
-Snapshot ID: `AAAAHAwqbJmfU7Vq9IMA+1tf9gmfDCCX`
+Snapshot ID: `AAAAHfvp73tvlqRhriTIrcnJZmhjBqwJ`

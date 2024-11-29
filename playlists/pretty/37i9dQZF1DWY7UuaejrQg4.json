@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 86051,
+  "num_followers": 86066,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Love Is Dead",
         "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 188251,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1G79vIY7FPXPjBj9cpweZD"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 231359,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Solarize",
         "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Love Is Dead",
-        "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 231359,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1487,38 +1487,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Kwe$t",
-          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 208067,
-      "name": "Summer Time High Time",
-      "url": "https://open.spotify.com/track/7t5MUcFIIayP1M6TNhtWE0"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua"
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1539,34 +1519,38 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua"
     },
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Kwe$t",
+          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+      "duration_ms": 208067,
+      "name": "Summer Time High Time",
+      "url": "https://open.spotify.com/track/7t5MUcFIIayP1M6TNhtWE0"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
       },
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 207692,
-      "name": "Dontmakemefallinlove",
-      "url": "https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     }
   ],
   "unique_name": "Best of Indie 2018",

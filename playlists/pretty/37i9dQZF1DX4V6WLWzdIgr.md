@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,929 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,039 likes - 84 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,23 +75,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 65 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 |
 | 66 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 |
 | 67 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 |
-| 68 | [Emas Hantaran](https://open.spotify.com/track/05MHiHJwPgzCKa5C8gyYH7) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Yollanda](https://open.spotify.com/artist/6lruGjGA2RQwJyZMmOpL7e) | [Emas Hantaran](https://open.spotify.com/album/1dmUeIIkru2EioSgNBArzn) | 4:52 |
-| 69 | [Matur Suwun](https://open.spotify.com/track/3vfjm9cp7EXPiwg1dM619J) | [Tri Hanna](https://open.spotify.com/artist/5gAnElZHeovABzndwUiYJO) | [Matur Suwun](https://open.spotify.com/album/3tWwVTVbfJaZxJf5dtnZzo) | 5:46 |
-| 70 | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/track/1TTRTw1LBNmhhbOivTVaf9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/album/0m2eRIh8FVBM9ul8usVljr) | 4:50 |
-| 71 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 |
-| 72 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 |
-| 73 | [Jajal Kowe Dadi Aku](https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Jajal Kowe Dadi Aku](https://open.spotify.com/album/37qGCmUzMc4OH6sO15s4cM) | 3:52 |
-| 74 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 |
-| 75 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 |
-| 76 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 |
-| 77 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 |
-| 78 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
-| 79 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 |
-| 80 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 |
-| 81 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 |
-| 82 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 |
-| 83 | [Aku Ikhlas](https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Ikhlas](https://open.spotify.com/album/2jYDJuEDD143eZxnYzL1Q5) | 4:38 |
-| 84 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
-| 85 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
+| 68 | [Matur Suwun](https://open.spotify.com/track/3vfjm9cp7EXPiwg1dM619J) | [Tri Hanna](https://open.spotify.com/artist/5gAnElZHeovABzndwUiYJO) | [Matur Suwun](https://open.spotify.com/album/3tWwVTVbfJaZxJf5dtnZzo) | 5:46 |
+| 69 | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/track/1TTRTw1LBNmhhbOivTVaf9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/album/0m2eRIh8FVBM9ul8usVljr) | 4:50 |
+| 70 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 |
+| 71 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 |
+| 72 | [Jajal Kowe Dadi Aku](https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Jajal Kowe Dadi Aku](https://open.spotify.com/album/37qGCmUzMc4OH6sO15s4cM) | 3:52 |
+| 73 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 |
+| 74 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 |
+| 75 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 |
+| 76 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 |
+| 77 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
+| 78 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 |
+| 79 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 |
+| 80 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 |
+| 81 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 |
+| 82 | [Aku Ikhlas](https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Ikhlas](https://open.spotify.com/album/2jYDJuEDD143eZxnYzL1Q5) | 4:38 |
+| 83 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
+| 84 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 
-Snapshot ID: `Zyss4AAAAAB9fSPz9ECTaZqcPUdMl4sh`
+Snapshot ID: `Z0iPIAAAAABa80Zdqo1iJ2v+wMm//DQf`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u5b88\u591c\u4eba (Night Keepers)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u6253\u5012\u4e09\u660e\u6cbb (Sandwich Fail)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Glued To",
+        "url": "https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl"
+      },
+      "artists": [
+        {
+          "name": "Fi-N\u00e9 \u7c89\u5167",
+          "url": "https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247164,
+      "name": "Glued To",
+      "url": "https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2VqTSgYOH7QovF3cOllYk6"
       },
@@ -514,6 +536,24 @@
       "duration_ms": 230769,
       "name": "Hey Girl - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2kLuVbzpjnRAOwaTnp7C2J"
+    },
+    {
+      "album": {
+        "name": "Hug Me",
+        "url": "https://open.spotify.com/album/360xY0pYjNQg7YomLT8Om0"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u5927Band",
+          "url": "https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6vYSKq5nDJqI1PUnHojiE7"
     },
     {
       "album": {
@@ -624,6 +664,36 @@
       "duration_ms": 423300,
       "name": "Intro+\u7fbd\u7403\u5c11\u5e74 - Live Session",
       "url": "https://open.spotify.com/track/3faHeia7CQNoaLXKHogy87"
+    },
+    {
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/5ZvgU6EOPllBYKTDDWI6kr"
+        },
+        {
+          "name": "HAOTING",
+          "url": "https://open.spotify.com/artist/4QcyxiPSZK5SzPyjmqapHD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186199,
+      "name": "Leaveyourlove (with Cosmos People, HAOTING from Sunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/3NpOFREVwEWhwNFZhnD5F5"
     },
     {
       "album": {
@@ -1124,7 +1194,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203019,
       "name": "Snow in Osaka",
       "url": "https://open.spotify.com/track/2w1WT7UnIvYT5jtBaEWXeC"
@@ -1460,7 +1530,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 190001,
       "name": "ZOGANG",
       "url": "https://open.spotify.com/track/704UXFSCtUwpZYUIAj4bQT"
@@ -1861,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u5bf6\u5cf6\u5eb7\u6a02\u968a \u7b2c13\u5f35\u5927\u6ce2\u6d6a",
+        "url": "https://open.spotify.com/album/0e9AQGY5FgVBij09ViVIsw"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u5bf6\u5cf6\u5eb7\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4uwzFYQujZPB6R2RUUadT2"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365172,
+      "name": "\u4f86\u53bb\u6771\u6e2f",
+      "url": "https://open.spotify.com/track/2jgcaw9TfNH8p3x4QOFEXJ"
+    },
+    {
+      "album": {
         "name": "\u4f9d\u7136FANTASY",
         "url": "https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV"
       },
@@ -1930,6 +2018,24 @@
       "duration_ms": 423826,
       "name": "\u505a\u904b\u52d5",
       "url": "https://open.spotify.com/track/5pdOw0j7Ov5g4LBsLcKjMz"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1xCpoCbrDN9nC0JYTvxD0y"
+      },
+      "artists": [
+        {
+          "name": "BaishaJAWS",
+          "url": "https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289523,
+      "name": "\u505c\u7559",
+      "url": "https://open.spotify.com/track/5qiJHEuGogfxUqNXMLqe3A"
     },
     {
       "album": {
@@ -2634,7 +2740,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 167000,
       "name": "\u5c11\u5e74\u7684\u7cfe\u7d50",
       "url": "https://open.spotify.com/track/2FSg73IZvBxvZHqgzV6irz"
@@ -2822,7 +2928,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 150313,
       "name": "\u5f71\u5b50\u7684\u5149",
       "url": "https://open.spotify.com/track/32qlAuHFqv3tDfuuvg4g9F"
@@ -2952,7 +3058,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 224000,
       "name": "\u60b2\u5287\u5927\u5e2b",
       "url": "https://open.spotify.com/track/5pdF721luS2ffNCWG8IYUm"
@@ -3478,7 +3584,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 183125,
       "name": "\u660e\u5e74\u590f\u5929\u6211\u5011\u6703\u4e0d\u6703\u9084\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/3D8OZFu0Z9R1IWwKbrj6NA"
@@ -3518,6 +3624,24 @@
       "duration_ms": 389272,
       "name": "\u662f Am",
       "url": "https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI"
+    },
+    {
+      "album": {
+        "name": "\u6688\u8239\u7684\u592a\u7a7a\u4eba",
+        "url": "https://open.spotify.com/album/58rBqcf0PuoIwRIHsCL252"
+      },
+      "artists": [
+        {
+          "name": "\u6606\u87f2\u767d",
+          "url": "https://open.spotify.com/artist/3LJmUBY0O89KTOccPF9tYV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374154,
+      "name": "\u6688\u8239\u7684\u592a\u7a7a\u4eba",
+      "url": "https://open.spotify.com/track/6iJLDyOD4vlLWpp7r1Odsb"
     },
     {
       "album": {
@@ -4082,7 +4206,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 263250,
       "name": "\u6cb3\u5e8a",
       "url": "https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei"
@@ -4216,6 +4340,24 @@
       "duration_ms": 210864,
       "name": "\u6f14",
       "url": "https://open.spotify.com/track/5RCDbaMiy8OOilzzZRKYdW"
+    },
+    {
+      "album": {
+        "name": "\u701f\u7051\u8d70\u4e00\u56de",
+        "url": "https://open.spotify.com/album/79K8zBai60GkBeDsEDww65"
+      },
+      "artists": [
+        {
+          "name": "Reversing into Garage",
+          "url": "https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "\u701f\u7051\u8d70\u4e00\u56de",
+      "url": "https://open.spotify.com/track/2j9PM9JmGVesidceFs9mco"
     },
     {
       "album": {
@@ -4665,6 +4807,28 @@
     },
     {
       "album": {
+        "name": "\u7f13\u91ca\u80f6\u56ca",
+        "url": "https://open.spotify.com/album/5vd7MFUXaIuycmunw1LDei"
+      },
+      "artists": [
+        {
+          "name": "\u83ab\u975e\u5b9a\u5f8b\u4e50\u56e2",
+          "url": "https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO"
+        },
+        {
+          "name": "\u83ab\u975e\u5b9a\u5f8b\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/576mV44iwFvzotJJrznMbj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254181,
+      "name": "\u7f13\u91ca\u80f6\u56ca",
+      "url": "https://open.spotify.com/track/1Nu2TignH4FkqgGkVlQRY8"
+    },
+    {
+      "album": {
         "name": "\u7ffb\u4e0d\u5230\u4e0b\u4e00\u9801",
         "url": "https://open.spotify.com/album/18976T7WBpqSKMYipr4Hui"
       },
@@ -4940,7 +5104,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 284614,
       "name": "\u8eba\u5728\u5e8a\u4e0a",
       "url": "https://open.spotify.com/track/15UOXGkb13ZiqgjwKFqzHf"
@@ -5024,6 +5188,24 @@
       "duration_ms": 231000,
       "name": "\u8ff7\u822a",
       "url": "https://open.spotify.com/track/4FNwRlpFSus5yPM3dYUWLb"
+    },
+    {
+      "album": {
+        "name": "\u8ffd\u9010\u4e0d\u5230\u7684\u4f60\u6211",
+        "url": "https://open.spotify.com/album/4Gqecyb4k2xahRH1CmCXJS"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u82b1 Yellow Flower",
+          "url": "https://open.spotify.com/artist/6Rm5VnEe1STYvTaW7YOqP4"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317280,
+      "name": "\u8ffd\u9010\u4e0d\u5230\u7684\u4f60\u6211",
+      "url": "https://open.spotify.com/track/0eUpekeZ35OPhiPdujxErw"
     },
     {
       "album": {

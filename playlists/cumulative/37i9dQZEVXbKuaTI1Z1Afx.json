@@ -4466,7 +4466,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 225986,
       "name": "As Long As You're Mine",
       "url": "https://open.spotify.com/track/2pHClPIG7C5v9Qhd1LHS2y"
@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 225986,
       "name": "As Long As You're Mine - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/7esLFdmyCQMjiLxpnHSF09"
@@ -13362,7 +13362,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 353920,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/1fsBDvL77kDOixZ8Lw9cjZ"
@@ -13396,7 +13396,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
@@ -19494,7 +19494,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 306893,
       "name": "For Good",
       "url": "https://open.spotify.com/track/0Mjasw7CGUJT6ByJa6pkbx"
@@ -19524,6 +19524,40 @@
       "duration_ms": 254853,
       "name": "For Good",
       "url": "https://open.spotify.com/track/7HZvTYEdNPiPdweW1868Vm"
+    },
+    {
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306893,
+      "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/46UIRyvRZx9TW5Y5jz13Y8"
     },
     {
       "album": {
@@ -24513,6 +24547,24 @@
     },
     {
       "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94946,
+      "name": "Hinoki Wood",
+      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
+    },
+    {
+      "album": {
         "name": "HISS",
         "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
@@ -27250,7 +27302,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 178760,
       "name": "I'm Not That Girl",
       "url": "https://open.spotify.com/track/6vPmS6H2WEooVIwPVH4DPq"
@@ -27280,7 +27332,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 178760,
       "name": "I'm Not That Girl - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/6eRV2uv4DWyZn9dNXn5xX4"
@@ -39812,7 +39864,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 400533,
       "name": "No One Mourns The Wicked - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/4FY17SmlqeEGEuYBynENHS"
@@ -57216,7 +57268,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 309520,
       "name": "The Wizard And I",
       "url": "https://open.spotify.com/track/0nkHQKAeFFviNCHCo2HErO"
@@ -57250,7 +57302,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 309520,
       "name": "The Wizard And I - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/3TJQRDc5qot9GJb6T0Pdh2"

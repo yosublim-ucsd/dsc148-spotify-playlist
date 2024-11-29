@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Hope D",
+  "description": "All the new indie tracks worth knowing about. Cover: total tommy",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 158280,
       "name": "6 Foot",
       "url": "https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr"
@@ -128,6 +128,24 @@
       "duration_ms": 203989,
       "name": "A Tear in Space (Airlock)",
       "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
+      "album": {
+        "name": "The Accident",
+        "url": "https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "A Telephone Rings",
+      "url": "https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4"
     },
     {
       "album": {
@@ -434,6 +452,24 @@
       "duration_ms": 223333,
       "name": "Alone in the Dark",
       "url": "https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr"
+    },
+    {
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
     },
     {
       "album": {
@@ -1020,6 +1056,24 @@
       "duration_ms": 217602,
       "name": "Boarding Pass",
       "url": "https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf"
+    },
+    {
+      "album": {
+        "name": "Bodys Chorus",
+        "url": "https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238220,
+      "name": "Bodys Chorus",
+      "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
     },
     {
       "album": {
@@ -2370,7 +2424,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 114784,
       "name": "DYSLEXIC",
       "url": "https://open.spotify.com/track/00eNoAwH4dwdYMeL6ikGhL"
@@ -2446,7 +2500,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 128231,
       "name": "Effin",
       "url": "https://open.spotify.com/track/0VZcRtXhRxJRC8hc8TxpE5"
@@ -3447,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Halfway Love",
+        "url": "https://open.spotify.com/album/0U6YbPFGkWOGQGZwLvwBmd"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "Halfway Love",
+      "url": "https://open.spotify.com/track/6fYAqQYx6Jj9kjPpob4dod"
+    },
+    {
+      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/4AHa4OtKHo63S4IL7ZEYfD"
       },
@@ -3834,7 +3906,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 190756,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4VmUjQemFIPObiloQu0xgQ"
@@ -3910,7 +3982,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
@@ -4112,6 +4184,24 @@
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "album": {
+        "name": "It Don't Matter",
+        "url": "https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205514,
+      "name": "It Don't Matter",
+      "url": "https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM"
     },
     {
       "album": {
@@ -4448,6 +4538,28 @@
       "duration_ms": 231490,
       "name": "Leaveyourlove",
       "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "album": {
+        "name": "Leaveyourlove (with King Stingray)",
+        "url": "https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Leaveyourlove (with King Stingray)",
+      "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
     },
     {
       "album": {
@@ -4816,7 +4928,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
@@ -4918,6 +5030,24 @@
       "duration_ms": 160440,
       "name": "luv stuck",
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+    },
+    {
+      "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/0n6bkIU5E4RzhhKeKr0tSd"
+      },
+      "artists": [
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138198,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4QefQE5iRafmuKBdt2YcT5"
     },
     {
       "album": {
@@ -5426,7 +5556,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 216177,
       "name": "My Hair Is A Little Bit On Fire",
       "url": "https://open.spotify.com/track/02ALESYceJ79XmiErPZvbU"
@@ -5524,6 +5654,24 @@
       "duration_ms": 184093,
       "name": "Nice To Meet Me",
       "url": "https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K"
+    },
+    {
+      "album": {
+        "name": "Nintendo",
+        "url": "https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141220,
+      "name": "Nintendo",
+      "url": "https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD"
     },
     {
       "album": {
@@ -5748,6 +5896,24 @@
       "duration_ms": 180031,
       "name": "OMG",
       "url": "https://open.spotify.com/track/440KMTO9xzALFZU5guu0Ea"
+    },
+    {
+      "album": {
+        "name": "One Foot",
+        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156690,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
     },
     {
       "album": {
@@ -6384,7 +6550,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 210620,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/2oqS42cUvvGe6RyLcxPzOl"
@@ -7062,7 +7228,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 210308,
       "name": "SPJ",
       "url": "https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m"
@@ -7262,7 +7428,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 183135,
       "name": "Sunday Stitches",
       "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
@@ -7435,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Taking Care of It",
+        "url": "https://open.spotify.com/album/6jKFmiGmp2k58uNI0JmqEE"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294113,
+      "name": "Taking Care of It",
+      "url": "https://open.spotify.com/track/5rXD9gqZfnyIwwbfYKNVO8"
+    },
+    {
+      "album": {
         "name": "talking shit",
         "url": "https://open.spotify.com/album/4P1uSRHlvwn9VZmMaWWqzi"
       },
@@ -7504,6 +7688,24 @@
       "duration_ms": 127510,
       "name": "tears",
       "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
+    },
+    {
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221484,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn"
     },
     {
       "album": {
@@ -7734,7 +7936,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
@@ -7788,7 +7990,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212133,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
@@ -8128,6 +8330,24 @@
       "duration_ms": 219975,
       "name": "Wet Dreams",
       "url": "https://open.spotify.com/track/5kjHAzUxp46OMgDgxZPgo5"
+    },
+    {
+      "album": {
+        "name": "DON WEST",
+        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284026,
+      "name": "What Turns You On",
+      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
     },
     {
       "album": {

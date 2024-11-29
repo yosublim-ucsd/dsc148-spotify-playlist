@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq?si=_S6151ZwQC6uCN003oYmtw\">Sam Deep</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV\">Felo Le Tee</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -2246,6 +2246,40 @@
       "duration_ms": 360239,
       "name": "AmaVampire (feat. Mr JazziQ, Tserai J, PMD, Boibizza, 2wo Short & Soultribute)",
       "url": "https://open.spotify.com/track/1W3r6PWddWIrOHu6EBJBon"
+    },
+    {
+      "album": {
+        "name": "Amazekethe (feat. Soulful Disciple & Mdu aka TRP)",
+        "url": "https://open.spotify.com/album/28VGosqBexUwxcdIv1p1Jq"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Nkulee501",
+          "url": "https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75"
+        },
+        {
+          "name": "Soulful Disciple",
+          "url": "https://open.spotify.com/artist/6gmMSMt9vm3YYJ5JoBG5my"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429048,
+      "name": "Amazekethe (feat. Soulful Disciple & Mdu aka TRP)",
+      "url": "https://open.spotify.com/track/0Ounuqqaz5chAiyqSbIgj8"
     },
     {
       "album": {
@@ -12972,6 +13006,28 @@
       "duration_ms": 351512,
       "name": "Indab'Yami (feat. LeeMcKrazy)",
       "url": "https://open.spotify.com/track/2sRwKgS449CjcV5CglrAjH"
+    },
+    {
+      "album": {
+        "name": "Indaba",
+        "url": "https://open.spotify.com/album/5sP8JjKCDCz7xS7yApg1jm"
+      },
+      "artists": [
+        {
+          "name": "Don Edward",
+          "url": "https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381551,
+      "name": "Indaba",
+      "url": "https://open.spotify.com/track/2wiynlHNYnzrs4SGbK6tBA"
     },
     {
       "album": {
@@ -26254,7 +26310,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 348362,
       "name": "Shaya Istina (feat. Amahle.tc & Nation Deep)",
       "url": "https://open.spotify.com/track/3Wly0zlNeiyGIKCGhwZs1M"
@@ -31388,7 +31444,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 290978,
       "name": "Tshika Ti Small Boys",
       "url": "https://open.spotify.com/track/4NbCOa10LTKAz4ZaJAAYa8"

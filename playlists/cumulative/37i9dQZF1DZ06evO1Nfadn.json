@@ -2176,10 +2176,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168298,
       "name": "Vamos a Bailar",
       "url": "https://open.spotify.com/track/1BTacG6OfqCbqjwvXolIJS"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/6HXKHHC9T5weilLjvaDXiP"
     },
     {
       "album": {

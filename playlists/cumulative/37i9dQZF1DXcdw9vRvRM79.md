@@ -4,7 +4,7 @@
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-149 songs - 7 hr 27 min
+152 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Caressed By Nature \(Meditation\)](https://open.spotify.com/track/4vv3Uhv2v7w1Wc95PG06r6) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Caressed By Nature](https://open.spotify.com/album/5b7yMlVMpZUTejQMXx0h75) | 2:59 | 2023-10-26 |  |
 | [Cascading](https://open.spotify.com/track/4pRiTsu1z2NLPaG0TBQqZU) | [Elo Ído](https://open.spotify.com/artist/1S4ObFh6g1dWEvQP26Msgt) | [Cascading](https://open.spotify.com/album/2PUShhDP6ly2PG51y6WxeL) | 2:32 | 2024-04-01 |  |
 | [Celeste](https://open.spotify.com/track/4vTOrAXAOgUoweADeF5I0C) | [Diego Arjona](https://open.spotify.com/artist/5tV23HA3cl3k59vnG6ezxu) | [Celeste](https://open.spotify.com/album/046UDQYp92ZrRdQpOMc30n) | 5:52 | 2023-09-28 | 2024-06-04 |
+| [Celestial](https://open.spotify.com/track/6vw2NGeLeogwHB8um5pI0r) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Celestial](https://open.spotify.com/album/5Yv0KKHG2ORKPbVneO0gzM) | 2:40 | 2024-11-28 |  |
 | [Cellistine Dream \- Sound Bath](https://open.spotify.com/track/1kcVpfErfA5DfUN2K3pctw) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Cellistine Dream \- Sound Bath](https://open.spotify.com/album/2eA6yUZ24IYQmKwhu9mMTa) | 3:18 | 2024-01-25 | 2024-07-19 |
 | [Circle of Solitude \(in the Rain\)](https://open.spotify.com/track/1go1DH4MbQDYmMo0ee1u8k) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Returning to the Moment & Circle of Solitude](https://open.spotify.com/album/15OItHbcXHD0A2Rs9leWEh) | 3:56 | 2023-11-18 |  |
 | [Clinomania \(in the Rain\)](https://open.spotify.com/track/47AqOwrBcBCV3DKC1W4orj) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Circadian Wanderer](https://open.spotify.com/album/0Xd2U5Kvwo9e1tT3peqXLC) | 3:02 | 2024-07-18 |  |
@@ -46,7 +47,7 @@
 | [Cromadas Naturales](https://open.spotify.com/track/21p3RenObRtBb0TlobC24T) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Cromadas Naturales](https://open.spotify.com/album/60HieU0xOf1Wep68f6Ha6h) | 2:34 | 2024-03-20 |  |
 | [Crystals](https://open.spotify.com/track/51UHW41sb8FJaakZJWdoKZ) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Crystals](https://open.spotify.com/album/11k0bErmwSfT3O7p3Xz2tE) | 3:05 | 2024-08-23 |  |
 | [Deep in the Forest](https://open.spotify.com/track/4DuZpMMRGsLlCCrrA6hwiT) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Deep in the Forest](https://open.spotify.com/album/4V17VetgclqdDBWxdDkdkK) | 2:38 | 2023-10-26 |  |
-| [Deep In The Forest](https://open.spotify.com/track/2YYqrJs7lgjmEkgO5PGd35) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Deep In The Forest](https://open.spotify.com/album/457UHmDwuJrq5MWDoPYjBN) | 3:31 | 2023-09-28 |  |
+| [Deep In The Forest](https://open.spotify.com/track/2YYqrJs7lgjmEkgO5PGd35) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Deep In The Forest](https://open.spotify.com/album/457UHmDwuJrq5MWDoPYjBN) | 3:31 | 2023-09-28 | 2024-11-29 |
 | [Delta Rain & Thunder \(Sound Bath\)](https://open.spotify.com/track/5VLZaMJqSwscbok81fCZYy) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Delta Rain & Thunder \(Sound Bath\)](https://open.spotify.com/album/7gozCKnJxAAnYkrYeeMZFt) | 2:53 | 2024-01-25 |  |
 | [Devine](https://open.spotify.com/track/03PZdPB6XxLRzZr6bxyJ9K) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Devine](https://open.spotify.com/album/2JCGGfgADShM00AyKu5E7B) | 2:26 | 2024-06-03 |  |
 | [Down](https://open.spotify.com/track/23RZxUOQ4aKDscawqXmuAY) | [Rhuma](https://open.spotify.com/artist/2sKBIgEdMkCfd6Fl682Gcf) | [Down](https://open.spotify.com/album/0WAc9bER7MgMkf2O53jkCU) | 3:20 | 2023-10-20 |  |
@@ -110,6 +111,7 @@
 | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/track/1mRrap2H5etyXZaOXRRCRc) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/album/5nrwQhD3xxOrnXjmZZccth) | 3:02 | 2023-10-26 |  |
 | [Peace](https://open.spotify.com/track/2TWXbfh28wZfeD7tvdysd9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Peace](https://open.spotify.com/album/3qfYDbvue5LJxdajzGfPCK) | 2:58 | 2024-10-24 |  |
 | [Pravaah](https://open.spotify.com/track/77Fh1GDyA2ZW5NCe9yCTR8) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Pravaah](https://open.spotify.com/album/6GaachOqzYq44kStPLeLBd) | 2:46 | 2023-09-28 |  |
+| [Quiet Morning](https://open.spotify.com/track/38qol3LIIwIuMKrjIVgp9Q) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Quiet Morning](https://open.spotify.com/album/2bFxocgq9CJgYJUMXB6Iin) | 2:50 | 2024-11-28 |  |
 | [Quiet Times](https://open.spotify.com/track/6AVTXGRYp1EjemAzrOzQLl) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Quiet Times](https://open.spotify.com/album/67iYR0oPfvpKrh43DkgcFf) | 2:11 | 2024-09-06 |  |
 | [Rain Cleanse](https://open.spotify.com/track/3s90wLosZi7wuOowbk8qKn) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Infinite](https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1) | 2:41 | 2023-09-28 |  |
 | [Rain Dreamer](https://open.spotify.com/track/7KhXKmFezMJ7PqAfBt0XfH) | [Glacier Wave](https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN) | [Rain Dreamer](https://open.spotify.com/album/0I0Z0Rs9nmAim5d77xU36N) | 3:05 | 2023-10-06 | 2023-10-10 |
@@ -134,6 +136,7 @@
 | [Sleep Music With Rain Sounds](https://open.spotify.com/track/00esFwdH0kZJyhxhyQVUNk) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Sleeping Music](https://open.spotify.com/artist/2aplufV3LonHEHqxgZl7O1), [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleeping Music: Rain Sounds, Nature Sounds and Relaxing Piano Music For Sleep, Deep Sleep Aid and The Best Sleep Music](https://open.spotify.com/album/6Y0pk6898VVPOAW3vvALEo) | 2:10 | 2023-09-28 |  |
 | [Sleeping Music With Rain Sounds](https://open.spotify.com/track/6y7qReqkjiSn7ZJTzXzCzt) | [Sleeping Music](https://open.spotify.com/artist/2aplufV3LonHEHqxgZl7O1), [Sleep Music](https://open.spotify.com/artist/5zZodOWlMQPEfpohMgFrRM), [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5) | [Sleeping Music: Rain Sounds For Deep Sleep, Calm Music For Sleep and Soothing Nature Sounds Sleep Music](https://open.spotify.com/album/7qmpw9h5fodUif6D8ofbrb) | 2:28 | 2023-09-28 |  |
 | [Slowly](https://open.spotify.com/track/5aJVU2be9kwTus4upa1H5a) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Slowly](https://open.spotify.com/album/245teCRripI2uthYqVRawt) | 3:03 | 2024-06-03 |  |
+| [Soft Descent](https://open.spotify.com/track/3YAHjXdtr3TEl7O5APB9Ax) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Soft Descent](https://open.spotify.com/album/5vgiRkO88snE6vCW1dozdm) | 2:54 | 2024-11-28 |  |
 | [Solar Winds](https://open.spotify.com/track/0mbtO31eMSpK4rRK8Rh4PI) | [Shape Of Cloud](https://open.spotify.com/artist/1vAj8NUPxCI9mBZNTWteHV) | [Solar Winds](https://open.spotify.com/album/6zFFMzkMI42q4Jk4Nq3KkV) | 1:53 | 2023-09-28 | 2023-11-23 |
 | [Something New](https://open.spotify.com/track/6r20JaBI5mFikdksEjvIIY) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [Something New](https://open.spotify.com/album/68qDu7c9bhE63qQzvUaVwe) | 1:47 | 2023-09-28 | 2023-11-23 |
 | [Soothing](https://open.spotify.com/track/6XL1YkefMDc0zrwkQsnOwf) | [Ashami Mantras](https://open.spotify.com/artist/2GRKiHcYCBni3lSujepe79) | [Soothing](https://open.spotify.com/album/1MTXl8MohCyp4aHxeNW0Xu) | 2:59 | 2024-01-25 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAACNqAGDgAAnV65H0mor4ua4",
+  "snapshot_id": "Z0ZhAAAAAAAJwWNodx+b1ngNs5tjuN5c",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12th House Rock",
-        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Night Tryst",
-      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af"
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
     },
     {
       "added_at": null,

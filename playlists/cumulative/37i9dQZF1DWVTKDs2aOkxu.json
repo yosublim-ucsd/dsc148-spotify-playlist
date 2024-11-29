@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Introducing jasmine.4.t \ud83d\udc18",
+  "description": "The best indie music of the moment. Louis Dunford szn \ud83e\udee1",
   "name": "The Indie List",
   "tracks": [
     {
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207533,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
+    },
+    {
+      "album": {
         "name": "Flicker of Light",
         "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
       },
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 179138,
       "name": "Gut Punch Love",
       "url": "https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 407710,
       "name": "Punish",
       "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
@@ -3968,6 +3986,24 @@
       "duration_ms": 215143,
       "name": "Summer Of Hate",
       "url": "https://open.spotify.com/track/3s3fD692V8r3UCT7nqcoZe"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/5WLrNAbEXd0XUHYNJq4Jbv"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293652,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/5s66mh6xdw2bQAupb6btYQ"
     },
     {
       "album": {
@@ -4794,7 +4830,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156853,
       "name": "We Don't Need to Do Forever",
       "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"

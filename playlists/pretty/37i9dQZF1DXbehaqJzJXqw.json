@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 499928,
+  "num_followers": 500309,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Song, Song, Song",
-        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
       "artists": [
         {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        },
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Miossec",
-          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
         }
       ],
-      "duration_ms": 261093,
-      "name": "Mon fant\u00f4me",
-      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -759,18 +751,26 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+        "name": "Song, Song, Song",
+        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
       },
       "artists": [
         {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Miossec",
+          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
         }
       ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+      "duration_ms": 261093,
+      "name": "Mon fant\u00f4me",
+      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167266,
       "name": "La mer opale",
       "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Ses plus grandes chansons",
-        "url": "https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dans mon \u00eele",
-      "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "La javanaise",
         "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 121599,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Ses plus grandes chansons",
+        "url": "https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dans mon \u00eele",
+      "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Mon Amie La Rose",
+        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 123078,
+      "name": "Mon Amie La Rose",
+      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Gainsbourg percussions",
         "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 125200,
       "name": "Ces petits riens",
       "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "Comme Un Manouche Sans Guitare",
-        "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        }
-      ],
-      "duration_ms": 130186,
-      "name": "J'suis pas d'ici",
-      "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+        "name": "Comme Un Manouche Sans Guitare",
+        "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
       },
       "artists": [
         {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
         }
       ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
+      "duration_ms": 130186,
+      "name": "J'suis pas d'ici",
+      "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Just The Two Of Us",
+        "url": "https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Diego Figueiredo",
+          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "Je Suis Seule Ce Soir",
+      "url": "https://open.spotify.com/track/6g7lZAZ4vNyeswmaEFenlz"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "The Boy Next Door",
         "url": "https://open.spotify.com/album/1Qo0mVjKK1eEZ5vGFpRvbl"
       },
@@ -1363,22 +1383,6 @@
       "duration_ms": 177253,
       "name": "Que rest-t-il de nos amours?",
       "url": "https://open.spotify.com/track/3WYTn5VlkWkdacjGRsGvSv"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "13 Chansons d'Avant Le Deluge",
-        "url": "https://open.spotify.com/album/15I7QvT8jQY5xvU2CBzWgf"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Fontaine & Jacques Higelin",
-          "url": "https://open.spotify.com/artist/3Su2k2rMaQZsIKbNZSS0ps"
-        }
-      ],
-      "duration_ms": 141293,
-      "name": "La Grippe",
-      "url": "https://open.spotify.com/track/1syekyuaIRLfqGMP5quqhb"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

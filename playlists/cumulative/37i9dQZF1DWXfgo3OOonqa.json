@@ -5897,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/1YUWHlk9KMshoyuUisiS36"
+      },
+      "artists": [
+        {
+          "name": "BoBa",
+          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138062,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/6EKnz3jbTmF3JTxdzv9vLR"
+    },
+    {
+      "album": {
         "name": "CASABLANCA",
         "url": "https://open.spotify.com/album/4kITq8rGnn1dkiLuthUXaH"
       },
@@ -13872,7 +13890,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 184000,
       "name": "HUNDRA",
       "url": "https://open.spotify.com/track/2vYI5MCN2pk3rAHOJiIp0O"
@@ -14818,6 +14836,28 @@
       "duration_ms": 184736,
       "name": "INGEN NACAS",
       "url": "https://open.spotify.com/track/1vYlpLhLkZfg30xnG5bsTW"
+    },
+    {
+      "album": {
+        "name": "BACK2BASICS",
+        "url": "https://open.spotify.com/album/1K6ocPEoGkoYJNh539UNfu"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        },
+        {
+          "name": "DR",
+          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "INGEN PR",
+      "url": "https://open.spotify.com/track/2fI6d3oS5tAfr3cJGC6oW4"
     },
     {
       "album": {
@@ -22144,7 +22184,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 110495,
       "name": "NORRA ST\u00c5",
       "url": "https://open.spotify.com/track/2c33zogCIk5JDfLDzBuFRi"
@@ -25588,7 +25628,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169021,
       "name": "SAHBI - Remix",
       "url": "https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG"
@@ -26161,6 +26201,28 @@
     },
     {
       "album": {
+        "name": "SHE LUV BADMAN",
+        "url": "https://open.spotify.com/album/1HSgESBtNSO8rx7ZyjEI1l"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "SHE LUV BADMAN",
+      "url": "https://open.spotify.com/track/7itIyNRtdqvYXFgpQMjAWJ"
+    },
+    {
+      "album": {
         "name": "TRAPSTAR2RAPSTAR",
         "url": "https://open.spotify.com/album/1SkVQ9hBud6TJEXv2w8doq"
       },
@@ -26606,6 +26668,28 @@
       "duration_ms": 149538,
       "name": "SKIMMA",
       "url": "https://open.spotify.com/track/1ZYZksZeWLbTc2vfIlA4Uh"
+    },
+    {
+      "album": {
+        "name": "skitdag (feat. Clayton)",
+        "url": "https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T"
+      },
+      "artists": [
+        {
+          "name": "Chris Taylor",
+          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
+        },
+        {
+          "name": "Clayton",
+          "url": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172005,
+      "name": "skitdag (feat. Clayton)",
+      "url": "https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu"
     },
     {
       "album": {
@@ -27545,6 +27629,28 @@
     },
     {
       "album": {
+        "name": "V\u00c5GA (Extended)",
+        "url": "https://open.spotify.com/album/7lYrFVT8gn54SkP4AhIXos"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Spelet",
+      "url": "https://open.spotify.com/track/7HxDD3FRuif5caSLhdPsss"
+    },
+    {
+      "album": {
         "name": "Sportbil",
         "url": "https://open.spotify.com/album/6B76lCKpQN6hly4CKUq2uf"
       },
@@ -28094,7 +28200,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156734,
       "name": "St\u00f6r Ej",
       "url": "https://open.spotify.com/track/16uSzA4x74NdxaPC8lTNJd"
@@ -29506,6 +29612,24 @@
       "duration_ms": 173000,
       "name": "Tenk Inte",
       "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/6fmX0TZxl74Z41IWUefj7M"
+      },
+      "artists": [
+        {
+          "name": "Deso",
+          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132973,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/74FuEsUBkBwSTdOVreE0f7"
     },
     {
       "album": {
@@ -31092,6 +31216,32 @@
       "duration_ms": 144230,
       "name": "T\u00e4nk lite",
       "url": "https://open.spotify.com/track/0lbKDnUwHjdaHJy1pEVubl"
+    },
+    {
+      "album": {
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/6x8wft9zYkBdnOyZm1IuGP"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        },
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/5EbnKSZ5Z3iNsGXDg0vKE3"
     },
     {
       "album": {

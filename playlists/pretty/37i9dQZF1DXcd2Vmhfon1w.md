@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Kidd Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,712 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,788 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 38 | [Sudores fríos](https://open.spotify.com/track/3fTPnf1cNtC8k6nrT0j9wm) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:35 |
 | 39 | [ReLaMiDo](https://open.spotify.com/track/6drJQVd7Mn3NjnD2bGbk20) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [4NGELITO](https://open.spotify.com/album/5IOrh719ln2wBeIXdntTPS) | 1:55 |
 | 40 | [N2O](https://open.spotify.com/track/2kOwsdKzSBUiurwfdq4r6v) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe), [Dawiz](https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs) | [N20](https://open.spotify.com/album/1LFPkWYN5oZMkOzjnbMc7M) | 1:37 |
-| 41 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
+| 41 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 42 | [Bendición](https://open.spotify.com/track/1LSQFOhuhJUZM1wEX7OCAX) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Rich Mafia Vol\. 1](https://open.spotify.com/album/64esOhbm4ceNKRyjm4iQhj) | 3:06 |
 | 43 | [Si Vuelves Tarde](https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lionware](https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk) | [Si Vuelves Tarde](https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4) | 3:39 |
 | 44 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |

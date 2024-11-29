@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 2064933,
+  "num_followers": 2064909,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "this is me now",
-        "url": "https://open.spotify.com/album/0scdYf8gP2F8HDNMLt2lvh"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "this is me now",
-      "url": "https://open.spotify.com/track/3ZXgBDt3B8JAU8pGdbnvqt"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "this is me now",
+        "url": "https://open.spotify.com/album/0scdYf8gP2F8HDNMLt2lvh"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "this is me now",
+      "url": "https://open.spotify.com/track/3ZXgBDt3B8JAU8pGdbnvqt"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tragic Magic",
-      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Western White Pines (Deluxe)",
         "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 278256,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tragic Magic",
+      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Elephant",
-          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Harriet",
-      "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 201120,
       "name": "Mary Jane & Chardonnay",
       "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Elephant",
+          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Harriet",
+      "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Six Years",
-        "url": "https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS"
-      },
-      "artists": [
-        {
-          "name": "A Blaze of Feather",
-          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
-        }
-      ],
-      "duration_ms": 282146,
-      "name": "Six Years",
-      "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Every Feeling On A Loop",
         "url": "https://open.spotify.com/album/17MXfeDk8JUKn7gPoWYfZz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 285333,
       "name": "I Wish I Had",
       "url": "https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Six Years",
+        "url": "https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS"
+      },
+      "artists": [
+        {
+          "name": "A Blaze of Feather",
+          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
+        }
+      ],
+      "duration_ms": 282146,
+      "name": "Six Years",
+      "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
     },
     {
       "added_at": "2024-11-15 05:00:00",

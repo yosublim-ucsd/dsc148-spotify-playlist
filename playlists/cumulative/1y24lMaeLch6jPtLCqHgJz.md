@@ -4,7 +4,7 @@
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music
 
-379 songs - 19 hr 13 min
+380 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Faraba](https://open.spotify.com/track/15rllcb8N7UmpDmiM4Jiyq) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Faraba](https://open.spotify.com/album/47JxkBAqugQKcSnazKEwvO) | 2:18 | 2023-08-25 | 2024-06-22 |
 | [Fearless Dreamers](https://open.spotify.com/track/1fF9VfW5Xa1BXy6dVBgPvt) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Fearless Dreamers](https://open.spotify.com/album/0T7N8MYxT5ms02M5PKg1eW) | 2:44 | 2023-09-14 |  |
 | [Fears In The Fire](https://open.spotify.com/track/1EwYWqQsaBhm98CphY1tKs) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g) | 2:37 | 2022-07-29 | 2023-04-29 |
+| [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 | 2024-11-28 |  |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2023-08-10 |  |
 | [Fields Of Gold](https://open.spotify.com/track/4qBai1uujncH1mSGRGFsT8) | [Mydn](https://open.spotify.com/artist/7codSMNNqXVVHJ6zIuUo6g), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Fields Of Gold](https://open.spotify.com/album/4YVhrXkAX7LB66tG62TsC6) | 3:04 | 2024-11-08 |  |

@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-47 songs - 2 hr 53 min
+49 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2024-09-19 |  |
 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 | 2024-11-15 |  |
 | [No Irish Need Apply](https://open.spotify.com/track/29QLU0cH9Ibwv12WRQMB9r) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [We’ve Only Just Begun: A Century of Labor Song](https://open.spotify.com/album/67h5o3Y9jnOGMk9kfaJnoG) | 2:10 | 2024-09-16 |  |
+| [Normalization Blues](https://open.spotify.com/track/73UkvR1L7OGsslFutaBvjp) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:39 | 2024-11-28 |  |
 | [One Big Gay Disco](https://open.spotify.com/track/5oO1Jhord8LXAuTLLRuZJJ) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [We're Not So Different](https://open.spotify.com/album/7HzNAPDOT70DUBT2nL2n9K) | 4:36 | 2024-10-17 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2023-07-07 |  |
@@ -54,6 +55,7 @@
 | [Why We Build the Wall](https://open.spotify.com/track/68oU2YXg4kwPpertTUFrC6) | [Patrick Page](https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:00 | 2023-03-31 |  |
 | [Workingman Unite](https://open.spotify.com/track/1VRobEk2Fpc9K2SeWTSTtq) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [I Will Win: Songs of the Wobblies](https://open.spotify.com/album/2iZE8lCvHwLpbGHgGuAM3s) | 2:08 | 2024-09-16 |  |
 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 | 2023-05-10 |  |
+| [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 | 2024-11-28 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

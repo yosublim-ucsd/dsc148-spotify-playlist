@@ -2,12 +2,13 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Cover: Amir Hasan
+> Unearthing trailblazers\. Cover: J.M3
 
-90 songs - 4 hr 52 min
+93 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30,000](https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [30,000](https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg) | 3:07 | 2024-11-28 |  |
 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-06-27 |  |
 | [ABG](https://open.spotify.com/track/6yiGke8liI1tQoZ8tV6dgw) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [ABG](https://open.spotify.com/album/1jE9r3vDUkQT7IIIdjZQLu) | 2:28 | 2024-06-27 |  |
 | [Aku Ada](https://open.spotify.com/track/4ZurJR1BsX2m4f5rEy402F) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Aku Ada](https://open.spotify.com/album/3nEcXrYMBLnXfAumOk6yTa) | 3:06 | 2024-06-27 |  |
@@ -16,6 +17,7 @@
 | [Belong To You](https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Belong To You](https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF) | 3:16 | 2024-09-05 |  |
 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-10 |  |
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 |  |
+| [Buih Jadi Permadani](https://open.spotify.com/track/5HjUZ1cxdN4hrmdsXACNUw) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Buih Jadi Permadani](https://open.spotify.com/album/0Ln5cqHxEjFcHGe7PqIgju) | 6:01 | 2024-11-28 |  |
 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 | 2024-06-27 |  |
 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 | 2024-06-27 |  |
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-22 |  |
@@ -41,6 +43,7 @@
 | [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 |  |
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-24 |  |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2024-06-27 |  |
+| [GOAT](https://open.spotify.com/track/75pwLp6ykAwnLJbIajnwUL) | [Calista Liaw](https://open.spotify.com/artist/5pHNhL7wLSKVAkZzu2VSfI), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [GOAT](https://open.spotify.com/album/4kOEOvS3GI3by0V2f04NNw) | 4:14 | 2024-11-28 |  |
 | [GONE](https://open.spotify.com/track/5GD4Ua3avWtbj8g78j1kys) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [C.H.Q.Y](https://open.spotify.com/artist/6MpU9MJtZ8NWFO4Z0oCWY9) | [GONE](https://open.spotify.com/album/3dd6kX7BEgS4Fjm6G9cwJM) | 2:30 | 2024-06-27 |  |
 | [Good With That](https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Good With That](https://open.spotify.com/album/5QPaLW7l4vqGjz6eVAU0un) | 1:55 | 2024-10-03 |  |
 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 |  |

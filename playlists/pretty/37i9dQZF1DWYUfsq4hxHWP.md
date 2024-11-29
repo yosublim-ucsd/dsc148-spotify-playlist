@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jordana Bryant, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,223 likes - 195 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,273 likes - 195 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

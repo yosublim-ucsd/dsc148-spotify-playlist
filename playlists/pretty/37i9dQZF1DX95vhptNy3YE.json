@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374501,
+  "num_followers": 374471,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2024-11-22 13:41:28",
+      "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 193188,
       "name": "pausa da sua tristeza",
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
-    },
-    {
-      "added_at": "2024-11-22 13:41:28",
-      "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2024-11-22 13:41:28",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-11-22 13:41:28",
       "album": {
+        "name": "Cora\u00e7\u00e3o e Beat",
+        "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Modo Gal\u00e1tico",
+      "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
+    },
+    {
+      "added_at": "2024-11-22 13:41:28",
+      "album": {
         "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
         "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 324923,
       "name": "HINO DOS D",
       "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
-    },
-    {
-      "added_at": "2024-11-22 13:41:28",
-      "album": {
-        "name": "Cora\u00e7\u00e3o e Beat",
-        "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Modo Gal\u00e1tico",
-      "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
     },
     {
       "added_at": "2024-11-22 13:41:28",

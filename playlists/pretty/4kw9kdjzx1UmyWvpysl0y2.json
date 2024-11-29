@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATX8XExsaUfZgpUar/frHBYRlGFO8Z",
+  "snapshot_id": "AAATYen+1aVHD8Aq1uZDdShxjXTdLkP+",
   "tracks": [
+    {
+      "added_at": "2024-11-28 15:31:27",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Honey Water",
+      "url": "https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo"
+    },
     {
       "added_at": "2024-11-27 13:47:47",
       "album": {
@@ -1139,34 +1155,6 @@
       "duration_ms": 190000,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13"
-    },
-    {
-      "added_at": "2024-09-06 13:42:13",
-      "album": {
-        "name": "Never Come Back",
-        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 142714,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

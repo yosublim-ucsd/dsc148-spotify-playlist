@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,519 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,521 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 8 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 |
 | 9 | [Time](https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Time](https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9) | 3:20 |
-| 10 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
-| 11 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 |
+| 10 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 |
+| 11 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
 | 12 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
 | 13 | [Brenne](https://open.spotify.com/track/2fv5ZNriD458IXRR9qffTu) | [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Brenne](https://open.spotify.com/album/7vMoDNGKcNbriWELFzZZV5) | 2:51 |
 | 14 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 28 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
 | 29 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
-| 30 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
-| 31 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
-| 32 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |
-| 33 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
-| 34 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
+| 30 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 31 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
+| 32 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
+| 33 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |
+| 34 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
 | 35 | [Awful Start](https://open.spotify.com/track/4kxO0jjziawjZg1nBh45Jl) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Awful Start](https://open.spotify.com/album/0ygiIkoeJR9zrjmYoQShnc) | 3:06 |
 | 36 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |
 | 37 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 |

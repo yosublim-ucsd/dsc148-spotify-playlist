@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Lambrini Girls
+> The best new music from the wide world of punk\. Cover: SOAPBOX
 
-2,178 songs - 4 day 12 hr 45 min
+2,185 songs - 4 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [An Optimist's Dilemma](https://open.spotify.com/track/4D09RCu6vkP24faRNgETXS) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [You Wanted the Bike](https://open.spotify.com/album/0HXlYi9tvT5oiRWNw11lKF) | 5:21 | 2024-02-16 | 2024-03-29 |
 | [Anabasi](https://open.spotify.com/track/21FxtfCTHXNc01B7Ep4tQv) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Endocannibalismo](https://open.spotify.com/album/2ITfAjW0n3Cb0uSnzcl0eT) | 2:44 | 2023-02-10 | 2023-04-09 |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-03 | 2023-09-29 |
+| [Anger Issue](https://open.spotify.com/track/2a6Wu8xrasZCdpp28xdmCk) | [Broad Peak](https://open.spotify.com/artist/4srsUxiG48BJtjUAFHgiwl) | [Anger Issue](https://open.spotify.com/album/01peug8HbeoqEe1a4yrNXs) | 3:40 | 2024-11-29 |  |
 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-07-28 | 2022-09-09 |
 | [Another Kill For The Highlight Reel](https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel](https://open.spotify.com/album/39YX5r0mg91HGw2scZLm3x) | 3:07 | 2021-12-17 | 2022-01-21 |
 | [Another Kill For The Highlight Reel \- Barber Shop Studios Session](https://open.spotify.com/track/7MQ3noQQEXxe8BzkvAwpeS) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel \(Deluxe Edition\)](https://open.spotify.com/album/5fKRf75u7BVXubw0bCSZvb) | 3:09 | 2022-10-27 | 2023-02-17 |
@@ -539,6 +540,7 @@
 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 | 2024-07-25 | 2024-09-21 |
 | [Disappear](https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Disappear](https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX) | 3:54 | 2022-05-26 | 2022-07-08 |
 | [Disco 1.5](https://open.spotify.com/track/0xS4zMgCLHUaaC8WRFJkbq) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Disco 1.5](https://open.spotify.com/album/2NVfjHQr7uyNWGIGFkrPpy) | 1:31 | 2023-07-13 | 2023-09-02 |
+| [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 | 2024-11-29 |  |
 | [Disruption](https://open.spotify.com/track/2bErXDdkDsBNYcZRFYYVGU) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Disruption](https://open.spotify.com/album/0tXfqlsm6CycM64gjI8v6N) | 3:00 | 2024-02-09 | 2024-03-22 |
 | [Dissimulator](https://open.spotify.com/track/2CyfukQBuNQo1DJ31ho50G) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Vol 1](https://open.spotify.com/album/4wZdeXgDnLpThhw0soTKgy) | 3:16 | 2024-06-27 | 2024-08-09 |
 | [distant](https://open.spotify.com/track/1PMcI53mpC5P0FVgSyqvgv) | [eyelid.](https://open.spotify.com/artist/5pYTk76UOvac5bHaEjqqgB) | [distant](https://open.spotify.com/album/0Tw860ev9VSvQSWtEic9j3) | 3:19 | 2022-07-14 | 2022-08-20 |
@@ -1063,6 +1065,7 @@
 | [kool\-aid](https://open.spotify.com/track/0ga279jRPt6sSXX3K9bf4e) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [kool\-aid](https://open.spotify.com/album/62aTO7RzPq8ComYCEioldz) | 4:02 | 2024-04-25 | 2024-06-14 |
 | [Käfer](https://open.spotify.com/track/6mgd4kTu0aZjVPBd91fkVq) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Käfer](https://open.spotify.com/album/28FkgjVDn2Zy4FHK9twDnZ) | 2:43 | 2022-07-21 | 2022-09-09 |
 | [l8tely](https://open.spotify.com/track/605xSDYczz0yXWHkuYlldD) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [l8tely](https://open.spotify.com/album/2m8IBDHZaJXiJbMxgCAaYM) | 3:03 | 2024-07-11 | 2024-08-24 |
+| [La Cattana](https://open.spotify.com/track/5GDvrYLtdJq4YA14aWILc6) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [La Cattana](https://open.spotify.com/album/0c6dnXJnpwcqfpVRXmpQEc) | 3:12 | 2024-11-29 |  |
 | [La liesse](https://open.spotify.com/track/0I6COQ9CdDMWOjk0s0yQOZ) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [La liesse](https://open.spotify.com/album/5zHgpHebzamLFyFcp8KtjD) | 1:20 | 2023-07-06 | 2023-08-18 |
 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-20 | 2023-06-23 |
 | [Ladybird](https://open.spotify.com/track/14q2dYAyCHBV0MRaK6wR0f) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Ladybird](https://open.spotify.com/album/2xe2VRpmoypoKfEISYdXPf) | 2:46 | 2024-06-13 | 2024-07-19 |
@@ -1076,6 +1079,7 @@
 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 | 2023-03-30 | 2023-05-26 |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-07-28 | 2022-09-16 |
 | [Lay Me to Rest](https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Lay Me to Rest](https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO) | 3:39 | 2022-10-20 | 2023-02-17 |
+| [LDG](https://open.spotify.com/track/0lWcyAzRyU2eQg7Ld3wqNF) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [LDG](https://open.spotify.com/album/5wgZRumlNHDHJwAGV48ar2) | 2:37 | 2024-11-29 |  |
 | [lean](https://open.spotify.com/track/0F6B4EvpEqiTtHNfDxBOIm) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [lean](https://open.spotify.com/album/3AYUu1D07qlUVKTsYsk5Br) | 2:48 | 2023-09-15 | 2023-10-27 |
 | [Leap Year](https://open.spotify.com/track/7FHyKzr58dfo5DEN9Rglrj) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Leap Year](https://open.spotify.com/album/0Jm6plY3SnAKezKKgBCI5q) | 3:16 | 2022-08-25 | 2022-10-07 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-01 | 2024-04-26 |
@@ -1417,6 +1421,7 @@
 | [Paranoid](https://open.spotify.com/track/0Nu9zAeQcvoOwufc4CyYVC) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Paranoid](https://open.spotify.com/album/4dhHtbc93aEWsRQFpRD2rH) | 3:03 | 2024-01-19 | 2024-02-23 |
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-12 | 2024-02-23 |
 | [Parasitic](https://open.spotify.com/track/43VYmVsIQNj4QZiYLllWjx) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Parasitic](https://open.spotify.com/album/4uqJ2DZKrSZc6Yz2n6mCRn) | 2:53 | 2022-01-21 | 2022-03-25 |
+| [Parting Gift \(feat\. Brendan Kelly\)](https://open.spotify.com/track/0rjhfek5AvNObnLaiIemtf) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1), [Brendan Kelly](https://open.spotify.com/artist/0ZptpOIyZ9tKh94WgwOuZT), [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [Parting Gift \(feat\. Brendan Kelly\)](https://open.spotify.com/album/21oQ2Ww0ilZePzq2jY2boP) | 2:54 | 2024-11-29 |  |
 | [Partisan](https://open.spotify.com/track/3jo4czo2MjCHbyBFNFVzou) | [Debunk](https://open.spotify.com/artist/3WQR0qxlXB4tzXXLnPbWgT) | [Partisans](https://open.spotify.com/album/3LfRWtL7yx09TGXaxNdFnP) | 2:34 | 2023-01-27 | 2023-03-25 |
 | [Pastoral Existence](https://open.spotify.com/track/2nawZkQC1IZklqBor0oCx6) | [Other Half](https://open.spotify.com/artist/32ho80wRRKWv0oeaW2eyLX) | [Pastoral Existence](https://open.spotify.com/album/6pNJJKyCfVUzaCkoqXPhGt) | 3:01 | 2024-06-06 | 2024-07-12 |
 | [Paterson](https://open.spotify.com/track/42clH2n6TI170HiE56M8b8) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Slowly Dying With You](https://open.spotify.com/album/5rxOUzA9zvq8h1OAGbQA2S) | 3:54 | 2021-12-17 | 2022-01-15 |
@@ -1481,6 +1486,7 @@
 | [Problem](https://open.spotify.com/track/716pjH098nk21lc5Ft2Teu) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Problem](https://open.spotify.com/album/4esavHkjIDHitYtX44wJaR) | 3:38 | 2022-05-05 | 2022-06-18 |
 | [Prokrastination](https://open.spotify.com/track/08FduHtGjy4e0mnnljLb36) | [Alarmbaby](https://open.spotify.com/artist/7N3qylDi4iIlLaNEycflkq) | [Chaos](https://open.spotify.com/album/0YOr9pWIknD5wrVrkJBAYS) | 3:25 | 2024-07-18 | 2024-09-06 |
 | [Promises Broken](https://open.spotify.com/track/3AAtOsNxNuJ7YA7cVa1Kcz) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Devastation](https://open.spotify.com/album/14CX7obhYfTmp9o4iEcBB8) | 2:35 | 2024-07-04 | 2024-08-16 |
+| [Prozak, Etumina y Haloperidol](https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Prozak, Etumina y Haloperidol](https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu) | 3:14 | 2024-11-29 |  |
 | [Psychic Attack](https://open.spotify.com/track/51iihv2nFYbbQzqRl3pxw1) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Psychic Attack](https://open.spotify.com/album/4BKWWF0ncdBBrdGwK7R76T) | 4:19 | 2024-10-04 |  |
 | [Psychic Jailbreak](https://open.spotify.com/track/2CFCzifspMOF9GJkb67ucV) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/68GoH2CL71TtFdL7TgQ1HG) | 3:03 | 2022-02-11 | 2022-03-18 |
 | [Psycho](https://open.spotify.com/track/3vuMFrF0Nj7UACRGRUe0l8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Psycho](https://open.spotify.com/album/0c7jnlq10woZHRXXaTU5cy) | 3:22 | 2023-07-13 | 2023-09-02 |
@@ -1931,6 +1937,7 @@
 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2022-10-20 | 2023-01-27 |
 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 | 2023-03-24 | 2023-05-19 |
 | [Therapy](https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Therapy](https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM) | 2:46 | 2023-01-13 | 2023-03-18 |
+| [Therapy](https://open.spotify.com/track/5BiNez5R2lvM7YfS4TkgIS) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [Grow The Fuck Up](https://open.spotify.com/album/1IHuSNjZ7vHKpW1WQNxrkW) | 2:12 | 2024-11-29 |  |
 | [There's A Devil In The Jukebox](https://open.spotify.com/track/379kqmaOkWokNnXi9L4Mt4) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [There's A Devil In The Jukebox](https://open.spotify.com/album/0l4UDDoKuYodZhbwwqZ8nv) | 3:43 | 2024-08-01 | 2024-09-21 |
 | [There's No Place In This World For Me](https://open.spotify.com/track/5xvpfknjWWBcINvOUNgeQV) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [There's No Place In This World For Me](https://open.spotify.com/album/1em4sklvDHYVcQ466X2Nds) | 3:22 | 2023-07-20 | 2023-09-09 |
 | [These Days](https://open.spotify.com/track/4S2EUbyTv5NMCnRYzAxdya) | [moshimoshi](https://open.spotify.com/artist/1Cj1ikpwDx35BF6js8tR3p) | [These Days](https://open.spotify.com/album/5h0mGckYgpxxLozsbbP4bH) | 2:40 | 2023-02-10 | 2023-04-09 |

@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 121304,
       "name": "Maddasa",
       "url": "https://open.spotify.com/track/6PwSJSOkmsnPsYl5o9Aicf"
@@ -4136,6 +4136,24 @@
       "duration_ms": 219065,
       "name": "Score",
       "url": "https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy"
+    },
+    {
+      "album": {
+        "name": "Professor",
+        "url": "https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175074,
+      "name": "Seedhi Maut",
+      "url": "https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM"
     },
     {
       "album": {

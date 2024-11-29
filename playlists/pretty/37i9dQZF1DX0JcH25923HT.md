@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,206 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,459 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 96 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
 | 97 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
 | 98 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
-| 99 | [Haters \- Remix](https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Haters \(Remix\)](https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q) | 5:28 |
-| 100 | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \- Remix](https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \[Remix\]](https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR) | 3:57 |
+| 99 | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \- Remix](https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \[Remix\]](https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR) | 3:57 |
+| 100 | [Haters \- Remix](https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Haters \(Remix\)](https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q) | 5:28 |
 
 Snapshot ID: `ZmiZ9QAAAADFunHoN4bYqk4nrjn/dSNK`

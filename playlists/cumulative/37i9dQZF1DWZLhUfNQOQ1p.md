@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-407 songs - 1 day 3 hr 29 min
+409 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Closer](https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ) | 6:57 | 2023-09-01 | 2024-04-19 |
 | [Come Together](https://open.spotify.com/track/3tE5OfatEheU3L5nSpW9FD) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:02 | 2024-05-19 | 2024-06-03 |
 | [Coming for It](https://open.spotify.com/track/587TMPHADmZU77Im3kHM4v) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Mess It Up](https://open.spotify.com/album/5upCRtQrXqXOi2Vb2BBx7P) | 3:50 | 2021-08-05 | 2022-07-29 |
+| [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 | 2024-11-28 |  |
 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-07-08 | 2024-10-02 |
 | [Cruel Summer](https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2) | [Daniel Liebt](https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9) | [Cruel Summer](https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk) | 3:29 | 2021-08-05 | 2023-05-31 |
 | [Crying Wolf](https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Leda](https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O) | [Crying Wolf](https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L) | 3:38 | 2021-08-05 | 2023-02-12 |
@@ -110,7 +111,7 @@
 | [Drift](https://open.spotify.com/track/17k5mzHtzXaYvXxOGiEuQp) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Drift](https://open.spotify.com/album/3O8ijxTJgSN2CnPKqVuna7) | 3:05 | 2021-08-05 | 2022-07-15 |
 | [Drin Drin](https://open.spotify.com/track/720oSVKY1dyo53P0NhCz40) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Le Più Belle Canzoni](https://open.spotify.com/album/0yS4KqzSVnHRuFfZkLkHzu) | 3:33 | 2023-05-14 | 2023-05-30 |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2023-05-30 |  |
-| [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 | 2023-05-30 |  |
+| [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 | 2023-05-30 | 2024-11-29 |
 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 | 2023-05-30 |  |
 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 | 2021-08-05 | 2023-05-31 |
 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 | 2023-05-30 |  |
@@ -128,7 +129,7 @@
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-08-21 |
 | [Feel Me](https://open.spotify.com/track/6nlNdYGf4TnWPKzxdPZW90) | [Dalac](https://open.spotify.com/artist/66b0xoSrR8tM1qjoEwsDlq) | [Feel Me](https://open.spotify.com/album/0yAeK2SHxC7xKBP1N3jbpB) | 4:02 | 2021-08-05 | 2022-07-13 |
 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 | 2021-08-05 | 2023-05-31 |
-| [Fell In Luv](https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Fell In Luv](https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m) | 3:58 | 2023-07-21 |  |
+| [Fell In Luv](https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Fell In Luv](https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m) | 3:58 | 2023-07-21 | 2024-11-29 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-05-30 |  |
 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-03-22 |  |
 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 | 2021-08-05 | 2023-05-31 |
@@ -413,6 +414,7 @@
 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2024-05-19 | 2024-06-03 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-06-07 | 2024-10-11 |
 | [You Feel Me](https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [You Feel Me](https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB) | 3:33 | 2023-08-11 |  |
+| [you know](https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [you know](https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0) | 4:11 | 2024-11-28 |  |
 | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 | 2024-06-12 | 2024-07-02 |
 | [Zodiacs \- Digitally Remastered](https://open.spotify.com/track/64vmxpTHTMAwDlOfB8lQs5) | [Roberta Kelly](https://open.spotify.com/artist/3DMQA5X4ZA8Lu36nDv3k8F) | [Trouble Maker \(Digitally Remastered Version\)](https://open.spotify.com/album/6byW9Ji5U7TBL9hcFTPJXs) | 5:09 | 2023-05-14 | 2023-05-30 |
 

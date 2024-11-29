@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 38 songs - 2 hr 28 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,7 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 | 36 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 |
 | 37 | [Cowboys Don’t Cry](https://open.spotify.com/track/04WxFTgT3bEvX1WOYzT5Ky) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 3:09 |
 | 38 | [Early Sunsets Over Monroeville](https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:05 |
+| 39 | [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 |
+| 40 | [Divided Sky Lane](https://open.spotify.com/track/1NVXt1cCkOdsyG3NIjN4vV) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Sentries in the Ambush / Divided Sky Lane](https://open.spotify.com/album/50TYcIZQqahuqK91pFY5cM) | 3:38 |
 
-Snapshot ID: `AAAAL9uEF7dflszDfTkv7TaVeqUz4E33`
+Snapshot ID: `AAAAMVZfM1y0vO44kl4m/tiAGWH+Xza6`

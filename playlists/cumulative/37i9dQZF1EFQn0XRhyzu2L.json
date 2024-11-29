@@ -7343,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "elijah! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uq4V7MUVNrjfEQSAdxtGq"
+      },
+      "artists": [
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/6mi3aPfq085MYhFwxuMdO4"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,161 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,158 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 18 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 19 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 3:12 |
 | 20 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 |
-| 21 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
-| 22 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 |
+| 21 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 |
+| 22 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
 | 23 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 |
 | 24 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 25 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 |
-| 26 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 |
+| 25 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 |
+| 26 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 |
 | 27 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 28 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 |
 | 29 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 72 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 |
 | 73 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 |
 | 74 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 |
-| 75 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 |
-| 76 | [Dina Ögon Är Nakna](https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Dina Ögon Är Nakna](https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX) | 3:20 |
+| 75 | [Dina Ögon Är Nakna](https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Dina Ögon Är Nakna](https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX) | 3:20 |
+| 76 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 |
 | 77 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 |
 | 78 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 |
 | 79 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 84 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 |
 | 85 | [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 |
 | 86 | [Yine Aşık Oldum Sana](https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk) | [Bahoz & Baran](https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6) | [Yine Aşık Oldum Sana](https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4) | 2:35 |
-| 87 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 |
-| 88 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
-| 89 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 |
-| 90 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 |
+| 87 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
+| 88 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 |
+| 89 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 |
+| 90 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 |
 
 Snapshot ID: `Zy3WKgAAAADFICxAJWM3vx49s8uk9/fC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,744 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,840 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 53 | [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 |
 | 54 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
 | 55 | [Insomnia](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Insomnia](https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH) | 3:42 |
-| 56 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 |
+| 56 | [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 |
 | 57 | [Running In A Dream](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:29 |
-| 58 | [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 |
+| 58 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 |
 | 59 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 |
 | 60 | [Strange Feelings \- Solomun Remix](https://open.spotify.com/track/0mouZlwz32yBlVbDHaH1QJ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Strange Feelings \(Solomun Remix\)](https://open.spotify.com/album/5Ltey6d0mxTU1gKfD8Js51) | 3:40 |
 

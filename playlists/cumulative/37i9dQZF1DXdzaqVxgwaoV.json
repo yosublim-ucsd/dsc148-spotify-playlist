@@ -174,12 +174,12 @@
       },
       "artists": [
         {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
-        },
-        {
           "name": "Papaya Dada",
           "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
+        },
+        {
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
         }
       ],
       "date_added": "2024-09-01",

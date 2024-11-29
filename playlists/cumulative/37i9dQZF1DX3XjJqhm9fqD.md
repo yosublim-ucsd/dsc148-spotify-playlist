@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-261 songs - 15 hr 38 min
+262 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 | 2021-12-06 |  |
 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 | 2023-07-21 | 2024-11-23 |
 | [Jessica \(with J Balvin, SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Jessica \(with J Balvin, SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/album/1DLEZ4s6lIu88XGfU3qXuF) | 3:01 | 2023-07-21 | 2024-11-23 |
+| [JWAYE NWÈL](https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [JWAYE NWÈL](https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec) | 3:09 | 2024-11-22 |  |
 | [Kabe](https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Nomis \(FR\)](https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V) | [Kabe](https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh) | 3:32 | 2024-04-16 |  |
 | [KASE](https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx) | 2:27 | 2023-05-08 | 2023-07-29 |
 | [KASE](https://open.spotify.com/track/3GBkdyO9o0BOVcK3djHNx2) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/4kabcIjP9PbnEoE7NyPMrP) | 2:27 | 2024-01-02 | 2024-02-15 |
@@ -166,7 +167,7 @@
 | [New Life Livin](https://open.spotify.com/track/758BZSz7wKQfY6yOHlogKK) | [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [New Life EP](https://open.spotify.com/album/3XBiYgj9hSwH9Joehq5NCL) | 5:11 | 2024-01-02 | 2024-01-15 |
 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 | 2021-12-06 |  |
 | [No Pares](https://open.spotify.com/track/4r7qhjJiql0ciGLioiNpcr) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Sky Monroe](https://open.spotify.com/artist/0MSRJVGKv92k12VWqHmIcG) | [No Pares](https://open.spotify.com/album/5NFoAoyIpeSksTwHbfEIlH) | 3:05 | 2021-12-06 | 2022-05-13 |
-| [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 | 2021-12-06 |  |
+| [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 | 2021-12-06 | 2024-11-29 |
 | [Nou Pare](https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 3:14 | 2023-03-17 | 2024-04-19 |
 | [Nou Pare](https://open.spotify.com/track/1zVhX7e45uIkMsHzwke6Jb) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 3:14 | 2021-12-06 | 2022-10-13 |
 | [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 | 2022-10-16 | 2023-04-30 |

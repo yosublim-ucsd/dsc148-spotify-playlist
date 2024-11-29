@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,250 likes - 72 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 72 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 11 | [Lord of The Empty \(feat\. Leo Imai\)](https://open.spotify.com/track/13w2CsQQVMD4UAPbHRa1uV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [Leo Imai](https://open.spotify.com/artist/5OXkwhleverYxFVIJERQFw) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 3:26 |
 | 12 | [Tank!](https://open.spotify.com/track/2VqRxxZFbC0uZaTJcZY36c) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:29 |
 | 13 | [坂道のメロディ](https://open.spotify.com/track/1xhichS39SgiyDn6uY4nXk) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/2PtuuArcpLmDu3yTien2zU) | 4:43 |
-| 14 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 |
+| 14 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 |
 | 15 | [VOICES](https://open.spotify.com/track/2NSrTzRrXOreAKQUyas96k) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 3:54 |
-| 16 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 |
+| 16 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 |
 | 17 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 |
 | 18 | [Ray of Water\[piano solo main theme\] \- 作・編曲:菅野よう子](https://open.spotify.com/track/6cywdhgj79rTo4blxjQdll) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [Yoko Kanno: Ray of Water \[piano solo main theme\]](https://open.spotify.com/album/1NTRa6tnawhDlsWdgyKGDE) | 4:44 |
 | 19 | [Fly up in the air ～ Tension](https://open.spotify.com/track/09P81sHzg0kgGKtRtdBqcZ) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 6:17 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 31 | [走れ走れ](https://open.spotify.com/track/0tP8IbHLyTesf9Q6OMP8Wm) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [ゴールデン☆ベスト 輝きたいの Victor Years 1981\-1985 \(+'99\)](https://open.spotify.com/album/4owLMas5qVNONliIMEmGSJ) | 4:35 |
 | 32 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 |
 | 33 | [Master Blaster](https://open.spotify.com/track/7JSSh4nIKrgg2uCmlJEqlA) | [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2), [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [UNCHAINED GIRL](https://open.spotify.com/album/2ObmAdwAhoXtlcCfssyuEO) | 4:00 |
-| 34 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
+| 34 | [Go Tight！](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　Go Tight！](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
 | 35 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 |
 | 36 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 |
 | 37 | [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 |

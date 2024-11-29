@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 193770,
       "name": "Higher",
       "url": "https://open.spotify.com/track/12vrDiCobFUGGqYqTGyyw7"
@@ -3012,6 +3012,32 @@
       "duration_ms": 186485,
       "name": "Hold That Sucker Down",
       "url": "https://open.spotify.com/track/2lVyeLnWrbMhaZngI8CDY2"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
     },
     {
       "album": {
@@ -3574,6 +3600,24 @@
       "duration_ms": 148930,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "album": {
@@ -4155,6 +4199,58 @@
     },
     {
       "album": {
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/0997uyDvSQwcJWwcENwPM7"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Esox",
+          "url": "https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7"
+        },
+        {
+          "name": "Tara Mcdonald",
+          "url": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "MSPUIYI",
+          "url": "https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul"
+        },
+        {
+          "name": "Kevu",
+          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115324,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W"
       },
@@ -4498,6 +4594,24 @@
       "duration_ms": 202142,
       "name": "Masada",
       "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
+    },
+    {
+      "album": {
+        "name": "Master P",
+        "url": "https://open.spotify.com/album/3Gm31BJJXCVMiUG70ebDwp"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202714,
+      "name": "Master P",
+      "url": "https://open.spotify.com/track/20xMYx228flEmECumwOB3f"
     },
     {
       "album": {
@@ -7194,7 +7308,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 204500,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/2YVJ0M0KWxVf7uMqWDneiF"

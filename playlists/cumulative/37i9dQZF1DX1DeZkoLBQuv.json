@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Deixa eu Adorar",
+        "url": "https://open.spotify.com/album/5a37NOq0PmIttjHSoAofiS"
+      },
+      "artists": [
+        {
+          "name": "Samuel Eleoterio",
+          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
+        },
+        {
+          "name": "Renan Lopes",
+          "url": "https://open.spotify.com/artist/1DGcoIjDU1A9NUeIrUkFj9"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360611,
+      "name": "Deixa eu Adorar",
+      "url": "https://open.spotify.com/track/3xNVOrpjls7yrd0to8hmBP"
+    },
+    {
+      "album": {
         "name": "Deus Emanuel",
         "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },

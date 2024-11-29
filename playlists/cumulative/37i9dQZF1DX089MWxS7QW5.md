@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jue\(주에\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jacqui\(재키\)\)
 
-443 songs - 1 day 0 hr 10 min
+444 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-24 |  |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-14 | 2023-04-28 |
 | [Blood Sign](https://open.spotify.com/track/7uNZkJWibKfa0tTPQ058qW) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [One Ordinary Day \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3ZQ8KyTqp298sj29BvsGgA) | 3:33 | 2022-05-28 | 2022-07-06 |
+| [Bloom](https://open.spotify.com/track/4CBol2lVqoeKeS7SftTwpG) | [Jacqui](https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1) | [Dirty Mirror Selfie](https://open.spotify.com/album/19J8K7Sf4uY5FwpOZ0MqMZ) | 3:18 | 2024-11-28 |  |
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-08 | 2023-12-19 |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-10-04 | 2023-02-15 |
 | [bluelemonhighball](https://open.spotify.com/track/5NUrBAj2bMt5VzagE9ilPj) | [YUWOO](https://open.spotify.com/artist/2pEUm9NMo9GuvmiO0ZS4uC) | [bluelemonhighball](https://open.spotify.com/album/3wSWnlXY6qWAN8F7bg0Wpv) | 3:05 | 2024-08-10 | 2024-09-28 |
@@ -74,7 +75,7 @@
 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-08 | 2023-02-15 |
 | [BYOB](https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [PoPoMo](https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG) | [PoPoMo](https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG) | 4:12 | 2024-01-08 | 2024-05-28 |
 | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI) | 2:08 | 2023-10-05 | 2024-02-07 |
-| [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 |  |
+| [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 | 2024-11-29 |
 | [Call me \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [Are we still friends?](https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA) | 3:35 | 2022-11-14 | 2023-04-28 |
 | [Call me more sometimes](https://open.spotify.com/track/4lKOkt7lH8lJyPP7tSBa0Y) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Call me more sometimes](https://open.spotify.com/album/1afLJlSObs6o8OvbIOserN) | 3:49 | 2024-10-17 |  |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-11-15 |
@@ -132,7 +133,7 @@
 | [Dotdanbae](https://open.spotify.com/track/03ARk5P8goF6JoP5Rwc8Is) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:13 | 2022-06-18 | 2022-10-05 |
 | [Dream](https://open.spotify.com/track/1cGLwx1N5rMOecEgHfSxGp) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Dream](https://open.spotify.com/album/3UKfsizfUVfc9PSnUy72r1) | 2:29 | 2022-05-28 | 2022-07-08 |
 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 | 2023-02-14 | 2023-08-18 |
-| [Dress Shirt](https://open.spotify.com/track/1Wq0QiKBsiIjmb1fBMoiyl) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Dress Shirt](https://open.spotify.com/album/4TFQFq37HQ9LWa8KeqQ34g) | 2:30 | 2024-09-02 |  |
+| [Dress Shirt](https://open.spotify.com/track/1Wq0QiKBsiIjmb1fBMoiyl) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Dress Shirt](https://open.spotify.com/album/4TFQFq37HQ9LWa8KeqQ34g) | 2:30 | 2024-09-02 | 2024-11-29 |
 | [Dust](https://open.spotify.com/track/0i2J3DyqIjGq5oPNROdgeO) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Dust](https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s) | 3:47 | 2022-05-28 | 2022-07-08 |
 | [dysmorphia \(Prod\. Jay Dope\)](https://open.spotify.com/track/7uCK6TUGn9MQRAo6CbLjWk) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2023-03-28 |
 | [Everlasting](https://open.spotify.com/track/48uFYEit9rEVqraiPON5Hm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [Frame Narrative](https://open.spotify.com/album/7auICUiN0Fwsk0egwzzF4D) | 3:18 | 2024-04-04 | 2024-08-02 |
@@ -155,7 +156,7 @@
 | [For you](https://open.spotify.com/track/23mLrZO5Ff4UJYvJoTSu58) | [YEL](https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj) | [For you](https://open.spotify.com/album/0Q4mZDKAmY6bMajZJ9Vsrc) | 3:18 | 2023-07-07 | 2023-11-07 |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2022-05-28 | 2022-06-21 |
 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-04-30 | 2024-08-11 |
-| [FOREVER.](https://open.spotify.com/track/7zbiZEVgfPVkmSlHM2UGZJ) | [CarTa](https://open.spotify.com/artist/0Mdr1Ei3YtqWCwKUNTJQUj) | [FOREVER.](https://open.spotify.com/album/6wLyN1kJ1RgPYXiW7WS4ek) | 2:59 | 2024-09-02 |  |
+| [FOREVER.](https://open.spotify.com/track/7zbiZEVgfPVkmSlHM2UGZJ) | [CarTa](https://open.spotify.com/artist/0Mdr1Ei3YtqWCwKUNTJQUj) | [FOREVER.](https://open.spotify.com/album/6wLyN1kJ1RgPYXiW7WS4ek) | 2:59 | 2024-09-02 | 2024-11-29 |
 | [Forget Me \(Feat\. PLHN\)](https://open.spotify.com/track/1ox7zkdVWVUFJY0H1547qB) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [PLHN](https://open.spotify.com/artist/1T23OINQy0bqby8QXcM7cm) | [Wine, HAAN](https://open.spotify.com/album/6MSzUB3R6lYX9iYEqwbvjN) | 2:50 | 2022-10-07 | 2023-03-28 |
 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:01 | 2024-01-08 | 2024-05-24 |
 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 | 2022-07-04 | 2022-10-08 |

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-170 songs - 9 hr 8 min
+171 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Daydream](https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Daydream](https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo) | 4:07 | 2022-10-07 | 2024-05-02 |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-09-15 |  |
 | [Deep Space Garden](https://open.spotify.com/track/3DrrA2PA9xFP6XibZRAAKd) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Atlantis Particles](https://open.spotify.com/album/3xhT73OL0KfhYRmWbYj98a) | 3:16 | 2024-05-01 |  |
-| [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-09-15 |  |
+| [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-09-15 | 2024-11-29 |
 | [Dreamwalking](https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Dreamwalking](https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy) | 3:53 | 2022-11-11 | 2024-06-04 |
 | [Drifting Away](https://open.spotify.com/track/2OcR4AVhkv1aQl51LOrv7L) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Drifting Away](https://open.spotify.com/album/1r1ROhlKfkqa4ulXennJPg) | 3:23 | 2024-02-16 | 2024-04-02 |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
@@ -65,10 +65,11 @@
 | [Forest Feeling](https://open.spotify.com/track/41jO0LxXpcFW53o17WbzO9) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Forest Feeling](https://open.spotify.com/album/0lxsBxNPACAbLVRJORjgWz) | 3:00 | 2024-09-06 |  |
 | [Forest Healing](https://open.spotify.com/track/0wjq5TtW5Jhu51pOUhrtws) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Forest Healing](https://open.spotify.com/album/50AvolQYUeaklEvFcWfJAS) | 3:19 | 2024-06-03 |  |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 | 2024-06-04 |
+| [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2024-11-28 |  |
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
 | [Forest Retreat](https://open.spotify.com/track/2nwXJsVdoGX0HLhWhs1TPH) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Forest Retreat](https://open.spotify.com/album/6bAVs5tz1Egkv8hD5RV3zT) | 2:50 | 2023-11-24 | 2024-08-24 |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 | 2023-12-02 |
-| [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-09-08 |  |
+| [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-09-08 | 2024-11-29 |
 | [Free Spirit](https://open.spotify.com/track/0JBzLEBHNxWQxcoVK88EPo) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Free Spirit](https://open.spotify.com/album/6cdcUp00Xw8SWcCnYtY6pj) | 2:55 | 2024-06-03 |  |
 | [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 | 2023-11-11 |
 | [Gentle Gust \- Spa](https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Gentle Gust](https://open.spotify.com/album/3IXkjFISn7juqyt56lY9ao) | 3:12 | 2023-03-23 |  |
@@ -151,7 +152,7 @@
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-09-15 | 2024-04-02 |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-02-25 |  |
 | [The Chilled Forest](https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [The Chilled Forest](https://open.spotify.com/album/2Fg4b6c1Qk8xWjJBKrT9P1) | 2:43 | 2022-09-15 | 2024-04-02 |
-| [The Deep Forest](https://open.spotify.com/track/46QEuAHoxLCvQfegCmu3cf) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Childhood Memories](https://open.spotify.com/album/7zJYf5baXgivUvc0HN2A2f) | 2:52 | 2022-12-30 |  |
+| [The Deep Forest](https://open.spotify.com/track/46QEuAHoxLCvQfegCmu3cf) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Childhood Memories](https://open.spotify.com/album/7zJYf5baXgivUvc0HN2A2f) | 2:52 | 2022-12-30 | 2024-11-29 |
 | [The flowering of Viennese](https://open.spotify.com/track/7CjXUmmXcOtjHm7nBczysF) | [Dark Forest Effects](https://open.spotify.com/artist/3rmOazBvpUirImT8h4UiHq) | [The flowering of Viennese](https://open.spotify.com/album/0aoL6SDtHjU9IagdIhZrnW) | 2:32 | 2024-06-03 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-16 |  |
 | [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-10 | 2023-07-15 |

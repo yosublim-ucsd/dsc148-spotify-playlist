@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Three Days Grace",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Loose Lips",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -536,6 +536,24 @@
       "duration_ms": 218859,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/66dsExS8WoT4E5VOU6vh3A"
+      },
+      "artists": [
+        {
+          "name": "blacktoothed",
+          "url": "https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149320,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/7dnwC9NGwn6nESdxH5v9lG"
     },
     {
       "album": {
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 204574,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/4RPgbrUEf2PxdGbVXhmUtS"
@@ -2057,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Going Under",
+        "url": "https://open.spotify.com/album/39sTquleWB80szwh7NY5MI"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139571,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/595wNiuyUoaBsGY4lIm7WI"
+    },
+    {
+      "album": {
         "name": "Spiral In A Straight Line",
         "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
@@ -2116,6 +2152,24 @@
       "duration_ms": 186795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
+    },
+    {
+      "album": {
+        "name": "Soft Noise",
+        "url": "https://open.spotify.com/album/3NhMG4t5Jt8fKwGEXeXc1A"
+      },
+      "artists": [
+        {
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239250,
+      "name": "Growing Numb",
+      "url": "https://open.spotify.com/track/2BgO2kaEPZOL0LDEPubOEF"
     },
     {
       "album": {
@@ -2927,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Listen Up",
+        "url": "https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT"
+      },
+      "artists": [
+        {
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183078,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx"
+    },
+    {
+      "album": {
         "name": "Blackout (Deluxe)",
         "url": "https://open.spotify.com/album/2nrcJMkhBQGbpIyqkDqQf5"
       },
@@ -3010,7 +3082,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 273173,
       "name": "Lost All Control",
       "url": "https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6"
@@ -3264,7 +3336,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 238000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0jSY3iPJRTOnn5mPkU3FIC"
@@ -3347,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Waste of Time",
+        "url": "https://open.spotify.com/album/0htKRXJtB4rhkcXS81vSLI"
+      },
+      "artists": [
+        {
+          "name": "Emil Bulls",
+          "url": "https://open.spotify.com/artist/1scIUjz7Jbq1mOph50OLQO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221386,
+      "name": "My Favorite Waste of Time",
+      "url": "https://open.spotify.com/track/0vQIi7zx1kdXzcWyD7U0DX"
+    },
+    {
+      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6g0WSqY62tW7pMMTl0yvMw"
       },
@@ -3394,7 +3484,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 199124,
       "name": "Neon Dream",
       "url": "https://open.spotify.com/track/2vuje60f3vX1bk8AEu7vJ7"
@@ -3912,7 +4002,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 265188,
       "name": "Pitch Black",
       "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
@@ -4482,7 +4572,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196293,
       "name": "SO RAUS (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"
@@ -4526,6 +4616,28 @@
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "album": {
+        "name": "Something To Do",
+        "url": "https://open.spotify.com/album/1UhKtIWvOiiTtJhzgHo5FE"
+      },
+      "artists": [
+        {
+          "name": "The Journey Back",
+          "url": "https://open.spotify.com/artist/55CvD5dJc8ykAoramtPS71"
+        },
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212929,
+      "name": "Something To Do",
+      "url": "https://open.spotify.com/track/1R4WmMTZxs7BcuHmHsbqu5"
     },
     {
       "album": {
@@ -4660,6 +4772,24 @@
       "duration_ms": 182746,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5QhuMkiS9jBVzqh2IXsslO"
+      },
+      "artists": [
+        {
+          "name": "Flash Forward",
+          "url": "https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164713,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0NgakQZaK9pAEC5qIBAvGy"
     },
     {
       "album": {
@@ -4852,6 +4982,24 @@
       "duration_ms": 211862,
       "name": "The Devil of Decisions",
       "url": "https://open.spotify.com/track/6LhKuG1JisJADzSJM8EYjN"
+    },
+    {
+      "album": {
+        "name": "The Downfall",
+        "url": "https://open.spotify.com/album/3HiKtj609zB1IYtQsu4xUG"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284563,
+      "name": "The Downfall",
+      "url": "https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5"
     },
     {
       "album": {
@@ -5162,7 +5310,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 172455,
       "name": "Wasn't Gonna Go Out (Demo)",
       "url": "https://open.spotify.com/track/6HT6ZCSSdqrppl1sCfAmiB"
@@ -5234,7 +5382,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195655,
       "name": "We Don't Wanna Be No Saints",
       "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"

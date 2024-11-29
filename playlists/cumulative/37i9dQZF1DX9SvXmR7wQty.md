@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-2,976 songs - 6 day 14 hr 19 min
+2,977 songs - 6 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 | 2023-01-13 | 2023-01-28 |
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2022-11-05 |
 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-03-15 | 2024-05-12 |
+| [Ca Va Aller](https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ca Va Aller](https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov) | 3:47 | 2024-11-22 |  |
 | [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 | 2024-01-16 |
 | [CALI](https://open.spotify.com/track/5nkgFuu8rzLZVaKIY4Fdwc) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [FILM!](https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7) | 2:31 | 2022-02-04 | 2022-02-19 |
 | [Cali \(Ayayaye\)](https://open.spotify.com/track/5jvuNeTQI7q78Ki4iWAEHT) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Cali \(Ayayaye\)](https://open.spotify.com/album/7A5iYPRldfzUvFVIg7pbvV) | 2:31 | 2022-01-07 | 2022-01-22 |
@@ -1025,7 +1026,7 @@
 | [Génie](https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Génie](https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9) | 1:47 | 2022-07-01 | 2022-07-16 |
 | [Ha ha ha](https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ha ha ha](https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K) | 4:17 | 2023-08-04 | 2023-09-30 |
 | [Habanero](https://open.spotify.com/track/4GxYstTiZTuR2htUjcM17Z) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:56 | 2024-07-19 | 2024-07-27 |
-| [Habiba](https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Voyage \(Part II\)](https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl) | 3:00 | 2024-11-01 |  |
+| [Habiba](https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Voyage \(Part II\)](https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl) | 3:00 | 2024-11-01 | 2024-11-29 |
 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 | 2022-06-24 | 2022-08-06 |
 | [Habitué](https://open.spotify.com/track/7xkEwqP3Re1IONk53wIryU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Les Trois Étoiles, Vol\. 2](https://open.spotify.com/album/7HkXzitPnzf2j40h3fzz9a) | 2:53 | 2023-03-17 | 2023-04-15 |
 | [Habité](https://open.spotify.com/track/17P9DA88obcNP6WZYHwa39) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Habité](https://open.spotify.com/album/2cLCzhhBJx7v8jd477YK7A) | 3:41 | 2022-06-24 | 2022-07-09 |

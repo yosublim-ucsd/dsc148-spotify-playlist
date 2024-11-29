@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Jadu Heart",
+  "description": "New music off the beaten track. Cover: DJ Koze, Damon Albarn",
   "name": "OFF POP",
   "tracks": [
     {
@@ -728,6 +728,32 @@
       "duration_ms": 367880,
       "name": "Alles",
       "url": "https://open.spotify.com/track/5jzKFezfgLc58sxOYHO7N7"
+    },
+    {
+      "album": {
+        "name": "almost up in space",
+        "url": "https://open.spotify.com/album/373LyuaJOzCbFdVHWCS3O6"
+      },
+      "artists": [
+        {
+          "name": "Tikhet",
+          "url": "https://open.spotify.com/artist/0WsCF8nSwGdlOHOv6KbYuh"
+        },
+        {
+          "name": "Sepalot",
+          "url": "https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV"
+        },
+        {
+          "name": "Angela Aux",
+          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "almost up in space",
+      "url": "https://open.spotify.com/track/6XubJZNvpI5dUz35tdfEEw"
     },
     {
       "album": {
@@ -1780,6 +1806,24 @@
       "duration_ms": 167695,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4A2dPNaGmJxLdi3t0prhda"
+    },
+    {
+      "album": {
+        "name": "Bloodlines",
+        "url": "https://open.spotify.com/album/6JBvJqYW4jaG9DCH2MlTP1"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225399,
+      "name": "Bloodlines",
+      "url": "https://open.spotify.com/track/5rinXRhYDkqNXTUMnpQeLh"
     },
     {
       "album": {
@@ -4572,7 +4616,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 358250,
       "name": "Entertain Us",
       "url": "https://open.spotify.com/track/1cOMGFQ6hMy0Eo97k6elcz"
@@ -6252,7 +6296,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 320575,
       "name": "Give It Up For Love - Tripolism Remix",
       "url": "https://open.spotify.com/track/2wCJOX6zSDb4sv45L7tgTR"
@@ -7828,7 +7872,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156500,
       "name": "I LOVE YOUR EVERYTHING",
       "url": "https://open.spotify.com/track/5Rc3JYlH5cTPbhxqvCQYJh"
@@ -11596,7 +11640,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195989,
       "name": "nap.",
       "url": "https://open.spotify.com/track/22NjCdTYAQ569rUhIkJpfQ"
@@ -12025,6 +12069,28 @@
     },
     {
       "album": {
+        "name": "Nom Nom Nom / Cat Burglar",
+        "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Nom Nom Nom",
+      "url": "https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5"
+    },
+    {
+      "album": {
         "name": "Not the Right Place (Coma Remix)",
         "url": "https://open.spotify.com/album/5XsbBMTUbz3CsSk7PzdU1I"
       },
@@ -12098,7 +12164,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165245,
       "name": "Nothing Perfect",
       "url": "https://open.spotify.com/track/6mQuPZ0b3YF53flZe0YBns"
@@ -13302,6 +13368,28 @@
       "duration_ms": 189000,
       "name": "PULSE",
       "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "album": {
@@ -14992,7 +15080,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165454,
       "name": "So Low",
       "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
@@ -15182,6 +15270,24 @@
       "duration_ms": 181896,
       "name": "Sports",
       "url": "https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM"
+    },
+    {
+      "album": {
+        "name": "Sportscar",
+        "url": "https://open.spotify.com/album/1VPRIkUtID0NzohKhpWGo9"
+      },
+      "artists": [
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216532,
+      "name": "Sportscar",
+      "url": "https://open.spotify.com/track/4je28GqKUxsbAY5Zksly7S"
     },
     {
       "album": {
@@ -17802,6 +17908,28 @@
       "duration_ms": 323503,
       "name": "Violently Patient",
       "url": "https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63"
+    },
+    {
+      "album": {
+        "name": "Visions Of Pain (Tim Goldsworthy Remix)",
+        "url": "https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        {
+          "name": "Tim Goldsworthy",
+          "url": "https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446294,
+      "name": "Visions Of Pain - Tim Goldsworthy Remix",
+      "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"
     },
     {
       "album": {

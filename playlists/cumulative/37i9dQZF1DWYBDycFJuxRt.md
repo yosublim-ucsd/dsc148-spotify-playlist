@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Eve \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Eve \*👉 <a href="https://spice.eplus.jp/articles/333608">SPICE連動記事</a>をSPICEでチェック!
 
 8,692 songs - 22 day 9 hr 15 min
 
@@ -7122,7 +7122,7 @@
 | [ヴィヴァーチェ](https://open.spotify.com/track/2lrQi1DmpGZI5JCMv9kvvu) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [ヴィヴァーチェ](https://open.spotify.com/album/2vEc4okm00peYM8ZxqSRZY) | 3:48 | 2024-10-29 | 2024-11-06 |
 | [ヴヴヴ](https://open.spotify.com/track/4cIoRCe7JCGW7PbHFQ2tsn) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ヴヴヴ](https://open.spotify.com/album/1mqiHVhephvDOVqTcxk9b3) | 2:39 | 2024-06-18 | 2024-06-26 |
 | [一、人](https://open.spotify.com/track/2gW0UW8KL8704dQ2Fzm4fi) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [一、人](https://open.spotify.com/album/6LhAnojQMmkkXJkA5jYj9R) | 3:47 | 2024-09-04 | 2024-09-11 |
-| [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [星街すいせい](https://open.spotify.com/artist/76MJfB59kw7VAKFG1uFc8M) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 | 2024-11-26 |  |
+| [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 | 2024-11-26 |  |
 | [一億人の恋人（feat\. 乃紫）](https://open.spotify.com/track/2sMZaPIF2N8ZPxPCbAoAzz) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Circus Funk](https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY) | 4:16 | 2024-11-26 |  |
 | [一切合切](https://open.spotify.com/track/01Y5Y1IVEOCUxBmjycQWGI) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [一切合切](https://open.spotify.com/album/2U5TfMNyAv9ePa9gyowo1s) | 3:09 | 2024-09-24 | 2024-10-02 |
 | [一喜一憂](https://open.spotify.com/track/7aAqYiDzc8zl3GhU2WFJuG) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [一喜一憂](https://open.spotify.com/album/5MZL3TBwpJeqBta24LefUH) | 3:16 | 2024-04-02 | 2024-04-04 |

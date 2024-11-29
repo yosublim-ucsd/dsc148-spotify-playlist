@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Arde Bogot\u00e1.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Los Punsetes.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 251328,
       "name": "A la luz de la luna",
       "url": "https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 141664,
       "name": "C\u00fac\u00fa",
       "url": "https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD"
@@ -1042,6 +1042,24 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "album": {
+        "name": "el beso que nunca nos dimos",
+        "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183264,
+      "name": "el beso que nunca nos dimos",
+      "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
     },
     {
       "album": {
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 99466,
       "name": "Fuera del Disco-Pub!",
       "url": "https://open.spotify.com/track/2DdCuf4YcT2OcXaer3Cbjl"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 170005,
       "name": "Los Muertos",
       "url": "https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc"
@@ -2134,6 +2152,24 @@
       "duration_ms": 190183,
       "name": "Mandarinas",
       "url": "https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs"
+    },
+    {
+      "album": {
+        "name": "Creo que soy de porcelana",
+        "url": "https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170620,
+      "name": "Marcelo Criminal",
+      "url": "https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB"
     },
     {
       "album": {
@@ -3160,7 +3196,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 169453,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
@@ -3767,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
+    },
+    {
+      "album": {
         "name": "Tu nombre es una puerta por cerrar",
         "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
@@ -3915,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "Que Le Den Por Culo A Tus Amigos",
+        "url": "https://open.spotify.com/album/2smW4STRQ9RGyrzuuHSwq5"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        },
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Una Persona Sospechosa",
+      "url": "https://open.spotify.com/track/4nsY3AALTZKoQiLbDbhERR"
+    },
+    {
+      "album": {
         "name": "Vacaciones Permanentes",
         "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
       },
@@ -3930,6 +4006,24 @@
       "duration_ms": 188525,
       "name": "Vampiros",
       "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
+    },
+    {
+      "album": {
+        "name": "Ven a jugar",
+        "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Ven a jugar",
+      "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-38 songs - 2 hr 28 min
+40 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cotton \- Jordan Lake Sessions Volume 2](https://open.spotify.com/track/0dFBG1Oau5620glIoIhhNn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 1 and 2](https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX) | 4:20 | 2023-03-03 |  |
 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 | 2024-10-03 |  |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/04WxFTgT3bEvX1WOYzT5Ky) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 3:09 | 2024-10-03 |  |
+| [Divided Sky Lane](https://open.spotify.com/track/1NVXt1cCkOdsyG3NIjN4vV) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Sentries in the Ambush / Divided Sky Lane](https://open.spotify.com/album/50TYcIZQqahuqK91pFY5cM) | 3:38 | 2024-11-28 |  |
 | [Early Sunsets Over Monroeville](https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:05 | 2024-10-27 |  |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |
 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 | 2023-01-03 |  |
@@ -37,6 +38,7 @@
 | [Sad Songs](https://open.spotify.com/track/6spFAE12J5kM51cKEzsgmF) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:14 | 2022-09-07 |  |
 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 | 2022-05-06 |  |
 | [Small Cuts](https://open.spotify.com/track/2vd4ULh4EXAeIyOoe9JZ30) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:02 | 2023-01-07 |  |
+| [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 | 2024-11-28 |  |
 | [Southwestern Territory](https://open.spotify.com/track/2yyyTrl4MGOuG9UIDbFLwd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 4:14 | 2023-03-03 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-06-14 |  |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 | 2023-03-21 |  |

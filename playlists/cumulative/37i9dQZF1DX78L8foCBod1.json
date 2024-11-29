@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "FALLOUT (English Ver.)",
+        "url": "https://open.spotify.com/album/0ciLonUY5M2nvJxjnKFNoN"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "FALLOUT - English Ver.",
+      "url": "https://open.spotify.com/track/1T39yPHPyO4bqqefQLoLW8"
+    },
+    {
+      "album": {
         "name": "\u7fa4\u9752\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX"
       },

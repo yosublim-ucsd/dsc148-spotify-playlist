@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 128906,
+  "num_followers": 128960,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
-      },
-      "artists": [
-        {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
-        }
-      ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "For Those Who",
         "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+      },
+      "artists": [
+        {
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        }
+      ],
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Church of Danceology",
-        "url": "https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 714133,
-      "name": "Acid Trax",
-      "url": "https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Washing Machine",
         "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 344013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Church of Danceology",
+        "url": "https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 714133,
+      "name": "Acid Trax",
+      "url": "https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92"
     },
     {
       "added_at": "2024-07-10 08:16:23",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Steve Aoki , Sam Feldt,  Xandra, Nile Rodgers, Zak Abel",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  AM\u00c9M\u00c9 x Franc Fala",
   "name": "Armada Today",
   "tracks": [
     {
@@ -14143,6 +14143,24 @@
     },
     {
       "album": {
+        "name": "Loveline",
+        "url": "https://open.spotify.com/album/6n0y9Wu1h9nfPjoYKmTnLt"
+      },
+      "artists": [
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "Loveline",
+      "url": "https://open.spotify.com/track/4khz3nxJFg6MV4awksCkG9"
+    },
+    {
+      "album": {
         "name": "Lovesongs & Sextapes",
         "url": "https://open.spotify.com/album/2fZTmEHd8lwVkE6345WcZ9"
       },
@@ -19550,6 +19568,24 @@
       "duration_ms": 144120,
       "name": "Save Me Tonight - Tensnake Remix",
       "url": "https://open.spotify.com/track/1g4xYS9Ub4t17G3A1gj7al"
+    },
+    {
+      "album": {
+        "name": "Say Hello",
+        "url": "https://open.spotify.com/album/2cy0rT9mrLvLP9vnfgdru1"
+      },
+      "artists": [
+        {
+          "name": "Deep Dish",
+          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199975,
+      "name": "Say Hello - Deep Dish Goes Deep Remix",
+      "url": "https://open.spotify.com/track/3MgK0H6j33LzSO0mJkl9ZE"
     },
     {
       "album": {
@@ -25090,6 +25126,28 @@
       "duration_ms": 158795,
       "name": "Wait For The Weekend",
       "url": "https://open.spotify.com/track/4S7AzX8uR3p3LtiCOfiZW5"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "album": {

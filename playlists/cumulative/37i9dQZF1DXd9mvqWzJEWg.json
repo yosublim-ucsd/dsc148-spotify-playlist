@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl?si=XEH6M4R3T8KJC8sYlYzWoA\">Goldmax</a>, <a href=\"https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ?si=BIWdOSVERUmY28MdLhKYxg\">Blacks Jnr</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: <a href=\"https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw?si=Lab2h6_PQSamP6c6gI7LKw\">Amatycooler</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -263,6 +263,40 @@
     },
     {
       "album": {
+        "name": "Bamba",
+        "url": "https://open.spotify.com/album/4fVYlQkocDUoat91qDvnEC"
+      },
+      "artists": [
+        {
+          "name": "IsiieBoi Cpt",
+          "url": "https://open.spotify.com/artist/2GciAP9Y0HKlf0wkp56HaG"
+        },
+        {
+          "name": "Rejx Entertainment",
+          "url": "https://open.spotify.com/artist/3A1CAiY8cq7lPbeOZetSGK"
+        },
+        {
+          "name": "Local Fam Records",
+          "url": "https://open.spotify.com/artist/3L7gyJqhn5jd85uc23vG1W"
+        },
+        {
+          "name": "Mr Playa",
+          "url": "https://open.spotify.com/artist/3FvfPKMG3oVJO8J7L5m6ZR"
+        },
+        {
+          "name": "Malxrd",
+          "url": "https://open.spotify.com/artist/7hceDjYztKG4JHxPL19VDa"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Bamba",
+      "url": "https://open.spotify.com/track/4Gqw1AtszgpBTyXwNwVbmv"
+    },
+    {
+      "album": {
         "name": "Bamba iRoof (feat. Thobeka)",
         "url": "https://open.spotify.com/album/7xdHv88Q4NNrK5RcHjwAER"
       },
@@ -312,6 +346,28 @@
       "duration_ms": 276003,
       "name": "Bambe La",
       "url": "https://open.spotify.com/track/0ezdUK8Bnjs2XBZt2qMDeu"
+    },
+    {
+      "album": {
+        "name": "BANGA NZAMBE",
+        "url": "https://open.spotify.com/album/1HXnEcssxrfKyYUjjl1ePg"
+      },
+      "artists": [
+        {
+          "name": "Alec Lomami",
+          "url": "https://open.spotify.com/artist/5WQmXqDV155TlOvhPxedtb"
+        },
+        {
+          "name": "anyoneID",
+          "url": "https://open.spotify.com/artist/30w1pa6vyGrt8x7ArqcNvm"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229930,
+      "name": "BANGA NZAMBE (Version 3)",
+      "url": "https://open.spotify.com/track/1IatdNEX9WHrERAgITPrkN"
     },
     {
       "album": {
@@ -378,6 +434,24 @@
       "duration_ms": 337815,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/4Ow3gFQujZSZvj590Icyeq"
+    },
+    {
+      "album": {
+        "name": "Bekungeke",
+        "url": "https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ"
+      },
+      "artists": [
+        {
+          "name": "Amatycooler",
+          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354312,
+      "name": "Bekungeke",
+      "url": "https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r"
     },
     {
       "album": {
@@ -4548,6 +4622,24 @@
       "duration_ms": 280000,
       "name": "Vutha",
       "url": "https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD"
+    },
+    {
+      "album": {
+        "name": "Wayethe Soze Andigowise",
+        "url": "https://open.spotify.com/album/4G7vT5MN6Iupisi4pDsYM8"
+      },
+      "artists": [
+        {
+          "name": "Jabs CPT",
+          "url": "https://open.spotify.com/artist/3pf4xkWn1Wcda9iuAaXavv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325459,
+      "name": "Wayethe Soze Andigowise",
+      "url": "https://open.spotify.com/track/2LZKe030Kd7AVFn4PTcqZL"
     },
     {
       "album": {

@@ -1385,24 +1385,6 @@
     },
     {
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI"
-      },
-      "artists": [
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
-        }
-      ],
-      "date_added": "2021-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163106,
-      "name": "To Sir With Love",
-      "url": "https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste"
-    },
-    {
-      "album": {
         "name": "To Sir With Love",
         "url": "https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3"
       },
@@ -1418,6 +1400,24 @@
       "duration_ms": 166693,
       "name": "To Sir with Love",
       "url": "https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI"
+      },
+      "artists": [
+        {
+          "name": "Lul\u00fa",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "To Sir With Love",
+      "url": "https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste"
     },
     {
       "album": {

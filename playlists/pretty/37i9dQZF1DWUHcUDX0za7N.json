@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57419,
+  "num_followers": 57462,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Mr Heartbreaker",
-        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
+        "name": "Jehovah",
+        "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
       "artists": [
         {
-          "name": "Rose May Alaba",
-          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Mr Heartbreaker",
-      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
+      "duration_ms": 164760,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -267,22 +267,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Jehovah",
-        "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
+        "name": "Mr Heartbreaker",
+        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 164760,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+      "duration_ms": 175200,
+      "name": "Mr Heartbreaker",
+      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -735,46 +735,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Warning!",
-        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 164827,
-      "name": "Warning!",
-      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "WELCOME TO WONDAH:LAND",
         "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
       },
@@ -799,6 +759,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Accidentally (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Taya",
         "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 122666,
       "name": "Taya",
       "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Warning!",
+        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 164827,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Logba",
         "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 135706,
       "name": "Logba",
       "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "[escapism]",
-        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "[escapism]",
-      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "On Boiz",
-        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
-      },
-      "artists": [
-        {
-          "name": "Aj\u00e9 (The Realest)",
-          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
-        }
-      ],
-      "duration_ms": 143408,
-      "name": "On Boiz",
-      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "The Rhapsodies",
-        "url": "https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq"
-      },
-      "artists": [
-        {
-          "name": "King Rapsodi",
-          "url": "https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU"
-        }
-      ],
-      "duration_ms": 134838,
-      "name": "Gbemi",
-      "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1207,6 +1175,38 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "On Boiz",
+        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
+      },
+      "artists": [
+        {
+          "name": "Aj\u00e9 (The Realest)",
+          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
+        }
+      ],
+      "duration_ms": 143408,
+      "name": "On Boiz",
+      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "The Rhapsodies",
+        "url": "https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq"
+      },
+      "artists": [
+        {
+          "name": "King Rapsodi",
+          "url": "https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU"
+        }
+      ],
+      "duration_ms": 134838,
+      "name": "Gbemi",
+      "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Afro Jersey",
         "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 140487,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Drip (Remix)",
-        "url": "https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6"
-      },
-      "artists": [
-        {
-          "name": "GINGO",
-          "url": "https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 140176,
-      "name": "Drip - Remix",
-      "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 183248,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Drip (Remix)",
+        "url": "https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6"
+      },
+      "artists": [
+        {
+          "name": "GINGO",
+          "url": "https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 140176,
+      "name": "Drip - Remix",
+      "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1311,6 +1311,26 @@
       "duration_ms": 159000,
       "name": "Requirements",
       "url": "https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "I Met Nas in a Dream",
+        "url": "https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "Tonee C",
+          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "I Met Nas in a Dream",
+      "url": "https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 185364,
       "name": "IDAN",
       "url": "https://open.spotify.com/track/6b5Xz3pqizdtTU0UvMSyki"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "I Met Nas in a Dream",
-        "url": "https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT"
-      },
-      "artists": [
-        {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
-        },
-        {
-          "name": "Tonee C",
-          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
-        }
-      ],
-      "duration_ms": 162089,
-      "name": "I Met Nas in a Dream",
-      "url": "https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc"
     }
   ],
   "unique_name": "Naija Bars ",

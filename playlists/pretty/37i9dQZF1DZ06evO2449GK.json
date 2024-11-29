@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 51500,
+  "num_followers": 51535,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABzYCQ8menMqW10rm+nHmXQ",
+  "snapshot_id": "Z0ZhAAAAAAA3fjvgKpTDIohdB/3RR/L/",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 192527,
+      "name": "Historial Crediticio",
+      "url": "https://open.spotify.com/track/6vDFIROAlMhBoK5ZglUbms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicotom\u00eda",
         "url": "https://open.spotify.com/album/3W1ljXOggRJiHyaw8w3ujE"
       },
@@ -287,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
       },
@@ -319,6 +323,90 @@
       "duration_ms": 228148,
       "name": "Reflujo",
       "url": "https://open.spotify.com/track/56uh5rHySaH3vf3jvr0dgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Ronaldi\u00f1o y Ronaldo",
+      "url": "https://open.spotify.com/track/2eo53MB0vWt1JdReJyvcvC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Fruko y Sus Presos (2.018)",
+      "url": "https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Chang\u00f3",
+      "url": "https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
     },
     {
       "added_at": null,
@@ -346,31 +434,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Chang\u00f3",
-      "url": "https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
+          "name": "Rulaz Plazco",
+          "url": "https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1"
         }
       ],
-      "duration_ms": 183400,
-      "name": "Los Genios de la Botella - Remix Gambeta",
-      "url": "https://open.spotify.com/track/7kBckkrfCOkhmgiWkxxKiB"
+      "duration_ms": 231413,
+      "name": "G\u00e9nero Rural",
+      "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
     },
     {
       "added_at": null,
@@ -382,11 +454,31 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 219578,
+      "name": "Round 40",
+      "url": "https://open.spotify.com/track/6qLRoIRGqNoAU7HFyY4vuD"
     },
     {
       "added_at": null,
@@ -415,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+        "name": "Viejas Recetas Remixes y Otras Rarezas",
+        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
       },
       "artists": [
         {
@@ -424,13 +516,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Rulaz Plazco",
-          "url": "https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1"
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
         }
       ],
-      "duration_ms": 231413,
-      "name": "G\u00e9nero Rural",
-      "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
+      "duration_ms": 183400,
+      "name": "Los Genios de la Botella - Remix Gambeta",
+      "url": "https://open.spotify.com/track/7kBckkrfCOkhmgiWkxxKiB"
     },
     {
       "added_at": null,
@@ -455,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
       "artists": [
         {
@@ -464,13 +556,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Tito Agudelo",
+          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
         }
       ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
+      "duration_ms": 202771,
+      "name": "Misa de Sanazi\u00f3n",
+      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
     },
     {
       "added_at": null,
@@ -527,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        }
+      ],
+      "duration_ms": 223461,
+      "name": "El Rey del Despecho",
+      "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallowinners II: La Venganza",
         "url": "https://open.spotify.com/album/3iAw7fQiXPCOAuIeo1Wyqc"
       },
@@ -571,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Una Resaca Mas",
-      "url": "https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },
@@ -603,6 +699,22 @@
       "duration_ms": 177693,
       "name": "No Hay Flores en Venus",
       "url": "https://open.spotify.com/track/3URWqe9uJqMiskDGKSBEMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Una Resaca Mas",
+      "url": "https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT"
     },
     {
       "added_at": null,
@@ -639,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Clapzz",
-      "url": "https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },
@@ -667,6 +763,22 @@
       "duration_ms": 230000,
       "name": "El Sal\u00f3n de la Injusticia",
       "url": "https://open.spotify.com/track/5KCegoON1Q2cvb2ECIuZsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Clapzz",
+      "url": "https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG"
     },
     {
       "added_at": null,
@@ -703,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jannyval",
-          "url": "https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "La Revancha de los Timidos",
-      "url": "https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },
@@ -739,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
       },
       "artists": [
         {
@@ -748,13 +840,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Gordo Sarkasmus",
-          "url": "https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD"
+          "name": "Jannyval",
+          "url": "https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Rifo los Lunes",
-      "url": "https://open.spotify.com/track/66IPFhhD4eLjUht9WD4b9p"
+      "duration_ms": 253986,
+      "name": "La Revancha de los Timidos",
+      "url": "https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj"
     },
     {
       "added_at": null,
@@ -791,38 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "El Reino de los Suelos (2.007)",
-      "url": "https://open.spotify.com/track/6dUyJurwUU2zccnyrJ4g4b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Aero-Soul",
-      "url": "https://open.spotify.com/track/6AUY2FyNLl59BcZtynaXsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Despilfarro",
         "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
       },
@@ -835,22 +895,6 @@
       "duration_ms": 183293,
       "name": "Las Malas Lenguas",
       "url": "https://open.spotify.com/track/3kWTf5gwAO6lt2ktQy3C06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "El Show Debe Continuar",
-      "url": "https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF"
     }
   ],
   "unique_name": "This Is Alcolirykoz",

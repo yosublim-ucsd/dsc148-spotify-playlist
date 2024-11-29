@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 337482,
+  "num_followers": 337510,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAAABJUhRLs0r8jpJnyGh+YOp",
+  "snapshot_id": "Z0ZhAAAAAAB4EEgsV14oeSXHqMMNzw7j",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 141493,
-      "name": "Leaves That Are Green",
-      "url": "https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA"
+      "duration_ms": 145173,
+      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
+      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 145173,
-      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
-      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
+      "duration_ms": 141493,
+      "name": "Leaves That Are Green",
+      "url": "https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA"
     },
     {
       "added_at": null,

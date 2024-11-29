@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/5Yv0KKHG2ORKPbVneO0gzM"
+      },
+      "artists": [
+        {
+          "name": "Flouriiche",
+          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/6vw2NGeLeogwHB8um5pI0r"
+    },
+    {
+      "album": {
         "name": "Cellistine Dream - Sound Bath",
         "url": "https://open.spotify.com/album/2eA6yUZ24IYQmKwhu9mMTa"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 211666,
       "name": "Deep In The Forest",
       "url": "https://open.spotify.com/track/2YYqrJs7lgjmEkgO5PGd35"
@@ -1849,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Quiet Morning",
+        "url": "https://open.spotify.com/album/2bFxocgq9CJgYJUMXB6Iin"
+      },
+      "artists": [
+        {
+          "name": "Onni",
+          "url": "https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Quiet Morning",
+      "url": "https://open.spotify.com/track/38qol3LIIwIuMKrjIVgp9Q"
+    },
+    {
+      "album": {
         "name": "Quiet Times",
         "url": "https://open.spotify.com/album/67iYR0oPfvpKrh43DkgcFf"
       },
@@ -2294,6 +2330,24 @@
       "duration_ms": 183529,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/5aJVU2be9kwTus4upa1H5a"
+    },
+    {
+      "album": {
+        "name": "Soft Descent",
+        "url": "https://open.spotify.com/album/5vgiRkO88snE6vCW1dozdm"
+      },
+      "artists": [
+        {
+          "name": "John Ocean",
+          "url": "https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174211,
+      "name": "Soft Descent",
+      "url": "https://open.spotify.com/track/3YAHjXdtr3TEl7O5APB9Ax"
     },
     {
       "album": {

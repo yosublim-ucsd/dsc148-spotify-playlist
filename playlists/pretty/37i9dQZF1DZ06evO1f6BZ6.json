@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 117783,
+  "num_followers": 117789,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAAAbwd0GMOTeXE9VkcVMDVXm",
+  "snapshot_id": "Z0ZhAAAAAACpNWLV5swiJjd2XrwrPrtM",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Do You Like Me Now?!",
-        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 223466,
-      "name": "You Shouldn't Kiss Me Like This",
-      "url": "https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ"
+      "duration_ms": 184533,
+      "name": "He Ain't Worth Missing",
+      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+        "name": "How Do You Like Me Now?!",
+        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
+      "duration_ms": 223466,
+      "name": "You Shouldn't Kiss Me Like This",
+      "url": "https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 184533,
-      "name": "He Ain't Worth Missing",
-      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
     },
     {
       "added_at": null,
@@ -523,34 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224456,
-      "name": "Ships That Don\u2019t Come In",
-      "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -587,18 +559,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
       "artists": [
         {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Weed With Willie - Live",
-      "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
+      "duration_ms": 224456,
+      "name": "Ships That Don\u2019t Come In",
+      "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 197293,
       "name": "Rum Is the Reason",
       "url": "https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Weed With Willie - Live",
+      "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "The Taliban Song - Live",
-      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 mph Town",
         "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 257120,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "The Taliban Song - Live",
+      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "A Little Too Late",
+      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Trash With Money",
-        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "A Little Too Late",
-      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
     },
     {
       "added_at": null,

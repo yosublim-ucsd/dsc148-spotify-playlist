@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/3U7g9bUNcfD41XNVhtrwY7"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298373,
+      "name": "Do They Know It's Christmas? - 2024 Ultimate Mix",
+      "url": "https://open.spotify.com/track/3cK10zROGQYpqa3vsU6bs9"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Everyone",
         "url": "https://open.spotify.com/album/2BZK1EHncGvwVSKf0kq5Tk"
       },
@@ -414,10 +432,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 223684,
       "name": "First Christmas",
       "url": "https://open.spotify.com/track/45jLrzxVvQgoMqVYNB2yPy"
+    },
+    {
+      "album": {
+        "name": "Giving In To Christmas",
+        "url": "https://open.spotify.com/album/5dVrOJjgarBdpyZZ72MNMH"
+      },
+      "artists": [
+        {
+          "name": "Magne Furuholmen",
+          "url": "https://open.spotify.com/artist/5fCrGWlcIIwdCf2TeCQZjc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Giving In To Christmas",
+      "url": "https://open.spotify.com/track/1NEGBGByGFlLddxYCLpx4Z"
     },
     {
       "album": {
@@ -965,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Floor (Kiss Me) (Santa Baby Remix)",
+        "url": "https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me) - Santa Baby Remix",
+      "url": "https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8"
+    },
+    {
+      "album": {
         "name": "Naughty List (with Dixie)",
         "url": "https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM"
       },
@@ -1115,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153566,
+      "name": "Running Wild (Holiday Remix)",
+      "url": "https://open.spotify.com/track/6X6b1RQFCkzhUCpHQlbOiW"
+    },
+    {
+      "album": {
         "name": "fruitcake",
         "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
       },
@@ -1234,7 +1306,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206461,
       "name": "snow love",
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
@@ -1422,6 +1494,42 @@
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "album": {
+        "name": "Touch (Holiday Version)",
+        "url": "https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130505,
+      "name": "Touch (Holiday Version)",
+      "url": "https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA"
+    },
+    {
+      "album": {
+        "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+        "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+      "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
     },
     {
       "album": {
@@ -1632,6 +1740,24 @@
       "duration_ms": 148027,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u"
+    },
+    {
+      "album": {
+        "name": "Xmas",
+        "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "Xmas",
+      "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"
     },
     {
       "album": {

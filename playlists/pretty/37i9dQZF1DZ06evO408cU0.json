@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 58629,
+  "num_followers": 58647,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABC75m0hyijHmEANbo6CPk4",
+  "snapshot_id": "Z0ZhAAAAAAB6TqUpOU2E0oIzmRy+Mv3+",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Te Cambio El Domicilio",
+      "url": "https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Vueltas De La Vida",
         "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
       },
@@ -195,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
         {
@@ -204,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 132640,
-      "name": "Te Cambio El Domicilio",
-      "url": "https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": null,
@@ -227,22 +243,6 @@
       "duration_ms": 223566,
       "name": "Te So\u00f1\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 136213,
-      "name": "El Pistolero - En Vivo",
-      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 153680,
       "name": "A Ver A Qu\u00e9 Horas - En Vivo",
       "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 155333,
-      "name": "La Repetidora",
-      "url": "https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz"
+      "duration_ms": 208653,
+      "name": "Ya Me Vi Contigo",
+      "url": "https://open.spotify.com/track/3wvf2xLgmbgJIFyKuJVH3R"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

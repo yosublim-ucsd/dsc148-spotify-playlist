@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6557,
+  "num_followers": 6559,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jaune (Version originale remasteris\u00e9e)",
-        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Ferland",
-          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Le petit roi",
-      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Grafignes",
         "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 190906,
       "name": "D\u00e9potoir",
       "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jaune (Version originale remasteris\u00e9e)",
+        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Le petit roi",
+      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'aime quand on danse (tes mains sur mes hanches)",
-        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        },
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "J'aime quand on danse (tes mains sur mes hanches)",
-      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les Heures",
         "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
       },
@@ -1055,18 +1035,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+        "name": "J'aime quand on danse (tes mains sur mes hanches)",
+        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        },
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+      "duration_ms": 214647,
+      "name": "J'aime quand on danse (tes mains sur mes hanches)",
+      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1083,6 +1067,22 @@
       "duration_ms": 204240,
       "name": "Maintenant ou jamais",
       "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+        "name": "SAC \u00c0 SURPRISE",
+        "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
       "artists": [
         {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+      "duration_ms": 169567,
+      "name": "\u00c7A APPELLE",
+      "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "SAC \u00c0 SURPRISE",
-        "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
       "artists": [
         {
-          "name": "KNLO",
-          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
-        },
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 169567,
-      "name": "\u00c7A APPELLE",
-      "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+        }
+      ],
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 331746,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 179833,
-      "name": "Le bois",
-      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Kizavibe",
         "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 230570,
       "name": "Soso",
       "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
     },
     {
       "added_at": "2024-06-19 20:38:05",

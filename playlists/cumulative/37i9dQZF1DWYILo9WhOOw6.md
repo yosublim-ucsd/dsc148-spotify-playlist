@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-147 songs - 7 hr 22 min
+149 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Calm Body \(Delta Binaural\)](https://open.spotify.com/track/4JTKJY41QWzUkbPKl8iMCx) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Calm Body \(Delta Binaural\)](https://open.spotify.com/album/6jVgqv97W8bopZZNf0RyBF) | 3:02 | 2023-01-20 |  |
 | [Calmly Delta 68.9 Hz \- 69.7 Hz](https://open.spotify.com/track/1Xphp7Xz1AHo8qQ2311RPl) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Calmly Delta 68.9 Hz \- 69.7 Hz](https://open.spotify.com/album/4n9mNlF5DCRqfpw54F0geI) | 3:06 | 2024-07-15 |  |
 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 | 2023-01-20 |  |
+| [Careless Waves Delta \(86\-89hz\)](https://open.spotify.com/track/3MnbVyqZd9u7oYKR7MrQdM) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Resting Thought Delta](https://open.spotify.com/album/48Y5oZwISVxOx93pziNL0c) | 2:28 | 2024-11-28 |  |
 | [Chaturanga : Delta Sinus Beats](https://open.spotify.com/track/7bHmwz4ZsxlAwzMeXQaMCS) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 2:05 | 2023-01-20 |  |
 | [Dark Blue \(Delta 124 Hz \- 127 Hz\)](https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 2:46 | 2023-01-20 |  |
 | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/track/6LS66LUZJybYyZ4OTLvYhd) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/album/31X3Csbqb2ztASsvHZ7t4e) | 2:37 | 2023-08-03 |  |
@@ -124,6 +125,7 @@
 | [Miramare Delta Sinus 81\-83 Hz](https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Miramare Delta](https://open.spotify.com/album/1y4EyBDQ2kfF81c6XRnKED) | 2:52 | 2023-01-20 |  |
 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 | 2023-01-20 | 2024-07-16 |
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2023-01-20 |  |
+| [One Day 80Khz\-85Khz](https://open.spotify.com/track/4M0GU2g6JSA1oASNfHjScG) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [One Day 80Khz\-85Khz](https://open.spotify.com/album/72YXtCCAAPmaf8rDh5pHjv) | 2:07 | 2024-11-28 |  |
 | [Orbit Time Delta Binaural 4Hz](https://open.spotify.com/track/3DVVr63xLJqRSJpRdTIh2U) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Orbit Time Delta Binaural 4Hz](https://open.spotify.com/album/1usUNUHPbSxakqpbmxda3T) | 4:13 | 2024-07-09 |  |
 | [Pipe Dreams Delta \(41\-45hz\)](https://open.spotify.com/track/4m0pmhc870i3tZNhQBsgck) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [No Concern Delta](https://open.spotify.com/album/1FjkpySjCoZN7xV5Z9xnqM) | 2:37 | 2024-07-15 |  |
 | [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-08 |  |

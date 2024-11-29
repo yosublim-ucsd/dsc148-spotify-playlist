@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Craving You",
+        "url": "https://open.spotify.com/album/5SleVCYvt1fOtdo6cyPdnS"
+      },
+      "artists": [
+        {
+          "name": "Timmy McKeever",
+          "url": "https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165265,
+      "name": "Craving You",
+      "url": "https://open.spotify.com/track/4qGyXDT3rHEW6d2HP1otDj"
+    },
+    {
+      "album": {
         "name": "CRAZY (Party Remixes 1)",
         "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
       },
@@ -4612,6 +4630,24 @@
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "album": {
+        "name": "Drive Me Crazy",
+        "url": "https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Drive Me Crazy",
+      "url": "https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7"
     },
     {
       "album": {
@@ -7318,7 +7354,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
@@ -7438,6 +7474,24 @@
       "duration_ms": 168941,
       "name": "HIND'S HALL",
       "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
+    },
+    {
+      "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94946,
+      "name": "Hinoki Wood",
+      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
     },
     {
       "album": {
@@ -8432,7 +8486,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -9016,7 +9070,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
@@ -9034,7 +9088,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa"
@@ -12397,6 +12451,48 @@
     },
     {
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Sean McCourt",
+          "url": "https://open.spotify.com/artist/53KxkH27mKZgcCmtdKYBl7"
+        },
+        {
+          "name": "Cristy Candler",
+          "url": "https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl"
+        },
+        {
+          "name": "Jan Neuberger",
+          "url": "https://open.spotify.com/artist/5LATQYuPWELZCDEdGYN5YH"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400533,
+      "name": "No One Mourns The Wicked - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/4FY17SmlqeEGEuYBynENHS"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -12914,6 +13010,36 @@
       "duration_ms": 158663,
       "name": "Otaku Hot Girl",
       "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+    },
+    {
+      "album": {
+        "name": "Our Love (From the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218248,
+      "name": "Our Love (From the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1"
     },
     {
       "album": {
@@ -13922,7 +14048,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195810,
       "name": "Red Vineyard",
       "url": "https://open.spotify.com/track/4pjy393QwkvmRxwmMTUPeQ"
@@ -14074,7 +14200,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 220000,
       "name": "Restless Mind (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb"
@@ -14574,6 +14700,24 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239597,
+      "name": "Scott Pilgrim vs. My GPA",
+      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
     },
     {
       "album": {
@@ -16280,7 +16424,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
@@ -17402,7 +17546,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 309520,
       "name": "The Wizard And I",
       "url": "https://open.spotify.com/track/0nkHQKAeFFviNCHCo2HErO"

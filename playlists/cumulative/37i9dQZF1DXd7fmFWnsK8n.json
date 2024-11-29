@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "LEADiNG TONE",
+        "url": "https://open.spotify.com/album/6P4Eqw4taHg9om6KStfSTk"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Crz Love",
+      "url": "https://open.spotify.com/track/3pTkYjWyOMgwPYCOwDV2dB"
+    },
+    {
+      "album": {
         "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
         "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
@@ -773,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
+      },
+      "artists": [
+        {
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+        },
+        {
+          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
+    },
+    {
+      "album": {
         "name": "Heavenly Visitor / DIAMOND FUSION",
         "url": "https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL"
       },
@@ -802,7 +842,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 242533,
       "name": "HELLO CALLiNG",
       "url": "https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw"
@@ -2376,7 +2416,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 247520,
       "name": "WiSH VOYAGE",
       "url": "https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm"

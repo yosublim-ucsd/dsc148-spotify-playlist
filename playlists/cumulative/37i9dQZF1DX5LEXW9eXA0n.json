@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 238179,
       "name": "day by day",
       "url": "https://open.spotify.com/track/2n6dYI54a9j8yVrR4ob7Fo"
@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 246386,
       "name": "Flirting",
       "url": "https://open.spotify.com/track/0sNm6uJlooT2vfybQDeEv0"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 246002,
       "name": "Glowing Light",
       "url": "https://open.spotify.com/track/5lxFv9Aig7R0OZDKbHd0Zb"
@@ -12489,6 +12489,24 @@
     },
     {
       "album": {
+        "name": "My insecure",
+        "url": "https://open.spotify.com/album/6MvNtD1NVC9rnLlt0Ne066"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195381,
+      "name": "Love me",
+      "url": "https://open.spotify.com/track/7n3IAdczd9T1MUqJLAMXoP"
+    },
+    {
+      "album": {
         "name": "Love Me Like Before",
         "url": "https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20"
       },
@@ -12594,7 +12612,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
@@ -12814,7 +12832,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 241496,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6tQlCLRy4j3VsT0FrTHFLI"
@@ -14178,7 +14196,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 236080,
       "name": "My Old Story",
       "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
@@ -18444,7 +18462,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 223226,
       "name": "Still",
       "url": "https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD"
@@ -23384,7 +23402,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 173929,
       "name": "You Look Stunning",
       "url": "https://open.spotify.com/track/49OA28vZqXIIUZrtWwe29U"
@@ -23930,7 +23948,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 187191,
       "name": "\uadf8\ub304 \ub098\uc758 \uc0ac\ub791 \ub098\ub294 \uadf8\ub300\uc0ac\ub791",
       "url": "https://open.spotify.com/track/4JDNcHS6M0uJHRRQXPhdZo"

@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa AC/DC.
 
-135 songs - 9 hr 0 min
+137 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 | 2024-09-11 |  |
 | [Bimbo](https://open.spotify.com/track/4GTm2tz9bKG9AbpvyzTZqy) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [Bimbo](https://open.spotify.com/album/5AJAJ8IsUsGNnVb70NM3Rc) | 3:34 | 2024-09-26 |  |
 | [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 | 2024-11-07 |  |
-| [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 |  |
+| [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 | 2024-11-29 |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2024-09-11 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2024-09-11 | 2024-11-08 |
 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-03 |  |
@@ -63,6 +63,7 @@
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-11 | 2024-10-04 |
 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2024-09-11 | 2024-09-20 |
 | [I'll Give You Hell](https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [I'll Give You Hell](https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr) | 3:39 | 2024-09-11 | 2024-09-27 |
+| [Impatient Zero \- Edit](https://open.spotify.com/track/5XHMQUxTxaLJ3mNSGu2BYk) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Impatient Zero \(Edit\)](https://open.spotify.com/album/3iEIW7wmoyyJnnQpeGPbDB) | 4:16 | 2024-11-28 |  |
 | [Keep That Mother Down](https://open.spotify.com/track/5LwFa31Em0Lp7fqTabNgro) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Keep That Mother Down / Head Over Heels](https://open.spotify.com/album/6uAVkWGPde4xhcW5tOXhiq) | 3:37 | 2024-09-11 | 2024-10-04 |
 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 | 2024-09-12 |  |
 | [Lanternlight](https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:06 | 2024-09-19 |  |
@@ -77,7 +78,7 @@
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-09-19 |  |
 | [Michael, the Knight](https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Michael, the Knight](https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25) | 3:30 | 2024-09-11 | 2024-10-25 |
 | [Minus Celsius](https://open.spotify.com/track/5CTc5YCNKT5FGe9dWvJZFd) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Stockholm Syndrome](https://open.spotify.com/album/3uMfXWCv23mz4DB5wTcvw1) | 3:34 | 2024-09-11 |  |
-| [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 |  |
+| [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 | 2024-11-29 |
 | [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 |  |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 |  |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 |  |
@@ -141,6 +142,7 @@
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/track/0QbaBnjzFD03RergddLUa9) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/album/28Qw38KEEIzBwjfA3FHfd7) | 4:30 | 2024-09-11 | 2024-09-13 |
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-09-11 |  |
+| [You In Youth](https://open.spotify.com/track/6iZACkU7tWa5aVI6Fdciyl) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [You In Youth](https://open.spotify.com/album/4SLNTIGAzqaKZvAODUNuZo) | 2:49 | 2024-11-28 |  |
 | [Your Sweet 666](https://open.spotify.com/track/3IOTNKbDiyk8OpVrQZq838) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 4:12 | 2024-09-11 |  |
 | [Älä pelkää pimeää](https://open.spotify.com/track/3gpJJJfQN3LePhH55wtAqh) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Askel](https://open.spotify.com/album/0XealbfQIWQ9Xc4Gh6qjoN) | 3:12 | 2024-09-11 | 2024-09-20 |
 

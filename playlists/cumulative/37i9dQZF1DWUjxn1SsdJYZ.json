@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: ONEFOUR, Nemzzz",
+  "description": "The best new AUS & NZ Rap. Cover: The 046",
   "name": "Local Hype",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 150455,
       "name": "222",
       "url": "https://open.spotify.com/track/4RBWoGjwAm6rhIkHk3syjM"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 253756,
       "name": "Ah-Ha",
       "url": "https://open.spotify.com/track/2HE0GNfuhZ8E25NCNkZ6h3"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149808,
       "name": "AINT SAFE",
       "url": "https://open.spotify.com/track/5V4XZuIHuyhvBXIS6JxPVE"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 158117,
       "name": "AREA SAINT",
       "url": "https://open.spotify.com/track/3OyEK1Il9ZYJ4T90Uef1BT"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 232225,
       "name": "Asskin For More",
       "url": "https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi"
@@ -2465,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/78Q0PjLhfjvz4mUDsZeN7Z"
+      },
+      "artists": [
+        {
+          "name": "Birdz",
+          "url": "https://open.spotify.com/artist/33eaeCB1rLpISBkZAd2xnG"
+        },
+        {
+          "name": "Fred Leone",
+          "url": "https://open.spotify.com/artist/6VJsigqfG1cGogt4Q8LQ2s"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/4wqQMY2eHe9ct1cKSkK4MS"
+    },
+    {
+      "album": {
         "name": "BRRR!",
         "url": "https://open.spotify.com/album/4yfPgsIBRLexX1hhKJgBTH"
       },
@@ -2662,6 +2684,24 @@
       "duration_ms": 165600,
       "name": "Burn Dat",
       "url": "https://open.spotify.com/track/6BImby3pdYdP0BnieFxBLt"
+    },
+    {
+      "album": {
+        "name": "BURR",
+        "url": "https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "BURR",
+      "url": "https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9"
     },
     {
       "album": {
@@ -3040,7 +3080,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149538,
       "name": "CERTI",
       "url": "https://open.spotify.com/track/75I9MBhJihPdcv1MlQoz1q"
@@ -3470,7 +3510,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 136528,
       "name": "Commando",
       "url": "https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0"
@@ -3518,6 +3558,28 @@
       "duration_ms": 216800,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/33JmS4eT392zIOj4YO25Lk"
+    },
+    {
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4neExhU4wtk09g15nunLmE"
+      },
+      "artists": [
+        {
+          "name": "Tbish",
+          "url": "https://open.spotify.com/artist/2APhRc0C4DiTjfpuzBm2Xw"
+        },
+        {
+          "name": "Wombat",
+          "url": "https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140468,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7uf24GQ7ZkbIWF9tj4YZf5"
     },
     {
       "album": {
@@ -5286,7 +5348,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 100124,
       "name": "EYES UP ON ME",
       "url": "https://open.spotify.com/track/1F4AvWauNLZwgdcsEpeJ6s"
@@ -5380,7 +5442,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 160000,
       "name": "Fall Back feat. Lil Tjay",
       "url": "https://open.spotify.com/track/5VwpXEckHv05lphILMBFqh"
@@ -6076,7 +6138,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 193255,
       "name": "Fruition (feat. Minty)",
       "url": "https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9"
@@ -7739,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Hold Ya Head",
+        "url": "https://open.spotify.com/album/5vZvoe8aQlzDd0W2o9wV44"
+      },
+      "artists": [
+        {
+          "name": "Kenzie from Welly",
+          "url": "https://open.spotify.com/artist/6N0zBWq6zvarm7g7vVt6hI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "Hold Ya Head",
+      "url": "https://open.spotify.com/track/0pepBw0wXRvChiB2eVmn7D"
+    },
+    {
+      "album": {
         "name": "Hold Yah",
         "url": "https://open.spotify.com/album/7dH2lbDGtHNdiJpsHqT1S7"
       },
@@ -8337,6 +8417,24 @@
     },
     {
       "album": {
+        "name": "Hustle Hard",
+        "url": "https://open.spotify.com/album/7AILztHNRABgeU6x5kbu9H"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251826,
+      "name": "Hustle Hard",
+      "url": "https://open.spotify.com/track/4qSn5AOjai0wplOnIr3Kze"
+    },
+    {
+      "album": {
         "name": "PS4: OPERATION BURNER RAP",
         "url": "https://open.spotify.com/album/6pbjJaIL59QUTy1dMkEJs1"
       },
@@ -8366,7 +8464,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 141139,
       "name": "I Ain't Never Met A Cigarette I Couldn't Smoke",
       "url": "https://open.spotify.com/track/3p0DvtpZ8HCLz2iekgh9eN"
@@ -8996,6 +9094,28 @@
       "duration_ms": 195640,
       "name": "Karekau",
       "url": "https://open.spotify.com/track/38FiobYyot66suEjTRh1x3"
+    },
+    {
+      "album": {
+        "name": "KATSU / Ninety Seven Flows",
+        "url": "https://open.spotify.com/album/1hFkoGVhQsTW7hUSBrr8ix"
+      },
+      "artists": [
+        {
+          "name": "Chillinit",
+          "url": "https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J"
+        },
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179122,
+      "name": "KATSU (feat. Moses)",
+      "url": "https://open.spotify.com/track/75upQ8CWhCGPw0o0ogWnba"
     },
     {
       "album": {
@@ -9782,6 +9902,24 @@
       "duration_ms": 133150,
       "name": "LIGHT IT UP",
       "url": "https://open.spotify.com/track/1EPoQNneCvaz4TOGcivGSd"
+    },
+    {
+      "album": {
+        "name": "Lightning Child",
+        "url": "https://open.spotify.com/album/0n7JdRy8BP4ksfW6MARJXy"
+      },
+      "artists": [
+        {
+          "name": "Miles Nautu",
+          "url": "https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248847,
+      "name": "Lightning Child",
+      "url": "https://open.spotify.com/track/5UNiW7tWE72yQUet9c6omv"
     },
     {
       "album": {
@@ -10960,7 +11098,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 85333,
       "name": "MIKE BREEN",
       "url": "https://open.spotify.com/track/1EfD15tpTke0QDEdpTYNDx"
@@ -11959,6 +12097,24 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5BtaNTKQz13Nrobyfc7KGA"
+      },
+      "artists": [
+        {
+          "name": "Jujulipps",
+          "url": "https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140636,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/6mWVVyBZy6mkARWSObwmBM"
+    },
+    {
+      "album": {
         "name": "NINE TO FIVE",
         "url": "https://open.spotify.com/album/5Vo1AiGbU7kV1QjDE2iVL2"
       },
@@ -12826,7 +12982,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 125100,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3eYFd2mVhRTPlPxD8GTqwH"
@@ -13248,6 +13404,24 @@
       "duration_ms": 153419,
       "name": "Paper Route - Remix",
       "url": "https://open.spotify.com/track/3uC6ha6T6CGsxoBOTHo5AI"
+    },
+    {
+      "album": {
+        "name": "PARRIS",
+        "url": "https://open.spotify.com/album/0eJnewVyT5KoCCkubOGkbH"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "PARRIS",
+      "url": "https://open.spotify.com/track/4wPn4wMPCYx7eCU0D5HkJK"
     },
     {
       "album": {
@@ -13872,7 +14046,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 130498,
       "name": "Proud.",
       "url": "https://open.spotify.com/track/68mCWoDOzlVdSxInJem4b4"
@@ -14548,7 +14722,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151578,
       "name": "Ridin",
       "url": "https://open.spotify.com/track/3kFzPKjKoBnlthiBh5xsfd"
@@ -16787,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "SWOEO",
+        "url": "https://open.spotify.com/album/1l8LCRUJwCm7VHzv78gcFx"
+      },
+      "artists": [
+        {
+          "name": "King Roman",
+          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185758,
+      "name": "SWOEO",
+      "url": "https://open.spotify.com/track/3OYBVHKF2foH7rMAOxt9oH"
+    },
+    {
+      "album": {
         "name": "Sydney Where It Started (Deluxe Version)",
         "url": "https://open.spotify.com/album/0h6zhXiLqZir1JCdZULpJh"
       },
@@ -16904,6 +17096,28 @@
       "duration_ms": 179775,
       "name": "Take You Away",
       "url": "https://open.spotify.com/track/7Ea9GBkcJetYo0JsT7WeuU"
+    },
+    {
+      "album": {
+        "name": "Taken",
+        "url": "https://open.spotify.com/album/1Lc8ZMyKj4eN66C3TUtJK9"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/0luRXW2hbGTMJ7QZgr5Tap"
     },
     {
       "album": {
@@ -17088,7 +17302,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165853,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/4XLQ3WbDbTYosMJsRXji2q"
@@ -17564,7 +17778,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 131400,
       "name": "Timbo Type Beat",
       "url": "https://open.spotify.com/track/0qz6hQeb69yQajjfcavCOz"
@@ -17714,7 +17928,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 124444,
       "name": "tomfoolery.",
       "url": "https://open.spotify.com/track/2m0dUULmA31678RX7JdiWa"
@@ -18421,6 +18635,24 @@
     },
     {
       "album": {
+        "name": "U COULD NEVER",
+        "url": "https://open.spotify.com/album/05frh5oKMCvtNTo0PQuA7S"
+      },
+      "artists": [
+        {
+          "name": "Sophiya",
+          "url": "https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105398,
+      "name": "U COULD NEVER",
+      "url": "https://open.spotify.com/track/7vnDJRa8NtioKdiFj0K1Kz"
+    },
+    {
+      "album": {
         "name": "U Want More Sir?",
         "url": "https://open.spotify.com/album/0wMJWCTt9NbJlSYhgFISDw"
       },
@@ -18652,6 +18884,24 @@
       "duration_ms": 141290,
       "name": "Uzi (Dialed In)",
       "url": "https://open.spotify.com/track/2HpzccoOzvOLsY4NYVVJxr"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/5jp6e4EqYJZkOhCsWtPt10"
+      },
+      "artists": [
+        {
+          "name": "Bliss n Eso",
+          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179501,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2rBM50RmI41WN02Zj1mCg8"
     },
     {
       "album": {

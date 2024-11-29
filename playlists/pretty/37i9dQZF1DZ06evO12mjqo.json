@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 431092,
+  "num_followers": 431205,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAAAFrFUpBvt95zRYmSeZBZnr",
+  "snapshot_id": "Z0ZhAAAAAAAk3EFa672/xxrLXbFK5epE",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Stand by Him",
-      "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantomime",
         "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 249626,
       "name": "Hanging Around",
       "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Stand by Him",
+      "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 278106,
-      "name": "Satan Prayer",
-      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
+      "duration_ms": 244400,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 244400,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Prime Mover",
-      "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 378651,
       "name": "Miasma - Live at the Forum / 2023",
       "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Prime Mover",
+      "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
     },
     {
       "added_at": null,

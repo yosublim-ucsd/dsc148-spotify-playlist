@@ -2,7 +2,7 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: REA
+> La nuova scena indie italiana! Cover: Angelica Bove
 
 230 songs - 11 hr 17 min
 

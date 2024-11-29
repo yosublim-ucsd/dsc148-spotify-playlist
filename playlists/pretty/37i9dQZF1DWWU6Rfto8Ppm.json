@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3608056,
+  "num_followers": 3608672,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 281813,
-      "name": "Lo Grande Que Es Perdonar",
-      "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 281813,
+      "name": "Lo Grande Que Es Perdonar",
+      "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Plan Calle",
         "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 208840,
       "name": "Bata Bata 2",
       "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 227853,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "En Honor A La Verdad",
+        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "5 de Septiembre - Reggaeton Version",
+      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Rompiendo El Hielo",
-        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
-      },
-      "artists": [
-        {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
-        },
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Gata Celosa",
-      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Voltio",
         "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
       },
@@ -2339,6 +2319,26 @@
       "duration_ms": 204333,
       "name": "Julito Mara\u00f1a",
       "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Rompiendo El Hielo",
+        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
+      },
+      "artists": [
+        {
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Gata Celosa",
+      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Tra Tra Tra (Remix)",
-      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 173506,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Tra Tra Tra (Remix)",
+      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2576,9 +2576,9 @@
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 233840,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
+      "duration_ms": 181373,
+      "name": "\u00c9l No Se Va A Entrar",
+      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2664,29 +2664,9 @@
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 181373,
-      "name": "\u00c9l No Se Va A Entrar",
-      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Babilla",
-        "url": "https://open.spotify.com/album/75InLp4fdgi6Wcr2D7NrvC"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Sentimiento",
-      "url": "https://open.spotify.com/track/3LU5ZHFpyqmZwcKjPEEkF1"
+      "duration_ms": 233840,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2751,6 +2731,26 @@
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Babilla",
+        "url": "https://open.spotify.com/album/75InLp4fdgi6Wcr2D7NrvC"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Sentimiento",
+      "url": "https://open.spotify.com/track/3LU5ZHFpyqmZwcKjPEEkF1"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3159,18 +3159,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "The Money Machine Presenta: El Bando Korrupto 2",
-        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
       "artists": [
         {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 196053,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
+      "duration_ms": 214973,
+      "name": "Dame Lo Que Quiero",
+      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3195,18 +3195,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+        "name": "The Money Machine Presenta: El Bando Korrupto 2",
+        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
       },
       "artists": [
         {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Dame Lo Que Quiero",
-      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
+      "duration_ms": 196053,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3315,22 +3315,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+        "name": "J Balvin Mix Tape",
+        "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
       },
       "artists": [
         {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        },
-        {
-          "name": "Cruzito",
-          "url": "https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 225453,
-      "name": "Si la Ves (feat. Cruzito)",
-      "url": "https://open.spotify.com/track/5tTfhWFI9lt6FE8Emp1U6x"
+      "duration_ms": 189026,
+      "name": "Sin Compromiso",
+      "url": "https://open.spotify.com/track/3yoO9jbPHRxAsoUuyx4gG3"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3355,18 +3351,38 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "J Balvin Mix Tape",
-        "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        },
+        {
+          "name": "Cruzito",
+          "url": "https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Sin Compromiso",
-      "url": "https://open.spotify.com/track/3yoO9jbPHRxAsoUuyx4gG3"
+      "duration_ms": 225453,
+      "name": "Si la Ves (feat. Cruzito)",
+      "url": "https://open.spotify.com/track/5tTfhWFI9lt6FE8Emp1U6x"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Echo Presenta: Invasion",
+        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
+      },
+      "artists": [
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Como Toda Una Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3391,22 +3407,6 @@
       "duration_ms": 245080,
       "name": "Me Niegas - Remix",
       "url": "https://open.spotify.com/track/6ON9AeWrNPTajo68rtgz8D"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Echo Presenta: Invasion",
-        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
-      },
-      "artists": [
-        {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Como Toda Una Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3479,6 +3479,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Tuve un Sueno",
+      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Stars Are Blind",
         "url": "https://open.spotify.com/album/1ce0VwubSzMxb0y5LM29K6"
       },
@@ -3499,22 +3515,6 @@
       "duration_ms": 256853,
       "name": "Stars Are Blind - Luny Tunes Remix; feat. Wisin and Yandel",
       "url": "https://open.spotify.com/track/6jRinD1LZTMwaf7B8BnRS6"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Tuve un Sueno",
-      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2024-11-13 13:43:46",

@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 901842,
+  "num_followers": 901981,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAADgqI0prZRStc7QfhRO4ld6",
+  "snapshot_id": "Z0ZhAAAAAAAYJDsHWy2B2ZIbx6s4t20t",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOD",
-        "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 200309,
-      "name": "Kevin\u2019s Heart",
-      "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOD",
+        "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 200309,
+      "name": "Kevin\u2019s Heart",
+      "url": "https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/4wKDjsdjSEL4ykcyoHV0pq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -499,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "Just To Get By",
+      "url": "https://open.spotify.com/track/4eQuX80EZDUwXmEqEiEYg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -531,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruby Rosary (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Ruby Rosary (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -571,6 +583,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Grown Simba",
+      "url": "https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -583,22 +631,6 @@
       "duration_ms": 292865,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/4wKDjsdjSEL4ykcyoHV0pq"
     },
     {
       "added_at": null,
@@ -619,6 +651,22 @@
       "duration_ms": 190653,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/54MLcMDmAwCkRB50bFdpSi"
     },
     {
       "added_at": null,
@@ -684,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 97000,
-      "name": "Just To Get By",
-      "url": "https://open.spotify.com/track/4eQuX80EZDUwXmEqEiEYg5"
+      "duration_ms": 175893,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/6OSbHs2sqAgvEsNYtzFcqL"
     },
     {
       "added_at": null,
@@ -747,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Dead Presidents II",
+      "url": "https://open.spotify.com/track/7nt9qV1gSFco5Y76Yt2SaY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -787,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Come Up Mixtape Vol. 1",
-        "url": "https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 54230,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6wXUgYeIJznRMh1F6OBVB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -815,22 +863,6 @@
       "duration_ms": 331480,
       "name": "Change",
       "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Grown Simba",
-      "url": "https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH"
     },
     {
       "added_at": null,
@@ -871,6 +903,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
+      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -883,54 +939,6 @@
       "duration_ms": 278920,
       "name": "She's Mine Pt. 2",
       "url": "https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/54MLcMDmAwCkRB50bFdpSi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Snow On Tha Bluff",
-        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Snow On Tha Bluff",
-      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Come Up Mixtape Vol. 1",
-        "url": "https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 156186,
-      "name": "Simba",
-      "url": "https://open.spotify.com/track/06ytsFiHQ1Y7mYAQcya4zS"
     }
   ],
   "unique_name": "This Is J. Cole",

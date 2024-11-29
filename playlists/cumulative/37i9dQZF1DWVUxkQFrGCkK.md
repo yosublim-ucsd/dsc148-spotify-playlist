@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> Cesara Linaaaaaaa
+> Maria Mariaaaa
 
-747 songs - 2 day 5 hr 33 min
+752 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Homeboy](https://open.spotify.com/track/5dPO8PhsV6nZUxHZ14FqbJ) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Homeboy/Florida](https://open.spotify.com/album/6ItZoA1SXP1M9gBqGW8y2w) | 7:49 | 2023-06-29 | 2023-08-02 |
 | [Homily](https://open.spotify.com/track/24Uf40skbGB1WEu9OmKizD) | [DIM KELLY](https://open.spotify.com/artist/60UEBuWoDQnIzdHid5xTkd), [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Homily](https://open.spotify.com/album/18F9FXXVgP74Bi3Dn4X7lM) | 7:37 | 2024-06-13 |  |
 | [Honey \- Skit](https://open.spotify.com/track/78Cjzp7Shwr3sGkMjXZpXa) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 1:26 | 2023-04-13 | 2023-08-25 |
+| [Hope \- Pacha VIP Mix](https://open.spotify.com/track/3sJ0Y9jNEL7XtV7ZMJhUhC) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope \(Pacha VIP Mix\)](https://open.spotify.com/album/0YmXbpIEYprFhLc0I7Q2Ht) | 4:05 | 2024-11-28 |  |
 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 | 2023-12-21 |  |
 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 | 2023-04-13 | 2023-08-25 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-18 |  |
@@ -590,6 +591,8 @@
 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 | 2023-04-13 |  |
 | [Sexy Black Timberlake](https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Moses](https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do) | 3:43 | 2023-04-13 | 2023-08-02 |
 | [Sexy Dance](https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [Sexy Dance](https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN) | 4:10 | 2023-06-29 | 2023-08-25 |
+| [Shadow](https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Shadow](https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO) | 3:16 | 2024-11-28 |  |
+| [She Asked Me To Dance](https://open.spotify.com/track/5QAxKBAZ6ohJ4eOUvBslCh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [She Asked Me To Dance](https://open.spotify.com/album/5pYmZarAS3RLOjeuaQfSQa) | 3:30 | 2024-11-28 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-30 |  |
 | [Shirt](https://open.spotify.com/track/6dqCsE9XzlwiEe1Hq0SyNt) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [Shirt](https://open.spotify.com/album/65l4JvId4feafi6KtOitdu) | 5:47 | 2023-06-29 | 2023-08-25 |
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-02-22 | 2024-04-19 |
@@ -691,6 +694,7 @@
 | [True Romance](https://open.spotify.com/track/4k0zUldbzBVX6A9sWD4uJn) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 6:37 | 2023-06-29 | 2024-01-05 |
 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 | 2024-02-15 | 2024-03-15 |
 | [Tulum](https://open.spotify.com/track/4yPqxzBhXslFCcOq6fKanw) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/0gWuDtNiBHpeURomqk8DEc) | 3:45 | 2023-04-13 | 2023-08-02 |
+| [U & I \(feat\. Sirolf \(NL\)\) \- Nic Fanciulli Remix](https://open.spotify.com/track/2yJhs62D1SBW6HuUCcoaaL) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA), [Sirolf \(NL\)](https://open.spotify.com/artist/6sc7heOIfjIsOaUilrPDEh), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [U & I \(Nic Fanciulli Remix\)](https://open.spotify.com/album/3vHdmobxxi5xnNn5NQzesY) | 3:30 | 2024-11-28 |  |
 | [U Got Me](https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [U Got Me](https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb) | 3:21 | 2024-02-01 | 2024-03-22 |
 | [Under](https://open.spotify.com/track/5Qxm8BXv5inn8Wx5c8YHU6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Under](https://open.spotify.com/album/1uv79X6ch6omFuJFzBJvSG) | 3:48 | 2023-06-29 | 2023-08-02 |
 | [Undressed \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Undressed \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/6Ib3IehyjOhGyDLqaZQWRH) | 3:26 | 2024-07-12 |  |
@@ -707,6 +711,7 @@
 | [Vibing in Ay \- Folamour Remix](https://open.spotify.com/track/3wVqIQelhLtb8PJSPeZD7c) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Vibing in Ay \(Folamour Remix\)](https://open.spotify.com/album/22hAOwVGK4d5JZDCs9Dv1i) | 5:06 | 2023-12-14 |  |
 | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-04-27 |  |
 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 | 2024-08-22 |  |
+| [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-11-28 |  |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 |  |
 | [Wanene](https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Wanene](https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU) | 3:33 | 2024-05-10 |  |
 | [Want U Again](https://open.spotify.com/track/137KnVuHd8eN9oWr9q2cDo) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Want U Again](https://open.spotify.com/album/2s0aZNFIJiDY79ONncV56F) | 7:14 | 2023-08-24 | 2024-01-05 |

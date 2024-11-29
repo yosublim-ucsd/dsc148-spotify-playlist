@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14740,
+  "num_followers": 14743,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Madison",
-        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 195526,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/6ggmioMS1gYK0I5AAdv2NH"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Czekam Na Znak",
-      "url": "https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Pass\u00e9",
         "url": "https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 188288,
       "name": "Francoise Hardy",
       "url": "https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Czekam Na Znak",
+      "url": "https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Horyzont Zdarze\u0144",
-        "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
-      },
-      "artists": [
-        {
-          "name": "CARNAL",
-          "url": "https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN"
-        },
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 288922,
-      "name": "Czas Nie Leczy Ran",
-      "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 172000,
       "name": "IMAGO SWAN",
       "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Horyzont Zdarze\u0144",
+        "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
+      },
+      "artists": [
+        {
+          "name": "CARNAL",
+          "url": "https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 288922,
+      "name": "Czas Nie Leczy Ran",
+      "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Full Speed No Brakes",
+        "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
+      },
+      "artists": [
+        {
+          "name": "Boogie Boys",
+          "url": "https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Full Speed No Brakes",
+      "url": "https://open.spotify.com/track/69305G8R3qlddRjRZSq38d"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "TiriTaka (Polish Jazz, Vol. 62)",
         "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Full Speed No Brakes",
-        "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
       },
       "artists": [
         {
-          "name": "Boogie Boys",
-          "url": "https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P"
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Full Speed No Brakes",
-      "url": "https://open.spotify.com/track/69305G8R3qlddRjRZSq38d"
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1471,22 +1487,6 @@
       "duration_ms": 481986,
       "name": "De Joe",
       "url": "https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",

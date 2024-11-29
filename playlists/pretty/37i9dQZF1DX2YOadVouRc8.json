@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30216,
+  "num_followers": 30255,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "LOVE POTION",
         "url": "https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 199862,
       "name": "LOVE POTION",
       "url": "https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
     },
     {
       "added_at": "2024-11-22 00:01:00",

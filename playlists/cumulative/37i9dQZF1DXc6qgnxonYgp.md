@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-255 songs - 14 hr 21 min
+256 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anjaana](https://open.spotify.com/track/758vno0xytbJNhfE8d2kbw) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [KEVIN PERERA](https://open.spotify.com/artist/14kSeTnRRFhV3KoOt3JKch), [She Shree](https://open.spotify.com/artist/5r075HLkPyURcCks3osmtp) | [Anjaana](https://open.spotify.com/album/4lXOpV3vrxdFRolEfrX61m) | 2:47 | 2023-09-25 | 2024-07-09 |
 | [Anjaana](https://open.spotify.com/track/35UCL83cog754eqxXRLVeX) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [She Shree](https://open.spotify.com/artist/5r075HLkPyURcCks3osmtp), [KEVIN PERERA](https://open.spotify.com/artist/14kSeTnRRFhV3KoOt3JKch) | [Anjaana](https://open.spotify.com/album/55nV2MTcMBySSNTtR3hGJN) | 2:47 | 2023-09-25 | 2024-04-19 |
 | [Annan Adhiradi](https://open.spotify.com/track/53VEBlGGEHeItOUr1Bcu7F) | [MJ Melodies](https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI), [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Annan Adhiradi](https://open.spotify.com/album/6poaFddS1Ubcshujbgokdd) | 2:57 | 2023-10-17 |  |
+| [Ariyallo](https://open.spotify.com/track/16tzFbRkVkxmNxziYajER0) | [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [Ariyallo](https://open.spotify.com/album/5rF1ulrTK5mxlh7Ik3QY9L) | 3:21 | 2024-11-28 |  |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 |  |
 | [Basti Bounce](https://open.spotify.com/track/48lmQKFDZbZPphsgN1dmDm) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Basti Bounce](https://open.spotify.com/album/5ZLACtOSyXBBAiXBTuTjfE) | 3:43 | 2023-01-31 | 2023-04-29 |
 | [Billions](https://open.spotify.com/track/2gYZBxbkHH601xzOtOrc2U) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 3:25 | 2024-07-19 | 2024-08-09 |
@@ -203,7 +204,7 @@
 | [Somberi](https://open.spotify.com/track/40MlMSv2kkmph6XhYMOovm) | [Mathan](https://open.spotify.com/artist/6SKyKdlIxDf1JmwWgJ9l2W), [Naven](https://open.spotify.com/artist/21X2iwETuRendKavqKueda) | [Intha Vechiko](https://open.spotify.com/album/6WicssJ39qCW2BavG5hSOe) | 3:56 | 2021-12-01 | 2023-12-09 |
 | [Soodah](https://open.spotify.com/track/5crDlrKf7tJSLe1uT2Lwa9) | [Aathitiyanz](https://open.spotify.com/artist/0kPeqIZZtxGD9u5lcXo2pN), [Kagen](https://open.spotify.com/artist/0aFESQDTLkS2OfjPgWfGhr), [Aasaami](https://open.spotify.com/artist/36llaFipyCWuzAX4ZQJNmP) | [Soodah](https://open.spotify.com/album/4tlgV4enZEml9fdTYeYQNd) | 5:17 | 2021-12-01 | 2022-07-16 |
 | [Sound of Pain](https://open.spotify.com/track/4tSC1rkB4RRHmaz3G5skEa) | [Vallinan](https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO), [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt) | [Sound of Pain](https://open.spotify.com/album/4kvUpU2vqwKyrYuCL33I28) | 3:04 | 2022-11-02 | 2024-04-19 |
-| [Sound of Pain](https://open.spotify.com/track/6HHpALzzMNphaUcKuHZoJR) | [Vallinan](https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt) | [Sound of Pain](https://open.spotify.com/album/1CTU7nrYD6r3bZYrcsCI10) | 3:04 | 2022-11-02 |  |
+| [Sound of Pain](https://open.spotify.com/track/6HHpALzzMNphaUcKuHZoJR) | [Vallinan](https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt) | [Sound of Pain](https://open.spotify.com/album/1CTU7nrYD6r3bZYrcsCI10) | 3:04 | 2022-11-02 | 2024-11-29 |
 | [Speed Indeed](https://open.spotify.com/track/77SlaSyWaBsM2FzvGk4Q52) | [Rising Rapper](https://open.spotify.com/artist/4ryNpVoZhhCRhmOd670exX), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L) | [Speed Indeed](https://open.spotify.com/album/6AzRBRJfUu1SSgt4BpJVi2) | 2:53 | 2024-08-08 | 2024-08-29 |
 | [Stable In The Game](https://open.spotify.com/track/0oiDqLcaMEctgI7iAyC9No) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/3tXYv2pduUPMu2ztvYnu4u) | 3:23 | 2022-09-15 | 2023-10-23 |
 | [Stable In The Game](https://open.spotify.com/track/3f2ItBv79rxtFovyBeGn2c) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/5EVnoFdYVMuYdTWf3kzjCl) | 3:23 | 2022-09-15 | 2024-11-09 |

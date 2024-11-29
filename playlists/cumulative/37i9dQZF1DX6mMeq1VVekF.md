@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Negro Impacto
 
-433 songs - 22 hr 18 min
+434 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2022-06-24 | 2022-07-29 |
 | [brush u](https://open.spotify.com/track/5SwUdsvuqQE6pBiFCZjsqQ) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [brush u](https://open.spotify.com/album/45vgKO5oOKipT4k9ugHlLW) | 1:51 | 2022-06-24 | 2022-07-12 |
 | [Call Me Back \(feat\. Knucks\)](https://open.spotify.com/track/1o3vThoOf0wBYG3IEdW09y) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Black on Black](https://open.spotify.com/album/3hhuMQnbEutgqMa4o8063u) | 3:04 | 2022-06-24 | 2022-07-15 |
-| [Can't Be Sad](https://open.spotify.com/track/0ibOvizonNcEZgAxBpLdwD) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [It Means Hope Where I'm From](https://open.spotify.com/album/2UkbGCBsLryfOXua9EYrBc) | 2:16 | 2024-10-25 |  |
+| [Can't Be Sad](https://open.spotify.com/track/0ibOvizonNcEZgAxBpLdwD) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [It Means Hope Where I'm From](https://open.spotify.com/album/2UkbGCBsLryfOXua9EYrBc) | 2:16 | 2024-10-25 | 2024-11-29 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2022-08-22 | 2024-10-04 |
 | [Caught In A Lie](https://open.spotify.com/track/0VrU3bahhqEpXQtsj4kXXy) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Caught In A Lie](https://open.spotify.com/album/7G5shM3gM18DQArpxJhuxJ) | 4:15 | 2022-06-24 | 2022-07-28 |
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-19 | 2023-08-19 |
@@ -265,6 +265,7 @@
 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:20 | 2023-05-15 | 2024-10-04 |
 | [NEIGHBOURS](https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [NEIGHBOURS](https://open.spotify.com/album/5k1htUtASv8WIFomZCnb7a) | 3:06 | 2024-04-26 | 2024-10-09 |
 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 | 2022-07-17 | 2023-05-11 |
+| [New Day](https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [New Day](https://open.spotify.com/album/6i72V24SOOku076TNzxShq) | 3:15 | 2024-11-22 |  |
 | [New Harrison](https://open.spotify.com/track/3HZKBjeOyPZo2DLRIz6Ikr) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Head Above the Waters](https://open.spotify.com/album/4r9bPy9QBOI2PVNIn540fM) | 3:50 | 2022-06-24 | 2022-07-29 |
 | [new life](https://open.spotify.com/track/43VNPmKZ7NPWqwB2BSO1LY) | [Active](https://open.spotify.com/artist/3r3yUrTG2m3ry3ICLyvaWH) | [new life](https://open.spotify.com/album/50x0TZFE1YvpXjXtQwGDyh) | 2:29 | 2023-05-15 | 2023-05-19 |
 | [NEXT MOVE](https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [NEXT MOVE](https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK) | 1:40 | 2024-10-03 | 2024-11-18 |

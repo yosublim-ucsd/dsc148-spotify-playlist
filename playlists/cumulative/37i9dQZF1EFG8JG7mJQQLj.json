@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/1y4nObs7YQvXu8ZwyXMChj"
+      },
+      "artists": [
+        {
+          "name": "Lil C.C.",
+          "url": "https://open.spotify.com/artist/4Moq5aBdKJzuZtYUfcyKfr"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202253,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/2GwqVPMVmK7bOgL6UCp7Ht"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
       },

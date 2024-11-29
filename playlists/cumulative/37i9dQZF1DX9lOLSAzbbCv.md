@@ -2,9 +2,9 @@
 
 ### [Реп хіти](https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv)
 
-> Хіти українського репу\. Обкладинка: Santorin
+> Хіти українського репу\. Обкладинка: YARMAK
 
-92 songs - 4 hr 10 min
+95 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,14 +22,15 @@
 | [бути долбайобом](https://open.spotify.com/track/117K41GCrtBE713JJ07Dfq) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [trashhouttttttt](https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt) | 2:15 | 2024-06-27 | 2024-09-13 |
 | [Бізнес](https://open.spotify.com/track/0TlsHljZpLN7JKaw2rqKhM) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY), [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y) | [Бізнес](https://open.spotify.com/album/2ikqOWjf8fcE0Zw1L64S58) | 2:39 | 2024-09-12 | 2024-11-09 |
 | [ВАВИЛОН](https://open.spotify.com/track/3wDcA4yVxjU1jVu0havb6D) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [ВАВИЛОН](https://open.spotify.com/album/4nazo4fCYSZdf1oNSKGvI1) | 5:06 | 2024-06-27 |  |
+| [Ветерани](https://open.spotify.com/track/0HxClcncftQKpABXo3utOm) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap), [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Ветерани](https://open.spotify.com/album/1tecohDEUs4Nu4fE2d8BJO) | 12:13 | 2024-11-28 |  |
 | [Вириватись](https://open.spotify.com/track/6YVWaXlR2Fn9P6oM5B454z) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3), [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Вириватись](https://open.spotify.com/album/5KkueXcsi2b6ehh4wGuDgG) | 2:13 | 2024-08-15 | 2024-09-13 |
 | [Воїнам](https://open.spotify.com/track/6J9KF7lAzSsQd5kFbYgVfc) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Воїнам](https://open.spotify.com/album/2jqlb16qjNhRAws4MHQ03m) | 2:40 | 2024-06-27 |  |
-| [Все моє тепло](https://open.spotify.com/track/1XtcgJaRUWyzbiRpzZC6Rq) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Все моє тепло](https://open.spotify.com/album/62DPR6EIwNzQGh6WPFPwJ6) | 2:16 | 2024-06-27 |  |
+| [Все моє тепло](https://open.spotify.com/track/1XtcgJaRUWyzbiRpzZC6Rq) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Все моє тепло](https://open.spotify.com/album/62DPR6EIwNzQGh6WPFPwJ6) | 2:16 | 2024-06-27 | 2024-11-29 |
 | [Все сильніше](https://open.spotify.com/track/6M6ExnrZackBHCnHlqcyCY) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Все сильніше](https://open.spotify.com/album/4kqfYbVvSeesRoREGTptoo) | 2:02 | 2024-11-08 |  |
 | [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2024-06-27 |  |
 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 | 2024-06-27 |  |
 | [Грай музикант](https://open.spotify.com/track/11qafKlrxs3ftt5pKoHVDB) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Грай музикант](https://open.spotify.com/album/2eZg06N1Xs5kyia9DiNSUy) | 2:37 | 2024-08-01 | 2024-09-13 |
-| [Гірка](https://open.spotify.com/track/3iUvPfvenb2vkXycIAiRF7) | [АСАФАТОV](https://open.spotify.com/artist/3xJdB8GYkZ36nh9UbX9mTe) | [Гірка](https://open.spotify.com/album/4pydIBYNrrmJEXQAQXKJTn) | 3:08 | 2024-11-08 |  |
+| [Гірка](https://open.spotify.com/track/3iUvPfvenb2vkXycIAiRF7) | [АСАФАТОV](https://open.spotify.com/artist/3xJdB8GYkZ36nh9UbX9mTe) | [Гірка](https://open.spotify.com/album/4pydIBYNrrmJEXQAQXKJTn) | 3:08 | 2024-11-08 | 2024-11-29 |
 | [Де була ти?](https://open.spotify.com/track/659S3BJYzIlXY9Bcckb8s7) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Де була ти?](https://open.spotify.com/album/0K54eClqwD9eOoIoRtOia4) | 2:30 | 2024-06-27 | 2024-07-12 |
 | [Державний](https://open.spotify.com/track/6qfNb3PBlpH9xgVjs4GiqX) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [$CREAM](https://open.spotify.com/artist/2J4wf1MqchjTmGScOI82qP) | [Державний](https://open.spotify.com/album/27y3m0LCjCBaUFk9opbv1s) | 2:36 | 2024-06-27 | 2024-09-13 |
 | [Десять причин](https://open.spotify.com/track/25NlarRPSZbc2JDCfzJxYY) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Десять причин](https://open.spotify.com/album/1FaBNdDgWZgApuNYyhjJLn) | 3:12 | 2024-09-12 |  |
@@ -39,6 +40,7 @@
 | [Забуваю](https://open.spotify.com/track/6AeWc8lMFhf2kGGyksRBG0) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Забуваю](https://open.spotify.com/album/63zC6L0TBAzDBF43gKuzVP) | 2:58 | 2024-08-15 |  |
 | [Забудь](https://open.spotify.com/track/1EbhCxkMF4t5h4tvAsGonO) | [ХАС](https://open.spotify.com/artist/2fqqZipMJWN5aYcOtzFnH4) | [Забудь](https://open.spotify.com/album/0OQuqGEnZKCG8jmRAsfK1p) | 3:03 | 2024-06-27 | 2024-07-19 |
 | [ЗАГЛОХ](https://open.spotify.com/track/4ASeRZheeHg7e2F9Bc0q7q) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЗАГЛОХ](https://open.spotify.com/album/6GffWAJfrbcaSY6cSi9Soa) | 2:53 | 2024-06-27 |  |
+| [Замкнутий контур](https://open.spotify.com/track/1R9UZQgsL2rZJuBmT3WJrF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [Замкнутий контур](https://open.spotify.com/album/4IOx4Td5EQbHWpSov33foo) | 3:12 | 2024-11-28 |  |
 | [Зникай](https://open.spotify.com/track/30WMXb2SdCxlsycRXPZ9W0) | [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R), [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Зникай](https://open.spotify.com/album/6dgWA0JgCHFYU4zHq2YNHO) | 3:15 | 2024-07-11 | 2024-08-16 |
 | [Картьє](https://open.spotify.com/track/4iQGxj4nDaya5SldXPoE2J) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7) | [Картьє](https://open.spotify.com/album/1dW9T5bVbDnxmsQunaazlt) | 2:39 | 2024-06-27 |  |
 | [Карусель](https://open.spotify.com/track/5LPlcH8OmCCJWMlexUo4mC) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Карусель](https://open.spotify.com/album/2pJYccrBAselPtceYjkMTV) | 1:54 | 2024-07-18 | 2024-08-02 |
@@ -60,7 +62,7 @@
 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 | 2024-06-27 |  |
 | [На пафосі](https://open.spotify.com/track/13a42S4mWLvOUubzKz8M5P) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [На пафосі](https://open.spotify.com/album/0OfgPEU2HdyGA9DpSioyXu) | 2:03 | 2024-09-30 |  |
 | [Над океаном](https://open.spotify.com/track/6WWVGwnbQy7cRSQYvJlne2) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Над океаном](https://open.spotify.com/album/2xefr2prljKjzK9F1LcbwA) | 2:48 | 2024-09-12 | 2024-10-01 |
-| [Наступний](https://open.spotify.com/track/4YqSpwcDIyB6crtbSqdeJg) | [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Наступний](https://open.spotify.com/album/2L7Ei93nNXa3HYouEZ5bgs) | 2:31 | 2024-11-08 |  |
+| [Наступний](https://open.spotify.com/track/4YqSpwcDIyB6crtbSqdeJg) | [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Наступний](https://open.spotify.com/album/2L7Ei93nNXa3HYouEZ5bgs) | 2:31 | 2024-11-08 | 2024-11-29 |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 |  |
 | [Не шукав](https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Не шукав](https://open.spotify.com/album/7HZTGXwTX6if5XIJo0NY24) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2024-06-27 |  |
@@ -96,6 +98,7 @@
 | [Чуттєво й зворушливо](https://open.spotify.com/track/69d7LFyrraty4buwYsXeGf) | [VovaZiLvova](https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH), [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Чуттєво й зворушливо](https://open.spotify.com/album/3CLJUopbto0GE7LitWF5wr) | 2:27 | 2024-06-27 | 2024-08-02 |
 | [Шепоче дощ](https://open.spotify.com/track/0r8QbYyEx9qvzccnPDyYSX) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Шепоче дощ](https://open.spotify.com/album/4TpzNla4P92I6TW3VSnmX9) | 2:31 | 2024-07-18 |  |
 | [Шукали вчора](https://open.spotify.com/track/6LWU2SReUMAZ4XixabuZqp) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Недовготривалі відносини](https://open.spotify.com/album/1Y74eDClvLKpzJgVSbovLS) | 2:48 | 2024-06-27 |  |
+| [Ще один день до зими](https://open.spotify.com/track/3xaEJxLFACn7xNYscqf1NE) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Ще один день до зими](https://open.spotify.com/album/7seTgO1XJbOV7t2EAT7zzA) | 2:53 | 2024-11-28 |  |
 | [Я молю](https://open.spotify.com/track/5JI684J7e3QS2F4Dc2kHrG) | [ХАС](https://open.spotify.com/artist/2fqqZipMJWN5aYcOtzFnH4), [NIKITIN](https://open.spotify.com/artist/6oAMcJiu5SphoOoUYj19Qt) | [Я молю](https://open.spotify.com/album/5uo0RvbsYvm4lFD3Cy9xIG) | 2:50 | 2024-09-30 | 2024-11-09 |
 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 | 2024-08-15 |  |
 | [Як ти там](https://open.spotify.com/track/2xGRKA8PKaiXF1ixWcsUds) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Як ти там](https://open.spotify.com/album/4NSkMH1eoZPg14tAjdSyF6) | 3:25 | 2024-06-27 | 2024-10-01 |

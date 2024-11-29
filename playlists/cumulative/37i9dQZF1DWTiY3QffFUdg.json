@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
@@ -4216,6 +4216,28 @@
       "duration_ms": 220375,
       "name": "Simulator",
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+    },
+    {
+      "album": {
+        "name": "Slingshot - EP",
+        "url": "https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "&NUFF",
+          "url": "https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Skank In The Rave",
+      "url": "https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS"
     },
     {
       "album": {

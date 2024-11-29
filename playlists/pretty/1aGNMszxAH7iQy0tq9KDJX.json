@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAHAwqbJmfU7Vq9IMA+1tf9gmfDCCX",
+  "snapshot_id": "AAAAHfvp73tvlqRhriTIrcnJZmhjBqwJ",
   "tracks": [
     {
       "added_at": "2022-05-06 11:17:48",
@@ -427,6 +427,22 @@
       "duration_ms": 136840,
       "name": "Short, Fast, And Loud",
       "url": "https://open.spotify.com/track/2cn19ykuQ0vYdSpqqN4h0p"
+    },
+    {
+      "added_at": "2024-11-28 18:07:38",
+      "album": {
+        "name": "Hex of Infinite Binding EP",
+        "url": "https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Song for Ted Sallis",
+      "url": "https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d"
     }
   ],
   "unique_name": "Gemder",

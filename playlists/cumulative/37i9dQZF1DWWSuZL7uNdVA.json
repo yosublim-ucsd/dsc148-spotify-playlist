@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Linkin Park au top des meilleurs morceaux rock du moment.",
+  "description": "The Warning au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 192600,
       "name": "...Baby One More Time (from Kung Fu Panda 4)",
       "url": "https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 241906,
       "name": "I'm Still In Love With Rock 'n' Roll",
       "url": "https://open.spotify.com/track/6V5BtphEJVts5laWgp5Jgj"
@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Kill Box",
+        "url": "https://open.spotify.com/album/3gIbGJG1DgL319wNk1ZTpL"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Kill Box",
+      "url": "https://open.spotify.com/track/4PnC5Xl61850mV54pTG2hH"
+    },
+    {
+      "album": {
         "name": "KISS",
         "url": "https://open.spotify.com/album/17JywZ3AEkElRGlDw9Up4f"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 192028,
       "name": "KISS",
       "url": "https://open.spotify.com/track/7M8mBTuwrLCe1U28YKHVzu"
@@ -2670,6 +2688,24 @@
       "duration_ms": 218346,
       "name": "maybe it's me",
       "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
     },
     {
       "album": {
@@ -3639,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Saccharine Scream",
+        "url": "https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7"
+      },
+      "artists": [
+        {
+          "name": "Fake Eyes",
+          "url": "https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Saccharine Scream",
+      "url": "https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1"
       },
@@ -3694,6 +3748,24 @@
       "duration_ms": 204917,
       "name": "Screamin\u2019 At The Sky",
       "url": "https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr"
+    },
+    {
+      "album": {
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
     },
     {
       "album": {
@@ -4634,7 +4706,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
@@ -5023,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Who Goes There",
+        "url": "https://open.spotify.com/album/3nF1aawj6u5mpFRe1qc4jA"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208623,
+      "name": "Who Goes There",
+      "url": "https://open.spotify.com/track/6jUjGdh2prOWyI0RlU5Z9B"
+    },
+    {
+      "album": {
         "name": "World Class Entertainment",
         "url": "https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR"
       },
@@ -5160,7 +5250,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 185008,
       "name": "Your Master",
       "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"

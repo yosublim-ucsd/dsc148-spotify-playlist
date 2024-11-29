@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Divas Rancheras",
+        "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/1yWb61DVtVRYUtk7wIEZjO"
+    },
+    {
+      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
       },
@@ -648,7 +666,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 227773,
       "name": "Lo Poquito Que Me Queda",
       "url": "https://open.spotify.com/track/45YRI95b2dwXmQkagzKaze"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring matilda mann  \u2601\ufe0f  art: @doolittleillustrations",
+  "description": "a playlist without boundaries, featuring bby  \u2601\ufe0f  art: @doolittleillustrations",
   "name": "Our Generation",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 135172,
       "name": "99%",
       "url": "https://open.spotify.com/track/0je8BipjAnFnO1PVVpPPPO"
+    },
+    {
+      "album": {
+        "name": "A-Rated Horror Movies",
+        "url": "https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA"
+      },
+      "artists": [
+        {
+          "name": "Bug Eyed",
+          "url": "https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157867,
+      "name": "A-Rated Horror Movies",
+      "url": "https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2"
     },
     {
       "album": {
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 141092,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf"
@@ -1894,6 +1912,24 @@
       "duration_ms": 202900,
       "name": "Gramophone",
       "url": "https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN"
+    },
+    {
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/02QsQUXJ8eqdUQ4dAF8FsA"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/72MXvkYZT27TlQJKkbCQN5"
     },
     {
       "album": {
@@ -3277,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Old Devil Moon",
+        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
+    },
+    {
+      "album": {
         "name": "age tape 14",
         "url": "https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD"
       },
@@ -3454,6 +3508,28 @@
       "duration_ms": 180249,
       "name": "pretty",
       "url": "https://open.spotify.com/track/7o6G7qNzrsnW0cpTjZ1erz"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
+        "url": "https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277741,
+      "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
+      "url": "https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG"
     },
     {
       "album": {
@@ -3930,7 +4006,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165454,
       "name": "So Low",
       "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
@@ -4764,7 +4840,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 156853,
       "name": "We Don't Need to Do Forever",
       "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"
@@ -4966,7 +5042,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 194169,
       "name": "your street",
       "url": "https://open.spotify.com/track/7t1T1V2B6QfjVMetEnPqGi"

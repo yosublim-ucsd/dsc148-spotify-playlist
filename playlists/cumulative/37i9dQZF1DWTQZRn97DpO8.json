@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Enchant\u00e9e Julia",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Elia",
   "name": "le miel",
   "tracks": [
     {
@@ -185,7 +185,7 @@
         },
         {
           "name": "Anagramms",
-          "url": "https://open.spotify.com/artist/1i4AiNwDZm2VfbI5WrqfgU"
+          "url": "https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL"
         }
       ],
       "date_added": "2024-11-07",
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 214533,
       "name": "Arr\u00eater de t'aimer",
       "url": "https://open.spotify.com/track/7mCyJMSTddnGZruHCVxItd"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 138750,
       "name": "Besoin",
       "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Corps \u00e0 corps",
+        "url": "https://open.spotify.com/album/6STnKIdCfuS0zl2ppUJmF2"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Corps \u00e0 corps",
+      "url": "https://open.spotify.com/track/4JihV9mvL6fagy6YNYsDU0"
+    },
+    {
+      "album": {
         "name": "Coup de fil",
         "url": "https://open.spotify.com/album/7jWw0c7G2psVC9ZmV7U2gB"
       },
@@ -965,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/70EqwTYCmrlRbo1oJzHMOD"
+      },
+      "artists": [
+        {
+          "name": "Brooxy",
+          "url": "https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156520,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/7Cs1QQ1hDfx4mVGvTGqljz"
+    },
+    {
+      "album": {
         "name": "Dis-moi ce que je dois faire",
         "url": "https://open.spotify.com/album/32yTwatVMuuASNG6BtVUdn"
       },
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175670,
       "name": "Donne-moi le temps",
       "url": "https://open.spotify.com/track/712cCUL7oIMdyQOWJRY02o"
@@ -1034,7 +1070,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165000,
       "name": "douce danse",
       "url": "https://open.spotify.com/track/0SpNlQ9Xvu98LjnA8Sqfhb"
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 224280,
       "name": "Du feu",
       "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
@@ -2977,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "PETIT CON",
+        "url": "https://open.spotify.com/album/4LCh1ctfnMPn2tPv9Boc7p"
+      },
+      "artists": [
+        {
+          "name": "Soid",
+          "url": "https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152801,
+      "name": "PETIT CON",
+      "url": "https://open.spotify.com/track/2d6yuMENcUtp7eJtj98TCK"
+    },
+    {
+      "album": {
         "name": "Mocha Venti",
         "url": "https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX"
       },
@@ -3046,7 +3100,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203076,
       "name": "Play it cool",
       "url": "https://open.spotify.com/track/2EwS9uABUpsp7DOixrGHDO"
@@ -3411,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "OURAGAN",
+        "url": "https://open.spotify.com/album/2yWWuQPMw2qCa5qsRCA0ry"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "rod\u00e9o",
+      "url": "https://open.spotify.com/track/3ZE1WaCYBOwjz5qoqPbLDH"
+    },
+    {
+      "album": {
         "name": "Room 69 (Acoustic version)",
         "url": "https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem"
       },
@@ -3679,6 +3751,28 @@
     },
     {
       "album": {
+        "name": "H\u00e9ro\u00efne(s)",
+        "url": "https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Seuil",
+      "url": "https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH"
+    },
+    {
+      "album": {
         "name": "Ginger Season",
         "url": "https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o"
       },
@@ -3904,7 +3998,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 226000,
       "name": "Sweet & Sour",
       "url": "https://open.spotify.com/track/5T7CniQD3QkuW4dYYnXgWN"
@@ -3980,6 +4074,24 @@
       "duration_ms": 186428,
       "name": "The Love We Had",
       "url": "https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G"
+    },
+    {
+      "album": {
+        "name": "TOI QUI VOULAIS PARTIR",
+        "url": "https://open.spotify.com/album/6w2w4ERrrr8kEj2fvnV30h"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "TOI QUI VOULAIS PARTIR",
+      "url": "https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v"
     },
     {
       "album": {
@@ -4428,6 +4540,24 @@
       "duration_ms": 135772,
       "name": "WHAT U WANT",
       "url": "https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp"
+    },
+    {
+      "album": {
+        "name": "\u00c9t\u00e9 sans fin : Prequel",
+        "url": "https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Who's Bad",
+      "url": "https://open.spotify.com/track/7bXXKJHrBtiXx8tSf1OHUm"
     },
     {
       "album": {

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Akhonamandla",
+        "url": "https://open.spotify.com/album/2fwuj75mQD6TX173EXylPt"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183216,
+      "name": "Akhonamandla",
+      "url": "https://open.spotify.com/track/3WWcor629CeucJRhcEv0eT"
+    },
+    {
+      "album": {
         "name": "Amen / Moya ongcwele",
         "url": "https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU"
       },

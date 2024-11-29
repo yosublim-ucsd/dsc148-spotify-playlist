@@ -2,9 +2,9 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : spill tab
+> La playlist au\-delà des genres\. Photo : Kendrick Lamar
 
-215 songs - 12 hr 14 min
+217 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-13 |  |
 | [KASSESSA](https://open.spotify.com/track/4RBwf8OYCEpQZBBd2UzDDS) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [KASSESSA](https://open.spotify.com/album/57NpDY78jxfdTb3vUdy8rW) | 4:45 | 2023-12-07 | 2024-03-09 |
 | [Katana](https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Katana](https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo) | 2:58 | 2024-10-11 |  |
+| [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF) | 3:02 | 2024-11-28 |  |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-03-23 |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-07 |  |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-06 |  |
@@ -157,6 +158,7 @@
 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-06-27 | 2024-08-30 |
 | [Pour Your Heart Out](https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:10 | 2024-10-17 |  |
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-08 | 2024-03-30 |
+| [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-11-28 |  |
 | [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-04-04 | 2024-09-14 |
 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 | 2024-09-06 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-04-04 | 2024-04-23 |
@@ -164,8 +166,8 @@
 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 | 2023-12-07 | 2024-07-19 |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-18 |  |
 | [Save The Savior](https://open.spotify.com/track/4QSJm9N05ru4Bie6Jf2yko) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:05 | 2024-06-27 | 2024-08-17 |
-| [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-09-19 |  |
-| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-06 |  |
+| [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-09-19 | 2024-11-29 |
+| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-06 | 2024-11-29 |
 | [Shelter](https://open.spotify.com/track/4lNw3j77c9G4YuZp7QlPWb) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 6:25 | 2023-12-07 | 2024-02-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-06-07 |
 | [Show \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Show \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/72asUETHX1ueZx7rC0j6vz) | 2:32 | 2024-04-04 | 2024-04-23 |
@@ -221,7 +223,7 @@
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-08-08 | 2024-11-08 |
 | [YOUPHORIA \(feat\. HIGH HØØPS\)](https://open.spotify.com/track/1OzyADEbW3Y7uQvOiyc08L) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [YOUPHORIA \(feat\. HIGH HØØPS\)](https://open.spotify.com/album/7KqJmfsqYNlKsYB8bvXSRs) | 3:03 | 2023-12-07 | 2024-09-07 |
 | [À la Hauteur](https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR) | [Pbl](https://open.spotify.com/artist/2ErtP3QGjQ4j7qQk3ORl3j), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [À la Hauteur](https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t) | 2:44 | 2024-07-04 |  |
-| [échec et mat](https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4) | 2:48 | 2024-07-18 |  |
+| [échec et mat](https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4) | 2:48 | 2024-07-18 | 2024-11-29 |
 | [⁠sorrysorrysorry \(sad sometimes\)](https://open.spotify.com/track/60eQ5ChqHwxwAyqutxXB0H) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tentacle, but different](https://open.spotify.com/album/0WS8N1njDA3TevHPHMygpB) | 4:18 | 2024-05-11 | 2024-09-20 |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

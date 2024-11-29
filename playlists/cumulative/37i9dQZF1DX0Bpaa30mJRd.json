@@ -2282,7 +2282,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 51160,
-      "name": "\u304b\u3089\u304f\u308a\u6642\u8a08~\u30bf\u30a4\u30e0\u30ea\u30fc\u30d5\u309a",
+      "name": "\u304b\u3089\u304f\u308a\u6642\u8a08\uff5e\u30bf\u30a4\u30e0\u30ea\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4CYFlYOE4RmAWMF2sj4IOD"
     },
     {
@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30b1\u30e2\u30ce\u306e\u5b50 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78173,
+      "name": "\u590f\u7a7a\u306e\u5c11\u5e74\u305f\u3061",
+      "url": "https://open.spotify.com/track/2g6rdOv5sWFmTe8NR7Cf8W"
+    },
+    {
+      "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
       },
@@ -3226,7 +3244,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157466,
-      "name": "\u590f\u7a7a~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30fb\u30c6\u30fc\u30de~",
+      "name": "\u590f\u7a7a\uff5e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30c6\u30fc\u30de\uff5e",
       "url": "https://open.spotify.com/track/50kc2WQjhsItSRs822Hrds"
     },
     {
@@ -3244,26 +3262,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177466,
-      "name": "\u590f\u7a7a~\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de~",
+      "name": "\u590f\u7a7a\uff5e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\uff5e",
       "url": "https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC"
-    },
-    {
-      "album": {
-        "name": "\u30d0\u30b1\u30e2\u30ce\u306e\u5b50 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 78173,
-      "name": "\u590f\u7a7a\u306e\u5c11\u5e74\u305f\u3061",
-      "url": "https://open.spotify.com/track/2g6rdOv5sWFmTe8NR7Cf8W"
     },
     {
       "album": {

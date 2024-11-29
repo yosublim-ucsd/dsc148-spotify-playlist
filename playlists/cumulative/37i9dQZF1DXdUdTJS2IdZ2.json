@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: RENE",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Benjamin Kheng",
   "name": "Rising 65",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 174293,
       "name": "3 new words",
       "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
+    },
+    {
+      "album": {
+        "name": "30,000",
+        "url": "https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg"
+      },
+      "artists": [
+        {
+          "name": "J.M3",
+          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "30,000",
+      "url": "https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD"
     },
     {
       "album": {
@@ -193,6 +211,24 @@
     },
     {
       "album": {
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/0ghjtCHD4zRz0XkIVp2KQn"
+      },
+      "artists": [
+        {
+          "name": "Midnight Blu",
+          "url": "https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292901,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5q1usJ8JdXbmuojeXEUm0t"
+    },
+    {
+      "album": {
         "name": "All You Really Need (Is Love)",
         "url": "https://open.spotify.com/album/0jTFFMgI7O1Mf9qZW87ON8"
       },
@@ -208,6 +244,24 @@
       "duration_ms": 194072,
       "name": "All You Really Need (Is Love)",
       "url": "https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG"
+    },
+    {
+      "album": {
+        "name": "we've been here before",
+        "url": "https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181161,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/4QvmIquwQxoFtQ2PUQf5LD"
     },
     {
       "album": {
@@ -312,7 +366,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 166937,
       "name": "b.o.m.b.",
       "url": "https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS"
@@ -508,7 +562,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 116378,
       "name": "Billy",
       "url": "https://open.spotify.com/track/3JccbZXpsiZMyOdM36LHPG"
@@ -1825,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/4RjU4wmjGjHByhjy2w9v0d"
+      },
+      "artists": [
+        {
+          "name": "Aden Tan",
+          "url": "https://open.spotify.com/artist/13Qt9Ipyg2IPxJiw1B7Pul"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/5L3FWzwAtike9JjdkYDXvk"
+    },
+    {
+      "album": {
         "name": "For Y0u.",
         "url": "https://open.spotify.com/album/0hFGlu1TCbz38jyDy39QHq"
       },
@@ -2000,6 +2072,28 @@
       "duration_ms": 195398,
       "name": "Get Loose",
       "url": "https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/4kOEOvS3GI3by0V2f04NNw"
+      },
+      "artists": [
+        {
+          "name": "Calista Liaw",
+          "url": "https://open.spotify.com/artist/5pHNhL7wLSKVAkZzu2VSfI"
+        },
+        {
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/75pwLp6ykAwnLJbIajnwUL"
     },
     {
       "album": {
@@ -2876,7 +2970,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 184011,
       "name": "Invisibility",
       "url": "https://open.spotify.com/track/10rY8IQSJWorxlBNGnwbNj"
@@ -3084,6 +3178,28 @@
       "duration_ms": 204736,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2lyrawvIEYYUi5L8VL0h7L"
+    },
+    {
+      "album": {
+        "name": "JULY",
+        "url": "https://open.spotify.com/album/0PreKqZkQlgYvy2JTEL8bw"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "JULY",
+      "url": "https://open.spotify.com/track/2J7iSLEVbmmsmayjrxRGPA"
     },
     {
       "album": {
@@ -3607,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "we've been here before",
+        "url": "https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "midnight train",
+      "url": "https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF"
+    },
+    {
+      "album": {
         "name": "Mindset",
         "url": "https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR"
       },
@@ -3728,7 +3862,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 206293,
       "name": "My Own Imagination",
       "url": "https://open.spotify.com/track/1q7Bp1uZyTxHKxH4X63rgB"
@@ -3750,6 +3884,28 @@
       "duration_ms": 175254,
       "name": "My Rules",
       "url": "https://open.spotify.com/track/3fOLYqos0JQMT9fmhV7Q9o"
+    },
+    {
+      "album": {
+        "name": "NALLA NERAM",
+        "url": "https://open.spotify.com/album/7By9idOwarI3zgYXmFufAX"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        },
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131584,
+      "name": "NALLA NERAM",
+      "url": "https://open.spotify.com/track/6o8mPixAr64RBux4hLhKFz"
     },
     {
       "album": {
@@ -4463,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "REALLY IN LOVE",
+        "url": "https://open.spotify.com/album/6eiPfrJaRXoMbibCcTjvn6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "REALLY IN LOVE",
+      "url": "https://open.spotify.com/track/6fDUYcXYVToRP5aMA6tDGm"
+    },
+    {
+      "album": {
         "name": "red petals",
         "url": "https://open.spotify.com/album/4nAIiZLRZbuZpSehphEvdA"
       },
@@ -4972,7 +5146,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 223946,
       "name": "Singai Naadu",
       "url": "https://open.spotify.com/track/2Lf3iIGGj6iPYNEHdou9Cv"
@@ -5110,7 +5284,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 180652,
       "name": "Soniye",
       "url": "https://open.spotify.com/track/6dIMtheZjj6sKtdw4RBRHj"
@@ -5390,7 +5564,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196778,
       "name": "Take Two Steps",
       "url": "https://open.spotify.com/track/1g0lJOSP2aDJBc9pDNCgs1"
@@ -5546,7 +5720,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 240079,
       "name": "The End.",
       "url": "https://open.spotify.com/track/3Lm6KDL0JjQNwGW7a621L6"
@@ -5652,7 +5826,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 123957,
       "name": "Thee - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/58ZCxYMfAZol17hKcyNk9G"
@@ -5696,6 +5870,24 @@
       "duration_ms": 149370,
       "name": "THESE DAYS",
       "url": "https://open.spotify.com/track/4UZDfcMIBSbdSg6jQ1UcXN"
+    },
+    {
+      "album": {
+        "name": "Through These Years",
+        "url": "https://open.spotify.com/album/3VJmFQsVtcZGa4j57RJkxh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Bunac",
+          "url": "https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Through These Years",
+      "url": "https://open.spotify.com/track/3Ew2rqmwleZjyU14fOeV1W"
     },
     {
       "album": {
@@ -5862,7 +6054,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 275580,
       "name": "Transportation Blues",
       "url": "https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG"

@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
+    },
+    {
+      "album": {
         "name": "Yo Mir\u00e9 Un Sombrero",
         "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
       },

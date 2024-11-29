@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 173749,
+  "num_followers": 173753,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0O+AAAAAABtxgeIul+DOnpgQkMHlyy2",
+  "snapshot_id": "Z0ZhAAAAAAD9zvA/SffEt6uIow0m9V9H",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Coffee Shop Soundtrack - ATL's Version",
-      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 159066,
       "name": "The Sound of Letting Go",
       "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Coffee Shop Soundtrack - ATL's Version",
+      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 195754,
-      "name": "Poppin' Champagne - ATL's Version",
-      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 155562,
       "name": "Tell Me I\u2019m Alive",
       "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 195754,
+      "name": "Poppin' Champagne - ATL's Version",
+      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 222290,
-      "name": "Jasey Rae - ATL's Version",
-      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 216546,
       "name": "Six Feet Under The Stars",
       "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 222290,
+      "name": "Jasey Rae - ATL's Version",
+      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 174895,
-      "name": "Melancholy Kaleidoscope",
-      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
+      "duration_ms": 182450,
+      "name": "Pretty Venom (Interlude)",
+      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 182450,
-      "name": "Pretty Venom (Interlude)",
-      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
+      "duration_ms": 174895,
+      "name": "Melancholy Kaleidoscope",
+      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
+  "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "album": {
         "name": "Cherry Pie",
         "url": "https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1"
       },
@@ -602,6 +620,24 @@
       "duration_ms": 256799,
       "name": "Concubine",
       "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+    },
+    {
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
       "album": {
@@ -714,6 +750,28 @@
       "duration_ms": 194181,
       "name": "days months years",
       "url": "https://open.spotify.com/track/4BxLHGsWsfadV7FO0qIbgU"
+    },
+    {
+      "album": {
+        "name": "Daywrecker",
+        "url": "https://open.spotify.com/album/1pYleX1lJM1cuNpdDgOVc8"
+      },
+      "artists": [
+        {
+          "name": "Flaxxies",
+          "url": "https://open.spotify.com/artist/0doxeEtpqkHvGFyegeoGEo"
+        },
+        {
+          "name": "Tiki Taane",
+          "url": "https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243916,
+      "name": "Daywrecker",
+      "url": "https://open.spotify.com/track/0ammUTNNA7dAVrB8ijWoPD"
     },
     {
       "album": {
@@ -1801,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Just Don't Know",
+        "url": "https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc"
+      },
+      "artists": [
+        {
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187038,
+      "name": "Just Don't Know",
+      "url": "https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf"
+    },
+    {
+      "album": {
         "name": "Now Forever",
         "url": "https://open.spotify.com/album/0geaFx2oD4MQuy46l2akmu"
       },
@@ -2242,7 +2318,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 258191,
       "name": "Moneypenny",
       "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
@@ -2260,7 +2336,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 226041,
       "name": "more than a minute",
       "url": "https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY"
@@ -2872,7 +2948,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 215571,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
@@ -3071,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
@@ -3082,7 +3176,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
@@ -3158,7 +3252,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 178506,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD"
@@ -3516,7 +3610,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 213130,
       "name": "Try",
       "url": "https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN"
@@ -3670,6 +3764,24 @@
       "duration_ms": 214640,
       "name": "Want You Here",
       "url": "https://open.spotify.com/track/3VFR3r7wW9Fcc8Bqt7Zbpa"
+    },
+    {
+      "album": {
+        "name": "Water Baby",
+        "url": "https://open.spotify.com/album/3F96Zeao6Yw4itgDXBt647"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Water Baby",
+      "url": "https://open.spotify.com/track/0CBeM3gMPXgSEwdA2m8mHZ"
     },
     {
       "album": {

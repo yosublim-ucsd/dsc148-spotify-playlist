@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Never Give Up On Me",
+      "url": "https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0"
+    },
+    {
+      "album": {
         "name": "King Of Hearts (Deluxe)",
         "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 173247,
+  "num_followers": 173308,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -1189,38 +1189,6 @@
       "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     },
     {
-      "added_at": "2022-02-21 20:35:59",
-      "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 389780,
-      "name": "Lanquidity",
-      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
-    },
-    {
-      "added_at": "2024-02-02 05:51:49",
-      "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Study Series 07: Autumnal Activities",
@@ -1245,20 +1213,36 @@
       "url": "https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2024-02-02 05:51:49",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Thistledown",
-      "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
+    },
+    {
+      "added_at": "2022-02-21 20:35:59",
+      "album": {
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 389780,
+      "name": "Lanquidity",
+      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1275,6 +1259,22 @@
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Thistledown",
+      "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1339,6 +1339,22 @@
       "duration_ms": 242308,
       "name": "New Dimensions In",
       "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Caermaen",
+      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1415,22 +1431,6 @@
       "duration_ms": 274333,
       "name": "The Last Astronaut - Andy Votel Mix",
       "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Caermaen",
-      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Im Hag",
-        "url": "https://open.spotify.com/album/7GbLgBz049xqbJhnyavn0Q"
+        "name": "Study Series 03: Welcome to Godalming",
+        "url": "https://open.spotify.com/album/292S7utwmyezeN8qvDTbef"
       },
       "artists": [
         {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
+          "name": "Mordant Music",
+          "url": "https://open.spotify.com/artist/5mWJpnVKBIz6DkAWC6ORKe"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Kilon",
-      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
+      "duration_ms": 252937,
+      "name": "Inn Ohm the Lake",
+      "url": "https://open.spotify.com/track/2GxRNTJIzqhzMwb5NTOoOR"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Study Series 03: Welcome to Godalming",
-        "url": "https://open.spotify.com/album/292S7utwmyezeN8qvDTbef"
+        "name": "Im Hag",
+        "url": "https://open.spotify.com/album/7GbLgBz049xqbJhnyavn0Q"
       },
       "artists": [
         {
-          "name": "Mordant Music",
-          "url": "https://open.spotify.com/artist/5mWJpnVKBIz6DkAWC6ORKe"
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
         }
       ],
-      "duration_ms": 252937,
-      "name": "Inn Ohm the Lake",
-      "url": "https://open.spotify.com/track/2GxRNTJIzqhzMwb5NTOoOR"
+      "duration_ms": 131733,
+      "name": "Kilon",
+      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Im Hag",
-        "url": "https://open.spotify.com/album/7GbLgBz049xqbJhnyavn0Q"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 186658,
-      "name": "A Travel Agent's Dream",
-      "url": "https://open.spotify.com/track/5a7TKRBOr7g5W4Up8LwaFe"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Spacemen Mystery of the Terror Triangle",
         "url": "https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 45853,
       "name": "Cosmic Awakening",
       "url": "https://open.spotify.com/track/4FCxi7c2lwcqG5qrznRv1t"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Outer Church",
+        "url": "https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP"
+      },
+      "artists": [
+        {
+          "name": "IX Tab",
+          "url": "https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "The Burned Wretch",
+      "url": "https://open.spotify.com/track/6AHp595UrB4D6oORflyENV"
     }
   ],
   "unique_name": "Hauntology",

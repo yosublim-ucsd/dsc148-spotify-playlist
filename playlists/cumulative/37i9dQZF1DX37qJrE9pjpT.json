@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Booty Hummer",
+        "url": "https://open.spotify.com/album/6X5SYBxLPtBaOx8N8qu9Xz"
+      },
+      "artists": [
+        {
+          "name": "Weusi",
+          "url": "https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Booty Hummer",
+      "url": "https://open.spotify.com/track/47U2je4BkDC340poDxTQV0"
+    },
+    {
+      "album": {
         "name": "Bosskazi",
         "url": "https://open.spotify.com/album/0J4tVQ4c7EwfUJ8AM9PFY5"
       },
@@ -1091,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Furaha",
+        "url": "https://open.spotify.com/album/4U06jK8aivkXgVesepycWx"
+      },
+      "artists": [
+        {
+          "name": "Sanja Kong",
+          "url": "https://open.spotify.com/artist/55q78Mg6CQqciS0WHDwaEs"
+        },
+        {
+          "name": "Belle 9",
+          "url": "https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154325,
+      "name": "Furaha",
+      "url": "https://open.spotify.com/track/5TFlAv6T1YlAhOgispd9ma"
+    },
+    {
+      "album": {
         "name": "Love Bite",
         "url": "https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj"
       },
@@ -1372,7 +1412,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 230999,
       "name": "Humu Tu",
       "url": "https://open.spotify.com/track/07IxaNGzQVnHTmstzzSiJn"
@@ -2066,7 +2106,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 230103,
       "name": "Mbwa mwitu",
       "url": "https://open.spotify.com/track/0whzBVScuvWruda4s07TSK"
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 244453,
       "name": "Mimi ni Nani?",
       "url": "https://open.spotify.com/track/4FqNPyR5C1481AykqNgVQP"
@@ -2898,6 +2938,28 @@
       "duration_ms": 344556,
       "name": "Not A Hero",
       "url": "https://open.spotify.com/track/4uJgZVZzFbBTByC5Nih34o"
+    },
+    {
+      "album": {
+        "name": "Not Like You",
+        "url": "https://open.spotify.com/album/6bfT8sZK26PrhjI8Po586C"
+      },
+      "artists": [
+        {
+          "name": "Berton",
+          "url": "https://open.spotify.com/artist/6JpaQTRZaZiFHrkfPzq2hm"
+        },
+        {
+          "name": "KT",
+          "url": "https://open.spotify.com/artist/6gwefFYvJQoBXZ6GsBYhwp"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Not Like You",
+      "url": "https://open.spotify.com/track/0Lvh1jMXPCDfMQ1CjkGIlN"
     },
     {
       "album": {
@@ -4202,7 +4264,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 170898,
       "name": "TOT",
       "url": "https://open.spotify.com/track/6jKGuJdZBe6nBwA6xQP8s2"
@@ -4418,6 +4480,28 @@
       "duration_ms": 199110,
       "name": "Vunja Mifupa",
       "url": "https://open.spotify.com/track/7K8mLEAd81VYqre1tcIblb"
+    },
+    {
+      "album": {
+        "name": "Wakaroge Tena",
+        "url": "https://open.spotify.com/album/7INXNfjeOKZyM2m5UspeJn"
+      },
+      "artists": [
+        {
+          "name": "Suma Mnazaleti",
+          "url": "https://open.spotify.com/artist/6Sl6OqPFz3KsevvP0mdh1U"
+        },
+        {
+          "name": "Cippy",
+          "url": "https://open.spotify.com/artist/7xJuYlHa6wXRLy0hI7cgyq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193475,
+      "name": "Wakaroge Tena",
+      "url": "https://open.spotify.com/track/7zOryx4s2eg2lXzRPItDHi"
     },
     {
       "album": {

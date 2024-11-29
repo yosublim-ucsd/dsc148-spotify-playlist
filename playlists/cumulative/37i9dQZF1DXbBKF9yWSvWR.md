@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Sarah Julia
 
-199 songs - 11 hr 34 min
+200 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-24 | 2024-07-12 |
 | [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 | 2024-08-30 | 2024-11-07 |
 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 | 2024-10-03 |  |
+| [BRING ME BACK](https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [MY ALBUM RELEASES FEB 14TH!!](https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr) | 3:44 | 2024-11-28 |  |
 | [Broken Bottles](https://open.spotify.com/track/2ankNd24u6zEyE0EhN32cS) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Broken Bottles](https://open.spotify.com/album/5mWU14MdyONaYi7wW8nGQe) | 3:35 | 2024-11-14 |  |
 | [Busy Doing Nothing](https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Busy Doing Nothing](https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS) | 3:08 | 2024-07-11 | 2024-09-14 |
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-08 |  |
@@ -117,7 +118,7 @@
 | [Lover To Stranger](https://open.spotify.com/track/1WmU3Ub6nCef9OSRjeZONV) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Lover To Stranger](https://open.spotify.com/album/5NrtDGCWjsQpWYIZdpktog) | 3:39 | 2024-06-24 | 2024-07-12 |
 | [Make You Mine](https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Make You Mine](https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi) | 3:44 | 2024-11-22 |  |
 | [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 | 2024-11-14 |  |
-| [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-01 |  |
+| [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-01 | 2024-11-29 |
 | [Mendeleev](https://open.spotify.com/track/69IxxGIdluxAbPNVFSzo2v) | [Arsenal](https://open.spotify.com/artist/6dZdcowBonykRqLdlfb7qR) | [Mendeleev](https://open.spotify.com/album/5cP4oqBDAjA28ouF7akCbe) | 3:55 | 2024-11-22 |  |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2024-11-27 |  |
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-07-09 | 2024-10-24 |

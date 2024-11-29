@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-321 songs - 18 hr 33 min
+322 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 | 2022-11-18 | 2023-05-06 |
 | [Best I Can Do \- Alternative version](https://open.spotify.com/track/3SRzNd2pvcRrQgO1a7cZ82) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [How To Belong](https://open.spotify.com/album/0ujaVLfsY5PPAznqSG8QD7) | 3:47 | 2022-04-08 | 2022-08-27 |
 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 | 2022-04-08 | 2024-01-26 |
-| [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 | 2024-01-19 |  |
+| [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 | 2024-01-19 | 2024-11-29 |
 | [Blood Moon](https://open.spotify.com/track/4CEHrmFFbvlf0CFAWm2W7Z) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Blood Moon](https://open.spotify.com/album/14ZX1sy4hoqCsiMSL2cd0T) | 2:36 | 2022-04-08 | 2022-07-02 |
 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-19 | 2024-10-07 |
 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-10-06 | 2024-06-08 |
@@ -320,6 +320,7 @@
 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-07-01 | 2023-01-14 |
 | [Wild Garlic](https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Wild Garlic](https://open.spotify.com/album/0nFTaga9Qx7IWDuVT5WSfS) | 4:08 | 2023-05-19 | 2024-06-08 |
 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 | 2023-08-11 |  |
+| [Winter Shiver](https://open.spotify.com/track/1lUxKDtJlZVWNnTuG4vhBu) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Winter Shiver](https://open.spotify.com/album/7FU3zW3O7NMQ2NfJ3eBoGg) | 2:16 | 2024-11-28 |  |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-10-06 | 2024-03-24 |
 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 | 2024-01-19 |  |
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-10-06 |  |

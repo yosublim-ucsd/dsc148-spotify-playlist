@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Good Luck Everybody",
+        "url": "https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6"
+      },
+      "artists": [
+        {
+          "name": "AJJ",
+          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Normalization Blues",
+      "url": "https://open.spotify.com/track/73UkvR1L7OGsslFutaBvjp"
+    },
+    {
+      "album": {
         "name": "We're Not So Different",
         "url": "https://open.spotify.com/album/7HzNAPDOT70DUBT2nL2n9K"
       },
@@ -878,6 +896,24 @@
       "duration_ms": 172600,
       "name": "Your Flag Decal Won't Get You into Heaven Anymore",
       "url": "https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV"
+    },
+    {
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "Your Racist Friend",
+      "url": "https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5"
     },
     {
       "album": {

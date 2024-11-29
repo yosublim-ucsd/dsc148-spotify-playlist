@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 方皓玟
+> 感受超級女聲力量。Cover: Cloud雲浩影
 
-419 songs - 1 day 1 hr 3 min
+424 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [13歲的天堂](https://open.spotify.com/track/5LcIqdmlb3K7Ae1P4vG7SP) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [13歲的天堂](https://open.spotify.com/album/7HFUcLKSmLAp7ack1JRlqX) | 4:07 | 2024-06-27 |  |
 | [18部半](https://open.spotify.com/track/4goaMr1lJ3h7O9VxUHUcQK) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [18部半](https://open.spotify.com/album/4mhzfALTzIkDzYBgwtK0DN) | 3:01 | 2024-06-27 |  |
 | [a little bit closer](https://open.spotify.com/track/62zNBiQDxfnSr6lDxJaF97) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [a little bit closer](https://open.spotify.com/album/7xC1krRZsKfnbNqvfXRuF9) | 2:45 | 2024-06-27 |  |
+| [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 | 2024-11-28 |  |
 | [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-07 |  |
 | [Amazing Grace](https://open.spotify.com/track/5cofkYnlrYaXesdVpP6xeP) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Amazing Grace](https://open.spotify.com/album/74VNV5wkmqHDq3xuNLKryH) | 4:58 | 2024-06-27 |  |
 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 | 2024-06-27 |  |
@@ -26,6 +27,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:50 | 2024-06-27 |  |
 | [Be with you](https://open.spotify.com/track/3oLmvdygvx8PCbbqUCt7Sl) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Be with you](https://open.spotify.com/album/4bC8Xd8IHkUfFkDf2jIbDQ) | 3:02 | 2024-08-08 |  |
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
+| [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 | 2024-11-28 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
 | [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 |  |
 | [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 |  |
@@ -98,6 +100,7 @@
 | [Make my day](https://open.spotify.com/track/6rtVaAz5fMtcTAhwmi6tl5) | [Liza Wang](https://open.spotify.com/artist/1ev4Cp6tdX1PImrinbyLIl) | [Make my day](https://open.spotify.com/album/3UOL7IIB14UFldtK57R7nN) | 3:00 | 2024-09-12 |  |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2024-06-27 |  |
 | [Maybe I Have Something Just Like You?](https://open.spotify.com/track/0bSDdr8gb2MblYtr4JLPfV) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Maybe I Have Something Just Like You?](https://open.spotify.com/album/6e5cIPCAS7ndpUQxdRUIj1) | 4:00 | 2024-09-12 |  |
+| [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/track/0ZNyZayHjjdCTTFyALO1bq) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr), [Feanna](https://open.spotify.com/artist/7k8Jwpn9sFpoeXPfREHyEQ), [Vian](https://open.spotify.com/artist/21ZbmYq4ITXRGOjxAli44V) | [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/album/4kDdngWlZ6xqqWKNlC4ehY) | 2:37 | 2024-11-28 |  |
 | [Midnight Serenade](https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Midnight Serenade](https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj) | 2:56 | 2024-06-27 |  |
 | [Miss u Goodbye](https://open.spotify.com/track/02VC6JaIcpaAxQceTxuTn3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Miss u Goodbye](https://open.spotify.com/album/3e7hBrnnwqIposqklVsKCk) | 5:18 | 2024-06-27 |  |
 | [Morning Call](https://open.spotify.com/track/4JeJg0MDrvpQSQQBwC2y8W) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Morning Call](https://open.spotify.com/album/4ZiGvTsGK6xViEbf7EMYI8) | 3:03 | 2024-10-10 |  |
@@ -151,6 +154,7 @@
 | [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 | 2024-08-29 |  |
 | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
+| [一圈](https://open.spotify.com/track/24WSKHUGL4Doq6Txbdo1fD) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一圈](https://open.spotify.com/album/6ZA5Q3c1CoYnJbhAj5C0l3) | 3:48 | 2024-11-28 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2024-06-27 |  |
 | [一直留在心底的事](https://open.spotify.com/track/51xGwzEhYUiuhJnigThWs4) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一直留在心底的事](https://open.spotify.com/album/25IsRgCumMs7Ch9KOpkMzb) | 3:51 | 2024-08-08 |  |
@@ -168,6 +172,7 @@
 | [不羈](https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX), [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [不羈](https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH) | 3:08 | 2024-06-27 |  |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2024-06-27 |  |
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 |  |
+| [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:22 | 2024-11-28 |  |
 | [九千九百九十九個我](https://open.spotify.com/track/5IDSQYCmhVAlwmynAs8Xtc) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [九千九百九十九個我](https://open.spotify.com/album/0Rxb2n9pLdDgCyEqMAadsO) | 3:29 | 2024-06-27 |  |
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
 | [五瓣玫瑰](https://open.spotify.com/track/3DyvkGveb7MCJgwlUo1VH7) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [五瓣玫瑰](https://open.spotify.com/album/0HfLp4LA5G3QAbrb8JLr8p) | 3:31 | 2024-07-11 |  |

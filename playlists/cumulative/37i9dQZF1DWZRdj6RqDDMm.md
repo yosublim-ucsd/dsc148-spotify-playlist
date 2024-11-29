@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze
 
-390 songs - 22 hr 19 min
+392 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Glory](https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Glory](https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz) | 3:12 | 2023-11-03 | 2024-01-12 |
 | [Glory Days! \- Special Version](https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory Days! \(Special Version\)](https://open.spotify.com/album/3bAUV7ihfuNxmoiTayLGpj) | 2:45 | 2024-10-11 | 2024-11-08 |
 | [God abeg](https://open.spotify.com/track/5diDmQkEpe6wbTGDSRh7yW) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Lucid Notes Vol\. I](https://open.spotify.com/album/0Ikgis3xcM49NfpohlUfoY) | 3:34 | 2024-03-29 | 2024-05-03 |
+| [God Is Love](https://open.spotify.com/track/3a6tYOJbKV3a7gY79M8ZJU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Alafia.](https://open.spotify.com/album/3sNR85MyaE3enZGsWh0ZXk) | 2:46 | 2024-11-29 |  |
 | [God Is with Us](https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [God Is with Us](https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab) | 4:28 | 2024-07-12 | 2024-09-06 |
 | [GODFIDENCE](https://open.spotify.com/track/0GuUunRa2XDOqCyR2l6DY2) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [GODFIDENCE](https://open.spotify.com/album/6VfuzPZmOss5rXDK8hfY76) | 2:50 | 2024-03-29 | 2024-05-03 |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-10-20 | 2024-01-26 |
@@ -279,6 +280,7 @@
 | [Pillar](https://open.spotify.com/track/5odjPxvmThtKws5v0lLnCi) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Pillar](https://open.spotify.com/album/6sUlyjObnWxGJrlKBSGo7A) | 3:21 | 2024-06-14 | 2024-08-09 |
 | [Play](https://open.spotify.com/track/2DgWCbFj8aqPxJ7UdEoa0o) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Play](https://open.spotify.com/album/3xljurwYixcnwp5Z55mSYl) | 2:55 | 2024-03-01 | 2024-04-06 |
 | [Pour Me](https://open.spotify.com/track/0zEkKDvd4LvaKIvbl7r2qg) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi), [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Pour Me](https://open.spotify.com/album/69Ez4lhB1Dw2uEsuhB6KRz) | 3:18 | 2024-01-26 | 2024-03-29 |
+| [pray without ceasing](https://open.spotify.com/track/7i0DHDEZxmdCS6JI5p98Qq) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [pray without ceasing](https://open.spotify.com/album/5i37npx0suRHcJrftw1Gvb) | 1:50 | 2024-11-29 |  |
 | [Presence](https://open.spotify.com/track/0ULwLEbWqro2QlAFzncfrU) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Presence](https://open.spotify.com/album/1B3yBAjGY3PKJCaQ6eQDAe) | 2:45 | 2024-10-18 |  |
 | [Promises](https://open.spotify.com/track/6Toiq8ZjdvUlFR6I9Pz0Qw) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Promises](https://open.spotify.com/album/4pwdNzKJM9PZXjyEisUMzE) | 3:17 | 2023-12-22 | 2024-04-06 |
 | [Provider](https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Provider](https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747) | 3:28 | 2023-12-08 | 2024-02-17 |

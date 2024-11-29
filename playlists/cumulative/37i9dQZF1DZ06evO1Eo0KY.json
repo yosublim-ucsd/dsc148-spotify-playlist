@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 183848,
       "name": "Dying",
       "url": "https://open.spotify.com/track/4W9PYIaKHOofGDiMw8ltTS"
@@ -856,6 +856,28 @@
       "duration_ms": 57838,
       "name": "From Here to Quebec",
       "url": "https://open.spotify.com/track/7JDHKwPwWTVvNAU2K5v5vO"
+    },
+    {
+      "album": {
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+      },
+      "artists": [
+        {
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68193,
+      "name": "GREAT APE",
+      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
     },
     {
       "album": {

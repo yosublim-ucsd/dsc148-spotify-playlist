@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Lizzy Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,815 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,822 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 32 | [¿Quién es Ese? \(Nuevos Horizontes\) \- Israel](https://open.spotify.com/track/0AtI1lQi434Oosoyh2HB7a) | [Los Voceros de Cristo](https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu) | [¿Quién es Ese? \(Nuevos Horizontes\) \[Israel\]](https://open.spotify.com/album/6WXn3wXEfcge6CAxEqJi4G) | 4:22 |
 | 33 | [Acostumbrándome](https://open.spotify.com/track/5jcPyB4EBW37EeoDaqzDDx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Acostumbrándome](https://open.spotify.com/album/5wqGMNYuPCxOLenWxYMdyq) | 3:22 |
 | 34 | [Mi Medicina \- Version Acústica](https://open.spotify.com/track/37EbwEhNgHk3f7H4zHz0nW) | [Joaquin Chavez](https://open.spotify.com/artist/3A1OETKWreRmL7Sonxr7nC), [Via Cantus](https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0) | [Mi Medicina \(Version Acústica\)](https://open.spotify.com/album/0fe75X7WDN0yhGwkhQNh3U) | 2:42 |
-| 35 | [Worthy \(feat\. Yandel\)](https://open.spotify.com/track/2X9pPhUKzlmThqWiWp6a4L) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Worthy \(feat\. Yandel\)](https://open.spotify.com/album/60A7ZBZ41jcHBa6MAtL0md) | 2:58 |
+| 35 | [Worthy](https://open.spotify.com/track/2X9pPhUKzlmThqWiWp6a4L) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Worthy](https://open.spotify.com/album/60A7ZBZ41jcHBa6MAtL0md) | 2:58 |
 | 36 | [VUELO](https://open.spotify.com/track/4dqmHKaA7n7NHT8C8Au6TZ) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [VUELO](https://open.spotify.com/album/0UHt4GVCYQNXLwNJiUTnBF) | 3:00 |
 | 37 | [Él Es Jesús](https://open.spotify.com/track/1YxrQ5wKheADRhEdCYLBh2) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY), [Kary Montano](https://open.spotify.com/artist/5aRBDj7rpgmOT1tLNBYseC) | [Él Es Jesús](https://open.spotify.com/album/5Yj6cvz82RWUXjVd3uqsbA) | 4:15 |
 | 38 | [Puestos Los Ojos En Jesús](https://open.spotify.com/track/3Ak7ZvSaY4aQDPcXzfcLnY) | [Dagoberto "El Negrito" Osorio](https://open.spotify.com/artist/3UYeefvDfMgNGctCJT88Xz) | [Puestos Los Ojos En Jesús](https://open.spotify.com/album/6SkhA0yn6YlFGcj0y82OV2) | 5:19 |

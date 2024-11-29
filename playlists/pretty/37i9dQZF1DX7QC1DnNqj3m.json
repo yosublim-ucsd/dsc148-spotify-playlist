@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 529881,
+  "num_followers": 529871,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -800,7 +800,7 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "emil",
+          "name": "EMIL",
           "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
         }
       ],
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-11-24 00:00:00",
       "album": {
+        "name": "Heaux Tales, Mo' Tales: The Deluxe",
+        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Hurt Me So Good",
+      "url": "https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ"
+    },
+    {
+      "added_at": "2024-11-24 00:00:00",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2024-11-24 00:00:00",
-      "album": {
-        "name": "Heaux Tales, Mo' Tales: The Deluxe",
-        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Hurt Me So Good",
-      "url": "https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ"
     },
     {
       "added_at": "2024-11-24 00:00:00",
@@ -1152,7 +1152,7 @@
           "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         },
         {
-          "name": "emil",
+          "name": "EMIL",
           "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
         },
         {
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-24 00:00:00",
       "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2024-11-24 00:00:00",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "added_at": "2024-11-24 00:00:00",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2024-11-24 00:00:00",

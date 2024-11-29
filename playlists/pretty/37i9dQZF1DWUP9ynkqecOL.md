@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,443 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,450 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 33 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 |
 | 34 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
 | 35 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 |
-| 36 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
-| 37 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
+| 36 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
+| 37 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
 | 38 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
 | 39 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
 | 40 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 42 | [Cañaveral](https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cañaveral](https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB) | 2:58 |
 | 43 | [Huayno and Pacha Mama](https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29) | [Oscar Irustia](https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt) | [Patagonia Nature](https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt) | 3:02 |
 | 44 | [Muchas Estrellas](https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Muchas Estrellas](https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9) | 4:31 |
-| 45 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
+| 45 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
 | 46 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
 | 47 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |
-| 48 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
+| 48 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
 | 49 | [Gurisito Cosmico](https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:12 |
 | 50 | [Dada](https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4), [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Dada](https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT) | 3:37 |
 | 51 | [Templo Andino](https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR) | [Orgänica Elemental](https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD) | [Templo Andino](https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym) | 5:58 |

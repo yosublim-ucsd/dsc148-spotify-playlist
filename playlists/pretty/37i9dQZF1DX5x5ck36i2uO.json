@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 5400,
+  "num_followers": 5406,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,22 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Where It All Started Remix",
-        "url": "https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "2xxx",
+          "url": "https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU"
         },
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
         }
       ],
-      "duration_ms": 223415,
-      "name": "Where It All Started Remix (Feat. Verbal Jint, Beenzino)",
-      "url": "https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp"
+      "duration_ms": 180972,
+      "name": "Girl, Interrupted",
+      "url": "https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -299,22 +295,26 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3"
+        "name": "Where It All Started Remix",
+        "url": "https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2"
       },
       "artists": [
         {
-          "name": "2xxx",
-          "url": "https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 180972,
-      "name": "Girl, Interrupted",
-      "url": "https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk"
+      "duration_ms": 223415,
+      "name": "Where It All Started Remix (Feat. Verbal Jint, Beenzino)",
+      "url": "https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 233458,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "Party Forever",
         "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202083,
       "name": "Party Forever",
       "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 233458,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
     },
     {
       "added_at": "2024-10-10 09:26:02",

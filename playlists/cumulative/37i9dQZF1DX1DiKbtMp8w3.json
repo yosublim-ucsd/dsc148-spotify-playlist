@@ -4173,24 +4173,6 @@
     },
     {
       "album": {
-        "name": "\ub2e4\uc74c\uc5d0 \uc798\ud558\uc790 Let\u2019s Do Better Next Time",
-        "url": "https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1"
-      },
-      "artists": [
-        {
-          "name": "CRYING NUT",
-          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
-        }
-      ],
-      "date_added": "2022-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175728,
-      "name": "\u1103\u1161\u110b\u1173\u11b7\u110b\u1166 \u110c\u1161\u11af\u1112\u1161\u110c\u1161 Let\u2019s Do Better Next Time",
-      "url": "https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd"
-    },
-    {
-      "album": {
         "name": "\ud558\uc218\uc5f0\uac00 Poor Hand Love Song",
         "url": "https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M"
       },
@@ -4386,6 +4368,24 @@
       "duration_ms": 259866,
       "name": "\ub09c \uc5b4\ub514\ub85c Where Am I Going",
       "url": "https://open.spotify.com/track/48olrtFEJvEXMrUu9b1XHI"
+    },
+    {
+      "album": {
+        "name": "\ub2e4\uc74c\uc5d0 \uc798\ud558\uc790 Let\u2019s Do Better Next Time",
+        "url": "https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1"
+      },
+      "artists": [
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175728,
+      "name": "\ub2e4\uc74c\uc5d0 \uc798\ud558\uc790 Let\u2019s Do Better Next Time",
+      "url": "https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd"
     },
     {
       "album": {

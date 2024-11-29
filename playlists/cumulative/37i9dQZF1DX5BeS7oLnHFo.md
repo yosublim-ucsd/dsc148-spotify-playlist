@@ -2,7 +2,7 @@
 
 ### [راب الخليج](https://open.spotify.com/playlist/37i9dQZF1DX5BeS7oLnHFo)
 
-> Djmubarak: حزييين الوقت في غيااابك، حلوة دنيتك فيني\. الغلاف
+> Kali\-B: قلي قلي كييييييف\. الغلاف
 
 48 songs - 2 hr 19 min
 

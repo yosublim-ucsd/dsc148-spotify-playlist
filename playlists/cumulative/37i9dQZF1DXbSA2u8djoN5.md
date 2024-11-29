@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-99 songs - 4 hr 40 min
+100 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Confidence](https://open.spotify.com/track/0ryh9jR932Kf6PSF5bHDQn) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk), [Phunk B](https://open.spotify.com/artist/2uY1K2tEdWUdDiK6tzBwwo) | [Confidence](https://open.spotify.com/album/58PniXMLmDG3qFusL2LMIl) | 3:54 | 2024-11-14 | 2024-11-22 |
 | [CONTACT FATAL \- Enchou Remix](https://open.spotify.com/track/6LjoS951OHpoJQmCUMtxCw) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Enchou](https://open.spotify.com/artist/1M7yv1V7YR9HFwgvCJhhUW) | [CONTACT FATAL \(Enchou Remix\)](https://open.spotify.com/album/1mqDjVA7jJr8xdf0vEtwCW) | 2:41 | 2024-10-31 | 2024-11-08 |
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
+| [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 |  |
 | [Călătorie la capătul nopții](https://open.spotify.com/track/6gPzJBlXHZ6iVDccBWoCPB) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [DOC](https://open.spotify.com/artist/29yuPsAM84rlPk1IUWu3UP) | [Călătorie la capătul nopții](https://open.spotify.com/album/6ZvTBbHpPiA8pf7I7dylLm) | 2:52 | 2024-09-19 |  |
 | [Dela Dela](https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Dela Dela](https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz) | 2:47 | 2024-06-27 | 2024-10-11 |
 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 | 2024-07-04 |  |
@@ -70,7 +71,7 @@
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 |  |
 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 | 2024-11-21 |  |
 | [Ninja \- From "Transilvanian Ninja"](https://open.spotify.com/track/4P0aDGyPXqMKwgWojPypFu) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Ninja \(From "Transilvanian Ninja"\)](https://open.spotify.com/album/5PHg8MUoEgBaweoW6mLWI4) | 3:14 | 2024-10-31 | 2024-11-27 |
-| [Oameni putini](https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Oameni putini](https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY) | 3:06 | 2024-10-03 |  |
+| [Oameni putini](https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Oameni putini](https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY) | 3:06 | 2024-10-03 | 2024-11-29 |
 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 | 2024-06-27 |  |
 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 | 2024-06-27 |  |
 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 | 2024-06-27 |  |

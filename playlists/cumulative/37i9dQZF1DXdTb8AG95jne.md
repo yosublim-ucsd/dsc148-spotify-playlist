@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Damonsyear\(데이먼스 이어\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stones\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-820 songs - 2 day 1 hr 58 min
+822 songs - 2 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Enough](https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [silence](https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq) | 4:38 | 2021-12-12 | 2022-07-29 |
 | [Envy None](https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Levitation](https://open.spotify.com/album/0Ltp40tI7gWvTdYctwlvTB) | 3:34 | 2024-07-01 | 2024-07-16 |
 | [Epilogue \(feat.Meego\)](https://open.spotify.com/track/2JZStRToumDOLnGVD9uVq0) | [TAPEDECK](https://open.spotify.com/artist/4erEXjpCkVrmV1a2n1pjaC), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Epilogue \(feat\. Meego\)](https://open.spotify.com/album/1u8rkzn2L1TtnU8z1hUNtx) | 3:14 | 2022-03-31 | 2022-04-17 |
+| [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 |  |
 | [Escape!](https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:35 | 2022-05-11 | 2022-06-02 |
 | [Even days \(2021\)](https://open.spotify.com/track/1SnY6KbNW8va17sBnIQnkG) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Even days \(2021\)](https://open.spotify.com/album/369MzvVXsUmYVgoSjTZpJ1) | 4:06 | 2021-12-21 | 2022-04-16 |
 | [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2024-04-04 | 2024-11-07 |
@@ -351,7 +352,7 @@
 | [In Paris](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/1KZk8vBB8TreRNgIIyJ5lY) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-03-31 | 2022-04-14 |
 | [In Star](https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [In Star](https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF) | 4:00 | 2022-03-31 | 2022-04-20 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-12 | 2024-05-18 |
-| [In the Name of Love \- 2024 Version](https://open.spotify.com/track/5sp3iWKHpLGpQbhDbFPEqP) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Coloring 'In the Name of Love'](https://open.spotify.com/album/3c1eJ6tq1lJPn7JDos5Y3z) | 2:56 | 2024-10-27 |  |
+| [In the Name of Love \- 2024 Version](https://open.spotify.com/track/5sp3iWKHpLGpQbhDbFPEqP) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Coloring 'In the Name of Love'](https://open.spotify.com/album/3c1eJ6tq1lJPn7JDos5Y3z) | 2:56 | 2024-10-27 | 2024-11-29 |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-04-30 | 2024-05-10 |
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-05-10 |
 | [In Your Pain](https://open.spotify.com/track/5VsXFItumpsGvFrfuG4Ttu) | [Bluelk](https://open.spotify.com/artist/2kWhEhyhj4KhlSEmgKuKdL) | [In Your Pain](https://open.spotify.com/album/11t8psEq4vMzNhK17b9w9G) | 3:53 | 2024-04-30 | 2024-05-10 |
@@ -605,7 +606,7 @@
 | [Sitting on a chair](https://open.spotify.com/track/2WCTjz29wiRtxAprTetQx4) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sitting on a chair](https://open.spotify.com/album/2rwrsaxb4wXANnbgnBNZgl) | 3:41 | 2024-05-08 | 2024-05-10 |
 | [Skate Girl](https://open.spotify.com/track/1ie8aZcGw9YozNv4PBSkiM) | [Charari Danchu](https://open.spotify.com/artist/7pdcbWfteo7RlRRE26KbDB) | [Skate Girl](https://open.spotify.com/album/49xelmp433pcjvXkLvX0GM) | 2:46 | 2024-04-30 | 2024-05-10 |
 | [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 | 2023-04-05 |
-| [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 |  |
+| [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 | 2024-11-29 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 | 2024-06-07 |
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-03-31 | 2022-04-16 |
 | [Smile!](https://open.spotify.com/track/6Khapx3MSeJU3CAICxVeSv) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:35 | 2024-04-30 | 2024-05-10 |
@@ -749,6 +750,7 @@
 | [we'll we'll we'll](https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [OUR Ocean](https://open.spotify.com/album/2zWRj9NgN35Im7JHxG3tGR) | 2:38 | 2024-08-05 | 2024-08-11 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
+| [Westin Josun Hotel](https://open.spotify.com/track/24fSPOhwhY7QfJUtQAoQn3) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 2:52 | 2024-11-28 |  |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |
 | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/track/35LCy2za77nFY0kIXrSJsd) | [SOQI](https://open.spotify.com/artist/2zvEoTxRST15pPUcMVWw0K), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/album/6SoRYuB2wOtpPaqPTjKjCq) | 3:22 | 2024-02-07 | 2024-05-10 |
 | [What I want to say](https://open.spotify.com/track/5rYOrzOU6QD9YNVaj6QwXc) | [KwangHeum2](https://open.spotify.com/artist/7GGbVd8pHCXvacJDpnCp0m) | [What I want to say](https://open.spotify.com/album/41B5Kyknp4q8z8EuO9ruv1) | 4:41 | 2022-03-31 | 2022-04-16 |

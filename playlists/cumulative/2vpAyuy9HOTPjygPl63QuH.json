@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 168327,
       "name": "Bass Go Boom - Collier Remix",
       "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 155624,
       "name": "Benz",
       "url": "https://open.spotify.com/track/3CvknGic0uoaKO7v450Dxb"
@@ -6114,7 +6114,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 221339,
       "name": "COLLECT THE COMMAS",
       "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
@@ -6332,7 +6332,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 175384,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/5Ynhp6gFyyvv7559Sh0odz"
@@ -7182,7 +7182,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 210937,
       "name": "Dance Naked",
       "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
@@ -8143,6 +8143,24 @@
     },
     {
       "album": {
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5PQ0tQhflAro5jURvITAMU"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173380,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/5hYU7XWx6OJKMkzfRKtPlY"
+    },
+    {
+      "album": {
         "name": "Disco 2000",
         "url": "https://open.spotify.com/album/7BORydkMuk1YBPPdA0HNjc"
       },
@@ -8502,7 +8520,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212578,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt"
@@ -10597,6 +10615,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6iERMzAfrXRt7k9rADJ8Fe"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162942,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4ds8oPLqwd22awdhwfLD48"
+    },
+    {
+      "album": {
         "name": "Everyday Work",
         "url": "https://open.spotify.com/album/0nt9ODqTMRi7BbibjUFtSS"
       },
@@ -11123,6 +11159,24 @@
     },
     {
       "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI"
+    },
+    {
+      "album": {
         "name": "Family Affair",
         "url": "https://open.spotify.com/album/7C84kAIyx0oe2uSqJOHPpA"
       },
@@ -11404,6 +11458,32 @@
       "duration_ms": 168190,
       "name": "Feel It - GUZ Remix",
       "url": "https://open.spotify.com/track/39Oxhni4ULZjYNGQL2CFKr"
+    },
+    {
+      "album": {
+        "name": "Feel Much Better",
+        "url": "https://open.spotify.com/album/48EGqDWPVh0n2NPYuQhtvF"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "Feel Much Better",
+      "url": "https://open.spotify.com/track/6627Spowd3WLx581JUlrB9"
     },
     {
       "album": {
@@ -15283,6 +15363,28 @@
     },
     {
       "album": {
+        "name": "Hit the Brakes",
+        "url": "https://open.spotify.com/album/25V5D5A9JJJlCAquCMG5U5"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        },
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175454,
+      "name": "Hit the Brakes",
+      "url": "https://open.spotify.com/track/0p7EW6BKJJ9FgeNd5Vrb5I"
+    },
+    {
+      "album": {
         "name": "Hit The Dancefloor",
         "url": "https://open.spotify.com/album/0KRuehOfIzHzTRCZvBd6LZ"
       },
@@ -15896,7 +15998,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 390000,
       "name": "House Party",
       "url": "https://open.spotify.com/track/09WiBVowNXacBhTCtzoY5z"
@@ -16542,7 +16644,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 202972,
       "name": "I Like Dancing",
       "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
@@ -16666,7 +16768,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212838,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4cGpYgsy6OpDd57akWiag4"
@@ -20329,6 +20431,24 @@
     },
     {
       "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/2VOsVaWGzaaLBF1JkkMlbf"
+      },
+      "artists": [
+        {
+          "name": "Fredy Lane",
+          "url": "https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179463,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/6mFdwLOxe31S1XYqcwGauS"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/3DVr50mOqftA84ecEPDZR4"
       },
@@ -22468,7 +22588,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 189405,
       "name": "MERTHER",
       "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
@@ -25156,7 +25276,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 320000,
       "name": "OBSERVATION",
       "url": "https://open.spotify.com/track/4nvWOqsVHllseC80HwMLYn"
@@ -27702,7 +27822,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 166365,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7HZfT69Gza4V3d11U7j8e1"
@@ -29441,6 +29561,24 @@
     },
     {
       "album": {
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/2EIdKqkPzQk73SQaoJW6HI"
+      },
+      "artists": [
+        {
+          "name": "Silque",
+          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/7AWDGEEopoIK1vTBHrVxDg"
+    },
+    {
+      "album": {
         "name": "Rizzi",
         "url": "https://open.spotify.com/album/2wx4llnRMnTyuvogOKtDJQ"
       },
@@ -29580,6 +29718,28 @@
       "duration_ms": 178720,
       "name": "Rockin'",
       "url": "https://open.spotify.com/track/4Hh7h8a7S1Q0LjZFwn56lg"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/0Nu3frQlJLyJDGMqatvJFB"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "Pitros",
+          "url": "https://open.spotify.com/artist/1qoyJsbPjo0dpWnfSlRGLv"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9"
     },
     {
       "album": {
@@ -30252,7 +30412,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 378750,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3r6i3zJ5LhJH7KnIeOPZa1"
@@ -31648,7 +31808,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 161953,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5jdSp3QthmtzUmc0pJtlMB"
@@ -31928,7 +32088,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 179047,
       "name": "Snus - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
@@ -35735,6 +35895,24 @@
     },
     {
       "album": {
+        "name": "The Way I Like It EP",
+        "url": "https://open.spotify.com/album/5or9Wn5yIGMLW8waFsbKEM"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "The Way I Like It",
+      "url": "https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi"
+    },
+    {
+      "album": {
         "name": "The Way You Act",
         "url": "https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c"
       },
@@ -35768,6 +35946,24 @@
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "album": {
+        "name": "The Witcher",
+        "url": "https://open.spotify.com/album/47pSCLr2DSFsIHV5ufaDps"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155093,
+      "name": "The Witcher",
+      "url": "https://open.spotify.com/track/7grxsMvWtqGIYw5Xhx1dmi"
     },
     {
       "album": {
@@ -37164,6 +37360,24 @@
       "duration_ms": 173383,
       "name": "Turn it Up",
       "url": "https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/5fhCzMCYlF41gCQHr8P9fS"
+      },
+      "artists": [
+        {
+          "name": "joshE",
+          "url": "https://open.spotify.com/artist/2RCitwIeDk2TsOGSwPOR6S"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179818,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6LaeTjk3HnHA68SF8FKIAh"
     },
     {
       "album": {

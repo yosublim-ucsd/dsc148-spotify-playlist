@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe?si=F\-Y4\-qc5QiiG2aMKGJDs2g">Ugaboys</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,696 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,719 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

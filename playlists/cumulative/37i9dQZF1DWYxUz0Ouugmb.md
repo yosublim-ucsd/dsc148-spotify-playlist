@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Putu Maydea
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Gery Gany
 
-232 songs - 14 hr 57 min
+234 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 | 2022-06-17 |
 | [Dermaga](https://open.spotify.com/track/4XUPhifEaWlVLNyZGL5lwU) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Dermaga](https://open.spotify.com/album/6cUTntOl9VU10UUG08JZrd) | 2:54 | 2023-03-16 | 2023-04-14 |
+| [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 | 2024-11-28 |  |
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [Engkaulah Satu Satunya](https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Engkaulah Satu Satunya](https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg) | 5:49 | 2023-04-13 | 2024-03-29 |
 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 | 2022-03-24 | 2023-04-14 |
@@ -182,6 +183,7 @@
 | [Semesta Belum Terima](https://open.spotify.com/track/4UqXky0r8xGezVhRgOjWsn) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Semesta Belum Terima](https://open.spotify.com/album/6Qa3v84TPhJuUgDepvpVmK) | 4:36 | 2024-03-29 |  |
 | [Semoga Sembuh](https://open.spotify.com/track/4xEcTICXVeJMelJJya2IXR) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Ezra Mandira](https://open.spotify.com/artist/65TmVa8KZPj1UgvqZUuHqJ) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 3:55 | 2022-03-24 | 2023-04-14 |
 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-28 | 2023-04-14 |
+| [Sepatu Untuk Kakimu](https://open.spotify.com/track/0XQG49Kna4pWxIrj2qTiTo) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sepatu Untuk Kakimu](https://open.spotify.com/album/5sZq5UP7xmRWDtBh1WU8oD) | 3:59 | 2024-11-28 |  |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2024-03-29 |  |
 | [Sewajarnya](https://open.spotify.com/track/3Z69H2TPlcIQnPS77HQNRP) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Sewajarnya](https://open.spotify.com/album/55VKhwlEM22hG76WIQy7qL) | 4:36 | 2024-11-21 |  |

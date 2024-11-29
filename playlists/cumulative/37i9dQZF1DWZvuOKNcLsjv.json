@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Shawn Mendes",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: ROS\u00c9",
   "name": "Next Up",
   "tracks": [
     {
@@ -314,6 +314,24 @@
       "duration_ms": 147906,
       "name": "10,000 reasons",
       "url": "https://open.spotify.com/track/0gOp375c3yrCY4XkiqsBIX"
+    },
+    {
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "100",
+      "url": "https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4"
     },
     {
       "album": {
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 196241,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/7LSOTAk2XedRDne9QvIV38"
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 219536,
       "name": "Baby, with u",
       "url": "https://open.spotify.com/track/5EeLVUwIXCVHRSewdL06of"
@@ -11054,7 +11072,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 239819,
       "name": "Clock Hands",
       "url": "https://open.spotify.com/track/3Ub3oRQAqLZnbhmgKlSpsu"
@@ -11282,7 +11300,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 178446,
       "name": "Color of our destiny",
       "url": "https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5"
@@ -13202,7 +13220,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 212986,
       "name": "Day Life",
       "url": "https://open.spotify.com/track/0aVSdm3roepcBXsakDamXK"
@@ -13718,7 +13736,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -17835,6 +17853,28 @@
     },
     {
       "album": {
+        "name": "eye see",
+        "url": "https://open.spotify.com/album/2JsrGBTu4QmRQz7nkNmQMc"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        },
+        {
+          "name": "Shun Maruno",
+          "url": "https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "eye see",
+      "url": "https://open.spotify.com/track/2p4DxbMnIkVjnPLh0tyYY6"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7"
       },
@@ -19950,6 +19990,28 @@
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+    },
+    {
+      "album": {
+        "name": "REAL POP",
+        "url": "https://open.spotify.com/album/0Rhbtn4Vk9VtmTsTVWgNT5"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133173,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/7lVuMIDUkfX2CW2mZgx3TH"
     },
     {
       "album": {
@@ -25832,6 +25894,32 @@
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
       "url": "https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3"
+    },
+    {
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
       "album": {
@@ -36100,6 +36188,28 @@
       "duration_ms": 255200,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0eXQSnIT7MNP35IA5Fjo1A"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "album": {
@@ -53189,6 +53299,32 @@
     },
     {
       "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
+      "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
+    },
+    {
+      "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
@@ -57569,6 +57705,28 @@
     },
     {
       "album": {
+        "name": "TATTOO\uff08feat. \u4e2d\u68ee\u660e\u83dc\uff09",
+        "url": "https://open.spotify.com/album/41tUgk0AuMOt5JbjLAClco"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u53d6\u614e\u543e",
+          "url": "https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx"
+        },
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229376,
+      "name": "TATTOO\uff08feat. \u4e2d\u68ee\u660e\u83dc\uff09",
+      "url": "https://open.spotify.com/track/4qku92xXACrwWVfh4JQXFW"
+    },
+    {
+      "album": {
         "name": "Laundry",
         "url": "https://open.spotify.com/album/3VJOqQ5dsuWXKx9YOWfYNq"
       },
@@ -61892,7 +62050,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 319623,
       "name": "Unbalanced Blend",
       "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
@@ -69136,7 +69294,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207431,
       "name": "\u3055\u3088\u306a\u3089\u30b7\u30c6\u30a3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/0sl7EhPykXZr4Gn64XeRsb"
@@ -75216,7 +75374,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 269750,
       "name": "\u30e9\u30b9\u30c8\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/6TsbJfhKnVsM2mr9OghsqX"
@@ -76375,6 +76533,28 @@
     },
     {
       "album": {
+        "name": "\u4eca\u591c\u306fHearty Party (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/3PQ48cj9CeKNdkOZthBeDt"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292750,
+      "name": "\u4eca\u591c\u306fHearty Party (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/38lA3pwmZVRNQ9OTeYv6ec"
+    },
+    {
+      "album": {
         "name": "\u77f3\u306e\u3088\u3046\u306a\u81ea\u7531",
         "url": "https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep"
       },
@@ -77309,6 +77489,40 @@
     },
     {
       "album": {
+        "name": "\u5446\u7136",
+        "url": "https://open.spotify.com/album/0OvYAZjfdWZ6vS1A1PEvFc"
+      },
+      "artists": [
+        {
+          "name": "Dios",
+          "url": "https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu"
+        },
+        {
+          "name": "\u305f\u306a\u304b",
+          "url": "https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "sasanomaly",
+          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
+        },
+        {
+          "name": "Seiho",
+          "url": "https://open.spotify.com/artist/7FkVFC94NENRWkpvIT1a7p"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "\u5446\u7136",
+      "url": "https://open.spotify.com/track/2xsOV96ZRZ71FPovMs2ulO"
+    },
+    {
+      "album": {
         "name": "\u547c\u5438\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/6ItQ4iJTBX8j5oW6zTOlzN"
       },
@@ -77908,7 +78122,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 207707,
       "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
@@ -83045,6 +83259,24 @@
     },
     {
       "album": {
+        "name": "\u904a\u5712",
+        "url": "https://open.spotify.com/album/0PWWj0UnSb7iVE7pn7BwB5"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226992,
+      "name": "\u904a\u5712",
+      "url": "https://open.spotify.com/track/6d7HGWHR83hhq2UL4wRGZk"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30f4\u30a9\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6ZNMQgMmhyqw38uhADJWUN"
       },
@@ -83565,6 +83797,28 @@
     },
     {
       "album": {
+        "name": "HATA EXPO -The Collaboration Album-",
+        "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296062,
+      "name": "\u9752\u8449",
+      "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
+    },
+    {
+      "album": {
         "name": "BREAK",
         "url": "https://open.spotify.com/album/6KjRIkoBAyqmVUQwtFkwMd"
       },
@@ -83684,7 +83938,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 209320,
       "name": "\u9858\u3044\u306f\u304e\u3087\u3046\u3055\u3093",
       "url": "https://open.spotify.com/track/0ZXsWyV6B1qBsk3BRcQ1rR"

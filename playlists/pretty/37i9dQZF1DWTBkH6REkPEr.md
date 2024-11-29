@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,024 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,078 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 58 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |
 | 59 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
 | 60 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
-| 61 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9) | 3:41 |
-| 62 | [Tremor \- Sensation 2014 Anthem; Radio Edit](https://open.spotify.com/track/5xhlXPI81zTycdILy3e038) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Tremor \(Sensation 2014 Anthem; Radio Edit\)](https://open.spotify.com/album/0ExfeH4t1YraNIHtbhNgIi) | 3:13 |
+| 61 | [Tremor \- Sensation 2014 Anthem; Radio Edit](https://open.spotify.com/track/5xhlXPI81zTycdILy3e038) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Tremor \(Sensation 2014 Anthem; Radio Edit\)](https://open.spotify.com/album/0ExfeH4t1YraNIHtbhNgIi) | 3:13 |
+| 62 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9) | 3:41 |
 | 63 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
 | 64 | [Miami 82 \- Kygo Remix](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Armada Deep House Selection, Vol\. 3 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF) | 5:41 |
 | 65 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |

@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Shining days, shining stars!",
+        "url": "https://open.spotify.com/album/0rB9crMa6oQw5NeAcAqSgj"
+      },
+      "artists": [
+        {
+          "name": "Sphere",
+          "url": "https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315333,
+      "name": "Shining days, shining stars!",
+      "url": "https://open.spotify.com/track/0ECe8BZm9rweAvROhQlXyR"
+    },
+    {
+      "album": {
         "name": "\u03bc's Complete BEST BOX (Chapter.08)",
         "url": "https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Baby Gang in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Geolier in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 195419,
       "name": "6SEI6 (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/4cgWgEjmaMICqGyt8Tc6JU"
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/1v31aYjLpVKuECyTsVnwK4"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138239,
+      "name": "astro fa rima con cash",
+      "url": "https://open.spotify.com/track/3h4JfnjPP8A8n2QfvsPJee"
+    },
+    {
+      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1816,6 +1834,32 @@
       "duration_ms": 119329,
       "name": "Bentley (feat. Simba La Rue, J Lord)",
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
+    },
+    {
+      "album": {
+        "name": "BIKER (feat. Icy Subzero)",
+        "url": "https://open.spotify.com/album/0TSfE2ViqoJ6buvq6Igs8Z"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172041,
+      "name": "BIKER (feat. Icy Subzero)",
+      "url": "https://open.spotify.com/track/77xrznloSbe6F7aHztmu4K"
     },
     {
       "album": {
@@ -3084,7 +3128,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 186947,
       "name": "Certe bugie",
       "url": "https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV"
@@ -5994,7 +6038,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 149091,
       "name": "HELLO KITTY (feat. Sillyelly)",
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
@@ -6354,6 +6398,24 @@
       "duration_ms": 213143,
       "name": "IL BENE NEL MALE",
       "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
+    },
+    {
+      "album": {
+        "name": "Lettera Q",
+        "url": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE"
+      },
+      "artists": [
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217449,
+      "name": "Il Debito",
+      "url": "https://open.spotify.com/track/19P2sdYBJRyYMcAB527d00"
     },
     {
       "album": {
@@ -8330,7 +8392,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203100,
       "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
@@ -11274,7 +11336,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 203076,
       "name": "PURPLE RAIN (feat. Tedua)",
       "url": "https://open.spotify.com/track/5HkV4TiehOYsqP6ta1Y032"
@@ -13317,6 +13379,32 @@
     },
     {
       "album": {
+        "name": "Tip Tap",
+        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "Tip Tap",
+      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
+    },
+    {
+      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/7H6877riJIFSominCYGZx8"
       },
@@ -13350,10 +13438,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 175135,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH"
+    },
+    {
+      "album": {
+        "name": "Le cose cambiano (Deluxe)",
+        "url": "https://open.spotify.com/album/3hZVexc1qZYkcaD0FGRiyN"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195006,
+      "name": "Tony Montana (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/3HBjggKJl8udNlj2NDs8eH"
     },
     {
       "album": {
@@ -14024,7 +14134,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-29",
       "duration_ms": 165600,
       "name": "Vattene",
       "url": "https://open.spotify.com/track/212TVHw4WcbRWei01uLKma"

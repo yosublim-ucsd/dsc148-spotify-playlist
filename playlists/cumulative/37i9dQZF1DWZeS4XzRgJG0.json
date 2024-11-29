@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/5JEUPADWOtiacVATAXBMHk"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205651,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/1DVuojxZO0ow17J5Ihj53z"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },

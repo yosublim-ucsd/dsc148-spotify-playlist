@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35519,
+  "num_followers": 35521,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
+        "name": "Ist es schon wieder Abend?",
+        "url": "https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "duration_ms": 154934,
+      "name": "so als ob",
+      "url": "https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
         "name": "K\u00fcss dein Herz",
         "url": "https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 162058,
       "name": "K\u00fcss dein Herz",
       "url": "https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
-        "name": "Ist es schon wieder Abend?",
-        "url": "https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1"
-      },
-      "artists": [
-        {
-          "name": "fiora",
-          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
-        }
-      ],
-      "duration_ms": 154934,
-      "name": "so als ob",
-      "url": "https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
+        "name": "say yes",
+        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 114603,
+      "name": "say yes",
+      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
         "name": "Ich Kann's Nicht Glauben",
         "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "say yes",
-        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
         }
       ],
-      "duration_ms": 114603,
-      "name": "say yes",
-      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
+      "duration_ms": 213475,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 382460,
       "name": "Multiplying My Absurdities",
       "url": "https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 213475,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n"
     },
     {
       "added_at": "2024-11-05 23:00:00",

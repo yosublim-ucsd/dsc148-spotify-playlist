@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-280 songs - 16 hr 34 min
+281 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Do Yo Dance \(feat\. Cristal\)](https://open.spotify.com/track/6Qp5eEWuuvYaMaJhDcDhRv) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [Cristal](https://open.spotify.com/artist/6PcPCAxUSwvPKWKMyuKn0I) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:29 | 2024-02-07 |  |
 | [Doin' It](https://open.spotify.com/track/5bplVRLqSBllzC1kp32c3J) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Big Sleepover](https://open.spotify.com/album/1YGFt30HXv0gk27JjT7D6P) | 3:12 | 2024-02-07 |  |
 | [Don't You Worry](https://open.spotify.com/track/54dchlJdlVs58DRNqKH1yf) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:54 | 2024-02-07 |  |
+| [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 | 2024-11-28 |  |
 | [Drive You Crazy \(feat\. Jason Derulo & Juicy J\)](https://open.spotify.com/track/34en17vDgo4EoaFMQ0q1zk) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:50 | 2024-02-07 |  |
 | [DUH!](https://open.spotify.com/track/4ybUnkNXMJRMwFeIxQJLhH) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [DUH!](https://open.spotify.com/album/1vKBU214WJqyHyEG3TArju) | 2:11 | 2024-09-18 |  |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2024-02-07 |  |
